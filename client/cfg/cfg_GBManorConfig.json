@@ -1,0 +1,606 @@
+{
+    "1": {
+        "1": {
+            "level": 1,
+            "rank": 1,
+            "rewardRankShow": [
+                {
+                    "type": 1,
+                    "id": 353509,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1011117,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 353409,
+                    "count": 14000
+                },
+                {
+                    "type": 1,
+                    "id": 350603,
+                    "count": 4
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 1100
+                }
+            ],
+            "rewardDaily": [
+                {
+                    "type": 1,
+                    "id": 340007,
+                    "count": 4
+                },
+                {
+                    "type": 0,
+                    "id": 32,
+                    "count": 800
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 160
+                }
+            ],
+            "hongbao": 14000
+        },
+        "2": {
+            "level": 1,
+            "rank": 2,
+            "rewardRankShow": [
+                {
+                    "type": 1,
+                    "id": 353510,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1011117,
+                    "count": 18
+                },
+                {
+                    "type": 1,
+                    "id": 353410,
+                    "count": 12000
+                },
+                {
+                    "type": 1,
+                    "id": 350603,
+                    "count": 3
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 1000
+                }
+            ],
+            "rewardDaily": [
+                {
+                    "type": 1,
+                    "id": 340007,
+                    "count": 4
+                },
+                {
+                    "type": 0,
+                    "id": 32,
+                    "count": 700
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 140
+                }
+            ],
+            "hongbao": 12000
+        },
+        "3": {
+            "level": 1,
+            "rank": 3,
+            "rewardRankShow": [
+                {
+                    "type": 1,
+                    "id": 353511,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1011117,
+                    "count": 16
+                },
+                {
+                    "type": 1,
+                    "id": 353411,
+                    "count": 10000
+                },
+                {
+                    "type": 1,
+                    "id": 350603,
+                    "count": 2
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 900
+                }
+            ],
+            "rewardDaily": [
+                {
+                    "type": 1,
+                    "id": 340007,
+                    "count": 3
+                },
+                {
+                    "type": 0,
+                    "id": 32,
+                    "count": 600
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 120
+                }
+            ],
+            "hongbao": 10000
+        },
+        "4": {
+            "level": 1,
+            "rank": 4,
+            "rewardRankShow": [
+                {
+                    "type": 1,
+                    "id": 353512,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1011117,
+                    "count": 14
+                },
+                {
+                    "type": 1,
+                    "id": 353412,
+                    "count": 8000
+                },
+                {
+                    "type": 1,
+                    "id": 350603,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 800
+                }
+            ],
+            "rewardDaily": [
+                {
+                    "type": 1,
+                    "id": 340007,
+                    "count": 3
+                },
+                {
+                    "type": 0,
+                    "id": 32,
+                    "count": 500
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 100
+                }
+            ],
+            "hongbao": 8000
+        }
+    },
+    "2": {
+        "1": {
+            "level": 2,
+            "rank": 1,
+            "rewardRankShow": [
+                {
+                    "type": 1,
+                    "id": 353505,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1011117,
+                    "count": 28
+                },
+                {
+                    "type": 1,
+                    "id": 353405,
+                    "count": 25000
+                },
+                {
+                    "type": 1,
+                    "id": 350602,
+                    "count": 5
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 2400
+                }
+            ],
+            "rewardDaily": [
+                {
+                    "type": 1,
+                    "id": 340007,
+                    "count": 6
+                },
+                {
+                    "type": 0,
+                    "id": 32,
+                    "count": 1200
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 240
+                }
+            ],
+            "hongbao": 25000
+        },
+        "2": {
+            "level": 2,
+            "rank": 2,
+            "rewardRankShow": [
+                {
+                    "type": 1,
+                    "id": 353506,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1011117,
+                    "count": 26
+                },
+                {
+                    "type": 1,
+                    "id": 353406,
+                    "count": 20000
+                },
+                {
+                    "type": 1,
+                    "id": 350602,
+                    "count": 4
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 2000
+                }
+            ],
+            "rewardDaily": [
+                {
+                    "type": 1,
+                    "id": 340007,
+                    "count": 6
+                },
+                {
+                    "type": 0,
+                    "id": 32,
+                    "count": 1100
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 220
+                }
+            ],
+            "hongbao": 20000
+        },
+        "3": {
+            "level": 2,
+            "rank": 3,
+            "rewardRankShow": [
+                {
+                    "type": 1,
+                    "id": 353507,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1011117,
+                    "count": 24
+                },
+                {
+                    "type": 1,
+                    "id": 353407,
+                    "count": 18000
+                },
+                {
+                    "type": 1,
+                    "id": 350602,
+                    "count": 3
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 1600
+                }
+            ],
+            "rewardDaily": [
+                {
+                    "type": 1,
+                    "id": 340007,
+                    "count": 5
+                },
+                {
+                    "type": 0,
+                    "id": 32,
+                    "count": 1000
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 200
+                }
+            ],
+            "hongbao": 18000
+        },
+        "4": {
+            "level": 2,
+            "rank": 4,
+            "rewardRankShow": [
+                {
+                    "type": 1,
+                    "id": 353508,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1011117,
+                    "count": 22
+                },
+                {
+                    "type": 1,
+                    "id": 353408,
+                    "count": 16000
+                },
+                {
+                    "type": 1,
+                    "id": 350602,
+                    "count": 2
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 1200
+                }
+            ],
+            "rewardDaily": [
+                {
+                    "type": 1,
+                    "id": 340007,
+                    "count": 5
+                },
+                {
+                    "type": 0,
+                    "id": 32,
+                    "count": 900
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 180
+                }
+            ],
+            "hongbao": 16000
+        }
+    },
+    "3": {
+        "1": {
+            "level": 3,
+            "rank": 1,
+            "rewardRankShow": [
+                {
+                    "type": 1,
+                    "id": 380032,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 380033,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 353501,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1010117,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 353401,
+                    "count": 150000
+                },
+                {
+                    "type": 1,
+                    "id": 350601,
+                    "count": 6
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 4000
+                }
+            ],
+            "rewardDaily": [
+                {
+                    "type": 1,
+                    "id": 340007,
+                    "count": 10
+                },
+                {
+                    "type": 0,
+                    "id": 32,
+                    "count": 2000
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 400
+                }
+            ],
+            "hongbao": 150000
+        },
+        "2": {
+            "level": 3,
+            "rank": 2,
+            "rewardRankShow": [
+                {
+                    "type": 1,
+                    "id": 353502,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1011117,
+                    "count": 60
+                },
+                {
+                    "type": 1,
+                    "id": 353402,
+                    "count": 100000
+                },
+                {
+                    "type": 1,
+                    "id": 350601,
+                    "count": 5
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 3600
+                }
+            ],
+            "rewardDaily": [
+                {
+                    "type": 1,
+                    "id": 340007,
+                    "count": 9
+                },
+                {
+                    "type": 0,
+                    "id": 32,
+                    "count": 1800
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 350
+                }
+            ],
+            "hongbao": 100000
+        },
+        "3": {
+            "level": 3,
+            "rank": 3,
+            "rewardRankShow": [
+                {
+                    "type": 1,
+                    "id": 353503,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1011117,
+                    "count": 40
+                },
+                {
+                    "type": 1,
+                    "id": 353403,
+                    "count": 75000
+                },
+                {
+                    "type": 1,
+                    "id": 350601,
+                    "count": 4
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 3200
+                }
+            ],
+            "rewardDaily": [
+                {
+                    "type": 1,
+                    "id": 340007,
+                    "count": 8
+                },
+                {
+                    "type": 0,
+                    "id": 32,
+                    "count": 1600
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 300
+                }
+            ],
+            "hongbao": 75000
+        },
+        "4": {
+            "level": 3,
+            "rank": 4,
+            "rewardRankShow": [
+                {
+                    "type": 1,
+                    "id": 353504,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1011117,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 353404,
+                    "count": 50000
+                },
+                {
+                    "type": 1,
+                    "id": 350601,
+                    "count": 3
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 2800
+                }
+            ],
+            "rewardDaily": [
+                {
+                    "type": 1,
+                    "id": 340007,
+                    "count": 7
+                },
+                {
+                    "type": 0,
+                    "id": 32,
+                    "count": 1400
+                },
+                {
+                    "type": 0,
+                    "id": 5,
+                    "count": 260
+                }
+            ],
+            "hongbao": 50000
+        }
+    }
+}

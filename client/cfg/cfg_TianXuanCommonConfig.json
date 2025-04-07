@@ -1,0 +1,57 @@
+{
+    "maxMatchCount": 10,
+    "winPoint": 100,
+    "dec": "1. When the event starts, match a team and enter the dungeon. |C:0x00ff00&T: Kill enemies or collect Heaven Ore to obtain the Heaven Energy |. \n2. The team that obtains |C:0x00ff00&T:100| energy first wins. \n3. According to the War situation and player's CP, players can get extra |C:0x00ff00&T:Heaven Points|, which are used to decide the final ranking. \n4. Matching ends at: |C:0x00ff00&T:20:57 every Wed.|",
+    "decTime": "Event Time: \n20：30-21：00 every Wed.",
+    "decTime2": "Open from 20：30 to 21：00 every Wed.",
+    "mainReward": [
+        {
+            "type": 1,
+            "id": 1083027,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 727001,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 727002,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 727003,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 40,
+            "count": 1
+        }
+    ],
+    "actDec": "20:30-21:00\n(Wednesday)",
+    "actReward": [
+        {
+            "type": 1,
+            "id": 1083027,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 727001,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 727002,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 40,
+            "count": 1
+        }
+    ]
+}

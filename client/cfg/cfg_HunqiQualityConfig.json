@@ -1,0 +1,22 @@
+{
+    "1": {
+        "quality": 1,
+        "name": "Rare",
+        "itemid": 310011
+    },
+    "2": {
+        "quality": 2,
+        "name": "Epic",
+        "itemid": 310012
+    },
+    "3": {
+        "quality": 3,
+        "name": "Legendary",
+        "itemid": 310013
+    },
+    "4": {
+        "quality": 4,
+        "name": "Ancient",
+        "itemid": 310014
+    }
+}

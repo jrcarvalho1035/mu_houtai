@@ -1,0 +1,332 @@
+{
+    "0": {
+        "slot": 0,
+        "items": [
+            {
+                "type": 1,
+                "id": 651001,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 750000
+            },
+            {
+                "type": 5,
+                "value": 650000
+            },
+            {
+                "type": 11,
+                "value": 700000
+            },
+            {
+                "type": 62,
+                "value": 155000
+            }
+        ],
+        "exAttrs": [
+            {
+                "type": 9,
+                "value": 500
+            }
+        ],
+        "power": 2000000,
+        "maxLevel": 50
+    },
+    "1": {
+        "slot": 1,
+        "items": [
+            {
+                "type": 1,
+                "id": 651003,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 1,
+                "value": 12000000
+            },
+            {
+                "type": 4,
+                "value": 190000
+            },
+            {
+                "type": 6,
+                "value": 180000
+            },
+            {
+                "type": 43,
+                "value": 110000
+            }
+        ],
+        "exAttrs": [],
+        "power": 0,
+        "maxLevel": 50
+    },
+    "2": {
+        "slot": 2,
+        "items": [
+            {
+                "type": 1,
+                "id": 651002,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 6,
+                "value": 500000
+            },
+            {
+                "type": 43,
+                "value": 800000
+            }
+        ],
+        "exAttrs": [
+            {
+                "type": 41,
+                "value": 500
+            }
+        ],
+        "power": 2000000,
+        "maxLevel": 50
+    },
+    "3": {
+        "slot": 3,
+        "items": [
+            {
+                "type": 1,
+                "id": 651004,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 5,
+                "value": 250000
+            },
+            {
+                "type": 11,
+                "value": 500000
+            },
+            {
+                "type": 62,
+                "value": 100000
+            }
+        ],
+        "exAttrs": [],
+        "power": 0,
+        "maxLevel": 50
+    },
+    "4": {
+        "slot": 4,
+        "items": [
+            {
+                "type": 1,
+                "id": 651005,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 1,
+                "value": 6000000
+            },
+            {
+                "type": 4,
+                "value": 200000
+            },
+            {
+                "type": 6,
+                "value": 250000
+            },
+            {
+                "type": 43,
+                "value": 500000
+            }
+        ],
+        "exAttrs": [],
+        "power": 0,
+        "maxLevel": 50
+    },
+    "5": {
+        "slot": 5,
+        "items": [
+            {
+                "type": 1,
+                "id": 651006,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 120000
+            },
+            {
+                "type": 5,
+                "value": 300000
+            },
+            {
+                "type": 11,
+                "value": 800000
+            },
+            {
+                "type": 62,
+                "value": 80000
+            }
+        ],
+        "exAttrs": [],
+        "power": 0,
+        "maxLevel": 50
+    },
+    "6": {
+        "slot": 6,
+        "items": [
+            {
+                "type": 1,
+                "id": 651007,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 4,
+                "value": 250000
+            },
+            {
+                "type": 6,
+                "value": 325000
+            },
+            {
+                "type": 43,
+                "value": 150000
+            }
+        ],
+        "exAttrs": [],
+        "power": 0,
+        "maxLevel": 50
+    },
+    "7": {
+        "slot": 7,
+        "items": [
+            {
+                "type": 1,
+                "id": 651008,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 1,
+                "value": 5800000
+            },
+            {
+                "type": 4,
+                "value": 210000
+            },
+            {
+                "type": 6,
+                "value": 280000
+            },
+            {
+                "type": 43,
+                "value": 460000
+            }
+        ],
+        "exAttrs": [],
+        "power": 0,
+        "maxLevel": 50
+    },
+    "8": {
+        "slot": 8,
+        "items": [
+            {
+                "type": 1,
+                "id": 651009,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 600000
+            },
+            {
+                "type": 5,
+                "value": 500000
+            },
+            {
+                "type": 11,
+                "value": 1000000
+            },
+            {
+                "type": 62,
+                "value": 200000
+            }
+        ],
+        "exAttrs": [
+            {
+                "type": 9,
+                "value": 500
+            }
+        ],
+        "power": 2000000,
+        "maxLevel": 50
+    },
+    "9": {
+        "slot": 9,
+        "items": [
+            {
+                "type": 1,
+                "id": 651010,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 460000
+            },
+            {
+                "type": 5,
+                "value": 800000
+            },
+            {
+                "type": 11,
+                "value": 900000
+            },
+            {
+                "type": 62,
+                "value": 180000
+            }
+        ],
+        "exAttrs": [
+            {
+                "type": 41,
+                "value": 500
+            }
+        ],
+        "power": 2000000,
+        "maxLevel": 50
+    }
+}

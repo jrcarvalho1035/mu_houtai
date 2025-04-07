@@ -1,0 +1,92 @@
+{
+    "2": {
+        "star": 2,
+        "costItem": [],
+        "needlevel": 1,
+        "needzslevel": 10404,
+        "name": [
+            "Divine Eudemon Gear"
+        ],
+        "equipid": [
+            [
+                2142000,
+                2442000,
+                2342000,
+                2242000,
+                2542000
+            ]
+        ],
+        "viewType": 1,
+        "lineIds": [
+            [
+                2141000,
+                2441000,
+                2341000,
+                2241000,
+                2541000
+            ]
+        ]
+    },
+    "3": {
+        "star": 3,
+        "costItem": [],
+        "needlevel": 1,
+        "needzslevel": 10404,
+        "name": [
+            "Divine Eudemon Gear"
+        ],
+        "equipid": [
+            [
+                2143000,
+                2443000,
+                2343000,
+                2243000,
+                2543000
+            ]
+        ],
+        "viewType": 1,
+        "lineIds": [
+            [
+                2142000,
+                2442000,
+                2342000,
+                2242000,
+                2542000
+            ]
+        ]
+    },
+    "4": {
+        "star": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 310112,
+                "count": 500
+            }
+        ],
+        "needlevel": 1,
+        "needzslevel": 10404,
+        "name": [
+            "Divine Eudemon Gear"
+        ],
+        "equipid": [
+            [
+                2144000,
+                2444000,
+                2344000,
+                2244000,
+                2544000
+            ]
+        ],
+        "viewType": 2,
+        "lineIds": [
+            [
+                2143000,
+                2443000,
+                2343000,
+                2243000,
+                2543000
+            ]
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "1": {
+        "id": 1,
+        "needId": 1,
+        "needLevel": 0,
+        "skill": 50101,
+        "tag": [
+            341101,
+            341102,
+            341103,
+            341104,
+            341105,
+            341106
+        ],
+        "maxLevel": 2000,
+        "maxStage": 400,
+        "maxSuitLv": 600,
+        "bodyIds": [
+            101,
+            201,
+            301
+        ],
+        "name": "Natural"
+    },
+    "2": {
+        "id": 2,
+        "needId": 1,
+        "needLevel": 41,
+        "skill": 50102,
+        "tag": [
+            341201,
+            341202,
+            341203,
+            341204,
+            341205,
+            341206
+        ],
+        "maxLevel": 2000,
+        "maxStage": 400,
+        "maxSuitLv": 360,
+        "bodyIds": [
+            102,
+            202,
+            302
+        ],
+        "name": "Frigid"
+    },
+    "3": {
+        "id": 3,
+        "needId": 2,
+        "needLevel": 91,
+        "skill": 50103,
+        "tag": [
+            341301,
+            341302,
+            341303,
+            341304,
+            341305,
+            341306
+        ],
+        "maxLevel": 2000,
+        "maxStage": 400,
+        "maxSuitLv": 360,
+        "bodyIds": [
+            103,
+            203,
+            303
+        ],
+        "name": "Fiery"
+    },
+    "4": {
+        "id": 4,
+        "needId": 3,
+        "needLevel": 141,
+        "skill": 50104,
+        "tag": [
+            341401,
+            341402,
+            341403,
+            341404,
+            341405,
+            341406
+        ],
+        "maxLevel": 2000,
+        "maxStage": 200,
+        "maxSuitLv": 240,
+        "bodyIds": [
+            104,
+            204,
+            304
+        ],
+        "name": "Dark"
+    },
+    "5": {
+        "id": 5,
+        "needId": 4,
+        "needLevel": 191,
+        "skill": 50105,
+        "tag": [
+            341501,
+            341502,
+            341503,
+            341504,
+            341505,
+            341506
+        ],
+        "maxLevel": 2000,
+        "maxStage": 200,
+        "maxSuitLv": 240,
+        "bodyIds": [
+            105,
+            205,
+            305
+        ],
+        "name": "Thunder"
+    },
+    "6": {
+        "id": 6,
+        "needId": 5,
+        "needLevel": 241,
+        "skill": 50106,
+        "tag": [
+            341601,
+            341602,
+            341603,
+            341604,
+            341605,
+            341606
+        ],
+        "maxLevel": 2000,
+        "maxStage": 200,
+        "maxSuitLv": 240,
+        "bodyIds": [
+            106,
+            206,
+            306
+        ],
+        "name": "Perfect"
+    }
+}

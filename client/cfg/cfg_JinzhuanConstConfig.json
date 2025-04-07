@@ -1,0 +1,301 @@
+{
+    "drawcost": [
+        10,
+        90,
+        450
+    ],
+    "drawtimes": [
+        1,
+        10,
+        50
+    ],
+    "needyuanbao": 100,
+    "refreshtime": 120,
+    "gailvdesc": "You can claim Superb Rewards when Bless points reach a certain level\nDraw Chance:",
+    "jipinitem": [
+        {
+            "type": 1,
+            "id": 1062011,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1052011,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1062010,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1052010,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1010109,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1081009,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1082009,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1083009,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310303,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310403,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310014,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1062007,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1062006,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1052007,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1052006,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1010106,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1010105,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1081006,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1081005,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1082006,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1082005,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1083006,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1083005,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310302,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310402,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310005,
+            "count": 10
+        },
+        {
+            "type": 1,
+            "id": 310006,
+            "count": 5
+        }
+    ],
+    "zhenxiitem": [
+        {
+            "type": 1,
+            "id": 1062003,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1052003,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1062004,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1052004,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1010103,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1081003,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1082003,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1083003,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310301,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310401,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1010000,
+            "count": 5
+        },
+        {
+            "type": 1,
+            "id": 1081000,
+            "count": 5
+        },
+        {
+            "type": 1,
+            "id": 1082000,
+            "count": 5
+        },
+        {
+            "type": 1,
+            "id": 1083000,
+            "count": 5
+        },
+        {
+            "type": 1,
+            "id": 600106,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600206,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600306,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600406,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600506,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600105,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600205,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600305,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600405,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600505,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600104,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600204,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600304,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600404,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 600504,
+            "count": 1
+        }
+    ],
+    "secretcount": 6,
+    "addscore": 10
+}

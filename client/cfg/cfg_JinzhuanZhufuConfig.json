@@ -1,0 +1,106 @@
+{
+    "1": {
+        "1": {
+            "id": 1,
+            "index": 1,
+            "item": {
+                "type": 1,
+                "id": 1062004,
+                "count": 1
+            },
+            "score": 450
+        },
+        "2": {
+            "id": 1,
+            "index": 2,
+            "item": {
+                "type": 1,
+                "id": 1082004,
+                "count": 1
+            },
+            "score": 900
+        },
+        "3": {
+            "id": 1,
+            "index": 3,
+            "item": {
+                "type": 1,
+                "id": 1010105,
+                "count": 1
+            },
+            "score": 1800
+        },
+        "4": {
+            "id": 1,
+            "index": 4,
+            "item": {
+                "type": 1,
+                "id": 1083007,
+                "count": 1
+            },
+            "score": 3600
+        },
+        "5": {
+            "id": 1,
+            "index": 5,
+            "item": {
+                "type": 1,
+                "id": 1081009,
+                "count": 1
+            },
+            "score": 7200
+        }
+    },
+    "2": {
+        "1": {
+            "id": 2,
+            "index": 1,
+            "item": {
+                "type": 1,
+                "id": 220008,
+                "count": 1
+            },
+            "score": 450
+        },
+        "2": {
+            "id": 2,
+            "index": 2,
+            "item": {
+                "type": 1,
+                "id": 310005,
+                "count": 400
+            },
+            "score": 900
+        },
+        "3": {
+            "id": 2,
+            "index": 3,
+            "item": {
+                "type": 1,
+                "id": 1000004,
+                "count": 2
+            },
+            "score": 1800
+        },
+        "4": {
+            "id": 2,
+            "index": 4,
+            "item": {
+                "type": 1,
+                "id": 310014,
+                "count": 5
+            },
+            "score": 3600
+        },
+        "5": {
+            "id": 2,
+            "index": 5,
+            "item": {
+                "type": 1,
+                "id": 220010,
+                "count": 1
+            },
+            "score": 7200
+        }
+    }
+}

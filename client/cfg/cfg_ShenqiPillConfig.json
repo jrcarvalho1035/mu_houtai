@@ -1,0 +1,86 @@
+{
+    "1": {
+        "id": 1,
+        "needItemId": 1010401,
+        "attr": [
+            {
+                "type": 32,
+                "value": 120
+            },
+            {
+                "type": 5,
+                "value": 100
+            }
+        ],
+        "name": "Command Gear Soul"
+    },
+    "2": {
+        "id": 2,
+        "needItemId": 1010402,
+        "attr": [
+            {
+                "type": 32,
+                "value": 240
+            },
+            {
+                "type": 5,
+                "value": 240
+            },
+            {
+                "type": 11,
+                "value": 280
+            }
+        ],
+        "name": "Control Gear Soul"
+    },
+    "3": {
+        "id": 3,
+        "needItemId": 1010403,
+        "attr": [
+            {
+                "type": 32,
+                "value": 672
+            },
+            {
+                "type": 62,
+                "value": 288
+            },
+            {
+                "type": 5,
+                "value": 720
+            },
+            {
+                "type": 11,
+                "value": 960
+            }
+        ],
+        "name": "Overlord Gear Soul"
+    },
+    "4": {
+        "id": 4,
+        "needItemId": 1010404,
+        "attr": [
+            {
+                "type": 32,
+                "value": 33600
+            },
+            {
+                "type": 62,
+                "value": 14400
+            },
+            {
+                "type": 5,
+                "value": 36000
+            },
+            {
+                "type": 11,
+                "value": 48000
+            },
+            {
+                "type": 65,
+                "value": 100
+            }
+        ],
+        "name": "Destiny Gear Soul"
+    }
+}

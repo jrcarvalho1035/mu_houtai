@@ -1,0 +1,873 @@
+{
+    "1": {
+        "id": 1,
+        "type": 197,
+        "target": 25,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 5000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:25| players in total"
+    },
+    "2": {
+        "id": 2,
+        "type": 197,
+        "target": 50,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 5000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:50| players in total"
+    },
+    "3": {
+        "id": 3,
+        "type": 197,
+        "target": 75,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 5000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:75| players in total"
+    },
+    "4": {
+        "id": 4,
+        "type": 197,
+        "target": 100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:100| players in total"
+    },
+    "5": {
+        "id": 5,
+        "type": 197,
+        "target": 150,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:150| players in total"
+    },
+    "6": {
+        "id": 6,
+        "type": 197,
+        "target": 200,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:200| players in total"
+    },
+    "7": {
+        "id": 7,
+        "type": 197,
+        "target": 250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:250| players in total"
+    },
+    "8": {
+        "id": 8,
+        "type": 197,
+        "target": 300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:300| players in total"
+    },
+    "9": {
+        "id": 9,
+        "type": 197,
+        "target": 350,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:350| players in total"
+    },
+    "10": {
+        "id": 10,
+        "type": 197,
+        "target": 400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:400| players in total"
+    },
+    "11": {
+        "id": 11,
+        "type": 197,
+        "target": 500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:500| players in total"
+    },
+    "12": {
+        "id": 12,
+        "type": 197,
+        "target": 600,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:600| players in total"
+    },
+    "13": {
+        "id": 13,
+        "type": 197,
+        "target": 700,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:700| players in total"
+    },
+    "14": {
+        "id": 14,
+        "type": 197,
+        "target": 800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:800| players in total"
+    },
+    "15": {
+        "id": 15,
+        "type": 197,
+        "target": 900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:900| players in total"
+    },
+    "16": {
+        "id": 16,
+        "type": 197,
+        "target": 1000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:1000| players in total"
+    },
+    "17": {
+        "id": 17,
+        "type": 197,
+        "target": 1500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 80000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:1500| players in total"
+    },
+    "18": {
+        "id": 18,
+        "type": 197,
+        "target": 2000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 80000
+            }
+        ],
+        "desc": "Kill |C:0x13ee22&T:2000| players in total"
+    },
+    "19": {
+        "id": 19,
+        "type": 193,
+        "target": 3,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:3| times"
+    },
+    "20": {
+        "id": 20,
+        "type": 193,
+        "target": 6,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:6| times"
+    },
+    "21": {
+        "id": 21,
+        "type": 193,
+        "target": 10,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:10| times"
+    },
+    "22": {
+        "id": 22,
+        "type": 193,
+        "target": 15,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:15| times"
+    },
+    "23": {
+        "id": 23,
+        "type": 193,
+        "target": 20,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:20| times"
+    },
+    "24": {
+        "id": 24,
+        "type": 193,
+        "target": 25,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:25| times"
+    },
+    "25": {
+        "id": 25,
+        "type": 193,
+        "target": 30,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:30| times"
+    },
+    "26": {
+        "id": 26,
+        "type": 193,
+        "target": 35,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:35| times"
+    },
+    "27": {
+        "id": 27,
+        "type": 193,
+        "target": 40,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:40| times"
+    },
+    "28": {
+        "id": 28,
+        "type": 193,
+        "target": 50,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 40000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:50| times"
+    },
+    "29": {
+        "id": 29,
+        "type": 193,
+        "target": 60,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 40000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:60| times"
+    },
+    "30": {
+        "id": 30,
+        "type": 193,
+        "target": 70,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 40000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:70| times"
+    },
+    "31": {
+        "id": 31,
+        "type": 193,
+        "target": 80,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 40000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:80| times"
+    },
+    "32": {
+        "id": 32,
+        "type": 193,
+        "target": 90,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 40000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:90| times"
+    },
+    "33": {
+        "id": 33,
+        "type": 193,
+        "target": 100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 40000
+            }
+        ],
+        "desc": "Gain Boss ownership for |C:0x13ee22&T:100| times"
+    },
+    "34": {
+        "id": 34,
+        "type": 195,
+        "target": 10000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 5000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:10000| Wolf Soul in total"
+    },
+    "35": {
+        "id": 35,
+        "type": 195,
+        "target": 15000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 5000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:15000| Wolf Soul in total"
+    },
+    "36": {
+        "id": 36,
+        "type": 195,
+        "target": 20000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 5000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:20000| Wolf Soul in total"
+    },
+    "37": {
+        "id": 37,
+        "type": 195,
+        "target": 30000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:30000| Wolf Soul in total"
+    },
+    "38": {
+        "id": 38,
+        "type": 195,
+        "target": 60000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:60000| Wolf Soul in total"
+    },
+    "39": {
+        "id": 39,
+        "type": 195,
+        "target": 100000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:100000| Wolf Soul in total"
+    },
+    "40": {
+        "id": 40,
+        "type": 195,
+        "target": 125000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:125000| Wolf Soul in total"
+    },
+    "41": {
+        "id": 41,
+        "type": 195,
+        "target": 150000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:150000| Wolf Soul in total"
+    },
+    "42": {
+        "id": 42,
+        "type": 195,
+        "target": 175000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:175000| Wolf Soul in total"
+    },
+    "43": {
+        "id": 43,
+        "type": 195,
+        "target": 200000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 40000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:200000| Wolf Soul in total"
+    },
+    "44": {
+        "id": 44,
+        "type": 195,
+        "target": 250000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 40000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:250000| Wolf Soul in total"
+    },
+    "45": {
+        "id": 45,
+        "type": 195,
+        "target": 300000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 40000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:300000| Wolf Soul in total"
+    },
+    "46": {
+        "id": 46,
+        "type": 195,
+        "target": 400000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 60000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:400000| Wolf Soul in total"
+    },
+    "47": {
+        "id": 47,
+        "type": 195,
+        "target": 500000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 60000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:500000| Wolf Soul in total"
+    },
+    "48": {
+        "id": 48,
+        "type": 195,
+        "target": 750000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 100000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:750000| Wolf Soul in total"
+    },
+    "49": {
+        "id": 49,
+        "type": 195,
+        "target": 1000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 100000
+            }
+        ],
+        "desc": "Gain |C:0x13ee22&T:1000000| Wolf Soul in total"
+    },
+    "50": {
+        "id": 50,
+        "type": 205,
+        "target": 1,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 50000
+            }
+        ],
+        "desc": "Reach No.1 in Wolf Soul Fight |C:0x13ee22&T:once|"
+    },
+    "51": {
+        "id": 51,
+        "type": 205,
+        "target": 2,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 50000
+            }
+        ],
+        "desc": "Reach No.1 in Wolf Soul Fight |C:0x13ee22&T:twice|"
+    },
+    "52": {
+        "id": 52,
+        "type": 205,
+        "target": 3,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 50000
+            }
+        ],
+        "desc": "Reach No.1 in Wolf Soul Fight for |C:0x13ee22&T:3| times"
+    },
+    "53": {
+        "id": 53,
+        "type": 205,
+        "target": 4,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 50000
+            }
+        ],
+        "desc": "Reach No.1 in Wolf Soul Fight for |C:0x13ee22&T:4| times"
+    },
+    "54": {
+        "id": 54,
+        "type": 205,
+        "target": 5,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 50000
+            }
+        ],
+        "desc": "Reach No.1 in Wolf Soul Fight for |C:0x13ee22&T:5| times"
+    },
+    "55": {
+        "id": 55,
+        "type": 204,
+        "target": 3,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 5000
+            }
+        ],
+        "desc": "Complete Triple Kiill |C:0x13ee22&T:once|"
+    },
+    "56": {
+        "id": 56,
+        "type": 204,
+        "target": 4,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Complete Quadra Kill |C:0x13ee22&T:once|"
+    },
+    "57": {
+        "id": 57,
+        "type": 204,
+        "target": 5,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 15000
+            }
+        ],
+        "desc": "Complete Penta Kill |C:0x13ee22&T:once|"
+    },
+    "58": {
+        "id": 58,
+        "type": 204,
+        "target": 6,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 30000
+            }
+        ],
+        "desc": "Complete Hexa Kiill |C:0x13ee22&T:once|"
+    },
+    "59": {
+        "id": 59,
+        "type": 204,
+        "target": 7,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 40000
+            }
+        ],
+        "desc": "Complete Hepta Kill |C:0x13ee22&T:once|"
+    },
+    "60": {
+        "id": 60,
+        "type": 204,
+        "target": 8,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 50000
+            }
+        ],
+        "desc": "Complete Octa Kill |C:0x13ee22&T:once|"
+    },
+    "61": {
+        "id": 61,
+        "type": 204,
+        "target": 9,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 75000
+            }
+        ],
+        "desc": "Complete Nona Kill |C:0x13ee22&T:once|"
+    },
+    "62": {
+        "id": 62,
+        "type": 204,
+        "target": 10,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 100000
+            }
+        ],
+        "desc": "Complete 10 Kill Streak |C:0x13ee22&T:once|"
+    },
+    "63": {
+        "id": 63,
+        "type": 203,
+        "target": 1,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 30000
+            }
+        ],
+        "desc": "Complete First Blood |C:0x13ee22&T:once|"
+    },
+    "64": {
+        "id": 64,
+        "type": 203,
+        "target": 2,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 30000
+            }
+        ],
+        "desc": "Complete First Blood |C:0x13ee22&T:twice|"
+    },
+    "65": {
+        "id": 65,
+        "type": 203,
+        "target": 3,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 30000
+            }
+        ],
+        "desc": "Complete First Blood for |C:0x13ee22&T:3| times"
+    },
+    "66": {
+        "id": 66,
+        "type": 203,
+        "target": 4,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 30000
+            }
+        ],
+        "desc": "Complete First Blood for |C:0x13ee22&T:4| times"
+    },
+    "67": {
+        "id": 67,
+        "type": 203,
+        "target": 5,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 30000
+            }
+        ],
+        "desc": "Complete First Blood for |C:0x13ee22&T:5| times"
+    }
+}

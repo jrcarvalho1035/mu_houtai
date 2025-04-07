@@ -1,0 +1,971 @@
+{
+    "0": {
+        "stage": 0,
+        "needlevel": 10,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 0
+            },
+            {
+                "type": 99,
+                "value": 0
+            },
+            {
+                "type": 59,
+                "value": 0
+            }
+        ],
+        "power": 0
+    },
+    "1": {
+        "stage": 1,
+        "needlevel": 20,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 30000
+            },
+            {
+                "type": 99,
+                "value": 30000
+            },
+            {
+                "type": 59,
+                "value": 200
+            }
+        ],
+        "power": 500000
+    },
+    "2": {
+        "stage": 2,
+        "needlevel": 30,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 50000
+            },
+            {
+                "type": 99,
+                "value": 50000
+            },
+            {
+                "type": 59,
+                "value": 400
+            }
+        ],
+        "power": 1000000
+    },
+    "3": {
+        "stage": 3,
+        "needlevel": 40,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 80000
+            },
+            {
+                "type": 99,
+                "value": 80000
+            },
+            {
+                "type": 59,
+                "value": 600
+            }
+        ],
+        "power": 1500000
+    },
+    "4": {
+        "stage": 4,
+        "needlevel": 50,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 120000
+            },
+            {
+                "type": 99,
+                "value": 120000
+            },
+            {
+                "type": 59,
+                "value": 800
+            }
+        ],
+        "power": 2000000
+    },
+    "5": {
+        "stage": 5,
+        "needlevel": 60,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 170000
+            },
+            {
+                "type": 99,
+                "value": 170000
+            },
+            {
+                "type": 59,
+                "value": 1000
+            }
+        ],
+        "power": 2500000
+    },
+    "6": {
+        "stage": 6,
+        "needlevel": 70,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 230000
+            },
+            {
+                "type": 99,
+                "value": 230000
+            },
+            {
+                "type": 59,
+                "value": 1200
+            }
+        ],
+        "power": 3000000
+    },
+    "7": {
+        "stage": 7,
+        "needlevel": 80,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 99,
+                "value": 300000
+            },
+            {
+                "type": 59,
+                "value": 1400
+            }
+        ],
+        "power": 3500000
+    },
+    "8": {
+        "stage": 8,
+        "needlevel": 90,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 380000
+            },
+            {
+                "type": 99,
+                "value": 380000
+            },
+            {
+                "type": 59,
+                "value": 1600
+            }
+        ],
+        "power": 4000000
+    },
+    "9": {
+        "stage": 9,
+        "needlevel": 100,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 470000
+            },
+            {
+                "type": 99,
+                "value": 470000
+            },
+            {
+                "type": 59,
+                "value": 1800
+            }
+        ],
+        "power": 4500000
+    },
+    "10": {
+        "stage": 10,
+        "needlevel": 110,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 570000
+            },
+            {
+                "type": 99,
+                "value": 570000
+            },
+            {
+                "type": 59,
+                "value": 2000
+            }
+        ],
+        "power": 5000000
+    },
+    "11": {
+        "stage": 11,
+        "needlevel": 120,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 99,
+                "value": 680000
+            },
+            {
+                "type": 59,
+                "value": 2200
+            }
+        ],
+        "power": 5500000
+    },
+    "12": {
+        "stage": 12,
+        "needlevel": 130,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 99,
+                "value": 800000
+            },
+            {
+                "type": 59,
+                "value": 2400
+            }
+        ],
+        "power": 6000000
+    },
+    "13": {
+        "stage": 13,
+        "needlevel": 140,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 930000
+            },
+            {
+                "type": 99,
+                "value": 930000
+            },
+            {
+                "type": 59,
+                "value": 2600
+            }
+        ],
+        "power": 6500000
+    },
+    "14": {
+        "stage": 14,
+        "needlevel": 150,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 1070000
+            },
+            {
+                "type": 99,
+                "value": 1070000
+            },
+            {
+                "type": 59,
+                "value": 2800
+            }
+        ],
+        "power": 7000000
+    },
+    "15": {
+        "stage": 15,
+        "needlevel": 150,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 1220000
+            },
+            {
+                "type": 99,
+                "value": 1220000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "16": {
+        "stage": 16,
+        "needlevel": 160,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 1380000
+            },
+            {
+                "type": 99,
+                "value": 1380000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "17": {
+        "stage": 17,
+        "needlevel": 170,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 1550000
+            },
+            {
+                "type": 99,
+                "value": 1550000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "18": {
+        "stage": 18,
+        "needlevel": 180,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 1730000
+            },
+            {
+                "type": 99,
+                "value": 1730000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "19": {
+        "stage": 19,
+        "needlevel": 190,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 1920000
+            },
+            {
+                "type": 99,
+                "value": 1920000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "20": {
+        "stage": 20,
+        "needlevel": 200,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 2120000
+            },
+            {
+                "type": 99,
+                "value": 2120000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "21": {
+        "stage": 21,
+        "needlevel": 210,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 2330000
+            },
+            {
+                "type": 99,
+                "value": 2330000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "22": {
+        "stage": 22,
+        "needlevel": 220,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 2550000
+            },
+            {
+                "type": 99,
+                "value": 2550000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "23": {
+        "stage": 23,
+        "needlevel": 230,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 2780000
+            },
+            {
+                "type": 99,
+                "value": 2780000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "24": {
+        "stage": 24,
+        "needlevel": 240,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 3020000
+            },
+            {
+                "type": 99,
+                "value": 3020000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "25": {
+        "stage": 25,
+        "needlevel": 250,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 3270000
+            },
+            {
+                "type": 99,
+                "value": 3270000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "26": {
+        "stage": 26,
+        "needlevel": 260,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 3530000
+            },
+            {
+                "type": 99,
+                "value": 3530000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "27": {
+        "stage": 27,
+        "needlevel": 270,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 3800000
+            },
+            {
+                "type": 99,
+                "value": 3800000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "28": {
+        "stage": 28,
+        "needlevel": 280,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 4080000
+            },
+            {
+                "type": 99,
+                "value": 4080000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "29": {
+        "stage": 29,
+        "needlevel": 290,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 4370000
+            },
+            {
+                "type": 99,
+                "value": 4370000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "30": {
+        "stage": 30,
+        "needlevel": 300,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 4670000
+            },
+            {
+                "type": 99,
+                "value": 4670000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "31": {
+        "stage": 31,
+        "needlevel": 310,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 4980000
+            },
+            {
+                "type": 99,
+                "value": 4980000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "32": {
+        "stage": 32,
+        "needlevel": 320,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 5300000
+            },
+            {
+                "type": 99,
+                "value": 5300000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "33": {
+        "stage": 33,
+        "needlevel": 330,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 5630000
+            },
+            {
+                "type": 99,
+                "value": 5630000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "34": {
+        "stage": 34,
+        "needlevel": 340,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 5970000
+            },
+            {
+                "type": 99,
+                "value": 5970000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "35": {
+        "stage": 35,
+        "needlevel": 350,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 6320000
+            },
+            {
+                "type": 99,
+                "value": 6320000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "36": {
+        "stage": 36,
+        "needlevel": 360,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 6680000
+            },
+            {
+                "type": 99,
+                "value": 6680000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "37": {
+        "stage": 37,
+        "needlevel": 370,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 7050000
+            },
+            {
+                "type": 99,
+                "value": 7050000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "38": {
+        "stage": 38,
+        "needlevel": 380,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 7430000
+            },
+            {
+                "type": 99,
+                "value": 7430000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "39": {
+        "stage": 39,
+        "needlevel": 390,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 7820000
+            },
+            {
+                "type": 99,
+                "value": 7820000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "40": {
+        "stage": 40,
+        "needlevel": 400,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 8220000
+            },
+            {
+                "type": 99,
+                "value": 8220000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "41": {
+        "stage": 41,
+        "needlevel": 410,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 8630000
+            },
+            {
+                "type": 99,
+                "value": 8630000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "42": {
+        "stage": 42,
+        "needlevel": 420,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 9050000
+            },
+            {
+                "type": 99,
+                "value": 9050000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "43": {
+        "stage": 43,
+        "needlevel": 430,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 9480000
+            },
+            {
+                "type": 99,
+                "value": 9480000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "44": {
+        "stage": 44,
+        "needlevel": 440,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 9920000
+            },
+            {
+                "type": 99,
+                "value": 9920000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "45": {
+        "stage": 45,
+        "needlevel": 450,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 10370000
+            },
+            {
+                "type": 99,
+                "value": 10370000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "46": {
+        "stage": 46,
+        "needlevel": 460,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 10830000
+            },
+            {
+                "type": 99,
+                "value": 10830000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "47": {
+        "stage": 47,
+        "needlevel": 470,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 11300000
+            },
+            {
+                "type": 99,
+                "value": 11300000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "48": {
+        "stage": 48,
+        "needlevel": 480,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 11780000
+            },
+            {
+                "type": 99,
+                "value": 11780000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "49": {
+        "stage": 49,
+        "needlevel": 490,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 12270000
+            },
+            {
+                "type": 99,
+                "value": 12270000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    },
+    "50": {
+        "stage": 50,
+        "needlevel": 500,
+        "addAttr": [
+            {
+                "type": 32,
+                "value": 12770000
+            },
+            {
+                "type": 99,
+                "value": 12770000
+            },
+            {
+                "type": 59,
+                "value": 3000
+            }
+        ],
+        "power": 7500000
+    }
+}

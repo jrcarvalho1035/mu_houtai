@@ -1,0 +1,1976 @@
+{
+    "1": {
+        "id": 1,
+        "level": 100,
+        "zsLevel": 10000,
+        "fbId": 27001,
+        "bossId": 55001,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101601,
+            121601,
+            101501,
+            121501,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101601,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121601,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101601,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121601,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "level": 200,
+        "zsLevel": 10000,
+        "fbId": 27002,
+        "bossId": 55002,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101602,
+            121602,
+            101502,
+            121502,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101602,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121602,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101602,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121602,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "level": 300,
+        "zsLevel": 10000,
+        "fbId": 27003,
+        "bossId": 55003,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101603,
+            121603,
+            101503,
+            121503,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101603,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121603,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101603,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121603,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "level": 1,
+        "zsLevel": 10101,
+        "fbId": 27004,
+        "bossId": 55004,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101604,
+            121604,
+            101504,
+            121504,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101604,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121604,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101604,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121604,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "level": 1,
+        "zsLevel": 10103,
+        "fbId": 27005,
+        "bossId": 55005,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101605,
+            121605,
+            101505,
+            121505,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101605,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121605,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101605,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121605,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "level": 1,
+        "zsLevel": 10201,
+        "fbId": 27019,
+        "bossId": 55019,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101606,
+            121606,
+            101506,
+            121506,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101606,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121606,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101606,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121606,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "level": 1,
+        "zsLevel": 10203,
+        "fbId": 27006,
+        "bossId": 55006,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101607,
+            121607,
+            101507,
+            121507,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101607,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121607,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101607,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121607,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "level": 1,
+        "zsLevel": 10301,
+        "fbId": 27007,
+        "bossId": 55007,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101608,
+            121608,
+            101508,
+            121508,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101608,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121608,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101608,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121608,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "level": 1,
+        "zsLevel": 10303,
+        "fbId": 27008,
+        "bossId": 55008,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101609,
+            121609,
+            101509,
+            121509,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101609,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121609,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101609,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121609,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "10": {
+        "id": 10,
+        "level": 1,
+        "zsLevel": 10401,
+        "fbId": 27009,
+        "bossId": 55009,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101610,
+            121610,
+            101510,
+            121510,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101610,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121610,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101610,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121610,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "level": 1,
+        "zsLevel": 10501,
+        "fbId": 27010,
+        "bossId": 55010,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101611,
+            121611,
+            101511,
+            121511,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101611,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121611,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101611,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121611,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "level": 1,
+        "zsLevel": 10601,
+        "fbId": 27011,
+        "bossId": 55011,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101612,
+            121612,
+            101512,
+            121512,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101612,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121612,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101612,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121612,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "13": {
+        "id": 13,
+        "level": 1,
+        "zsLevel": 10701,
+        "fbId": 27012,
+        "bossId": 55012,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101613,
+            121613,
+            101513,
+            121513,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101613,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121613,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101613,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121613,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "14": {
+        "id": 14,
+        "level": 1,
+        "zsLevel": 10801,
+        "fbId": 27013,
+        "bossId": 55013,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101614,
+            121614,
+            101514,
+            121514,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101614,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121614,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101614,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121614,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "15": {
+        "id": 15,
+        "level": 1,
+        "zsLevel": 10901,
+        "fbId": 27014,
+        "bossId": 55014,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101615,
+            121615,
+            101515,
+            121515,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101615,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121615,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101615,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121615,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "16": {
+        "id": 16,
+        "level": 1,
+        "zsLevel": 11001,
+        "fbId": 27015,
+        "bossId": 55015,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101616,
+            121616,
+            101516,
+            121516,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101616,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121616,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101616,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121616,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "17": {
+        "id": 17,
+        "level": 1,
+        "zsLevel": 11101,
+        "fbId": 27016,
+        "bossId": 55016,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101617,
+            121617,
+            101517,
+            121517,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101617,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121617,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101617,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121617,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "18": {
+        "id": 18,
+        "level": 1,
+        "zsLevel": 11201,
+        "fbId": 27017,
+        "bossId": 55017,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101618,
+            121618,
+            101518,
+            121518,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101618,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121618,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101618,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121618,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "level": 1,
+        "zsLevel": 11301,
+        "fbId": 27018,
+        "bossId": 55018,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101619,
+            121619,
+            101519,
+            121519,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101619,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121619,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101619,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121619,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "20": {
+        "id": 20,
+        "level": 1,
+        "zsLevel": 11401,
+        "fbId": 27020,
+        "bossId": 55020,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101620,
+            121620,
+            101520,
+            121520,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101620,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121620,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101620,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121620,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    },
+    "21": {
+        "id": 21,
+        "level": 1,
+        "zsLevel": 11501,
+        "fbId": 27021,
+        "bossId": 55021,
+        "actRewards": [
+            137202,
+            200802,
+            200602,
+            200702,
+            201051,
+            200902,
+            201202,
+            200722,
+            200502,
+            500102
+        ],
+        "desc": [
+            101621,
+            121621,
+            101521,
+            121521,
+            310302,
+            310402,
+            310005,
+            310100
+        ],
+        "rewardDesc": "1. The player who has dealt the highest damage to Server Boss may gain Damage Rewards \n2. The other players who have attacked the boss as well will gain participation rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 101621,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 121621,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 0
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 101621,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 121621,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310302,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310402,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 0,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310100,
+                "count": 0,
+                "dropType": 3
+            }
+        ]
+    }
+}

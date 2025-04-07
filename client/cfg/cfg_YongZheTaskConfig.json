@@ -1,0 +1,964 @@
+{
+    "1": {
+        "1": {
+            "round": 1,
+            "id": 1,
+            "exp": 100,
+            "done": 7,
+            "target": 1,
+            "controlTarget": [
+                7
+            ],
+            "desc": "Log in daily once",
+            "name": "Daily Login"
+        },
+        "2": {
+            "round": 1,
+            "id": 2,
+            "exp": 100,
+            "done": 7,
+            "target": 5,
+            "controlTarget": [
+                5,
+                16,
+                0,
+                1
+            ],
+            "desc": "Challenge Server Boss for 5 times",
+            "name": "Server Boss Challenge"
+        },
+        "3": {
+            "round": 1,
+            "id": 3,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                2,
+                0
+            ],
+            "desc": "Clear Dragon Castle twice",
+            "name": "Clear Dragon Castle"
+        },
+        "4": {
+            "round": 1,
+            "id": 4,
+            "exp": 200,
+            "done": 7,
+            "target": 3,
+            "controlTarget": [
+                5,
+                15,
+                1,
+                1
+            ],
+            "desc": "Challenge Demon Fortress for 3 times",
+            "name": "Challenge Demon Fortress"
+        },
+        "5": {
+            "round": 1,
+            "id": 5,
+            "exp": 200,
+            "done": 7,
+            "target": 3,
+            "controlTarget": [
+                5,
+                13,
+                1,
+                1
+            ],
+            "desc": "Mine in Crystal Valley for 3 times",
+            "name": "Mine in Crystal Valley"
+        },
+        "6": {
+            "round": 1,
+            "id": 6,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                23,
+                0,
+                0
+            ],
+            "desc": "Perform Gear Hunt 2 times",
+            "name": "Gear Hunt"
+        },
+        "7": {
+            "round": 1,
+            "id": 7,
+            "exp": 100,
+            "done": 7,
+            "target": 5000,
+            "controlTarget": [
+                5,
+                10,
+                0,
+                0
+            ],
+            "desc": "Spend 5000 Diamonds daily",
+            "name": "Daily Spending Diamonds"
+        },
+        "8": {
+            "round": 1,
+            "id": 8,
+            "exp": 100,
+            "done": 7,
+            "target": 1,
+            "controlTarget": [
+                1,
+                31,
+                0
+            ],
+            "desc": "Top-up any amount daily",
+            "name": "Daily Top-up"
+        },
+        "9": {
+            "round": 1,
+            "id": 9,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Coin Dungeon 2 times",
+            "name": "Coin"
+        },
+        "10": {
+            "round": 1,
+            "id": 10,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Fairy Dungeon 2 times",
+            "name": "Fairy"
+        },
+        "11": {
+            "round": 1,
+            "id": 11,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Artifact Dungeon 2 times",
+            "name": "Artifact"
+        },
+        "12": {
+            "round": 1,
+            "id": 12,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Divine Gear Dungeon 2 times",
+            "name": "Divine Gear"
+        },
+        "13": {
+            "round": 1,
+            "id": 13,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Avatar Dungeon 2 times",
+            "name": "Avatar"
+        }
+    },
+    "2": {
+        "1": {
+            "round": 2,
+            "id": 1,
+            "exp": 100,
+            "done": 7,
+            "target": 1,
+            "controlTarget": [
+                7
+            ],
+            "desc": "Log in daily once",
+            "name": "Daily Login"
+        },
+        "2": {
+            "round": 2,
+            "id": 2,
+            "exp": 100,
+            "done": 7,
+            "target": 3,
+            "controlTarget": [
+                5,
+                16,
+                0,
+                0
+            ],
+            "desc": "Challenge Gear Boss for 3 times",
+            "name": "Gear Boss Challenge"
+        },
+        "3": {
+            "round": 2,
+            "id": 3,
+            "exp": 100,
+            "done": 7,
+            "target": 5,
+            "controlTarget": [
+                5,
+                16,
+                0,
+                1
+            ],
+            "desc": "Challenge Server Boss for 5 times",
+            "name": "Server Boss Challenge"
+        },
+        "4": {
+            "round": 2,
+            "id": 4,
+            "exp": 200,
+            "done": 7,
+            "target": 3,
+            "controlTarget": [
+                5,
+                15,
+                1,
+                0
+            ],
+            "desc": "Challenge Bloody Land for 3 times",
+            "name": "Challenge Bloody Land"
+        },
+        "5": {
+            "round": 2,
+            "id": 5,
+            "exp": 200,
+            "done": 7,
+            "target": 6,
+            "controlTarget": [
+                5,
+                13,
+                1,
+                0
+            ],
+            "desc": "Reach Red Fortress Floor 6",
+            "name": "Reach Floor 6 in Red Fortress"
+        },
+        "6": {
+            "round": 2,
+            "id": 6,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                23,
+                0,
+                1
+            ],
+            "desc": "Perform Soulgear Hunt 2 times",
+            "name": "Soulgear Hunt"
+        },
+        "7": {
+            "round": 2,
+            "id": 7,
+            "exp": 100,
+            "done": 7,
+            "target": 5000,
+            "controlTarget": [
+                5,
+                10,
+                0,
+                0
+            ],
+            "desc": "Spend 5000 Diamonds daily",
+            "name": "Daily Spending Diamonds"
+        },
+        "8": {
+            "round": 2,
+            "id": 8,
+            "exp": 100,
+            "done": 7,
+            "target": 1,
+            "controlTarget": [
+                1,
+                31,
+                0
+            ],
+            "desc": "Top-up any amount daily",
+            "name": "Daily Top-up"
+        },
+        "9": {
+            "round": 2,
+            "id": 9,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Talent Dungeon 2 times",
+            "name": "Talent"
+        },
+        "10": {
+            "round": 2,
+            "id": 10,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Mercenary Dungeon 2 times",
+            "name": "Mercenary"
+        },
+        "11": {
+            "round": 2,
+            "id": 11,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Wings Dungeon 2 times",
+            "name": "Wings"
+        },
+        "12": {
+            "round": 2,
+            "id": 12,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Merlin Dungeon 2 times",
+            "name": "Merlin"
+        },
+        "13": {
+            "round": 2,
+            "id": 13,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Avatar Dungeon 2 times",
+            "name": "Avatar"
+        }
+    },
+    "3": {
+        "1": {
+            "round": 3,
+            "id": 1,
+            "exp": 100,
+            "done": 7,
+            "target": 1,
+            "controlTarget": [
+                7
+            ],
+            "desc": "Log in daily once",
+            "name": "Daily Login"
+        },
+        "2": {
+            "round": 3,
+            "id": 2,
+            "exp": 100,
+            "done": 7,
+            "target": 10,
+            "controlTarget": [
+                1,
+                48,
+                0
+            ],
+            "desc": "Complete Exploration event 10 times",
+            "name": "Complete Exploration"
+        },
+        "3": {
+            "round": 3,
+            "id": 3,
+            "exp": 100,
+            "done": 7,
+            "target": 3,
+            "controlTarget": [
+                5,
+                16,
+                1,
+                0
+            ],
+            "desc": "Challenge Cross-server Boss 3 times",
+            "name": "Cross-server Boss Challenge"
+        },
+        "4": {
+            "round": 3,
+            "id": 4,
+            "exp": 200,
+            "done": 7,
+            "target": 3,
+            "controlTarget": [
+                5,
+                15,
+                1,
+                1
+            ],
+            "desc": "Challenge Demon Fortress for 3 times",
+            "name": "Challenge Demon Fortress"
+        },
+        "5": {
+            "round": 3,
+            "id": 5,
+            "exp": 200,
+            "done": 7,
+            "target": 5,
+            "controlTarget": [
+                5,
+                13,
+                0,
+                0
+            ],
+            "desc": "Take part in Arena for 5 times",
+            "name": "Take part in Arena"
+        },
+        "6": {
+            "round": 3,
+            "id": 6,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                23,
+                0,
+                2
+            ],
+            "desc": "Perform Rune Hunt twice",
+            "name": "Rune Hunt"
+        },
+        "7": {
+            "round": 3,
+            "id": 7,
+            "exp": 100,
+            "done": 7,
+            "target": 5000,
+            "controlTarget": [
+                5,
+                10,
+                0,
+                0
+            ],
+            "desc": "Spend 5000 Diamonds daily",
+            "name": "Daily Spending Diamonds"
+        },
+        "8": {
+            "round": 3,
+            "id": 8,
+            "exp": 100,
+            "done": 7,
+            "target": 1,
+            "controlTarget": [
+                1,
+                31,
+                0
+            ],
+            "desc": "Top-up any amount daily",
+            "name": "Daily Top-up"
+        },
+        "9": {
+            "round": 3,
+            "id": 9,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Coin Dungeon 2 times",
+            "name": "Coin"
+        },
+        "10": {
+            "round": 3,
+            "id": 10,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Avatar Dungeon 2 times",
+            "name": "Avatar"
+        },
+        "11": {
+            "round": 3,
+            "id": 11,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Wings Dungeon 2 times",
+            "name": "Wings"
+        },
+        "12": {
+            "round": 3,
+            "id": 12,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Mercenary Dungeon 2 times",
+            "name": "Mercenary"
+        },
+        "13": {
+            "round": 3,
+            "id": 13,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Artifact Dungeon 2 times",
+            "name": "Artifact"
+        }
+    },
+    "4": {
+        "1": {
+            "round": 4,
+            "id": 1,
+            "exp": 100,
+            "done": 7,
+            "target": 1,
+            "controlTarget": [
+                7
+            ],
+            "desc": "Log in daily once",
+            "name": "Daily Login"
+        },
+        "2": {
+            "round": 4,
+            "id": 2,
+            "exp": 100,
+            "done": 7,
+            "target": 3,
+            "controlTarget": [
+                5,
+                16,
+                0,
+                0
+            ],
+            "desc": "Challenge Gear Boss for 3 times",
+            "name": "Gear Boss Challenge"
+        },
+        "3": {
+            "round": 4,
+            "id": 3,
+            "exp": 100,
+            "done": 7,
+            "target": 5,
+            "controlTarget": [
+                1,
+                34,
+                0
+            ],
+            "desc": "Challenge Monster Invasion for 5 times",
+            "name": "Challenge Monster Invasion"
+        },
+        "4": {
+            "round": 4,
+            "id": 4,
+            "exp": 200,
+            "done": 7,
+            "target": 3,
+            "controlTarget": [
+                5,
+                15,
+                1,
+                0
+            ],
+            "desc": "Challenge Bloody Land for 3 times",
+            "name": "Challenge Bloody Land"
+        },
+        "5": {
+            "round": 4,
+            "id": 5,
+            "exp": 200,
+            "done": 7,
+            "target": 6,
+            "controlTarget": [
+                5,
+                13,
+                0,
+                1
+            ],
+            "desc": "Challenge King of Peaks for 6 times",
+            "name": "Challenge King of Peaks"
+        },
+        "6": {
+            "round": 4,
+            "id": 6,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                23,
+                0,
+                1
+            ],
+            "desc": "Perform Soulgear Hunt 2 times",
+            "name": "Soulgear Hunt"
+        },
+        "7": {
+            "round": 4,
+            "id": 7,
+            "exp": 100,
+            "done": 7,
+            "target": 5000,
+            "controlTarget": [
+                5,
+                10,
+                0,
+                0
+            ],
+            "desc": "Spend 5000 Diamonds daily",
+            "name": "Daily Spending Diamonds"
+        },
+        "8": {
+            "round": 4,
+            "id": 8,
+            "exp": 100,
+            "done": 7,
+            "target": 1,
+            "controlTarget": [
+                1,
+                31,
+                0
+            ],
+            "desc": "Top-up any amount daily",
+            "name": "Daily Top-up"
+        },
+        "9": {
+            "round": 4,
+            "id": 9,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Talent Dungeon 2 times",
+            "name": "Talent"
+        },
+        "10": {
+            "round": 4,
+            "id": 10,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Mercenary Dungeon 2 times",
+            "name": "Mercenary"
+        },
+        "11": {
+            "round": 4,
+            "id": 11,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Avatar Dungeon 2 times",
+            "name": "Avatar"
+        },
+        "12": {
+            "round": 4,
+            "id": 12,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Merlin Dungeon 2 times",
+            "name": "Merlin"
+        },
+        "13": {
+            "round": 4,
+            "id": 13,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Divine Gear Dungeon 2 times",
+            "name": "Divine Gear"
+        }
+    },
+    "5": {
+        "1": {
+            "round": 5,
+            "id": 1,
+            "exp": 100,
+            "done": 7,
+            "target": 1,
+            "controlTarget": [
+                7
+            ],
+            "desc": "Log in daily once",
+            "name": "Daily Login"
+        },
+        "2": {
+            "round": 5,
+            "id": 2,
+            "exp": 100,
+            "done": 7,
+            "target": 3,
+            "controlTarget": [
+                5,
+                16,
+                0,
+                0
+            ],
+            "desc": "Challenge Gear Boss for 3 times",
+            "name": "Gear Boss Challenge"
+        },
+        "3": {
+            "round": 5,
+            "id": 3,
+            "exp": 100,
+            "done": 7,
+            "target": 5,
+            "controlTarget": [
+                1,
+                34,
+                0
+            ],
+            "desc": "Challenge Monster Invasion for 5 times",
+            "name": "Challenge Monster Invasion"
+        },
+        "4": {
+            "round": 5,
+            "id": 4,
+            "exp": 200,
+            "done": 7,
+            "target": 3,
+            "controlTarget": [
+                5,
+                15,
+                1,
+                0
+            ],
+            "desc": "Challenge Bloody Land for 3 times",
+            "name": "Challenge Bloody Land"
+        },
+        "5": {
+            "round": 5,
+            "id": 5,
+            "exp": 200,
+            "done": 7,
+            "target": 6,
+            "controlTarget": [
+                5,
+                13,
+                0,
+                1
+            ],
+            "desc": "Challenge King of Peaks for 6 times",
+            "name": "Challenge King of Peaks"
+        },
+        "6": {
+            "round": 5,
+            "id": 6,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                23,
+                0,
+                1
+            ],
+            "desc": "Perform Soulgear Hunt 2 times",
+            "name": "Soulgear Hunt"
+        },
+        "7": {
+            "round": 5,
+            "id": 7,
+            "exp": 100,
+            "done": 7,
+            "target": 5000,
+            "controlTarget": [
+                5,
+                10,
+                0,
+                0
+            ],
+            "desc": "Spend 5000 Diamonds daily",
+            "name": "Daily Spending Diamonds"
+        },
+        "8": {
+            "round": 5,
+            "id": 8,
+            "exp": 100,
+            "done": 7,
+            "target": 1,
+            "controlTarget": [
+                1,
+                31,
+                0
+            ],
+            "desc": "Top-up any amount daily",
+            "name": "Daily Top-up"
+        },
+        "9": {
+            "round": 5,
+            "id": 9,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Talent Dungeon 2 times",
+            "name": "Talent"
+        },
+        "10": {
+            "round": 5,
+            "id": 10,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Mercenary Dungeon 2 times",
+            "name": "Mercenary"
+        },
+        "11": {
+            "round": 5,
+            "id": 11,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Avatar Dungeon 2 times",
+            "name": "Avatar"
+        },
+        "12": {
+            "round": 5,
+            "id": 12,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Merlin Dungeon 2 times",
+            "name": "Merlin"
+        },
+        "13": {
+            "round": 5,
+            "id": 13,
+            "exp": 100,
+            "done": 7,
+            "target": 2,
+            "controlTarget": [
+                5,
+                15,
+                0,
+                1
+            ],
+            "desc": "Challenge or raid Divine Gear Dungeon 2 times",
+            "name": "Divine Gear"
+        }
+    }
+}

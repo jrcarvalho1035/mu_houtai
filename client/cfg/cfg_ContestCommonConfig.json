@@ -1,0 +1,70 @@
+{
+    "matchFbId": 3,
+    "maxMatchCount": 15,
+    "scoreDec": "Defender Contest Info: \n1.There're |C:0x13ee22&T:15| point battles in total. During the point stage, |C:0x13ee22&T:the higher your CP is, the more points you get|\n2.Ranked in the |C:0x13ee22&T:top 10%| to become |C:0x13ee22&T:defenders|, |C:0x13ee22&T:20| defenders at most.\n3.There're |C:0x13ee22&T:7 rounds| of  contests in defender stage. |C:0x13ee22&T:2| challengers for the first round, and |C:0x13ee22&T:1 more| challengers for every following round. \n4.|C:0x13ee22&T:Rank rewards| will be sent according to your rank.",
+    "mainReward": [
+        {
+            "type": 1,
+            "id": 1082020,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 620004,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 620008,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 620005,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 620009,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 620006,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1051006,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 40,
+            "count": 1
+        }
+    ],
+    "actDec": "20:30-21:00\n(Sunday)",
+    "actReward": [
+        {
+            "type": 1,
+            "id": 1082020,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 620004,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 620008,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 40,
+            "count": 1
+        }
+    ]
+}

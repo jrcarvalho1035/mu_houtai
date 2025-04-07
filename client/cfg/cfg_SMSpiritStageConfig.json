@@ -1,0 +1,422 @@
+{
+    "1": {
+        "rank": 1,
+        "name": "Dark Spirit 1",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 5
+        },
+        "addexp": 5,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 100
+        },
+        "maxpill": [
+            10,
+            10,
+            10
+        ],
+        "power": 0
+    },
+    "2": {
+        "rank": 2,
+        "name": "Dark Spirit 2",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 10
+        },
+        "addexp": 10,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 200
+        },
+        "maxpill": [
+            20,
+            20,
+            20
+        ],
+        "power": 400000
+    },
+    "3": {
+        "rank": 3,
+        "name": "Dark Spirit 3",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 15
+        },
+        "addexp": 15,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 400
+        },
+        "maxpill": [
+            30,
+            30,
+            30
+        ],
+        "power": 1000000
+    },
+    "4": {
+        "rank": 4,
+        "name": "Dark Spirit 4",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 20
+        },
+        "addexp": 20,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 800
+        },
+        "maxpill": [
+            40,
+            40,
+            40
+        ],
+        "power": 1800000
+    },
+    "5": {
+        "rank": 5,
+        "name": "Dark Spirit 5",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 25
+        },
+        "addexp": 25,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 1200
+        },
+        "maxpill": [
+            50,
+            50,
+            50
+        ],
+        "power": 2800000
+    },
+    "6": {
+        "rank": 6,
+        "name": "Dark Spirit 6",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 30
+        },
+        "addexp": 30,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 1600
+        },
+        "maxpill": [
+            100,
+            100,
+            100
+        ],
+        "power": 4000000
+    },
+    "7": {
+        "rank": 7,
+        "name": "Dark Spirit 7",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 35
+        },
+        "addexp": 35,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 2200
+        },
+        "maxpill": [
+            150,
+            150,
+            150
+        ],
+        "power": 5400000
+    },
+    "8": {
+        "rank": 8,
+        "name": "Dark Spirit 8",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 40
+        },
+        "addexp": 40,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 3000
+        },
+        "maxpill": [
+            200,
+            200,
+            200
+        ],
+        "power": 7000000
+    },
+    "9": {
+        "rank": 9,
+        "name": "Dark Spirit 9",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 45
+        },
+        "addexp": 45,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 4000
+        },
+        "maxpill": [
+            300,
+            300,
+            300
+        ],
+        "power": 8800000
+    },
+    "10": {
+        "rank": 10,
+        "name": "Dark Spirit 10",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 50
+        },
+        "addexp": 50,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 5000
+        },
+        "maxpill": [
+            500,
+            500,
+            500
+        ],
+        "power": 10800000
+    },
+    "11": {
+        "rank": 11,
+        "name": "Dark Spirit 11",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 55
+        },
+        "addexp": 55,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 6000
+        },
+        "maxpill": [
+            750,
+            750,
+            750
+        ],
+        "power": 13000000
+    },
+    "12": {
+        "rank": 12,
+        "name": "Dark Spirit 12",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 60
+        },
+        "addexp": 60,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 7000
+        },
+        "maxpill": [
+            1000,
+            1000,
+            1000
+        ],
+        "power": 15400000
+    },
+    "13": {
+        "rank": 13,
+        "name": "Dark Spirit 13",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 65
+        },
+        "addexp": 65,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 8000
+        },
+        "maxpill": [
+            1250,
+            1250,
+            1250
+        ],
+        "power": 18000000
+    },
+    "14": {
+        "rank": 14,
+        "name": "Dark Spirit 14",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 70
+        },
+        "addexp": 70,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 9000
+        },
+        "maxpill": [
+            1500,
+            1500,
+            1500
+        ],
+        "power": 20800000
+    },
+    "15": {
+        "rank": 15,
+        "name": "Dark Spirit 15",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 75
+        },
+        "addexp": 75,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 10000
+        },
+        "maxpill": [
+            1750,
+            1750,
+            1750
+        ],
+        "power": 23800000
+    },
+    "16": {
+        "rank": 16,
+        "name": "Dark Spirit 16",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 80
+        },
+        "addexp": 80,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 11000
+        },
+        "maxpill": [
+            2000,
+            2000,
+            2000
+        ],
+        "power": 27000000
+    },
+    "17": {
+        "rank": 17,
+        "name": "Dark Spirit 17",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 85
+        },
+        "addexp": 85,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 12000
+        },
+        "maxpill": [
+            2250,
+            2250,
+            2250
+        ],
+        "power": 30400000
+    },
+    "18": {
+        "rank": 18,
+        "name": "Dark Spirit 18",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 90
+        },
+        "addexp": 90,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 13000
+        },
+        "maxpill": [
+            2500,
+            2500,
+            2500
+        ],
+        "power": 34000000
+    },
+    "19": {
+        "rank": 19,
+        "name": "Dark Spirit 19",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 95
+        },
+        "addexp": 95,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 14000
+        },
+        "maxpill": [
+            2750,
+            2750,
+            2750
+        ],
+        "power": 37800000
+    },
+    "20": {
+        "rank": 20,
+        "name": "Dark Spirit 20",
+        "feeditem": {
+            "type": 1,
+            "id": 390024,
+            "count": 100
+        },
+        "addexp": 100,
+        "needitem": {
+            "type": 1,
+            "id": 390024,
+            "count": 0
+        },
+        "maxpill": [
+            3000,
+            3000,
+            3000
+        ],
+        "power": 41800000
+    }
+}

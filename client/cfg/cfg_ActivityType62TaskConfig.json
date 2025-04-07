@@ -1,0 +1,730 @@
+{
+    "96100": {
+        "1": {
+            "id": 96100,
+            "index": 1,
+            "subType": 1,
+            "taskid": 1,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "2": {
+            "id": 96100,
+            "index": 2,
+            "subType": 1,
+            "taskid": 2,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "3": {
+            "id": 96100,
+            "index": 3,
+            "subType": 1,
+            "taskid": 3,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "4": {
+            "id": 96100,
+            "index": 4,
+            "subType": 1,
+            "taskid": 4,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "5": {
+            "id": 96100,
+            "index": 5,
+            "subType": 1,
+            "taskid": 5,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "6": {
+            "id": 96100,
+            "index": 6,
+            "subType": 1,
+            "taskid": 6,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 3
+        },
+        "7": {
+            "id": 96100,
+            "index": 7,
+            "subType": 1,
+            "taskid": 7,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 3
+        },
+        "8": {
+            "id": 96100,
+            "index": 8,
+            "subType": 1,
+            "taskid": 8,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 2
+        },
+        "9": {
+            "id": 96100,
+            "index": 9,
+            "subType": 1,
+            "taskid": 9,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 2
+        },
+        "10": {
+            "id": 96100,
+            "index": 10,
+            "subType": 1,
+            "taskid": 10,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 2
+        },
+        "11": {
+            "id": 96100,
+            "index": 11,
+            "subType": 1,
+            "taskid": 11,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 4
+        },
+        "12": {
+            "id": 96100,
+            "index": 12,
+            "subType": 1,
+            "taskid": 12,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "13": {
+            "id": 96100,
+            "index": 13,
+            "subType": 1,
+            "taskid": 13,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "14": {
+            "id": 96100,
+            "index": 14,
+            "subType": 1,
+            "taskid": 14,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "15": {
+            "id": 96100,
+            "index": 15,
+            "subType": 1,
+            "taskid": 15,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "16": {
+            "id": 96100,
+            "index": 16,
+            "subType": 1,
+            "taskid": 16,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 2
+        },
+        "17": {
+            "id": 96100,
+            "index": 17,
+            "subType": 1,
+            "taskid": 17,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 2
+        },
+        "18": {
+            "id": 96100,
+            "index": 18,
+            "subType": 1,
+            "taskid": 18,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 2
+        },
+        "19": {
+            "id": 96100,
+            "index": 19,
+            "subType": 1,
+            "taskid": 19,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 3
+        },
+        "20": {
+            "id": 96100,
+            "index": 20,
+            "subType": 1,
+            "taskid": 20,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 3
+        }
+    },
+    "96700": {
+        "1": {
+            "id": 96700,
+            "index": 1,
+            "subType": 1,
+            "taskid": 1,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "2": {
+            "id": 96700,
+            "index": 2,
+            "subType": 1,
+            "taskid": 2,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "3": {
+            "id": 96700,
+            "index": 3,
+            "subType": 1,
+            "taskid": 3,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "4": {
+            "id": 96700,
+            "index": 4,
+            "subType": 1,
+            "taskid": 4,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "5": {
+            "id": 96700,
+            "index": 5,
+            "subType": 1,
+            "taskid": 5,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "6": {
+            "id": 96700,
+            "index": 6,
+            "subType": 1,
+            "taskid": 6,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 3
+        },
+        "7": {
+            "id": 96700,
+            "index": 7,
+            "subType": 1,
+            "taskid": 7,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 3
+        },
+        "8": {
+            "id": 96700,
+            "index": 8,
+            "subType": 1,
+            "taskid": 8,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 2
+        },
+        "9": {
+            "id": 96700,
+            "index": 9,
+            "subType": 1,
+            "taskid": 9,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 2
+        },
+        "10": {
+            "id": 96700,
+            "index": 10,
+            "subType": 1,
+            "taskid": 10,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 2
+        },
+        "11": {
+            "id": 96700,
+            "index": 11,
+            "subType": 1,
+            "taskid": 11,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 4
+        },
+        "12": {
+            "id": 96700,
+            "index": 12,
+            "subType": 1,
+            "taskid": 12,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "13": {
+            "id": 96700,
+            "index": 13,
+            "subType": 1,
+            "taskid": 13,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "14": {
+            "id": 96700,
+            "index": 14,
+            "subType": 1,
+            "taskid": 14,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "15": {
+            "id": 96700,
+            "index": 15,
+            "subType": 1,
+            "taskid": 15,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "16": {
+            "id": 96700,
+            "index": 16,
+            "subType": 1,
+            "taskid": 16,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 2
+        },
+        "17": {
+            "id": 96700,
+            "index": 17,
+            "subType": 1,
+            "taskid": 17,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 2
+        },
+        "18": {
+            "id": 96700,
+            "index": 18,
+            "subType": 1,
+            "taskid": 18,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 2
+        },
+        "19": {
+            "id": 96700,
+            "index": 19,
+            "subType": 1,
+            "taskid": 19,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 3
+        },
+        "20": {
+            "id": 96700,
+            "index": 20,
+            "subType": 1,
+            "taskid": 20,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 3
+        }
+    },
+    "98300": {
+        "1": {
+            "id": 98300,
+            "index": 1,
+            "subType": 1,
+            "taskid": 1,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "2": {
+            "id": 98300,
+            "index": 2,
+            "subType": 1,
+            "taskid": 2,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "3": {
+            "id": 98300,
+            "index": 3,
+            "subType": 1,
+            "taskid": 3,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "4": {
+            "id": 98300,
+            "index": 4,
+            "subType": 1,
+            "taskid": 4,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "5": {
+            "id": 98300,
+            "index": 5,
+            "subType": 1,
+            "taskid": 5,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "6": {
+            "id": 98300,
+            "index": 6,
+            "subType": 1,
+            "taskid": 6,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 3
+        },
+        "7": {
+            "id": 98300,
+            "index": 7,
+            "subType": 1,
+            "taskid": 7,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 3
+        },
+        "8": {
+            "id": 98300,
+            "index": 8,
+            "subType": 1,
+            "taskid": 8,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 2
+        },
+        "9": {
+            "id": 98300,
+            "index": 9,
+            "subType": 1,
+            "taskid": 9,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 2
+        },
+        "10": {
+            "id": 98300,
+            "index": 10,
+            "subType": 1,
+            "taskid": 10,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 2
+        },
+        "11": {
+            "id": 98300,
+            "index": 11,
+            "subType": 1,
+            "taskid": 11,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 4
+        },
+        "12": {
+            "id": 98300,
+            "index": 12,
+            "subType": 1,
+            "taskid": 12,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "13": {
+            "id": 98300,
+            "index": 13,
+            "subType": 1,
+            "taskid": 13,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "14": {
+            "id": 98300,
+            "index": 14,
+            "subType": 1,
+            "taskid": 14,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "15": {
+            "id": 98300,
+            "index": 15,
+            "subType": 1,
+            "taskid": 15,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "16": {
+            "id": 98300,
+            "index": 16,
+            "subType": 1,
+            "taskid": 16,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 2
+        },
+        "17": {
+            "id": 98300,
+            "index": 17,
+            "subType": 1,
+            "taskid": 17,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 2
+        },
+        "18": {
+            "id": 98300,
+            "index": 18,
+            "subType": 1,
+            "taskid": 18,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 2
+        },
+        "19": {
+            "id": 98300,
+            "index": 19,
+            "subType": 1,
+            "taskid": 19,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 3
+        },
+        "20": {
+            "id": 98300,
+            "index": 20,
+            "subType": 1,
+            "taskid": 20,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 3
+        }
+    },
+    "99000": {
+        "1": {
+            "id": 99000,
+            "index": 1,
+            "subType": 1,
+            "taskid": 1,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "2": {
+            "id": 99000,
+            "index": 2,
+            "subType": 1,
+            "taskid": 2,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "3": {
+            "id": 99000,
+            "index": 3,
+            "subType": 1,
+            "taskid": 3,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "4": {
+            "id": 99000,
+            "index": 4,
+            "subType": 1,
+            "taskid": 4,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "5": {
+            "id": 99000,
+            "index": 5,
+            "subType": 1,
+            "taskid": 5,
+            "taskType": 1,
+            "taskSubType": 1,
+            "rewards": 2
+        },
+        "6": {
+            "id": 99000,
+            "index": 6,
+            "subType": 1,
+            "taskid": 6,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 3
+        },
+        "7": {
+            "id": 99000,
+            "index": 7,
+            "subType": 1,
+            "taskid": 7,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 3
+        },
+        "8": {
+            "id": 99000,
+            "index": 8,
+            "subType": 1,
+            "taskid": 8,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 2
+        },
+        "9": {
+            "id": 99000,
+            "index": 9,
+            "subType": 1,
+            "taskid": 9,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 2
+        },
+        "10": {
+            "id": 99000,
+            "index": 10,
+            "subType": 1,
+            "taskid": 10,
+            "taskType": 2,
+            "taskSubType": 2,
+            "rewards": 2
+        },
+        "11": {
+            "id": 99000,
+            "index": 11,
+            "subType": 1,
+            "taskid": 11,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 4
+        },
+        "12": {
+            "id": 99000,
+            "index": 12,
+            "subType": 1,
+            "taskid": 12,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "13": {
+            "id": 99000,
+            "index": 13,
+            "subType": 1,
+            "taskid": 13,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "14": {
+            "id": 99000,
+            "index": 14,
+            "subType": 1,
+            "taskid": 14,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "15": {
+            "id": 99000,
+            "index": 15,
+            "subType": 1,
+            "taskid": 15,
+            "taskType": 3,
+            "taskSubType": 3,
+            "rewards": 3
+        },
+        "16": {
+            "id": 99000,
+            "index": 16,
+            "subType": 1,
+            "taskid": 16,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 2
+        },
+        "17": {
+            "id": 99000,
+            "index": 17,
+            "subType": 1,
+            "taskid": 17,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 2
+        },
+        "18": {
+            "id": 99000,
+            "index": 18,
+            "subType": 1,
+            "taskid": 18,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 2
+        },
+        "19": {
+            "id": 99000,
+            "index": 19,
+            "subType": 1,
+            "taskid": 19,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 3
+        },
+        "20": {
+            "id": 99000,
+            "index": 20,
+            "subType": 1,
+            "taskid": 20,
+            "taskType": 4,
+            "taskSubType": 4,
+            "rewards": 3
+        }
+    }
+}

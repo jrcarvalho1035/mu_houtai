@@ -1,0 +1,612 @@
+{
+    "0": {
+        "1": {
+            "pondid": 0,
+            "id": 1,
+            "item": {
+                "type": 1,
+                "id": 181507,
+                "count": 1
+            },
+            "probability1": 1,
+            "probability2": 1,
+            "probability3": 5,
+            "show": 7,
+            "status": 0,
+            "xiyou": 1
+        },
+        "2": {
+            "pondid": 0,
+            "id": 2,
+            "item": {
+                "type": 1,
+                "id": 191507,
+                "count": 1
+            },
+            "probability1": 1,
+            "probability2": 1,
+            "probability3": 5,
+            "show": 8,
+            "status": 0,
+            "xiyou": 1
+        },
+        "3": {
+            "pondid": 0,
+            "id": 3,
+            "item": {
+                "type": 1,
+                "id": 1010105,
+                "count": 1
+            },
+            "probability1": 5,
+            "probability2": 5,
+            "probability3": 25,
+            "show": 6,
+            "status": 0,
+            "xiyou": 1
+        },
+        "4": {
+            "pondid": 0,
+            "id": 4,
+            "item": {
+                "type": 1,
+                "id": 1081005,
+                "count": 1
+            },
+            "probability1": 5,
+            "probability2": 5,
+            "probability3": 25,
+            "show": 9,
+            "status": 0,
+            "xiyou": 1
+        },
+        "5": {
+            "pondid": 0,
+            "id": 5,
+            "item": {
+                "type": 1,
+                "id": 1061002,
+                "count": 1
+            },
+            "probability1": 800,
+            "probability2": 800,
+            "probability3": 800,
+            "show": 3,
+            "status": 0,
+            "xiyou": 0
+        },
+        "6": {
+            "pondid": 0,
+            "id": 6,
+            "item": {
+                "type": 1,
+                "id": 1051002,
+                "count": 1
+            },
+            "probability1": 800,
+            "probability2": 800,
+            "probability3": 800,
+            "show": 12,
+            "status": 0,
+            "xiyou": 0
+        },
+        "7": {
+            "pondid": 0,
+            "id": 7,
+            "item": {
+                "type": 1,
+                "id": 1011101,
+                "count": 1
+            },
+            "probability1": 200,
+            "probability2": 200,
+            "probability3": 200,
+            "show": 4,
+            "status": 0,
+            "xiyou": 0
+        },
+        "8": {
+            "pondid": 0,
+            "id": 8,
+            "item": {
+                "type": 1,
+                "id": 1084001,
+                "count": 1
+            },
+            "probability1": 200,
+            "probability2": 200,
+            "probability3": 200,
+            "show": 11,
+            "status": 0,
+            "xiyou": 0
+        },
+        "9": {
+            "pondid": 0,
+            "id": 9,
+            "item": {
+                "type": 1,
+                "id": 1061004,
+                "count": 1
+            },
+            "probability1": 20,
+            "probability2": 20,
+            "probability3": 20,
+            "show": 1,
+            "status": 0,
+            "xiyou": 0
+        },
+        "10": {
+            "pondid": 0,
+            "id": 10,
+            "item": {
+                "type": 1,
+                "id": 1051004,
+                "count": 1
+            },
+            "probability1": 20,
+            "probability2": 20,
+            "probability3": 20,
+            "show": 5,
+            "status": 0,
+            "xiyou": 0
+        },
+        "11": {
+            "pondid": 0,
+            "id": 11,
+            "item": {
+                "type": 1,
+                "id": 1071004,
+                "count": 1
+            },
+            "probability1": 20,
+            "probability2": 20,
+            "probability3": 20,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "12": {
+            "pondid": 0,
+            "id": 12,
+            "item": {
+                "type": 1,
+                "id": 1010402,
+                "count": 1
+            },
+            "probability1": 20,
+            "probability2": 20,
+            "probability3": 20,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "13": {
+            "pondid": 0,
+            "id": 13,
+            "item": {
+                "type": 1,
+                "id": 1081402,
+                "count": 1
+            },
+            "probability1": 20,
+            "probability2": 20,
+            "probability3": 20,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "14": {
+            "pondid": 0,
+            "id": 14,
+            "item": {
+                "type": 1,
+                "id": 310024,
+                "count": 1
+            },
+            "probability1": 2000,
+            "probability2": 2000,
+            "probability3": 2000,
+            "show": 2,
+            "status": 0,
+            "xiyou": 0
+        },
+        "15": {
+            "pondid": 0,
+            "id": 15,
+            "item": {
+                "type": 1,
+                "id": 310025,
+                "count": 1
+            },
+            "probability1": 1988,
+            "probability2": 1988,
+            "probability3": 1940,
+            "show": 13,
+            "status": 0,
+            "xiyou": 0
+        },
+        "16": {
+            "pondid": 0,
+            "id": 16,
+            "item": {
+                "type": 1,
+                "id": 1061003,
+                "count": 1
+            },
+            "probability1": 80,
+            "probability2": 80,
+            "probability3": 80,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "17": {
+            "pondid": 0,
+            "id": 17,
+            "item": {
+                "type": 1,
+                "id": 1051003,
+                "count": 1
+            },
+            "probability1": 80,
+            "probability2": 80,
+            "probability3": 80,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "18": {
+            "pondid": 0,
+            "id": 18,
+            "item": {
+                "type": 1,
+                "id": 1071003,
+                "count": 1
+            },
+            "probability1": 80,
+            "probability2": 80,
+            "probability3": 80,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "19": {
+            "pondid": 0,
+            "id": 19,
+            "item": {
+                "type": 1,
+                "id": 1010401,
+                "count": 1
+            },
+            "probability1": 80,
+            "probability2": 80,
+            "probability3": 80,
+            "show": 10,
+            "status": 0,
+            "xiyou": 0
+        },
+        "20": {
+            "pondid": 0,
+            "id": 20,
+            "item": {
+                "type": 1,
+                "id": 1081401,
+                "count": 1
+            },
+            "probability1": 80,
+            "probability2": 80,
+            "probability3": 80,
+            "show": 14,
+            "status": 0,
+            "xiyou": 0
+        },
+        "21": {
+            "pondid": 0,
+            "id": 21,
+            "item": {
+                "type": 1,
+                "id": 600103,
+                "count": 1
+            },
+            "probability1": 100,
+            "probability2": 100,
+            "probability3": 100,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "22": {
+            "pondid": 0,
+            "id": 22,
+            "item": {
+                "type": 1,
+                "id": 600203,
+                "count": 1
+            },
+            "probability1": 100,
+            "probability2": 100,
+            "probability3": 100,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "23": {
+            "pondid": 0,
+            "id": 23,
+            "item": {
+                "type": 1,
+                "id": 600303,
+                "count": 1
+            },
+            "probability1": 100,
+            "probability2": 100,
+            "probability3": 100,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "24": {
+            "pondid": 0,
+            "id": 24,
+            "item": {
+                "type": 1,
+                "id": 600403,
+                "count": 1
+            },
+            "probability1": 100,
+            "probability2": 100,
+            "probability3": 100,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "25": {
+            "pondid": 0,
+            "id": 25,
+            "item": {
+                "type": 1,
+                "id": 600503,
+                "count": 1
+            },
+            "probability1": 100,
+            "probability2": 100,
+            "probability3": 100,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "26": {
+            "pondid": 0,
+            "id": 26,
+            "item": {
+                "type": 1,
+                "id": 600102,
+                "count": 1
+            },
+            "probability1": 200,
+            "probability2": 200,
+            "probability3": 200,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "27": {
+            "pondid": 0,
+            "id": 27,
+            "item": {
+                "type": 1,
+                "id": 600202,
+                "count": 1
+            },
+            "probability1": 200,
+            "probability2": 200,
+            "probability3": 200,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "28": {
+            "pondid": 0,
+            "id": 28,
+            "item": {
+                "type": 1,
+                "id": 600302,
+                "count": 1
+            },
+            "probability1": 200,
+            "probability2": 200,
+            "probability3": 200,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "29": {
+            "pondid": 0,
+            "id": 29,
+            "item": {
+                "type": 1,
+                "id": 600402,
+                "count": 1
+            },
+            "probability1": 200,
+            "probability2": 200,
+            "probability3": 200,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "30": {
+            "pondid": 0,
+            "id": 30,
+            "item": {
+                "type": 1,
+                "id": 600502,
+                "count": 1
+            },
+            "probability1": 200,
+            "probability2": 200,
+            "probability3": 200,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "31": {
+            "pondid": 0,
+            "id": 31,
+            "item": {
+                "type": 1,
+                "id": 600101,
+                "count": 1
+            },
+            "probability1": 400,
+            "probability2": 400,
+            "probability3": 400,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "32": {
+            "pondid": 0,
+            "id": 32,
+            "item": {
+                "type": 1,
+                "id": 600201,
+                "count": 1
+            },
+            "probability1": 400,
+            "probability2": 400,
+            "probability3": 400,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "33": {
+            "pondid": 0,
+            "id": 33,
+            "item": {
+                "type": 1,
+                "id": 600301,
+                "count": 1
+            },
+            "probability1": 400,
+            "probability2": 400,
+            "probability3": 400,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "34": {
+            "pondid": 0,
+            "id": 34,
+            "item": {
+                "type": 1,
+                "id": 600401,
+                "count": 1
+            },
+            "probability1": 400,
+            "probability2": 400,
+            "probability3": 400,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        },
+        "35": {
+            "pondid": 0,
+            "id": 35,
+            "item": {
+                "type": 1,
+                "id": 600501,
+                "count": 1
+            },
+            "probability1": 400,
+            "probability2": 400,
+            "probability3": 400,
+            "show": 0,
+            "status": 0,
+            "xiyou": 0
+        }
+    },
+    "1": {
+        "1": {
+            "pondid": 1,
+            "id": 1,
+            "item": {
+                "type": 1,
+                "id": 181507,
+                "count": 1
+            },
+            "probability1": 10000,
+            "probability2": 10000,
+            "probability3": 10000,
+            "show": 0,
+            "status": 0,
+            "xiyou": 1
+        }
+    },
+    "2": {
+        "1": {
+            "pondid": 2,
+            "id": 1,
+            "item": {
+                "type": 1,
+                "id": 191507,
+                "count": 1
+            },
+            "probability1": 10000,
+            "probability2": 10000,
+            "probability3": 10000,
+            "show": 0,
+            "status": 0,
+            "xiyou": 1
+        }
+    },
+    "3": {
+        "1": {
+            "pondid": 3,
+            "id": 1,
+            "item": {
+                "type": 1,
+                "id": 181507,
+                "count": 1
+            },
+            "probability1": 5000,
+            "probability2": 5000,
+            "probability3": 5000,
+            "show": 0,
+            "status": 0,
+            "xiyou": 1
+        },
+        "2": {
+            "pondid": 3,
+            "id": 2,
+            "item": {
+                "type": 1,
+                "id": 191507,
+                "count": 1
+            },
+            "probability1": 5000,
+            "probability2": 5000,
+            "probability3": 5000,
+            "show": 0,
+            "status": 0,
+            "xiyou": 1
+        }
+    },
+    "50": {
+        "1": {
+            "pondid": 50,
+            "id": 1,
+            "item": {
+                "type": 1,
+                "id": 1010103,
+                "count": 1
+            },
+            "probability1": 10000,
+            "probability2": 10000,
+            "probability3": 10000,
+            "show": 0,
+            "status": 1,
+            "xiyou": 1
+        }
+    }
+}

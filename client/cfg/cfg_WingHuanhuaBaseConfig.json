@@ -1,0 +1,3818 @@
+{
+    "1": {
+        "id": 1,
+        "quality": 3,
+        "srQuality": 1,
+        "name": [
+            "Demon Wings",
+            "Angel Wings",
+            "Fairy Wings"
+        ],
+        "dec": "Online Rewards",
+        "power": 10000,
+        "groupId": 1,
+        "wingIds": [
+            101,
+            201,
+            301
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000
+            },
+            {
+                "type": 1,
+                "value": 20000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081001,
+                "count": 1
+            }
+        ],
+        "maxLevel": 6000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "2": {
+        "id": 2,
+        "quality": 3,
+        "srQuality": 1,
+        "name": [
+            "Dark Wings",
+            "Magic Wings",
+            "Sparkling Wings"
+        ],
+        "dec": "Sale Pack",
+        "power": 30000,
+        "groupId": 1,
+        "wingIds": [
+            102,
+            202,
+            302
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 3000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081002,
+                "count": 1
+            }
+        ],
+        "maxLevel": 6000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "3": {
+        "id": 3,
+        "quality": 3,
+        "srQuality": 2,
+        "name": [
+            "Berserk Wings",
+            "Lucky Wings",
+            "Gustvore Wings"
+        ],
+        "dec": "Gear Hunt",
+        "power": 60000,
+        "groupId": 1,
+        "wingIds": [
+            103,
+            203,
+            303
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 6000
+            },
+            {
+                "type": 1,
+                "value": 120000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081003,
+                "count": 1
+            }
+        ],
+        "maxLevel": 6000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "4": {
+        "id": 4,
+        "quality": 3,
+        "srQuality": 2,
+        "name": [
+            "Punishment Wings",
+            "Reality Wings",
+            "Nimble Wings"
+        ],
+        "dec": "Gear Hunt",
+        "power": 100000,
+        "groupId": 1,
+        "wingIds": [
+            104,
+            204,
+            304
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 10000
+            },
+            {
+                "type": 1,
+                "value": 200000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081004,
+                "count": 1
+            }
+        ],
+        "maxLevel": 6000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "5": {
+        "id": 5,
+        "quality": 4,
+        "srQuality": 2,
+        "name": [
+            "Bloodfume Wings",
+            "Holy Wings",
+            "Healing Wings"
+        ],
+        "dec": "Login Rewards",
+        "power": 200000,
+        "groupId": 2,
+        "wingIds": [
+            105,
+            205,
+            305
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 15600
+            },
+            {
+                "type": 1,
+                "value": 320000
+            },
+            {
+                "type": 6,
+                "value": 10500
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081005,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "6": {
+        "id": 6,
+        "quality": 4,
+        "srQuality": 3,
+        "name": [
+            "Gargoyle Wings",
+            "Revelation Wings",
+            "Life Wings"
+        ],
+        "dec": "$1 Gift",
+        "power": 300000,
+        "groupId": 2,
+        "wingIds": [
+            106,
+            206,
+            306
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 24000
+            },
+            {
+                "type": 1,
+                "value": 480000
+            },
+            {
+                "type": 62,
+                "value": 6000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081006,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "7": {
+        "id": 7,
+        "quality": 4,
+        "srQuality": 3,
+        "name": [
+            "Crimson Wings",
+            "Glory Wings",
+            "Ethereal Wings"
+        ],
+        "dec": "Top-up Streak",
+        "power": 500000,
+        "groupId": 2,
+        "wingIds": [
+            107,
+            207,
+            307
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 40000
+            },
+            {
+                "type": 1,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081007,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "8": {
+        "id": 8,
+        "quality": 4,
+        "srQuality": 3,
+        "name": [
+            "Evilflame Wings",
+            "Stellar Wings",
+            "Moonlight Wings"
+        ],
+        "dec": "SVIP5",
+        "power": 800000,
+        "groupId": 2,
+        "wingIds": [
+            108,
+            208,
+            308
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 65600
+            },
+            {
+                "type": 1,
+                "value": 1312000
+            },
+            {
+                "type": 5,
+                "value": 36000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081008,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "9": {
+        "id": 9,
+        "quality": 5,
+        "srQuality": 3,
+        "name": [
+            "Wyvern Wings",
+            "Sacred Wings",
+            "Spirit Wings"
+        ],
+        "dec": "Rank total top-up",
+        "power": 1350000,
+        "groupId": 3,
+        "wingIds": [
+            109,
+            209,
+            309
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 105300
+            },
+            {
+                "type": 1,
+                "value": 2160000
+            },
+            {
+                "type": 6,
+                "value": 70875
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081009,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1600,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "10": {
+        "id": 10,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Furyblast Wings",
+            "Beelzebub Wings",
+            "Phantom Wings"
+        ],
+        "dec": "Opening Rank",
+        "power": 2600000,
+        "groupId": 3,
+        "wingIds": [
+            110,
+            210,
+            310
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 208000
+            },
+            {
+                "type": 1,
+                "value": 4160000
+            },
+            {
+                "type": 62,
+                "value": 52000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081010,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "11": {
+        "id": 11,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Storm Wings",
+            "Chrono Wings",
+            "Dazzling Wings"
+        ],
+        "dec": "SVIP10",
+        "power": 4500000,
+        "groupId": 3,
+        "wingIds": [
+            111,
+            211,
+            311
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 360000
+            },
+            {
+                "type": 1,
+                "value": 7200000
+            },
+            {
+                "type": 4,
+                "value": 180000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081011,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "12": {
+        "id": 12,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Warlord Wings",
+            "Genesis Wings",
+            "Wisdom Wings"
+        ],
+        "dec": "SVIP13",
+        "power": 8000000,
+        "groupId": 3,
+        "wingIds": [
+            112,
+            212,
+            312
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 656000
+            },
+            {
+                "type": 1,
+                "value": 13120000
+            },
+            {
+                "type": 5,
+                "value": 360000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081012,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "13": {
+        "id": 13,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Star Wings",
+            "Star Wings",
+            "Star Wings"
+        ],
+        "dec": "Event",
+        "power": 5000000,
+        "groupId": 4,
+        "wingIds": [
+            113,
+            213,
+            313
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 62,
+                "value": 100000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081013,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "14": {
+        "id": 14,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Golden Wings",
+            "Golden Wings",
+            "Golden Wings"
+        ],
+        "dec": "Event",
+        "power": 6000000,
+        "groupId": 4,
+        "wingIds": [
+            114,
+            214,
+            314
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 500000
+            },
+            {
+                "type": 1,
+                "value": 10000000
+            },
+            {
+                "type": 6,
+                "value": 250000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081014,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "15": {
+        "id": 15,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Divinelight Wings",
+            "Divinelight Wings",
+            "Divinelight Wings"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "groupId": 4,
+        "wingIds": [
+            115,
+            215,
+            315
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 12000000
+            },
+            {
+                "type": 6,
+                "value": 500000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081015,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "16": {
+        "id": 16,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Ice Demon Wings",
+            "Ice Demon Wings",
+            "Ice Demon Wings"
+        ],
+        "dec": "Avatar War",
+        "power": 6000000,
+        "groupId": 4,
+        "wingIds": [
+            116,
+            216,
+            316
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 500000
+            },
+            {
+                "type": 1,
+                "value": 10000000
+            },
+            {
+                "type": 5,
+                "value": 250000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081016,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "17": {
+        "id": 17,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Love Heart Wings",
+            "Love Heart Wings",
+            "Love Heart Wings"
+        ],
+        "dec": "Valentine's Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            117,
+            217,
+            317
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 700000
+            },
+            {
+                "type": 1,
+                "value": 14000000
+            },
+            {
+                "type": 62,
+                "value": 300000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081017,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "18": {
+        "id": 18,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Holy Wings",
+            "Holy Wings",
+            "Holy Wings"
+        ],
+        "dec": "Teacher's Day Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            118,
+            218,
+            318
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 720000
+            },
+            {
+                "type": 1,
+                "value": 13600000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081018,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Crystal Wings",
+            "Crystal Wings",
+            "Crystal Wings"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "groupId": 4,
+        "wingIds": [
+            119,
+            219,
+            319
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 592000
+            },
+            {
+                "type": 1,
+                "value": 11840000
+            },
+            {
+                "type": 6,
+                "value": 520000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081019,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "20": {
+        "id": 20,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Blizzard Wings",
+            "Blizzard Wings",
+            "Blizzard Wings"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            120,
+            220,
+            320
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 720000
+            },
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 62,
+                "value": 280000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081020,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "21": {
+        "id": 21,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Frost Wings",
+            "Frost Wings",
+            "Frost Wings"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            121,
+            221,
+            321
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 740000
+            },
+            {
+                "type": 1,
+                "value": 14800000
+            },
+            {
+                "type": 6,
+                "value": 650000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081021,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "22": {
+        "id": 22,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Plum Blossom Wings",
+            "Plum Blossom Wings",
+            "Plum Blossom Wings"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            122,
+            222,
+            322
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 700000
+            },
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 580000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081022,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "23": {
+        "id": 23,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Lucky Star",
+            "Lucky Star",
+            "Lucky Star"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            123,
+            223,
+            323
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 690000
+            },
+            {
+                "type": 1,
+                "value": 15000000
+            },
+            {
+                "type": 4,
+                "value": 560000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081023,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "24": {
+        "id": 24,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Gilding Wings",
+            "Gilding Wings",
+            "Gilding Wings"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "groupId": 4,
+        "wingIds": [
+            124,
+            224,
+            324
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 576000
+            },
+            {
+                "type": 1,
+                "value": 11520000
+            },
+            {
+                "type": 62,
+                "value": 224000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081024,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "25": {
+        "id": 25,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Excellent Wings",
+            "Excellent Wings",
+            "Excellent Wings"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            125,
+            225,
+            325
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 690000
+            },
+            {
+                "type": 1,
+                "value": 14200000
+            },
+            {
+                "type": 6,
+                "value": 750000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081025,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "26": {
+        "id": 26,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Mecha Storm",
+            "Mecha Storm",
+            "Mecha Storm"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            126,
+            226,
+            326
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 706000
+            },
+            {
+                "type": 1,
+                "value": 14080000
+            },
+            {
+                "type": 4,
+                "value": 590000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081026,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "27": {
+        "id": 27,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Battle Drum",
+            "Battle Drum",
+            "Battle Drum"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            127,
+            227,
+            327
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 730000
+            },
+            {
+                "type": 1,
+                "value": 14200000
+            },
+            {
+                "type": 6,
+                "value": 700000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081027,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "28": {
+        "id": 28,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Scorching Golem",
+            "Scorching Golem",
+            "Scorching Golem"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            128,
+            228,
+            328
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 700000
+            },
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 62,
+                "value": 290000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081028,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "29": {
+        "id": 29,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Fantasy Wings",
+            "Fantasy Wings",
+            "Fantasy Wings"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            129,
+            229,
+            329
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 706000
+            },
+            {
+                "type": 1,
+                "value": 14200000
+            },
+            {
+                "type": 4,
+                "value": 584000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081029,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "30": {
+        "id": 30,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Champion Wings",
+            "Champion Wings",
+            "Champion Wings"
+        ],
+        "dec": "Event",
+        "power": 8000000,
+        "groupId": 4,
+        "wingIds": [
+            130,
+            230,
+            330
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 564800
+            },
+            {
+                "type": 1,
+                "value": 11360000
+            },
+            {
+                "type": 4,
+                "value": 467200
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081030,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "31": {
+        "id": 31,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Star Phantom Wings",
+            "Star Phantom Wings",
+            "Star Phantom Wings"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            131,
+            231,
+            331
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 6,
+                "value": 750000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081031,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "32": {
+        "id": 32,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Chaotic Flame Wings",
+            "Chaotic Flame Wings",
+            "Chaotic Flame Wings"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "groupId": 4,
+        "wingIds": [
+            132,
+            232,
+            332
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 544000
+            },
+            {
+                "type": 1,
+                "value": 11520000
+            },
+            {
+                "type": 6,
+                "value": 600000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081032,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "33": {
+        "id": 33,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Resplendent Moon",
+            "Resplendent Moon",
+            "Resplendent Moon"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            133,
+            233,
+            333
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 710000
+            },
+            {
+                "type": 1,
+                "value": 14200000
+            },
+            {
+                "type": 62,
+                "value": 290000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081033,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "34": {
+        "id": 34,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "New Energy Wings",
+            "New Energy Wings",
+            "New Energy Wings"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            134,
+            234,
+            334
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 700000
+            },
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 580000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081034,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "35": {
+        "id": 35,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Glacial Wings",
+            "Glacial Wings",
+            "Glacial Wings"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            135,
+            235,
+            335
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 720000
+            },
+            {
+                "type": 1,
+                "value": 13600000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081035,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "36": {
+        "id": 36,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Auspicious Lions",
+            "Auspicious Lions",
+            "Auspicious Lions"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            136,
+            236,
+            336
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 720000
+            },
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 62,
+                "value": 280000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081036,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "37": {
+        "id": 37,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Energy Wings",
+            "Energy Wings",
+            "Energy Wings"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "groupId": 4,
+        "wingIds": [
+            137,
+            237,
+            337
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 576000
+            },
+            {
+                "type": 1,
+                "value": 11520000
+            },
+            {
+                "type": 62,
+                "value": 224000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081037,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "38": {
+        "id": 38,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Easter Wings",
+            "Easter Wings",
+            "Easter Wings"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            138,
+            238,
+            338
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1400000
+            },
+            {
+                "type": 1,
+                "value": 28800000
+            },
+            {
+                "type": 4,
+                "value": 1160000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081038,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "39": {
+        "id": 39,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Selfless Love",
+            "Selfless Love",
+            "Selfless Love"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            139,
+            239,
+            339
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1360000
+            },
+            {
+                "type": 1,
+                "value": 28800000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081039,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "40": {
+        "id": 40,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Pinwheel Wings",
+            "Pinwheel Wings",
+            "Pinwheel Wings"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            140,
+            240,
+            340
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1400000
+            },
+            {
+                "type": 1,
+                "value": 28800000
+            },
+            {
+                "type": 62,
+                "value": 580000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081040,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "41": {
+        "id": 41,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Heavy Machines",
+            "Heavy Machines",
+            "Heavy Machines"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            141,
+            241,
+            341
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1412000
+            },
+            {
+                "type": 1,
+                "value": 28400000
+            },
+            {
+                "type": 4,
+                "value": 1168000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081041,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "42": {
+        "id": 42,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Flowing Light Wings",
+            "Flowing Light Wings",
+            "Flowing Light Wings"
+        ],
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            142,
+            242,
+            342
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 706000
+            },
+            {
+                "type": 1,
+                "value": 14200000
+            },
+            {
+                "type": 4,
+                "value": 584000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081042,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "43": {
+        "id": 43,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Gaming Light Wings",
+            "Gaming Light Wings",
+            "Gaming Light Wings"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            143,
+            243,
+            343
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1460000
+            },
+            {
+                "type": 1,
+                "value": 28400000
+            },
+            {
+                "type": 6,
+                "value": 1400000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081043,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "44": {
+        "id": 44,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Cyber Wings",
+            "Cyber Wings",
+            "Cyber Wings"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            144,
+            244,
+            344
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1360000
+            },
+            {
+                "type": 1,
+                "value": 28800000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081044,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "45": {
+        "id": 45,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Winter Wing",
+            "Winter Wing",
+            "Winter Wing"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            145,
+            245,
+            345
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1400000
+            },
+            {
+                "type": 1,
+                "value": 28000000
+            },
+            {
+                "type": 62,
+                "value": 600000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081045,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "46": {
+        "id": 46,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Christmas Wings",
+            "Christmas Wings",
+            "Christmas Wings"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            146,
+            246,
+            346
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1400000
+            },
+            {
+                "type": 1,
+                "value": 28000000
+            },
+            {
+                "type": 62,
+                "value": 600000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081046,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "47": {
+        "id": 47,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Myth Feather",
+            "Myth Feather",
+            "Myth Feather"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            147,
+            247,
+            347
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1400000
+            },
+            {
+                "type": 1,
+                "value": 28800000
+            },
+            {
+                "type": 4,
+                "value": 1160000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081047,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "48": {
+        "id": 48,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Sweet Wings",
+            "Sweet Wings",
+            "Sweet Wings"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            148,
+            248,
+            348
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1440000
+            },
+            {
+                "type": 1,
+                "value": 27200000
+            },
+            {
+                "type": 4,
+                "value": 1200000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081048,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "49": {
+        "id": 49,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Star Looting Wings",
+            "Star Looting Wings",
+            "Star Looting Wings"
+        ],
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            149,
+            249,
+            349
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 6,
+                "value": 750000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081049,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "50": {
+        "id": 50,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Goddess Wing",
+            "Goddess Wing",
+            "Goddess Wing"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            150,
+            250,
+            350
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1460000
+            },
+            {
+                "type": 1,
+                "value": 28400000
+            },
+            {
+                "type": 6,
+                "value": 1400000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081050,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "51": {
+        "id": 51,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Phantom Wings",
+            "Phantom Wings",
+            "Phantom Wings"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            151,
+            251,
+            351
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1360000
+            },
+            {
+                "type": 1,
+                "value": 28800000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081051,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "52": {
+        "id": 52,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Steam Wings",
+            "Steam Wings",
+            "Steam Wings"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            152,
+            252,
+            352
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1400000
+            },
+            {
+                "type": 1,
+                "value": 28800000
+            },
+            {
+                "type": 4,
+                "value": 1160000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081052,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "53": {
+        "id": 53,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Celebration Wings",
+            "Celebration Wings",
+            "Celebration Wings"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            153,
+            253,
+            353
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1460000
+            },
+            {
+                "type": 1,
+                "value": 28400000
+            },
+            {
+                "type": 6,
+                "value": 1400000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081053,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "54": {
+        "id": 54,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Summer Wave",
+            "Summer Wave",
+            "Summer Wave"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            154,
+            254,
+            354
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1440000
+            },
+            {
+                "type": 1,
+                "value": 27200000
+            },
+            {
+                "type": 4,
+                "value": 1200000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081054,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "55": {
+        "id": 55,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Ocean Jellyfish",
+            "Ocean Jellyfish",
+            "Ocean Jellyfish"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            155,
+            255,
+            355
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1412000
+            },
+            {
+                "type": 1,
+                "value": 28400000
+            },
+            {
+                "type": 4,
+                "value": 1168000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081055,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "56": {
+        "id": 56,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Decayed Wings",
+            "Decayed Wings",
+            "Decayed Wings"
+        ],
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "groupId": 4,
+        "wingIds": [
+            156,
+            256,
+            356
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 706000
+            },
+            {
+                "type": 1,
+                "value": 14200000
+            },
+            {
+                "type": 4,
+                "value": 584000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081056,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226103,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "57": {
+        "id": 57,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Rose Cross",
+            "Rose Cross",
+            "Rose Cross"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            157,
+            257,
+            357
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1360000
+            },
+            {
+                "type": 1,
+                "value": 28800000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081057,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "58": {
+        "id": 58,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Wheat Fragrance",
+            "Wheat Fragrance",
+            "Wheat Fragrance"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            158,
+            258,
+            358
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1400000
+            },
+            {
+                "type": 1,
+                "value": 28800000
+            },
+            {
+                "type": 4,
+                "value": 1160000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081058,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "59": {
+        "id": 59,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Flourishing Age",
+            "Flourishing Age",
+            "Flourishing Age"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            159,
+            259,
+            359
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1460000
+            },
+            {
+                "type": 1,
+                "value": 28400000
+            },
+            {
+                "type": 6,
+                "value": 1400000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081059,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "60": {
+        "id": 60,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Paladin Glory",
+            "Paladin Glory",
+            "Paladin Glory"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            160,
+            260,
+            360
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1440000
+            },
+            {
+                "type": 1,
+                "value": 27200000
+            },
+            {
+                "type": 4,
+                "value": 1200000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081060,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "61": {
+        "id": 61,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Nre Year Wings",
+            "Nre Year Wings",
+            "Nre Year Wings"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            161,
+            261,
+            361
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1412000
+            },
+            {
+                "type": 1,
+                "value": 28400000
+            },
+            {
+                "type": 4,
+                "value": 1168000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081061,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "62": {
+        "id": 62,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Fallen Wings",
+            "Fallen Wings",
+            "Fallen Wings"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            162,
+            262,
+            362
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1360000
+            },
+            {
+                "type": 1,
+                "value": 28800000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081062,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "63": {
+        "id": 63,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Spring Dragon",
+            "Spring Dragon",
+            "Spring Dragon"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            163,
+            263,
+            363
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1400000
+            },
+            {
+                "type": 1,
+                "value": 28800000
+            },
+            {
+                "type": 4,
+                "value": 1160000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081063,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "64": {
+        "id": 64,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Spring Wind Wings",
+            "Spring Wind Wings",
+            "Spring Wind Wings"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "wingIds": [
+            164,
+            264,
+            364
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1460000
+            },
+            {
+                "type": 1,
+                "value": 28400000
+            },
+            {
+                "type": 6,
+                "value": 1400000
+            },
+            {
+                "type": 66,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1081064,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226113,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    }
+}

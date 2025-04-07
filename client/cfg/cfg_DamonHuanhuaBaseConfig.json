@@ -1,0 +1,6332 @@
+{
+    "1": {
+        "id": 1,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Curse Demon",
+        "dec": "",
+        "power": 626,
+        "bodyId": 101,
+        "MvSpeed": 4200,
+        "high": 100,
+        "scaleC": 80,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 6700,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "2": {
+        "id": 2,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiery Flacon",
+        "dec": "",
+        "power": 20100,
+        "bodyId": 105,
+        "MvSpeed": 4200,
+        "high": 100,
+        "scaleC": 80,
+        "scaleS": 100,
+        "stoneid": 1071103,
+        "stoneaddexp": 23100,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "3": {
+        "id": 3,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Lightning Dragon",
+        "dec": "",
+        "power": 89400,
+        "bodyId": 118,
+        "MvSpeed": 4200,
+        "high": 100,
+        "scaleC": 110,
+        "scaleS": 100,
+        "stoneid": 1071104,
+        "stoneaddexp": 49600,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "4": {
+        "id": 4,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Ovumdrak",
+        "dec": "",
+        "power": 238200,
+        "bodyId": 116,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 130,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 86600,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "5": {
+        "id": 5,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Dumbo Baby",
+        "dec": "",
+        "power": 498000,
+        "bodyId": 108,
+        "MvSpeed": 4200,
+        "high": 100,
+        "scaleC": 120,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 166000,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "6": {
+        "id": 6,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Mirage Phoenix",
+        "dec": "",
+        "power": 996000,
+        "bodyId": 119,
+        "MvSpeed": 4200,
+        "high": 100,
+        "scaleC": 120,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 331000,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "7": {
+        "id": 7,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Chrono Wolf",
+        "dec": "",
+        "power": 1989000,
+        "bodyId": 120,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 130,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 596000,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "8": {
+        "id": 8,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Lightningmon",
+        "dec": "",
+        "power": 3777000,
+        "bodyId": 112,
+        "MvSpeed": 4200,
+        "high": 80,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 961000,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "9": {
+        "id": 9,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fire Mantis",
+        "dec": "",
+        "power": 6660000,
+        "bodyId": 113,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 120,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 1426000,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "10": {
+        "id": 10,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Z-007",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 114,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 125,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "11": {
+        "id": 11,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Z-007",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 114,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 125,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "12": {
+        "id": 12,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Z-007",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 114,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 125,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "13": {
+        "id": 13,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Z-007",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 114,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 125,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "14": {
+        "id": 14,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Z-007",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 114,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 125,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "15": {
+        "id": 15,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Z-007",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 114,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 125,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "16": {
+        "id": 16,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Z-007",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 114,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 125,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "17": {
+        "id": 17,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Z-007",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 114,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 125,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "18": {
+        "id": 18,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Z-007",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 114,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 125,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "19": {
+        "id": 19,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Z-007",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 114,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 125,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "20": {
+        "id": 20,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Z-007",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 114,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 125,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "101": {
+        "id": 101,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Floating Dragon",
+        "dec": "Opening Rank",
+        "power": 2000000,
+        "bodyId": 201,
+        "MvSpeed": 4200,
+        "high": 100,
+        "scaleC": 120,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 60000
+            },
+            {
+                "type": 1,
+                "value": 2400000
+            },
+            {
+                "type": 4,
+                "value": 60000
+            },
+            {
+                "type": 6,
+                "value": 95000
+            },
+            {
+                "type": 43,
+                "value": 140000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070001,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "102": {
+        "id": 102,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Flame Kingdragon",
+        "dec": "Event",
+        "power": 3000000,
+        "bodyId": 202,
+        "MvSpeed": 4200,
+        "high": 100,
+        "scaleC": 130,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 90000
+            },
+            {
+                "type": 1,
+                "value": 3600000
+            },
+            {
+                "type": 4,
+                "value": 78000
+            },
+            {
+                "type": 6,
+                "value": 157500
+            },
+            {
+                "type": 43,
+                "value": 210000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070002,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "103": {
+        "id": 103,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Stella Dragon",
+        "dec": "Event",
+        "power": 3000000,
+        "bodyId": 203,
+        "MvSpeed": 4200,
+        "high": 100,
+        "scaleC": 110,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 90000
+            },
+            {
+                "type": 1,
+                "value": 3600000
+            },
+            {
+                "type": 4,
+                "value": 102000
+            },
+            {
+                "type": 6,
+                "value": 150000
+            },
+            {
+                "type": 43,
+                "value": 180000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070003,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "104": {
+        "id": 104,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Malamander",
+        "dec": "Opening total top-up",
+        "power": 5000000,
+        "bodyId": 204,
+        "MvSpeed": 4200,
+        "high": 100,
+        "scaleC": 110,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 130000
+            },
+            {
+                "type": 1,
+                "value": 6200000
+            },
+            {
+                "type": 4,
+                "value": 200000
+            },
+            {
+                "type": 6,
+                "value": 187500
+            },
+            {
+                "type": 43,
+                "value": 350000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070004,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "105": {
+        "id": 105,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Cyborg Giant",
+        "dec": "Event",
+        "power": 5000000,
+        "bodyId": 115,
+        "MvSpeed": 4200,
+        "high": 20,
+        "scaleC": 140,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 100000
+            },
+            {
+                "type": 1,
+                "value": 7000000
+            },
+            {
+                "type": 4,
+                "value": 180000
+            },
+            {
+                "type": 6,
+                "value": 200000
+            },
+            {
+                "type": 43,
+                "value": 350000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070005,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "106": {
+        "id": 106,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Dark Xstallite",
+        "dec": "Warrior Badge",
+        "power": 5000000,
+        "bodyId": 205,
+        "MvSpeed": 4200,
+        "high": 40,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 100000
+            },
+            {
+                "type": 1,
+                "value": 7000000
+            },
+            {
+                "type": 4,
+                "value": 180000
+            },
+            {
+                "type": 6,
+                "value": 200000
+            },
+            {
+                "type": 43,
+                "value": 350000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070006,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "107": {
+        "id": 107,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "White Zombie",
+        "dec": "Event",
+        "power": 5000000,
+        "bodyId": 206,
+        "MvSpeed": 4200,
+        "high": 40,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 100000
+            },
+            {
+                "type": 1,
+                "value": 7000000
+            },
+            {
+                "type": 4,
+                "value": 180000
+            },
+            {
+                "type": 6,
+                "value": 200000
+            },
+            {
+                "type": 43,
+                "value": 350000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070007,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "108": {
+        "id": 108,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Golden Guard",
+        "dec": "Event",
+        "power": 6000000,
+        "bodyId": 207,
+        "MvSpeed": 4200,
+        "high": 80,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 150000
+            },
+            {
+                "type": 1,
+                "value": 8600000
+            },
+            {
+                "type": 4,
+                "value": 180000
+            },
+            {
+                "type": 6,
+                "value": 250000
+            },
+            {
+                "type": 43,
+                "value": 400000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070008,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "109": {
+        "id": 109,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Barzarhee",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 208,
+        "MvSpeed": 4200,
+        "high": 10,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 270000
+            },
+            {
+                "type": 1,
+                "value": 13000000
+            },
+            {
+                "type": 4,
+                "value": 300000
+            },
+            {
+                "type": 6,
+                "value": 450000
+            },
+            {
+                "type": 43,
+                "value": 700000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070009,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "110": {
+        "id": 110,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Frost Dragon",
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "bodyId": 209,
+        "MvSpeed": 4200,
+        "high": 100,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 160000
+            },
+            {
+                "type": 1,
+                "value": 12000000
+            },
+            {
+                "type": 4,
+                "value": 200000
+            },
+            {
+                "type": 6,
+                "value": 350000
+            },
+            {
+                "type": 43,
+                "value": 600000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070010,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "111": {
+        "id": 111,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Fire Lord",
+        "dec": "Merging Tournament",
+        "power": 10000000,
+        "bodyId": 210,
+        "MvSpeed": 4200,
+        "high": 80,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 270000
+            },
+            {
+                "type": 1,
+                "value": 15000000
+            },
+            {
+                "type": 4,
+                "value": 300000
+            },
+            {
+                "type": 6,
+                "value": 400000
+            },
+            {
+                "type": 43,
+                "value": 600000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070011,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "112": {
+        "id": 112,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Chinese Hawk",
+        "dec": "National Day Treasure Hunt",
+        "power": 10000000,
+        "bodyId": 211,
+        "MvSpeed": 4200,
+        "high": 80,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 280000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 320000
+            },
+            {
+                "type": 6,
+                "value": 345000
+            },
+            {
+                "type": 43,
+                "value": 540000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070012,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "113": {
+        "id": 113,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Pumpkin Batman",
+        "dec": "Happy Halloween",
+        "power": 10000000,
+        "bodyId": 212,
+        "MvSpeed": 4200,
+        "high": 80,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 14000000
+            },
+            {
+                "type": 4,
+                "value": 360000
+            },
+            {
+                "type": 6,
+                "value": 425000
+            },
+            {
+                "type": 43,
+                "value": 500000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070013,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "114": {
+        "id": 114,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Winter Baby",
+        "dec": "Happy Winter",
+        "power": 10000000,
+        "bodyId": 213,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 260000
+            },
+            {
+                "type": 1,
+                "value": 14800000
+            },
+            {
+                "type": 4,
+                "value": 380000
+            },
+            {
+                "type": 6,
+                "value": 362500
+            },
+            {
+                "type": 43,
+                "value": 550000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070014,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "115": {
+        "id": 115,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Cutie Snow",
+        "dec": "Warm Winter",
+        "power": 10000000,
+        "bodyId": 214,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 290000
+            },
+            {
+                "type": 1,
+                "value": 13600000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 6,
+                "value": 337500
+            },
+            {
+                "type": 43,
+                "value": 600000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070015,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "116": {
+        "id": 116,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Snowball",
+        "dec": "Snow Carnival",
+        "power": 10000000,
+        "bodyId": 215,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 280000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 360000
+            },
+            {
+                "type": 6,
+                "value": 337500
+            },
+            {
+                "type": 43,
+                "value": 550000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070016,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "117": {
+        "id": 117,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Little Grey",
+        "dec": "Wolf Soul Fight",
+        "power": 8000000,
+        "bodyId": 216,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 240000
+            },
+            {
+                "type": 1,
+                "value": 11200000
+            },
+            {
+                "type": 4,
+                "value": 288000
+            },
+            {
+                "type": 6,
+                "value": 340000
+            },
+            {
+                "type": 43,
+                "value": 400000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070017,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "118": {
+        "id": 118,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Gilding Lion",
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "bodyId": 217,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 224000
+            },
+            {
+                "type": 1,
+                "value": 12160000
+            },
+            {
+                "type": 4,
+                "value": 256000
+            },
+            {
+                "type": 6,
+                "value": 310000
+            },
+            {
+                "type": 43,
+                "value": 440000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070018,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "119": {
+        "id": 119,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Gift Sleigh",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 218,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 310000
+            },
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 320000
+            },
+            {
+                "type": 6,
+                "value": 400000
+            },
+            {
+                "type": 43,
+                "value": 550000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070019,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "120": {
+        "id": 120,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Laba Porridge",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 219,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 320000
+            },
+            {
+                "type": 1,
+                "value": 14080000
+            },
+            {
+                "type": 4,
+                "value": 330000
+            },
+            {
+                "type": 6,
+                "value": 387500
+            },
+            {
+                "type": 43,
+                "value": 560000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070020,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "121": {
+        "id": 121,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Lion Awaken",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 220,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 340000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 300000
+            },
+            {
+                "type": 6,
+                "value": 352500
+            },
+            {
+                "type": 43,
+                "value": 530000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070021,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "122": {
+        "id": 122,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Sweet Heart",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 221,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 336000
+            },
+            {
+                "type": 6,
+                "value": 377500
+            },
+            {
+                "type": 43,
+                "value": 570000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070022,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "123": {
+        "id": 123,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Forest Fairy",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 222,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 310000
+            },
+            {
+                "type": 1,
+                "value": 14040000
+            },
+            {
+                "type": 4,
+                "value": 340000
+            },
+            {
+                "type": 6,
+                "value": 375000
+            },
+            {
+                "type": 43,
+                "value": 580000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070023,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "124": {
+        "id": 124,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Starlight Protection",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 223,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 324000
+            },
+            {
+                "type": 1,
+                "value": 15240000
+            },
+            {
+                "type": 4,
+                "value": 300000
+            },
+            {
+                "type": 6,
+                "value": 362500
+            },
+            {
+                "type": 43,
+                "value": 540000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070024,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "125": {
+        "id": 125,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Music DJ",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 224,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 288000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 330000
+            },
+            {
+                "type": 6,
+                "value": 395000
+            },
+            {
+                "type": 43,
+                "value": 510000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070025,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "126": {
+        "id": 126,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "V-Conqueror",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 225,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 304000
+            },
+            {
+                "type": 1,
+                "value": 14160000
+            },
+            {
+                "type": 4,
+                "value": 346000
+            },
+            {
+                "type": 6,
+                "value": 382500
+            },
+            {
+                "type": 43,
+                "value": 560000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070026,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "127": {
+        "id": 127,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Tiny Knight",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 226,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 296000
+            },
+            {
+                "type": 1,
+                "value": 14440000
+            },
+            {
+                "type": 4,
+                "value": 350000
+            },
+            {
+                "type": 6,
+                "value": 400000
+            },
+            {
+                "type": 43,
+                "value": 520000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070027,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "128": {
+        "id": 128,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Blade Ghost",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 227,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 304000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 320000
+            },
+            {
+                "type": 6,
+                "value": 410000
+            },
+            {
+                "type": 43,
+                "value": 480000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070028,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "129": {
+        "id": 129,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Dragon Boat",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 228,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 14320000
+            },
+            {
+                "type": 4,
+                "value": 348000
+            },
+            {
+                "type": 6,
+                "value": 405000
+            },
+            {
+                "type": 43,
+                "value": 520000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070029,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "130": {
+        "id": 130,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Chaotic Demon",
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "bodyId": 229,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 243200
+            },
+            {
+                "type": 1,
+                "value": 12160000
+            },
+            {
+                "type": 4,
+                "value": 256000
+            },
+            {
+                "type": 6,
+                "value": 328000
+            },
+            {
+                "type": 43,
+                "value": 384000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070030,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "131": {
+        "id": 131,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Flaming Pegasus",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 230,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 324000
+            },
+            {
+                "type": 1,
+                "value": 14280000
+            },
+            {
+                "type": 4,
+                "value": 302000
+            },
+            {
+                "type": 6,
+                "value": 435000
+            },
+            {
+                "type": 43,
+                "value": 520000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070031,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "132": {
+        "id": 132,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Baby Dragon",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 231,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 276000
+            },
+            {
+                "type": 1,
+                "value": 14760000
+            },
+            {
+                "type": 4,
+                "value": 280000
+            },
+            {
+                "type": 6,
+                "value": 425000
+            },
+            {
+                "type": 43,
+                "value": 610000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070032,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "133": {
+        "id": 133,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Fairy Bee",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 232,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 286000
+            },
+            {
+                "type": 1,
+                "value": 15000000
+            },
+            {
+                "type": 4,
+                "value": 310000
+            },
+            {
+                "type": 6,
+                "value": 405000
+            },
+            {
+                "type": 43,
+                "value": 550000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070033,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "134": {
+        "id": 134,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Core Adventurer",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 233,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 308000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 316000
+            },
+            {
+                "type": 6,
+                "value": 410000
+            },
+            {
+                "type": 43,
+                "value": 480000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070034,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "135": {
+        "id": 135,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Dreamy Magpie",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 234,
+        "MvSpeed": 4200,
+        "high": -30,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 296000
+            },
+            {
+                "type": 1,
+                "value": 15000000
+            },
+            {
+                "type": 4,
+                "value": 310000
+            },
+            {
+                "type": 6,
+                "value": 400000
+            },
+            {
+                "type": 43,
+                "value": 540000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070035,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "136": {
+        "id": 136,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Doggy Envoy",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 235,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 290000
+            },
+            {
+                "type": 1,
+                "value": 13600000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 6,
+                "value": 337500
+            },
+            {
+                "type": 43,
+                "value": 600000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070036,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "137": {
+        "id": 137,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Erudite Owl",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 236,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 288000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 330000
+            },
+            {
+                "type": 6,
+                "value": 395000
+            },
+            {
+                "type": 43,
+                "value": 510000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070037,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "138": {
+        "id": 138,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Starry Whale",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 237,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 280000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 360000
+            },
+            {
+                "type": 6,
+                "value": 337500
+            },
+            {
+                "type": 43,
+                "value": 550000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070038,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "139": {
+        "id": 139,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Jade Rabbit",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 238,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 304000
+            },
+            {
+                "type": 1,
+                "value": 14160000
+            },
+            {
+                "type": 4,
+                "value": 346000
+            },
+            {
+                "type": 6,
+                "value": 382500
+            },
+            {
+                "type": 43,
+                "value": 560000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070039,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "140": {
+        "id": 140,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Carton Dinosaur",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 239,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 340000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 300000
+            },
+            {
+                "type": 6,
+                "value": 352500
+            },
+            {
+                "type": 43,
+                "value": 530000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070040,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "141": {
+        "id": 141,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Pumpkin Wizard",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 240,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 336000
+            },
+            {
+                "type": 6,
+                "value": 377500
+            },
+            {
+                "type": 43,
+                "value": 570000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070041,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "142": {
+        "id": 142,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Glacial Pegasus",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 241,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 290000
+            },
+            {
+                "type": 1,
+                "value": 13600000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 6,
+                "value": 337500
+            },
+            {
+                "type": 43,
+                "value": 600000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070042,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "143": {
+        "id": 143,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Sleepy Sheep",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 242,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 288000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 330000
+            },
+            {
+                "type": 6,
+                "value": 395000
+            },
+            {
+                "type": 43,
+                "value": 510000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070043,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "144": {
+        "id": 144,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Magic Triceratops",
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "bodyId": 243,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 256000
+            },
+            {
+                "type": 1,
+                "value": 11264000
+            },
+            {
+                "type": 4,
+                "value": 264000
+            },
+            {
+                "type": 6,
+                "value": 310000
+            },
+            {
+                "type": 43,
+                "value": 448000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070044,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "145": {
+        "id": 145,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Fallen Angel",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 244,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 320000
+            },
+            {
+                "type": 1,
+                "value": 14080000
+            },
+            {
+                "type": 4,
+                "value": 330000
+            },
+            {
+                "type": 6,
+                "value": 387500
+            },
+            {
+                "type": 43,
+                "value": 560000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070045,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "146": {
+        "id": 146,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Gingerbread Boy",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 245,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 310000
+            },
+            {
+                "type": 1,
+                "value": 14040000
+            },
+            {
+                "type": 4,
+                "value": 340000
+            },
+            {
+                "type": 6,
+                "value": 375000
+            },
+            {
+                "type": 43,
+                "value": 580000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070046,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "147": {
+        "id": 147,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Drummer Bear",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 246,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 310000
+            },
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 320000
+            },
+            {
+                "type": 6,
+                "value": 400000
+            },
+            {
+                "type": 43,
+                "value": 550000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070047,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "148": {
+        "id": 148,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Penguin Superstar",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 247,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 324000
+            },
+            {
+                "type": 1,
+                "value": 15240000
+            },
+            {
+                "type": 4,
+                "value": 300000
+            },
+            {
+                "type": 6,
+                "value": 362500
+            },
+            {
+                "type": 43,
+                "value": 540000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070048,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "149": {
+        "id": 149,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Blessing Tiger",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 248,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 288000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 330000
+            },
+            {
+                "type": 6,
+                "value": 395000
+            },
+            {
+                "type": 43,
+                "value": 510000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070049,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "150": {
+        "id": 150,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Western Cat",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 249,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 304000
+            },
+            {
+                "type": 1,
+                "value": 14160000
+            },
+            {
+                "type": 4,
+                "value": 346000
+            },
+            {
+                "type": 6,
+                "value": 382500
+            },
+            {
+                "type": 43,
+                "value": 560000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070050,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "151": {
+        "id": 151,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Romantic Goddess",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 250,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 6,
+                "value": 705000
+            },
+            {
+                "type": 43,
+                "value": 1060000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070051,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "152": {
+        "id": 152,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Holy Light Knight",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 251,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 608000
+            },
+            {
+                "type": 1,
+                "value": 28320000
+            },
+            {
+                "type": 4,
+                "value": 692000
+            },
+            {
+                "type": 6,
+                "value": 765000
+            },
+            {
+                "type": 43,
+                "value": 1120000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070052,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "153": {
+        "id": 153,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Ghost Phantom",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 252,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 576000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 660000
+            },
+            {
+                "type": 6,
+                "value": 790000
+            },
+            {
+                "type": 43,
+                "value": 1020000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070053,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "154": {
+        "id": 154,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Soul Hunter",
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "bodyId": 253,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 288000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 330000
+            },
+            {
+                "type": 6,
+                "value": 395000
+            },
+            {
+                "type": 43,
+                "value": 510000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070054,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "155": {
+        "id": 155,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Coffee Butler",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 254,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 640000
+            },
+            {
+                "type": 1,
+                "value": 28160000
+            },
+            {
+                "type": 4,
+                "value": 660000
+            },
+            {
+                "type": 6,
+                "value": 775000
+            },
+            {
+                "type": 43,
+                "value": 1120000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070055,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "156": {
+        "id": 156,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Zongzi Vendor",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 255,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 560000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 720000
+            },
+            {
+                "type": 6,
+                "value": 675000
+            },
+            {
+                "type": 43,
+                "value": 1100000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070056,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "157": {
+        "id": 157,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Vibrant Dragon",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 256,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 608000
+            },
+            {
+                "type": 1,
+                "value": 28320000
+            },
+            {
+                "type": 4,
+                "value": 692000
+            },
+            {
+                "type": 6,
+                "value": 765000
+            },
+            {
+                "type": 43,
+                "value": 1120000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070057,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "158": {
+        "id": 158,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Pirate Shark",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 257,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 6,
+                "value": 705000
+            },
+            {
+                "type": 43,
+                "value": 1060000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070058,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "159": {
+        "id": 159,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Combative Bear",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 258,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 580000
+            },
+            {
+                "type": 1,
+                "value": 27200000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 6,
+                "value": 675000
+            },
+            {
+                "type": 43,
+                "value": 1200000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070059,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "160": {
+        "id": 160,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Diving Lobster",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 259,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 552000
+            },
+            {
+                "type": 1,
+                "value": 29520000
+            },
+            {
+                "type": 4,
+                "value": 560000
+            },
+            {
+                "type": 6,
+                "value": 850000
+            },
+            {
+                "type": 43,
+                "value": 1220000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070060,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "161": {
+        "id": 161,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Pixel Conqueror",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 260,
+        "MvSpeed": 4200,
+        "high": 25,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 572000
+            },
+            {
+                "type": 1,
+                "value": 30000000
+            },
+            {
+                "type": 4,
+                "value": 620000
+            },
+            {
+                "type": 6,
+                "value": 810000
+            },
+            {
+                "type": 43,
+                "value": 1100000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070061,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "162": {
+        "id": 162,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Popsicle Assassin",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 261,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 640000
+            },
+            {
+                "type": 1,
+                "value": 28160000
+            },
+            {
+                "type": 4,
+                "value": 660000
+            },
+            {
+                "type": 6,
+                "value": 775000
+            },
+            {
+                "type": 43,
+                "value": 1120000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070062,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "163": {
+        "id": 163,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Carnival Cat",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 262,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 560000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 720000
+            },
+            {
+                "type": 6,
+                "value": 675000
+            },
+            {
+                "type": 43,
+                "value": 1100000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070063,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "164": {
+        "id": 164,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Hex Leopard",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 263,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 6,
+                "value": 705000
+            },
+            {
+                "type": 43,
+                "value": 1060000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070064,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "165": {
+        "id": 165,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Star-grabbing Spirit",
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "bodyId": 264,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 340000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 300000
+            },
+            {
+                "type": 6,
+                "value": 352500
+            },
+            {
+                "type": 43,
+                "value": 530000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070065,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "166": {
+        "id": 166,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Winter Warm",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 265,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 608000
+            },
+            {
+                "type": 1,
+                "value": 28320000
+            },
+            {
+                "type": 4,
+                "value": 692000
+            },
+            {
+                "type": 6,
+                "value": 765000
+            },
+            {
+                "type": 43,
+                "value": 1120000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070066,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "167": {
+        "id": 167,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Cat of Rhythm",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 266,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 576000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 660000
+            },
+            {
+                "type": 6,
+                "value": 790000
+            },
+            {
+                "type": 43,
+                "value": 1020000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070067,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "168": {
+        "id": 168,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Abyss Dominator",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 267,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 576000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 660000
+            },
+            {
+                "type": 6,
+                "value": 790000
+            },
+            {
+                "type": 43,
+                "value": 1020000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070068,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "169": {
+        "id": 169,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Festival Bunny",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 268,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 640000
+            },
+            {
+                "type": 1,
+                "value": 28160000
+            },
+            {
+                "type": 4,
+                "value": 660000
+            },
+            {
+                "type": 6,
+                "value": 775000
+            },
+            {
+                "type": 43,
+                "value": 1120000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070069,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "170": {
+        "id": 170,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Crystal Bear",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 269,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 560000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 720000
+            },
+            {
+                "type": 6,
+                "value": 675000
+            },
+            {
+                "type": 43,
+                "value": 1100000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070070,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "171": {
+        "id": 171,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Green Elf",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 270,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 6,
+                "value": 705000
+            },
+            {
+                "type": 43,
+                "value": 1060000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070071,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "172": {
+        "id": 172,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Celebration Wings",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 271,
+        "MvSpeed": 4200,
+        "high": 30,
+        "scaleC": 103,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 6,
+                "value": 705000
+            },
+            {
+                "type": 43,
+                "value": 1060000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070072,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "173": {
+        "id": 173,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Destiny Lion King",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 272,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 608000
+            },
+            {
+                "type": 1,
+                "value": 28320000
+            },
+            {
+                "type": 4,
+                "value": 692000
+            },
+            {
+                "type": 6,
+                "value": 765000
+            },
+            {
+                "type": 43,
+                "value": 1120000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070073,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "174": {
+        "id": 174,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Decayed Dragon Soul",
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "bodyId": 273,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 320000
+            },
+            {
+                "type": 1,
+                "value": 14080000
+            },
+            {
+                "type": 4,
+                "value": 330000
+            },
+            {
+                "type": 6,
+                "value": 387500
+            },
+            {
+                "type": 43,
+                "value": 560000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070074,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "175": {
+        "id": 175,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Summer Mermaid",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 274,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 576000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 660000
+            },
+            {
+                "type": 6,
+                "value": 790000
+            },
+            {
+                "type": 43,
+                "value": 1020000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070075,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "176": {
+        "id": 176,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Myth Goat",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 275,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 6,
+                "value": 705000
+            },
+            {
+                "type": 43,
+                "value": 1060000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070076,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "177": {
+        "id": 177,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Lost Giant",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 276,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 608000
+            },
+            {
+                "type": 1,
+                "value": 28320000
+            },
+            {
+                "type": 4,
+                "value": 692000
+            },
+            {
+                "type": 6,
+                "value": 765000
+            },
+            {
+                "type": 43,
+                "value": 1120000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070077,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "178": {
+        "id": 178,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Alchemy Demon",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 277,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 560000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 720000
+            },
+            {
+                "type": 6,
+                "value": 675000
+            },
+            {
+                "type": 43,
+                "value": 1100000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070078,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "179": {
+        "id": 179,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Do Re Mi",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 278,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 640000
+            },
+            {
+                "type": 1,
+                "value": 28160000
+            },
+            {
+                "type": 4,
+                "value": 660000
+            },
+            {
+                "type": 6,
+                "value": 775000
+            },
+            {
+                "type": 43,
+                "value": 1120000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070079,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "180": {
+        "id": 180,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Cannon Maiden",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 279,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 576000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 660000
+            },
+            {
+                "type": 6,
+                "value": 790000
+            },
+            {
+                "type": 43,
+                "value": 1020000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070080,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "181": {
+        "id": 181,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Thanksgiving Turkey",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 280,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 552000
+            },
+            {
+                "type": 1,
+                "value": 29520000
+            },
+            {
+                "type": 4,
+                "value": 560000
+            },
+            {
+                "type": 6,
+                "value": 850000
+            },
+            {
+                "type": 43,
+                "value": 1220000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070081,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "182": {
+        "id": 182,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Nutcracker",
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "bodyId": 281,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 340000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 300000
+            },
+            {
+                "type": 6,
+                "value": 352500
+            },
+            {
+                "type": 43,
+                "value": 530000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070082,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226106,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "183": {
+        "id": 183,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Moon Bat",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 282,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 608000
+            },
+            {
+                "type": 1,
+                "value": 28320000
+            },
+            {
+                "type": 4,
+                "value": 692000
+            },
+            {
+                "type": 6,
+                "value": 765000
+            },
+            {
+                "type": 43,
+                "value": 1120000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070083,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "184": {
+        "id": 184,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Winter Doll",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 283,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 560000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 720000
+            },
+            {
+                "type": 6,
+                "value": 675000
+            },
+            {
+                "type": 43,
+                "value": 1100000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070084,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "185": {
+        "id": 185,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Dragon Baby",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 284,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 552000
+            },
+            {
+                "type": 1,
+                "value": 29520000
+            },
+            {
+                "type": 4,
+                "value": 560000
+            },
+            {
+                "type": 6,
+                "value": 850000
+            },
+            {
+                "type": 43,
+                "value": 1220000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070085,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "186": {
+        "id": 186,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Spring Leaves Slime",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 285,
+        "MvSpeed": 4200,
+        "high": 0,
+        "scaleC": 115,
+        "scaleS": 100,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 6,
+                "value": 705000
+            },
+            {
+                "type": 43,
+                "value": 1060000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1070086,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226116,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    }
+}

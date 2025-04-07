@@ -1,0 +1,17 @@
+{
+    "80005": {
+        "id": 80005,
+        "subType": 1,
+        "costItems": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1500
+            }
+        ],
+        "refreshHour": [
+            6,
+            18
+        ]
+    }
+}

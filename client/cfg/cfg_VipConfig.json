@@ -1,0 +1,543 @@
+{
+    "1": {
+        "lv": 1,
+        "needYb": 100,
+        "needCustom": 5,
+        "awards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310001,
+                "count": 30
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 32,
+                "value": 20
+            },
+            {
+                "type": 1,
+                "value": 400
+            },
+            {
+                "type": 4,
+                "value": 10
+            }
+        ],
+        "desc": "1. Character ATK +20\n2. Character DEF +10\n3. Character HP +400",
+        "desc2": [
+            "Character ATK |C:0x18ff00&T:+20|",
+            "Character DEF |C:0x18ff00&T:+10|",
+            "Character HP |C:0x18ff00&T:+400|"
+        ],
+        "mcIcon": {
+            "type": 9,
+            "param": 13
+        }
+    },
+    "2": {
+        "lv": 2,
+        "needYb": 100,
+        "needCustom": 7,
+        "awards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            },
+            {
+                "type": 1,
+                "id": 121402,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 1
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 32,
+                "value": 30
+            },
+            {
+                "type": 1,
+                "value": 600
+            },
+            {
+                "type": 4,
+                "value": 15
+            }
+        ],
+        "desc": "1. Character ATK +30\n2. Character DEF +10\n3. Character HP +600",
+        "desc2": [
+            "Character ATK |C:0x18ff00&T:+30|",
+            "Character DEF |C:0x18ff00&T:+15|",
+            "Character HP |C:0x18ff00&T:+600|"
+        ],
+        "mcIcon": {
+            "type": 14,
+            "param": 121402
+        }
+    },
+    "3": {
+        "lv": 3,
+        "needYb": 100,
+        "needCustom": 10,
+        "awards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            },
+            {
+                "type": 1,
+                "id": 131402,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310020,
+                "count": 1
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 32,
+                "value": 40
+            },
+            {
+                "type": 1,
+                "value": 800
+            },
+            {
+                "type": 4,
+                "value": 20
+            },
+            {
+                "type": 33,
+                "value": 100
+            }
+        ],
+        "desc": "1. Character ATK +40\n2. Character DEF +20\n3. Character HP +800\n4. Online EXP Yield +1%",
+        "desc2": [
+            "Character ATK |C:0x18ff00&T:+40|",
+            "Character DEF |C:0x18ff00&T:+20|",
+            "Character HP |C:0x18ff00&T:+800|",
+            "Online EXP Yield |C:0x18ff00&T:+1%|"
+        ],
+        "mcIcon": {
+            "type": 14,
+            "param": 131402
+        }
+    },
+    "4": {
+        "lv": 4,
+        "needYb": 100,
+        "needCustom": 15,
+        "awards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 100
+            },
+            {
+                "type": 1,
+                "id": 141404,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310020,
+                "count": 1
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 32,
+                "value": 60
+            },
+            {
+                "type": 1,
+                "value": 1200
+            },
+            {
+                "type": 4,
+                "value": 30
+            },
+            {
+                "type": 33,
+                "value": 100
+            },
+            {
+                "type": 25,
+                "value": 100
+            }
+        ],
+        "desc": "1. Character ATK +60\n2. Character DEF +30\n3. Character HP +1200\n4. Online EXP Yield +1%\n5. Online Gold Yield +1%",
+        "desc2": [
+            "Character ATK |C:0x18ff00&T:+60|",
+            "Character DEF |C:0x18ff00&T:+30|",
+            "Character HP |C:0x18ff00&T:+1200|",
+            "Online EXP Yield |C:0x18ff00&T:+1%|",
+            "Online Gold Yield |C:0x18ff00&T:+1%|"
+        ],
+        "mcIcon": {
+            "type": 14,
+            "param": 141404
+        }
+    },
+    "5": {
+        "lv": 5,
+        "needYb": 100,
+        "needCustom": 20,
+        "awards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 100
+            },
+            {
+                "type": 1,
+                "id": 111404,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310020,
+                "count": 1
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 32,
+                "value": 80
+            },
+            {
+                "type": 1,
+                "value": 1600
+            },
+            {
+                "type": 4,
+                "value": 40
+            },
+            {
+                "type": 33,
+                "value": 200
+            },
+            {
+                "type": 25,
+                "value": 100
+            }
+        ],
+        "desc": "1. Character ATK +80\n2. Character DEF +40\n3. Character HP +1600\n4. Online EXP Yield +2%\n5. Online Gold Yield +1%",
+        "desc2": [
+            "Character ATK |C:0x18ff00&T:+80|",
+            "Character DEF |C:0x18ff00&T:+40|",
+            "Character HP |C:0x18ff00&T:+1600|",
+            "Online EXP Yield |C:0x18ff00&T:+2%|",
+            "Online Gold Yield |C:0x18ff00&T:+1%|"
+        ],
+        "mcIcon": {
+            "type": 14,
+            "param": 111404
+        }
+    },
+    "6": {
+        "lv": 6,
+        "needYb": 100,
+        "needCustom": 25,
+        "awards": [
+            {
+                "type": 1,
+                "id": 310020,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 161404,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 100000
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 32,
+                "value": 100
+            },
+            {
+                "type": 1,
+                "value": 2000
+            },
+            {
+                "type": 4,
+                "value": 50
+            },
+            {
+                "type": 33,
+                "value": 200
+            },
+            {
+                "type": 25,
+                "value": 200
+            }
+        ],
+        "desc": "1. Character ATK +100\n2. Character DEF +50\n3. Character HP +2000\n4. Online EXP Yield +2%\n5. Online Gold Yield +2%",
+        "desc2": [
+            "Character ATK |C:0x18ff00&T:+100|",
+            "Character DEF |C:0x18ff00&T:+50|",
+            "Character HP |C:0x18ff00&T:+2000|",
+            "Online EXP Yield |C:0x18ff00&T:+2%|",
+            "Online Gold Yield |C:0x18ff00&T:+2%|"
+        ],
+        "mcIcon": {
+            "type": 14,
+            "param": 161404
+        }
+    },
+    "7": {
+        "lv": 7,
+        "needYb": 100,
+        "needCustom": 30,
+        "awards": [
+            {
+                "type": 1,
+                "id": 310020,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 131404,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 100000
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 32,
+                "value": 120
+            },
+            {
+                "type": 1,
+                "value": 2400
+            },
+            {
+                "type": 4,
+                "value": 60
+            },
+            {
+                "type": 33,
+                "value": 300
+            },
+            {
+                "type": 25,
+                "value": 200
+            }
+        ],
+        "desc": "1. Character ATK +120\n2. Character DEF +60\n3. Character HP +2400\n4. Online EXP Yield +3%\n5. Online Gold Yield +2%",
+        "desc2": [
+            "Character ATK |C:0x18ff00&T:+120|",
+            "Character DEF |C:0x18ff00&T:+60|",
+            "Character HP |C:0x18ff00&T:+2400|",
+            "Online EXP Yield |C:0x18ff00&T:+3%|",
+            "Online Gold Yield |C:0x18ff00&T:+2%|"
+        ],
+        "mcIcon": {
+            "type": 14,
+            "param": 131404
+        }
+    },
+    "8": {
+        "lv": 8,
+        "needYb": 100,
+        "needCustom": 40,
+        "awards": [
+            {
+                "type": 1,
+                "id": 310020,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 3
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 3
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 32,
+                "value": 140
+            },
+            {
+                "type": 1,
+                "value": 2800
+            },
+            {
+                "type": 4,
+                "value": 70
+            },
+            {
+                "type": 33,
+                "value": 300
+            },
+            {
+                "type": 25,
+                "value": 300
+            }
+        ],
+        "desc": "1. Character ATK +140\n2. Character DEF +70\n3. Character HP +2800\n4. Online EXP Yield +3%\n5. Online Gold Yield +3%",
+        "desc2": [
+            "Character ATK |C:0x18ff00&T:+140|",
+            "Character DEF |C:0x18ff00&T:+70|",
+            "Character HP |C:0x18ff00&T:+2800|",
+            "Online EXP Yield |C:0x18ff00&T:+3%|",
+            "Online Gold Yield |C:0x18ff00&T:+3%|"
+        ],
+        "mcIcon": {
+            "type": 9,
+            "param": 14
+        }
+    },
+    "9": {
+        "lv": 9,
+        "needYb": 100,
+        "needCustom": 50,
+        "awards": [
+            {
+                "type": 1,
+                "id": 341029,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 200000
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 32,
+                "value": 160
+            },
+            {
+                "type": 1,
+                "value": 3200
+            },
+            {
+                "type": 4,
+                "value": 80
+            },
+            {
+                "type": 33,
+                "value": 400
+            },
+            {
+                "type": 25,
+                "value": 400
+            }
+        ],
+        "desc": "1. Character ATK +160\n2. Character DEF +80\n3. Character HP +3200\n4. Online EXP Yield +4%\n5. Online Gold Yield +4%",
+        "desc2": [
+            "Character ATK |C:0x18ff00&T:+160|",
+            "Character DEF |C:0x18ff00&T:+80|",
+            "Character HP |C:0x18ff00&T:+3200|",
+            "Online EXP Yield |C:0x18ff00&T:+4%|",
+            "Online Gold Yield |C:0x18ff00&T:+4%|"
+        ],
+        "mcIcon": {
+            "type": 9,
+            "param": 4
+        }
+    },
+    "10": {
+        "lv": 10,
+        "needYb": 100,
+        "needCustom": 0,
+        "awards": [
+            {
+                "type": 1,
+                "id": 310078,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 200
+            },
+            {
+                "type": 1,
+                "id": 310019,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 200000
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 32,
+                "value": 200
+            },
+            {
+                "type": 1,
+                "value": 4000
+            },
+            {
+                "type": 4,
+                "value": 100
+            },
+            {
+                "type": 33,
+                "value": 500
+            },
+            {
+                "type": 25,
+                "value": 500
+            }
+        ],
+        "desc": "1. Character ATK +200\n2. Character DEF +100\n3. Character HP +4000\n4. Online EXP Yield +5%\n5. Online Gold Yield +5%\n6. Unlock SVIP Daily Pack",
+        "desc2": [
+            "Character ATK |C:0x18ff00&T:+200|",
+            "Character DEF |C:0x18ff00&T:+100|",
+            "Character HP |C:0x18ff00&T:+4000|",
+            "Online EXP Yield |C:0x18ff00&T:+5%|",
+            "Online Gold Yield |C:0x18ff00&T:+5%|",
+            "Unlock |C:0x18ff00&T:SVIP Daily Pack|"
+        ],
+        "mcIcon": {
+            "type": 9,
+            "param": 17
+        }
+    }
+}

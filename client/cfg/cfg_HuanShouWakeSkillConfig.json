@@ -1,0 +1,202 @@
+{
+    "1": {
+        "id": 1,
+        "skillAttrs": [
+            {
+                "type": 163,
+                "value": 1000
+            }
+        ],
+        "attrDec": "ATK of self Eudemon Gear |C:0x13ee22&T:+10%|"
+    },
+    "2": {
+        "id": 2,
+        "skillAttrs": [
+            {
+                "type": 165,
+                "value": 1000
+            }
+        ],
+        "attrDec": "HP of self Eudemon Gear |C:0x13ee22&T:+10%|"
+    },
+    "3": {
+        "id": 3,
+        "skillAttrs": [
+            {
+                "type": 164,
+                "value": 1000
+            }
+        ],
+        "attrDec": "DEF of self Eudemon Gear |C:0x13ee22&T:+10%|"
+    },
+    "4": {
+        "id": 4,
+        "skillAttrs": [
+            {
+                "type": 163,
+                "value": 1500
+            }
+        ],
+        "attrDec": "ATK of self Eudemon Gear |C:0x13ee22&T:+15%|"
+    },
+    "5": {
+        "id": 5,
+        "skillAttrs": [
+            {
+                "type": 165,
+                "value": 1500
+            }
+        ],
+        "attrDec": "HP of self Eudemon Gear |C:0x13ee22&T:+15%|"
+    },
+    "6": {
+        "id": 6,
+        "skillAttrs": [
+            {
+                "type": 164,
+                "value": 1500
+            }
+        ],
+        "attrDec": "DEF of self Eudemon Gear |C:0x13ee22&T:+15%|"
+    },
+    "7": {
+        "id": 7,
+        "skillAttrs": [
+            {
+                "type": 166,
+                "value": 1000
+            }
+        ],
+        "attrDec": "All stats of self Eudemon Gear |C:0x13ee22&T:+10%|"
+    },
+    "8": {
+        "id": 8,
+        "skillAttrs": [
+            {
+                "type": 166,
+                "value": 1200
+            }
+        ],
+        "attrDec": "All stats of self Eudemon Gear |C:0x13ee22&T:+12%|"
+    },
+    "9": {
+        "id": 9,
+        "skillAttrs": [
+            {
+                "type": 166,
+                "value": 1400
+            }
+        ],
+        "attrDec": "All stats of self Eudemon Gear |C:0x13ee22&T:+14%|"
+    },
+    "10": {
+        "id": 10,
+        "skillAttrs": [
+            {
+                "type": 166,
+                "value": 1600
+            }
+        ],
+        "attrDec": "All stats of self Eudemon Gear |C:0x13ee22&T:+16%|"
+    },
+    "11": {
+        "id": 11,
+        "skillAttrs": [
+            {
+                "type": 166,
+                "value": 1800
+            }
+        ],
+        "attrDec": "All stats of self Eudemon Gear |C:0x13ee22&T:+18%|"
+    },
+    "12": {
+        "id": 12,
+        "skillAttrs": [
+            {
+                "type": 166,
+                "value": 2000
+            }
+        ],
+        "attrDec": "All stats of self Eudemon Gear |C:0x13ee22&T:+20%|"
+    },
+    "13": {
+        "id": 13,
+        "skillAttrs": [
+            {
+                "type": 167,
+                "value": 1000
+            }
+        ],
+        "attrDec": "All stats of the Gear on the 3 highest quality Eudemons deployed |C:0x13ee22&T:+10%|"
+    },
+    "14": {
+        "id": 14,
+        "skillAttrs": [
+            {
+                "type": 167,
+                "value": 1200
+            }
+        ],
+        "attrDec": "All stats of the Gear on the 3 highest quality Eudemons deployed |C:0x13ee22&T:+12%|"
+    },
+    "15": {
+        "id": 15,
+        "skillAttrs": [
+            {
+                "type": 167,
+                "value": 1500
+            }
+        ],
+        "attrDec": "All stats of the Gear on the 3 highest quality Eudemons deployed |C:0x13ee22&T:+15%|"
+    },
+    "16": {
+        "id": 16,
+        "skillAttrs": [
+            {
+                "type": 168,
+                "value": 1100
+            }
+        ],
+        "attrDec": "All stats of the Gear on the 4 highest quality Eudemons deployed |C:0x13ee22&T:+11%|"
+    },
+    "17": {
+        "id": 17,
+        "skillAttrs": [
+            {
+                "type": 168,
+                "value": 1300
+            }
+        ],
+        "attrDec": "All stats of the Gear on the 4 highest quality Eudemons deployed |C:0x13ee22&T:+13%|"
+    },
+    "18": {
+        "id": 18,
+        "skillAttrs": [
+            {
+                "type": 168,
+                "value": 1500
+            }
+        ],
+        "attrDec": "All stats of the Gear on the 4 highest quality Eudemons deployed |C:0x13ee22&T:+15%|"
+    },
+    "19": {
+        "id": 19,
+        "skillAttrs": [
+            {
+                "type": 169,
+                "value": 800
+            }
+        ],
+        "attrDec": "All stats of the Gear on all Eudemons deployed |C:0x13ee22&T:+8%|"
+    },
+    "20": {
+        "id": 20,
+        "skillAttrs": [
+            {
+                "type": 169,
+                "value": 1200
+            }
+        ],
+        "attrDec": "All stats of the Gear on all Eudemons deployed |C:0x13ee22&T:+8%|"
+    }
+}

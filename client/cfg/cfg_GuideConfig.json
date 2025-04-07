@@ -1,0 +1,1756 @@
+{
+    "1000": {
+        "id": 1000,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Tap to Start\nChallenge Ethereal Realm",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 0
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1001": {
+        "id": 1001,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 3
+            },
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Equip Gear\nBoost CP",
+                "skintype": 3
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Claim",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 4
+            }
+        ],
+        "params": []
+    },
+    "1002": {
+        "id": 1002,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 3
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Upgrade Skill\nIncrease Skill Effect",
+                "skintype": 3
+            },
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Return"
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Claim",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1003": {
+        "id": 1003,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 3
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Long-press to quickly \ntrain mercenary",
+                "skintype": 3
+            },
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Return"
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Claim",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1004": {
+        "id": 1004,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 3
+            },
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Tap on Boss\nto enter new mode",
+                "skintype": 1
+            },
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Challenge Gear Boss\nto gain advanced gear",
+                "skintype": 3
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Claim",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 4
+            }
+        ],
+        "params": []
+    },
+    "1005": {
+        "id": 1005,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 3
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Smelt Gear\nto gain enhancement item",
+                "skintype": 3
+            },
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Return"
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Claim",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1006": {
+        "id": 1006,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 3
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Enhance Gear\nto increase gear CP",
+                "skintype": 3
+            },
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Return"
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Claim",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1007": {
+        "id": 1007,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Tap and hold to quickly\nboost Mercenary",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1008": {
+        "id": 1008,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Tap and hold to quickly\nboost Fairy CP",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1009": {
+        "id": 1009,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Tap and hold to quickly\nincrease Fairy Rank",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1010": {
+        "id": 1010,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 1
+            },
+            {
+                "dir": 3,
+                "type": 1,
+                "content": "Fight in Multiplayer for Boss\nto acquire advanced gear",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1011": {
+        "id": 1011,
+        "content": [
+            {
+                "dir": 3,
+                "type": 1,
+                "content": "Challenge Demon Tower\nto unock powerful Secret",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1012": {
+        "id": 1012,
+        "content": [
+            {
+                "dir": 3,
+                "type": 1,
+                "content": "Treasure Hunt grants\nample rewards",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "There is one free Treasure Hunt daily\ndon't forget about it",
+                "skintype": 1
+            },
+            {
+                "dir": 2,
+                "type": 1,
+                "content": "Treasure Hunt Rewards will be stored in \nwarehouse, remember to take them out~",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Tap to Retrieve",
+                "skintype": 1
+            },
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Return"
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Tap to retrieve rewards"
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1013": {
+        "id": 1013,
+        "content": [
+            {
+                "dir": 2,
+                "type": 1,
+                "content": "Let's activate this Soulgear",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Activate",
+                "skintype": 1
+            },
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Return"
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1014": {
+        "id": 1014,
+        "content": [
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Inlaid Gem\nto enhance CP",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1015": {
+        "id": 1015,
+        "content": [
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Tap and hold to quickly\nincrease Sacred Ring",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1016": {
+        "id": 1016,
+        "content": [
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Enter Dungeon\nto gain ample Coin",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1017": {
+        "id": 1017,
+        "content": [
+            {
+                "dir": 2,
+                "type": 1,
+                "content": "Successful stage challenging\ngrants rewards",
+                "skintype": 1
+            },
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Claim Relic Shards",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1018": {
+        "id": 1018,
+        "content": [
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Say hello\nto everyone"
+            },
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Tap to close"
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1019": {
+        "id": 1019,
+        "content": [
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "There is one free Treasure Hunt daily\ndon't forget about it",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1020": {
+        "id": 1020,
+        "content": [
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Enter Bloody Land\nto gain ample EXP",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1021": {
+        "id": 1021,
+        "content": [
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Complete Rebirth Quest\n and increase your Rebirth level",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1022": {
+        "id": 1022,
+        "content": [
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Go to Character\nto equip gear",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1023": {
+        "id": 1023,
+        "content": [
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Place in Shards\nto activate Relic",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1024": {
+        "id": 1024,
+        "content": [
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Challenge Players\nto win the diamonds",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1025": {
+        "id": 1025,
+        "content": [
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Enter Dungeon\nto gain Talent Points",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1026": {
+        "id": 1026,
+        "content": [
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Enter Dungeon\nto gain Training Items",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1027": {
+        "id": 1027,
+        "content": [
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Switch to [Cross-server Boss] Mode",
+                "skintype": 1
+            },
+            {
+                "dir": 3,
+                "type": 1,
+                "content": "Challenge Cross-server Boss",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Defeat Cross-server Boss\nto gain rare gear",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": -1
+            }
+        ],
+        "params": []
+    },
+    "1028": {
+        "id": 1028,
+        "content": [
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Enter [Guild] mode",
+                "skintype": 1
+            },
+            {
+                "dir": 3,
+                "type": 1,
+                "content": "Tap on Event Hall",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Activate Team Challenge",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Initiate Guild Invitation",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "The more people challenge it\nthe ampler the rewards",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": -1
+            }
+        ],
+        "params": []
+    },
+    "1029": {
+        "id": 1029,
+        "content": [
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Enter [Multiplayer PvP] mode",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Switch to [Crystal Valley] mode",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Enter Crystal Valley",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Tap to mine",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Increasing Quality to \ngain more rewards",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Start Mining",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": -1
+            }
+        ],
+        "params": []
+    },
+    "1030": {
+        "id": 1030,
+        "content": [
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Enter [Competition] mode",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Switch to [King of Peaks] mode",
+                "skintype": 1
+            },
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Match with an opponent\nfight to become the strongest player",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": -1
+            }
+        ],
+        "params": []
+    },
+    "1031": {
+        "id": 1031,
+        "content": [
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Enter [Multiplayer PvP] mode",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Switch to [Red Fortress] mode",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Multiplayer PvP\nClimb up if you are strong",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": -1
+            }
+        ],
+        "params": []
+    },
+    "1032": {
+        "id": 1032,
+        "content": [
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Enter [Dungeon] mode",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Switch to [EXP Dungeon] label",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Tab on [Demon Fortress]",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Enter Demon Fortress\nto gain ample EXP",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": -1
+            }
+        ],
+        "params": []
+    },
+    "1033": {
+        "id": 1033,
+        "content": [
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Enter Stage Page",
+                "skintype": 1
+            },
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Tap on [Fast AFK]",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Tap on [Free Raid]",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": -1
+            }
+        ],
+        "params": []
+    },
+    "1034": {
+        "id": 1034,
+        "content": [
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Tap on Quest to start challenging stages",
+                "skintype": 1
+            },
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Tap on [Stage] to acquire ample rewards",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": -1
+            }
+        ],
+        "params": []
+    },
+    "1035": {
+        "id": 1035,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Equip Gear\nBoost CP",
+                "skintype": 1
+            },
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Continue the battle...",
+                "skintype": 3
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Claim",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1036": {
+        "id": 1036,
+        "content": [
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Tap to transform",
+                "skintype": 1
+            },
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Switch to auto transform",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 0
+            },
+            {
+                "type": 2,
+                "step": 0
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": [
+            3
+        ]
+    },
+    "1037": {
+        "id": 1037,
+        "content": [
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Enter Dungeon\nto acquire ample materials",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1039": {
+        "id": 1039,
+        "content": [
+            {
+                "dir": 2,
+                "type": 1,
+                "content": "Enter Ethereal Realm\nto start challenging stage",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Tap to Start\nChallenge Ethereal Realm",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 0
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1040": {
+        "id": 1040,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Tap and hold to quickly\nenhance Avatar CP",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1041": {
+        "id": 1041,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest",
+                "skintype": 1
+            },
+            {
+                "dir": 1,
+                "type": 1,
+                "content": "Tap and hold to quickly\nincrease Avatar Rank",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "1042": {
+        "id": 1042,
+        "content": [
+            {
+                "dir": 4,
+                "type": 1,
+                "content": "Enter Dungeon\nto gain Training Items",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 1
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "2000": {
+        "id": 2000,
+        "content": [
+            {
+                "dir": 4,
+                "content": "Defeat the players to gain high scores",
+                "time": 4
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 0
+            },
+            {
+                "type": 2,
+                "step": 0
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": [
+            3
+        ]
+    },
+    "2001": {
+        "id": 2001,
+        "content": [
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Tap to inspire and double the ATK"
+            },
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Tap to inspire and double the ATK"
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 1
+            }
+        ],
+        "params": []
+    },
+    "2002": {
+        "id": 2002,
+        "content": [
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Tap to inspire and double the ATK"
+            },
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Tap to inspire and double the ATK"
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 1
+            }
+        ],
+        "params": []
+    },
+    "9992": {
+        "id": 9992,
+        "content": [
+            {
+                "dir": 4,
+                "type": 4,
+                "content": "Tap to equip",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 0
+            },
+            {
+                "type": 2,
+                "step": 0
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "9993": {
+        "id": 9993,
+        "content": [
+            {
+                "dir": 4,
+                "type": 0,
+                "content": "Tap on combat button\nto go to the wild map to eliminate the monsters and level up",
+                "skintype": 1,
+                "sound": "yuyin06_mp3"
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 0
+            },
+            {
+                "type": 2,
+                "step": 0
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": []
+    },
+    "9994": {
+        "id": 9994,
+        "content": [
+            {
+                "dir": 4,
+                "type": 0,
+                "content": "Wake up the Power of Avatar\nEliminate the invading monsters",
+                "time": 4,
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 0
+            },
+            {
+                "type": 2,
+                "step": 0
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": [
+            3
+        ]
+    },
+    "9995": {
+        "id": 9995,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest"
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 0
+            },
+            {
+                "type": 2,
+                "step": 0
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": [
+            3
+        ]
+    },
+    "9996": {
+        "id": 9996,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Claim",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": -1
+            },
+            {
+                "type": 2,
+                "step": 2
+            },
+            {
+                "type": 3,
+                "step": 1
+            }
+        ],
+        "params": [
+            3
+        ]
+    },
+    "9997": {
+        "id": 9997,
+        "content": [
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Go to Quest"
+            },
+            {
+                "dir": 1,
+                "type": 3,
+                "content": "Claim"
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 0
+            },
+            {
+                "type": 2,
+                "step": 0
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": [
+            3
+        ]
+    },
+    "9998": {
+        "id": 9998,
+        "content": [
+            {
+                "dir": 4,
+                "type": 3,
+                "content": "Tap to transform",
+                "skintype": 1
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 0
+            },
+            {
+                "type": 2,
+                "step": 0
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": [
+            3
+        ]
+    },
+    "9999": {
+        "id": 9999,
+        "content": [
+            {
+                "dir": 4,
+                "content": "Challenge Boss\nto start a new map",
+                "skintype": 1
+            },
+            {
+                "dir": 3,
+                "content": "Tap to challenge"
+            }
+        ],
+        "steps": [
+            {
+                "type": 1,
+                "step": 0
+            },
+            {
+                "type": 2,
+                "step": 0
+            },
+            {
+                "type": 3,
+                "step": 0
+            }
+        ],
+        "params": [
+            3
+        ]
+    }
+}

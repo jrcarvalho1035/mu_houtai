@@ -1,0 +1,275 @@
+{
+    "1001": {
+        "0": {
+            "id": 1001,
+            "roleId": 0,
+            "level": 1,
+            "job": 1,
+            "sqId": 0,
+            "szId": 0,
+            "wingId": 0,
+            "attrs": [
+                {
+                    "type": 1,
+                    "value": 207876
+                },
+                {
+                    "type": 2,
+                    "value": 300
+                },
+                {
+                    "type": 3,
+                    "value": 500
+                },
+                {
+                    "type": 4,
+                    "value": 11646
+                },
+                {
+                    "type": 5,
+                    "value": 2066
+                },
+                {
+                    "type": 6,
+                    "value": 2426
+                },
+                {
+                    "type": 7,
+                    "value": 4200
+                },
+                {
+                    "type": 8,
+                    "value": 59
+                },
+                {
+                    "type": 9,
+                    "value": 400
+                },
+                {
+                    "type": 10,
+                    "value": 2000
+                },
+                {
+                    "type": 11,
+                    "value": 0
+                },
+                {
+                    "type": 12,
+                    "value": 500
+                },
+                {
+                    "type": 22,
+                    "value": 400
+                },
+                {
+                    "type": 23,
+                    "value": 400
+                },
+                {
+                    "type": 24,
+                    "value": 0
+                },
+                {
+                    "type": 25,
+                    "value": 3676
+                },
+                {
+                    "type": 26,
+                    "value": 1676
+                }
+            ],
+            "skills": [
+                101
+            ],
+            "robotPos": [
+                {
+                    "x": 23,
+                    "y": 17
+                }
+            ],
+            "taskId": 1
+        }
+    },
+    "1002": {
+        "0": {
+            "id": 1002,
+            "roleId": 0,
+            "level": 1,
+            "job": 2,
+            "sqId": 0,
+            "szId": 0,
+            "wingId": 0,
+            "attrs": [
+                {
+                    "type": 1,
+                    "value": 207876
+                },
+                {
+                    "type": 2,
+                    "value": 300
+                },
+                {
+                    "type": 3,
+                    "value": 500
+                },
+                {
+                    "type": 4,
+                    "value": 11646
+                },
+                {
+                    "type": 5,
+                    "value": 2066
+                },
+                {
+                    "type": 6,
+                    "value": 2426
+                },
+                {
+                    "type": 7,
+                    "value": 4200
+                },
+                {
+                    "type": 8,
+                    "value": 59
+                },
+                {
+                    "type": 9,
+                    "value": 400
+                },
+                {
+                    "type": 10,
+                    "value": 2000
+                },
+                {
+                    "type": 11,
+                    "value": 0
+                },
+                {
+                    "type": 12,
+                    "value": 500
+                },
+                {
+                    "type": 22,
+                    "value": 400
+                },
+                {
+                    "type": 23,
+                    "value": 400
+                },
+                {
+                    "type": 24,
+                    "value": 0
+                },
+                {
+                    "type": 25,
+                    "value": 3676
+                },
+                {
+                    "type": 26,
+                    "value": 1676
+                }
+            ],
+            "skills": [
+                201
+            ],
+            "robotPos": [
+                {
+                    "x": 23,
+                    "y": 17
+                }
+            ],
+            "taskId": 1
+        }
+    },
+    "1003": {
+        "0": {
+            "id": 1003,
+            "roleId": 0,
+            "level": 1,
+            "job": 3,
+            "sqId": 0,
+            "szId": 0,
+            "wingId": 0,
+            "attrs": [
+                {
+                    "type": 1,
+                    "value": 207876
+                },
+                {
+                    "type": 2,
+                    "value": 300
+                },
+                {
+                    "type": 3,
+                    "value": 500
+                },
+                {
+                    "type": 4,
+                    "value": 11646
+                },
+                {
+                    "type": 5,
+                    "value": 2066
+                },
+                {
+                    "type": 6,
+                    "value": 2426
+                },
+                {
+                    "type": 7,
+                    "value": 4200
+                },
+                {
+                    "type": 8,
+                    "value": 59
+                },
+                {
+                    "type": 9,
+                    "value": 400
+                },
+                {
+                    "type": 10,
+                    "value": 2000
+                },
+                {
+                    "type": 11,
+                    "value": 0
+                },
+                {
+                    "type": 12,
+                    "value": 500
+                },
+                {
+                    "type": 22,
+                    "value": 400
+                },
+                {
+                    "type": 23,
+                    "value": 400
+                },
+                {
+                    "type": 24,
+                    "value": 0
+                },
+                {
+                    "type": 25,
+                    "value": 3676
+                },
+                {
+                    "type": 26,
+                    "value": 1676
+                }
+            ],
+            "skills": [
+                201
+            ],
+            "robotPos": [
+                {
+                    "x": 23,
+                    "y": 17
+                }
+            ],
+            "taskId": 1
+        }
+    }
+}

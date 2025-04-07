@@ -1,0 +1,39 @@
+{
+    "RENAME_CARD": 450001,
+    "XUESE_DATIANSHI": 310008,
+    "ZSSHI_ITEM": 310007,
+    "ITEM_SHENGMING": 310005,
+    "EQUIPFOSTER_ITEM": 310006,
+    "EQUIBOOST_ITEM": [
+        310001,
+        310002,
+        310003,
+        310004
+    ],
+    "GUAJI_FUBEN_MIN_ID": 10001,
+    "GUAJI_FUBEN_MAX_ID": 20000,
+    "EMO_ITEM": 340003,
+    "XUESE_ITEM": 340006,
+    "GUOSHI": 360000,
+    "Item_TIANMOSUIPIAN": 310610,
+    "Item_MIYU": 390001,
+    "ITEM_GEM_ID": 699999,
+    "JueWangDanRenFuBenId": 27051,
+    "JueWangFirstFuBenId": 27001,
+    "bossJingpoId": 310100,
+    "xingshiId": 310083,
+    "huangguanId": 310084,
+    "juewangFirstTaskId": 21,
+    "getFruitId": 1000710,
+    "huanHuaItemIds": [
+        1010107
+    ],
+    "yunbiaoId": 310101,
+    "lingwangNpc": 10017,
+    "kalima_ItemId": 340007,
+    "Item_Fenjie": 310800,
+    "isBanChat": 0,
+    "banChatTips": "由于系统需要进行临时升级，因此需要限制聊天功能的使用",
+    "isBanEditorName": 0,
+    "banEditorNameTips": "由于系统需要进行临时升级，因此需要限制改名功能的使用"
+}

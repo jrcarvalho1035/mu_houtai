@@ -1,0 +1,170 @@
+{
+    "97190": {
+        "id": 97190,
+        "subType": 1,
+        "needItems": [
+            {
+                "id": 450397,
+                "count": 1
+            },
+            {
+                "id": 450398,
+                "count": 1
+            },
+            {
+                "id": 450399,
+                "count": 1
+            }
+        ],
+        "scores": [
+            10,
+            20,
+            50
+        ],
+        "scoreName": "Party Point",
+        "rewards": [
+            [],
+            [],
+            []
+        ],
+        "goal": 3000,
+        "rechargeRewards": [
+            {
+                "id": 450399,
+                "count": 10
+            }
+        ],
+        "pay": 9803,
+        "showBuyRewards": [
+            {
+                "id": 1070007,
+                "count": 1
+            },
+            {
+                "id": 341704,
+                "count": 1
+            },
+            {
+                "id": 1050002,
+                "count": 1
+            }
+        ],
+        "desc1": "Get Party items by killing bosses and exchange points for gifts",
+        "desc2": "After activating the Party Decree, get 10 Potion for every $4.99 top-up",
+        "desc3": "The point will be cleared after the event, please submit the materials in time.",
+        "desc4": "$num$ Party Point(s)",
+        "desc5": "Claimable Potion: $num$"
+    },
+    "98190": {
+        "id": 98190,
+        "subType": 1,
+        "needItems": [
+            {
+                "id": 450405,
+                "count": 1
+            },
+            {
+                "id": 450406,
+                "count": 1
+            },
+            {
+                "id": 450407,
+                "count": 1
+            }
+        ],
+        "scores": [
+            10,
+            20,
+            50
+        ],
+        "scoreName": "Party Point",
+        "rewards": [
+            [],
+            [],
+            []
+        ],
+        "goal": 3000,
+        "rechargeRewards": [
+            {
+                "id": 450407,
+                "count": 10
+            }
+        ],
+        "pay": 9803,
+        "showBuyRewards": [
+            {
+                "id": 1070007,
+                "count": 1
+            },
+            {
+                "id": 341704,
+                "count": 1
+            },
+            {
+                "id": 1050002,
+                "count": 1
+            }
+        ],
+        "desc1": "Get Party items by killing bosses and exchange points for gifts",
+        "desc2": "After activating the Party Decree, get 10 Potion for every $4.99 top-up",
+        "desc3": "The point will be cleared after the event, please submit the materials in time.",
+        "desc4": "$num$ Party Point(s)",
+        "desc5": "Claimable Potion: $num$"
+    },
+    "98790": {
+        "id": 98790,
+        "subType": 1,
+        "needItems": [
+            {
+                "id": 450410,
+                "count": 1
+            },
+            {
+                "id": 450411,
+                "count": 1
+            },
+            {
+                "id": 450412,
+                "count": 1
+            }
+        ],
+        "scores": [
+            10,
+            20,
+            50
+        ],
+        "scoreName": "Party Point",
+        "rewards": [
+            [],
+            [],
+            []
+        ],
+        "goal": 3000,
+        "rechargeRewards": [
+            {
+                "id": 450412,
+                "count": 10
+            }
+        ],
+        "pay": 9803,
+        "showBuyRewards": [
+            {
+                "id": 1070007,
+                "count": 1
+            },
+            {
+                "id": 341704,
+                "count": 1
+            },
+            {
+                "id": 1050002,
+                "count": 1
+            }
+        ],
+        "desc1": "Get Party items by killing bosses and exchange points for gifts",
+        "desc2": "After activating the Party Decree, get 10 Potion for every $4.99 top-up",
+        "desc3": "The point will be cleared after the event, please submit the materials in time.",
+        "desc4": "$num$ Party Point(s)",
+        "desc5": "Claimable Potion: $num$"
+    }
+}

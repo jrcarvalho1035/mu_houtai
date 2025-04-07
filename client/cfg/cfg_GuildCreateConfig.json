@@ -1,0 +1,16 @@
+{
+    "1": {
+        "level": 1,
+        "moneyType": 2,
+        "moneyCount": 1000,
+        "award": 0,
+        "vipLv": 1
+    },
+    "2": {
+        "level": 2,
+        "moneyType": 2,
+        "moneyCount": 5000,
+        "award": 5000,
+        "vipLv": 4
+    }
+}

@@ -1,0 +1,2387 @@
+{
+    "0": {
+        "lv": 0,
+        "needYb": 0,
+        "awards": [],
+        "levelAttr": [],
+        "dailyrewards": [],
+        "levelExtraPower": 0,
+        "attrdesc": [
+            "Boss DMG Bonus +10%",
+            "First Top-up Grand Pack",
+            "Lv.6 Gem"
+        ],
+        "power": 0,
+        "description": [],
+        "dailysaodang": 1,
+        "jjcbuy": 5,
+        "molongbuy": 0,
+        "devilsbuy": 0,
+        "xuesebuy": 0,
+        "quickfight": 0,
+        "mine": 0,
+        "tianti": 0,
+        "fruittimes": 10,
+        "cbthcount": 10,
+        "crossbuycount": 0,
+        "mcIcon": [],
+        "jinzhuan": 20000,
+        "kfBossSdBoxCount": 0,
+        "shenghunbuy": 0,
+        "brave": 1,
+        "molianReset": 1,
+        "shenshouworkteam": 3,
+        "holylandbuy": 0,
+        "lingqifbbuy": 0
+    },
+    "1": {
+        "lv": 1,
+        "needYb": 1000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 220006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310019,
+                "count": 10
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2800
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 56,
+                "value": 1000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 2
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 200000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 100000
+            }
+        ],
+        "levelExtraPower": 12800,
+        "attrdesc": [
+            "Boss DMG Bonus +10%",
+            "First Top-up Grand Pack",
+            "Lv.6 Gem"
+        ],
+        "power": 12800,
+        "description": [
+            "DMG to Boss|C:0x18ff00&T:+10%|",
+            "Gear bag capacity|C:0x18ff00&T:+50|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+1|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+1|",
+            "Arena purchase attempts|C:0x18ff00&T:+5|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+5|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+1|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+1|"
+        ],
+        "dailysaodang": 1,
+        "jjcbuy": 5,
+        "molongbuy": 0,
+        "devilsbuy": 0,
+        "xuesebuy": 1,
+        "quickfight": 0,
+        "mine": 0,
+        "tianti": 1,
+        "fruittimes": 10,
+        "cbthcount": 10,
+        "crossbuycount": 0,
+        "mcIcon": {
+            "type": 1,
+            "param": 15
+        },
+        "jinzhuan": 20000,
+        "kfBossSdBoxCount": 5,
+        "shenghunbuy": 0,
+        "brave": 1,
+        "molianReset": 1,
+        "shenshouworkteam": 3,
+        "holylandbuy": 1,
+        "lingqifbbuy": 0
+    },
+    "2": {
+        "lv": 2,
+        "needYb": 3000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 341030,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 12
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 5800
+            },
+            {
+                "type": 1,
+                "id": 310019,
+                "count": 20
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 56,
+                "value": 1000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 3
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 3
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 300000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 150000
+            }
+        ],
+        "levelExtraPower": 74800,
+        "attrdesc": [
+            "Boss DMG Bonus +10%",
+            "Gear Boss Raid All",
+            "Legendary Soulgear"
+        ],
+        "power": 74800,
+        "description": [
+            "DMG to Boss|C:0x18ff00&T:+10%|",
+            "Gear bag capacity|C:0x18ff00&T:+50|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+1|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+1|",
+            "Arena purchase attempts|C:0x18ff00&T:+5|",
+            "Activate Raid All feature in Gear Boss",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+1|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+5|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+2|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+1|"
+        ],
+        "dailysaodang": 2,
+        "jjcbuy": 5,
+        "molongbuy": 1,
+        "devilsbuy": 0,
+        "xuesebuy": 1,
+        "quickfight": 0,
+        "mine": 1,
+        "tianti": 1,
+        "fruittimes": 20,
+        "cbthcount": 20,
+        "crossbuycount": 0,
+        "mcIcon": {
+            "type": 9,
+            "param": 7
+        },
+        "jinzhuan": 20000,
+        "kfBossSdBoxCount": 5,
+        "shenghunbuy": 0,
+        "brave": 2,
+        "molianReset": 1,
+        "shenshouworkteam": 3,
+        "holylandbuy": 1,
+        "lingqifbbuy": 0
+    },
+    "3": {
+        "lv": 3,
+        "needYb": 6000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1083006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220008,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 8800
+            },
+            {
+                "type": 1,
+                "id": 310019,
+                "count": 20
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 56,
+                "value": 1000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 4
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 4
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 400000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 200000
+            }
+        ],
+        "levelExtraPower": 314800,
+        "attrdesc": [
+            "Boss DMG Bonus +10%",
+            "Limited Merlin Book",
+            "Lv.8 Gem"
+        ],
+        "power": 314800,
+        "description": [
+            "DMG to Boss|C:0x18ff00&T:+10%|",
+            "Gear bag capacity|C:0x18ff00&T:+100|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+1|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+1|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+1|",
+            "Arena purchase attempts|C:0x18ff00&T:+5|",
+            "Activate Raid All feature in Gear Boss",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+1|",
+            "Arena purchase attempts|C:0x18ff00&T:+5|",
+            "Fast Combat purchase attempts|C:0x18ff00&T:+1|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+1|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+10|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+2|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+1|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+2|"
+        ],
+        "dailysaodang": 2,
+        "jjcbuy": 5,
+        "molongbuy": 1,
+        "devilsbuy": 1,
+        "xuesebuy": 1,
+        "quickfight": 1,
+        "mine": 1,
+        "tianti": 1,
+        "fruittimes": 20,
+        "cbthcount": 30,
+        "crossbuycount": 1,
+        "mcIcon": {
+            "type": 5,
+            "param": 6
+        },
+        "jinzhuan": 20000,
+        "kfBossSdBoxCount": 10,
+        "shenghunbuy": 1,
+        "brave": 2,
+        "molianReset": 2,
+        "shenshouworkteam": 3,
+        "holylandbuy": 2,
+        "lingqifbbuy": 0
+    },
+    "4": {
+        "lv": 4,
+        "needYb": 9800,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1062007,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310202,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 12800
+            },
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 5
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 17,
+                "value": 200
+            },
+            {
+                "type": 56,
+                "value": 1000
+            },
+            {
+                "type": 59,
+                "value": 500
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 5
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 5
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 600000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 300000
+            }
+        ],
+        "levelExtraPower": 517800,
+        "attrdesc": [
+            "Boss DMG Bonus +10%",
+            "PVP DMG Bonus 5%",
+            "HP Bonus +2%"
+        ],
+        "power": 517800,
+        "description": [
+            "HP Bonus|C:0x18ff00&T:+2%|",
+            "PVP DMG INC|C:0x18ff00&T:+5%|",
+            "DMG to Boss|C:0x18ff00&T:+10%|",
+            "Gear bag capacity|C:0x18ff00&T:+100|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+1|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+1|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+2|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+2|",
+            "Arena purchase attempts|C:0x18ff00&T:+5|",
+            "Fast Combat purchase attempts|C:0x18ff00&T:+1|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+1|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+10|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+3|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+1|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+2|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+1|"
+        ],
+        "dailysaodang": 3,
+        "jjcbuy": 5,
+        "molongbuy": 2,
+        "devilsbuy": 1,
+        "xuesebuy": 1,
+        "quickfight": 1,
+        "mine": 2,
+        "tianti": 2,
+        "fruittimes": 30,
+        "cbthcount": 40,
+        "crossbuycount": 1,
+        "mcIcon": {
+            "type": 7,
+            "param": 7
+        },
+        "jinzhuan": 20000,
+        "kfBossSdBoxCount": 10,
+        "shenghunbuy": 1,
+        "brave": 3,
+        "molianReset": 2,
+        "shenshouworkteam": 3,
+        "holylandbuy": 2,
+        "lingqifbbuy": 1
+    },
+    "5": {
+        "lv": 5,
+        "needYb": 19800,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1081008,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 20
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 18800
+            },
+            {
+                "type": 1,
+                "id": 310022,
+                "count": 30
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 200
+            },
+            {
+                "type": 17,
+                "value": 200
+            },
+            {
+                "type": 56,
+                "value": 1000
+            },
+            {
+                "type": 59,
+                "value": 500
+            },
+            {
+                "type": 60,
+                "value": 500
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 10
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 800000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 400000
+            }
+        ],
+        "levelExtraPower": 927800,
+        "attrdesc": [
+            "ATK Bonus +2%",
+            "PVP DMG Reduction 5%",
+            "HP Bonus +2%"
+        ],
+        "power": 927800,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+2%|",
+            "HP Bonus|C:0x18ff00&T:+2%|",
+            "PVP DMG INC|C:0x18ff00&T:+5%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+5%|",
+            "DMG to Boss|C:0x18ff00&T:+10%|",
+            "Gear bag capacity|C:0x18ff00&T:+150|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+1|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+2|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+2|",
+            "Arena purchase attempts|C:0x18ff00&T:+10|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+2|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+1|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+20|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+3|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+1|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+3|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+1|"
+        ],
+        "dailysaodang": 3,
+        "jjcbuy": 10,
+        "molongbuy": 2,
+        "devilsbuy": 1,
+        "xuesebuy": 2,
+        "quickfight": 2,
+        "mine": 2,
+        "tianti": 2,
+        "fruittimes": 30,
+        "cbthcount": 50,
+        "crossbuycount": 1,
+        "mcIcon": {
+            "type": 3,
+            "param": 8
+        },
+        "jinzhuan": 20000,
+        "kfBossSdBoxCount": 20,
+        "shenghunbuy": 2,
+        "brave": 3,
+        "molianReset": 2,
+        "shenshouworkteam": 4,
+        "holylandbuy": 3,
+        "lingqifbbuy": 1
+    },
+    "6": {
+        "lv": 6,
+        "needYb": 48800,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1010109,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220010,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 28800
+            },
+            {
+                "type": 1,
+                "id": 310022,
+                "count": 30
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 200
+            },
+            {
+                "type": 17,
+                "value": 400
+            },
+            {
+                "type": 56,
+                "value": 1000
+            },
+            {
+                "type": 59,
+                "value": 500
+            },
+            {
+                "type": 60,
+                "value": 500
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 20
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 20
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 1000000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 500000
+            }
+        ],
+        "levelExtraPower": 1665800,
+        "attrdesc": [
+            "Boss DMG Bonus +10%",
+            "ATK Bonus +2%",
+            "HP Bonus +4%"
+        ],
+        "power": 1665800,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+2%|",
+            "HP Bonus|C:0x18ff00&T:+4%|",
+            "PVP DMG INC|C:0x18ff00&T:+5%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+5%|",
+            "DMG to Boss|C:0x18ff00&T:+10%|",
+            "Gear bag capacity|C:0x18ff00&T:+150|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+1|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+2|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+3|",
+            "Arena purchase attempts|C:0x18ff00&T:+10|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+2|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+2|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+30|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+4|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+2|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+3|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+2|"
+        ],
+        "dailysaodang": 4,
+        "jjcbuy": 10,
+        "molongbuy": 3,
+        "devilsbuy": 1,
+        "xuesebuy": 2,
+        "quickfight": 2,
+        "mine": 3,
+        "tianti": 2,
+        "fruittimes": 40,
+        "cbthcount": 60,
+        "crossbuycount": 2,
+        "mcIcon": {
+            "type": 2,
+            "param": 9
+        },
+        "jinzhuan": 25000,
+        "kfBossSdBoxCount": 30,
+        "shenghunbuy": 2,
+        "brave": 4,
+        "molianReset": 3,
+        "shenshouworkteam": 4,
+        "holylandbuy": 3,
+        "lingqifbbuy": 2
+    },
+    "7": {
+        "lv": 7,
+        "needYb": 99800,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1082009,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 50
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 38800
+            },
+            {
+                "type": 1,
+                "id": 310022,
+                "count": 50
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 400
+            },
+            {
+                "type": 17,
+                "value": 400
+            },
+            {
+                "type": 56,
+                "value": 1000
+            },
+            {
+                "type": 59,
+                "value": 1000
+            },
+            {
+                "type": 60,
+                "value": 500
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 30
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 30
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 1200000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 600000
+            }
+        ],
+        "levelExtraPower": 2803800,
+        "attrdesc": [
+            "PVP DMG Bonus 10%",
+            "ATK Bonus +4%",
+            "HP Bonus +4%"
+        ],
+        "power": 2803800,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+4%|",
+            "HP Bonus|C:0x18ff00&T:+4%|",
+            "PVP DMG INC|C:0x18ff00&T:+10%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+5%|",
+            "DMG to Boss|C:0x18ff00&T:+10%|",
+            "Gear bag capacity|C:0x18ff00&T:+200|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+3|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+3|",
+            "Arena purchase attempts|C:0x18ff00&T:+15|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+2|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+2|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+40|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+4|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+2|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+4|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+2|"
+        ],
+        "dailysaodang": 4,
+        "jjcbuy": 15,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 2,
+        "mine": 3,
+        "tianti": 3,
+        "fruittimes": 40,
+        "cbthcount": 70,
+        "crossbuycount": 2,
+        "mcIcon": {
+            "type": 4,
+            "param": 9
+        },
+        "jinzhuan": 35000,
+        "kfBossSdBoxCount": 40,
+        "shenghunbuy": 3,
+        "brave": 4,
+        "molianReset": 3,
+        "shenshouworkteam": 4,
+        "holylandbuy": 4,
+        "lingqifbbuy": 2
+    },
+    "8": {
+        "lv": 8,
+        "needYb": 149800,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1072011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220010,
+                "count": 2
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 58800
+            },
+            {
+                "type": 1,
+                "id": 310023,
+                "count": 50
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 400
+            },
+            {
+                "type": 17,
+                "value": 600
+            },
+            {
+                "type": 56,
+                "value": 1000
+            },
+            {
+                "type": 59,
+                "value": 1000
+            },
+            {
+                "type": 60,
+                "value": 1000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 40
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 40
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 1600000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 800000
+            }
+        ],
+        "levelExtraPower": 3834800,
+        "attrdesc": [
+            "PVP DMG Reduction 10%",
+            "ATK Bonus +4%",
+            "HP Bonus +6%"
+        ],
+        "power": 3834800,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+4%|",
+            "HP Bonus|C:0x18ff00&T:+6%|",
+            "PVP DMG INC|C:0x18ff00&T:+10%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+10%|",
+            "DMG to Boss|C:0x18ff00&T:+10%|",
+            "Gear bag capacity|C:0x18ff00&T:+200|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+3|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+4|",
+            "Arena purchase attempts|C:0x18ff00&T:+15|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+3|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+2|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+50|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+5|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+2|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+4|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 5,
+        "jjcbuy": 15,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 3,
+        "mine": 4,
+        "tianti": 3,
+        "fruittimes": 50,
+        "cbthcount": 70,
+        "crossbuycount": 2,
+        "mcIcon": {
+            "type": 6,
+            "param": 11
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 50,
+        "shenghunbuy": 3,
+        "brave": 5,
+        "molianReset": 3,
+        "shenshouworkteam": 4,
+        "holylandbuy": 4,
+        "lingqifbbuy": 3
+    },
+    "9": {
+        "lv": 9,
+        "needYb": 200000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1062011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220011,
+                "count": 2
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 88800
+            },
+            {
+                "type": 1,
+                "id": 310023,
+                "count": 50
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 600
+            },
+            {
+                "type": 17,
+                "value": 600
+            },
+            {
+                "type": 56,
+                "value": 1000
+            },
+            {
+                "type": 59,
+                "value": 1000
+            },
+            {
+                "type": 60,
+                "value": 1000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 50
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 50
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 2000000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 1000000
+            }
+        ],
+        "levelExtraPower": 4620800,
+        "attrdesc": [
+            "PVP DMG Bonus 10%",
+            "ATK Bonus +6%",
+            "HP Bonus +6%"
+        ],
+        "power": 4620800,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+6%|",
+            "HP Bonus|C:0x18ff00&T:+6%|",
+            "PVP DMG INC|C:0x18ff00&T:+10%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+10%|",
+            "DMG to Boss|C:0x18ff00&T:+10%|",
+            "Gear bag capacity|C:0x18ff00&T:+250|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+3|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+4|",
+            "Arena purchase attempts|C:0x18ff00&T:+15|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+3|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+2|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+60|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+5|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+3|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+5|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 5,
+        "jjcbuy": 15,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 3,
+        "mine": 4,
+        "tianti": 3,
+        "fruittimes": 50,
+        "cbthcount": 70,
+        "crossbuycount": 2,
+        "mcIcon": {
+            "type": 7,
+            "param": 11
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 60,
+        "shenghunbuy": 3,
+        "brave": 5,
+        "molianReset": 4,
+        "shenshouworkteam": 4,
+        "holylandbuy": 5,
+        "lingqifbbuy": 3
+    },
+    "10": {
+        "lv": 10,
+        "needYb": 300000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1081011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220012,
+                "count": 2
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 120000
+            },
+            {
+                "type": 1,
+                "id": 310023,
+                "count": 80
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 600
+            },
+            {
+                "type": 17,
+                "value": 800
+            },
+            {
+                "type": 56,
+                "value": 1000
+            },
+            {
+                "type": 59,
+                "value": 1500
+            },
+            {
+                "type": 60,
+                "value": 1000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 60
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 60
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 2400000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 1200000
+            }
+        ],
+        "levelExtraPower": 5676000,
+        "attrdesc": [
+            "PVP DMG Bonus 15%",
+            "ATK Bonus +6%",
+            "HP Bonus +8%"
+        ],
+        "power": 5676000,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+6%|",
+            "HP Bonus|C:0x18ff00&T:+8%|",
+            "PVP DMG INC|C:0x18ff00&T:+15%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+10%|",
+            "DMG to Boss|C:0x18ff00&T:+10%|",
+            "Gear bag capacity|C:0x18ff00&T:+250|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+4|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+5|",
+            "Arena purchase attempts|C:0x18ff00&T:+20|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+3|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+3|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+70|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+6|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+3|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+5|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 6,
+        "jjcbuy": 20,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 3,
+        "mine": 5,
+        "tianti": 4,
+        "fruittimes": 60,
+        "cbthcount": 70,
+        "crossbuycount": 3,
+        "mcIcon": {
+            "type": 3,
+            "param": 11
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 70,
+        "shenghunbuy": 3,
+        "brave": 6,
+        "molianReset": 4,
+        "shenshouworkteam": 5,
+        "holylandbuy": 5,
+        "lingqifbbuy": 3
+    },
+    "11": {
+        "lv": 11,
+        "needYb": 500000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1010111,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220012,
+                "count": 3
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 180000
+            },
+            {
+                "type": 1,
+                "id": 1051006,
+                "count": 2
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 800
+            },
+            {
+                "type": 17,
+                "value": 800
+            },
+            {
+                "type": 56,
+                "value": 1000
+            },
+            {
+                "type": 59,
+                "value": 1500
+            },
+            {
+                "type": 60,
+                "value": 1500
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 70
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 70
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 2800000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 1400000
+            }
+        ],
+        "levelExtraPower": 7916000,
+        "attrdesc": [
+            "PVP DMG Reduction 15%",
+            "ATK Bonus +8%",
+            "HP Bonus +8%"
+        ],
+        "power": 7916000,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+8%|",
+            "HP Bonus|C:0x18ff00&T:+8%|",
+            "PVP DMG INC|C:0x18ff00&T:+15%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+15%|",
+            "DMG to Boss|C:0x18ff00&T:+10%|",
+            "Gear bag capacity|C:0x18ff00&T:+300|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+4|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+5|",
+            "Arena purchase attempts|C:0x18ff00&T:+20|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+3|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+3|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+90|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+6|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+3|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+6|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 6,
+        "jjcbuy": 20,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 3,
+        "mine": 5,
+        "tianti": 4,
+        "fruittimes": 60,
+        "cbthcount": 70,
+        "crossbuycount": 3,
+        "mcIcon": {
+            "type": 2,
+            "param": 11
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 90,
+        "shenghunbuy": 3,
+        "brave": 6,
+        "molianReset": 4,
+        "shenshouworkteam": 5,
+        "holylandbuy": 6,
+        "lingqifbbuy": 3
+    },
+    "12": {
+        "lv": 12,
+        "needYb": 700000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1082011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 100
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 240000
+            },
+            {
+                "type": 1,
+                "id": 1061006,
+                "count": 2
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 800
+            },
+            {
+                "type": 17,
+                "value": 1000
+            },
+            {
+                "type": 56,
+                "value": 1500
+            },
+            {
+                "type": 59,
+                "value": 1500
+            },
+            {
+                "type": 60,
+                "value": 1500
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 80
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 80
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 3200000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 1600000
+            }
+        ],
+        "levelExtraPower": 8940000,
+        "attrdesc": [
+            "Boss DMG Bonus +15%",
+            "ATK Bonus +8%",
+            "HP Bonus +10%"
+        ],
+        "power": 8940000,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+8%|",
+            "HP Bonus|C:0x18ff00&T:+10%|",
+            "PVP DMG INC|C:0x18ff00&T:+15%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+15%|",
+            "DMG to Boss|C:0x18ff00&T:+15%|",
+            "Gear bag capacity|C:0x18ff00&T:+300|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+4|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+5|",
+            "Arena purchase attempts|C:0x18ff00&T:+20|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+4|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+3|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+110|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+7|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+4|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+6|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 6,
+        "jjcbuy": 20,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 4,
+        "mine": 5,
+        "tianti": 4,
+        "fruittimes": 60,
+        "cbthcount": 70,
+        "crossbuycount": 3,
+        "mcIcon": {
+            "type": 4,
+            "param": 11
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 110,
+        "shenghunbuy": 3,
+        "brave": 7,
+        "molianReset": 5,
+        "shenshouworkteam": 5,
+        "holylandbuy": 6,
+        "lingqifbbuy": 3
+    },
+    "13": {
+        "lv": 13,
+        "needYb": 1000000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1081012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220013,
+                "count": 3
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 280000
+            },
+            {
+                "type": 1,
+                "id": 1071006,
+                "count": 3
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 1000
+            },
+            {
+                "type": 17,
+                "value": 1000
+            },
+            {
+                "type": 56,
+                "value": 1500
+            },
+            {
+                "type": 59,
+                "value": 2000
+            },
+            {
+                "type": 60,
+                "value": 1500
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 90
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 90
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 3600000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 1800000
+            }
+        ],
+        "levelExtraPower": 13152000,
+        "attrdesc": [
+            "PVP DMG Bonus 20%",
+            "ATK Bonus +10%",
+            "HP Bonus +10%"
+        ],
+        "power": 13152000,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+10%|",
+            "HP Bonus|C:0x18ff00&T:+10%|",
+            "PVP DMG INC|C:0x18ff00&T:+15%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+15%|",
+            "DMG to Boss|C:0x18ff00&T:+15%|",
+            "Gear bag capacity|C:0x18ff00&T:+350|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+5|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+6|",
+            "Arena purchase attempts|C:0x18ff00&T:+25|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+4|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+3|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+140|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+7|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+4|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+7|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 7,
+        "jjcbuy": 25,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 4,
+        "mine": 5,
+        "tianti": 5,
+        "fruittimes": 60,
+        "cbthcount": 70,
+        "crossbuycount": 3,
+        "mcIcon": {
+            "type": 3,
+            "param": 12
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 140,
+        "shenghunbuy": 3,
+        "brave": 7,
+        "molianReset": 5,
+        "shenshouworkteam": 5,
+        "holylandbuy": 7,
+        "lingqifbbuy": 3
+    },
+    "14": {
+        "lv": 14,
+        "needYb": 1500000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1010112,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220014,
+                "count": 3
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 360000
+            },
+            {
+                "type": 1,
+                "id": 310403,
+                "count": 4
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 1000
+            },
+            {
+                "type": 17,
+                "value": 1200
+            },
+            {
+                "type": 56,
+                "value": 1500
+            },
+            {
+                "type": 59,
+                "value": 2000
+            },
+            {
+                "type": 60,
+                "value": 2000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 100
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 100
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 4000000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 2000000
+            }
+        ],
+        "levelExtraPower": 18904000,
+        "attrdesc": [
+            "PVP DMG Reduction 20%",
+            "ATK Bonus +10%",
+            "HP Bonus +12%"
+        ],
+        "power": 18904000,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+10%|",
+            "HP Bonus|C:0x18ff00&T:+12%|",
+            "PVP DMG INC|C:0x18ff00&T:+20%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+20%|",
+            "DMG to Boss|C:0x18ff00&T:+15%|",
+            "Gear bag capacity|C:0x18ff00&T:+350|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+5|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+6|",
+            "Arena purchase attempts|C:0x18ff00&T:+25|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+4|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+3|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+140|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+8|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+4|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+7|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 7,
+        "jjcbuy": 25,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 4,
+        "mine": 5,
+        "tianti": 5,
+        "fruittimes": 60,
+        "cbthcount": 70,
+        "crossbuycount": 3,
+        "mcIcon": {
+            "type": 2,
+            "param": 12
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 140,
+        "shenghunbuy": 3,
+        "brave": 8,
+        "molianReset": 5,
+        "shenshouworkteam": 5,
+        "holylandbuy": 7,
+        "lingqifbbuy": 3
+    },
+    "15": {
+        "lv": 15,
+        "needYb": 2000000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1082012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220015,
+                "count": 2
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 480000
+            },
+            {
+                "type": 1,
+                "id": 310303,
+                "count": 4
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 1200
+            },
+            {
+                "type": 17,
+                "value": 1200
+            },
+            {
+                "type": 56,
+                "value": 2000
+            },
+            {
+                "type": 59,
+                "value": 2000
+            },
+            {
+                "type": 60,
+                "value": 2000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 0,
+                "id": 1061002,
+                "count": 110
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 110
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 4400000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 2200000
+            }
+        ],
+        "levelExtraPower": 21072000,
+        "attrdesc": [
+            "PVP DMG Reduction 20%",
+            "ATK Bonus +12%",
+            "HP Bonus +12%"
+        ],
+        "power": 21072000,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+12%|",
+            "HP Bonus|C:0x18ff00&T:+12%|",
+            "PVP DMG INC|C:0x18ff00&T:+20%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+20%|",
+            "DMG to Boss|C:0x18ff00&T:+20%|",
+            "Gear bag capacity|C:0x18ff00&T:+400|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+5|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+6|",
+            "Arena purchase attempts|C:0x18ff00&T:+25|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+5|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+4|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+140|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+8|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+4|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+8|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 7,
+        "jjcbuy": 25,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 5,
+        "mine": 5,
+        "tianti": 5,
+        "fruittimes": 60,
+        "cbthcount": 70,
+        "crossbuycount": 4,
+        "mcIcon": {
+            "type": 4,
+            "param": 12
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 140,
+        "shenghunbuy": 3,
+        "brave": 8,
+        "molianReset": 5,
+        "shenshouworkteam": 5,
+        "holylandbuy": 8,
+        "lingqifbbuy": 3
+    },
+    "16": {
+        "lv": 16,
+        "needYb": 3000000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1050004,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 220016,
+                "count": 3
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600000
+            },
+            {
+                "type": 1,
+                "id": 1010404,
+                "count": 5
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 1200
+            },
+            {
+                "type": 17,
+                "value": 1400
+            },
+            {
+                "type": 56,
+                "value": 2000
+            },
+            {
+                "type": 59,
+                "value": 2000
+            },
+            {
+                "type": 60,
+                "value": 2000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 0,
+                "id": 1061002,
+                "count": 120
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 120
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 4800000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 2400000
+            }
+        ],
+        "levelExtraPower": 38176000,
+        "attrdesc": [
+            "PVP DMG Reduction 20%",
+            "ATK Bonus +12%",
+            "HP Bonus +14%"
+        ],
+        "power": 38176000,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+12%|",
+            "HP Bonus|C:0x18ff00&T:+14%|",
+            "PVP DMG INC|C:0x18ff00&T:+20%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+20%|",
+            "DMG to Boss|C:0x18ff00&T:+20%|",
+            "Gear bag capacity|C:0x18ff00&T:+400|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+7|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+6|",
+            "Arena purchase attempts|C:0x18ff00&T:+30|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+5|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+4|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+170|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+8|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+4|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+8|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 7,
+        "jjcbuy": 30,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 5,
+        "mine": 5,
+        "tianti": 7,
+        "fruittimes": 60,
+        "cbthcount": 70,
+        "crossbuycount": 4,
+        "mcIcon": {
+            "type": 8,
+            "param": 104
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 170,
+        "shenghunbuy": 3,
+        "brave": 8,
+        "molianReset": 5,
+        "shenshouworkteam": 5,
+        "holylandbuy": 8,
+        "lingqifbbuy": 3
+    },
+    "17": {
+        "lv": 17,
+        "needYb": 4000000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1060004,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 220016,
+                "count": 3
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700000
+            },
+            {
+                "type": 1,
+                "id": 1081404,
+                "count": 5
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 1400
+            },
+            {
+                "type": 17,
+                "value": 1400
+            },
+            {
+                "type": 56,
+                "value": 2000
+            },
+            {
+                "type": 59,
+                "value": 2000
+            },
+            {
+                "type": 60,
+                "value": 2000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 130
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 130
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 5200000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 2600000
+            }
+        ],
+        "levelExtraPower": 38276000,
+        "attrdesc": [
+            "PVP DMG Bonus 20%",
+            "ATK Bonus +14%",
+            "HP Bonus +14%"
+        ],
+        "power": 38276000,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+14%|",
+            "HP Bonus|C:0x18ff00&T:+14%|",
+            "PVP DMG INC|C:0x18ff00&T:+20%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+20%|",
+            "DMG to Boss|C:0x18ff00&T:+20%|",
+            "Gear bag capacity|C:0x18ff00&T:+450|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+7|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+7|",
+            "Arena purchase attempts|C:0x18ff00&T:+30|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+5|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+4|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+170|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+8|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+4|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+9|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 8,
+        "jjcbuy": 30,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 5,
+        "mine": 5,
+        "tianti": 7,
+        "fruittimes": 60,
+        "cbthcount": 70,
+        "crossbuycount": 4,
+        "mcIcon": {
+            "type": 11,
+            "param": 104
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 170,
+        "shenghunbuy": 3,
+        "brave": 8,
+        "molianReset": 5,
+        "shenshouworkteam": 5,
+        "holylandbuy": 9,
+        "lingqifbbuy": 3
+    },
+    "18": {
+        "lv": 18,
+        "needYb": 5000000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1070004,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 220016,
+                "count": 3
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800000
+            },
+            {
+                "type": 1,
+                "id": 1081504,
+                "count": 5
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 1400
+            },
+            {
+                "type": 17,
+                "value": 1600
+            },
+            {
+                "type": 56,
+                "value": 2000
+            },
+            {
+                "type": 59,
+                "value": 2000
+            },
+            {
+                "type": 60,
+                "value": 2000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 140
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 140
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 5600000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 2800000
+            }
+        ],
+        "levelExtraPower": 38376000,
+        "attrdesc": [
+            "PVP DMG Bonus 20%",
+            "ATK Bonus +14%",
+            "HP Bonus +16%"
+        ],
+        "power": 38376000,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+14%|",
+            "HP Bonus|C:0x18ff00&T:+16%|",
+            "PVP DMG INC|C:0x18ff00&T:+20%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+20%|",
+            "DMG to Boss|C:0x18ff00&T:+20%|",
+            "Gear bag capacity|C:0x18ff00&T:+450|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+7|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+7|",
+            "Arena purchase attempts|C:0x18ff00&T:+30|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+6|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+4|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+170|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+8|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+4|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+9|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 8,
+        "jjcbuy": 30,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 6,
+        "mine": 5,
+        "tianti": 7,
+        "fruittimes": 60,
+        "cbthcount": 70,
+        "crossbuycount": 4,
+        "mcIcon": {
+            "type": 10,
+            "param": 104
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 170,
+        "shenghunbuy": 3,
+        "brave": 8,
+        "molianReset": 5,
+        "shenshouworkteam": 5,
+        "holylandbuy": 9,
+        "lingqifbbuy": 3
+    },
+    "19": {
+        "lv": 19,
+        "needYb": 7000000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1062012,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 220017,
+                "count": 3
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1000000
+            },
+            {
+                "type": 1,
+                "id": 1081604,
+                "count": 6
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 1600
+            },
+            {
+                "type": 17,
+                "value": 1600
+            },
+            {
+                "type": 56,
+                "value": 2000
+            },
+            {
+                "type": 59,
+                "value": 2000
+            },
+            {
+                "type": 60,
+                "value": 2000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 150
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 150
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 6000000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 3000000
+            }
+        ],
+        "levelExtraPower": 65752000,
+        "attrdesc": [
+            "PVP DMG Bonus 20%",
+            "ATK Bonus +16%",
+            "HP Bonus +16%"
+        ],
+        "power": 65752000,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+16%|",
+            "HP Bonus|C:0x18ff00&T:+16%|",
+            "PVP DMG INC|C:0x18ff00&T:+20%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+20%|",
+            "DMG to Boss|C:0x18ff00&T:+20%|",
+            "Gear bag capacity|C:0x18ff00&T:+500|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+10|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+7|",
+            "Arena purchase attempts|C:0x18ff00&T:+30|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+6|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+5|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+170|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+8|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+4|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+10|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 8,
+        "jjcbuy": 30,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 6,
+        "mine": 5,
+        "tianti": 10,
+        "fruittimes": 60,
+        "cbthcount": 70,
+        "crossbuycount": 5,
+        "mcIcon": {
+            "type": 7,
+            "param": 12
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 170,
+        "shenghunbuy": 3,
+        "brave": 8,
+        "molianReset": 5,
+        "shenshouworkteam": 5,
+        "holylandbuy": 10,
+        "lingqifbbuy": 3
+    },
+    "20": {
+        "lv": 20,
+        "needYb": 10000000,
+        "awards": [
+            {
+                "type": 1,
+                "id": 1052012,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 220018,
+                "count": 3
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1500000
+            },
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 150
+            }
+        ],
+        "levelAttr": [
+            {
+                "type": 18,
+                "value": 1600
+            },
+            {
+                "type": 17,
+                "value": 1600
+            },
+            {
+                "type": 56,
+                "value": 2000
+            },
+            {
+                "type": 59,
+                "value": 2000
+            },
+            {
+                "type": 60,
+                "value": 2000
+            }
+        ],
+        "dailyrewards": [
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 160
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 160
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 6400000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 3200000
+            }
+        ],
+        "levelExtraPower": 117554000,
+        "attrdesc": [
+            "PVP DMG Bonus 20%",
+            "ATK Bonus +16%",
+            "HP Bonus +18%"
+        ],
+        "power": 117554000,
+        "description": [
+            "ATK Bonus|C:0x18ff00&T:+16%|",
+            "HP Bonus|C:0x18ff00&T:+18%|",
+            "PVP DMG INC|C:0x18ff00&T:+20%|",
+            "PVP DMG taken DEC|C:0x18ff00&T:+20%|",
+            "DMG to Boss|C:0x18ff00&T:+20%|",
+            "Gear bag capacity|C:0x18ff00&T:+500|",
+            "Bloody Land purchase attempts|C:0x18ff00&T:+2|",
+            "Demon Fortress purchase attempts|C:0x18ff00&T:+2|",
+            "King of Peaks purchase attempts|C:0x18ff00&T:+10|",
+            "Activate Raid All feature in Gear Boss",
+            "Activate to enter Boss Homestead for free",
+            "Daily Dungeon raid attempts|C:0x18ff00&T:+7|",
+            "Arena purchase attempts|C:0x18ff00&T:+30|",
+            "Quick Battle purchase attempts|C:0x18ff00&T:+6|",
+            "Cross-server Boss purchase attempts|C:0x18ff00&T:+5|",
+            "Cross-server Boss Temple Prime Chest open attempts|C:0x18ff00&T:+200|",
+            "Warrior Temple purchase attempts|C:0x18ff00&T:+8|",
+            "Stealth Tower purchase attempts|C:0x18ff00&T:+4|",
+            "Loch Temple purchase attempts|C:0x18ff00&T:+10|",
+            "Purchase Attempts of Spirit Gear Realm |C:0x18ff00&T:+3|"
+        ],
+        "dailysaodang": 8,
+        "jjcbuy": 30,
+        "molongbuy": 3,
+        "devilsbuy": 2,
+        "xuesebuy": 2,
+        "quickfight": 6,
+        "mine": 5,
+        "tianti": 10,
+        "fruittimes": 60,
+        "cbthcount": 70,
+        "crossbuycount": 5,
+        "mcIcon": {
+            "type": 12,
+            "param": 12
+        },
+        "jinzhuan": 50000,
+        "kfBossSdBoxCount": 200,
+        "shenghunbuy": 3,
+        "brave": 8,
+        "molianReset": 5,
+        "shenshouworkteam": 5,
+        "holylandbuy": 10,
+        "lingqifbbuy": 3
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "80003": {
+        "id": 80003,
+        "subType": 1,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1500
+            }
+        ],
+        "controlTargetZg": [
+            8,
+            20082
+        ],
+        "controlTargetPf": [
+            8,
+            20082
+        ]
+    }
+}

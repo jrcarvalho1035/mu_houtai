@@ -1,0 +1,4782 @@
+{
+    "1": {
+        "idx": 1,
+        "desc": "Sign in for 1 day in total",
+        "shortDesc": "Sign in for 1 day in total",
+        "type": 84,
+        "target": 1,
+        "controlTarget": [
+            1,
+            34,
+            0
+        ]
+    },
+    "2": {
+        "idx": 2,
+        "desc": "Sign in for 5 days in total",
+        "shortDesc": "Sign in for 5 days in total",
+        "type": 84,
+        "target": 5,
+        "controlTarget": [
+            1,
+            34,
+            0
+        ]
+    },
+    "3": {
+        "idx": 3,
+        "desc": "Create Guild",
+        "shortDesc": "Create Guild",
+        "type": 126,
+        "target": 1,
+        "controlTarget": [
+            1,
+            61,
+            0
+        ]
+    },
+    "4": {
+        "idx": 4,
+        "desc": "Join a Guild",
+        "shortDesc": "Join a Guild",
+        "type": 127,
+        "target": 1,
+        "controlTarget": [
+            1,
+            61,
+            0
+        ]
+    },
+    "5": {
+        "idx": 5,
+        "desc": "Participate in Roland Castle War",
+        "shortDesc": "Participate in Roland Castle War",
+        "type": 25,
+        "target": 1,
+        "controlTarget": [
+            1,
+            35,
+            0
+        ]
+    },
+    "6": {
+        "idx": 6,
+        "desc": "Win in Roland Castle War",
+        "shortDesc": "Win in Roland Castle War",
+        "type": 128,
+        "target": 1,
+        "controlTarget": [
+            1,
+            35,
+            0
+        ]
+    },
+    "7": {
+        "idx": 7,
+        "desc": "Activate Vlaue Month Pass once to gain 50% EXP Bonus",
+        "shortDesc": "Activate Vlaue Month Pass once to gain 50% EXP Bonus",
+        "type": 129,
+        "target": 1,
+        "controlTarget": [
+            1,
+            52,
+            0
+        ]
+    },
+    "8": {
+        "idx": 8,
+        "desc": "Use 2x EXP Potion 2 times to gain 100% EXP Bonus",
+        "shortDesc": "Use 2x EXP Potion 2 times to gain 100% EXP Bonus",
+        "type": 57,
+        "target": 3,
+        "controlTarget": [
+            1,
+            62,
+            0
+        ]
+    },
+    "9": {
+        "idx": 9,
+        "desc": "Use 5x EXP Potion 3 times to gain 400% EXP Bonus",
+        "shortDesc": "Use 5x EXP Potion 3 times to gain 400% EXP Bonus",
+        "type": 57,
+        "target": 2,
+        "controlTarget": [
+            1,
+            62,
+            0
+        ]
+    },
+    "10": {
+        "idx": 10,
+        "desc": "Use 3x EXP Potion 2 times to gain 200% EXP Bonus",
+        "shortDesc": "Use 3x EXP Potion 2 times to gain 200% EXP Bonus",
+        "type": 57,
+        "target": 2,
+        "controlTarget": [
+            1,
+            62,
+            0
+        ]
+    },
+    "11": {
+        "idx": 11,
+        "desc": "Challenge Bloody Land once",
+        "shortDesc": "Challenge Bloody Land once",
+        "type": 130,
+        "target": 1,
+        "controlTarget": [
+            2,
+            10005
+        ]
+    },
+    "12": {
+        "idx": 12,
+        "desc": "Challenge Bloody Land twice",
+        "shortDesc": "Challenge Bloody Land twice",
+        "type": 130,
+        "target": 2,
+        "controlTarget": [
+            2,
+            10005
+        ]
+    },
+    "13": {
+        "idx": 13,
+        "desc": "Challenge Bloody Land for 3 times",
+        "shortDesc": "Challenge Bloody Land for 3 times",
+        "type": 130,
+        "target": 3,
+        "controlTarget": [
+            2,
+            10005
+        ]
+    },
+    "14": {
+        "idx": 14,
+        "desc": "Challenge Bloody Land for 4 times",
+        "shortDesc": "Challenge Bloody Land for 4 times",
+        "type": 130,
+        "target": 4,
+        "controlTarget": [
+            2,
+            10005
+        ]
+    },
+    "15": {
+        "idx": 15,
+        "desc": "Challenge Bloody Land for 5 times",
+        "shortDesc": "Challenge Bloody Land for 5 times",
+        "type": 130,
+        "target": 5,
+        "controlTarget": [
+            2,
+            10005
+        ]
+    },
+    "16": {
+        "idx": 16,
+        "desc": "Challenge Bloody Land for 6 times",
+        "shortDesc": "Challenge Bloody Land for 6 times",
+        "type": 130,
+        "target": 6,
+        "controlTarget": [
+            2,
+            10005
+        ]
+    },
+    "17": {
+        "idx": 17,
+        "desc": "Challenge Bloody Land for 7 times",
+        "shortDesc": "Challenge Bloody Land for 7 times",
+        "type": 130,
+        "target": 7,
+        "controlTarget": [
+            2,
+            10005
+        ]
+    },
+    "18": {
+        "idx": 18,
+        "desc": "Challenge Bloody Land for 8 times",
+        "shortDesc": "Challenge Bloody Land for 8 times",
+        "type": 130,
+        "target": 8,
+        "controlTarget": [
+            2,
+            10005
+        ]
+    },
+    "19": {
+        "idx": 19,
+        "desc": "Challenge Bloody Land for 9 times",
+        "shortDesc": "Challenge Bloody Land for 9 times",
+        "type": 130,
+        "target": 9,
+        "controlTarget": [
+            2,
+            10005
+        ]
+    },
+    "20": {
+        "idx": 20,
+        "desc": "Challenge Bloody Land for 10 times",
+        "shortDesc": "Challenge Bloody Land for 10 times",
+        "type": 130,
+        "target": 10,
+        "controlTarget": [
+            2,
+            10005
+        ]
+    },
+    "21": {
+        "idx": 21,
+        "desc": "Challenge Demon Fortress onces",
+        "shortDesc": "Challenge Demon Fortress onces",
+        "type": 131,
+        "target": 1,
+        "controlTarget": [
+            2,
+            10004
+        ]
+    },
+    "22": {
+        "idx": 22,
+        "desc": "Challenge Demon Fortress twice",
+        "shortDesc": "Challenge Demon Fortress twice",
+        "type": 131,
+        "target": 2,
+        "controlTarget": [
+            2,
+            10004
+        ]
+    },
+    "23": {
+        "idx": 23,
+        "desc": "Challenge Demon Fortress for 3 times",
+        "shortDesc": "Challenge Demon Fortress for 3 times",
+        "type": 131,
+        "target": 3,
+        "controlTarget": [
+            2,
+            10004
+        ]
+    },
+    "24": {
+        "idx": 24,
+        "desc": "Challenge Demon Fortress for 4 times",
+        "shortDesc": "Challenge Demon Fortress for 4 times",
+        "type": 131,
+        "target": 4,
+        "controlTarget": [
+            2,
+            10004
+        ]
+    },
+    "25": {
+        "idx": 25,
+        "desc": "Challenge Demon Fortress for 5 times",
+        "shortDesc": "Challenge Demon Fortress for 5 times",
+        "type": 131,
+        "target": 5,
+        "controlTarget": [
+            2,
+            10004
+        ]
+    },
+    "26": {
+        "idx": 26,
+        "desc": "Challenge Demon Fortress for 6 times",
+        "shortDesc": "Challenge Demon Fortress for 6 times",
+        "type": 131,
+        "target": 6,
+        "controlTarget": [
+            2,
+            10004
+        ]
+    },
+    "27": {
+        "idx": 27,
+        "desc": "Challenge Demon Fortress for 7 times",
+        "shortDesc": "Challenge Demon Fortress for 7 times",
+        "type": 131,
+        "target": 7,
+        "controlTarget": [
+            2,
+            10004
+        ]
+    },
+    "28": {
+        "idx": 28,
+        "desc": "Challenge Demon Fortress for 8 times",
+        "shortDesc": "Challenge Demon Fortress for 8 times",
+        "type": 131,
+        "target": 8,
+        "controlTarget": [
+            2,
+            10004
+        ]
+    },
+    "29": {
+        "idx": 29,
+        "desc": "Challenge Demon Fortress for 9 times",
+        "shortDesc": "Challenge Demon Fortress for 9 times",
+        "type": 131,
+        "target": 9,
+        "controlTarget": [
+            2,
+            10004
+        ]
+    },
+    "30": {
+        "idx": 30,
+        "desc": "Challenge EXP Dungeon for 3 times",
+        "shortDesc": "Challenge EXP Dungeon for 3 times",
+        "type": 25,
+        "target": 3,
+        "controlTarget": [
+            2,
+            10006
+        ]
+    },
+    "31": {
+        "idx": 31,
+        "desc": "Challenge EXP Dungeon for 6 times",
+        "shortDesc": "Challenge EXP Dungeon for 6 times",
+        "type": 25,
+        "target": 6,
+        "controlTarget": [
+            2,
+            10006
+        ]
+    },
+    "32": {
+        "idx": 32,
+        "desc": "Challenge EXP Dungeon for 9 times",
+        "shortDesc": "Challenge EXP Dungeon for 9 times",
+        "type": 25,
+        "target": 9,
+        "controlTarget": [
+            2,
+            10006
+        ]
+    },
+    "33": {
+        "idx": 33,
+        "desc": "Complete Loop Quest for 5 times",
+        "shortDesc": "Complete Loop Quest for 5 times",
+        "type": 82,
+        "target": 5,
+        "controlTarget": [
+            1,
+            15,
+            1
+        ]
+    },
+    "34": {
+        "idx": 34,
+        "desc": "Complete Loop Quest for 10 times",
+        "shortDesc": "Complete Loop Quest for 10 times",
+        "type": 82,
+        "target": 10,
+        "controlTarget": [
+            1,
+            15,
+            1
+        ]
+    },
+    "35": {
+        "idx": 35,
+        "desc": "Complete Loop Quest for 15 times",
+        "shortDesc": "Complete Loop Quest for 15 times",
+        "type": 82,
+        "target": 15,
+        "controlTarget": [
+            1,
+            15,
+            1
+        ]
+    },
+    "36": {
+        "idx": 36,
+        "desc": "Complete Loop Quest for 20 times",
+        "shortDesc": "Complete Loop Quest for 20 times",
+        "type": 82,
+        "target": 20,
+        "controlTarget": [
+            1,
+            15,
+            1
+        ]
+    },
+    "37": {
+        "idx": 37,
+        "desc": "Complete Loop Quest for 25 times",
+        "shortDesc": "Complete Loop Quest for 25 times",
+        "type": 82,
+        "target": 25,
+        "controlTarget": [
+            1,
+            15,
+            1
+        ]
+    },
+    "38": {
+        "idx": 38,
+        "desc": "Complete Loop Quest for 30 times",
+        "shortDesc": "Complete Loop Quest for 30 times",
+        "type": 82,
+        "target": 30,
+        "controlTarget": [
+            1,
+            15,
+            1
+        ]
+    },
+    "101": {
+        "idx": 101,
+        "desc": "Challenge Talent Dungeon twice",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "102": {
+        "idx": 102,
+        "desc": "Challenge Talent Dungeon for 4 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "103": {
+        "idx": 103,
+        "desc": "Challenge Talent Dungeon for 6 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "104": {
+        "idx": 104,
+        "desc": "Challenge Talent Dungeon for 10 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "105": {
+        "idx": 105,
+        "desc": "Challenge Talent Dungeon for 15 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "106": {
+        "idx": 106,
+        "desc": "Challenge Mercenary Dungeon twice",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "107": {
+        "idx": 107,
+        "desc": "Challenge Mercenary Dungeon for 4 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "108": {
+        "idx": 108,
+        "desc": "Challenge Mercenary Dungeon for 6 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "109": {
+        "idx": 109,
+        "desc": "Challenge Mercenary Dungeon for 10 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "110": {
+        "idx": 110,
+        "desc": "Challenge Mercenary Dungeon for 15 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "111": {
+        "idx": 111,
+        "desc": "Challenge Avatar Dungeon twice",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "112": {
+        "idx": 112,
+        "desc": "Challenge Avatar Dungeon for 4 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "113": {
+        "idx": 113,
+        "desc": "Challenge Avatar Dungeon for 6 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "114": {
+        "idx": 114,
+        "desc": "Challenge Avatar Dungeon for 10 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "115": {
+        "idx": 115,
+        "desc": "Challenge Avatar Dungeon for 15 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "116": {
+        "idx": 116,
+        "desc": "Challenge Wings Dungeon twice",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "117": {
+        "idx": 117,
+        "desc": "Challenge Wings Dungeon for 4 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "118": {
+        "idx": 118,
+        "desc": "Challenge Wings Dungeon for 6 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "119": {
+        "idx": 119,
+        "desc": "Challenge Wings Dungeon for 10 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "120": {
+        "idx": 120,
+        "desc": "Challenge Wings Dungeon for 15 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "121": {
+        "idx": 121,
+        "desc": "Challenge Merlin Dungeon twice",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "122": {
+        "idx": 122,
+        "desc": "Challenge Merlin Dungeon for 4 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "123": {
+        "idx": 123,
+        "desc": "Challenge Merlin Dungeon for 6 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "124": {
+        "idx": 124,
+        "desc": "Challenge Merlin Dungeon for 10 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "125": {
+        "idx": 125,
+        "desc": "Challenge Merlin Dungeon for 15 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "126": {
+        "idx": 126,
+        "desc": "Perform Gear Hunt for 10 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "127": {
+        "idx": 127,
+        "desc": "Perform Gear Hunt for 20 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "128": {
+        "idx": 128,
+        "desc": "Perform Gear Hunt for 30 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "129": {
+        "idx": 129,
+        "desc": "Perform Gear Hunt for 40 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 40,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "130": {
+        "idx": 130,
+        "desc": "Perform Gear Hunt for 50 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "131": {
+        "idx": 131,
+        "desc": "Perform Rune Hunt for 5 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "132": {
+        "idx": 132,
+        "desc": "Perform Rune Hunt for 10 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "133": {
+        "idx": 133,
+        "desc": "Perform Rune Hunt for 15 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 15,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "134": {
+        "idx": 134,
+        "desc": "Perform Rune Hunt for 20 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "135": {
+        "idx": 135,
+        "desc": "Perform Rune Hunt for 30 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "136": {
+        "idx": 136,
+        "desc": "Challenge Server Boss for 5 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "137": {
+        "idx": 137,
+        "desc": "Challenge Server Boss for 10 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "138": {
+        "idx": 138,
+        "desc": "Challenge Server Boss for 15 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "139": {
+        "idx": 139,
+        "desc": "Challenge Server Boss for 20 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "140": {
+        "idx": 140,
+        "desc": "Challenge Server Boss for 30 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 30,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "141": {
+        "idx": 141,
+        "desc": "Perform Arena Challenge for 5 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "142": {
+        "idx": 142,
+        "desc": "Perform Arena Challenge for 10 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "143": {
+        "idx": 143,
+        "desc": "Perform Arena Challenge for 15 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "144": {
+        "idx": 144,
+        "desc": "Perform Arena Challenge for 20 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "145": {
+        "idx": 145,
+        "desc": "Perform Arena Challenge for 30 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 30,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "146": {
+        "idx": 146,
+        "desc": "Mine in Crystal Valley twice",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 2,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "147": {
+        "idx": 147,
+        "desc": "Mine in Crystal Valley for 4 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 4,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "148": {
+        "idx": 148,
+        "desc": "Mine in Crystal Valley for 6 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "149": {
+        "idx": 149,
+        "desc": "Mine in Crystal Valley for 8 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 8,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "150": {
+        "idx": 150,
+        "desc": "Mine in Crystal Valley for 10 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "151": {
+        "idx": 151,
+        "desc": "Take part in King of Peaks for 5 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "152": {
+        "idx": 152,
+        "desc": "Take part in King of Peaks for 10 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "153": {
+        "idx": 153,
+        "desc": "Take part in King of Peaks for 15 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "154": {
+        "idx": 154,
+        "desc": "Take part in King of Peaks for 20 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "155": {
+        "idx": 155,
+        "desc": "Take part in King of Peaks for 30 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 30,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "156": {
+        "idx": 156,
+        "desc": "Challenge Guild Invasion for 3 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 3,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "157": {
+        "idx": 157,
+        "desc": "Challenge Guild Invasion for 6 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 6,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "158": {
+        "idx": 158,
+        "desc": "Challenge Guild Invasion for 9 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 9,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "159": {
+        "idx": 159,
+        "desc": "Challenge Guild Invasion for 12 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 12,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "160": {
+        "idx": 160,
+        "desc": "Challenge Guild Invasion for 15 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 15,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "161": {
+        "idx": 161,
+        "desc": "Challenge Demon Fortress twice",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "162": {
+        "idx": 162,
+        "desc": "Challenge Demon Fortress for 4 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "163": {
+        "idx": 163,
+        "desc": "Challenge Demon Fortress for 6 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "164": {
+        "idx": 164,
+        "desc": "Challenge Demon Fortress for 8 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 8,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "165": {
+        "idx": 165,
+        "desc": "Challenge Demon Fortress for 10 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "201": {
+        "idx": 201,
+        "desc": "Challenge Talent Dungeon twice",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "202": {
+        "idx": 202,
+        "desc": "Challenge Talent Dungeon for 4 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "203": {
+        "idx": 203,
+        "desc": "Challenge Talent Dungeon for 6 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "204": {
+        "idx": 204,
+        "desc": "Challenge Talent Dungeon for 10 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "205": {
+        "idx": 205,
+        "desc": "Challenge Talent Dungeon for 15 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "206": {
+        "idx": 206,
+        "desc": "Challenge Mercenary Dungeon twice",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "207": {
+        "idx": 207,
+        "desc": "Challenge Mercenary Dungeon for 4 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "208": {
+        "idx": 208,
+        "desc": "Challenge Mercenary Dungeon for 6 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "209": {
+        "idx": 209,
+        "desc": "Challenge Mercenary Dungeon for 10 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "210": {
+        "idx": 210,
+        "desc": "Challenge Mercenary Dungeon for 15 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "211": {
+        "idx": 211,
+        "desc": "Challenge Avatar Dungeon twice",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "212": {
+        "idx": 212,
+        "desc": "Challenge Avatar Dungeon for 4 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "213": {
+        "idx": 213,
+        "desc": "Challenge Avatar Dungeon for 6 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "214": {
+        "idx": 214,
+        "desc": "Challenge Avatar Dungeon for 10 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "215": {
+        "idx": 215,
+        "desc": "Challenge Avatar Dungeon for 15 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "216": {
+        "idx": 216,
+        "desc": "Challenge Wings Dungeon twice",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "217": {
+        "idx": 217,
+        "desc": "Challenge Wings Dungeon for 4 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "218": {
+        "idx": 218,
+        "desc": "Challenge Wings Dungeon for 6 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "219": {
+        "idx": 219,
+        "desc": "Challenge Wings Dungeon for 10 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "220": {
+        "idx": 220,
+        "desc": "Challenge Wings Dungeon for 15 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "221": {
+        "idx": 221,
+        "desc": "Challenge Merlin Dungeon twice",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "222": {
+        "idx": 222,
+        "desc": "Challenge Merlin Dungeon for 4 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "223": {
+        "idx": 223,
+        "desc": "Challenge Merlin Dungeon for 6 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "224": {
+        "idx": 224,
+        "desc": "Challenge Merlin Dungeon for 10 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "225": {
+        "idx": 225,
+        "desc": "Challenge Merlin Dungeon for 15 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "226": {
+        "idx": 226,
+        "desc": "Perform Gear Hunt for 10 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "227": {
+        "idx": 227,
+        "desc": "Perform Gear Hunt for 20 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "228": {
+        "idx": 228,
+        "desc": "Perform Gear Hunt for 30 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "229": {
+        "idx": 229,
+        "desc": "Perform Gear Hunt for 40 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 40,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "230": {
+        "idx": 230,
+        "desc": "Perform Gear Hunt for 50 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "231": {
+        "idx": 231,
+        "desc": "Perform Rune Hunt for 5 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "232": {
+        "idx": 232,
+        "desc": "Perform Rune Hunt for 10 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "233": {
+        "idx": 233,
+        "desc": "Perform Rune Hunt for 15 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 15,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "234": {
+        "idx": 234,
+        "desc": "Perform Rune Hunt for 20 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "235": {
+        "idx": 235,
+        "desc": "Perform Rune Hunt for 30 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "236": {
+        "idx": 236,
+        "desc": "Challenge Server Boss for 5 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "237": {
+        "idx": 237,
+        "desc": "Challenge Server Boss for 10 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "238": {
+        "idx": 238,
+        "desc": "Challenge Server Boss for 15 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "239": {
+        "idx": 239,
+        "desc": "Challenge Server Boss for 20 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "240": {
+        "idx": 240,
+        "desc": "Challenge Server Boss for 30 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 30,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "241": {
+        "idx": 241,
+        "desc": "Perform Arena Challenge for 5 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "242": {
+        "idx": 242,
+        "desc": "Perform Arena Challenge for 10 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "243": {
+        "idx": 243,
+        "desc": "Perform Arena Challenge for 15 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "244": {
+        "idx": 244,
+        "desc": "Perform Arena Challenge for 20 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "245": {
+        "idx": 245,
+        "desc": "Perform Arena Challenge for 25 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 25,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "246": {
+        "idx": 246,
+        "desc": "Mine in Crystal Valley twice",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 2,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "247": {
+        "idx": 247,
+        "desc": "Mine in Crystal Valley for 4 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 4,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "248": {
+        "idx": 248,
+        "desc": "Mine in Crystal Valley for 6 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "249": {
+        "idx": 249,
+        "desc": "Mine in Crystal Valley for 8 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 8,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "250": {
+        "idx": 250,
+        "desc": "Mine in Crystal Valley for 10 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "251": {
+        "idx": 251,
+        "desc": "Take part in King of Peaks for 5 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "252": {
+        "idx": 252,
+        "desc": "Take part in King of Peaks for 10 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "253": {
+        "idx": 253,
+        "desc": "Take part in King of Peaks for 15 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "254": {
+        "idx": 254,
+        "desc": "Take part in King of Peaks for 20 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "255": {
+        "idx": 255,
+        "desc": "Take part in King of Peaks for 30 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 30,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "256": {
+        "idx": 256,
+        "desc": "Challenge Guild Invasion twice",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 2,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "257": {
+        "idx": 257,
+        "desc": "Challenge Guild Invasion for 4 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 4,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "258": {
+        "idx": 258,
+        "desc": "Challenge Guild Invasion for 6 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 6,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "259": {
+        "idx": 259,
+        "desc": "Challenge Guild Invasion for 8 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 8,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "260": {
+        "idx": 260,
+        "desc": "Challenge Guild Invasion for 10 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 10,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "261": {
+        "idx": 261,
+        "desc": "Challenge Demon Fortress twice",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "262": {
+        "idx": 262,
+        "desc": "Challenge Demon Fortress for 4 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "263": {
+        "idx": 263,
+        "desc": "Challenge Demon Fortress for 6 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "264": {
+        "idx": 264,
+        "desc": "Challenge Demon Fortress for 8 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 8,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "265": {
+        "idx": 265,
+        "desc": "Challenge Demon Fortress for 10 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "301": {
+        "idx": 301,
+        "desc": "Challenge Talent Dungeon twice",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "302": {
+        "idx": 302,
+        "desc": "Challenge Talent Dungeon for 4 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "303": {
+        "idx": 303,
+        "desc": "Challenge Talent Dungeon for 6 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "304": {
+        "idx": 304,
+        "desc": "Challenge Talent Dungeon for 10 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "305": {
+        "idx": 305,
+        "desc": "Challenge Talent Dungeon for 15 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "306": {
+        "idx": 306,
+        "desc": "Challenge Mercenary Dungeon twice",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "307": {
+        "idx": 307,
+        "desc": "Challenge Mercenary Dungeon for 4 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "308": {
+        "idx": 308,
+        "desc": "Challenge Mercenary Dungeon for 6 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "309": {
+        "idx": 309,
+        "desc": "Challenge Mercenary Dungeon for 10 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "310": {
+        "idx": 310,
+        "desc": "Challenge Mercenary Dungeon for 15 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "311": {
+        "idx": 311,
+        "desc": "Challenge Avatar Dungeon twice",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "312": {
+        "idx": 312,
+        "desc": "Challenge Avatar Dungeon for 4 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "313": {
+        "idx": 313,
+        "desc": "Challenge Avatar Dungeon for 6 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "314": {
+        "idx": 314,
+        "desc": "Challenge Avatar Dungeon for 10 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "315": {
+        "idx": 315,
+        "desc": "Challenge Avatar Dungeon for 15 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "316": {
+        "idx": 316,
+        "desc": "Challenge Wings Dungeon twice",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "317": {
+        "idx": 317,
+        "desc": "Challenge Wings Dungeon for 4 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "318": {
+        "idx": 318,
+        "desc": "Challenge Wings Dungeon for 6 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "319": {
+        "idx": 319,
+        "desc": "Challenge Wings Dungeon for 10 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "320": {
+        "idx": 320,
+        "desc": "Challenge Wings Dungeon for 15 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "321": {
+        "idx": 321,
+        "desc": "Challenge Merlin Dungeon twice",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "322": {
+        "idx": 322,
+        "desc": "Challenge Merlin Dungeon for 4 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "323": {
+        "idx": 323,
+        "desc": "Challenge Merlin Dungeon for 6 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "324": {
+        "idx": 324,
+        "desc": "Challenge Merlin Dungeon for 10 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "325": {
+        "idx": 325,
+        "desc": "Challenge Merlin Dungeon for 15 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "326": {
+        "idx": 326,
+        "desc": "Perform Gear Hunt for 10 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "327": {
+        "idx": 327,
+        "desc": "Perform Gear Hunt for 20 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "328": {
+        "idx": 328,
+        "desc": "Perform Gear Hunt for 30 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "329": {
+        "idx": 329,
+        "desc": "Perform Gear Hunt for 40 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 40,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "330": {
+        "idx": 330,
+        "desc": "Perform Gear Hunt for 50 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "331": {
+        "idx": 331,
+        "desc": "Perform Rune Hunt for 5 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "332": {
+        "idx": 332,
+        "desc": "Perform Rune Hunt for 10 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "333": {
+        "idx": 333,
+        "desc": "Perform Rune Hunt for 15 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 15,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "334": {
+        "idx": 334,
+        "desc": "Perform Rune Hunt for 20 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "335": {
+        "idx": 335,
+        "desc": "Perform Rune Hunt for 30 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "336": {
+        "idx": 336,
+        "desc": "Challenge Server Boss for 5 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "337": {
+        "idx": 337,
+        "desc": "Challenge Server Boss for 10 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "338": {
+        "idx": 338,
+        "desc": "Challenge Server Boss for 15 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "339": {
+        "idx": 339,
+        "desc": "Challenge Server Boss for 20 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "340": {
+        "idx": 340,
+        "desc": "Challenge Server Boss for 30 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 30,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "341": {
+        "idx": 341,
+        "desc": "Perform Arena Challenge for 5 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "342": {
+        "idx": 342,
+        "desc": "Perform Arena Challenge for 10 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "343": {
+        "idx": 343,
+        "desc": "Perform Arena Challenge for 15 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "344": {
+        "idx": 344,
+        "desc": "Perform Arena Challenge for 20 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "345": {
+        "idx": 345,
+        "desc": "Perform Arena Challenge for 25 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 25,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "346": {
+        "idx": 346,
+        "desc": "Mine in Crystal Valley twice",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 2,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "347": {
+        "idx": 347,
+        "desc": "Mine in Crystal Valley for 4 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 4,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "348": {
+        "idx": 348,
+        "desc": "Mine in Crystal Valley for 6 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "349": {
+        "idx": 349,
+        "desc": "Mine in Crystal Valley for 8 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 8,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "350": {
+        "idx": 350,
+        "desc": "Mine in Crystal Valley for 10 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "351": {
+        "idx": 351,
+        "desc": "Take part in King of Peaks for 5 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "352": {
+        "idx": 352,
+        "desc": "Take part in King of Peaks for 10 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "353": {
+        "idx": 353,
+        "desc": "Take part in King of Peaks for 15 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "354": {
+        "idx": 354,
+        "desc": "Take part in King of Peaks for 20 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "355": {
+        "idx": 355,
+        "desc": "Take part in King of Peaks for 30 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 30,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "356": {
+        "idx": 356,
+        "desc": "Challenge Guild Invasion twice",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 2,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "357": {
+        "idx": 357,
+        "desc": "Challenge Guild Invasion for 4 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 4,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "358": {
+        "idx": 358,
+        "desc": "Challenge Guild Invasion for 6 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 6,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "359": {
+        "idx": 359,
+        "desc": "Challenge Guild Invasion for 8 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 8,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "360": {
+        "idx": 360,
+        "desc": "Challenge Guild Invasion for 10 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 10,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "361": {
+        "idx": 361,
+        "desc": "Challenge Demon Fortress twice",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "362": {
+        "idx": 362,
+        "desc": "Challenge Demon Fortress for 4 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "363": {
+        "idx": 363,
+        "desc": "Challenge Demon Fortress for 6 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "364": {
+        "idx": 364,
+        "desc": "Challenge Demon Fortress for 8 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 8,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "365": {
+        "idx": 365,
+        "desc": "Challenge Demon Fortress for 10 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "400": {
+        "idx": 400,
+        "desc": "Eliminate Cross-server Boss for |C:0x13ee22&T:3| times",
+        "shortDesc": "Eliminate Cross-server Boss for |C:0x13ee22&T:3| times",
+        "type": 128,
+        "target": 3,
+        "controlTarget": [
+            5,
+            16,
+            1,
+            0
+        ]
+    },
+    "401": {
+        "idx": 401,
+        "desc": "Eliminate Cross-server Boss for |C:0x13ee22&T:6| times",
+        "shortDesc": "Eliminate Cross-server Boss for |C:0x13ee22&T:6| times",
+        "type": 128,
+        "target": 6,
+        "controlTarget": [
+            5,
+            16,
+            1,
+            0
+        ]
+    },
+    "402": {
+        "idx": 402,
+        "desc": "Eliminate Cross-server Boss for |C:0x13ee22&T:9| times",
+        "shortDesc": "Eliminate Cross-server Boss for |C:0x13ee22&T:9| times",
+        "type": 128,
+        "target": 9,
+        "controlTarget": [
+            5,
+            16,
+            1,
+            0
+        ]
+    },
+    "403": {
+        "idx": 403,
+        "desc": "Eliminate Cross-server Boss for |C:0x13ee22&T:12| times",
+        "shortDesc": "Eliminate Cross-server Boss for |C:0x13ee22&T:12| times",
+        "type": 128,
+        "target": 12,
+        "controlTarget": [
+            5,
+            16,
+            1,
+            0
+        ]
+    },
+    "404": {
+        "idx": 404,
+        "desc": "Challenge World Boss for |C:0x13ee22&T:1| time",
+        "shortDesc": "Challenge World Boss for |C:0x13ee22&T:1| time",
+        "type": 68,
+        "target": 1,
+        "controlTarget": [
+            5,
+            16,
+            2,
+            0
+        ]
+    },
+    "405": {
+        "idx": 405,
+        "desc": "Challenge World Boss for |C:0x13ee22&T:2| times",
+        "shortDesc": "Challenge World Boss for |C:0x13ee22&T:2| times",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            16,
+            2,
+            0
+        ]
+    },
+    "406": {
+        "idx": 406,
+        "desc": "Challenge World Boss for |C:0x13ee22&T:4| times",
+        "shortDesc": "Challenge World Boss for |C:0x13ee22&T:4| times",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            16,
+            2,
+            0
+        ]
+    },
+    "407": {
+        "idx": 407,
+        "desc": "Challenge World Boss for |C:0x13ee22&T:6| times",
+        "shortDesc": "Challenge World Boss for |C:0x13ee22&T:6| times",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            16,
+            2,
+            0
+        ]
+    },
+    "408": {
+        "idx": 408,
+        "desc": "Eliminate Golden Demon Lord for |C:0x13ee22&T:3| times",
+        "shortDesc": "Eliminate Golden Demon Lord for |C:0x13ee22&T:3| times",
+        "type": 69,
+        "target": 3,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            3
+        ]
+    },
+    "409": {
+        "idx": 409,
+        "desc": "Eliminate Golden Demon Lord for |C:0x13ee22&T:5| times",
+        "shortDesc": "Eliminate Golden Demon Lord for |C:0x13ee22&T:5| times",
+        "type": 69,
+        "target": 5,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            3
+        ]
+    },
+    "410": {
+        "idx": 410,
+        "desc": "Eliminate Golden Demon Lord for |C:0x13ee22&T:10| times",
+        "shortDesc": "Eliminate Golden Demon Lord for |C:0x13ee22&T:10| times",
+        "type": 69,
+        "target": 10,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            3
+        ]
+    },
+    "411": {
+        "idx": 411,
+        "desc": "Eliminate Golden Demon Lord for |C:0x13ee22&T:15| times",
+        "shortDesc": "Eliminate Golden Demon Lord for |C:0x13ee22&T:15| times",
+        "type": 69,
+        "target": 15,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            3
+        ]
+    },
+    "412": {
+        "idx": 412,
+        "desc": "Challenge Monster Siege for |C:0x13ee22&T:6| times",
+        "shortDesc": "Challenge Monster Siege for |C:0x13ee22&T:6| times",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            16,
+            2,
+            2
+        ]
+    },
+    "413": {
+        "idx": 413,
+        "desc": "Challenge Monster Siege for |C:0x13ee22&T:12| times",
+        "shortDesc": "Challenge Monster Siege for |C:0x13ee22&T:12| times",
+        "type": 68,
+        "target": 12,
+        "controlTarget": [
+            5,
+            16,
+            2,
+            2
+        ]
+    },
+    "414": {
+        "idx": 414,
+        "desc": "Challenge Monster Siege for |C:0x13ee22&T:18| times",
+        "shortDesc": "Challenge Monster Siege for |C:0x13ee22&T:18| times",
+        "type": 68,
+        "target": 18,
+        "controlTarget": [
+            5,
+            16,
+            2,
+            2
+        ]
+    },
+    "415": {
+        "idx": 415,
+        "desc": "Challenge Monster Siege for |C:0x13ee22&T:24| times",
+        "shortDesc": "Challenge Monster Siege for |C:0x13ee22&T:24| times",
+        "type": 68,
+        "target": 24,
+        "controlTarget": [
+            5,
+            16,
+            2,
+            2
+        ]
+    },
+    "416": {
+        "idx": 416,
+        "desc": "Challenge Temple Boss for |C:0x13ee22&T:5| times",
+        "shortDesc": "Challenge Temple Boss for |C:0x13ee22&T:5| times",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            16,
+            2,
+            1
+        ]
+    },
+    "417": {
+        "idx": 417,
+        "desc": "Challenge Temple Boss for |C:0x13ee22&T:10| times",
+        "shortDesc": "Challenge Temple Boss for |C:0x13ee22&T:10| times",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            16,
+            2,
+            1
+        ]
+    },
+    "418": {
+        "idx": 418,
+        "desc": "Challenge Temple Boss for |C:0x13ee22&T:15| times",
+        "shortDesc": "Challenge Temple Boss for |C:0x13ee22&T:15| times",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            16,
+            2,
+            1
+        ]
+    },
+    "419": {
+        "idx": 419,
+        "desc": "Challenge Temple Boss for |C:0x13ee22&T:20| times",
+        "shortDesc": "Challenge Temple Boss for |C:0x13ee22&T:20| times",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            16,
+            2,
+            1
+        ]
+    },
+    "420": {
+        "idx": 420,
+        "desc": "Challenge Warrior Boss for |C:0x13ee22&T:2| times",
+        "shortDesc": "Challenge Warrior Boss for |C:0x13ee22&T:2| times",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            16,
+            1,
+            2
+        ]
+    },
+    "421": {
+        "idx": 421,
+        "desc": "Challenge Warrior Boss for |C:0x13ee22&T:4| times",
+        "shortDesc": "Challenge Warrior Boss for |C:0x13ee22&T:4| times",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            16,
+            1,
+            2
+        ]
+    },
+    "422": {
+        "idx": 422,
+        "desc": "Challenge Warrior Boss for |C:0x13ee22&T:6| times",
+        "shortDesc": "Challenge Warrior Boss for |C:0x13ee22&T:6| times",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            16,
+            1,
+            2
+        ]
+    },
+    "423": {
+        "idx": 423,
+        "desc": "Challenge Warrior Boss for |C:0x13ee22&T:8| times",
+        "shortDesc": "Challenge Warrior Boss for |C:0x13ee22&T:8| times",
+        "type": 68,
+        "target": 8,
+        "controlTarget": [
+            5,
+            16,
+            1,
+            2
+        ]
+    },
+    "424": {
+        "idx": 424,
+        "desc": "Challenge Boss Homestead for |C:0x13ee22&T:5| times",
+        "shortDesc": "Challenge Boss Homestead for |C:0x13ee22&T:5| times",
+        "type": 69,
+        "target": 5,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            2
+        ]
+    },
+    "425": {
+        "idx": 425,
+        "desc": "Challenge Boss Homestead for |C:0x13ee22&T:10| times",
+        "shortDesc": "Challenge Boss Homestead for |C:0x13ee22&T:10| times",
+        "type": 69,
+        "target": 10,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            2
+        ]
+    },
+    "426": {
+        "idx": 426,
+        "desc": "Challenge Boss Homestead for |C:0x13ee22&T:15| times",
+        "shortDesc": "Challenge Boss Homestead for |C:0x13ee22&T:15| times",
+        "type": 69,
+        "target": 15,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            2
+        ]
+    },
+    "427": {
+        "idx": 427,
+        "desc": "Challenge Boss Homestead for |C:0x13ee22&T:20| times",
+        "shortDesc": "Challenge Boss Homestead for |C:0x13ee22&T:20| times",
+        "type": 69,
+        "target": 20,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            2
+        ]
+    },
+    "428": {
+        "idx": 428,
+        "desc": "Challenge Bloody Land for |C:0x13ee22&T:3| times",
+        "shortDesc": "Challenge Bloody Land for |C:0x13ee22&T:3| times",
+        "type": 68,
+        "target": 3,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "429": {
+        "idx": 429,
+        "desc": "Challenge Bloody Land for |C:0x13ee22&T:6| times",
+        "shortDesc": "Challenge Bloody Land for |C:0x13ee22&T:6| times",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "430": {
+        "idx": 430,
+        "desc": "Challenge Bloody Land for |C:0x13ee22&T:9| times",
+        "shortDesc": "Challenge Bloody Land for |C:0x13ee22&T:9| times",
+        "type": 68,
+        "target": 9,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "431": {
+        "idx": 431,
+        "desc": "Challenge Bloody Land for |C:0x13ee22&T:12| times",
+        "shortDesc": "Challenge Bloody Land for |C:0x13ee22&T:12| times",
+        "type": 68,
+        "target": 12,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "432": {
+        "idx": 432,
+        "desc": "Complete Exploration Event for |C:0x13ee22&T:15| times",
+        "shortDesc": "Complete Exploration Event for |C:0x13ee22&T:15| times",
+        "type": 161,
+        "target": 15,
+        "controlTarget": [
+            5,
+            48,
+            0,
+            0
+        ]
+    },
+    "433": {
+        "idx": 433,
+        "desc": "Complete Exploration Event for |C:0x13ee22&T:30| times",
+        "shortDesc": "Complete Exploration Event for |C:0x13ee22&T:30| times",
+        "type": 161,
+        "target": 30,
+        "controlTarget": [
+            5,
+            48,
+            0,
+            0
+        ]
+    },
+    "434": {
+        "idx": 434,
+        "desc": "Complete Exploration Event for |C:0x13ee22&T:45| times",
+        "shortDesc": "Complete Exploration Event for |C:0x13ee22&T:45| times",
+        "type": 161,
+        "target": 45,
+        "controlTarget": [
+            5,
+            48,
+            0,
+            0
+        ]
+    },
+    "435": {
+        "idx": 435,
+        "desc": "Complete Exploration Event for |C:0x13ee22&T:60| times",
+        "shortDesc": "Complete Exploration Event for |C:0x13ee22&T:60| times",
+        "type": 161,
+        "target": 60,
+        "controlTarget": [
+            5,
+            48,
+            0,
+            0
+        ]
+    },
+    "436": {
+        "idx": 436,
+        "desc": "Challenge Dragon Castle for |C:0x13ee22&T:3| times",
+        "shortDesc": "Challenge Dragon Castle for |C:0x13ee22&T:3| times",
+        "type": 181,
+        "target": 3,
+        "controlTarget": [
+            5,
+            15,
+            2,
+            0
+        ]
+    },
+    "437": {
+        "idx": 437,
+        "desc": "Challenge Dragon Castle for |C:0x13ee22&T:6| times",
+        "shortDesc": "Challenge Dragon Castle for |C:0x13ee22&T:6| times",
+        "type": 181,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            2,
+            0
+        ]
+    },
+    "438": {
+        "idx": 438,
+        "desc": "Challenge Dragon Castle for |C:0x13ee22&T:9| times",
+        "shortDesc": "Challenge Dragon Castle for |C:0x13ee22&T:9| times",
+        "type": 181,
+        "target": 9,
+        "controlTarget": [
+            5,
+            15,
+            2,
+            0
+        ]
+    },
+    "439": {
+        "idx": 439,
+        "desc": "Challenge Dragon Castle for |C:0x13ee22&T:12| times",
+        "shortDesc": "Challenge Dragon Castle for |C:0x13ee22&T:12| times",
+        "type": 181,
+        "target": 12,
+        "controlTarget": [
+            5,
+            15,
+            2,
+            0
+        ]
+    },
+    "440": {
+        "idx": 440,
+        "desc": "Gather Server Treasure Hunt Chest for |C:0x13ee22&T:15| times",
+        "shortDesc": "Gather Server Treasure Hunt Chest for |C:0x13ee22&T:15| times",
+        "type": 175,
+        "target": 15,
+        "controlTarget": [
+            5,
+            48,
+            1,
+            0
+        ]
+    },
+    "441": {
+        "idx": 441,
+        "desc": "Gather Server Treasure Hunt Chest for |C:0x13ee22&T:30| times",
+        "shortDesc": "Gather Server Treasure Hunt Chest for |C:0x13ee22&T:30| times",
+        "type": 175,
+        "target": 30,
+        "controlTarget": [
+            5,
+            48,
+            1,
+            0
+        ]
+    },
+    "442": {
+        "idx": 442,
+        "desc": "Gather Server Treasure Hunt Chest for |C:0x13ee22&T:45| times",
+        "shortDesc": "Gather Server Treasure Hunt Chest for |C:0x13ee22&T:45| times",
+        "type": 175,
+        "target": 45,
+        "controlTarget": [
+            5,
+            48,
+            1,
+            0
+        ]
+    },
+    "443": {
+        "idx": 443,
+        "desc": "Gather Server Treasure Hunt Chest for |C:0x13ee22&T:60| times",
+        "shortDesc": "Gather Server Treasure Hunt Chest for |C:0x13ee22&T:60| times",
+        "type": 175,
+        "target": 60,
+        "controlTarget": [
+            5,
+            48,
+            1,
+            0
+        ]
+    },
+    "444": {
+        "idx": 444,
+        "desc": "Reset Stealth Tower for |C:0x13ee22&T:1| time",
+        "shortDesc": "Reset Stealth Tower for |C:0x13ee22&T:1| time",
+        "type": 176,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            3,
+            0
+        ]
+    },
+    "445": {
+        "idx": 445,
+        "desc": "Reset Stealth Tower for |C:0x13ee22&T:2| times",
+        "shortDesc": "Reset Stealth Tower for |C:0x13ee22&T:2| times",
+        "type": 176,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            3,
+            0
+        ]
+    },
+    "446": {
+        "idx": 446,
+        "desc": "Reset Stealth Tower for |C:0x13ee22&T:3| times",
+        "shortDesc": "Reset Stealth Tower for |C:0x13ee22&T:3| times",
+        "type": 176,
+        "target": 3,
+        "controlTarget": [
+            5,
+            15,
+            3,
+            0
+        ]
+    },
+    "447": {
+        "idx": 447,
+        "desc": "Reset Stealth Tower for |C:0x13ee22&T:4| times",
+        "shortDesc": "Reset Stealth Tower for |C:0x13ee22&T:4| times",
+        "type": 176,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            3,
+            0
+        ]
+    },
+    "448": {
+        "idx": 448,
+        "desc": "Challenge King of Peaks for |C:0x13ee22&T:6| times",
+        "shortDesc": "Challenge King of Peaks for |C:0x13ee22&T:6| times",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "449": {
+        "idx": 449,
+        "desc": "Challenge King of Peaks for |C:0x13ee22&T:12| times",
+        "shortDesc": "Challenge King of Peaks for |C:0x13ee22&T:12| times",
+        "type": 68,
+        "target": 12,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "450": {
+        "idx": 450,
+        "desc": "Challenge King of Peaks for |C:0x13ee22&T:18| times",
+        "shortDesc": "Challenge King of Peaks for |C:0x13ee22&T:18| times",
+        "type": 68,
+        "target": 18,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "451": {
+        "idx": 451,
+        "desc": "Challenge King of Peaks for |C:0x13ee22&T:24| times",
+        "shortDesc": "Challenge King of Peaks for |C:0x13ee22&T:24| times",
+        "type": 68,
+        "target": 24,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "452": {
+        "idx": 452,
+        "desc": "Mine in Crystal Valley for |C:0x13ee22&T:3| times",
+        "shortDesc": "Mine in Crystal Valley for |C:0x13ee22&T:3| times",
+        "type": 117,
+        "target": 3,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "453": {
+        "idx": 453,
+        "desc": "Mine in Crystal Valley for |C:0x13ee22&T:6| times",
+        "shortDesc": "Mine in Crystal Valley for |C:0x13ee22&T:6| times",
+        "type": 117,
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "454": {
+        "idx": 454,
+        "desc": "Mine in Crystal Valley for |C:0x13ee22&T:9| times",
+        "shortDesc": "Mine in Crystal Valley for |C:0x13ee22&T:9| times",
+        "type": 117,
+        "target": 9,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "455": {
+        "idx": 455,
+        "desc": "Mine in Crystal Valley for |C:0x13ee22&T:12| times",
+        "shortDesc": "Mine in Crystal Valley for |C:0x13ee22&T:12| times",
+        "type": 117,
+        "target": 12,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "456": {
+        "idx": 456,
+        "desc": "Take part in Red Fortress PvP mode for |C:0x13ee22&T:1| time",
+        "shortDesc": "Take part in Red Fortress PvP mode for |C:0x13ee22&T:1| time",
+        "type": 134,
+        "target": 1,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            0
+        ]
+    },
+    "457": {
+        "idx": 457,
+        "desc": "Take part in Red Fortress PvP mode for |C:0x13ee22&T:2| time",
+        "shortDesc": "Take part in Red Fortress PvP mode for |C:0x13ee22&T:2| time",
+        "type": 134,
+        "target": 2,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            0
+        ]
+    },
+    "458": {
+        "idx": 458,
+        "desc": "Take part in Red Fortress PvP mode for |C:0x13ee22&T:4| time",
+        "shortDesc": "Take part in Red Fortress PvP mode for |C:0x13ee22&T:4| time",
+        "type": 134,
+        "target": 4,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            0
+        ]
+    },
+    "459": {
+        "idx": 459,
+        "desc": "Take part in Red Fortress PvP mode for |C:0x13ee22&T:6| time",
+        "shortDesc": "Take part in Red Fortress PvP mode for |C:0x13ee22&T:6| time",
+        "type": 134,
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            0
+        ]
+    },
+    "460": {
+        "idx": 460,
+        "desc": "Loot Poseidon's Treasure for |C:0x13ee22&T:4| times",
+        "shortDesc": "Loot Poseidon's Treasure for |C:0x13ee22&T:4| times",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            13,
+            2,
+            0
+        ]
+    },
+    "461": {
+        "idx": 461,
+        "desc": "Loot Poseidon's Treasure for |C:0x13ee22&T:8| times",
+        "shortDesc": "Loot Poseidon's Treasure for |C:0x13ee22&T:8| times",
+        "type": 68,
+        "target": 8,
+        "controlTarget": [
+            5,
+            13,
+            2,
+            0
+        ]
+    },
+    "462": {
+        "idx": 462,
+        "desc": "Loot Poseidon's Treasure for |C:0x13ee22&T:12| times",
+        "shortDesc": "Loot Poseidon's Treasure for |C:0x13ee22&T:12| times",
+        "type": 68,
+        "target": 12,
+        "controlTarget": [
+            5,
+            13,
+            2,
+            0
+        ]
+    },
+    "463": {
+        "idx": 463,
+        "desc": "Loot Poseidon's Treasure for |C:0x13ee22&T:16| times",
+        "shortDesc": "Loot Poseidon's Treasure for |C:0x13ee22&T:16| times",
+        "type": 68,
+        "target": 16,
+        "controlTarget": [
+            5,
+            13,
+            2,
+            0
+        ]
+    },
+    "464": {
+        "idx": 464,
+        "desc": "Take part in Avatar War for |C:0x13ee22&T:5| times",
+        "shortDesc": "Take part in Avatar War for |C:0x13ee22&T:5| times",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            13,
+            3,
+            0
+        ]
+    },
+    "465": {
+        "idx": 465,
+        "desc": "Take part in Avatar War for |C:0x13ee22&T:10| times",
+        "shortDesc": "Take part in Avatar War for |C:0x13ee22&T:10| times",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            3,
+            0
+        ]
+    },
+    "466": {
+        "idx": 466,
+        "desc": "Take part in Avatar War for |C:0x13ee22&T:20| times",
+        "shortDesc": "Take part in Avatar War for |C:0x13ee22&T:20| times",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            13,
+            3,
+            0
+        ]
+    },
+    "467": {
+        "idx": 467,
+        "desc": "Take part in Avatar War for |C:0x13ee22&T:30| times",
+        "shortDesc": "Take part in Avatar War for |C:0x13ee22&T:30| times",
+        "type": 68,
+        "target": 30,
+        "controlTarget": [
+            5,
+            13,
+            3,
+            0
+        ]
+    },
+    "468": {
+        "idx": 468,
+        "desc": "Purchase $1 Deal in bulk for |C:0x13ee22&T:1| time",
+        "shortDesc": "Purchase $1 Deal in bulk for |C:0x13ee22&T:1| time",
+        "type": 177,
+        "target": 1,
+        "controlTarget": [
+            5,
+            40,
+            0,
+            0
+        ]
+    },
+    "469": {
+        "idx": 469,
+        "desc": "Purchase $1 Deal in bulk for |C:0x13ee22&T:2| times",
+        "shortDesc": "Purchase $1 Deal in bulk for |C:0x13ee22&T:2| times",
+        "type": 177,
+        "target": 2,
+        "controlTarget": [
+            5,
+            40,
+            0,
+            0
+        ]
+    },
+    "470": {
+        "idx": 470,
+        "desc": "Purchase Rebirth Deal in bulk for |C:0x13ee22&T:1| time",
+        "shortDesc": "Purchase Rebirth Deal in bulk for |C:0x13ee22&T:1| time",
+        "type": 178,
+        "target": 1,
+        "controlTarget": [
+            5,
+            63,
+            0,
+            0
+        ]
+    },
+    "471": {
+        "idx": 471,
+        "desc": "Purchase Rebirth Deal in bulk for |C:0x13ee22&T:2| times",
+        "shortDesc": "Purchase Rebirth Deal in bulk for |C:0x13ee22&T:2| times",
+        "type": 178,
+        "target": 2,
+        "controlTarget": [
+            5,
+            63,
+            0,
+            0
+        ]
+    },
+    "472": {
+        "idx": 472,
+        "desc": "Draw in Lucky Wheel for |C:0x13ee22&T:1| time",
+        "shortDesc": "Draw in Lucky Wheel for |C:0x13ee22&T:1| time",
+        "type": 180,
+        "target": 1,
+        "controlTarget": [
+            8,
+            1039,
+            1
+        ]
+    },
+    "473": {
+        "idx": 473,
+        "desc": "Draw in Lucky Wheel for |C:0x13ee22&T:2| times",
+        "shortDesc": "Draw in Lucky Wheel for |C:0x13ee22&T:2| times",
+        "type": 180,
+        "target": 2,
+        "controlTarget": [
+            8,
+            1039,
+            0
+        ]
+    },
+    "474": {
+        "idx": 474,
+        "desc": "Purchase Svip Deal in bulk for |C:0x13ee22&T:1| time",
+        "shortDesc": "Purchase Svip Deal in bulk for |C:0x13ee22&T:1| time",
+        "type": 179,
+        "target": 1,
+        "controlTarget": [
+            5,
+            38,
+            0,
+            0
+        ]
+    },
+    "475": {
+        "idx": 475,
+        "desc": "Purchase Svip Deal in bulk for |C:0x13ee22&T:2| times",
+        "shortDesc": "Purchase Svip Deal in bulk for |C:0x13ee22&T:2| times",
+        "type": 179,
+        "target": 2,
+        "controlTarget": [
+            5,
+            38,
+            0,
+            0
+        ]
+    },
+    "501": {
+        "idx": 501,
+        "desc": "Challenge Talent Dungeon twice",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "502": {
+        "idx": 502,
+        "desc": "Challenge Talent Dungeon for 4 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "503": {
+        "idx": 503,
+        "desc": "Challenge Talent Dungeon for 6 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "504": {
+        "idx": 504,
+        "desc": "Challenge Talent Dungeon for 10 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "505": {
+        "idx": 505,
+        "desc": "Challenge Talent Dungeon for 15 times",
+        "shortDesc": "Talent",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "506": {
+        "idx": 506,
+        "desc": "Challenge Mercenary Dungeon twice",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "507": {
+        "idx": 507,
+        "desc": "Challenge Mercenary Dungeon for 4 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "508": {
+        "idx": 508,
+        "desc": "Challenge Mercenary Dungeon for 6 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "509": {
+        "idx": 509,
+        "desc": "Challenge Mercenary Dungeon for 10 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "510": {
+        "idx": 510,
+        "desc": "Challenge Mercenary Dungeon for 15 times",
+        "shortDesc": "Mercenary",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "511": {
+        "idx": 511,
+        "desc": "Challenge Avatar Dungeon twice",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "512": {
+        "idx": 512,
+        "desc": "Challenge Avatar Dungeon for 4 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "513": {
+        "idx": 513,
+        "desc": "Challenge Avatar Dungeon for 6 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "514": {
+        "idx": 514,
+        "desc": "Challenge Avatar Dungeon for 10 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "515": {
+        "idx": 515,
+        "desc": "Challenge Avatar Dungeon for 15 times",
+        "shortDesc": "Avatar",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "516": {
+        "idx": 516,
+        "desc": "Challenge Wings Dungeon twice",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "517": {
+        "idx": 517,
+        "desc": "Challenge Wings Dungeon for 4 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "518": {
+        "idx": 518,
+        "desc": "Challenge Wings Dungeon for 6 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "519": {
+        "idx": 519,
+        "desc": "Challenge Wings Dungeon for 10 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "520": {
+        "idx": 520,
+        "desc": "Challenge Wings Dungeon for 15 times",
+        "shortDesc": "Wings",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "521": {
+        "idx": 521,
+        "desc": "Challenge Merlin Dungeon twice",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "522": {
+        "idx": 522,
+        "desc": "Challenge Merlin Dungeon for 4 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "523": {
+        "idx": 523,
+        "desc": "Challenge Merlin Dungeon for 6 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "524": {
+        "idx": 524,
+        "desc": "Challenge Merlin Dungeon for 10 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "525": {
+        "idx": 525,
+        "desc": "Challenge Merlin Dungeon for 15 times",
+        "shortDesc": "Merlin",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "526": {
+        "idx": 526,
+        "desc": "Perform Gear Hunt for 10 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "527": {
+        "idx": 527,
+        "desc": "Perform Gear Hunt for 20 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "528": {
+        "idx": 528,
+        "desc": "Perform Gear Hunt for 30 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "529": {
+        "idx": 529,
+        "desc": "Perform Gear Hunt for 40 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 40,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "530": {
+        "idx": 530,
+        "desc": "Perform Gear Hunt for 50 times",
+        "shortDesc": "Gear Hunt",
+        "type": 150,
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "531": {
+        "idx": 531,
+        "desc": "Perform Rune Hunt for 5 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "532": {
+        "idx": 532,
+        "desc": "Perform Rune Hunt for 10 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "533": {
+        "idx": 533,
+        "desc": "Perform Rune Hunt for 15 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 15,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "534": {
+        "idx": 534,
+        "desc": "Perform Rune Hunt for 20 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "535": {
+        "idx": 535,
+        "desc": "Perform Rune Hunt for 30 times",
+        "shortDesc": "Rune Hunt",
+        "type": 101,
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "536": {
+        "idx": 536,
+        "desc": "Challenge Server Boss for 5 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "537": {
+        "idx": 537,
+        "desc": "Challenge Server Boss for 10 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "538": {
+        "idx": 538,
+        "desc": "Challenge Server Boss for 15 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "539": {
+        "idx": 539,
+        "desc": "Challenge Server Boss for 20 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "540": {
+        "idx": 540,
+        "desc": "Challenge Server Boss for 30 times in total",
+        "shortDesc": "Server Boss",
+        "type": 68,
+        "target": 30,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "541": {
+        "idx": 541,
+        "desc": "Perform Arena Challenge for 5 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "542": {
+        "idx": 542,
+        "desc": "Perform Arena Challenge for 10 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "543": {
+        "idx": 543,
+        "desc": "Perform Arena Challenge for 15 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "544": {
+        "idx": 544,
+        "desc": "Perform Arena Challenge for 20 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "545": {
+        "idx": 545,
+        "desc": "Perform Arena Challenge for 30 times",
+        "shortDesc": "Arena",
+        "type": 68,
+        "target": 30,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ]
+    },
+    "546": {
+        "idx": 546,
+        "desc": "Mine in Crystal Valley twice",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 2,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "547": {
+        "idx": 547,
+        "desc": "Mine in Crystal Valley for 4 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 4,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "548": {
+        "idx": 548,
+        "desc": "Mine in Crystal Valley for 6 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "549": {
+        "idx": 549,
+        "desc": "Mine in Crystal Valley for 8 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 8,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "550": {
+        "idx": 550,
+        "desc": "Mine in Crystal Valley for 10 times",
+        "shortDesc": "Crystal Mining",
+        "type": 117,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "551": {
+        "idx": 551,
+        "desc": "Take part in King of Peaks for 5 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 5,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "552": {
+        "idx": 552,
+        "desc": "Take part in King of Peaks for 10 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "553": {
+        "idx": 553,
+        "desc": "Take part in King of Peaks for 15 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 15,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "554": {
+        "idx": 554,
+        "desc": "Take part in King of Peaks for 20 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 20,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "555": {
+        "idx": 555,
+        "desc": "Take part in King of Peaks for 30 times",
+        "shortDesc": "King of Peaks",
+        "type": 68,
+        "target": 30,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "556": {
+        "idx": 556,
+        "desc": "Challenge Guild Invasion for 3 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 3,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "557": {
+        "idx": 557,
+        "desc": "Challenge Guild Invasion for 6 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 6,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "558": {
+        "idx": 558,
+        "desc": "Challenge Guild Invasion for 9 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 9,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "559": {
+        "idx": 559,
+        "desc": "Challenge Guild Invasion for 12 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 12,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "560": {
+        "idx": 560,
+        "desc": "Challenge Guild Invasion for 15 times",
+        "shortDesc": "Guild Invasion",
+        "type": 69,
+        "target": 15,
+        "controlTarget": [
+            1,
+            34,
+            2
+        ]
+    },
+    "561": {
+        "idx": 561,
+        "desc": "Challenge Demon Fortress twice",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "562": {
+        "idx": 562,
+        "desc": "Challenge Demon Fortress for 4 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "563": {
+        "idx": 563,
+        "desc": "Challenge Demon Fortress for 6 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 6,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "564": {
+        "idx": 564,
+        "desc": "Challenge Demon Fortress for 8 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 8,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "565": {
+        "idx": 565,
+        "desc": "Challenge Demon Fortress for 10 times",
+        "shortDesc": "Demon Fortress",
+        "type": 68,
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    }
+}

@@ -1,0 +1,422 @@
+{
+    "1": {
+        "id": 1,
+        "quality": 3,
+        "srQuality": 1,
+        "name": "Water Grace",
+        "dec": "Event",
+        "power": 5000,
+        "appearanceId": 1,
+        "groupId": 1,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300
+            },
+            {
+                "type": 1,
+                "value": 14000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072001,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1500
+    },
+    "2": {
+        "id": 2,
+        "quality": 3,
+        "srQuality": 1,
+        "name": "Thunder Lament",
+        "dec": "Event",
+        "power": 12000,
+        "appearanceId": 2,
+        "groupId": 1,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 840
+            },
+            {
+                "type": 1,
+                "value": 31200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072002,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1500
+    },
+    "3": {
+        "id": 3,
+        "quality": 3,
+        "srQuality": 2,
+        "name": "Wind Movement",
+        "dec": "Event",
+        "power": 36000,
+        "appearanceId": 3,
+        "groupId": 1,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 2160
+            },
+            {
+                "type": 1,
+                "value": 100800
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072003,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1500
+    },
+    "4": {
+        "id": 4,
+        "quality": 3,
+        "srQuality": 2,
+        "name": "Ice Judgement",
+        "dec": "Event",
+        "power": 72000,
+        "appearanceId": 4,
+        "groupId": 1,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 5040
+            },
+            {
+                "type": 1,
+                "value": 187200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072004,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1500
+    },
+    "5": {
+        "id": 5,
+        "quality": 4,
+        "srQuality": 2,
+        "name": "Wood Protection",
+        "dec": "Event",
+        "power": 120000,
+        "appearanceId": 5,
+        "groupId": 2,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 7200
+            },
+            {
+                "type": 1,
+                "value": 192000
+            },
+            {
+                "type": 6,
+                "value": 9000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072005,
+                "count": 1
+            }
+        ],
+        "maxLevel": 750
+    },
+    "6": {
+        "id": 6,
+        "quality": 4,
+        "srQuality": 3,
+        "name": "Wind Realm",
+        "dec": "Event",
+        "power": 240000,
+        "appearanceId": 6,
+        "groupId": 2,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 14400
+            },
+            {
+                "type": 1,
+                "value": 384000
+            },
+            {
+                "type": 43,
+                "value": 24000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072006,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1000
+    },
+    "7": {
+        "id": 7,
+        "quality": 4,
+        "srQuality": 3,
+        "name": "Earth Rampart",
+        "dec": "Top-up Streak",
+        "power": 360000,
+        "appearanceId": 7,
+        "groupId": 2,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 21600
+            },
+            {
+                "type": 1,
+                "value": 576000
+            },
+            {
+                "type": 4,
+                "value": 21600
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072007,
+                "count": 1
+            }
+        ],
+        "maxLevel": 750
+    },
+    "8": {
+        "id": 8,
+        "quality": 4,
+        "srQuality": 3,
+        "name": "Fire Embrace",
+        "dec": "Event",
+        "power": 600000,
+        "appearanceId": 8,
+        "groupId": 2,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 36000
+            },
+            {
+                "type": 1,
+                "value": 960000
+            },
+            {
+                "type": 6,
+                "value": 45000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072008,
+                "count": 1
+            }
+        ],
+        "maxLevel": 750
+    },
+    "9": {
+        "id": 9,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Lunar Blessing",
+        "dec": "Rank Hunt",
+        "power": 1000000,
+        "appearanceId": 9,
+        "groupId": 3,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 60000
+            },
+            {
+                "type": 1,
+                "value": 1600000
+            },
+            {
+                "type": 43,
+                "value": 100000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072009,
+                "count": 1
+            }
+        ],
+        "maxLevel": 400
+    },
+    "10": {
+        "id": 10,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Light Realm",
+        "dec": "Rank total top-up",
+        "power": 1800000,
+        "appearanceId": 10,
+        "groupId": 3,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 108000
+            },
+            {
+                "type": 1,
+                "value": 2880000
+            },
+            {
+                "type": 4,
+                "value": 108000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072010,
+                "count": 1
+            }
+        ],
+        "maxLevel": 300
+    },
+    "11": {
+        "id": 11,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Poseidon Judgement",
+        "dec": "SVIP8",
+        "power": 3500000,
+        "appearanceId": 11,
+        "groupId": 3,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 210000
+            },
+            {
+                "type": 1,
+                "value": 5600000
+            },
+            {
+                "type": 6,
+                "value": 262500
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072011,
+                "count": 1
+            }
+        ],
+        "maxLevel": 300
+    },
+    "12": {
+        "id": 12,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Battle Avatar",
+        "dec": "Event",
+        "power": 6000000,
+        "appearanceId": 12,
+        "groupId": 3,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 360000
+            },
+            {
+                "type": 1,
+                "value": 9600000
+            },
+            {
+                "type": 43,
+                "value": 600000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072012,
+                "count": 1
+            }
+        ],
+        "maxLevel": 300
+    },
+    "13": {
+        "id": 13,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Sea Surging",
+        "dec": "Poseidon's Treasure",
+        "power": 5000000,
+        "appearanceId": 13,
+        "groupId": 3,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 9000000
+            },
+            {
+                "type": 4,
+                "value": 250000
+            },
+            {
+                "type": 69,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1072013,
+                "count": 1
+            }
+        ],
+        "maxLevel": 300
+    }
+}

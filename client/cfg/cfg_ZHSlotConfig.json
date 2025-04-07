@@ -1,0 +1,37 @@
+{
+    "1": {
+        "pos": 1,
+        "condition": {
+            "pos": 1,
+            "level": 0
+        }
+    },
+    "2": {
+        "pos": 2,
+        "condition": {
+            "pos": 1,
+            "level": 5
+        }
+    },
+    "3": {
+        "pos": 3,
+        "condition": {
+            "pos": 2,
+            "level": 10
+        }
+    },
+    "4": {
+        "pos": 4,
+        "condition": {
+            "pos": 3,
+            "level": 15
+        }
+    },
+    "5": {
+        "pos": 5,
+        "condition": {
+            "pos": 4,
+            "level": 20
+        }
+    }
+}

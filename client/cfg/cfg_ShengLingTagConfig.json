@@ -1,0 +1,1046 @@
+{
+    "341101": {
+        "id": 341101,
+        "needItem": [
+            {
+                "id": 341101,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 6000
+            },
+            {
+                "type": 3,
+                "value": 12000
+            },
+            {
+                "type": 1,
+                "value": 100000
+            },
+            {
+                "type": 62,
+                "value": 3000
+            }
+        ],
+        "shengLingId": 1,
+        "maxLevel": 600
+    },
+    "341102": {
+        "id": 341102,
+        "needItem": [
+            {
+                "id": 341102,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 6000
+            },
+            {
+                "type": 3,
+                "value": 12000
+            },
+            {
+                "type": 1,
+                "value": 100000
+            },
+            {
+                "type": 5,
+                "value": 7500
+            }
+        ],
+        "shengLingId": 1,
+        "maxLevel": 600
+    },
+    "341103": {
+        "id": 341103,
+        "needItem": [
+            {
+                "id": 341103,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 6000
+            },
+            {
+                "type": 3,
+                "value": 12000
+            },
+            {
+                "type": 1,
+                "value": 100000
+            },
+            {
+                "type": 11,
+                "value": 10000
+            }
+        ],
+        "shengLingId": 1,
+        "maxLevel": 600
+    },
+    "341104": {
+        "id": 341104,
+        "needItem": [
+            {
+                "id": 341104,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 3500
+            },
+            {
+                "type": 3,
+                "value": 7000
+            },
+            {
+                "type": 1,
+                "value": 55000
+            },
+            {
+                "type": 62,
+                "value": 6000
+            }
+        ],
+        "shengLingId": 1,
+        "maxLevel": 600
+    },
+    "341105": {
+        "id": 341105,
+        "needItem": [
+            {
+                "id": 341105,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 3500
+            },
+            {
+                "type": 3,
+                "value": 7000
+            },
+            {
+                "type": 1,
+                "value": 55000
+            },
+            {
+                "type": 5,
+                "value": 15000
+            }
+        ],
+        "shengLingId": 1,
+        "maxLevel": 600
+    },
+    "341106": {
+        "id": 341106,
+        "needItem": [
+            {
+                "id": 341106,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 3500
+            },
+            {
+                "type": 3,
+                "value": 7000
+            },
+            {
+                "type": 1,
+                "value": 55000
+            },
+            {
+                "type": 11,
+                "value": 20000
+            }
+        ],
+        "shengLingId": 1,
+        "maxLevel": 600
+    },
+    "341201": {
+        "id": 341201,
+        "needItem": [
+            {
+                "id": 341201,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 18000
+            },
+            {
+                "type": 3,
+                "value": 36000
+            },
+            {
+                "type": 1,
+                "value": 300000
+            },
+            {
+                "type": 62,
+                "value": 9000
+            }
+        ],
+        "shengLingId": 2,
+        "maxLevel": 360
+    },
+    "341202": {
+        "id": 341202,
+        "needItem": [
+            {
+                "id": 341202,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 18000
+            },
+            {
+                "type": 3,
+                "value": 36000
+            },
+            {
+                "type": 1,
+                "value": 300000
+            },
+            {
+                "type": 5,
+                "value": 22500
+            }
+        ],
+        "shengLingId": 2,
+        "maxLevel": 360
+    },
+    "341203": {
+        "id": 341203,
+        "needItem": [
+            {
+                "id": 341203,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 18000
+            },
+            {
+                "type": 3,
+                "value": 36000
+            },
+            {
+                "type": 1,
+                "value": 300000
+            },
+            {
+                "type": 11,
+                "value": 30000
+            }
+        ],
+        "shengLingId": 2,
+        "maxLevel": 360
+    },
+    "341204": {
+        "id": 341204,
+        "needItem": [
+            {
+                "id": 341204,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 10500
+            },
+            {
+                "type": 3,
+                "value": 21000
+            },
+            {
+                "type": 1,
+                "value": 165000
+            },
+            {
+                "type": 62,
+                "value": 18000
+            }
+        ],
+        "shengLingId": 2,
+        "maxLevel": 360
+    },
+    "341205": {
+        "id": 341205,
+        "needItem": [
+            {
+                "id": 341205,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 10500
+            },
+            {
+                "type": 3,
+                "value": 21000
+            },
+            {
+                "type": 1,
+                "value": 165000
+            },
+            {
+                "type": 5,
+                "value": 45000
+            }
+        ],
+        "shengLingId": 2,
+        "maxLevel": 360
+    },
+    "341206": {
+        "id": 341206,
+        "needItem": [
+            {
+                "id": 341206,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 10500
+            },
+            {
+                "type": 3,
+                "value": 21000
+            },
+            {
+                "type": 1,
+                "value": 165000
+            },
+            {
+                "type": 11,
+                "value": 60000
+            }
+        ],
+        "shengLingId": 2,
+        "maxLevel": 360
+    },
+    "341301": {
+        "id": 341301,
+        "needItem": [
+            {
+                "id": 341301,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 48000
+            },
+            {
+                "type": 3,
+                "value": 96000
+            },
+            {
+                "type": 1,
+                "value": 800000
+            },
+            {
+                "type": 62,
+                "value": 24000
+            }
+        ],
+        "shengLingId": 3,
+        "maxLevel": 360
+    },
+    "341302": {
+        "id": 341302,
+        "needItem": [
+            {
+                "id": 341302,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 48000
+            },
+            {
+                "type": 3,
+                "value": 96000
+            },
+            {
+                "type": 1,
+                "value": 800000
+            },
+            {
+                "type": 5,
+                "value": 60000
+            }
+        ],
+        "shengLingId": 3,
+        "maxLevel": 360
+    },
+    "341303": {
+        "id": 341303,
+        "needItem": [
+            {
+                "id": 341303,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 48000
+            },
+            {
+                "type": 3,
+                "value": 96000
+            },
+            {
+                "type": 1,
+                "value": 800000
+            },
+            {
+                "type": 11,
+                "value": 80000
+            }
+        ],
+        "shengLingId": 3,
+        "maxLevel": 360
+    },
+    "341304": {
+        "id": 341304,
+        "needItem": [
+            {
+                "id": 341304,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 28000
+            },
+            {
+                "type": 3,
+                "value": 56000
+            },
+            {
+                "type": 1,
+                "value": 440000
+            },
+            {
+                "type": 62,
+                "value": 48000
+            }
+        ],
+        "shengLingId": 3,
+        "maxLevel": 360
+    },
+    "341305": {
+        "id": 341305,
+        "needItem": [
+            {
+                "id": 341305,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 28000
+            },
+            {
+                "type": 3,
+                "value": 56000
+            },
+            {
+                "type": 1,
+                "value": 440000
+            },
+            {
+                "type": 5,
+                "value": 120000
+            }
+        ],
+        "shengLingId": 3,
+        "maxLevel": 360
+    },
+    "341306": {
+        "id": 341306,
+        "needItem": [
+            {
+                "id": 341306,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 28000
+            },
+            {
+                "type": 3,
+                "value": 56000
+            },
+            {
+                "type": 1,
+                "value": 440000
+            },
+            {
+                "type": 11,
+                "value": 160000
+            }
+        ],
+        "shengLingId": 3,
+        "maxLevel": 360
+    },
+    "341401": {
+        "id": 341401,
+        "needItem": [
+            {
+                "id": 341401,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 120000
+            },
+            {
+                "type": 3,
+                "value": 240000
+            },
+            {
+                "type": 1,
+                "value": 2000000
+            },
+            {
+                "type": 62,
+                "value": 60000
+            }
+        ],
+        "shengLingId": 4,
+        "maxLevel": 240
+    },
+    "341402": {
+        "id": 341402,
+        "needItem": [
+            {
+                "id": 341402,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 120000
+            },
+            {
+                "type": 3,
+                "value": 240000
+            },
+            {
+                "type": 1,
+                "value": 2000000
+            },
+            {
+                "type": 5,
+                "value": 150000
+            }
+        ],
+        "shengLingId": 4,
+        "maxLevel": 240
+    },
+    "341403": {
+        "id": 341403,
+        "needItem": [
+            {
+                "id": 341403,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 120000
+            },
+            {
+                "type": 3,
+                "value": 240000
+            },
+            {
+                "type": 1,
+                "value": 2000000
+            },
+            {
+                "type": 11,
+                "value": 200000
+            }
+        ],
+        "shengLingId": 4,
+        "maxLevel": 240
+    },
+    "341404": {
+        "id": 341404,
+        "needItem": [
+            {
+                "id": 341404,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 70000
+            },
+            {
+                "type": 3,
+                "value": 140000
+            },
+            {
+                "type": 1,
+                "value": 1100000
+            },
+            {
+                "type": 62,
+                "value": 120000
+            }
+        ],
+        "shengLingId": 4,
+        "maxLevel": 240
+    },
+    "341405": {
+        "id": 341405,
+        "needItem": [
+            {
+                "id": 341405,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 70000
+            },
+            {
+                "type": 3,
+                "value": 140000
+            },
+            {
+                "type": 1,
+                "value": 1100000
+            },
+            {
+                "type": 5,
+                "value": 300000
+            }
+        ],
+        "shengLingId": 4,
+        "maxLevel": 240
+    },
+    "341406": {
+        "id": 341406,
+        "needItem": [
+            {
+                "id": 341406,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 70000
+            },
+            {
+                "type": 3,
+                "value": 140000
+            },
+            {
+                "type": 1,
+                "value": 1100000
+            },
+            {
+                "type": 11,
+                "value": 400000
+            }
+        ],
+        "shengLingId": 4,
+        "maxLevel": 240
+    },
+    "341501": {
+        "id": 341501,
+        "needItem": [
+            {
+                "id": 341501,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 300000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 5000000
+            },
+            {
+                "type": 62,
+                "value": 150000
+            }
+        ],
+        "shengLingId": 5,
+        "maxLevel": 240
+    },
+    "341502": {
+        "id": 341502,
+        "needItem": [
+            {
+                "id": 341502,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 300000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 5000000
+            },
+            {
+                "type": 5,
+                "value": 375000
+            }
+        ],
+        "shengLingId": 5,
+        "maxLevel": 240
+    },
+    "341503": {
+        "id": 341503,
+        "needItem": [
+            {
+                "id": 341503,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 300000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 5000000
+            },
+            {
+                "type": 11,
+                "value": 500000
+            }
+        ],
+        "shengLingId": 5,
+        "maxLevel": 240
+    },
+    "341504": {
+        "id": 341504,
+        "needItem": [
+            {
+                "id": 341504,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 175000
+            },
+            {
+                "type": 3,
+                "value": 350000
+            },
+            {
+                "type": 1,
+                "value": 2750000
+            },
+            {
+                "type": 62,
+                "value": 300000
+            }
+        ],
+        "shengLingId": 5,
+        "maxLevel": 240
+    },
+    "341505": {
+        "id": 341505,
+        "needItem": [
+            {
+                "id": 341505,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 175000
+            },
+            {
+                "type": 3,
+                "value": 350000
+            },
+            {
+                "type": 1,
+                "value": 2750000
+            },
+            {
+                "type": 5,
+                "value": 750000
+            }
+        ],
+        "shengLingId": 5,
+        "maxLevel": 240
+    },
+    "341506": {
+        "id": 341506,
+        "needItem": [
+            {
+                "id": 341506,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 175000
+            },
+            {
+                "type": 3,
+                "value": 350000
+            },
+            {
+                "type": 1,
+                "value": 2750000
+            },
+            {
+                "type": 11,
+                "value": 1000000
+            }
+        ],
+        "shengLingId": 5,
+        "maxLevel": 240
+    },
+    "341601": {
+        "id": 341601,
+        "needItem": [
+            {
+                "id": 341601,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 480000
+            },
+            {
+                "type": 3,
+                "value": 960000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 62,
+                "value": 240000
+            }
+        ],
+        "shengLingId": 6,
+        "maxLevel": 240
+    },
+    "341602": {
+        "id": 341602,
+        "needItem": [
+            {
+                "id": 341602,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 480000
+            },
+            {
+                "type": 3,
+                "value": 960000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 5,
+                "value": 600000
+            }
+        ],
+        "shengLingId": 6,
+        "maxLevel": 240
+    },
+    "341603": {
+        "id": 341603,
+        "needItem": [
+            {
+                "id": 341603,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 480000
+            },
+            {
+                "type": 3,
+                "value": 960000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 11,
+                "value": 800000
+            }
+        ],
+        "shengLingId": 6,
+        "maxLevel": 240
+    },
+    "341604": {
+        "id": 341604,
+        "needItem": [
+            {
+                "id": 341604,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 280000
+            },
+            {
+                "type": 3,
+                "value": 560000
+            },
+            {
+                "type": 1,
+                "value": 4400000
+            },
+            {
+                "type": 62,
+                "value": 480000
+            }
+        ],
+        "shengLingId": 6,
+        "maxLevel": 240
+    },
+    "341605": {
+        "id": 341605,
+        "needItem": [
+            {
+                "id": 341605,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 280000
+            },
+            {
+                "type": 3,
+                "value": 560000
+            },
+            {
+                "type": 1,
+                "value": 4400000
+            },
+            {
+                "type": 5,
+                "value": 1200000
+            }
+        ],
+        "shengLingId": 6,
+        "maxLevel": 240
+    },
+    "341606": {
+        "id": 341606,
+        "needItem": [
+            {
+                "id": 341606,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 2,
+                "value": 280000
+            },
+            {
+                "type": 3,
+                "value": 560000
+            },
+            {
+                "type": 1,
+                "value": 4400000
+            },
+            {
+                "type": 11,
+                "value": 1600000
+            }
+        ],
+        "shengLingId": 6,
+        "maxLevel": 240
+    }
+}

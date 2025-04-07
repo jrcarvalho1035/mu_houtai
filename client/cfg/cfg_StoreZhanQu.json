@@ -1,0 +1,442 @@
+{
+    "1": {
+        "index": 1,
+        "id": 1082020,
+        "count": 1,
+        "needCount": 400000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 1
+    },
+    "2": {
+        "index": 2,
+        "id": 1085020,
+        "count": 1,
+        "needCount": 5000,
+        "daycount": {
+            "type": 2,
+            "count": 80
+        },
+        "sort": 2
+    },
+    "3": {
+        "index": 3,
+        "id": 421001,
+        "count": 1,
+        "needCount": 400000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 3
+    },
+    "4": {
+        "index": 4,
+        "id": 380050,
+        "count": 1,
+        "needCount": 50000,
+        "daycount": {
+            "type": 3,
+            "count": 1
+        },
+        "sort": 4
+    },
+    "5": {
+        "index": 5,
+        "id": 620001,
+        "count": 1,
+        "needCount": 500000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 5
+    },
+    "6": {
+        "index": 6,
+        "id": 620002,
+        "count": 1,
+        "needCount": 500000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 6
+    },
+    "7": {
+        "index": 7,
+        "id": 620010,
+        "count": 1,
+        "needCount": 300000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 7
+    },
+    "8": {
+        "index": 8,
+        "id": 620003,
+        "count": 1,
+        "needCount": 300000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 8
+    },
+    "9": {
+        "index": 9,
+        "id": 420146,
+        "count": 1,
+        "needCount": 150000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 9
+    },
+    "10": {
+        "index": 10,
+        "id": 420145,
+        "count": 1,
+        "needCount": 100000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 10
+    },
+    "11": {
+        "index": 11,
+        "id": 500006,
+        "count": 1,
+        "needCount": 15000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 11
+    },
+    "12": {
+        "index": 12,
+        "id": 500008,
+        "count": 1,
+        "needCount": 25000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 12
+    },
+    "13": {
+        "index": 13,
+        "id": 420130,
+        "count": 1,
+        "needCount": 1200,
+        "daycount": {
+            "type": 2,
+            "count": 5
+        },
+        "sort": 13
+    },
+    "14": {
+        "index": 14,
+        "id": 420134,
+        "count": 1,
+        "needCount": 1200,
+        "daycount": {
+            "type": 2,
+            "count": 5
+        },
+        "sort": 14
+    },
+    "15": {
+        "index": 15,
+        "id": 1070017,
+        "count": 1,
+        "needCount": 400000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 15
+    },
+    "16": {
+        "index": 16,
+        "id": 1071017,
+        "count": 1,
+        "needCount": 5000,
+        "daycount": {
+            "type": 2,
+            "count": 80
+        },
+        "sort": 16
+    },
+    "17": {
+        "index": 17,
+        "id": 750008,
+        "count": 1,
+        "needCount": 450000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 17
+    },
+    "18": {
+        "index": 18,
+        "id": 750007,
+        "count": 1,
+        "needCount": 400000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 18
+    },
+    "19": {
+        "index": 19,
+        "id": 750006,
+        "count": 1,
+        "needCount": 350000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 19
+    },
+    "20": {
+        "index": 20,
+        "id": 750005,
+        "count": 1,
+        "needCount": 300000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 20
+    },
+    "21": {
+        "index": 21,
+        "id": 750004,
+        "count": 1,
+        "needCount": 200000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 21
+    },
+    "22": {
+        "index": 22,
+        "id": 750003,
+        "count": 1,
+        "needCount": 150000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 22
+    },
+    "23": {
+        "index": 23,
+        "id": 750002,
+        "count": 1,
+        "needCount": 100000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 23
+    },
+    "24": {
+        "index": 24,
+        "id": 750001,
+        "count": 1,
+        "needCount": 50000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 24
+    },
+    "25": {
+        "index": 25,
+        "id": 1083027,
+        "count": 1,
+        "needCount": 400000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 25
+    },
+    "26": {
+        "index": 26,
+        "id": 1086027,
+        "count": 1,
+        "needCount": 5000,
+        "daycount": {
+            "type": 2,
+            "count": 80
+        },
+        "sort": 26
+    },
+    "27": {
+        "index": 27,
+        "id": 727000,
+        "count": 1,
+        "needCount": 750000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 27
+    },
+    "28": {
+        "index": 28,
+        "id": 728000,
+        "count": 1,
+        "needCount": 5000,
+        "daycount": {
+            "type": 2,
+            "count": 150
+        },
+        "sort": 28
+    },
+    "29": {
+        "index": 29,
+        "id": 728001,
+        "count": 1,
+        "needCount": 250000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 29
+    },
+    "30": {
+        "index": 30,
+        "id": 728002,
+        "count": 1,
+        "needCount": 250000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 30
+    },
+    "31": {
+        "index": 31,
+        "id": 728003,
+        "count": 1,
+        "needCount": 250000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 31
+    },
+    "32": {
+        "index": 32,
+        "id": 728004,
+        "count": 1,
+        "needCount": 250000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 32
+    },
+    "33": {
+        "index": 33,
+        "id": 728005,
+        "count": 1,
+        "needCount": 250000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 33
+    },
+    "34": {
+        "index": 34,
+        "id": 1081030,
+        "count": 1,
+        "needCount": 400000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 34
+    },
+    "35": {
+        "index": 35,
+        "id": 1084030,
+        "count": 1,
+        "needCount": 5000,
+        "daycount": {
+            "type": 2,
+            "count": 80
+        },
+        "sort": 35
+    },
+    "36": {
+        "index": 36,
+        "id": 772001,
+        "count": 1,
+        "needCount": 18000,
+        "daycount": {
+            "type": 2,
+            "count": 6
+        },
+        "sort": 36
+    },
+    "37": {
+        "index": 37,
+        "id": 772002,
+        "count": 1,
+        "needCount": 90000,
+        "daycount": {
+            "type": 2,
+            "count": 5
+        },
+        "sort": 37
+    },
+    "38": {
+        "index": 38,
+        "id": 772003,
+        "count": 1,
+        "needCount": 315000,
+        "daycount": {
+            "type": 2,
+            "count": 1
+        },
+        "sort": 38
+    },
+    "39": {
+        "index": 39,
+        "id": 772031,
+        "count": 1,
+        "needCount": 21600,
+        "daycount": {
+            "type": 2,
+            "count": 5
+        },
+        "sort": 39
+    },
+    "40": {
+        "index": 40,
+        "id": 772032,
+        "count": 1,
+        "needCount": 108000,
+        "daycount": {
+            "type": 2,
+            "count": 2
+        },
+        "sort": 40
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "1": {
+        "custom": 1,
+        "position": {
+            "x": 34,
+            "y": 22
+        },
+        "sound": "boss1_mp3"
+    },
+    "2": {
+        "custom": 2,
+        "position": {
+            "x": 27,
+            "y": 23
+        },
+        "sound": "boss2_mp3"
+    },
+    "3": {
+        "custom": 3,
+        "position": {
+            "x": 18,
+            "y": 10
+        },
+        "sound": "boss3_mp3"
+    },
+    "4": {
+        "custom": 4,
+        "position": {
+            "x": 18,
+            "y": 10
+        },
+        "sound": "boss8_mp3"
+    },
+    "5": {
+        "custom": 5,
+        "position": {
+            "x": 42,
+            "y": 14
+        },
+        "sound": "boss9_mp3"
+    },
+    "6": {
+        "custom": 6,
+        "position": {
+            "x": 42,
+            "y": 14
+        },
+        "sound": "boss12_mp3"
+    },
+    "7": {
+        "custom": 7,
+        "position": {
+            "x": 50,
+            "y": 32
+        },
+        "sound": "boss4_mp3"
+    },
+    "8": {
+        "custom": 8,
+        "position": {
+            "x": 50,
+            "y": 32
+        },
+        "sound": "boss17_mp3"
+    },
+    "9": {
+        "custom": 9,
+        "position": {
+            "x": 14,
+            "y": 17
+        },
+        "sound": "boss11_mp3"
+    },
+    "10": {
+        "custom": 10,
+        "position": {
+            "x": 14,
+            "y": 17
+        },
+        "sound": "boss7_mp3"
+    },
+    "11": {
+        "custom": 11,
+        "position": {
+            "x": 14,
+            "y": 17
+        },
+        "sound": "boss15_mp3"
+    },
+    "12": {
+        "custom": 12,
+        "position": {
+            "x": 52,
+            "y": 12
+        },
+        "sound": "boss13_mp3"
+    },
+    "13": {
+        "custom": 13,
+        "position": {
+            "x": 52,
+            "y": 12
+        },
+        "sound": "boss12_mp3"
+    },
+    "14": {
+        "custom": 14,
+        "position": {
+            "x": 52,
+            "y": 12
+        },
+        "sound": "boss14_mp3"
+    },
+    "15": {
+        "custom": 15,
+        "position": {
+            "x": 45,
+            "y": 28
+        },
+        "sound": "boss7_mp3"
+    },
+    "16": {
+        "custom": 16,
+        "position": {
+            "x": 45,
+            "y": 28
+        },
+        "sound": "boss6_mp3"
+    },
+    "17": {
+        "custom": 17,
+        "position": {
+            "x": 45,
+            "y": 28
+        },
+        "sound": "boss16_mp3"
+    },
+    "18": {
+        "custom": 18,
+        "position": {
+            "x": 74,
+            "y": 36
+        },
+        "sound": "boss9_mp3"
+    },
+    "19": {
+        "custom": 19,
+        "position": {
+            "x": 74,
+            "y": 36
+        },
+        "sound": "boss5_mp3"
+    },
+    "20": {
+        "custom": 20,
+        "position": {
+            "x": 74,
+            "y": 36
+        },
+        "sound": "boss7_mp3"
+    }
+}

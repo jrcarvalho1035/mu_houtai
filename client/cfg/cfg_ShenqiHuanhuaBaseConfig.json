@@ -1,0 +1,4617 @@
+{
+    "0": {
+        "id": 0,
+        "quality": 3,
+        "srQuality": 1,
+        "name": [
+            "Long Sword",
+            "Long Staff",
+            "Long Bow"
+        ],
+        "dec": "0",
+        "power": 0,
+        "groupId": 1,
+        "weaponIds": [
+            100,
+            200,
+            300
+        ],
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "1": {
+        "id": 1,
+        "quality": 3,
+        "srQuality": 1,
+        "name": [
+            "Long Sword",
+            "Long Staff",
+            "Long Bow"
+        ],
+        "dec": "Online Rewards",
+        "power": 10000,
+        "groupId": 1,
+        "weaponIds": [
+            101,
+            201,
+            301
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1600
+            },
+            {
+                "type": 5,
+                "value": 500
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010101,
+                "count": 1
+            }
+        ],
+        "maxLevel": 9000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "2": {
+        "id": 2,
+        "quality": 3,
+        "srQuality": 1,
+        "name": [
+            "Heavy Sword",
+            "Crystal Staff",
+            "Seduction Bow"
+        ],
+        "dec": "M1 R1",
+        "power": 30000,
+        "groupId": 1,
+        "weaponIds": [
+            102,
+            202,
+            302
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 4800
+            },
+            {
+                "type": 11,
+                "value": 2000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010102,
+                "count": 1
+            }
+        ],
+        "maxLevel": 9000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "3": {
+        "id": 3,
+        "quality": 3,
+        "srQuality": 2,
+        "name": [
+            "Soulsplitter",
+            "Golden Staff",
+            "Silver Scale Bow"
+        ],
+        "dec": "M2 R1",
+        "power": 60000,
+        "groupId": 1,
+        "weaponIds": [
+            103,
+            203,
+            303
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 9600
+            },
+            {
+                "type": 62,
+                "value": 1200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010103,
+                "count": 1
+            }
+        ],
+        "maxLevel": 9000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "4": {
+        "id": 4,
+        "quality": 3,
+        "srQuality": 2,
+        "name": [
+            "Protector Sword",
+            "Revival Staff",
+            "Dooms Bow"
+        ],
+        "dec": "M3 R1",
+        "power": 100000,
+        "groupId": 1,
+        "weaponIds": [
+            104,
+            204,
+            304
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 16000
+            },
+            {
+                "type": 5,
+                "value": 5000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010104,
+                "count": 1
+            }
+        ],
+        "maxLevel": 9000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "5": {
+        "id": 5,
+        "quality": 4,
+        "srQuality": 2,
+        "name": [
+            "T·Soulsplitter",
+            "T·Golden Staff",
+            "T·Silver Scale Bow"
+        ],
+        "dec": "Gear Hunt",
+        "power": 200000,
+        "groupId": 2,
+        "weaponIds": [
+            105,
+            205,
+            305
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 20000
+            },
+            {
+                "type": 1,
+                "value": 160000
+            },
+            {
+                "type": 5,
+                "value": 15000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010105,
+                "count": 1
+            }
+        ],
+        "maxLevel": 4500,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "6": {
+        "id": 6,
+        "quality": 4,
+        "srQuality": 3,
+        "name": [
+            "T·Protector Sword",
+            "T·Revival Staff",
+            "T·Dooms Bow"
+        ],
+        "dec": "M5 R1",
+        "power": 300000,
+        "groupId": 2,
+        "weaponIds": [
+            106,
+            206,
+            306
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 30000
+            },
+            {
+                "type": 1,
+                "value": 240000
+            },
+            {
+                "type": 11,
+                "value": 30000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010106,
+                "count": 1
+            }
+        ],
+        "maxLevel": 4500,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "7": {
+        "id": 7,
+        "quality": 4,
+        "srQuality": 3,
+        "name": [
+            "Gemini Sword",
+            "Dragonhunt Staff",
+            "Moon Chaser Bow"
+        ],
+        "dec": "M6 R1",
+        "power": 500000,
+        "groupId": 2,
+        "weaponIds": [
+            107,
+            207,
+            307
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 50000
+            },
+            {
+                "type": 1,
+                "value": 400000
+            },
+            {
+                "type": 62,
+                "value": 15000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010107,
+                "count": 1
+            }
+        ],
+        "maxLevel": 4500,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "8": {
+        "id": 8,
+        "quality": 4,
+        "srQuality": 3,
+        "name": [
+            "Magic Enchanter",
+            "Spellbane Staff",
+            "Demon Bow"
+        ],
+        "dec": "M7 R1",
+        "power": 800000,
+        "groupId": 2,
+        "weaponIds": [
+            108,
+            208,
+            308
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 80000
+            },
+            {
+                "type": 1,
+                "value": 640000
+            },
+            {
+                "type": 5,
+                "value": 60000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010108,
+                "count": 1
+            }
+        ],
+        "maxLevel": 4500,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "9": {
+        "id": 9,
+        "quality": 5,
+        "srQuality": 3,
+        "name": [
+            "D·Gemini Sword",
+            "D·Spellbane Staff",
+            "D·Demon Bow"
+        ],
+        "dec": "SVIP6",
+        "power": 1500000,
+        "groupId": 3,
+        "weaponIds": [
+            109,
+            209,
+            309
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 150000
+            },
+            {
+                "type": 1,
+                "value": 1200000
+            },
+            {
+                "type": 11,
+                "value": 150000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010109,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2400,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "10": {
+        "id": 10,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Storm Sword",
+            "Chrono Staff",
+            "Sacred Wings Bow"
+        ],
+        "dec": "Opening total top-up",
+        "power": 3000000,
+        "groupId": 3,
+        "weaponIds": [
+            110,
+            210,
+            310
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 2400000
+            },
+            {
+                "type": 62,
+                "value": 90000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010110,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "11": {
+        "id": 11,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Phantom Sword",
+            "Poseidon's Staff",
+            "Annihilation Bow"
+        ],
+        "dec": "SVIP11",
+        "power": 5000000,
+        "groupId": 3,
+        "weaponIds": [
+            111,
+            211,
+            311
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 500000
+            },
+            {
+                "type": 1,
+                "value": 4000000
+            },
+            {
+                "type": 5,
+                "value": 375000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010111,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "12": {
+        "id": 12,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Doomsday Sword",
+            "Godking Staff",
+            "Worldly Bow"
+        ],
+        "dec": "SVIP14",
+        "power": 10000000,
+        "groupId": 3,
+        "weaponIds": [
+            112,
+            212,
+            312
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 11,
+                "value": 1000000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010112,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "13": {
+        "id": 13,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Angel Sword",
+            "Angel Staff",
+            "Angel Crossbow"
+        ],
+        "dec": "Event",
+        "power": 3500000,
+        "groupId": 4,
+        "weaponIds": [
+            113,
+            213,
+            313
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 350000
+            },
+            {
+                "type": 1,
+                "value": 2800000
+            },
+            {
+                "type": 62,
+                "value": 105000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010113,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "14": {
+        "id": 14,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Starblast Sword",
+            "Starblast Staff",
+            "Starblast Bow"
+        ],
+        "dec": "Chrono Project",
+        "power": 3000000,
+        "groupId": 4,
+        "weaponIds": [
+            114,
+            214,
+            314
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 2400000
+            },
+            {
+                "type": 11,
+                "value": 300000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010114,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "15": {
+        "id": 15,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Ahura Sword",
+            "Ahura Staff",
+            "Ahura Bow"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "groupId": 4,
+        "weaponIds": [
+            115,
+            215,
+            315
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 6400000
+            },
+            {
+                "type": 5,
+                "value": 600000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010115,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "16": {
+        "id": 16,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Golden Sword",
+            "Golden Staff",
+            "Golden Bow"
+        ],
+        "dec": "Event",
+        "power": 6000000,
+        "groupId": 4,
+        "weaponIds": [
+            116,
+            216,
+            316
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 4800000
+            },
+            {
+                "type": 11,
+                "value": 600000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010116,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "17": {
+        "id": 17,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Demon Sword",
+            "Demon Staff",
+            "Demon Crossbow"
+        ],
+        "dec": "Territory War",
+        "power": 2000000,
+        "groupId": 4,
+        "weaponIds": [
+            117,
+            217,
+            317
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 200000
+            },
+            {
+                "type": 1,
+                "value": 1600000
+            },
+            {
+                "type": 5,
+                "value": 150000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010117,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "18": {
+        "id": 18,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Ocean Whale Sword",
+            "Ocean Staff",
+            "Summer Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            118,
+            218,
+            318
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 62,
+                "value": 400000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010118,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Broken-ice Blade",
+            "Frigid Scepter",
+            "Frost Bow"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "groupId": 4,
+        "weaponIds": [
+            119,
+            219,
+            319
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 820000
+            },
+            {
+                "type": 1,
+                "value": 6000000
+            },
+            {
+                "type": 11,
+                "value": 800000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010119,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "20": {
+        "id": 20,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Bamboo Blade",
+            "Bamboo Scepter",
+            "Bamboo Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            120,
+            220,
+            320
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 910000
+            },
+            {
+                "type": 1,
+                "value": 7600000
+            },
+            {
+                "type": 5,
+                "value": 887500
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010120,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "21": {
+        "id": 21,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Christmas Tree",
+            "Christmas Tree",
+            "Christmas Tree"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            121,
+            221,
+            321
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 840000
+            },
+            {
+                "type": 1,
+                "value": 8800000
+            },
+            {
+                "type": 11,
+                "value": 1200000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010121,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "22": {
+        "id": 22,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Snowy Plum Blossom",
+            "Snowy Plum Blossom",
+            "Snowy Plum Blossom"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            122,
+            222,
+            322
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 860000
+            },
+            {
+                "type": 1,
+                "value": 8400000
+            },
+            {
+                "type": 62,
+                "value": 360000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010122,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "23": {
+        "id": 23,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Gilding Sword",
+            "Gilding Staff",
+            "Gilding Bow"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "groupId": 4,
+        "weaponIds": [
+            123,
+            223,
+            323
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 688000
+            },
+            {
+                "type": 1,
+                "value": 6720000
+            },
+            {
+                "type": 62,
+                "value": 288000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010123,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "24": {
+        "id": 24,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Total Annihilation",
+            "Lucky Broom",
+            "Garden Clean"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            124,
+            224,
+            324
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 940000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 11,
+                "value": 1100000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010124,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "25": {
+        "id": 25,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "New Year Luck",
+            "New Year Luck",
+            "New Year Luck"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            125,
+            225,
+            325
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 840000
+            },
+            {
+                "type": 1,
+                "value": 8800000
+            },
+            {
+                "type": 5,
+                "value": 900000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010125,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "26": {
+        "id": 26,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Excellent Sword",
+            "Excellent Staff",
+            "Excellent Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            126,
+            226,
+            326
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 850000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 5,
+                "value": 937500
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010126,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "27": {
+        "id": 27,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Oracle Blade",
+            "Oracle Scepter",
+            "Oracle Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            127,
+            227,
+            327
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 870000
+            },
+            {
+                "type": 1,
+                "value": 8600000
+            },
+            {
+                "type": 62,
+                "value": 350000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010127,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "28": {
+        "id": 28,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Quantum Blade",
+            "Quantum Staff",
+            "Quantum Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            128,
+            228,
+            328
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 880000
+            },
+            {
+                "type": 1,
+                "value": 9200000
+            },
+            {
+                "type": 11,
+                "value": 1100000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010128,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "29": {
+        "id": 29,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Fairytale Ice Cream",
+            "Fairytale Cake",
+            "Fairytale Ice Cream"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            129,
+            229,
+            329
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 866000
+            },
+            {
+                "type": 1,
+                "value": 9080000
+            },
+            {
+                "type": 5,
+                "value": 850000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010129,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "30": {
+        "id": 30,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Sound of School",
+            "Sound of School",
+            "Sound of School"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            130,
+            230,
+            330
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 850000
+            },
+            {
+                "type": 1,
+                "value": 9680000
+            },
+            {
+                "type": 11,
+                "value": 1110000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010130,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "31": {
+        "id": 31,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Chaos Sword",
+            "Chaos Staff",
+            "Chaos Bow"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "groupId": 4,
+        "weaponIds": [
+            131,
+            231,
+            331
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 7744000
+            },
+            {
+                "type": 11,
+                "value": 888000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010131,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "32": {
+        "id": 32,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Summer Vibe",
+            "Summer Vibe",
+            "Summer Vibe"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            132,
+            232,
+            332
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 874000
+            },
+            {
+                "type": 1,
+                "value": 8920000
+            },
+            {
+                "type": 62,
+                "value": 340000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010132,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "33": {
+        "id": 33,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Gaming Light Sword",
+            "Gaming Light Staff",
+            "Gaming Light Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            133,
+            233,
+            333
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 910000
+            },
+            {
+                "type": 1,
+                "value": 7800000
+            },
+            {
+                "type": 5,
+                "value": 875000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010133,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "34": {
+        "id": 34,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Apocalypse Axe",
+            "Apocalypse Scythe",
+            "Apocalypse Crossbow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            134,
+            234,
+            334
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 870000
+            },
+            {
+                "type": 1,
+                "value": 9600000
+            },
+            {
+                "type": 5,
+                "value": 812500
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010134,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "35": {
+        "id": 35,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Nebula Sword",
+            "Nebula Scepter",
+            "Nebula Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            135,
+            235,
+            335
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 840000
+            },
+            {
+                "type": 1,
+                "value": 8800000
+            },
+            {
+                "type": 11,
+                "value": 1200000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010135,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "36": {
+        "id": 36,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Refulgent Sword",
+            "Refulgent Staff",
+            "Refulgent Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            136,
+            236,
+            336
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 910000
+            },
+            {
+                "type": 1,
+                "value": 7600000
+            },
+            {
+                "type": 5,
+                "value": 887500
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010136,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "37": {
+        "id": 37,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Glacial Sword",
+            "Glacial Scepter",
+            "Glacial Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            137,
+            237,
+            337
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 62,
+                "value": 400000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010137,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "38": {
+        "id": 38,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Fallen Blades",
+            "Fallen Staff",
+            "Fallen Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            138,
+            238,
+            338
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 860000
+            },
+            {
+                "type": 1,
+                "value": 8400000
+            },
+            {
+                "type": 62,
+                "value": 360000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010138,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "39": {
+        "id": 39,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Glory Sword",
+            "Glory Staff",
+            "Glory Bow"
+        ],
+        "dec": "Event",
+        "power": 3000000,
+        "groupId": 4,
+        "weaponIds": [
+            139,
+            239,
+            339
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 258000
+            },
+            {
+                "type": 1,
+                "value": 2520000
+            },
+            {
+                "type": 62,
+                "value": 108000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010139,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "40": {
+        "id": 40,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Energy Sword",
+            "Energy Staff",
+            "Energy Bow"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "groupId": 4,
+        "weaponIds": [
+            140,
+            240,
+            340
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 752000
+            },
+            {
+                "type": 1,
+                "value": 6400000
+            },
+            {
+                "type": 11,
+                "value": 880000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010140,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "41": {
+        "id": 41,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Abyss Sword",
+            "Abyss Scepter",
+            "Abyss Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            141,
+            241,
+            341
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 840000
+            },
+            {
+                "type": 1,
+                "value": 8800000
+            },
+            {
+                "type": 5,
+                "value": 900000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010141,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "42": {
+        "id": 42,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Romantic Blades",
+            "Romantic Staff",
+            "Romantic Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            142,
+            242,
+            342
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 860000
+            },
+            {
+                "type": 1,
+                "value": 8400000
+            },
+            {
+                "type": 62,
+                "value": 360000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010142,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "43": {
+        "id": 43,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Crystal Blade",
+            "Crystal Staff",
+            "Crystal Bow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            143,
+            243,
+            343
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 940000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 11,
+                "value": 1100000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010143,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "44": {
+        "id": 44,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Holy Knight's Blade",
+            "Holy Knight's Staff",
+            "Holy Knight's Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            144,
+            244,
+            344
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1880000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 11,
+                "value": 2200000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010144,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "45": {
+        "id": 45,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Ghost Sword",
+            "Ghost Staff",
+            "Ghost Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            145,
+            245,
+            345
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1680000
+            },
+            {
+                "type": 1,
+                "value": 17600000
+            },
+            {
+                "type": 5,
+                "value": 1800000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010145,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "46": {
+        "id": 46,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Steam Sword",
+            "Steam Staff",
+            "Steam Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            146,
+            246,
+            346
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1720000
+            },
+            {
+                "type": 1,
+                "value": 16800000
+            },
+            {
+                "type": 62,
+                "value": 720000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010146,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "47": {
+        "id": 47,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Witcher Sword",
+            "Witcher Staff",
+            "Witcher Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            147,
+            247,
+            347
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1820000
+            },
+            {
+                "type": 1,
+                "value": 15600000
+            },
+            {
+                "type": 5,
+                "value": 1750000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010147,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "48": {
+        "id": 48,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Moonbeam Sword",
+            "Moonbeam Staff",
+            "Moonbeam Crossbow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            148,
+            248,
+            348
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1700000
+            },
+            {
+                "type": 1,
+                "value": 19360000
+            },
+            {
+                "type": 11,
+                "value": 2220000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010148,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "49": {
+        "id": 49,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Soul Hunting Sword",
+            "Soul Hunting Staff",
+            "Soul Hunting Bow"
+        ],
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            149,
+            249,
+            349
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 850000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 5,
+                "value": 937500
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010149,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "50": {
+        "id": 50,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Pantasm Sword",
+            "Pantasm Staff",
+            "Pantasm Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            150,
+            250,
+            350
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1700000
+            },
+            {
+                "type": 1,
+                "value": 19360000
+            },
+            {
+                "type": 62,
+                "value": 666000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010150,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "51": {
+        "id": 51,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Amethyst Sword",
+            "Amethyst Staff",
+            "Amethyst Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            151,
+            251,
+            351
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 62,
+                "value": 800000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010151,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "52": {
+        "id": 52,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Pixel Sword",
+            "Pixel Staff",
+            "Pixel Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            152,
+            252,
+            352
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1680000
+            },
+            {
+                "type": 1,
+                "value": 17600000
+            },
+            {
+                "type": 11,
+                "value": 2400000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010152,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "53": {
+        "id": 53,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Ice Pop Blade",
+            "Ice Pop Staff",
+            "Ice Pop Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            153,
+            253,
+            353
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1820000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 5,
+                "value": 1775000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010153,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "54": {
+        "id": 54,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Core Axe",
+            "Core Staff",
+            "Core Crossbow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            154,
+            254,
+            354
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1720000
+            },
+            {
+                "type": 1,
+                "value": 16800000
+            },
+            {
+                "type": 62,
+                "value": 720000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010154,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "55": {
+        "id": 55,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Hex Axe",
+            "Hex Blade",
+            "Hex Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            155,
+            255,
+            355
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1880000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 11,
+                "value": 2200000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010155,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "56": {
+        "id": 56,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Thanksgiving Blade",
+            "Thanksgiving Staff",
+            "Thanksgiving Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            156,
+            256,
+            356
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1680000
+            },
+            {
+                "type": 1,
+                "value": 17600000
+            },
+            {
+                "type": 5,
+                "value": 1800000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010156,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "57": {
+        "id": 57,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "New Year Sword",
+            "New Year Staff",
+            "New Year Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            157,
+            257,
+            357
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1820000
+            },
+            {
+                "type": 1,
+                "value": 15600000
+            },
+            {
+                "type": 5,
+                "value": 1750000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010157,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "58": {
+        "id": 58,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Star Grabbing Sword",
+            "Star Grabbing Staff",
+            "Star Grabbing Bow"
+        ],
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            158,
+            258,
+            358
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 62,
+                "value": 400000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010158,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "59": {
+        "id": 59,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Dryad Sword",
+            "Dryad Staff",
+            "Dryad Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            159,
+            259,
+            359
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1700000
+            },
+            {
+                "type": 1,
+                "value": 19360000
+            },
+            {
+                "type": 11,
+                "value": 2220000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010159,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "60": {
+        "id": 60,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Western Sword",
+            "Western Sickle",
+            "Western Crossbow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            160,
+            260,
+            360
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1820000
+            },
+            {
+                "type": 1,
+                "value": 15600000
+            },
+            {
+                "type": 5,
+                "value": 1750000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010160,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "61": {
+        "id": 61,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Green Sword",
+            "Green Staff",
+            "Green Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            161,
+            261,
+            361
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1700000
+            },
+            {
+                "type": 1,
+                "value": 19360000
+            },
+            {
+                "type": 62,
+                "value": 666000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010161,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "62": {
+        "id": 62,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Celebration Sword",
+            "Celebration Staff",
+            "Celebration Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            162,
+            262,
+            362
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1820000
+            },
+            {
+                "type": 1,
+                "value": 15600000
+            },
+            {
+                "type": 5,
+                "value": 1750000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010162,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "63": {
+        "id": 63,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Destiny Sword",
+            "Destiny Staff",
+            "Destiny Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            163,
+            263,
+            363
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1880000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 11,
+                "value": 2200000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010163,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "64": {
+        "id": 64,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Sweet Sword",
+            "Sweet Staff",
+            "Sweet Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            164,
+            264,
+            364
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1700000
+            },
+            {
+                "type": 1,
+                "value": 19360000
+            },
+            {
+                "type": 11,
+                "value": 2220000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010164,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "65": {
+        "id": 65,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Childhood Sword",
+            "Childhood Staff",
+            "Childhood Water Gun"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            165,
+            265,
+            365
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1700000
+            },
+            {
+                "type": 1,
+                "value": 19360000
+            },
+            {
+                "type": 62,
+                "value": 666000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010165,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "66": {
+        "id": 66,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "New Energy Sword",
+            "New Energy Staff",
+            "New Energy Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            166,
+            266,
+            366
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1680000
+            },
+            {
+                "type": 1,
+                "value": 17600000
+            },
+            {
+                "type": 5,
+                "value": 1800000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010166,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "67": {
+        "id": 67,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Voyage Sword",
+            "Voyage Staff",
+            "Voyage Crossbow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            167,
+            267,
+            367
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1820000
+            },
+            {
+                "type": 1,
+                "value": 15600000
+            },
+            {
+                "type": 5,
+                "value": 1750000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010167,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "68": {
+        "id": 68,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Myth Axe",
+            "Myth Staff",
+            "Myth Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            168,
+            268,
+            368
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 62,
+                "value": 800000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010168,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "69": {
+        "id": 69,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Decayed Sword",
+            "Decayed Staff",
+            "Decayed Bow"
+        ],
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "groupId": 4,
+        "weaponIds": [
+            169,
+            269,
+            369
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 940000
+            },
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 11,
+                "value": 1100000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010169,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226101,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "70": {
+        "id": 70,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Moon Sword",
+            "Moon Staff",
+            "Moon Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            170,
+            270,
+            370
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1880000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 11,
+                "value": 2200000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010170,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "71": {
+        "id": 71,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Pet Hammer",
+            "Pet Staff",
+            "Pet Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            171,
+            271,
+            371
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1700000
+            },
+            {
+                "type": 1,
+                "value": 19360000
+            },
+            {
+                "type": 11,
+                "value": 2220000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010171,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "72": {
+        "id": 72,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Halloween Sword",
+            "Halloween Staff",
+            "Halloween Crossbrow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            172,
+            272,
+            372
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1820000
+            },
+            {
+                "type": 1,
+                "value": 15600000
+            },
+            {
+                "type": 5,
+                "value": 1750000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010172,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "73": {
+        "id": 73,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Frozen Sword",
+            "Frozen Staff",
+            "Frozen Crossbrow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            173,
+            273,
+            373
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1680000
+            },
+            {
+                "type": 1,
+                "value": 17600000
+            },
+            {
+                "type": 5,
+                "value": 1800000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010173,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "74": {
+        "id": 74,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Christmas Hammer",
+            "Christmas Staff",
+            "Christmas Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            174,
+            274,
+            374
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 62,
+                "value": 800000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010174,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "75": {
+        "id": 75,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Magic Sword",
+            "Magic Staff",
+            "Magic Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            175,
+            275,
+            375
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1880000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 11,
+                "value": 2200000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010175,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "76": {
+        "id": 76,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Dragon Broadsword",
+            "Dragon Blade",
+            "Dragon Bow"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "groupId": 5,
+        "weaponIds": [
+            176,
+            276,
+            376
+        ],
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1700000
+            },
+            {
+                "type": 1,
+                "value": 19360000
+            },
+            {
+                "type": 11,
+                "value": 2220000
+            },
+            {
+                "type": 65,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1010176,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1800,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226111,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "1": {
+        "index": 1,
+        "weight": 54,
+        "typeWeight": [
+            {
+                "type": 1,
+                "weight": 45
+            },
+            {
+                "type": 2,
+                "weight": 25
+            },
+            {
+                "type": 3,
+                "weight": 15
+            },
+            {
+                "type": 4,
+                "weight": 5
+            },
+            {
+                "type": 5,
+                "weight": 10
+            }
+        ],
+        "count": 1
+    },
+    "2": {
+        "index": 2,
+        "weight": 30,
+        "typeWeight": [
+            {
+                "type": 1,
+                "weight": 45
+            },
+            {
+                "type": 2,
+                "weight": 25
+            },
+            {
+                "type": 3,
+                "weight": 15
+            },
+            {
+                "type": 4,
+                "weight": 5
+            },
+            {
+                "type": 5,
+                "weight": 10
+            }
+        ],
+        "count": 2
+    },
+    "3": {
+        "index": 3,
+        "weight": 10,
+        "typeWeight": [
+            {
+                "type": 1,
+                "weight": 45
+            },
+            {
+                "type": 2,
+                "weight": 25
+            },
+            {
+                "type": 3,
+                "weight": 15
+            },
+            {
+                "type": 4,
+                "weight": 5
+            },
+            {
+                "type": 5,
+                "weight": 10
+            }
+        ],
+        "count": 3
+    },
+    "4": {
+        "index": 4,
+        "weight": 5,
+        "typeWeight": [
+            {
+                "type": 1,
+                "weight": 45
+            },
+            {
+                "type": 2,
+                "weight": 25
+            },
+            {
+                "type": 3,
+                "weight": 15
+            },
+            {
+                "type": 4,
+                "weight": 5
+            },
+            {
+                "type": 5,
+                "weight": 10
+            }
+        ],
+        "count": 4
+    },
+    "5": {
+        "index": 5,
+        "weight": 1,
+        "typeWeight": [
+            {
+                "type": 5,
+                "weight": 1000
+            }
+        ],
+        "count": 9
+    }
+}

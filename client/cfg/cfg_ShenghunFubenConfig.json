@@ -1,0 +1,762 @@
+{
+    "1": {
+        "id": 1,
+        "zslevel": 10000,
+        "fbId": 37001,
+        "guard": 57601,
+        "guardpos": [
+            23,
+            19
+        ],
+        "needpower": 120000,
+        "fubenrewards": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "fubenhelprewards": [
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "reward": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1092001,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "goldSp": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 1000
+            }
+        ],
+        "diamondSp": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "grade": [
+            0,
+            20,
+            50,
+            90,
+            130,
+            190
+        ],
+        "content": [
+            "$s$ until the next wave of monsters in the middle road",
+            "$s$ until the next wave of monsters in the bottom road",
+            "$s$ until the next wave of Boss in the middle road",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of Boss in the middle and top road",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of Boss in the middle and bottom roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads"
+        ]
+    },
+    "2": {
+        "id": 2,
+        "zslevel": 10101,
+        "fbId": 37002,
+        "guard": 57602,
+        "guardpos": [
+            23,
+            19
+        ],
+        "needpower": 4800000,
+        "fubenrewards": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "fubenhelprewards": [
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "reward": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1092001,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "goldSp": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 1500
+            }
+        ],
+        "diamondSp": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "grade": [
+            0,
+            20,
+            50,
+            90,
+            130,
+            190
+        ],
+        "content": [
+            "$s$ until the next wave of monsters in the middle road",
+            "$s$ until the next wave of monsters in the bottom road",
+            "$s$ until the next wave of Boss in the middle road",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of Boss in the middle and top road",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of Boss in the middle and bottom roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads"
+        ]
+    },
+    "3": {
+        "id": 3,
+        "zslevel": 10201,
+        "fbId": 37003,
+        "guard": 57603,
+        "guardpos": [
+            23,
+            19
+        ],
+        "needpower": 12000000,
+        "fubenrewards": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "fubenhelprewards": [
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "reward": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1092001,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "goldSp": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 2000
+            }
+        ],
+        "diamondSp": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "grade": [
+            0,
+            20,
+            50,
+            90,
+            130,
+            190
+        ],
+        "content": [
+            "$s$ until the next wave of monsters in the middle road",
+            "$s$ until the next wave of monsters in the bottom road",
+            "$s$ until the next wave of Boss in the middle road",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of Boss in the middle and top road",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of Boss in the middle and bottom roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads"
+        ]
+    },
+    "4": {
+        "id": 4,
+        "zslevel": 10301,
+        "fbId": 37004,
+        "guard": 57604,
+        "guardpos": [
+            23,
+            19
+        ],
+        "needpower": 46800000,
+        "fubenrewards": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "fubenhelprewards": [
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "reward": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1092001,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "goldSp": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 4000
+            }
+        ],
+        "diamondSp": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "grade": [
+            0,
+            20,
+            50,
+            90,
+            130,
+            190
+        ],
+        "content": [
+            "$s$ until the next wave of monsters in the middle road",
+            "$s$ until the next wave of monsters in the bottom road",
+            "$s$ until the next wave of Boss in the middle road",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of Boss in the middle and top road",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of Boss in the middle and bottom roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads"
+        ]
+    },
+    "5": {
+        "id": 5,
+        "zslevel": 10401,
+        "fbId": 37005,
+        "guard": 57605,
+        "guardpos": [
+            23,
+            19
+        ],
+        "needpower": 118800000,
+        "fubenrewards": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "fubenhelprewards": [
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "reward": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1092001,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "goldSp": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 6000
+            }
+        ],
+        "diamondSp": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "grade": [
+            0,
+            20,
+            50,
+            90,
+            130,
+            190
+        ],
+        "content": [
+            "$s$ until the next wave of monsters in the middle road",
+            "$s$ until the next wave of monsters in the bottom road",
+            "$s$ until the next wave of Boss in the middle road",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of Boss in the middle and top road",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of Boss in the middle and bottom roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads"
+        ]
+    },
+    "6": {
+        "id": 6,
+        "zslevel": 10501,
+        "fbId": 37006,
+        "guard": 57606,
+        "guardpos": [
+            23,
+            19
+        ],
+        "needpower": 178200000,
+        "fubenrewards": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "fubenhelprewards": [
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "reward": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1092001,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "goldSp": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 8000
+            }
+        ],
+        "diamondSp": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "grade": [
+            0,
+            20,
+            50,
+            90,
+            130,
+            190
+        ],
+        "content": [
+            "$s$ until the next wave of monsters in the middle road",
+            "$s$ until the next wave of monsters in the bottom road",
+            "$s$ until the next wave of Boss in the middle road",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of Boss in the middle and top road",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of Boss in the middle and bottom roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads"
+        ]
+    },
+    "7": {
+        "id": 7,
+        "zslevel": 10601,
+        "fbId": 37007,
+        "guard": 57607,
+        "guardpos": [
+            23,
+            19
+        ],
+        "needpower": 237600000,
+        "fubenrewards": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "fubenhelprewards": [
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "reward": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1092001,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "goldSp": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 10000
+            }
+        ],
+        "diamondSp": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "grade": [
+            0,
+            20,
+            50,
+            90,
+            130,
+            190
+        ],
+        "content": [
+            "$s$ until the next wave of monsters in the middle road",
+            "$s$ until the next wave of monsters in the bottom road",
+            "$s$ until the next wave of Boss in the middle road",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of Boss in the middle and top road",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of Boss in the middle and bottom roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads"
+        ]
+    },
+    "8": {
+        "id": 8,
+        "zslevel": 10701,
+        "fbId": 37008,
+        "guard": 57608,
+        "guardpos": [
+            23,
+            19
+        ],
+        "needpower": 297000000,
+        "fubenrewards": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "fubenhelprewards": [
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "reward": [
+            {
+                "type": 1,
+                "id": 1092003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1092001,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 0
+            }
+        ],
+        "goldSp": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 12000
+            }
+        ],
+        "diamondSp": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "grade": [
+            0,
+            20,
+            50,
+            90,
+            130,
+            190
+        ],
+        "content": [
+            "$s$ until the next wave of monsters in the middle road",
+            "$s$ until the next wave of monsters in the bottom road",
+            "$s$ until the next wave of Boss in the middle road",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of Boss in the middle and top road",
+            "$s$ until the next wave of monsters in the top and bottom roads",
+            "$s$ until the next wave of monsters in the middle and bottom road",
+            "$s$ until the next wave of monsters in the middle and top roads",
+            "$s$ until the next wave of Boss in the middle and bottom roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads",
+            "$s$ until the next wave of monsters in three roads"
+        ]
+    }
+}

@@ -1,0 +1,524 @@
+{
+    "80005": {
+        "1": {
+            "1": {
+                "id": 80005,
+                "index": 1,
+                "giftId": 1,
+                "payId": 21004,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1500
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$99.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            },
+            "2": {
+                "id": 80005,
+                "index": 1,
+                "giftId": 2,
+                "payId": 21004,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1800
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$99.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            },
+            "3": {
+                "id": 80005,
+                "index": 1,
+                "giftId": 3,
+                "payId": 21004,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 2000
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$99.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            },
+            "4": {
+                "id": 80005,
+                "index": 1,
+                "giftId": 4,
+                "payId": 21004,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 2000
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$99.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            }
+        },
+        "2": {
+            "1": {
+                "id": 80005,
+                "index": 2,
+                "giftId": 1,
+                "payId": 21003,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1500
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$99.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            },
+            "2": {
+                "id": 80005,
+                "index": 2,
+                "giftId": 2,
+                "payId": 21003,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1800
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$99.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            },
+            "3": {
+                "id": 80005,
+                "index": 2,
+                "giftId": 3,
+                "payId": 21003,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 2000
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$99.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            },
+            "4": {
+                "id": 80005,
+                "index": 2,
+                "giftId": 4,
+                "payId": 21003,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 2000
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$99.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            }
+        },
+        "3": {
+            "1": {
+                "id": 80005,
+                "index": 3,
+                "giftId": 1,
+                "payId": 21002,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1500
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$49.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            },
+            "2": {
+                "id": 80005,
+                "index": 3,
+                "giftId": 2,
+                "payId": 21002,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1800
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$49.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            },
+            "3": {
+                "id": 80005,
+                "index": 3,
+                "giftId": 3,
+                "payId": 21002,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 2000
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$49.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            },
+            "4": {
+                "id": 80005,
+                "index": 3,
+                "giftId": 4,
+                "payId": 21002,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 2000
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$49.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            }
+        },
+        "4": {
+            "1": {
+                "id": 80005,
+                "index": 4,
+                "giftId": 1,
+                "payId": 21001,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1500
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$29.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            },
+            "2": {
+                "id": 80005,
+                "index": 4,
+                "giftId": 2,
+                "payId": 21001,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1800
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$29.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            },
+            "3": {
+                "id": 80005,
+                "index": 4,
+                "giftId": 3,
+                "payId": 21001,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 2000
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$29.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            },
+            "4": {
+                "id": 80005,
+                "index": 4,
+                "giftId": 4,
+                "payId": 21001,
+                "costItems": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 2000
+                    }
+                ],
+                "rewards": [
+                    {
+                        "id": 1070007,
+                        "count": 1
+                    },
+                    {
+                        "id": 341704,
+                        "count": 1
+                    },
+                    {
+                        "id": 1050002,
+                        "count": 1
+                    }
+                ],
+                "name": "$29.99 - Skin Pack",
+                "mcIcon": {
+                    "type": 12,
+                    "param": 2
+                }
+            }
+        }
+    }
+}

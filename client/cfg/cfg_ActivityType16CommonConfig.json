@@ -1,0 +1,70 @@
+{
+    "96418": {
+        "1": {
+            "id": 96418,
+            "subType": 1,
+            "effxy": {
+                "x": 0,
+                "y": 0
+            },
+            "iconxy": {
+                "x": 0,
+                "y": 50
+            },
+            "iconBottom": 700,
+            "maxDesc": "The event has ended!",
+            "btnName": "Tame"
+        }
+    },
+    "97418": {
+        "1": {
+            "id": 97418,
+            "subType": 1,
+            "effxy": {
+                "x": 0,
+                "y": 0
+            },
+            "iconxy": {
+                "x": 0,
+                "y": 50
+            },
+            "iconBottom": 700,
+            "maxDesc": "The event has ended!",
+            "btnName": "Tame"
+        }
+    },
+    "98518": {
+        "1": {
+            "id": 98518,
+            "subType": 1,
+            "effxy": {
+                "x": 0,
+                "y": 0
+            },
+            "iconxy": {
+                "x": 0,
+                "y": 50
+            },
+            "iconBottom": 700,
+            "maxDesc": "The event has ended!",
+            "btnName": "Tame"
+        }
+    },
+    "99518": {
+        "1": {
+            "id": 99518,
+            "subType": 1,
+            "effxy": {
+                "x": 0,
+                "y": 0
+            },
+            "iconxy": {
+                "x": 0,
+                "y": 50
+            },
+            "iconBottom": 700,
+            "maxDesc": "The event has ended!",
+            "btnName": "Tame"
+        }
+    }
+}

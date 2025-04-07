@@ -1,0 +1,68 @@
+{
+    "lifetimeRewards": [
+        {
+            "type": 1,
+            "id": 1010105,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 30,
+            "count": 300
+        },
+        {
+            "type": 1,
+            "id": 310019,
+            "count": 10
+        },
+        {
+            "type": 1,
+            "id": 310022,
+            "count": 10
+        }
+    ],
+    "dailyRewards1": [
+        {
+            "type": 0,
+            "id": 30,
+            "count": 10
+        },
+        {
+            "type": 1,
+            "id": 341801,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310006,
+            "count": 5
+        },
+        {
+            "type": 1,
+            "id": 310005,
+            "count": 10
+        }
+    ],
+    "dailyRewards2": [
+        {
+            "type": 0,
+            "id": 2,
+            "count": 200
+        },
+        {
+            "type": 1,
+            "id": 310006,
+            "count": 2
+        },
+        {
+            "type": 1,
+            "id": 310005,
+            "count": 5
+        },
+        {
+            "type": 1,
+            "id": 310001,
+            "count": 50
+        }
+    ]
+}

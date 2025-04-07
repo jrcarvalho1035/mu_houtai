@@ -1,0 +1,6853 @@
+{
+    "1": {
+        "Id": 1,
+        "name": "Formidable",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 1600
+            },
+            {
+                "type": 3,
+                "value": 1600
+            },
+            {
+                "type": 4,
+                "value": 800
+            },
+            {
+                "type": 1,
+                "value": 32000
+            }
+        ],
+        "rare": 4,
+        "img": "15",
+        "condition": "Obtain by reaching No.1 in the Arena Ranking on the hour",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 0
+    },
+    "2": {
+        "Id": 2,
+        "name": "Unstoppable",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 400
+            },
+            {
+                "type": 3,
+                "value": 400
+            },
+            {
+                "type": 4,
+                "value": 200
+            },
+            {
+                "type": 1,
+                "value": 8000
+            }
+        ],
+        "rare": 3,
+        "img": "8",
+        "condition": "Obtain by reaching No.2-10 in the Arena Ranking on the hour",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 1
+    },
+    "3": {
+        "Id": 3,
+        "name": "Deity Wings",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 1600
+            },
+            {
+                "type": 3,
+                "value": 1600
+            },
+            {
+                "type": 4,
+                "value": 800
+            },
+            {
+                "type": 1,
+                "value": 32000
+            }
+        ],
+        "rare": 4,
+        "img": "10",
+        "condition": "Obtain by reaching No.1 in the Wings CP Ranking on the hour",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 2
+    },
+    "4": {
+        "Id": 4,
+        "name": "Invincible",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 1600
+            },
+            {
+                "type": 3,
+                "value": 1600
+            },
+            {
+                "type": 4,
+                "value": 800
+            },
+            {
+                "type": 1,
+                "value": 32000
+            }
+        ],
+        "rare": 4,
+        "img": "14",
+        "condition": "Obtain by reaching No.1 in the CP Ranking on the hour",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 3
+    },
+    "5": {
+        "Id": 5,
+        "name": "Battle Leader",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 400
+            },
+            {
+                "type": 3,
+                "value": 400
+            },
+            {
+                "type": 4,
+                "value": 200
+            },
+            {
+                "type": 1,
+                "value": 8000
+            }
+        ],
+        "rare": 3,
+        "img": "20",
+        "condition": "Obtain by reaching No.2-10 in the CP Ranking on the hour",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 4
+    },
+    "6": {
+        "Id": 6,
+        "name": "Uncrowned King",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 1600
+            },
+            {
+                "type": 3,
+                "value": 1600
+            },
+            {
+                "type": 4,
+                "value": 800
+            },
+            {
+                "type": 1,
+                "value": 32000
+            }
+        ],
+        "rare": 4,
+        "img": "9",
+        "condition": "Obtain by reaching No.1 in the Level Ranking on the hour",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 5
+    },
+    "7": {
+        "Id": 7,
+        "name": "Roland Lord",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 1600
+            },
+            {
+                "type": 3,
+                "value": 1600
+            },
+            {
+                "type": 4,
+                "value": 800
+            },
+            {
+                "type": 1,
+                "value": 32000
+            }
+        ],
+        "rare": 4,
+        "img": "18",
+        "condition": "Obtain by the Capturing Guild Leader of Roland Castle War",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 9999
+    },
+    "8": {
+        "Id": 8,
+        "name": "Roland Elite",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 800
+            },
+            {
+                "type": 3,
+                "value": 800
+            },
+            {
+                "type": 4,
+                "value": 400
+            },
+            {
+                "type": 1,
+                "value": 16000
+            }
+        ],
+        "rare": 3,
+        "img": "19",
+        "condition": "Obtain by the Capturing Guild Members of Roland Castle War",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 7
+    },
+    "9": {
+        "Id": 9,
+        "name": "Rich and Rowdy",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 8000
+            },
+            {
+                "type": 3,
+                "value": 8000
+            },
+            {
+                "type": 4,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 160000
+            }
+        ],
+        "rare": 4,
+        "img": "16",
+        "condition": "Event Gain",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 8
+    },
+    "10": {
+        "Id": 10,
+        "name": "Soul King Terminator",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 8000
+            },
+            {
+                "type": 3,
+                "value": 8000
+            },
+            {
+                "type": 4,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 160000
+            }
+        ],
+        "rare": 4,
+        "img": "17",
+        "condition": "Obtain by exchanging in Boss Shop",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 9
+    },
+    "11": {
+        "Id": 11,
+        "name": "Return of King",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 8000
+            },
+            {
+                "type": 3,
+                "value": 8000
+            },
+            {
+                "type": 4,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 160000
+            }
+        ],
+        "rare": 4,
+        "img": "21",
+        "condition": "Obtain by exchanging in Honor Shop",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 10
+    },
+    "12": {
+        "Id": 12,
+        "name": "Premium Privilege",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 8000
+            },
+            {
+                "type": 3,
+                "value": 8000
+            },
+            {
+                "type": 4,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 160000
+            }
+        ],
+        "rare": 4,
+        "img": "29",
+        "condition": "Obtain by purchasing Premium Privilege",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 11
+    },
+    "13": {
+        "Id": 13,
+        "name": "Plant the Seeds to Grow",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4000
+            },
+            {
+                "type": 4,
+                "value": 2000
+            },
+            {
+                "type": 1,
+                "value": 80000
+            }
+        ],
+        "rare": 3,
+        "img": "30",
+        "condition": "Obtain through Tree Planting",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 12
+    },
+    "14": {
+        "Id": 14,
+        "name": "Treasure Hunter",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 16000
+            },
+            {
+                "type": 3,
+                "value": 16000
+            },
+            {
+                "type": 4,
+                "value": 8000
+            },
+            {
+                "type": 1,
+                "value": 320000
+            }
+        ],
+        "rare": 4,
+        "img": "31",
+        "condition": "Obtain through gaining the No.1 in Poseidon's Treasure Guild Ranking",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 13
+    },
+    "15": {
+        "Id": 15,
+        "name": "Respected Worker",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 5000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 4,
+                "value": 2000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            }
+        ],
+        "rare": 3,
+        "img": "32",
+        "condition": "Obtain through Labor Day event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 14
+    },
+    "16": {
+        "Id": 16,
+        "name": "Territory Lord",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 24000
+            },
+            {
+                "type": 3,
+                "value": 24000
+            },
+            {
+                "type": 4,
+                "value": 12000
+            },
+            {
+                "type": 1,
+                "value": 480000
+            }
+        ],
+        "rare": 5,
+        "img": "33",
+        "condition": "Obtain by SSS Territory War No.1 Guild Leader",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 15
+    },
+    "17": {
+        "Id": 17,
+        "name": "Territory Elite",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4800
+            },
+            {
+                "type": 3,
+                "value": 4800
+            },
+            {
+                "type": 4,
+                "value": 2400
+            },
+            {
+                "type": 1,
+                "value": 96000
+            }
+        ],
+        "rare": 4,
+        "img": "34",
+        "condition": "Obtain by SSS Territory War No.1 Guild Members",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 16
+    },
+    "18": {
+        "Id": 18,
+        "name": "Boss Hunter",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 10000
+            },
+            {
+                "type": 3,
+                "value": 10000
+            },
+            {
+                "type": 4,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 120000
+            }
+        ],
+        "rare": 4,
+        "img": "35",
+        "condition": "Obtain by killing Soul King 10 times with the Final Blow in Temple Boss",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 17
+    },
+    "19": {
+        "Id": 19,
+        "name": "Territory Lord",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 24000
+            },
+            {
+                "type": 3,
+                "value": 24000
+            },
+            {
+                "type": 4,
+                "value": 12000
+            },
+            {
+                "type": 1,
+                "value": 480000
+            }
+        ],
+        "rare": 5,
+        "img": "33",
+        "condition": "Obtain by SSS Territory War No.1 Guild Leader",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 18
+    },
+    "20": {
+        "Id": 20,
+        "name": "Territory Elite",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4800
+            },
+            {
+                "type": 3,
+                "value": 4800
+            },
+            {
+                "type": 4,
+                "value": 2400
+            },
+            {
+                "type": 1,
+                "value": 96000
+            }
+        ],
+        "rare": 4,
+        "img": "34",
+        "condition": "Obtain by SSS Territory War No.1 Guild Members",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 19
+    },
+    "21": {
+        "Id": 21,
+        "name": "I Outnumbered you！",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 6000
+            },
+            {
+                "type": 3,
+                "value": 6000
+            },
+            {
+                "type": 4,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 180000
+            }
+        ],
+        "rare": 4,
+        "img": "36",
+        "condition": "Obtain by 1st player of Invitation Contest",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 20
+    },
+    "22": {
+        "Id": 22,
+        "name": "Ancient Warlord",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 20000
+            },
+            {
+                "type": 3,
+                "value": 20000
+            },
+            {
+                "type": 4,
+                "value": 8000
+            },
+            {
+                "type": 1,
+                "value": 240000
+            }
+        ],
+        "rare": 5,
+        "img": "37",
+        "condition": "Obtain by reaching the No.1 for 5 times in Ancient Battlefield Daily Ranking",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 21
+    },
+    "23": {
+        "Id": 23,
+        "name": "Ancient Warrior",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 5000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 4,
+                "value": 2000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            }
+        ],
+        "rare": 4,
+        "img": "38",
+        "condition": "Obtain by joining event 10 times in Ancient Battlefield",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 22
+    },
+    "24": {
+        "Id": 24,
+        "name": "War King",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 24000
+            },
+            {
+                "type": 3,
+                "value": 24000
+            },
+            {
+                "type": 4,
+                "value": 12000
+            },
+            {
+                "type": 1,
+                "value": 480000
+            }
+        ],
+        "rare": 5,
+        "img": "39",
+        "condition": "Obtain by exchanging in Avatar War Store",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 23
+    },
+    "25": {
+        "Id": 25,
+        "name": "Surf Riding",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 80000
+            },
+            {
+                "type": 4,
+                "value": 2000
+            }
+        ],
+        "rare": 3,
+        "img": "40",
+        "condition": "Obtain through Summer Revelry event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 24
+    },
+    "26": {
+        "Id": 26,
+        "name": "Merge·Strongest Lord",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 40000
+            },
+            {
+                "type": 3,
+                "value": 40000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            },
+            {
+                "type": 1,
+                "value": 800000
+            }
+        ],
+        "rare": 5,
+        "img": "41",
+        "condition": "Obtain through reaching No.1 in Merging Tournament Ranking",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 25
+    },
+    "27": {
+        "Id": 27,
+        "name": "The Only Prime",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 24000
+            },
+            {
+                "type": 3,
+                "value": 24000
+            },
+            {
+                "type": 4,
+                "value": 12000
+            },
+            {
+                "type": 1,
+                "value": 480000
+            }
+        ],
+        "rare": 5,
+        "img": "42",
+        "condition": "Obtain through reaching No.2 in Merging Tournament Ranking",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 26
+    },
+    "28": {
+        "Id": 28,
+        "name": "Overlord King",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 16000
+            },
+            {
+                "type": 3,
+                "value": 16000
+            },
+            {
+                "type": 4,
+                "value": 8000
+            },
+            {
+                "type": 1,
+                "value": 320000
+            }
+        ],
+        "rare": 5,
+        "img": "43",
+        "condition": "Obtain through reaching No.3 in Merging Tournament Ranking",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 27
+    },
+    "29": {
+        "Id": 29,
+        "name": "Excellent Ace",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 8000
+            },
+            {
+                "type": 3,
+                "value": 8000
+            },
+            {
+                "type": 4,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 160000
+            }
+        ],
+        "rare": 5,
+        "img": "44",
+        "condition": "Obtain through reaching No.4 in Merging Tournament Ranking",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 28
+    },
+    "30": {
+        "Id": 30,
+        "name": "Popular Player",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 32000
+            },
+            {
+                "type": 3,
+                "value": 32000
+            },
+            {
+                "type": 4,
+                "value": 16000
+            },
+            {
+                "type": 1,
+                "value": 640000
+            }
+        ],
+        "rare": 5,
+        "img": "45",
+        "condition": "Obtain through reaching No.1 in Merging Popularity Ranking",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 29
+    },
+    "31": {
+        "Id": 31,
+        "name": "Study makes me Happy",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 80000
+            },
+            {
+                "type": 4,
+                "value": 2000
+            }
+        ],
+        "rare": 5,
+        "img": "46",
+        "condition": "Obtain from Teacher's Day Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 30
+    },
+    "32": {
+        "Id": 32,
+        "name": "Trick or Treat",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 5000
+            },
+            {
+                "type": 3,
+                "value": 3600
+            },
+            {
+                "type": 1,
+                "value": 70000
+            },
+            {
+                "type": 4,
+                "value": 2200
+            }
+        ],
+        "rare": 5,
+        "img": "47",
+        "condition": "Obtain from Halloween Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 31
+    },
+    "33": {
+        "Id": 33,
+        "name": "Wow! Snow!",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4400
+            },
+            {
+                "type": 3,
+                "value": 4200
+            },
+            {
+                "type": 1,
+                "value": 76000
+            },
+            {
+                "type": 4,
+                "value": 1900
+            }
+        ],
+        "rare": 5,
+        "img": "48",
+        "condition": "Obtain from Lesser Snow Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 78,
+        "showIndex": 32
+    },
+    "34": {
+        "Id": 34,
+        "name": "Battle Zone·Immortal Warrior",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 38000
+            },
+            {
+                "type": 3,
+                "value": 50000
+            },
+            {
+                "type": 4,
+                "value": 16000
+            },
+            {
+                "type": 1,
+                "value": 800000
+            }
+        ],
+        "rare": 5,
+        "img": "49",
+        "condition": "Obtain from Battle Zone Shop",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 33
+    },
+    "35": {
+        "Id": 35,
+        "name": "Let’s Snowball Fight",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4600
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 70000
+            },
+            {
+                "type": 4,
+                "value": 2000
+            }
+        ],
+        "rare": 5,
+        "img": "50",
+        "condition": "Obtain from Snowy Carnival Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 34
+    },
+    "36": {
+        "Id": 36,
+        "name": "Happy New Year",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3600
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "51",
+        "condition": "Obtain from Spring Festival Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 35
+    },
+    "37": {
+        "Id": 37,
+        "name": "Go Skiing",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 76000
+            },
+            {
+                "type": 4,
+                "value": 2000
+            }
+        ],
+        "rare": 5,
+        "img": "52",
+        "condition": "Obtain from Ski Tournament Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 36
+    },
+    "38": {
+        "Id": 38,
+        "name": "Have A Taste",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3800
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 80000
+            },
+            {
+                "type": 4,
+                "value": 1600
+            }
+        ],
+        "rare": 5,
+        "img": "53",
+        "condition": "Obtain from Porridge Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 37
+    },
+    "39": {
+        "Id": 39,
+        "name": "Spring’s in The Air",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4400
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 76000
+            },
+            {
+                "type": 4,
+                "value": 1700
+            }
+        ],
+        "rare": 5,
+        "img": "54",
+        "condition": "Obtain from Spring Coming Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 38
+    },
+    "40": {
+        "Id": 40,
+        "name": "Happy and Wealthy",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4600
+            },
+            {
+                "type": 3,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "55",
+        "condition": "Obtain from Happy and Wealthy Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 39
+    },
+    "41": {
+        "Id": 41,
+        "name": "Happy Holiday",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "56",
+        "condition": "Obtain from Dating Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 40
+    },
+    "42": {
+        "Id": 42,
+        "name": "Character Halo",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "57",
+        "condition": "Obtain from Character Halo purchase",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 118,
+        "showIndex": 41
+    },
+    "43": {
+        "Id": 43,
+        "name": "Spring Greenery",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3100
+            },
+            {
+                "type": 3,
+                "value": 4800
+            },
+            {
+                "type": 1,
+                "value": 64000
+            },
+            {
+                "type": 4,
+                "value": 2800
+            }
+        ],
+        "rare": 5,
+        "img": "58",
+        "condition": "Obtain in Spring Gift Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 42
+    },
+    "44": {
+        "Id": 44,
+        "name": "Hiking Enthusiast",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3900
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "59",
+        "condition": "Obtain in Spring Hiking Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 43
+    },
+    "45": {
+        "Id": 45,
+        "name": "Happy Astronaut",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "60",
+        "condition": "Obtain in Soaring Sky Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 44
+    },
+    "46": {
+        "Id": 46,
+        "name": "Respected Worker",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4400
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 66000
+            },
+            {
+                "type": 4,
+                "value": 2300
+            }
+        ],
+        "rare": 5,
+        "img": "61",
+        "condition": "Obtain in Best Worker Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 45
+    },
+    "47": {
+        "Id": 47,
+        "name": "Time To Inject",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3200
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 64000
+            },
+            {
+                "type": 4,
+                "value": 2700
+            }
+        ],
+        "rare": 5,
+        "img": "62",
+        "condition": "Obtain in Noble Nurse Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 46
+    },
+    "48": {
+        "Id": 48,
+        "name": "Bring It On",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3300
+            },
+            {
+                "type": 3,
+                "value": 4700
+            },
+            {
+                "type": 1,
+                "value": 65000
+            },
+            {
+                "type": 4,
+                "value": 2750
+            }
+        ],
+        "rare": 5,
+        "img": "63",
+        "condition": "Energy Burst Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 47
+    },
+    "70": {
+        "Id": 70,
+        "name": "Dumpling Master",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3400
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 76000
+            },
+            {
+                "type": 4,
+                "value": 2300
+            }
+        ],
+        "rare": 5,
+        "img": "85",
+        "condition": "Dragon Boat Festival Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 48
+    },
+    "71": {
+        "Id": 71,
+        "name": "Learnaholic",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3400
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 76000
+            },
+            {
+                "type": 4,
+                "value": 2300
+            }
+        ],
+        "rare": 5,
+        "img": "86",
+        "condition": "Obtain from the Good Good Study event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 140,
+        "showIndex": 49
+    },
+    "72": {
+        "Id": 72,
+        "name": "Soaring Dragon",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3400
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 76000
+            },
+            {
+                "type": 4,
+                "value": 2300
+            }
+        ],
+        "rare": 5,
+        "img": "87",
+        "condition": "Obtain from Soaring Dragon event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 140,
+        "showIndex": 50
+    },
+    "73": {
+        "Id": 73,
+        "name": "Sweet Smile",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "88",
+        "condition": "Obtain from the Sweet Honey event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 140,
+        "showIndex": 51
+    },
+    "74": {
+        "Id": 74,
+        "name": "Super Player",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 40000
+            },
+            {
+                "type": 3,
+                "value": 44000
+            },
+            {
+                "type": 1,
+                "value": 760000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            }
+        ],
+        "rare": 5,
+        "img": "89",
+        "condition": "Obtain from semi-anniversary event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 140,
+        "showIndex": 52
+    },
+    "75": {
+        "Id": 75,
+        "name": "Mecha Reinforce",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "90",
+        "condition": "Obtain from event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 140,
+        "showIndex": 53
+    },
+    "76": {
+        "Id": 76,
+        "name": "Joyful Clown",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "91",
+        "condition": "Clown Show event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 140,
+        "showIndex": 54
+    },
+    "77": {
+        "Id": 77,
+        "name": "School Test",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4600
+            },
+            {
+                "type": 3,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "92",
+        "condition": "Obtain from event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 140,
+        "showIndex": 55
+    },
+    "78": {
+        "Id": 78,
+        "name": "Master of Shadows",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3800
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 80000
+            },
+            {
+                "type": 4,
+                "value": 1600
+            }
+        ],
+        "rare": 5,
+        "img": "93",
+        "condition": "Star Shadow event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 140,
+        "showIndex": 56
+    },
+    "79": {
+        "Id": 79,
+        "name": "Jubilation",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "94",
+        "condition": "Obtain from event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 140,
+        "showIndex": 57
+    },
+    "80": {
+        "Id": 80,
+        "name": "Starry Galaxy",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "95",
+        "condition": "Galaxy Exploration event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 140,
+        "showIndex": 58
+    },
+    "81": {
+        "Id": 81,
+        "name": "Fantasy Adventure",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4600
+            },
+            {
+                "type": 3,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "96",
+        "condition": "Fantasy Adventure event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 140,
+        "showIndex": 59
+    },
+    "82": {
+        "Id": 82,
+        "name": "Happy Halloween",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 80000
+            },
+            {
+                "type": 3,
+                "value": 88000
+            },
+            {
+                "type": 4,
+                "value": 40000
+            },
+            {
+                "type": 1,
+                "value": 1520000
+            }
+        ],
+        "rare": 5,
+        "img": "97",
+        "condition": "Happy Halloween",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 100,
+        "showIndex": 60
+    },
+    "83": {
+        "Id": 83,
+        "name": "Falling Snowflake",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4600
+            },
+            {
+                "type": 3,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "98",
+        "condition": "Obtain from Winter Revelry event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 140,
+        "showIndex": 61
+    },
+    "84": {
+        "Id": 84,
+        "name": "Naughty Ghosts",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 80000
+            },
+            {
+                "type": 3,
+                "value": 88000
+            },
+            {
+                "type": 4,
+                "value": 40000
+            },
+            {
+                "type": 1,
+                "value": 1520000
+            }
+        ],
+        "rare": 5,
+        "img": "99",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 80,
+        "showIndex": 62
+    },
+    "85": {
+        "Id": 85,
+        "name": "Woof Woof",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 40000
+            },
+            {
+                "type": 3,
+                "value": 44000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            },
+            {
+                "type": 1,
+                "value": 760000
+            }
+        ],
+        "rare": 5,
+        "img": "100",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 80,
+        "showIndex": 63
+    },
+    "86": {
+        "Id": 86,
+        "name": "Farmer Captain",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 50000
+            },
+            {
+                "type": 3,
+                "value": 46000
+            },
+            {
+                "type": 4,
+                "value": 22000
+            },
+            {
+                "type": 1,
+                "value": 600000
+            }
+        ],
+        "rare": 5,
+        "img": "101",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 80,
+        "showIndex": 64
+    },
+    "87": {
+        "Id": 87,
+        "name": "Happy Thanksgiving",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 40000
+            },
+            {
+                "type": 3,
+                "value": 44000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            },
+            {
+                "type": 1,
+                "value": 760000
+            }
+        ],
+        "rare": 5,
+        "img": "102",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 80,
+        "showIndex": 65
+    },
+    "88": {
+        "Id": 88,
+        "name": "Adorkable",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 50000
+            },
+            {
+                "type": 3,
+                "value": 46000
+            },
+            {
+                "type": 4,
+                "value": 22000
+            },
+            {
+                "type": 1,
+                "value": 600000
+            }
+        ],
+        "rare": 5,
+        "img": "103",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 110,
+        "showIndex": 66
+    },
+    "89": {
+        "Id": 89,
+        "name": "Smart Cookie",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 40000
+            },
+            {
+                "type": 3,
+                "value": 44000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            },
+            {
+                "type": 1,
+                "value": 760000
+            }
+        ],
+        "rare": 5,
+        "img": "104",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 100,
+        "showIndex": 67
+    },
+    "90": {
+        "Id": 90,
+        "name": "Chasing Sled",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 100000
+            },
+            {
+                "type": 3,
+                "value": 92000
+            },
+            {
+                "type": 4,
+                "value": 44000
+            },
+            {
+                "type": 1,
+                "value": 1200000
+            }
+        ],
+        "rare": 5,
+        "img": "105",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 80,
+        "showIndex": 68
+    },
+    "91": {
+        "Id": 91,
+        "name": "Merry Christmas",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 80000
+            },
+            {
+                "type": 3,
+                "value": 88000
+            },
+            {
+                "type": 4,
+                "value": 40000
+            },
+            {
+                "type": 1,
+                "value": 1520000
+            }
+        ],
+        "rare": 5,
+        "img": "106",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 100,
+        "showIndex": 69
+    },
+    "92": {
+        "Id": 92,
+        "name": "Happy New Year",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 100000
+            },
+            {
+                "type": 3,
+                "value": 92000
+            },
+            {
+                "type": 4,
+                "value": 44000
+            },
+            {
+                "type": 1,
+                "value": 1200000
+            }
+        ],
+        "rare": 5,
+        "img": "107",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 80,
+        "showIndex": 70
+    },
+    "93": {
+        "Id": 93,
+        "name": "Charming Bunny",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 50000
+            },
+            {
+                "type": 3,
+                "value": 46000
+            },
+            {
+                "type": 4,
+                "value": 22000
+            },
+            {
+                "type": 1,
+                "value": 600000
+            }
+        ],
+        "rare": 5,
+        "img": "108",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 90,
+        "showIndex": 71
+    },
+    "94": {
+        "Id": 94,
+        "name": "Wooden Horse Knight",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 40000
+            },
+            {
+                "type": 3,
+                "value": 44000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            },
+            {
+                "type": 1,
+                "value": 760000
+            }
+        ],
+        "rare": 5,
+        "img": "109",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 80,
+        "showIndex": 72
+    },
+    "95": {
+        "Id": 95,
+        "name": "Romantic Ferris Wheel",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 50000
+            },
+            {
+                "type": 3,
+                "value": 46000
+            },
+            {
+                "type": 4,
+                "value": 22000
+            },
+            {
+                "type": 1,
+                "value": 600000
+            }
+        ],
+        "rare": 5,
+        "img": "110",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 90,
+        "showIndex": 73
+    },
+    "96": {
+        "Id": 96,
+        "name": "Meow Meow",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 40000
+            },
+            {
+                "type": 3,
+                "value": 44000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            },
+            {
+                "type": 1,
+                "value": 760000
+            }
+        ],
+        "rare": 5,
+        "img": "111",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 80,
+        "showIndex": 74
+    },
+    "97": {
+        "Id": 97,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 40000
+            },
+            {
+                "type": 3,
+                "value": 44000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            },
+            {
+                "type": 1,
+                "value": 760000
+            }
+        ],
+        "rare": 5,
+        "img": "112",
+        "condition": "",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 100,
+        "showIndex": 75
+    },
+    "98": {
+        "Id": 98,
+        "name": "Warm Winter",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4600
+            },
+            {
+                "type": 3,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "114",
+        "condition": "Pajamas Revelry event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 128,
+        "showIndex": 76
+    },
+    "99": {
+        "Id": 99,
+        "name": "Merry Christmas",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4600
+            },
+            {
+                "type": 3,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "115",
+        "condition": "Christmas Eve event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 128,
+        "showIndex": 77
+    },
+    "100": {
+        "Id": 100,
+        "name": "Star of Animals",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "116",
+        "condition": "Animal Star event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 128,
+        "showIndex": 78
+    },
+    "101": {
+        "Id": 101,
+        "name": "Cleaning Master",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "117",
+        "condition": "Clean Ceremony event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 128,
+        "showIndex": 79
+    },
+    "102": {
+        "Id": 102,
+        "name": "Prowess of Tiger",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "118",
+        "condition": "Lion Dancing event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 128,
+        "showIndex": 80
+    },
+    "103": {
+        "Id": 103,
+        "name": "National Idol",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 40000
+            },
+            {
+                "type": 3,
+                "value": 44000
+            },
+            {
+                "type": 1,
+                "value": 760000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            }
+        ],
+        "rare": 5,
+        "img": "119",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 81
+    },
+    "104": {
+        "Id": 104,
+        "name": "Love Circulation",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 80000
+            },
+            {
+                "type": 3,
+                "value": 88000
+            },
+            {
+                "type": 1,
+                "value": 1520000
+            },
+            {
+                "type": 4,
+                "value": 40000
+            }
+        ],
+        "rare": 5,
+        "img": "120",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 100,
+        "showIndex": 82
+    },
+    "105": {
+        "Id": 105,
+        "name": "Precious Piggy",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 50000
+            },
+            {
+                "type": 3,
+                "value": 46000
+            },
+            {
+                "type": 1,
+                "value": 600000
+            },
+            {
+                "type": 4,
+                "value": 22000
+            }
+        ],
+        "rare": 5,
+        "img": "121",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 83
+    },
+    "106": {
+        "Id": 106,
+        "name": "Pet Trainer",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 20000
+            },
+            {
+                "type": 3,
+                "value": 22000
+            },
+            {
+                "type": 1,
+                "value": 380000
+            },
+            {
+                "type": 4,
+                "value": 10000
+            }
+        ],
+        "rare": 5,
+        "img": "122",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 84
+    },
+    "107": {
+        "Id": 107,
+        "name": "Fried Chicken with Beer",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 25000
+            },
+            {
+                "type": 3,
+                "value": 23000
+            },
+            {
+                "type": 1,
+                "value": 300000
+            },
+            {
+                "type": 4,
+                "value": 11000
+            }
+        ],
+        "rare": 5,
+        "img": "123",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 120,
+        "showIndex": 85
+    },
+    "108": {
+        "Id": 108,
+        "name": "Skyrocketing",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 10000
+            },
+            {
+                "type": 3,
+                "value": 11000
+            },
+            {
+                "type": 1,
+                "value": 190000
+            },
+            {
+                "type": 4,
+                "value": 5000
+            }
+        ],
+        "rare": 5,
+        "img": "124",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 120,
+        "showIndex": 86
+    },
+    "109": {
+        "Id": 109,
+        "name": "Grand Explorer",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 12500
+            },
+            {
+                "type": 3,
+                "value": 11500
+            },
+            {
+                "type": 1,
+                "value": 150000
+            },
+            {
+                "type": 4,
+                "value": 5500
+            }
+        ],
+        "rare": 5,
+        "img": "125",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 120,
+        "showIndex": 87
+    },
+    "110": {
+        "Id": 110,
+        "name": "Gala Overlord",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 5000
+            },
+            {
+                "type": 3,
+                "value": 5500
+            },
+            {
+                "type": 1,
+                "value": 95000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "126",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 88
+    },
+    "111": {
+        "Id": 111,
+        "name": "Trick Master",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 6250
+            },
+            {
+                "type": 3,
+                "value": 5750
+            },
+            {
+                "type": 1,
+                "value": 75000
+            },
+            {
+                "type": 4,
+                "value": 2750
+            }
+        ],
+        "rare": 5,
+        "img": "127",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 89
+    },
+    "112": {
+        "Id": 112,
+        "name": "Heart Stealer",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 2500
+            },
+            {
+                "type": 3,
+                "value": 2750
+            },
+            {
+                "type": 1,
+                "value": 47500
+            },
+            {
+                "type": 4,
+                "value": 1250
+            }
+        ],
+        "rare": 5,
+        "img": "128",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 90
+    },
+    "113": {
+        "Id": 113,
+        "name": "Mazarine Crystal",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4400
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 66000
+            },
+            {
+                "type": 4,
+                "value": 2300
+            }
+        ],
+        "rare": 5,
+        "img": "129",
+        "condition": "Crystal Mystery event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 128,
+        "showIndex": 91
+    },
+    "114": {
+        "Id": 114,
+        "name": "Goddess's Advent",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "130",
+        "condition": "Goddess's Invite event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 128,
+        "showIndex": 92
+    },
+    "115": {
+        "Id": 115,
+        "name": "Holy Temple Knight",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "131",
+        "condition": "Knight's Spirit event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 128,
+        "showIndex": 93
+    },
+    "116": {
+        "Id": 116,
+        "name": "Happy April Fool",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "132",
+        "condition": "April Fool event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 128,
+        "showIndex": 94
+    },
+    "117": {
+        "Id": 117,
+        "name": "Elf's Protection",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "133",
+        "condition": "Elf's Blessing event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 166,
+        "showIndex": 95
+    },
+    "118": {
+        "Id": 118,
+        "name": "Best Worker",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "134",
+        "condition": "Best Worker event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 96
+    },
+    "119": {
+        "Id": 119,
+        "name": "Revival",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 80000
+            },
+            {
+                "type": 3,
+                "value": 88000
+            },
+            {
+                "type": 1,
+                "value": 1520000
+            },
+            {
+                "type": 4,
+                "value": 40000
+            }
+        ],
+        "rare": 5,
+        "img": "135",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 97
+    },
+    "120": {
+        "Id": 120,
+        "name": "Sparkle",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 40000
+            },
+            {
+                "type": 3,
+                "value": 44000
+            },
+            {
+                "type": 1,
+                "value": 760000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            }
+        ],
+        "rare": 5,
+        "img": "136",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 98
+    },
+    "121": {
+        "Id": 121,
+        "name": "Labour's Day",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 100000
+            },
+            {
+                "type": 3,
+                "value": 92000
+            },
+            {
+                "type": 1,
+                "value": 1200000
+            },
+            {
+                "type": 4,
+                "value": 44000
+            }
+        ],
+        "rare": 5,
+        "img": "137",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 99
+    },
+    "122": {
+        "Id": 122,
+        "name": "Love you Mommy",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 80000
+            },
+            {
+                "type": 3,
+                "value": 88000
+            },
+            {
+                "type": 1,
+                "value": 1520000
+            },
+            {
+                "type": 4,
+                "value": 40000
+            }
+        ],
+        "rare": 5,
+        "img": "138",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 100
+    },
+    "123": {
+        "Id": 123,
+        "name": "Natural Beauty",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 50000
+            },
+            {
+                "type": 3,
+                "value": 46000
+            },
+            {
+                "type": 1,
+                "value": 600000
+            },
+            {
+                "type": 4,
+                "value": 22000
+            }
+        ],
+        "rare": 5,
+        "img": "139",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 101
+    },
+    "124": {
+        "Id": 124,
+        "name": "Shiny Body",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 20000
+            },
+            {
+                "type": 3,
+                "value": 22000
+            },
+            {
+                "type": 1,
+                "value": 380000
+            },
+            {
+                "type": 4,
+                "value": 10000
+            }
+        ],
+        "rare": 5,
+        "img": "140",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 102
+    },
+    "125": {
+        "Id": 125,
+        "name": "Go for it",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 25000
+            },
+            {
+                "type": 3,
+                "value": 23000
+            },
+            {
+                "type": 1,
+                "value": 300000
+            },
+            {
+                "type": 4,
+                "value": 11000
+            }
+        ],
+        "rare": 5,
+        "img": "141",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 103
+    },
+    "126": {
+        "Id": 126,
+        "name": "Passionate Universe",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 10000
+            },
+            {
+                "type": 3,
+                "value": 11000
+            },
+            {
+                "type": 1,
+                "value": 190000
+            },
+            {
+                "type": 4,
+                "value": 5000
+            }
+        ],
+        "rare": 5,
+        "img": "142",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 104
+    },
+    "127": {
+        "Id": 127,
+        "name": "Picking Star",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 12500
+            },
+            {
+                "type": 3,
+                "value": 11500
+            },
+            {
+                "type": 1,
+                "value": 150000
+            },
+            {
+                "type": 4,
+                "value": 5500
+            }
+        ],
+        "rare": 5,
+        "img": "143",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 105
+    },
+    "128": {
+        "Id": 128,
+        "name": "Heart Beating",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 5000
+            },
+            {
+                "type": 3,
+                "value": 5500
+            },
+            {
+                "type": 1,
+                "value": 95000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "144",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 106
+    },
+    "129": {
+        "Id": 129,
+        "name": "Cosmos Overlord",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 6250
+            },
+            {
+                "type": 3,
+                "value": 5750
+            },
+            {
+                "type": 1,
+                "value": 75000
+            },
+            {
+                "type": 4,
+                "value": 2750
+            }
+        ],
+        "rare": 5,
+        "img": "145",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 107
+    },
+    "130": {
+        "Id": 130,
+        "name": "Witcher Warrior",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "146",
+        "condition": "Witcher Race event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 108
+    },
+    "131": {
+        "Id": 131,
+        "name": "DELETE",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 100000
+            },
+            {
+                "type": 3,
+                "value": 92000
+            },
+            {
+                "type": 1,
+                "value": 1200000
+            },
+            {
+                "type": 4,
+                "value": 44000
+            }
+        ],
+        "rare": 5,
+        "img": "147",
+        "condition": "Exclusively customized title for< delete > from S520",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 109
+    },
+    "132": {
+        "Id": 132,
+        "name": "DELETE",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 100000
+            },
+            {
+                "type": 3,
+                "value": 92000
+            },
+            {
+                "type": 1,
+                "value": 1200000
+            },
+            {
+                "type": 4,
+                "value": 44000
+            }
+        ],
+        "rare": 5,
+        "img": "148",
+        "condition": "Exclusively customized title for< delete > from S520",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 110
+    },
+    "133": {
+        "Id": 133,
+        "name": "Demigod",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "149",
+        "condition": "Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 111
+    },
+    "134": {
+        "Id": 134,
+        "name": "Come At Me!",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "150",
+        "condition": "Trial Path event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 112
+    },
+    "135": {
+        "Id": 135,
+        "name": "Western Legend",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "151",
+        "condition": "Western Legend event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 113
+    },
+    "136": {
+        "Id": 136,
+        "name": "Absolute Advantage",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 25000
+            },
+            {
+                "type": 3,
+                "value": 23000
+            },
+            {
+                "type": 1,
+                "value": 300000
+            },
+            {
+                "type": 4,
+                "value": 11000
+            }
+        ],
+        "rare": 5,
+        "img": "152",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 114
+    },
+    "137": {
+        "Id": 137,
+        "name": "Brainiac",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 10000
+            },
+            {
+                "type": 3,
+                "value": 11000
+            },
+            {
+                "type": 1,
+                "value": 190000
+            },
+            {
+                "type": 4,
+                "value": 5000
+            }
+        ],
+        "rare": 5,
+        "img": "153",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 115
+    },
+    "138": {
+        "Id": 138,
+        "name": "Dragon Hunter",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 12500
+            },
+            {
+                "type": 3,
+                "value": 11500
+            },
+            {
+                "type": 1,
+                "value": 150000
+            },
+            {
+                "type": 4,
+                "value": 5500
+            }
+        ],
+        "rare": 5,
+        "img": "154",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 116
+    },
+    "139": {
+        "Id": 139,
+        "name": "Jackpot",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 5000
+            },
+            {
+                "type": 3,
+                "value": 5500
+            },
+            {
+                "type": 1,
+                "value": 95000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "155",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 117
+    },
+    "140": {
+        "Id": 140,
+        "name": "Just A Title",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 6250
+            },
+            {
+                "type": 3,
+                "value": 5750
+            },
+            {
+                "type": 1,
+                "value": 75000
+            },
+            {
+                "type": 4,
+                "value": 2750
+            }
+        ],
+        "rare": 5,
+        "img": "156",
+        "condition": "Brilliant Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 118
+    },
+    "141": {
+        "Id": 141,
+        "name": "Midsummer Night",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4400
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 66000
+            },
+            {
+                "type": 4,
+                "value": 2300
+            }
+        ],
+        "rare": 5,
+        "img": "157",
+        "condition": "Midsummer Night event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 119
+    },
+    "142": {
+        "Id": 142,
+        "name": "Ice Cream World",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4400
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 66000
+            },
+            {
+                "type": 4,
+                "value": 2300
+            }
+        ],
+        "rare": 5,
+        "img": "158",
+        "condition": "Icy Revelry event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 120
+    },
+    "143": {
+        "Id": 143,
+        "name": "Grumpy Bunny",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4400
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 66000
+            },
+            {
+                "type": 4,
+                "value": 2300
+            }
+        ],
+        "rare": 5,
+        "img": "159",
+        "condition": "Bunny Party event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 121
+    },
+    "144": {
+        "Id": 144,
+        "name": "Perpetual Power",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "160",
+        "condition": "Core Project event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 122
+    },
+    "145": {
+        "Id": 145,
+        "name": "Judgement Scale",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "161",
+        "condition": "Judgement Scale Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 123
+    },
+    "146": {
+        "Id": 146,
+        "name": "Cyber Power",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "162",
+        "condition": "Cyber Quest event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 124
+    },
+    "147": {
+        "Id": 147,
+        "name": "Super Mecha",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "163",
+        "condition": "Super Mecha",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 125
+    },
+    "148": {
+        "Id": 148,
+        "name": "Thousands of Golds",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "164",
+        "condition": "Shopping Time Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 126
+    },
+    "149": {
+        "Id": 149,
+        "name": "Turkey Together",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "165",
+        "condition": "Thanksgiving Feast",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 127
+    },
+    "150": {
+        "Id": 150,
+        "name": "Beat of Rhythm",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "166",
+        "condition": "Space Banquet",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 140,
+        "showIndex": 128
+    },
+    "151": {
+        "Id": 151,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "167",
+        "condition": "",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 0,
+        "height": 128,
+        "showIndex": 129
+    },
+    "152": {
+        "Id": 152,
+        "name": "Merry Christmas",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "168",
+        "condition": "Merry Christmas",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 130
+    },
+    "153": {
+        "Id": 153,
+        "name": "Abyss Conqueror",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "169",
+        "condition": "Abyss Adventure",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 131
+    },
+    "154": {
+        "Id": 154,
+        "name": "Myth Descend",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "170",
+        "condition": "Myth Descend",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 132
+    },
+    "155": {
+        "Id": 155,
+        "name": "Spring Blossom",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "171",
+        "condition": "Spring Blossom",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 133
+    },
+    "156": {
+        "Id": 156,
+        "name": "Mecha Elite",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "172",
+        "condition": "Mecha Elite",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 134
+    },
+    "157": {
+        "Id": 157,
+        "name": "Demon Domination",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "173",
+        "condition": "Western Demon ",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 135
+    },
+    "158": {
+        "Id": 158,
+        "name": "Goddess Descend",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "174",
+        "condition": "Goddess Invitation",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 136
+    },
+    "159": {
+        "Id": 159,
+        "name": "Happy April Fool",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "175",
+        "condition": "Happy April Fool",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 137
+    },
+    "160": {
+        "Id": 160,
+        "name": "Game Master",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "176",
+        "condition": "Lucky Wheel",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 138
+    },
+    "161": {
+        "Id": 161,
+        "name": "Look Into Destiny",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "177",
+        "condition": "Look Into Destiny",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 139
+    },
+    "162": {
+        "Id": 162,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "178",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 160,
+        "showIndex": 140
+    },
+    "163": {
+        "Id": 163,
+        "name": "Sweet Accompany",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "179",
+        "condition": "Sweet Coffee ",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 141
+    },
+    "164": {
+        "Id": 164,
+        "name": "Street Fighter",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "180",
+        "condition": "Street Revelry",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 142
+    },
+    "165": {
+        "Id": 165,
+        "name": "Father's Day",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4600
+            },
+            {
+                "type": 3,
+                "value": 4000
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "181",
+        "condition": "Family Party",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 143
+    },
+    "166": {
+        "Id": 166,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 9200
+            },
+            {
+                "type": 3,
+                "value": 8000
+            },
+            {
+                "type": 1,
+                "value": 144000
+            },
+            {
+                "type": 4,
+                "value": 4200
+            }
+        ],
+        "rare": 5,
+        "img": "182",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 144
+    },
+    "167": {
+        "Id": 167,
+        "name": "Idyllic Summer",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "183",
+        "condition": "Summer Revelry ",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 145
+    },
+    "168": {
+        "Id": 168,
+        "name": "Ocean Adventure",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "184",
+        "condition": "Ocean Adventure",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 146
+    },
+    "169": {
+        "Id": 169,
+        "name": "This is Music",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "185",
+        "condition": "Summer Concert",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 147
+    },
+    "170": {
+        "Id": 170,
+        "name": "Ragnarok",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "186",
+        "condition": "Myth & Legend",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 148
+    },
+    "171": {
+        "Id": 171,
+        "name": "Gothic Rose",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "187",
+        "condition": "Gothic Rose",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 149
+    },
+    "172": {
+        "Id": 172,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 8800
+            },
+            {
+                "type": 3,
+                "value": 8800
+            },
+            {
+                "type": 1,
+                "value": 132000
+            },
+            {
+                "type": 4,
+                "value": 4600
+            }
+        ],
+        "rare": 5,
+        "img": "188",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 160,
+        "showIndex": 150
+    },
+    "173": {
+        "Id": 173,
+        "name": "Pupil's Everywhere",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "189",
+        "condition": "Thank to Teacher",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 151
+    },
+    "174": {
+        "Id": 174,
+        "name": "Harvest Harmony",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "190",
+        "condition": "Harvest Harmony Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 152
+    },
+    "175": {
+        "Id": 175,
+        "name": "Moon of Mid-Autumn",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "191",
+        "condition": "Mid-Autumn Festival",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 153
+    },
+    "176": {
+        "Id": 176,
+        "name": "War Academy",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "192",
+        "condition": "War Academy",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 154
+    },
+    "177": {
+        "Id": 177,
+        "name": "National Celebration",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 8800
+            },
+            {
+                "type": 3,
+                "value": 8800
+            },
+            {
+                "type": 1,
+                "value": 132000
+            },
+            {
+                "type": 4,
+                "value": 4600
+            }
+        ],
+        "rare": 5,
+        "img": "193",
+        "condition": "Celebration Login Event",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 160,
+        "showIndex": 155
+    },
+    "178": {
+        "Id": 178,
+        "name": "Paladin Descend",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "194",
+        "condition": "Paladin Descend",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 156
+    },
+    "179": {
+        "Id": 179,
+        "name": "Falling Snow",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 4600
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2100
+            }
+        ],
+        "rare": 5,
+        "img": "195",
+        "condition": "Warm Winter",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 157
+    },
+    "181": {
+        "Id": 181,
+        "name": "Thanksgiving Day",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "197",
+        "condition": "Thanksgiving Day",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 158
+    },
+    "182": {
+        "Id": 182,
+        "name": "Frozen Fantasy",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4400
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 66000
+            },
+            {
+                "type": 4,
+                "value": 2300
+            }
+        ],
+        "rare": 5,
+        "img": "198",
+        "condition": "Winter Solstice",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 159
+    },
+    "183": {
+        "Id": 183,
+        "name": "Christmas",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "199",
+        "condition": "Christmas",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 160
+    },
+    "184": {
+        "Id": 184,
+        "name": "Wonderland",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "200",
+        "condition": "Fantasy Adventure event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 161
+    },
+    "185": {
+        "Id": 185,
+        "name": "Demon & Angel",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4400
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 66000
+            },
+            {
+                "type": 4,
+                "value": 2300
+            }
+        ],
+        "rare": 5,
+        "img": "201",
+        "condition": "Demon & Angel",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 162
+    },
+    "186": {
+        "Id": 186,
+        "name": "2024",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 8800
+            },
+            {
+                "type": 3,
+                "value": 8800
+            },
+            {
+                "type": 1,
+                "value": 132000
+            },
+            {
+                "type": 4,
+                "value": 4600
+            }
+        ],
+        "rare": 5,
+        "img": "202",
+        "condition": "New Year",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 160,
+        "showIndex": 163
+    },
+    "187": {
+        "Id": 187,
+        "name": "Rabbit & Dragon",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "203",
+        "condition": "Lion Celebration",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 164
+    },
+    "188": {
+        "Id": 188,
+        "name": "Ring Out the Old",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "204",
+        "condition": "Spring Festival",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 160,
+        "showIndex": 165
+    },
+    "189": {
+        "Id": 189,
+        "name": "Spring Coming",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "205",
+        "condition": "Obtain from Spring Fest",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 166
+    },
+    "190": {
+        "Id": 190,
+        "name": "Cyber Era",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4400
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 66000
+            },
+            {
+                "type": 4,
+                "value": 2300
+            }
+        ],
+        "rare": 5,
+        "img": "206",
+        "condition": "Cyber Quest Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 167
+    },
+    "191": {
+        "Id": 191,
+        "name": "KO",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "207",
+        "condition": "Trail Road",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 168
+    },
+    "192": {
+        "Id": 192,
+        "name": "愚你同乐",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "208",
+        "condition": "愚人节活动获得",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 160,
+        "showIndex": 169
+    },
+    "193": {
+        "Id": 193,
+        "name": "Lord of Destiny",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "209",
+        "condition": "Peek Destiny",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 170
+    },
+    "194": {
+        "Id": 194,
+        "name": "Glorious Labor",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "210",
+        "condition": "Ceremony Login Event",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 160,
+        "showIndex": 171
+    },
+    "195": {
+        "Id": 195,
+        "name": "Cool Summer",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "211",
+        "condition": "Summer Revelry",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 172
+    },
+    "196": {
+        "Id": 196,
+        "name": "10周年",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 8800
+            },
+            {
+                "type": 3,
+                "value": 8800
+            },
+            {
+                "type": 1,
+                "value": 132000
+            },
+            {
+                "type": 4,
+                "value": 4600
+            }
+        ],
+        "rare": 5,
+        "img": "212",
+        "condition": "运营活动获得",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 160,
+        "showIndex": 173
+    },
+    "197": {
+        "Id": 197,
+        "name": "Dragon Boat Zongzi",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 8800
+            },
+            {
+                "type": 3,
+                "value": 8800
+            },
+            {
+                "type": 1,
+                "value": 132000
+            },
+            {
+                "type": 4,
+                "value": 4600
+            }
+        ],
+        "rare": 5,
+        "img": "213",
+        "condition": "Ceremony Login Event",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 160,
+        "showIndex": 174
+    },
+    "198": {
+        "Id": 198,
+        "name": "Sweet Coffee",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3700
+            },
+            {
+                "type": 3,
+                "value": 4300
+            },
+            {
+                "type": 1,
+                "value": 72000
+            },
+            {
+                "type": 4,
+                "value": 2400
+            }
+        ],
+        "rare": 5,
+        "img": "214",
+        "condition": "Sweet Coffee Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 175
+    },
+    "199": {
+        "Id": 199,
+        "name": "West Demon",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "215",
+        "condition": "West Demon Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 176
+    },
+    "200": {
+        "Id": 200,
+        "name": "Magic Master",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 8800
+            },
+            {
+                "type": 3,
+                "value": 8800
+            },
+            {
+                "type": 1,
+                "value": 132000
+            },
+            {
+                "type": 4,
+                "value": 4600
+            }
+        ],
+        "rare": 5,
+        "img": "216",
+        "condition": "Ceremony Login Event",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 160,
+        "showIndex": 177
+    },
+    "201": {
+        "Id": 201,
+        "name": "Dawn Envoy",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "217",
+        "condition": "Myth & Legend  Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 178
+    },
+    "202": {
+        "Id": 202,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 8800
+            },
+            {
+                "type": 3,
+                "value": 8800
+            },
+            {
+                "type": 1,
+                "value": 132000
+            },
+            {
+                "type": 4,
+                "value": 4600
+            }
+        ],
+        "rare": 5,
+        "img": "218",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 160,
+        "showIndex": 179
+    },
+    "203": {
+        "Id": 203,
+        "name": "Autumn Reunion",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "219",
+        "condition": "Mid-autumn Day  Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 180
+    },
+    "220": {
+        "Id": 220,
+        "name": "Harvest Season",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "220",
+        "condition": "Harvest Season  Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 180
+    },
+    "221": {
+        "Id": 221,
+        "name": "Warm Winter",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "221",
+        "condition": "Warm Winter Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 182
+    },
+    "222": {
+        "Id": 222,
+        "name": "Welcome Winter",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "222",
+        "condition": "Winter Solstice  Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 183
+    },
+    "223": {
+        "Id": 223,
+        "name": "Christmas Surprise",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "223",
+        "condition": "Merry Christmas",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 184
+    },
+    "224": {
+        "Id": 224,
+        "name": "True Talent",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "224",
+        "condition": "Trail Road Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 185
+    },
+    "225": {
+        "Id": 225,
+        "name": "Resurrection",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "225",
+        "condition": "Spring Flowers Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 186
+    },
+    "226": {
+        "Id": 226,
+        "name": "Dragon Lord",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "226",
+        "condition": "Soaring Dragon Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 187
+    },
+    "227": {
+        "Id": 227,
+        "name": "Holy Light Descend",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 4000
+            },
+            {
+                "type": 3,
+                "value": 5000
+            },
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 2500
+            }
+        ],
+        "rare": 5,
+        "img": "227",
+        "condition": "Paladin Descend Event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 188
+    },
+    "1000": {
+        "Id": 1000,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 500000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 9000000
+            },
+            {
+                "type": 9,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1000",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 1000
+    },
+    "1001": {
+        "Id": 1001,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 500000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 9000000
+            },
+            {
+                "type": 9,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1001",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 1001
+    },
+    "1002": {
+        "Id": 1002,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 500000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 9000000
+            },
+            {
+                "type": 9,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1002",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 1002
+    },
+    "1003": {
+        "Id": 1003,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 500000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 9000000
+            },
+            {
+                "type": 59,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1003",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 1003
+    },
+    "1004": {
+        "Id": 1004,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 500000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 9000000
+            },
+            {
+                "type": 9,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1004",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 1004
+    },
+    "1005": {
+        "Id": 1005,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 500000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 9000000
+            },
+            {
+                "type": 9,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1005",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 1005
+    },
+    "1006": {
+        "Id": 1006,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 500000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 9000000
+            },
+            {
+                "type": 59,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1006",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 1006
+    },
+    "1007": {
+        "Id": 1007,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 500000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 9000000
+            },
+            {
+                "type": 9,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1007",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 1007
+    },
+    "1008": {
+        "Id": 1008,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 500000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 9000000
+            },
+            {
+                "type": 9,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1008",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 1008
+    },
+    "1009": {
+        "Id": 1009,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 500000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 9000000
+            },
+            {
+                "type": 9,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1009",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 1009
+    },
+    "1010": {
+        "Id": 1010,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 500000
+            },
+            {
+                "type": 3,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 9000000
+            },
+            {
+                "type": 9,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1010",
+        "condition": "",
+        "isShow": 0,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 160,
+        "showIndex": 1010
+    },
+    "1011": {
+        "Id": 1011,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 2160
+            },
+            {
+                "type": 3,
+                "value": 2640
+            },
+            {
+                "type": 1,
+                "value": 48000
+            },
+            {
+                "type": 4,
+                "value": 1200
+            }
+        ],
+        "rare": 5,
+        "img": "1011",
+        "condition": "GM Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1011
+    },
+    "1012": {
+        "Id": 1012,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 3600
+            },
+            {
+                "type": 3,
+                "value": 4400
+            },
+            {
+                "type": 1,
+                "value": 80000
+            },
+            {
+                "type": 4,
+                "value": 2000
+            }
+        ],
+        "rare": 5,
+        "img": "1012",
+        "condition": "GM Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1012
+    },
+    "1013": {
+        "Id": 1013,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 7200
+            },
+            {
+                "type": 3,
+                "value": 8800
+            },
+            {
+                "type": 1,
+                "value": 160000
+            },
+            {
+                "type": 4,
+                "value": 4000
+            }
+        ],
+        "rare": 5,
+        "img": "1013",
+        "condition": "GM Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1013
+    },
+    "1014": {
+        "Id": 1014,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 14400
+            },
+            {
+                "type": 3,
+                "value": 17600
+            },
+            {
+                "type": 1,
+                "value": 320000
+            },
+            {
+                "type": 4,
+                "value": 8000
+            }
+        ],
+        "rare": 5,
+        "img": "1014",
+        "condition": "GM Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1014
+    },
+    "1015": {
+        "Id": 1015,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 21600
+            },
+            {
+                "type": 3,
+                "value": 26400
+            },
+            {
+                "type": 1,
+                "value": 480000
+            },
+            {
+                "type": 4,
+                "value": 12000
+            }
+        ],
+        "rare": 5,
+        "img": "1015",
+        "condition": "GM Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1015
+    },
+    "1016": {
+        "Id": 1016,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 36000
+            },
+            {
+                "type": 3,
+                "value": 44000
+            },
+            {
+                "type": 1,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            }
+        ],
+        "rare": 5,
+        "img": "1016",
+        "condition": "GM Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1016
+    },
+    "1017": {
+        "Id": 1017,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 57600
+            },
+            {
+                "type": 3,
+                "value": 70400
+            },
+            {
+                "type": 1,
+                "value": 1280000
+            },
+            {
+                "type": 4,
+                "value": 32000
+            }
+        ],
+        "rare": 5,
+        "img": "1017",
+        "condition": "GM Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1017
+    },
+    "1018": {
+        "Id": 1018,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 86400
+            },
+            {
+                "type": 3,
+                "value": 105600
+            },
+            {
+                "type": 1,
+                "value": 1920000
+            },
+            {
+                "type": 4,
+                "value": 48000
+            }
+        ],
+        "rare": 5,
+        "img": "1018",
+        "condition": "GM Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1018
+    },
+    "1019": {
+        "Id": 1019,
+        "name": "",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 129600
+            },
+            {
+                "type": 3,
+                "value": 158400
+            },
+            {
+                "type": 1,
+                "value": 2880000
+            },
+            {
+                "type": 4,
+                "value": 72000
+            }
+        ],
+        "rare": 5,
+        "img": "1019",
+        "condition": "GM Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1019
+    },
+    "1020": {
+        "Id": 1020,
+        "name": "",
+        "attrs": [
+            {
+                "type": 32,
+                "value": 240000
+            },
+            {
+                "type": 1,
+                "value": 4560000
+            },
+            {
+                "type": 4,
+                "value": 132000
+            },
+            {
+                "type": 59,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1020",
+        "condition": "GM Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1020
+    },
+    "1021": {
+        "Id": 1021,
+        "name": "",
+        "attrs": [
+            {
+                "type": 32,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 7600000
+            },
+            {
+                "type": 4,
+                "value": 220000
+            },
+            {
+                "type": 9,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1021",
+        "condition": "GM Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1021
+    },
+    "1022": {
+        "Id": 1022,
+        "name": "",
+        "attrs": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 440000
+            },
+            {
+                "type": 12,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1022",
+        "condition": "GM Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1022
+    },
+    "1026": {
+        "Id": 1026,
+        "name": "War God Brave",
+        "attrs": [
+            {
+                "type": 32,
+                "value": 640000
+            },
+            {
+                "type": 1,
+                "value": 12160000
+            },
+            {
+                "type": 4,
+                "value": 352000
+            },
+            {
+                "type": 60,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1026",
+        "condition": "Brave Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1026
+    },
+    "1027": {
+        "Id": 1027,
+        "name": "Holy Temple War God",
+        "attrs": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 15200000
+            },
+            {
+                "type": 4,
+                "value": 440000
+            },
+            {
+                "type": 41,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1027",
+        "condition": "Brave Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1027
+    },
+    "1028": {
+        "Id": 1028,
+        "name": "Origin War God",
+        "attrs": [
+            {
+                "type": 32,
+                "value": 1200000
+            },
+            {
+                "type": 1,
+                "value": 22800000
+            },
+            {
+                "type": 4,
+                "value": 660000
+            },
+            {
+                "type": 44,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1028",
+        "condition": "Brave Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1028
+    },
+    "1029": {
+        "Id": 1029,
+        "name": "Peerless War God",
+        "attrs": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 1,
+                "value": 30400000
+            },
+            {
+                "type": 4,
+                "value": 880000
+            },
+            {
+                "type": 59,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1029",
+        "condition": "Brave Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1029
+    },
+    "1030": {
+        "Id": 1030,
+        "name": "Planet Brave",
+        "attrs": [
+            {
+                "type": 32,
+                "value": 2400000
+            },
+            {
+                "type": 1,
+                "value": 45600000
+            },
+            {
+                "type": 4,
+                "value": 1320000
+            },
+            {
+                "type": 9,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1030",
+        "condition": "Brave Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1030
+    },
+    "1031": {
+        "Id": 1031,
+        "name": "Star Brave",
+        "attrs": [
+            {
+                "type": 32,
+                "value": 4000000
+            },
+            {
+                "type": 1,
+                "value": 76000000
+            },
+            {
+                "type": 4,
+                "value": 2200000
+            },
+            {
+                "type": 12,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1031",
+        "condition": "Brave Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1031
+    },
+    "1032": {
+        "Id": 1032,
+        "name": "Dominant Brave",
+        "attrs": [
+            {
+                "type": 32,
+                "value": 8000000
+            },
+            {
+                "type": 1,
+                "value": 152000000
+            },
+            {
+                "type": 4,
+                "value": 4400000
+            },
+            {
+                "type": 60,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1032",
+        "condition": "Brave Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1032
+    },
+    "1033": {
+        "Id": 1033,
+        "name": "I'm Capper",
+        "attrs": [
+            {
+                "type": 32,
+                "value": 40000000
+            },
+            {
+                "type": 1,
+                "value": 760000000
+            },
+            {
+                "type": 4,
+                "value": 22000000
+            },
+            {
+                "type": 41,
+                "value": 200
+            }
+        ],
+        "rare": 5,
+        "img": "1033",
+        "condition": "Brave Shop",
+        "isShow": 0,
+        "isShowzy2tw": 0,
+        "isShowzy2twtest": 0,
+        "isRealTimeShow": 0,
+        "height": 118,
+        "showIndex": 1033
+    },
+    "2000": {
+        "Id": 2000,
+        "name": "Championship·Challenger",
+        "attrs": [
+            {
+                "type": 2,
+                "value": 44000
+            },
+            {
+                "type": 3,
+                "value": 44000
+            },
+            {
+                "type": 1,
+                "value": 660000
+            },
+            {
+                "type": 4,
+                "value": 23000
+            }
+        ],
+        "rare": 5,
+        "img": "2000",
+        "condition": "Obtain from Championship event",
+        "isShow": 1,
+        "isShowzy2tw": 1,
+        "isShowzy2twtest": 1,
+        "isRealTimeShow": 1,
+        "height": 140,
+        "showIndex": 6
+    }
+}

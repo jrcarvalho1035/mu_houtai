@@ -1,0 +1,142 @@
+{
+    "1": {
+        "id": 1,
+        "type": 0,
+        "conID": 1,
+        "param": 1000,
+        "target": 50,
+        "name": "Donate ￥1000 Ingots",
+        "desc": "Rewards: Contribution +100 Funds +100",
+        "controlTarget": []
+    },
+    "2": {
+        "id": 2,
+        "type": 32,
+        "conID": 2,
+        "param": 200000,
+        "target": 10,
+        "name": "Donate 200000 Coin",
+        "desc": "Rewards: Contribution +10 Funds +10",
+        "controlTarget": []
+    },
+    "3": {
+        "id": 3,
+        "type": 0,
+        "conID": 3,
+        "param": 200105,
+        "target": 5,
+        "name": "Donate Item Quadruple Token",
+        "desc": "Rewards: Contribution +200 Funds +200",
+        "controlTarget": []
+    },
+    "4": {
+        "id": 4,
+        "type": 0,
+        "conID": 4,
+        "param": 200106,
+        "target": 5,
+        "name": "Donate Item Triple Token",
+        "desc": "Rewards: Contribution +50 Funds +50",
+        "controlTarget": []
+    },
+    "5": {
+        "id": 5,
+        "type": 5,
+        "conID": 5,
+        "param": 0,
+        "target": 4,
+        "name": "Daily PK: Perform Skirmish",
+        "desc": "Rewards: Contribution +2 Funds +2",
+        "controlTarget": []
+    },
+    "6": {
+        "id": 6,
+        "type": 11,
+        "conID": 6,
+        "param": 6,
+        "target": 3,
+        "name": "Daily Boss: Eliminate Personal Boss",
+        "desc": "Rewards: Contribution +2 Funds +2",
+        "controlTarget": []
+    },
+    "7": {
+        "id": 7,
+        "type": 2,
+        "conID": 7,
+        "param": 0,
+        "target": 2,
+        "name": "Daily Forge: Perform Gear Enhancement",
+        "desc": "Rewards: Contribution +2 Funds +2",
+        "controlTarget": []
+    },
+    "8": {
+        "id": 8,
+        "type": 21,
+        "conID": 8,
+        "param": 0,
+        "target": 3,
+        "name": "Daily Forge: Perform Gem Upgrade",
+        "desc": "Rewards: Contribution +4 Funds +4",
+        "controlTarget": []
+    },
+    "9": {
+        "id": 9,
+        "type": 34,
+        "conID": 9,
+        "param": 0,
+        "target": 5,
+        "name": "Daily Forge: Perform Gear Soulfusing",
+        "desc": "Rewards: Contribution +2 Funds +2",
+        "controlTarget": []
+    },
+    "10": {
+        "id": 10,
+        "type": 4,
+        "conID": 10,
+        "param": 0,
+        "target": 5,
+        "name": "Daily Smelting: Perform Gear Smelting",
+        "desc": "Rewards: Contribution +2 Funds +2",
+        "controlTarget": []
+    },
+    "11": {
+        "id": 11,
+        "type": 3,
+        "conID": 11,
+        "param": 0,
+        "target": 4,
+        "name": "Daily Upgrade: Upgrade Wings",
+        "desc": "Rewards: Contribution +5 Funds +5",
+        "controlTarget": []
+    },
+    "12": {
+        "id": 12,
+        "type": 22,
+        "conID": 12,
+        "param": 0,
+        "target": 2,
+        "name": "Daily Upgrade: Upgrade Veins",
+        "desc": "Rewards: Contribution +5 Funds +5",
+        "controlTarget": []
+    },
+    "13": {
+        "id": 13,
+        "type": 23,
+        "conID": 13,
+        "param": 0,
+        "target": 2,
+        "name": "Daily Upgrade: Upgrade Dragonima",
+        "desc": "Rewards: Contribution +5 Funds +5",
+        "controlTarget": []
+    },
+    "14": {
+        "id": 14,
+        "type": 24,
+        "conID": 14,
+        "param": 0,
+        "target": 2,
+        "name": "Daily Upgrade: Upgrade Shield",
+        "desc": "Rewards: Contribution +5 Funds +5",
+        "controlTarget": []
+    }
+}

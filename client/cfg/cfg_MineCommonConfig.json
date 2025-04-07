@@ -1,0 +1,34 @@
+{
+    "prices": [
+        100,
+        200,
+        300
+    ],
+    "count": 3,
+    "rob": 5,
+    "berob": 3,
+    "unitPrice": 3,
+    "lot": 1000,
+    "consume": [
+        0,
+        100
+    ],
+    "fbId": 81001,
+    "fbNpcId": 10006,
+    "pkfbId": 81002,
+    "doublePrice": 1000,
+    "minerMaxQuality": 4,
+    "maxPos": 10,
+    "goodReward": [
+        {
+            "type": 0,
+            "id": 15,
+            "count": 4000
+        },
+        {
+            "type": 0,
+            "id": 1,
+            "count": 2400000
+        }
+    ]
+}

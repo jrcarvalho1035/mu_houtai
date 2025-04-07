@@ -1,0 +1,2082 @@
+{
+    "1": {
+        "id": 1,
+        "target": 3,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 1
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 3 times",
+        "dbType": 1
+    },
+    "2": {
+        "id": 2,
+        "target": 6,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 1
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 6 times",
+        "dbType": 1
+    },
+    "3": {
+        "id": 3,
+        "target": 9,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 1
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 9 times",
+        "dbType": 1
+    },
+    "4": {
+        "id": 4,
+        "target": 12,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 1
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 12 times",
+        "dbType": 1
+    },
+    "5": {
+        "id": 5,
+        "target": 15,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 1
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 15 times",
+        "dbType": 1
+    },
+    "6": {
+        "id": 6,
+        "target": 21,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 1
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 21 times",
+        "dbType": 1
+    },
+    "7": {
+        "id": 7,
+        "target": 27,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 1
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 27 times",
+        "dbType": 1
+    },
+    "8": {
+        "id": 8,
+        "target": 33,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 1
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 33 times",
+        "dbType": 1
+    },
+    "9": {
+        "id": 9,
+        "target": 39,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 39 times",
+        "dbType": 1
+    },
+    "10": {
+        "id": 10,
+        "target": 45,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 45 times",
+        "dbType": 1
+    },
+    "11": {
+        "id": 11,
+        "target": 54,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 54 times",
+        "dbType": 1
+    },
+    "12": {
+        "id": 12,
+        "target": 63,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 63 times",
+        "dbType": 1
+    },
+    "13": {
+        "id": 13,
+        "target": 72,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 72 times",
+        "dbType": 1
+    },
+    "14": {
+        "id": 14,
+        "target": 81,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 81 times",
+        "dbType": 1
+    },
+    "15": {
+        "id": 15,
+        "target": 90,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 90 times",
+        "dbType": 1
+    },
+    "16": {
+        "id": 16,
+        "target": 102,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 102 times",
+        "dbType": 1
+    },
+    "17": {
+        "id": 17,
+        "target": 114,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 114 times",
+        "dbType": 1
+    },
+    "18": {
+        "id": 18,
+        "target": 126,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 126 times",
+        "dbType": 1
+    },
+    "19": {
+        "id": 19,
+        "target": 138,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 138 times",
+        "dbType": 1
+    },
+    "20": {
+        "id": 20,
+        "target": 150,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 150 times",
+        "dbType": 1
+    },
+    "21": {
+        "id": 21,
+        "target": 165,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 165 times",
+        "dbType": 1
+    },
+    "22": {
+        "id": 22,
+        "target": 180,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 180 times",
+        "dbType": 1
+    },
+    "23": {
+        "id": 23,
+        "target": 195,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 195 times",
+        "dbType": 1
+    },
+    "24": {
+        "id": 24,
+        "target": 210,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 210 times",
+        "dbType": 1
+    },
+    "25": {
+        "id": 25,
+        "target": 225,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 225 times",
+        "dbType": 1
+    },
+    "26": {
+        "id": 26,
+        "target": 243,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 243 times",
+        "dbType": 1
+    },
+    "27": {
+        "id": 27,
+        "target": 261,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 261 times",
+        "dbType": 1
+    },
+    "28": {
+        "id": 28,
+        "target": 279,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 279 times",
+        "dbType": 1
+    },
+    "29": {
+        "id": 29,
+        "target": 297,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 297 times",
+        "dbType": 1
+    },
+    "30": {
+        "id": 30,
+        "target": 315,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 315 times",
+        "dbType": 1
+    },
+    "31": {
+        "id": 31,
+        "target": 336,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 336 times",
+        "dbType": 1
+    },
+    "32": {
+        "id": 32,
+        "target": 357,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 357 times",
+        "dbType": 1
+    },
+    "33": {
+        "id": 33,
+        "target": 378,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 378 times",
+        "dbType": 1
+    },
+    "34": {
+        "id": 34,
+        "target": 399,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 399 times",
+        "dbType": 1
+    },
+    "35": {
+        "id": 35,
+        "target": 420,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 420 times",
+        "dbType": 1
+    },
+    "36": {
+        "id": 36,
+        "target": 444,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 444 times",
+        "dbType": 1
+    },
+    "37": {
+        "id": 37,
+        "target": 468,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 468 times",
+        "dbType": 1
+    },
+    "38": {
+        "id": 38,
+        "target": 492,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 492 times",
+        "dbType": 1
+    },
+    "39": {
+        "id": 39,
+        "target": 516,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 516 times",
+        "dbType": 1
+    },
+    "40": {
+        "id": 40,
+        "target": 540,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 540 times",
+        "dbType": 1
+    },
+    "41": {
+        "id": 41,
+        "target": 567,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 567 times",
+        "dbType": 1
+    },
+    "42": {
+        "id": 42,
+        "target": 594,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 594 times",
+        "dbType": 1
+    },
+    "43": {
+        "id": 43,
+        "target": 621,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 621 times",
+        "dbType": 1
+    },
+    "44": {
+        "id": 44,
+        "target": 648,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 648 times",
+        "dbType": 1
+    },
+    "45": {
+        "id": 45,
+        "target": 675,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 675 times",
+        "dbType": 1
+    },
+    "46": {
+        "id": 46,
+        "target": 705,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 705 times",
+        "dbType": 1
+    },
+    "47": {
+        "id": 47,
+        "target": 735,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 735 times",
+        "dbType": 1
+    },
+    "48": {
+        "id": 48,
+        "target": 765,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 765 times",
+        "dbType": 1
+    },
+    "49": {
+        "id": 49,
+        "target": 795,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 795 times",
+        "dbType": 1
+    },
+    "50": {
+        "id": 50,
+        "target": 825,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 825 times",
+        "dbType": 1
+    },
+    "51": {
+        "id": 51,
+        "target": 858,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 858 times",
+        "dbType": 1
+    },
+    "52": {
+        "id": 52,
+        "target": 891,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 891 times",
+        "dbType": 1
+    },
+    "53": {
+        "id": 53,
+        "target": 924,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 924 times",
+        "dbType": 1
+    },
+    "54": {
+        "id": 54,
+        "target": 957,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 957 times",
+        "dbType": 1
+    },
+    "55": {
+        "id": 55,
+        "target": 990,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 990 times",
+        "dbType": 1
+    },
+    "56": {
+        "id": 56,
+        "target": 1026,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1026 times",
+        "dbType": 1
+    },
+    "57": {
+        "id": 57,
+        "target": 1062,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1062 times",
+        "dbType": 1
+    },
+    "58": {
+        "id": 58,
+        "target": 1098,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1098 times",
+        "dbType": 1
+    },
+    "59": {
+        "id": 59,
+        "target": 1134,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1134 times",
+        "dbType": 1
+    },
+    "60": {
+        "id": 60,
+        "target": 1170,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1170 times",
+        "dbType": 1
+    },
+    "61": {
+        "id": 61,
+        "target": 1209,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1209 times",
+        "dbType": 1
+    },
+    "62": {
+        "id": 62,
+        "target": 1248,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1248 times",
+        "dbType": 1
+    },
+    "63": {
+        "id": 63,
+        "target": 1287,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1287 times",
+        "dbType": 1
+    },
+    "64": {
+        "id": 64,
+        "target": 1326,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1326 times",
+        "dbType": 1
+    },
+    "65": {
+        "id": 65,
+        "target": 1365,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1365 times",
+        "dbType": 1
+    },
+    "66": {
+        "id": 66,
+        "target": 1407,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1407 times",
+        "dbType": 1
+    },
+    "67": {
+        "id": 67,
+        "target": 1449,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1449 times",
+        "dbType": 1
+    },
+    "68": {
+        "id": 68,
+        "target": 1491,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1491 times",
+        "dbType": 1
+    },
+    "69": {
+        "id": 69,
+        "target": 1533,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1533 times",
+        "dbType": 1
+    },
+    "70": {
+        "id": 70,
+        "target": 1575,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1575 times",
+        "dbType": 1
+    },
+    "71": {
+        "id": 71,
+        "target": 1620,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1620 times",
+        "dbType": 1
+    },
+    "72": {
+        "id": 72,
+        "target": 1665,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1665 times",
+        "dbType": 1
+    },
+    "73": {
+        "id": 73,
+        "target": 1710,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1710 times",
+        "dbType": 1
+    },
+    "74": {
+        "id": 74,
+        "target": 1755,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1755 times",
+        "dbType": 1
+    },
+    "75": {
+        "id": 75,
+        "target": 1800,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1800 times",
+        "dbType": 1
+    },
+    "76": {
+        "id": 76,
+        "target": 1848,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1848 times",
+        "dbType": 1
+    },
+    "77": {
+        "id": 77,
+        "target": 1896,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1896 times",
+        "dbType": 1
+    },
+    "78": {
+        "id": 78,
+        "target": 1944,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1944 times",
+        "dbType": 1
+    },
+    "79": {
+        "id": 79,
+        "target": 1992,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 1992 times",
+        "dbType": 1
+    },
+    "80": {
+        "id": 80,
+        "target": 2040,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Summon Scarlet Boss for 2040 times",
+        "dbType": 1
+    },
+    "81": {
+        "id": 81,
+        "target": 6,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 6 times",
+        "dbType": 2
+    },
+    "82": {
+        "id": 82,
+        "target": 12,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 12 times",
+        "dbType": 2
+    },
+    "83": {
+        "id": 83,
+        "target": 18,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 18 times",
+        "dbType": 2
+    },
+    "84": {
+        "id": 84,
+        "target": 24,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 24 times",
+        "dbType": 2
+    },
+    "85": {
+        "id": 85,
+        "target": 30,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 30 times",
+        "dbType": 2
+    },
+    "86": {
+        "id": 86,
+        "target": 42,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 42 times",
+        "dbType": 2
+    },
+    "87": {
+        "id": 87,
+        "target": 54,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 54 times",
+        "dbType": 2
+    },
+    "88": {
+        "id": 88,
+        "target": 66,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 2
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 66 times",
+        "dbType": 2
+    },
+    "89": {
+        "id": 89,
+        "target": 78,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 78 times",
+        "dbType": 2
+    },
+    "90": {
+        "id": 90,
+        "target": 90,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 90 times",
+        "dbType": 2
+    },
+    "91": {
+        "id": 91,
+        "target": 108,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 108 times",
+        "dbType": 2
+    },
+    "92": {
+        "id": 92,
+        "target": 126,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 126 times",
+        "dbType": 2
+    },
+    "93": {
+        "id": 93,
+        "target": 144,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 144 times",
+        "dbType": 2
+    },
+    "94": {
+        "id": 94,
+        "target": 162,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 162 times",
+        "dbType": 2
+    },
+    "95": {
+        "id": 95,
+        "target": 180,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 180 times",
+        "dbType": 2
+    },
+    "96": {
+        "id": 96,
+        "target": 204,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 3
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 204 times",
+        "dbType": 2
+    },
+    "97": {
+        "id": 97,
+        "target": 228,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 228 times",
+        "dbType": 2
+    },
+    "98": {
+        "id": 98,
+        "target": 252,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 252 times",
+        "dbType": 2
+    },
+    "99": {
+        "id": 99,
+        "target": 276,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 276 times",
+        "dbType": 2
+    },
+    "100": {
+        "id": 100,
+        "target": 300,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 300 times",
+        "dbType": 2
+    },
+    "101": {
+        "id": 101,
+        "target": 330,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 330 times",
+        "dbType": 2
+    },
+    "102": {
+        "id": 102,
+        "target": 360,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 360 times",
+        "dbType": 2
+    },
+    "103": {
+        "id": 103,
+        "target": 390,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 390 times",
+        "dbType": 2
+    },
+    "104": {
+        "id": 104,
+        "target": 420,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 4
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 420 times",
+        "dbType": 2
+    },
+    "105": {
+        "id": 105,
+        "target": 450,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 450 times",
+        "dbType": 2
+    },
+    "106": {
+        "id": 106,
+        "target": 486,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 486 times",
+        "dbType": 2
+    },
+    "107": {
+        "id": 107,
+        "target": 522,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 522 times",
+        "dbType": 2
+    },
+    "108": {
+        "id": 108,
+        "target": 558,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 558 times",
+        "dbType": 2
+    },
+    "109": {
+        "id": 109,
+        "target": 594,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 594 times",
+        "dbType": 2
+    },
+    "110": {
+        "id": 110,
+        "target": 630,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 630 times",
+        "dbType": 2
+    },
+    "111": {
+        "id": 111,
+        "target": 672,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 672 times",
+        "dbType": 2
+    },
+    "112": {
+        "id": 112,
+        "target": 714,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 5
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 714 times",
+        "dbType": 2
+    },
+    "113": {
+        "id": 113,
+        "target": 756,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 756 times",
+        "dbType": 2
+    },
+    "114": {
+        "id": 114,
+        "target": 798,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 798 times",
+        "dbType": 2
+    },
+    "115": {
+        "id": 115,
+        "target": 840,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 840 times",
+        "dbType": 2
+    },
+    "116": {
+        "id": 116,
+        "target": 888,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 888 times",
+        "dbType": 2
+    },
+    "117": {
+        "id": 117,
+        "target": 936,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 936 times",
+        "dbType": 2
+    },
+    "118": {
+        "id": 118,
+        "target": 984,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 984 times",
+        "dbType": 2
+    },
+    "119": {
+        "id": 119,
+        "target": 1032,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1032 times",
+        "dbType": 2
+    },
+    "120": {
+        "id": 120,
+        "target": 1080,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 6
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1080 times",
+        "dbType": 2
+    },
+    "121": {
+        "id": 121,
+        "target": 1134,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1134 times",
+        "dbType": 2
+    },
+    "122": {
+        "id": 122,
+        "target": 1188,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1188 times",
+        "dbType": 2
+    },
+    "123": {
+        "id": 123,
+        "target": 1242,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1242 times",
+        "dbType": 2
+    },
+    "124": {
+        "id": 124,
+        "target": 1296,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1296 times",
+        "dbType": 2
+    },
+    "125": {
+        "id": 125,
+        "target": 1350,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1350 times",
+        "dbType": 2
+    },
+    "126": {
+        "id": 126,
+        "target": 1410,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1410 times",
+        "dbType": 2
+    },
+    "127": {
+        "id": 127,
+        "target": 1470,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1470 times",
+        "dbType": 2
+    },
+    "128": {
+        "id": 128,
+        "target": 1530,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 7
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1530 times",
+        "dbType": 2
+    },
+    "129": {
+        "id": 129,
+        "target": 1590,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1590 times",
+        "dbType": 2
+    },
+    "130": {
+        "id": 130,
+        "target": 1650,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1650 times",
+        "dbType": 2
+    },
+    "131": {
+        "id": 131,
+        "target": 1716,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1716 times",
+        "dbType": 2
+    },
+    "132": {
+        "id": 132,
+        "target": 1782,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1782 times",
+        "dbType": 2
+    },
+    "133": {
+        "id": 133,
+        "target": 1848,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1848 times",
+        "dbType": 2
+    },
+    "134": {
+        "id": 134,
+        "target": 1914,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1914 times",
+        "dbType": 2
+    },
+    "135": {
+        "id": 135,
+        "target": 1980,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 1980 times",
+        "dbType": 2
+    },
+    "136": {
+        "id": 136,
+        "target": 2052,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 8
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2052 times",
+        "dbType": 2
+    },
+    "137": {
+        "id": 137,
+        "target": 2124,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2124 times",
+        "dbType": 2
+    },
+    "138": {
+        "id": 138,
+        "target": 2196,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2196 times",
+        "dbType": 2
+    },
+    "139": {
+        "id": 139,
+        "target": 2268,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2268 times",
+        "dbType": 2
+    },
+    "140": {
+        "id": 140,
+        "target": 2340,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2340 times",
+        "dbType": 2
+    },
+    "141": {
+        "id": 141,
+        "target": 2418,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2418 times",
+        "dbType": 2
+    },
+    "142": {
+        "id": 142,
+        "target": 2496,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2496 times",
+        "dbType": 2
+    },
+    "143": {
+        "id": 143,
+        "target": 2574,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2574 times",
+        "dbType": 2
+    },
+    "144": {
+        "id": 144,
+        "target": 2652,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 9
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2652 times",
+        "dbType": 2
+    },
+    "145": {
+        "id": 145,
+        "target": 2730,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2730 times",
+        "dbType": 2
+    },
+    "146": {
+        "id": 146,
+        "target": 2814,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2814 times",
+        "dbType": 2
+    },
+    "147": {
+        "id": 147,
+        "target": 2898,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2898 times",
+        "dbType": 2
+    },
+    "148": {
+        "id": 148,
+        "target": 2982,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 2982 times",
+        "dbType": 2
+    },
+    "149": {
+        "id": 149,
+        "target": 3066,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 3066 times",
+        "dbType": 2
+    },
+    "150": {
+        "id": 150,
+        "target": 3150,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 3150 times",
+        "dbType": 2
+    },
+    "151": {
+        "id": 151,
+        "target": 3240,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 3240 times",
+        "dbType": 2
+    },
+    "152": {
+        "id": 152,
+        "target": 3330,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 3330 times",
+        "dbType": 2
+    },
+    "153": {
+        "id": 153,
+        "target": 3420,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 3420 times",
+        "dbType": 2
+    },
+    "154": {
+        "id": 154,
+        "target": 3510,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 3510 times",
+        "dbType": 2
+    },
+    "155": {
+        "id": 155,
+        "target": 3600,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 3600 times",
+        "dbType": 2
+    },
+    "156": {
+        "id": 156,
+        "target": 3696,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 3696 times",
+        "dbType": 2
+    },
+    "157": {
+        "id": 157,
+        "target": 3792,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 3792 times",
+        "dbType": 2
+    },
+    "158": {
+        "id": 158,
+        "target": 3888,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 3888 times",
+        "dbType": 2
+    },
+    "159": {
+        "id": 159,
+        "target": 3984,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 3984 times",
+        "dbType": 2
+    },
+    "160": {
+        "id": 160,
+        "target": 4080,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652002,
+                "count": 10
+            }
+        ],
+        "desc": "Kill Scarlet Boss for 4080 times",
+        "dbType": 2
+    }
+}

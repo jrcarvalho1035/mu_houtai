@@ -1,0 +1,967 @@
+{
+    "1": {
+        "id": 1,
+        "title": "",
+        "text": "1. When you reach the related level, you can unlock Personal Boss\n2. Personal Boss can drop gear of various quality of the related level. There is also a chance to drop |C:0x18ff00&T:Epic Gear| and |C:0x18ff00&T:Epic Shard|\n3. Personal Boss challenge attempts are reset at 0:00 daily"
+    },
+    "2": {
+        "id": 2,
+        "title": "",
+        "text": "1. When you reach the related level, you can unlock Server Boss Challenge\n2. Challenging Server Boss has a chance to drop |C:0xFFB82A&T:Epic Gear| and |C:0xFFB82A&T:Epic Shard|\n3. Taking part in the Server Boss challenge grants |C:0xFFB82A&T:Spirit| and |C:0xFFB82A&T:Coin| rewards \n4. The challenge attempt restores by 1 point in every 1 hour. Maximum 10 points"
+    },
+    "5": {
+        "id": 5,
+        "title": "",
+        "text": "Game Announcement_ To enrich the gameplay and player's experience, we have added the following update content for this update: \n|C:0x00ff00&T:\n[Extant Gear]|\n A powerful gear system. Its weapon and outfit have exclusive skills, granting |C:0xff0303&T:ample CP boost| and unique type of |C:0xff0303&T:Sacred Damage|. Collect the whole st to activate |C:0xff0303&T:Unique Appearance Effect|\n\nUnlock Condition:Sserver opened for 15 days and character reached R4\n\nHow to Access: Enter from Main Screen's [Body Cultivation]-[Extant Gear]\n\n|C:0x00ff00&T:\n[Extant Vault]|\n Through Extant Vault, you can gain Extant Gear and Extant Jewel, which can be used to activate and upgrade Extant Gear; Each attempt of raffle increases Luck Points. |C:0xff0303&T:Extant Treasure| is within your hand's reach. Don't forget that there are also weekly attempts rewards to claim! \n\nUnlock Condition: Server opened for 15 days and character reached R4\n\nHow to Access: Enter from [Vault] or [Body Cultivation] in the main screen-[Extant Gear]\n\n|C:0x00ff00&T:\n[Other Optimization]|\n The difficulty of monster siege has been optimized"
+    },
+    "7": {
+        "id": 7,
+        "title": "",
+        "text": "1. Purchasing Month Pass grants you |C:0x00ff00&T:10x |Ingot Rebate \n2. Purchasing Month Pass allows you to claim |C:0x00ff00&T:First Top-up| rewards, which will be counted into |C:0x00ff00&T:VIP Level| Progress\n3. Multiple purchases of Month Pass|C:0x00ff00&T: can accumulate the valid days|"
+    },
+    "9": {
+        "id": 9,
+        "title": "",
+        "text": "1.|C:0x00ff00&T:Every Cosmetic |Stats can be perfectly stacked to the corresponding characters with activated decoration\n2. After a cosmetic with validation expires, the Reinforced stats will no longer be effective"
+    },
+    "10": {
+        "id": 10,
+        "title": "",
+        "text": "|C:0xFFB82A&T:How to Play: |\n1. Event Opening Time: After the server is opened for |C:0x00ff00&T:5 days|or 7 days|C:0x00ff00&T:Every Saturday, from |20:00 to 20:20, the Roland Castle event starts\n2. Roland Valley is divided to 4 scenes|C:0x00ff00&T:Canyon Gate, Bridge of Lament, Castle Outskirt, and Roland Castle|. Player can gain scores when they eliminate enemy guild players or skeleton archers in the scenes. In |C:0x00ff00&T:Castle Outskirt, Roland Castle|, they can gain scores automatically in every 10 seconds\n3. In Roland Castle, there is a |C:0x00ff00&T:Roland Sword| sticking into the stone. After the event starts, the player can attempt to pull the sword out. It will take a long period of time to pull out the sword. During this period, the sword puller gains |C:0x00ff00&T:Sacred Light Shield|. When the shield is broken by enemy player, it will |C:0x00ff00&T:interrupt the sword pulling period|\n|C:0xFFB82A&T:Roland Capture Rules: |\n4. During the event period, the guild that |C:0x00ff00&T:has successfully pulled out the Roland Sword| will become Roland Valley's |C:0xFFB82A&T:occupier|. This action will immediately end the event\n5. During the event period, if no guild succeeded in pulling the sword, the event will end when time expired. The guild with the |C:0x00ff00&T:highest scores| will become the occupier of Roland Valley\n|C:0xFFB82A&T:Rewards Description: |\n6. After the event ends, you can gain rewards when your |C:0x00ff00&T:Personal Scores| reach the designated requirement. The rewards will be issued via mails. The top 5 guilds in the total scores ranking will gain |C:0x00ff00&T:assignable| precious rewards. They can be |C:0x00ff00&T:issubed by the guild leader| to the members\n7. The guild that occupies Roland will receive special honor. They can claim the capture rewards from the Roland Castle War page"
+    },
+    "18": {
+        "id": 18,
+        "title": "",
+        "text": "1. Gear Soul Gather can |C:0x18ff00&T:improve the percentage| of the basic stats of the related part of gear\n2. You can choose multiple types of Soul Gather materials during a Soul Gather, which is related to different Soul Gather success rate \n3. When you performed the Soul Gather successfully, the Soul Gather level of the related gear will increase. If the Soul Gather fail, |C:0x18ff00&T:Soul Gather rank will decrease|"
+    },
+    "19": {
+        "id": 19,
+        "title": "",
+        "text": "1. Spending items to activate Divine Weapon and Star-up can boost ample |C:0x18ff00&T:HP, ATK, Deadly Hit, Deadly DMG Reinforce| stats, greatly boosting the CP\n2. The activation of Divine Weapon, Star-up Materials are mainly gained from Monster Siege\n3. When the divine weapon is upgraded to a certain level, they can also activate powerful skills\n4. Deadly Hit: It ignores target's DEF and deals 120% damage\n5. Deadly DMG Reinforce: The Reinforced damage when deadly hit is triggered"
+    },
+    "20": {
+        "id": 20,
+        "title": "",
+        "text": "|C:0xFFB82A&T:How to Play: |\n1. Event Open Conditions: Monster Seige opens on |C:0x00ff00&T:10:00 - 22:00| daily, the players at |C:0x00ff00&T:Lv.75| and above may participate. \n\n2. Beast Hordes are divided into 3 levels |C:0x00ff00&T:Minions, Elites, and Guards|. The player's ranking will be calculated based on the damage they have dealt. The players of different rank gain different amount of rewards and scores;\n\n3. Boss Attack period is |C:0x00ff00&T:10:00 - 20:00| of every Sunday. During this period, if the boss is eliminated, then the player with |C:0x00ff00&T:No.1 damage| gain the Boss Ownership Rewards. If the boss is not eliminated during this period. The player who has dealt damage and reached the No. 1 rank in the damage ranking will gain ownership rewards. \n\n4. The players who gain the Boss Ownership Rewards will refresh image upon the settlement of Boss. The image will last till |C:0x00ff00&T:22:00|, during this period, the ownership rewards can be looted by other players. The other player only have 1 chance to loot. If the looting fails, all rewards will belong to the ownership player. The ownership player will be guaranteed to have the last 1 of ownership rewards."
+    },
+    "27": {
+        "id": 27,
+        "title": "",
+        "text": "1. Challenging the nearby players and winning grants |C:0x00ff00&T:Coin|, |C:0x00ff00&T:Gear|, |C:0x00ff00&T:Avatar Shard |, |C:0x00ff00&T:Kill Points| and other ample rewards. But it also adds |C:0xff0000&T:25 Fatigue Points|\n2. Successful challenge|C:0x00ff00&T: allows the player to loot a certain amount of |Avatar Shard. Failing the challenge grants a few rewards, while adding |C:0xff0000&T:25 Fatigue Points|\n3. When Fatigue Point reaches |C:0xff0000&T:100|, the player cannot challenge further. The Fatigue Points |C:0x00ff00&T: will reduce by 1 point per minute|\n4. When the player's fatigue points reach |C:0xff0000&T:100|, they can spend diamonds to clear off fatigue points for further challenge. For every |C:0x00ff00&T:10| diamonds, you can clear off |C:0x00ff00&T:25| fatigue points\n5. When there are less than 4 players nearby, 1 opponent will be added in every 1 minute\n6. The more winstreak times you get, the more kill points you can get each time. You can gain |C:0x00ff00&T:Daily Ranking Rewards| based on the kill points you have accumulated. The rewards will be issued at 0:00 daily."
+    },
+    "28": {
+        "id": 28,
+        "title": "",
+        "text": "1. During transformation, |C:0x00ff00&T:Avatar's strength| is improved based on the combination of |C:0x00ff00&T:the stats of the three characters|. The higher the stats of the three characters, the stronger the avatar will be after the transformation. \n2. Avatar's |C:0x00ff00&T:stats provided by activation and upgrade| will be added to |C:0x00ff00&T:the three characters|."
+    },
+    "29": {
+        "id": 29,
+        "title": "",
+        "text": "1. Guild Invasion takes place from |C:0x00ff00&T:09：30| to |C:0x00ff00&T:22：00| daily after it is available. \n2. Each Guild Member can challenge monsters |C:0x00ff00&T:5 times| daily. \n3. The more online members there are in the guild, |C:0x00ff00&T:the higher the chance| for high-quality monsters to be |C:0x00ff00&T:spawned in every half an hour|. \n4. When you successfully challenged the monsters, you will gain ample |C:0x00ff00&T: Guild Funds, Guild Contributions, Lost Scrolls, and Life Stargems|."
+    },
+    "30": {
+        "id": 30,
+        "title": "",
+        "text": "|C:0xFFB82A&T:How to Play: |\n1. Cross-Server Arena plays out every month.The Cross-Server Arena will open on |C:0x00ff00&T:the 1st of |every month. The season ends at |C:0x00ff00&T:22:00| of the last day of the month. \n2. After its opening, the event will be availiable on |C:0x00ff00&T:10:00-22:00| everyday. You can perform matching to fight against players of other servers. \n3. The player can compete against players of other server through Cross-Server Arena. Winner will be granted |C:0x00ff00&T:Cross-server Ranking Scores, Victory Points, and Cross-Server Honor. |\n4. After the settlement of Cross-Server Arena, the player can claim |C:0x00ff00&T:Top 100| or |C:0x00ff00&T:Basic| Rewards at the ranking page. \n5. In Cross-Server Arena Quests, there are three types of rarity: |C:0x00ff00&T:Common, Rare, and Epic|. The completed quest will be refreshed on the next day. The incomplete quest will keep its progress. \n6. The Cross-server Honor can be used to exchange for precious items in Cross-Server Shop."
+    },
+    "31": {
+        "id": 31,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T:Lv.150 (R3)|\n2.|C:0x5ac832&T: The player with ownership attempts| can gain the ownership of the boss by dealing damage to neutral bosses or killing the owner of an owned boss. \n3. When a boss is eliminated, the player with the ownership will gain the Ownership Rewards. The other players |C:0x5ac832&T:have no participation rewards|. \n4. Cross-Server Boss Ownership Attempts resets at 0:00 daily. There are |C:0x5ac832&T:3| attempts daily. If they use up the attempts during the day, they can accumulate it to the next day, maximum |C:0x5ac832&T:9| times. \n5. Cross-server Boss Refresh Time is |C:0x5ac832&T:10| minutes long. Cross-server Soul King Refresh Time is |C:0x5ac832&T:60| minutes long. \n6. If the player is killed, you can spend diamonds to get revived right away, or wait for |C:0x5ac832&T:20| seconds to be revived\n7. If you quit the Dungeon, you need to wait for |C:0x5ac832&T:60| seconds before entering again"
+    },
+    "32": {
+        "id": 32,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T: T3 R4|\n2.|C:0x5ac832&T:The player with ownership attempts|can gain the ownership of the boss by dealing damage to neutral bosses or killing the owner of an owned boss. \n3. When a boss is eliminated, the player with the ownership will gain the Ownership Rewards. The other players |C:0x5ac832&T:have no participation rewards|. \n4. Cross-server Boss Ownership Attempts resets at 0:00 everyday. There are basically |C:0x5ac832&T:3| attempts everyday. If you have unused attempts, it can be accumulated to the next day, maximum |C:0x5ac832&T:6| times. You can use |C:0x5ac832&T:Dark Sacred Rune| to add to the attempts, the|C:0x5ac832&T:attempts added by the items will not be reseted at 00:00|. \n5. Boss will be |C:0x5ac832&T:refreshed on each hour sharp|. When the Boss has no ownership for 10 seconds, they will |C:0x5ac832&T:be healed to max HP automatically|. \n6. If the player is killed, they can spend diamonds to be revived on the spot, or wait for |C:0x5ac832&T:20| seconds. \n7. If you quit the Dungeon, you need to wait for |C:0x5ac832&T:20| seconds before entering again."
+    },
+    "33": {
+        "id": 33,
+        "title": "",
+        "text": "1. To Unlock the Mode: |C:0x5ac832&T:2x R1|\n2. Killing Golden Demon Lord will grant |C:0x5ac832&T: Diamonds and Prisms|\n3. You can get valueable items from Golden Ruins"
+    },
+    "34": {
+        "id": 34,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T:Lv.150 (R1)|\n2. Event Time: |C:0x5ac832&T: 10：00 - 22：00 daily |\n3. Attacking monster groups grants |C:0x5ac832&T:Gem Rewards|\n4. Participation in the attack on Boss every Sunday grants |C:0x5ac832&T:Mysterious Grand Prize|"
+    },
+    "35": {
+        "id": 35,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T: M2 R4|\n2. Event Time: |C:0x5ac832&T: Available all day|\n3. Character |C:0x5ac832&T:doesn't regenerate HP| Extreme Challenge\n4. The more stages you cleared, the more rewards you can gain|C:0x5ac832&T:Secret Pages| await\n5. After clearing the 15th floor of Stealth Tower, the difficulty will be increased, but the rewards increases with the difficulty."
+    },
+    "36": {
+        "id": 36,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T:Lv.1 (R2)|\n2. Event Time: |C:0x5ac832&T: Available all day|\n3. Hire Miner to gather spars\n4. Use diamonds to claim |C:0x5ac832&T:double rewards|\n5. Looting other players to |C:0x5ac832&T:rob resources|"
+    },
+    "37": {
+        "id": 37,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T: M2 R4|\n2. Event Time: Available all day\n3. Fight for the boss ownership, gain |C:0x5ac832&T:Feather Advance Item and Feather Gear|\n4. At the beginning you gain some challenge attempts, and one attempts |C:0x5ac832&T:every 2 hours|."
+    },
+    "38": {
+        "id": 38,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T:Lv.350 (R1)|\n2. Event Time: |C:0x5ac832&T: 10：00 Monday - 22：00 Sunday every week|\n3. Defeat players to increase your Ladder Rank. The higher the rank, the better the rewards\n4. The rewards are settled at 22:30 on Sunday. The rewards are |C:0x5ac832&T:Skill Books|"
+    },
+    "39": {
+        "id": 39,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T:M2 R4|\n2. Event Time: Available all day\n3. During the event, you can only challenge Boss of |C:0x5ac832&T:the related Rebirth level stage|\n4. Fighter for the ownership of Boss, gain |C:0x5ac832&T:ample rewards|"
+    },
+    "40": {
+        "id": 40,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T:M1 R4|\n2. Event Time: |C:0x5ac832&T: 12：30 , 19：00 daily|\n3. During the event period, you can only challenge the boss of |C:0x5ac832&T:the related level stage|\n4. Participation in the attack of World Boss grants ample rewards\n5. Take part in the event to gain |C:0x5ac832&T:Fallen Vestment - Fallen Knight Divine Gear|\n6. If the boss |C:0x5ac832&T:is defeated in 5 minutes|, the Boss's HP will |C:0x5ac832&T:grow| next time; If the Boss |C:0x5ac832&T:is not defeated| within the invasion time. The Boss's HP will |C:0x5ac832&T:reduce| next time"
+    },
+    "41": {
+        "id": 41,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T:Lv.200 (R1)|\n2. Regular Mode: |C:0x5ac832&T: Apart from the first 15 minutes of Competitive Mode, the player can join at any time|\n3. Competitive Mode: |C:0x5ac832&T:12:15-12:25 , 19:30-19:40 daily; |\n4. Defeat player or survive in the center of the map to earn points, winning|C:0x5ac832&T:Scores Rewards|\n5. Try to climb to higher floor to gain |C:0x5ac832&T:Floor Rewards|\n6. The rewards are Merlin Whisper Chest and Merlin Magic Book"
+    },
+    "42": {
+        "id": 42,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T:M3 R3|\n2. Event Time: |C:0x5ac832&T:19：10-19：30 daily|\n3. Defeat players or monsters to gain rewards\n4. Killing the 100th player or monster grants |C:0x5ac832&T:Daily Rewards|, it will also force you to quit from the Dungeon. You can spend Diamonds to purchase additional rewards. There is a chance to gain Advanced Refine Stone\n5. The rewards are |C:0x5ac832&T:Refine Stones|. Killing Elite Monsters will drop Advanced Refine Stone\n6. When you |C:0x5ac832&T:take the least time| to reach the killing amount, you will be ranked first. You can gain special titles when you do that for a certain times\n7. Participation in the event for a certain times also grants you a special title"
+    },
+    "43": {
+        "id": 43,
+        "title": "",
+        "text": "1. To Unlock the Event:|C:0x5ac832&T:Lv.170|\n2. Event Time:|C:0x5ac832&T: 20：00 of every Saturday after server opened for 5 or 7 days |\n3.|C:0x5ac832&T:Join on behalf of your guild| for the castle war. Defeat players of other guilds to gain scores\n4. The guild that successfully pulls out Roland Sword, or the Guild with the highest total scores will win the Castle War \n5. Participation in the event grants |C:0x5ac832&T:Set Enchant Stone and Rare Title|"
+    },
+    "44": {
+        "id": 44,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T:Lv.300 (R3)|\n2. Event Time: |C:0x5ac832&T: Monday 00：00 - Sunday 22：00 every week|\n3. Invite the guild members to clear all stages of Demon Island, winning ample rewards\n4. Assistance also grants you precious items"
+    },
+    "45": {
+        "id": 45,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T:Lv.220 (R1)|\n2. You can challenge Sacred Temple |C:0x5ac832&T:3 times| for free daily. \n3. Rally your teammates to defend |C:0x5ac832&T:Archangel| in the temple against the incoming monsters \n4.|C:0x5ac832&T: The more monsters you eliminate, the more rewards you gain|."
+    },
+    "46": {
+        "id": 46,
+        "title": "",
+        "text": "1. To Unlock the Event: Rebirth Level reaches |C:0x5ac832&T:M1 R2|\n2. You can challenge Dragon Castle |C:0x5ac832&T:3 times| daily for free. \n3. Rally your teammates to fight off the monsters and defeat the final boss |C:0x5ac832&T:Avatar Crawling Dragon|. \n4.|C:0x5ac832&T:The less time you spend in clearing the stage, the more rewards you gain|."
+    },
+    "47": {
+        "id": 47,
+        "title": "",
+        "text": "1. To Unlock the Event: |C:0x5ac832&T:Lv.1(R4)|\n2. Event Time: Available all day. \n3. Singleplayer Dungeon, |C:0x5ac832&T:Extreme Monster Grinding|. \n4.|C:0x5ac832&T: Clear the stage by eliminating all monsters in a limited time|."
+    },
+    "48": {
+        "id": 48,
+        "title": "",
+        "text": "1. You can spend |C:0x5ac832&T:Artifact Upgradore| to upgrade your Artifact\n2. Upgrade can provide |C:0x5ac832&T:Character| with ample stats\n3. Artifact of every appearance share Artifact's upgrade stats\n4. Upgrade to certain level to activate or upgrade Artifact skill"
+    },
+    "49": {
+        "id": 49,
+        "title": "",
+        "text": "1. You can spend the card of Artifact with identical name to activate the Morph Appearance of this Artifact and advance their appearance \n2. Activating and advancing will provide |C:0x5ac832&T:character| with ample stats\n3. Every Appearance of Artifact shares Morph Stats"
+    },
+    "50": {
+        "id": 50,
+        "title": "",
+        "text": "1. There are four types of Artifact Ensoul\n2. You can spend the corresponding Gear Soul to upgrade \n3. The level is limited for Ensoul. After you have reached the limit, you need to increase the character's level to continue the Ensoul\n4. Ensoul can provide the |C:0x5ac832&T:character| with ample stats\n5. Every Appearance of Artifact shares Ensoul stats"
+    },
+    "51": {
+        "id": 51,
+        "title": "",
+        "text": "1. You can spend |C:0x5ac832&T:Fairy Training Stone| to increase the Training EXP \n2. When EXP is full, they will upgrade automatically \n3. Upgrading can provide |C:0x5ac832&T:Fairy and Character| with ample stats\n4. Every appearance of Fairy shares training stats\n5. When you have trained them to a certain level, you can activate or upgrade training skills"
+    },
+    "52": {
+        "id": 52,
+        "title": "",
+        "text": "1. You can spend |C:0x5ac832&T:Fairy Advancore| to increase the Advanced Intimacy \n2. When Intimacy is full, it will automatically advance by one star \n3. After reaching 10 stars, you can advance one more time \n4. Advance allows you to activate new Fairy Appearance\n5. Star-up and Advance can provide |C:0x5ac832&T:Fairy and Character| with ample stats \n6. Every Appearance of Fairy shares Advance Stats \n7. When reached a specific tier and stars, you can activate advanced skills"
+    },
+    "53": {
+        "id": 53,
+        "title": "",
+        "text": "1. You can spend the item of Fairy with identical name to activate the Morph Appearance of this Fairy and star-up their appearance\n2. Activating and performing star-up provide |C:0x5ac832&T:Fairy and Character| with ample stats\n3. Every Appearance of Fairy shares Morph Stats"
+    },
+    "54": {
+        "id": 54,
+        "title": "",
+        "text": "1. There are four types of Fairy Imprints\n2. You can spend the corresponding Imprint to upgrade\n3.Imprint can provide Fairy and Character with ample stats\n4. Every appearance of Fairy share the Imprint stats"
+    },
+    "55": {
+        "id": 55,
+        "title": "",
+        "text": "1. You can spend the item of Fairy Circle with identical name to activate the Morph Appearance of this Circle and advance their appearance\n2.Activating and advancing character can grant ample stats\n3. Every Appearance of Circle shares Morph Stats"
+    },
+    "56": {
+        "id": 56,
+        "title": "",
+        "text": "1. You can spend |C:0x5ac832&T:Wings Upgradore| to level-up Wings\n2. Upgrading provide |C:0x5ac832&T:Character| with ample stats\n3. Every appearance of Wings share the Wings Upgrade stats\n4. Upgrading it to a certain level allows you to activate or upgrade Wings Skills"
+    },
+    "57": {
+        "id": 57,
+        "title": "",
+        "text": "1. You can spend the card of Wings with identical name to activate the Morph Appearance of this Wings and advance their appearance\n2. Activating and advancing provide |C:0x5ac832&T:Character| with ample stats\n3. Every Appearance of Wings shares Morph Stats"
+    },
+    "58": {
+        "id": 58,
+        "title": "",
+        "text": "1. There are four types of Wings Ensoul\n2. You can spend the corresponding Gear Soul to upgrade\n3. There is a level limit for Ensoul. After reaching the limit, you need to increase the character's level to continue the Ensoul\n4.Ensoul can provide |C:0x5ac832&T:Character| with ample stats\n5. Every appearance of Wings share the Ensoul stats"
+    },
+    "59": {
+        "id": 59,
+        "title": "",
+        "text": "1. You can spend |C:0x5ac832&T:Mercenary Training Stone| to increase Training EXP\n2. When EXP is full, training will automatically upgrade\n3. Upgrading can provide |C:0x5ac832&T:Mercenary and Character| with ample stats\n4. Every appearance of Mercenary share the Training stats\n5. When trained it to a certain level, you can activate or upgrade Training Skills"
+    },
+    "60": {
+        "id": 60,
+        "title": "",
+        "text": "1. You can spend |C:0x5ac832&T:Mercenary Advancore| to increase Advanced Intimacy\n2. When Intimacy is full, it will automatically advance by one star\n3. After reaching 10 stars, you can advance one more time\n4. Advance allows you to activate new Mercenary Appearance\n5. Star-up and Advance can provide |C:0x5ac832&T:Mercenary and Character| with ample stats\n6. Every appearance of Mercenary share the Advance stats\n7. After reaches a certain tiers and stars, you can activate Advanced Skills"
+    },
+    "61": {
+        "id": 61,
+        "title": "",
+        "text": "1. You can spend the item of Mercenary with identical name to activate the Morph Appearance of this Mercenary and star-up their appearance\n2. Activating and performing star-up provide |C:0x5ac832&T:Mercenary and Character| with ample stats\n3. Every Appearance of Mercenary shares Morph Stats"
+    },
+    "62": {
+        "id": 62,
+        "title": "",
+        "text": "1. There are four types of Mercenary Imprints\n2. You can spend the corresponding Imprint to upgrade\n3. Imprint can provide Mercenary and Character with ample stats\n4. Every appearance of Mercenary share the Imprint stats"
+    },
+    "63": {
+        "id": 63,
+        "title": "",
+        "text": "1. You can spend the item of Mercenary's Circle with identical name to activate the Morph Appearance of this Circle and advance their appearance\n2.Activating and advancing character can grant ample stats\n3. Every Appearance of Circle shares Morph Stats"
+    },
+    "64": {
+        "id": 64,
+        "title": "",
+        "text": "1. You can spend |C:0x5ac832&T:Divine Gear Upgradore| to increase Divine Gear level\n2. Upgrading can provide |C:0x5ac832&T:Character| with ample stats\n3. Every appearance of Divine Gear share the Divine Gear Upgrade stats\n4. Upgrading it to a certain level allows you to activate or upgrade Divine Gear Skills"
+    },
+    "65": {
+        "id": 65,
+        "title": "",
+        "text": "1. You can spend the card of Divine Gear with identical name to activate the Morph Appearance of this Divine Gear and advance their appearance\n2. Activating and advancing provide |C:0x5ac832&T:Character| with ample stats\n3. Every Appearance of Divine Gear shares Morph Stats"
+    },
+    "66": {
+        "id": 66,
+        "title": "",
+        "text": "1. There are four types of Divine Gear Ensoul\n2. You can spend the corresponding Gear Soul to upgrade\n3. There is a level limit for Ensoul. After reaching the limit, you need to increase the character's level to continue the Ensoul\n4.Ensoul can provide |C:0x5ac832&T:Character| with ample stats\n5. Every appearance of Divine Gear share the Ensoul stats"
+    },
+    "67": {
+        "id": 67,
+        "title": "",
+        "text": "1. You can spend |C:0x5ac832&T:Merlin Book Upgradore| to increase Merlin Book level\n2. Upgrading can provide |C:0x5ac832&T:Character| with ample stats\n3. Every appearance of Merlin Book share the Merlin Book Upgrade stats\n4. Upgrading it to a certain level allows you to activate or upgrade Merlin Book Skills"
+    },
+    "68": {
+        "id": 68,
+        "title": "",
+        "text": "1. You can spend the card of Merlin Book with identical name to activate the Morph Appearance of this Merlin Book and advance their appearance\n2. Activating and advancing provid |C:0x5ac832&T:Character| with ample stats\n3. Every Appearance of Merlin Book shares Morph Stats"
+    },
+    "69": {
+        "id": 69,
+        "title": "",
+        "text": "1. There are four types of Merlin Book Ensoul\n2. You can spend the corresponding Gear Soul to upgrade\n3. There is a level limit for Ensoul. After reaching the limit, you need to increase the character's level to continue the Ensoul\n4.Ensoul can provide |C:0x5ac832&T:Character| with ample stats\n5. Every appearance of Merlin Book share the Ensoul stats"
+    },
+    "70": {
+        "id": 70,
+        "title": "",
+        "text": "1. You can spend |C:0x5ac832&T:Avatar Training Stone| to increase Training EXP\n2. When EXP is full, training will automatically upgrade\n3. Upgrading can provide |C:0x5ac832&T:Avatar and Character| with ample stats\n4. Every appearance of Avatar share the Training stats\n5. When trained it to a certain level, you can activate or upgrade Training Skills"
+    },
+    "71": {
+        "id": 71,
+        "title": "",
+        "text": "1. You can spend |C:0x5ac832&T:Avatar Advancore| to increase Advanced Intimacy\n2. When Intimacy is full, it will automatically advance by one star\n3. After reaching 10 stars, you can advance one more time\n4. Advance allows you to activate new Avatar Appearance\n5. Star-up and Advance can provide |C:0x5ac832&T:Avatar and Character| with ample stats\n6. Every appearance of Avatar share the Advance stats\n7. When it reaches a certain tiers and stars, you can activate Advanced Skills"
+    },
+    "72": {
+        "id": 72,
+        "title": "",
+        "text": "1. You can spend the item of Avatar with identical name to activate the Morph Appearance of this Avatar and star-up their appearance\n2. Activating and performing star-up provide |C:0x5ac832&T:Avatar and Character| with ample stats\n3. Every Appearance of Avatar shares Morph Stats"
+    },
+    "73": {
+        "id": 73,
+        "title": "",
+        "text": "1. There are four types of Avatar Imprints\n2. You can spend the corresponding Imprint to upgrade\n3.Imprint can provide Avatar and Character with ample stats\n4. Every appearance of Avatar share the Imprint stats"
+    },
+    "74": {
+        "id": 74,
+        "title": "",
+        "text": "1. When the tier, star level, and quality of the equipped gear reach the conditions, you can light up the set part. \n2. After the parts are lit up, you can gain the set stats. Lighting up all parts of this set allows you to activate the set skill. \n3. After all parts of the current set are lit up. You can activate the set of the next tier."
+    },
+    "75": {
+        "id": 75,
+        "title": "",
+        "text": "1. Spending |C:0x18ff00&T:Talent Point| allows you to increase Skill Level to boost skill effect \n2. The skill level limit can increase with |C:0x18ff00&T:Soulgear Awaken Level|"
+    },
+    "76": {
+        "id": 76,
+        "title": "",
+        "text": "1. Joining the Dungeon will reduce 1 challenge attempt. \n2. Killing monsters grants Coin. The obtained Coin will be settled upon the end of the challenge. \n3. After the challenge attempts are used up. The player can spend diamond to perform raid. Increasing SVIP level can raise the raid attempts. \n4. The attempts are reset at 0:00 daily."
+    },
+    "77": {
+        "id": 77,
+        "title": "",
+        "text": "1. Joining the Dungeon will reduce 1 challenge attempt. \n2. Killing monsters grants Talent. The obtained Talent will be settled upon the end of the challenge. \n3. After the challenge attempts are used up. The player can spend diamond to perform raid. Increasing SVIP level can raise the raid attempts. \n4. The attempts are reset at 0:00 daily."
+    },
+    "78": {
+        "id": 78,
+        "title": "",
+        "text": "1. Joining the Dungeon will reduce 1 challenge attempt. \n2. The higher the floors you have challenged, the ampler the rewards. There is a chance to gain Fairy Advancore. \n3. After the challenge attempts are used up. The player can spend diamond to perform raid. Increasing SVIP level can raise the raid attempts. \n4. The attempts are reset at 0:00 daily."
+    },
+    "79": {
+        "id": 79,
+        "title": "",
+        "text": "1. Joining the Dungeon will reduce 1 challenge attempt. \n2. The higher the floors you have challenged, the ampler the rewards. There is a chance to gain Mercenary Advancore. \n3. After the challenge attempts are used up. The player can spend diamond to perform raid. Increasing SVIP level can raise the raid attempts. \n4. The attempts are reset at 0:00 daily."
+    },
+    "80": {
+        "id": 80,
+        "title": "",
+        "text": "1. Joining the Dungeon will reduce 1 challenge attempt. \n2. The higher the floors you have challenged, the ampler the rewards. There is a chance to gain Avatar Advancore. \n3. After the challenge attempts are used up. The player can spend diamond to perform raid. Increasing SVIP level can raise the raid attempts. \n4. The attempts are reset at 0:00 daily."
+    },
+    "81": {
+        "id": 81,
+        "title": "",
+        "text": "1. Joining the Dungeon will reduce 1 challenge attempt. \n2. The higher the floors you have challenged, the ampler the rewards. There is a chance to gain Command Gear Soul. \n3. After the challenge attempts are used up. The player can spend diamond to perform raid. Increasing SVIP level can raise the raid attempts. \n4. The attempts are reset at 0:00 daily."
+    },
+    "82": {
+        "id": 82,
+        "title": "",
+        "text": "1. Joining the Dungeon will reduce 1 challenge attempt. \n2. The higher the floors you have challenged, the ampler the rewards. There is a chance to gain Thunder Wings Soul. \n3. After the challenge attempts are used up. The player can spend diamond to perform raid. Increasing SVIP level can raise the raid attempts. \n4. The attempts are reset at 0:00 daily."
+    },
+    "83": {
+        "id": 83,
+        "title": "",
+        "text": "1. Joining the Dungeon will reduce 1 challenge attempt. \n2. The higher the floors you have challenged, the ampler the rewards. There is a chance to gain Sage Armor Soul. \n3. After the challenge attempts are used up. The player can spend diamond to perform raid. Increasing SVIP level can raise the raid attempts. \n4. The attempts are reset at 0:00 daily."
+    },
+    "84": {
+        "id": 84,
+        "title": "",
+        "text": "1. Joining the Dungeon will reduce 1 challenge attempt. \n2. The higher the floors you have challenged, the ampler the rewards. There is a chance to gain Legendary Book Soul. \n3. After the challenge attempts are used up. The player can spend diamond to perform raid. Increasing SVIP level can raise the raid attempts. \n4. The attempts are reset at 0:00 daily."
+    },
+    "85": {
+        "id": 85,
+        "title": "",
+        "text": "1. The higher the gear tier, the higher the training limit for the gear. \n2. Improving with diamonds grants higher CP."
+    },
+    "86": {
+        "id": 86,
+        "title": "",
+        "text": "1. You can top up to gain ample Vouchers. The Voucher can be used in Voucher Draw or used in Mystery Shop to exchange for superb items. \n2. There is limit for the gifted Vouchers from the daily Top-up.You cannot get more Vouchers even if you continue Top-up if you reached the limit. \n3. At 0:00 daily, the Voucher amount gifted from the Top-up yesterday will be reset and be recalculated. \n4. The daily Voucher limit for SVIP5 or below is |C:0x5ac832&T:20000|\n5. The daily Voucher limit of SVIP6 is |C:0x5ac832&T:25000|\n6. The daily Voucher limit of SVIP7 is |C:0x5ac832&T:35000|\n7. The daily Voucher limit of SVIP8 and above is |C:0x5ac832&T:50000|"
+    },
+    "87": {
+        "id": 87,
+        "title": "",
+        "text": "1. In Avatar Mode, increase |C:0x18ff00&T:Avatar CP| to fight for rank and win the prize. \n2. Avatar CP can be increased through |C:0x18ff00&T:[Avatar Training], [Avatar Morph], [Avatar Imprint], [Avatar's Circle]|. \n3. The related training materials can be purchased directly from the various events of the day."
+    },
+    "88": {
+        "id": 88,
+        "title": "",
+        "text": "1. In Mercenary Mode, increase |C:0x18ff00&T:Mercenary CP| to fight for rank and win the prize. \n2. Mercenary CP can be increased through |C:0x18ff00&T:[Mercenary Training], [Mercenary Morph], [Mercenary Imprint], [Mercenary's Circle]|. \n3. The related training materials can be purchased directly from the various events of the day."
+    },
+    "89": {
+        "id": 89,
+        "title": "",
+        "text": "1. In Artifact Mode, increase |C:0x18ff00&T:Artifact CP| to fight for rank and win the prize. \n2. Artifact CP can be increased through |C:0x18ff00&T:[Artifact Upgrade], [Artifact Morph], [Artifact Ensoul]|. \n3. The related training materials can be purchased directly from the various events of the day."
+    },
+    "90": {
+        "id": 90,
+        "title": "",
+        "text": "1. In Wings Mode, increase |C:0x18ff00&T:Wings CP| to fight for rank and win the prize. \n2. Wings CP can be increased through |C:0x18ff00&T:[Wings Upgrade], [Wings Morph], [Wings Ensoul]|. \n3. The related training materials can be purchased directly from the various events of the day."
+    },
+    "91": {
+        "id": 91,
+        "title": "",
+        "text": "1. In Fairy Mode, increase |C:0x18ff00&T:Fairy CP| to fight for rank and win the prize. \n2. Fairy CP can be increased through |C:0x18ff00&T:[Fairy Training], [Fairy Morph], [Fairy Imprint], [Fairy's Circle]|. \n3. The related training materials can be purchased directly from the various events of the day."
+    },
+    "92": {
+        "id": 92,
+        "title": "",
+        "text": "1. In Divine Gear Mode, increase |C:0x18ff00&T:Divine Gear CP| to fight for rank and win the prize. \n2. Divine Gear CP can be increased through |C:0x18ff00&T:[Divine Gear Upgrade], [Divine Gear Morph], [Divine Gear Ensoul]|. \n3. The related training materials can be purchased directly from the various events of the day."
+    },
+    "93": {
+        "id": 93,
+        "title": "",
+        "text": "1. In Merlin Mode, increase |C:0x18ff00&T:Merlin CP| to fight for rank and win the prize. \n2. Merlin CP can be increased through |C:0x18ff00&T:[Merlin Upgrade], [Merlin Morph], [Merlin Ensoul]|. \n3. The related training materials can be purchased directly from the various events of the day."
+    },
+    "94": {
+        "id": 94,
+        "title": "",
+        "text": "1. During the event, player can join in the |C:0x18ff00&T:Class's CP| Ranking. \n2. Upon the end of the event, |C:0x18ff00&T:the player with the top CP| can gain the exclusive appearance weapon of the corresponding class."
+    },
+    "95": {
+        "id": 95,
+        "title": "",
+        "text": "1. After activating Premium Privilege, the player can perform auto challenge: when the player is online and is in the AFK scene, the player will automatically challenge the followed Temple Boss upon their revival. \n2. Upon entering Boss Temple Challenge, if the challenged Boss is killed and player gained the ownership. It will remain there until the chest disappeared. After the chest disappeared, it will check if there are other surviving followed Boss at the current floor. If yes, then they will automatically go there to challenge them. If no, then the player will leave Boss Temple after 5s. \n3. Upon entering Auto Boss Challenge, if the challenged Boss is killed but player failed to gain ownership. It will check if there are other surviving followed Boss at the current floor. If yes, then they will automatically go there to challenge them. If no, then the player will leave Boss Temple after 5s. \n4. If the player enters the Boss Temple actively themselves, they will not leave automatically. \n5. In Boss Temple, the player can pick a player themselves for PvP or actively pick a Boss to attack, they will not automatically leave the Boss temple"
+    },
+    "96": {
+        "id": 96,
+        "title": "",
+        "text": "1. There is requirments for Boss temple entrance. You need to meet the Rebirth conditions before entering the related floor. You can enter for free with sufficient SVIP levels. \n2. If you failed to meet the SVIP level required for the floor, you can spend Vouchers to enter. \n3. When you spend Vouchers to enter the Boss temple, you will automatically leave the Dungeon if you died in the Boss Temple. \n4. The first player to attack the Boss will get the ownership. When this player is killed or is too far away from the boss, the ownership will be transferred to other player who deals the highest damage to the Boss. \n5. After killing the Boss, the owner can spend diamonds or Premium Key to unlock |C:0x18ff00&T:Dropped Chests| for Superb Rewards. \n6. When the Character Rebirth level exceeds a certain level, killing this boss will not drop rewards. \n7. After a player is killed by the Boss or the other players, they will wait to be respawned at the spawn point, or spend diamonds to be revived on the same spot."
+    },
+    "97": {
+        "id": 97,
+        "title": "",
+        "text": "1. Spike Rank is a ranking event that rank the spending amount of |C:0x18ff00&T:Specific Items|. \n2. For every 1 corresponding item spent, the player gains |C:0x18ff00&T:10 points|. \n3. The player can be admitted to the ranking with a certain amount of points. The players on the ranking will gain ranking rewards. \n4. When there are multiple players with the same amount of points, they'll be ranked according to the time they reached this points. \n5. The ranking will be settled at 23:00. The ranking rewards will be sent via mails. \n6. The player can claim the corresponding rewards when their points reached a certain level."
+    },
+    "98": {
+        "id": 98,
+        "title": "",
+        "text": "1. Spike Rank is a ranking event that rank the spending amount of |C:0x18ff00&T:Specific Items|. \n2. For every 1 corresponding item spent, the player gains |C:0x18ff00&T:10 points|. \n3. The player can be admitted to the ranking with a certain amount of points. The players on the ranking will gain ranking rewards. \n4. When there are multiple players with the same amount of points, they'll be ranked according to the time they reached this points. \n5. The ranking will be settled at 23:00. The ranking rewards will be sent via mails. \n6. The player can claim the corresponding rewards when their points reached a certain level."
+    },
+    "99": {
+        "id": 99,
+        "title": "",
+        "text": "1. Spike Rank is a ranking event that rank the spending amount of |C:0x18ff00&T:Specific Items|. \n2. For every 1 corresponding item spent, the player gains |C:0x18ff00&T:10 points|. \n3. The player can be admitted to the ranking with a certain amount of points. The players on the ranking will gain ranking rewards. \n4. When there are multiple players with the same amount of points, they'll be ranked according to the time they reached this points. \n5. The ranking will be settled at 23:00. The ranking rewards will be sent via mails. \n6. The player can claim the corresponding rewards when their points reached a certain level."
+    },
+    "100": {
+        "id": 100,
+        "title": "",
+        "text": "1. Spike Rank is a ranking event that rank the spending amount of |C:0x18ff00&T:Specific Items|. \n2. For every 1 corresponding item spent, the player gains |C:0x18ff00&T:10 points|. \n3. The player can be admitted to the ranking with a certain amount of points. The players on the ranking will gain ranking rewards. \n4. When there are multiple players with the same amount of points, they'll be ranked according to the time they reached this points. \n5. The ranking will be settled at 23:00. The ranking rewards will be sent via mails. \n6. The player can claim the corresponding rewards when their points reached a certain level."
+    },
+    "101": {
+        "id": 101,
+        "title": "",
+        "text": "1. Spike Rank is a ranking event that rank the spending amount of |C:0x18ff00&T:Specific Items|. \n2. For every 1 corresponding item spent, the player gains |C:0x18ff00&T:10 points|. \n3. The player can be admitted to the ranking with a certain amount of points. The players on the ranking will gain ranking rewards. \n4. When there are multiple players with the same amount of points, they'll be ranked according to the time they reached this points. \n5. The ranking will be settled at 23:00. The ranking rewards will be sent via mails. \n6. The player can claim the corresponding rewards when their points reached a certain level."
+    },
+    "102": {
+        "id": 102,
+        "title": "",
+        "text": "1. Spike Rank is a ranking event that rank the spending amount of |C:0x18ff00&T:Specific Items|. \n2. For every 1 corresponding item spent, the player gains |C:0x18ff00&T:10 points|. \n3. The player can be admitted to the ranking with a certain amount of points. The players on the ranking will gain ranking rewards. \n4. When there are multiple players with the same amount of points, they'll be ranked according to the time they reached this points. \n5. The ranking will be settled at 23:00. The ranking rewards will be sent via mails. \n6. The player can claim the corresponding rewards when their points reached a certain level."
+    },
+    "103": {
+        "id": 103,
+        "title": "",
+        "text": "1. Spike Rank is a ranking event that rank the spending amount of |C:0x18ff00&T:Specific Items|. \n2. For every 1 corresponding item spent, the player gains |C:0x18ff00&T:10 points|. \n3. The player can be admitted to the ranking with a certain amount of points. The players on the ranking will gain ranking rewards. \n4. When there are multiple players with the same amount of points, they'll be ranked according to the time they reached this points. \n5. The ranking will be settled at 23:00. The ranking rewards will be sent via mails. \n6. The player can claim the corresponding rewards when their points reached a certain level."
+    },
+    "104": {
+        "id": 104,
+        "title": "",
+        "text": "1. Eexploration event will be triggered daily from time to time! \n2. Completion of Exploration event will cost stamina points. \n3. Stamina points will be reset at 0:00 daily. \n4. Completion of exploration event will grant ample rewards and exploration points! \n5. The Exploration Points can be used to redeem various precious items! \n6. After Exploration Event triggered, they will not disappear. The player can accumulate up to 4 Exploration Events at the same time. Remember to complete them in time."
+    },
+    "105": {
+        "id": 105,
+        "title": "",
+        "text": "1. Each season will |C:0x18ff00&T:last for 28 days|. \n2. Each round of Stage Quest in the season will |C:0x18ff00&T:last for 7 days|. \n3. Through completion of |C:0x18ff00&T:Warrior Quests|, the player can gain EXP to increase level. When they reach a specific level, they can claim |C:0x18ff00&T:Superb Rewards|. \n4. In each stage, there is a |C:0x18ff00&T:Time Limit| for the quests available. They cannot be completed again if the time expire. \n5. After purchasing |C:0x18ff00&T:Warrior Badge|, the player can also gain |C:0x18ff00&T:all rewards| of the accomplished level upon unlocking Badges. Each stage will grant |C:0x18ff00&T:Extra Badge EXPs|. \n6. Each Badge EXP includes |C:0x18ff00&T:1500 EXP|. After purchasing Badges, the player can claim once each stage. It will be reset upon the end of season. Please claim them in time. \n7. After the end of the season, the Warrior Badge level of this season and the purchase status of Warrior Badge will be |C:0x18ff00&T:reset|. Please complete the quest of this season in time and claim the rewards."
+    },
+    "106": {
+        "id": 106,
+        "title": "",
+        "text": "1. You need to activate the footprint to equip Gadgets\n2. Each footprint features |C:0x18ff00&T:5| Gadget Parts for you to equip. Increasing Gadget Level can increase your stats and CP \n3. You need to spend a corresponding amount of belief to increase the Gadget level\n4. The Gadget equipped on each part is fixed and cannot be replaced or unequipped\n5. When all |C:0x18ff00&T:5| Gadgets reach a certain level, you can activate skills"
+    },
+    "107": {
+        "id": 107,
+        "title": "",
+        "text": "1.|C:0x18ff00&T:Season Time| from Monday to Sunday 22:30. \n2.|C:0x18ff00&T:Settlement Time: | 22:40 of every Sunday. \n|C:0x16b2ff&T:Treasure Escort|\n1. After the season starts, the guild member can sign up to escort the guild treasure. Each player can escort treasure 2 times daily. \n2. There are 3 time periods for Treasure Escort daily in the season|C:0x18ff00&T:First Time: 11:00-12:00; Second Time: 18:00-19:00; Third Time: 21:30-22:30. |\n3.|C:0x18ff00&T:The more players there are to escort the treasure, the higher the level of the treasure, and the ampler the rewards. |\n4. If the player doesn't register in later time within the season, the system will perform the treasures escort based on the first registration in this season. \n5. The guild members who take part in the escort will gain |C:0x18ff00&T:Personal Scores and Guild Score Rewards when the treasure arrives at the destination. |\n|C:0x16b2ff&T:Loot Treasure|\n1. Log in to the game to get 4 |C:0x18ff00&T:Loot Tokens| each day, which will be cleared off at the end of the season. \n2. Spending Loot Tokens to loot other guild's treasures, granting |C:0x18ff00&T:Personal Scores|, |C:0x18ff00&T:Dragon Darknite| and other rewards. \n3. Looting is a consecutive battle. The player needs to defeat all treasure guards to take down the treasure. Taking down a treasure grants |C:0x18ff00&T:Guild Scores|. \n4. When the treasure cannot be taken down successfully in the loot battle, |C:0x18ff00&T:the remaining guards of this treasure will not restore HP|, until it can be taken down again. \n5. When multiple players attack the same treasure, then |C:0x18ff00&T:the first player who took down| in a set time will gain the take-down rewards. The other take-down players will gain |C:0x18ff00&T:victory rewards|. \n6. Each run of treasure can only be taken down up to 4 times. Each time after it is taken down, |C:0x18ff00&T:the guard status will be refreshed, and the guard CP will be boosted. |\n7. Upon the end of the season, the |C:0x18ff00&T:Personal Ranking Rewards| and |C:0x18ff00&T:Guild Ranking Rewards| will be issued respectively based on the personal scores and guild scores ranking. The rewards will be issued via mails. \n|C:0x16b2ff&T:Ranking Rewards|\n1. Upon the end of the season, the rewards will be issued to personal scores and guild scores ranking via mails. \n2. Guild Rewards: |C:0x18ff00&T:Diamonds and Dragon Darknite Rewards will be evenly spread among the participated members|. The titles and chests will be granted to all members. \n3. Personal Rewards: The personal ranking will grant ample |C:0x18ff00&T:Dragon Darknite|, the higher the rank, the greater the rewards."
+    },
+    "108": {
+        "id": 108,
+        "title": "",
+        "text": "1. During the event period, players can spend different |C:0x18ff00&T:Items| to gain different amounts of Banquet. \n2. You can use Green Riceball to raise |C:0x18ff00&T:10 points| of Banquet. You can use Date Cake to raise |C:0x18ff00&T:20 points| of Banquet. Using Sticky Rice will grant |C:0x18ff00&T:50 points| of Banquet. Meanwhile, it will raise the progress of Qingming Banquet event. When the |C:0x18ff00&T:progress is full|, players can tap to use Banquet Blessing to boost ample Banquet. \n3. The added Banquet will be added to the current round of Banquet and the Server Banquet. \n4. When Server Banquet is full, |C:0x18ff00&T:it will unlock the next round of Qingming Banquet|, players' Banquet of the current round will be reset meanwhile.\n5. A |C:0x18ff00&T:Banquet Master| will stand out every round, the player whose Banquet |C:0x18ff00&T:ranking No.1| in the current round of Qingming Banquet will get the rewards. The rewards will be sent to players via mail upon the refresh of the current round. \n6. The event will be divided into two stages. The first stage is from |C:0x18ff00&T:Mar 31 to Apr 2| and the second is from |C:0x18ff00&T:Apr 3 to Apr 6|, the rewards will be issued via mail based on the ranking upon the end of each stage. \n"
+    },
+    "109": {
+        "id": 109,
+        "title": "",
+        "text": "1. Banquet Ranking is an event that uses |C:0x13ee22&T:Specific Items|. \n2. For every 1 |C:0x13ee22&T:Green Riceball| used, it grants |C:0x13ee22&T:10 points of Banquet|; for every 1 |C:0x13ee22&T:Date Cake| used, it grants |C:0x13ee22&T:20 points of Banquet|; For every 1 |C:0x13ee22&T:Sticky Rice| used, it grants |C:0x13ee22&T:50 points of Banquet|. \n3. Players can be listed on the Ranking when their Banquet reaches a certain amount. The players on the Rank will gain ranking rewards. \n4. When there are multiple players with the same amount of Banquet, the first player who reaches that amount will be ranked first. \n5. When reaching a certain amount of Banquet, players can claim the related rewards. \n6. The event will be divided into two stages. The first stage is from |C:0x18ff00&T:Mar 31 to Apr 2| and the second is from |C:0x18ff00&T:Apr 3 to Apr 6|, the rewards will be issued via mail based on the ranking upon the end of each stage.\n"
+    },
+    "110": {
+        "id": 110,
+        "title": "[Willow Branch]",
+        "text": "You can obtain the item [Willow] through the following methods: \n1. Boss Mode: Solo Boss, Multi Boss, Temple Boss, Cross-server Boss, Boss Homestead, Cross-Server Boss Homestead. \n2. Other Modes: Demon Plaza, Explore Quests."
+    },
+    "111": {
+        "id": 111,
+        "title": "[Kite]",
+        "text": "You can obtain the item [Kite] through the following methods: \n1. Obtain from [Spring total top-up] event."
+    },
+    "112": {
+        "id": 112,
+        "title": "",
+        "text": "1. Activate |C:0x00ff00&T:6| different imprints to activate cool weapon |C:0x00ff00&T:Spirit Appearance|. \n2. Imprint can be acquired from challenging stages in |C:0x00ff00&T:Extreme Altar|."
+    },
+    "113": {
+        "id": 113,
+        "title": "",
+        "text": "1. The player will fight |C:0x00ff00&T:individually| everyday, they can gain scores by |C:0x00ff00&T:killing other players|. \n2. In Competitive Mode, the players who stay in the central area will gain |C:0x00ff00&T:higher amount of scores|. \n3. Competitive Mode Time: |C:0x00ff00&T:12:15 - 12:25 19:30-21:25|\n4. When you have reached a certain level of scores, you can challenge |C:0x00ff00&T:higher floors. In Competitive Mode, the scores earned from staying in the central will increase as the floor number increases. \n5. Elimination of monsters and players, or being eliminated will all grant |C:0x00ff00&T:scores|. \n6. When you reach the target point value, you can claim |C:0x00ff00&T:Stage Rewards|. You can reach the next floor after claiming them."
+    },
+    "114": {
+        "id": 114,
+        "title": "",
+        "text": "1.|C:0x18ff00&T:Season Time| from Monday to Sunday 22:00. \n2.|C:0x18ff00&T:Settlement Time: | 22:40 of every Sunday. \n|C:0x16b2ff&T:Treasure Escort|\n1. After the season starts, the guild member can sign up to escort the guild treasure. Each player can escort treasure 2 times daily. \n2. There are 3 time periods for Treasure Escort daily in the season|C:0x18ff00&T:First Time: 11:00-12:00; Second Time: 19:00-20:00; Third Time: 21:30-22:30. |\n3.|C:0x18ff00&T:The more players there are to escort the treasure, the higher the level of the treasure, and the ampler the rewards. |\n4. If the player doesn't register in later time within the season, the system will perform the treasures escort based on the first registration in this season. \n5. The guild members who take part in the escort will gain |C:0x18ff00&T:Personal Scores and Guild Score Rewards when the treasure arrives at the destination. |\n|C:0x16b2ff&T:Loot Treasure|\n1. Log in to the game to get 4 |C:0x18ff00&T:Loot Tokens| each day, which will be cleared off at the end of the season. \n2. Spending Loot Tokens to loot other guild's treasures, granting |C:0x18ff00&T:Personal Scores|, |C:0x18ff00&T:Dragon Darknite| and other rewards. \n3. Looting is a consecutive battle. The player needs to defeat all treasure guards to take down the treasure. Taking down a treasure grants |C:0x18ff00&T:Guild Scores|. \n4. When the treasure cannot be taken down successfully in the loot battle, |C:0x18ff00&T:the remaining guards of this treasure will not restore HP|, until it can be taken down again. \n5. When multiple players attack the same treasure, then |C:0x18ff00&T:the first player who took down| in a set time will gain the take-down rewards. The other take-down players will gain |C:0x18ff00&T:victory rewards|. \n6. Each run of treasure can only be taken down up to 4 times. Each time after it is taken down, |C:0x18ff00&T:the guard status will be refreshed, and the guard CP will be boosted. |\n7. Upon the end of the season, the |C:0x18ff00&T:Personal Ranking Rewards| and |C:0x18ff00&T:Guild Ranking Rewards| will be issued respectively based on the personal scores and guild scores ranking. The rewards will be issued via mails. \n|C:0x16b2ff&T:Ranking Rewards|\n1. Upon the end of the season, the rewards will be issued to personal scores and guild scores ranking via mails. \n2. Guild Rewards: |C:0x18ff00&T:Diamonds and Dragon Darknite Rewards will be evenly spread among the participated members|. The titles and chests will be granted to all members. \n3. Personal Rewards: The personal ranking will grant ample |C:0x18ff00&T:Dragon Darknite|, the higher the rank, the greater the rewards."
+    },
+    "115": {
+        "id": 115,
+        "title": "",
+        "text": "1. Event Time: |C:0x00ff00&T: 12:00-12:15|\n2. Enter the War Zone to |C:0x00ff00&T:gather Chests| for ample rewards during the event. \n3. There is a daily chest gathering limit. You cannot gain more rewards when reached the limit."
+    },
+    "116": {
+        "id": 116,
+        "title": "[Warrior Token]",
+        "text": "You can obtain the item [Warrior Token] through the following methods: \n1. Boss Mode: Solo Boss, Multi Boss, Temple Boss, Cross-server Boss, Boss Homestead, Cross-Server Boss Homestead. \n2. Other Modes: Demon Plaza, Explore Quests."
+    },
+    "117": {
+        "id": 117,
+        "title": "[Revelry Voucher]",
+        "text": "You can obtain the item [Revelry Voucher] through the following methods: \n1. Obtain from [Merging total top-up] event."
+    },
+    "118": {
+        "id": 118,
+        "title": "",
+        "text": "|C:0x16b2ff&T:Event Time|\n1. After server opening, |C:0x18ff00&T:at 20:00-20:30 on the third day|, an event is guaranteed to be held\n2. Seven days after server opening, |C:0x18ff00&T:20:00-20:30 of every Saturday|\n|C:0x16b2ff&T:Registration Time|\n1. The first day to the second day after server opening, |C:0x18ff00&T:19:30|\n2. Seven days after server opening, |C:0x18ff00&T:0:00 of every Monday to 19:30 of every Saturday|\n|C:0x16b2ff&T:Entry Time|\n1. Entry Time of the first round |C:0x18ff00&T:20:00|\n2. Entry time of the second round |C:0x18ff00&T:20:15|\n|C:0x16b2ff&T:Game Time|\n1. Game Time of the first round|C:0x18ff00&T:20:05-20:15|\n2. Game time of the second round|C:0x18ff00&T:20:20-20:30|"
+    },
+    "119": {
+        "id": 119,
+        "title": "",
+        "text": "|C:0x16b2ff&T:Event Registration|\n1. During the registration period, every Guild can |C:0x18ff00&T:register| at the event page \n2. In a guild, only |C:0x18ff00&T:Guild Leader| and |C:0x18ff00&T:Vice Leader| can register for the territory \n3. After a territory is registered, |C:0x18ff00&T:Guild Total CP will be subject to ranking| to determine the ranking of territory \n4. During this period, the player can try raising the total CP of the guild to increase the ranking \n5. You can register for any territory, but |C:0x18ff00&T:only one territory can be registered|\n6. After the registration, the player can choose to cancel the registration\n7.|C:0x18ff00&T:Cancellation of registration| can only be performed by Guild Leader or Vice Leader\n8. After the registration, the guild CP in the territory will |C:0x18ff00&T:refresh at a fixed time|. The player needs to pay attention to the changes of the ranking \n9. During the registration period, the guild CP and ranking status will be refreshed during |C:0x18ff00&T:10:00 to 22:00 daily| \n10. 1 hour before the game starts, the guild CP and ranking status will be refreshed in |C:0x18ff00&T:every 5 minutes|"
+    },
+    "120": {
+        "id": 120,
+        "title": "",
+        "text": "|C:0x16b2ff&T:Event Entry|\n1. After the registration status ends, the system will choose |C:0x18ff00&T:4 Guild with the highest total CP| to join the game based on the registration\n2. Raise the guild's |C:0x18ff00&T:total CP| can quickly raise the guild ranking, boosting the chance to be qualified \n|C:0x16b2ff&T:Match Rules|\n1. The qualified Guilds will be randomly matched with each other in the first round. If there is a bye, then the guild will be promoted directly \n2. The winner team and the defeated team will be settled from the first round. They will fight against each other in the second round to settle the 1st - 4th place\n3. During the competition, |C:0x18ff00&T:the more guild members participating the game, |the more advantageous this guild will be at the competition\n|C:0x16b2ff&T:Enter Battlefield|\n1. Confirm the participating guild. The entry lasts until the battle starts. Login to the game, select |C:0x18ff00&T:[Enter Battlefield]| button from the pop-up quick page to quickly enter the battlefield\n2. The player can also enter the battlefield through entering the page from the guild screen\n3. After entering the battlefield, the players can communicate with each other beforehand during the |C:0x18ff00&T:preparation time| to deploy their strategy \n4. Quitting the battlefield half way requires them to |C:0x18ff00&T:cool down for a certain amount of time| before entering again"
+    },
+    "121": {
+        "id": 121,
+        "title": "",
+        "text": "|C:0x16b2ff&T:Betting Mode|\n1. Among the |C:0x18ff00&T:6 Territories|, select which qualified guild will be the |C:0x18ff00&T:No.1 in the territory| in the future\n2. |C:0x18ff00&T:Choose one guild| for each territory \n3. Performing betting requires you to |C:0x18ff00&T:spend a certain amount of diamonds|\n4. When there is only one guild in a territory, they will not be shown in the betting list \n|C:0x16b2ff&T:Betting Rewards|\n1. Upon the end of the event, player who won the bet will receive |C:0x18ff00&T:double diamond rewards| via mails\n2. For those players who failed the betting, their funds used for the betting will be |C:0x18ff00&T:fully returned| via mails"
+    },
+    "122": {
+        "id": 122,
+        "title": "",
+        "text": "|C:0x16b2ff&T:Dungeon Mode|\n1. On the beginning, the members of both sides can move freely to |C:0x18ff00&T:fight against each other freely| in the Dungeon. Eliminating the enemy will gain |C:0x18ff00&T:Personal Points|. Getting Killstreaks and Terminating other player's killstreak will grant extra points \n2. There is a minion spawn point to the right side of the spawn point. Killing the minions will grant |C:0x18ff00&T:a few points|\n3. Both sides of factions have a |C:0x18ff00&T:Guardian Angel|. The players can choose to defend or attack them. Killing enemy guardian angel grants |C:0x18ff00&T:ample points|. The guardian has a revival time that lasts for |C:0x18ff00&T:1 minute| \n4. There is a neutral boss in the middle of the Dungeon, the faction who delivers the |C:0x18ff00&T:final blow| to kill the boss will gain |C:0x18ff00&T:massive points|. After the boss is killed, it takes |C:0x18ff00&T:2 minutes| for the boss to respawn\n5. |C:0x18ff00&T:The higher the quality| of the Territory War Level, |C:0x18ff00&T:the higher the scores you can gain| from killing players, monsters, neutral bosses, and guardians\n|C:0x16b2ff&T:Combat Inspiration|\n1. In a game, members of both sides can perform |C:0x18ff00&T:Combat Inspiration| to boost the CP in the Dungeon\n2. Personal Inspiration |C:0x18ff00&T:costs diamonds|, which can boost the player's own CP \n3. Guild Inspiration |C:0x18ff00&T:costs Voucher|, which boost the stats of every member of the guild \n|C:0x16b2ff&T:Victory Conditions|\n1. Reaching the victory points first within the game time \n2. The side with the highest scores until the end of the game will win \n|C:0x16b2ff&T:MVP of the Game|\n1. In the Victory Settlement page, the winning guild player with the highest scores will be the |C:0x18ff00&T:Vicotry MVP|\n2. In the defeat settlement page, the defeated guild player with the highest scores will be the |C:0x18ff00&T:Defeated MVP|"
+    },
+    "123": {
+        "id": 123,
+        "title": "",
+        "text": "|C:0x16b2ff&T:Basic Rewards|\n1. There will be different rewards based on the quality of the territory and the final ranking. There are superb rewards like |C:0x18ff00&T:Time-limited Buff, Titles, Guild Contributions, and Diamonds|. \n2. After the top 4 places of the territory are settled, the territory members can claim |C:0x18ff00&T:Daily Rewards. |\n3. The top 4 guilds of each territory will receive one chance to issue red packets. Different amount of diamonds will be rewarded based on the different territories and ranking, performing |C:0x18ff00&T:Grab Red Packet| allows you to claim ample diamonds."
+    },
+    "124": {
+        "id": 124,
+        "title": "",
+        "text": "|C:0x16b2ff&T:Worship Lord|\n1. After the game ends, |C:0x18ff00&T:Lord Champion| will appear in the battlefield, allowing the players to worship. \n2.|C:0x18ff00&T:Worshipping champion lord| grants ample diamond rewards. \n3. The player can perform Championship Worshipping |C:0x18ff00&T:3 times| daily."
+    },
+    "125": {
+        "id": 125,
+        "title": "",
+        "text": "|C:0xFFB82A&T:Opening Time: |\n1. Event Start Time: On |C:0x00ff00&T:the 8th day| after the server opens, it is available during |C:0x00ff00&T:20:00 to 20:30|. \n2. The event will not be available on |C:0x00ff00&T:every Saturday|. Double Scores on |C:0x00ff00&T:every Sunday|. \n|C:0xFFB82A&T:How to Play: |\n1. Avatar War is a |C:0x00ff00&T:4v4| Team Battle. Both teams will have 4 rounds of |C:0x00ff00&T:1v1| battle to determine the winner. \n2. The team leader can adjust the |C:0x00ff00&T:battle sequence| of themselves and the team members. \n3. The victory of the 1st battle will grant |C:0x00ff00&T:25 Victory Points|, the victory of the 2nd, 3rd battle will grant |C:0x00ff00&T:20 Victory Points|, the victory of the 4th battle will grant |C:0x00ff00&T:35 Victory Points|. \n4. If a single battle is in a |C:0x00ff00&T:draw|, then both teams will |C:0x00ff00&T:not gain the victory points of this battle|. \n5. After 4 battles, |C:0x00ff00&T:the team with the most victory points will win|. \n|C:0xFFB82A&T:Rewards Description: |\n1. Avatar War is |C:0x00ff00&T:settled every week. On every |C:0x00ff00&T:Monday|, the season will open. |C:0x00ff00&T:Sunday| is the settlement day of the season. \n2. After the settlement, the rewards will be issued via mails based on |C:0x00ff00&T:Personal Scores Ranking| and |C:0x00ff00&T:Faction Scores Ranking|. \n3. Upon the end of each battle, the player will both gain |C:0x00ff00&T:scores and contribution|. Winning will grants more scores and being defeated will grant less scores. The |C:0x00ff00&T:higher your current scores|, the higher the scores you gain from each battle."
+    },
+    "126": {
+        "id": 126,
+        "title": "",
+        "text": "Abandoned"
+    },
+    "127": {
+        "id": 127,
+        "title": "",
+        "text": "1. Event Starts: |C:0x5ac832&T:M2 R2|\n2. Event Time: |C:0x5ac832&T: 10：00 to 22：00 daily|\n3. Double Scores Time: |C:0x5ac832&T:Every Tue, Thu, and Sat|. \n4. Challenge Attempts are refreshed at 10：00 daily, there are |C:0x5ac832&T:3| times on a daily basis, and restores by |C:0x5ac832&T:1| time every 2 hours. \n5. Each siege monster can only be attacked up to three times. After that, they will enter settlement status, and mail rewards will be issued based on the damage ranking of the three players, granting siege scores. \n6. You cannot attack the same monster twice."
+    },
+    "128": {
+        "id": 128,
+        "title": "",
+        "text": "1.Merging Peak Tournament will be available after each Merging. You can sign up for the match when your Rebirth level reaches |C:0x5ac832&T:M2 R4|. \n2. Until the end of the registration, every registered players will be subject to ranking. The top |C:0x5ac832&T:64| players with the highest CP will be qualified for the tournament. \n3. The 64 players who reach the tournament will be divided into |C:0x5ac832&T:4| groups. There are |C:0x5ac832&T:16| players in each group. \n4. |C:0x5ac832&T:1| Group Champion will come out from each group after the competition and they will be qualified for the semifinals. \n5. The two players who are defeated in the semifinals will perform a 2nd Runner-up Match. The two winning players will perform a championship final to settle the final champion. \n6. Game Process:\n Registration Deadline:|C:0x5ac832&T: 12:00 of the 3rd day after Merging|\n Group Round 1 (64 to 32): |C:0x5ac832&T: The 3 day after the merging, 16:00|\n Group Round 2 (32 to 16): |C:0x5ac832&T: The 3 day after the merging, 17:00|\n Group Round 3 (16 to 8): |C:0x5ac832&T: The 4 day after the merging, 16:00|\n Group Round 4 (8 to 4): |C:0x5ac832&T: The 4 day after the merging, 17:00|\n Semi Final (4 to 2): |C:0x5ac832&T: The 5 day after the merging, 17:00|\n 2nd Runner-up Final:|C:0x5ac832&T: The 5 day after the merging, 19:00|\n Championship Final:|C:0x5ac832&T: The 5 day after the merging, 20:00|\n"
+    },
+    "129": {
+        "id": 129,
+        "title": "",
+        "text": "1. Gift Rank is a ranking event that rank the amount of |C:0x13ee22&T:Specific Items| sent. \n2. For every 1 |C:0x13ee22&T:Tanghulu| sent, it grants |C:0x13ee22&T:10 points of Gift Gift|; For every 1 |C:0x13ee22&T:Sweet Dumplings| sent, it grants |C:0x13ee22&T:20 points of Gift Gift|; For every 1 |C:0x13ee22&T:Sky Lantern| sent, it grants |C:0x13ee22&T:50 points of Gift Gift|. \n3. Players can be listed on the Ranking when their Gift Gift reach a certain amount. The players on the ranking will gain ranking rewards. \n4. When there are multiple players with the same amount of Gift Gift, the first player who reaches that amount will be ranked first. \n5. When reaching a certain amount of Gift Gift, players can claim the related rewards. \n6. Upon the end of the event, the rewards will be issued based on the ranking via mail."
+    },
+    "130": {
+        "id": 130,
+        "title": "",
+        "text": "This is a ranking event that is based on the |C:0x13ee22&T:Gift| received. \n2. The player can be ranked when their Received Gift reach a certain amount. The players on the ranking will gain ranking rewards. \n3. When there are multiple players with the same amount of Received Gift, the first player who reaches that  amount will be ranked first. \n4. The two players who have sent the most Gift to the players on the ranking will gain rewards of the according ranking (Their Gift Gift must reach the condition)\n5. Tap on the Ask for Gift hyperlink to send your link in the corresponding channel. In the chat page, you and other players can send you Gift through that link. \n6. You can send other players or yourself Gift in Gift sending page. \n7. There're two periods in this event: First |C:0x13ee22&T:Feb 10 to Feb 12|, second |C:0x13ee22&T:Feb 13 to Feb 16|,  ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "131": {
+        "id": 131,
+        "title": "",
+        "text": "1. There are 5 types of Element Ethereal Realms. Each type of realm will only be available when the corresponding Element is available. \n2. There are 5 stages in each Ethereal Realm. There are 4 bosses in each stage. \n3. Element Boss features Ownership Rewards and Participation Rewards. The ownership rewards, which has a doubled chance for dropping, will be granted to the owner of the Boss. The participating players will gain participation rewards. \n4. Each attempt of Boss Rewards you gained will deduct 50 points of Element Power. For every 1 minute stayed in the Dungeon, 2 points of Element Power will be deducted. When you have insufficient Element energy, you will be forced to leave the Dungeon. \n5. Element Power resets at 0:00 daily. \n6. Using Element Power Pill will restore Element energy. Each Energy Pill will cover 500 points of Element energy. The exceeded Element Power will be deducted!"
+    },
+    "132": {
+        "id": 132,
+        "title": "",
+        "text": "Abandoning Description. If you discover them, please order to the front end program to remove this description page"
+    },
+    "133": {
+        "id": 133,
+        "title": "",
+        "text": "1. The higher the Element gear star level, the more Soulbind amount there will be. \n2. Each attempt of Soulbind will cost |C:0x5ac832&T:5 diamonds|. Fast Soulbind will cost the diamonds based on the new Soulbind or Switched Soulbind attempts. \n3. Fast Soulbind will perform Soulbind or replace the higher level of soulbound to all soulbound positions of a single part."
+    },
+    "134": {
+        "id": 134,
+        "title": "",
+        "text": "1.Scarlet BOSS is devided into|C:0x18ff00&T:Common BOSS| and |C:0x18ff00&T:Legendary BOSS|, you need to summon them with the relavant summon ticket.\n2.There can be |C:0x18ff00&T:5|Scarlet BOSS at most in this cross-server, you can summon more after killing any of them.\n3.There's a time limit, you need to kill the boss in time to get the rewards, or the challenge fails.\n4.After the summoned boss is defeated, the summoner gain |C:0x18ff00&T:Summon Reward|, assisted player gain |C:0x18ff00&T:Assist Reward|.\n5.There's a limit to the addist attempts and you cannot assist if you reach the limit.|C:0x18ff00&T:Assist Legendary BOSS cost no attempts|.\n6.Scarlet BOSS has personal summon rank, which is decided by your summon points, and kill rank, which is decided by the total Scarlet Boss. Rank rewards will be sent via mail at |C:0x18ff00&T:Sunday 22：30|."
+    },
+    "135": {
+        "id": 135,
+        "title": "",
+        "text": "1.Diamond Spending Rank is decided by the amount of diamonds spent during the event.\n2.Spend more |C:0x13ee22&T:Diamonds| to get a higher ranking.\n3.Players need to spend a certain amount of |C:0x13ee22&T:Diamonds| to be ranked and get ranking rewards.\n4.Spend relevant amount of |C:0x13ee22&T:Diamonds| to get rewards.\n5. There're two periods in this event: First |C:0x13ee22&T:Feb 10 to Feb 12|, second |C:0x13ee22&T:Feb 13 to Feb 16|, ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "136": {
+        "id": 136,
+        "title": "",
+        "text": "1.Voucher Spending Ranking is decided by the voucher you spend during the event.\n2.Spend more |C:0x13ee22&T:Vouchers| to get a higher ranking.\n3. Players need to spend a certain amount of |C:0x13ee22&T:Vouchers| to be listed and listed players can get the ranking rewards.\n4.Spend a specific amount of |C:0x13ee22&T:Vouchers| to get the according rewards.\n5. The event is divided into two periods, the first one is from |C:0x18ff00&T:Mar 31 to Apr 2|,the second one is from |C:0x18ff00&T:Apr 3 to Apr 6|, ranking rewards will be issued via mail when each period ends.\n"
+    },
+    "137": {
+        "id": 137,
+        "title": "",
+        "text": "1. Egg Point Ranking is an event that uses |C:0x13ee22&T:Specific Items|. \n2. For every 1 |C:0x13ee22&T:Silver Hammer| used, it grants |C:0x13ee22&T:1 Egg Point|; for every 1 |C:0x13ee22&T:Gold Hammer| used, it grants |C:0x13ee22&T:10 Egg Points|; For every 1 |C:0x13ee22&T:Diamond Hammer| used, it grants |C:0x13ee22&T:50 Egg Points|. \n3. Players can be listed on the Ranking when their Egg Point reaches a certain amount. The players on the Ranking will get rewards. \n4. When there are multiple players with the same amount of Egg Points, the first player who reaches that amount will be ranked first. \n5. When reaching a certain amount of Egg Points, players can claim the related rewards. \n6. The event will be divided into two stages. The first stage is from |C:0x13ee22&T:Apr 7 to Apr 9| and the second is from |C:0x13ee22&T:Apr 10 to Apr 13|, the rewards will be issued via mail based on the ranking upon the end of each stage.\n"
+    },
+    "138": {
+        "id": 138,
+        "title": "",
+        "text": "1.Players from multiple cross servers can participate in the Battle Zone event to compete for ample rewards and fashionable outfit!\n2.You cannot perform |C:0x13ee22&T:other system functions| in Battle Zone.\n3.You also gain |C:0x13ee22&T:Battle Zone Coin| in Battle Zone event, and you can use it in |C:0x13ee22&T:Battle Zone Shop| to redeem |C:0x13ee22&T:Rare Outfits| and |C:0x13ee22&T:Advanced gear and items|\n4. Battle Zone event timetable:\n|C:0x13ee22&T:Tues. 20:30-21:00:Worlf Soul Fight|\n|C:0x13ee22&T:Wed. 20:30-21:00:Heaven War|\n|C:0x13ee22&T:Sat. 20:30-21:00:Championship|\n|C:0x13ee22&T:Sun 20:30-21:00：Defender Contest||"
+    },
+    "139": {
+        "id": 139,
+        "title": "",
+        "text": "1.This is a cross-server event opens on every Sunday.\n2.There're |C:0x13ee22&T:3| stages: |C:0x13ee22&T:9：00一20：30| Sign-up Stage, |C:0x13ee22&T:20：30一20：42| Point Stage, |C:0x13ee22&T:20：43一21：00| Defender Stage. \n3.Only players who signed up can join the point stage, and can challenge up to |C:0x13ee22&T:15| times.\n4.Poins gained in point stage will be ranked. |C:0x13ee22&T:the higher your CP is, the more points you get in each battle|. \n5.In Defender stage, the top |C:0x13ee22&T:10%| players in the points ranking became defenders, there can be at most |C:0x13ee22&T:20| and at least |C:0x13ee22&T:8| defenders.\n6.If less than |C:0x13ee22&T:10| players take part in point stage, there'll be |C:0x13ee22&T:no| defender stage.\n7.In Defender stage, defenders need to fight with |C:0x13ee22&T:multiple| challengers simultanously, the number of challengers and diffcullties will rise in later rounds.\n8. Defender stage starts from the |C:0x13ee22&T:Battle Zone|. Defenders need to be in the |C:0x13ee22&T:Battle Zone| to join the defender stage, and cannot join when in dungeon. If you didn't join, you automatically give up.\n9. Challengers will be chosen from signed-up players, if there are not enough players, other players will be added as well. All challengers are spawned by mirror data.\n10.Defenders need to defeat all challengers to |C:0x13ee22&T:win|. If there are still undeafeated challengers left after the time ends, the defender lose.\n11.All players can use diamonds to bet. All players have |C:0x13ee22&T:3| bet chances and can gain ample Battle Zone coins and diamonds if  win, and can still get some Battle Zone coin and diamons if fail. No matter win or fail, your diamonds will be |C:0x13ee22&T:fully returned|!\n12.When all rounds end or all defenders lose, the defender stage ends.\n13.Defenders will be ranked according to the rounds they won, and defenders with more kills will be ranked first if they won same amount of rounds. If kills are the same, player with higher CP will be ranked first!"
+    },
+    "140": {
+        "id": 140,
+        "title": "",
+        "text": "1.All players can use diamonds to bet and have |C:0x13ee22&T:3|bet attempts.\n2.You gain |C:0x13ee22&T:1000| Battle Zone coin when you bet successfully and |C:0x13ee22&T:200| Battle Zone coin when you fail. \n3.All diamonds will be returned regardless of the result.\n4.Rewards will be send via mails."
+    },
+    "141": {
+        "id": 141,
+        "title": "",
+        "text": "1.You can spend |C:0x5ac832&T:Spirit Energy| to increase Spirit Gear's EXP.\n2.Spirit Gear level up automatically when EXP is full.\n3.Level up brings ample attributes to your |C:0x5ac832&T:Character|.\n4.All Spirit Gear attributes can stack.\n5.You can activate or advance base skills with sufficient levels."
+    },
+    "142": {
+        "id": 142,
+        "title": "",
+        "text": "1.You can spend|C:0x5ac832&T:Spirit gear of the same name|to activate or advance.\n2.Activate or advance to bring ample attributes to your |C:0x5ac832&T:Character|.\n3.All spirit gear advance attributes can stack.\n4.You can activate or advance talent skills with sufficient tiers."
+    },
+    "143": {
+        "id": 143,
+        "title": "",
+        "text": "1.There're 4 kinds of Spirit Gear training.\n2.You can spend relevant |C:0x5ac832&T:Spirit item| to train.\n3.Spirit gear traning bring ample attributes to your character.\n4.All spirit gear shares the training attributes."
+    },
+    "144": {
+        "id": 144,
+        "title": "",
+        "text": "1.Reach |C:0x5ac832&T:M4R3| to unlock the event.\n2.You can challenge the Siprit gear Realm |C:0x5ac832&T:3 times| a day for free.\n3.Rally your friends to challenge the final BOSS|C:0x5ac832&T:Sky Destroyer|。\n4.|C:0x5ac832&T:Gain more rewards by killing more monsters within time limits|."
+    },
+    "145": {
+        "id": 145,
+        "title": "Ranking Description",
+        "text": "0"
+    },
+    "146": {
+        "id": 146,
+        "title": "Wolf Soul Info",
+        "text": "1.Defeat other players or monsters to gain |C:0x13ee22&T:Wolf Soul|.\n2.The obtained Wolf Soul are |C:0x13ee22&T:Free Wolf Soul| originally and will be transferred into |C:0x13ee22&T:Fused Wolf Soul| in time.\n3.|C:0x13ee22&T:100| Wolf Soul will be transferred every minute on F1,|C:0x13ee22&T:150| Wolf Soul every minute on F2, |C:0x13ee22&T:300| Wolf Soul every minute on F3.\n4.If defeated by other player, lose |C:0x13ee22&T:10% Free Wolf Soul| but lose no |C:0x13ee22&T:Fused Wolf Soul|.\n5.Gain Wolf Soul:\n|C:0x5ac832&T:F1|\nKill a Boss to get |C:0x13ee22&T:1000| Wolf Soul\nKill an elite to get |C:0x13ee22&T:100| Wolf Soul\nKill a monster to get |C:0x13ee22&T:25| Wolf Soul\n|C:0x5ac832&T:F2|\nKill a Boss to get |C:0x13ee22&T:2000| Wolf Soul\nKill an elite to get |C:0x13ee22&T:200| Wolf Soul\nKill a monster to get |C:0x13ee22&T:50| Wolf Soul\n|C:0x5ac832&T:F3|\nKill a Boss to get |C:0x13ee22&T:3000| Wolf Soul\nKill an elite to get |C:0x13ee22&T:400| Wolf Soul\nKill a monster to get |C:0x13ee22&T:100| Wolf Soul"
+    },
+    "147": {
+        "id": 147,
+        "title": "Rules",
+        "text": "1.Wolf Soul Fight is a cross server event opens every Tuesday.\n2.Player will fight for |C:0x13ee22&T:Wolf Souls| and rewards will be given according to final |C:0x13ee22&T:Wolf Soul Rank|.\n3.There're 3 Floor in the map. You enter F1 at first and can go to next floor when killing enough players and get enough Wolf Soul. Higher floor provides better rewards.\n4.The obtained Wolf Soul are |C:0x13ee22&T:Free Wolf Soul| originally and will be transferred into |C:0x13ee22&T:Fused Wolf Soul| in time.\n5.|C:0x13ee22&T:100| Wolf Soul will be transferred every minute on F1,|C:0x13ee22&T:150| Wolf Soul every minute on F2, |C:0x13ee22&T:300| Wolf Soul every minute on F3.\n6.If defeated by other player, lose |C:0x13ee22&T:10% Free Wolf Soul| but lose no |C:0x13ee22&T:Fused Wolf Soul|.\n7.Kill other players to gain all Wolf Soul dropped and kill monsters to get Wolf Souls of a fixed amount.\n8.Boss will spawn in the center of the map, kill the Boss to gain |C:0x13ee22&T:Boss Owner| title, then wait for |C:0x13ee22&T:10s| to gain |C:0x13ee22&T:all rewards dropped| by boss.\n9.If the boss owner is defeated, the one who defeated them gain the title, and they need to wait |C:0x13ee22&T:10s| to gain rewards.\n10.If the Boss owner is killed by monster or leave the map, the title disappears and there'll be |C:0x13ee22&T:no rewards|.\n11.You gain |C:0x13ee22&T: Furious Revenge| buff and ample attributes when killed by others, but this buff disappears after you killed other players.\n12.Your Wolf Soul stop turning if you leave the map, but you won't lose any Wolf Soul.Players will be ranked according to the total Wolf Soul they have after the events, and relevant rewards will be sent via mail."
+    },
+    "148": {
+        "id": 148,
+        "title": "魔灵觉醒说明",
+        "text": "魔灵觉醒说明"
+    },
+    "149": {
+        "id": 149,
+        "title": "",
+        "text": "1.In Treasure Hunt, use |C:0x13ee22&T:certain items| to perform treasure hunt.\n2. Using 1 |C:0x13ee22&T:Holy Shield| grants |C:0x13ee22&T:10 treasure hunt points|. \n3.Players can be listed on the ranking and receive relevant rewards with enough points.\n4. When there are multiple players with the same amount of points, the first player who reaches that amount will be ranked first. \n5. When reaching a certain amount of Egg Points, players can claim the related rewards. \n6. The event will be divided into two stages. The first stage is from |C:0x13ee22&T:Apr 7 to Apr 9| and the second is from |C:0x13ee22&T:Apr 10 to Apr 13|, the rewards will be issued via mail based on the ranking upon the end of each stage.\n"
+    },
+    "150": {
+        "id": 150,
+        "title": "",
+        "text": "0"
+    },
+    "151": {
+        "id": 151,
+        "title": "",
+        "text": "1.You can choose the appearance you like as the |C:0x13ee22&T:final prize| of the event. After you choose the |C:0x13ee22&T:final prize|, it goes into the pool. You can perform exploration by flip cards. The final prize you choose are guaranteed to get through exploration in this floor.\n2.You have a chance to perform |C:0x13ee22&T:Crit hit| when fliping, and gain relevant |C:0x13ee22&T:multiples|of rewards.\n3.When you get the final prize, |C:0x13ee22&T:all rewards| under unfliped cards will be obtained directly.\n4.You go to the next floor when you get the final prize and choose the final prize again.\n5.You can unlock rarer|C:0x13ee22&T:final prize| in higher floor!\n6.You need more |C:0x13ee22&T:lucky compass| on higher floor. You can purchase |C:0x13ee22&T:lucky compass| with |C:0x13ee22&T:voucher|.\n7.Use |C:0x13ee22&T:lucky compass| to flip for a certain times to gain|C:0x13ee22&T:extra rewards|.\n8.There're two periods in this event:First |C:0x13ee22&T:Feb 1st to Feb 3rd|, second |C:0x13ee22&T:Feb 4th to Feb 7th|\n"
+    },
+    "152": {
+        "id": 152,
+        "title": "",
+        "text": "1.Treasure rank is decided according to |C:0x13ee22&T:Card Flip Floor|.\n2.Use |C:0x13ee22&T:Lucky compass| to flip cards and you have a chance to get designated |C:0x13ee22&T:final prize|, and you |C:0x13ee22&T:go to next floor| after obtain the final prize.\n3.You'll be listed and recieve listed rewards when reach certain floor.\n4.If more than one players reached the same floor, the one who first reached this floor will be ranked higher.\n5.You gain relevant rewards when reach certain floor.\n6.There're two periods in this event:First |C:0x13ee22&T:Feb 1st to Feb 3rd|, second |C:0x13ee22&T:Feb 4th to Feb 7th|, relevant rank rewards will be sent via mail when each period ends.\n"
+    },
+    "153": {
+        "id": 153,
+        "title": "",
+        "text": "1.This a a cross server event |C:0x13ee22&T:opens every Wednesday|.\n2.Event time:|C:0x13ee22&T:20：30-21：00|.\n3.During event, players in the Battle Zone will be matched randomly and combat in the Heaven dungeon.\n4.The battle is |C:0x13ee22&T:3v3|, after matching successfully you'll enter the dungeon immediately.\n5.Every battle ends in |C:0x13ee22&T:2 min|.\n6.If one of the team collect |C:0x13ee22&T:100||C:0x13ee22&T:Heaven Energy| within 2 minutes, this team win.，\n7.If no team gain 100 |C:0x13ee22&T:Heaven Energy| in 2 min, the team with higher |C:0x13ee22&T:Heaven Energy| win.\n8.Kills player of the other side once to get |C:0x13ee22&T:8 Heaven Energy|, collect common ore once to get |C:0x13ee22&T:4 Heaven Energy|, collect rare ore in the center of the dungeon to get |C:0x13ee22&T:6 Heaven Energy|.\n9.Players can |C:0x13ee22&T:Kill enemies| or |C:0x13ee22&T:collect ores| to gain |C:0x13ee22&T:Heaven points|, the player who get |C:0x13ee22&T:most Heaven points| at the end of the battle become MVP.\n10.You gain extra Heaven points according to the |C:0x13ee22&T:battle results|, players with |C:0x13ee22&T:higher CP| gain extra points bonus.\n11.All players will be ranked according to their |C:0x13ee22&T:Heaven points| and get rank rewards.。\n12.Take part in |C:0x13ee22&T:10| battles to gain extra rewards.\n"
+    },
+    "154": {
+        "id": 154,
+        "title": "",
+        "text": "1.Endless Island is a |C:0x13ee22&T:solo dungeon|.\n2.Players with sufficient rebirth level can enter |C:0x13ee22&T:Endless Island| to challenge boss.\n3.|C:0x13ee22&T:No challenge attempts limit| in Endless Island.\n4.Bosses' level will rise with |C:0x13ee22&T:player's rebirth level|, and will |C:0x13ee22&T:Refresh| when you open the dungeon screen after 00:00 everyday.\n"
+    },
+    "155": {
+        "id": 155,
+        "title": "",
+        "text": "1.Eudemon Island is a |C:0x13ee22&T:multi-dungeon|, Players with sufficient rebirth level can enter Eudemon Island.\n2.Collect |C:0x13ee22&T:Eudemon Crystal| and |C:0x13ee22&T:Eudemon Stone| to get Eudemon gear. Eudemon stone is only availiable in F2 or above. \n3.You can collect up to |C:0x13ee22&T:20| Eudemon Crystal and |C:0x13ee22&T:2| Eudemon Stone everyday.\n4.|C:0x13ee22&T:Eudemon Crystal| refreshes every 2 minutes, 20 |C:0x13ee22&T:Eudemon Crystal| each time.\n5.Eudemon Stone refreshes in fixed location and only |C:0x13ee22&T:1| each time, it refreshes |C:0x13ee22&T:every hour on the hour|.|\n6.There are more rewards in Eudemon Island than Endless Island, but only |C:0x13ee22&T:Boss owner| have rewards.\n7.You can get |C:0x13ee22&T:3| times of reward from Boss in Eudemon Island everyday. After you recieved 3 times of rewards from bosses one day, you get no rewards from killing boss. \n8.|C:0x13ee22&T:Collect attempts| and |C:0x13ee22&T:ownership attempts| refreshes at 00:00 everyday. \n9. If you're attacked during collecting, the collecting process paused. If you're |C:0x13ee22&T:killed|, |C:0x13ee22&T:the collecting stops.| and the crystal can be collected by other player.\n"
+    },
+    "156": {
+        "id": 156,
+        "title": "",
+        "text": "1. CP will be increased after deploying Eudemons. \n2. Eudemons can only be deployed when equipped with |C:0x13ee22&T:gear of all parts|. \n3. Different Eudemons have |C:0x13ee22&T:different requirements on gear equipping|.\n4. Eudemons and gear's stats will only take effect when |C:0x13ee22&T:Eudemons are deployed|. \n5. Eudemons' awaken skills will only take effecet after |C:0x13ee22&T:Euddemons are deployed|. \n6. After Eudemons are deployed, advanced skills can be |C:0x13ee22&T:activated or upgraded|.\n7. Common skills will become |C:0x13ee22&T:inactive| when Eudemons are undeployed. Upgraded kills will be stored and |C:0x13ee22&T:passed on to|  the next deployed Eudemon.\n8. Quick Upgrade will level up all gear |C:0x13ee22&T:evenly|. \n9. When salvaging upgraded gear, all materials used to upgrade the gear |C:0x13ee22&T:will be returned|.\n10. When |C:0x13ee22&T:merging| new gear with upgraded gear, all materials used to upgrade the gear |C:0x13ee22&T:will be returned|, and the merged gear will be at |C:0x13ee22&T:Lv1|."
+    },
+    "157": {
+        "id": 157,
+        "title": "",
+        "text": "1.You can choose the appearance you like as the |C:0x13ee22&T:final prize| for the event. After you choose the |C:0x13ee22&T:final prize|, it goes into the pool. You can perform exploration by flipping cards. The final prize you choose is guaranteed to get through explorating a floor.\n2.Have a chance to trigger|C:0x13ee22&T:Crit hit| when flipping cards, and gain the relevant |C:0x13ee22&T:multiples| of rewards.\n3. After getting the final prize, |C:0x13ee22&T:all rewards| under unflipped cards will be obtained directly.\n4.You go to the next floor when you get the final prize and need to choose a new final prize again.\n5.You can unlock rarer |C:0x13ee22&T:final prize| on higher floors!\n6.You need more |C:0x13ee22&T:lucky compasses| on higher floors. You can purchase |C:0x13ee22&T:lucky compasses| with |C:0x13ee22&T:vouchers|.\n7.Use |C:0x13ee22&T:lucky compasses| to flip for a certain times to gain |C:0x13ee22&T:extra rewards|.\n8.There're two periods in this event: First |C:0x13ee22&T:Dec 23 to Dec 25|, second |C:0x13ee22&T:Dec 26 to Dec 29|\n"
+    },
+    "158": {
+        "id": 158,
+        "title": "",
+        "text": "1.Treasure Snatch is decided according to |C:0x13ee22&T:Card Flip Floor|.\n2.Use |C:0x13ee22&T:Lucky Compass| to flip cards and have a chance to get the designated |C:0x13ee22&T:final prize|, and |C:0x13ee22&T:go to the next floor| after obtaining the final prize.\n3.You'll be ranked and receive ranking rewards when reaching a certain floor.\n4.If more than one player reached the same floor, the one who first reached the floor will be ranked first.\n5.Gain relevant rewards when reaching a certain floor.\n6.There're two periods in this event: First |C:0x13ee22&T:Dec 23 to Dec 25|, second |C:0x13ee22&T:Dec 26 to Dec 29, relevant ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "159": {
+        "id": 159,
+        "title": "",
+        "text": "1.In the Treasure Hunt, use |C:0x13ee22&T:certain items| to perform treasure hunt.\n2.Using 1 |C:0x13ee22&T:Christmas Candy| grants |C:0x13ee22&T:10 treasure hunt points|. \n3.You can be listed in the ranking and receive relevant rewards when you get enough points.\n4.If two players have the same amount, the first one who reaches this point will be ranked first.\n5.You get relevant rewards when points reach a certain amount.\n6.There're two periods in this event: First |C:0x13ee22&T:Dec 23 to Dec 25|, second |C:0x13ee22&T:Dec 26 to Dec 29|, relevant ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "160": {
+        "id": 160,
+        "title": "",
+        "text": "1. The |C:0x13ee22&T:SVIP6| exclusive privilege Character Halo is |C:0x13ee22&T:permanent| once activated. \n2. Players can receive |C:0x13ee22&T:100 Vouchers| every day in the first month after server opening; |C:0x13ee22&T:110 Vouchers| every day in the next month after server opening; |C:0x13ee22&T:130 Vouchers| every day in the 3rd month after server opening; |C:0x13ee22&T:150 Vouchers| every day in the 4th month after server opening.\n3. |C:0x13ee22&T:Extra 50%| shard drop when challenging the Dark Temple Boss.\n4. |C:0x13ee22&T:Extra 500| power for Ethereal Realm and open the function of |C:0x13ee22&T:Double Efficiency|. \n5. Eudemon Island opens |C:0x13ee22&T:Auto Challenge| function.\n6.Cryptid Exploration normal rewards |C:0x13ee22&T:Double|.\n7. The character's ATK, HP, DEF, ATK Success Rate, and DEF Success Rate increase by |C:0x13ee22&T:2%|.\n8.Turn on the |C:0x13ee22&T:Quick Merge| function of the element scroll.\n"
+    },
+    "161": {
+        "id": 161,
+        "title": "",
+        "text": "1. The Miracle Realms are divided into 7 types, and each type opens when the corresponding Miraculous Soul reaches a certain number of stars.\n2. There are 5 floors in each realm, and each floor has 4 Bosses. \n3. The rewards of realm BOSS are divided into an ownership reward and a participation reward. The owner will get double rewards while other participants get participation rewards. \n4. 50 miracle points will be deducted to claim the Boss rewards once, and 2 miracle points will be deducted per minute when staying in the realm. When the miracle point is insufficient, players will be forced to leave. \n5. The miracle point is reset every day at midnight. \n6. Use the Miracle Power Pill to restore miracle point, each Miracle Power Pill can restore 500 miracle points, and the overflowing miracle points will be deducted!"
+    },
+    "162": {
+        "id": 162,
+        "title": "",
+        "text": "1. Each appearance system has a corresponding set of Miraculous Souls. \n2. Each set of Miraculous Souls has 4 parts that can be activated/worn, and stats can be added after activation/wearing. \n3. Wearing the Miraculous Souls of the specified star can activate/upgrade the corresponding Miraculous Soul master level and get a lot of stat bonuses. \n4. After wearing high-star Miraculous Souls, exclusive skills can be upgraded to increase a lot of CP. \n5. Once worn, high-star Miraculous Souls cannot be replaced with low-star Miraculous Souls.\n6. By quick forging, the Miraculous Souls currently worn will be consumed as material to forge new ones, which will be automatically worn after successful forging to increase CP."
+    },
+    "163": {
+        "id": 163,
+        "title": "",
+        "text": "1. Equipping with Scarlet Glyphs can increase combat power. When the number of Glyph equipped on the same Scarlet Gear reaches |C:0x13ee22&T:2/4/6/8|, additional set stats will be activated. \n2. Different Scarlet Gear can be equipped with different types of Glyphs. Among them, Scarlet Sword, Scarlet Armor, Scarlet Imprint and Scarlet Ring can be equipped with |C:0x13ee22&T:any type of Glyph|. \n3. The more high-quality Glyphs worn, the higher the set stats. \n4. Glyphs' quality can be improved through |C:0x13ee22&T:devouring|."
+    },
+    "164": {
+        "id": 164,
+        "title": "",
+        "text": "1. The Glyph can devour other Glyphs |C:0x13ee22&T:to improve quality|.\n2. After the main Glyph devours material Glyphs, its quality will be improved and all the material Glyphs will |C:0x13ee22&T:disappear|. \n3. Different Glyphs need to devour different types of material Glyphs to improve quality, and Glyphs with rare stats need to devour |C:0x13ee22&T:the same type of Glyphs|."
+    },
+    "165": {
+        "id": 165,
+        "title": "",
+        "text": "1. At |C:0x13ee22&T:0:00 AM every Saturday|, participate in the boss battle.\n2. The boss battle ends at 17:50 on Saturday, during which each player has a challenge time of |C:0x13ee22&T:3 minutes|.\n3.During the boss battle, according to players' damage dealt to the boss, a |C:0x13ee22&T:damage ranking| will be displayed in the battle zone.\n4.|C:0x13ee22&T:At 18:00 on Saturday|, players will be grouped into at most |C:0x13ee22&T:27 teams| according to the damage rankings, the top 27 players in the damage rankings automatically become the corresponding |C:0x13ee22&T:team leaders|. All teams will compete to be the strongest team in the Championship."
+    },
+    "166": {
+        "id": 166,
+        "title": "",
+        "text": "1. |C:0x13ee22&T:At 18:00 on Saturday|, 27 teams will be randomly assigned to three divisions (Glory Division, Honor Division, Thunder Division). \n2. If there are |C:0x13ee22&T:less than 15 participants| in the Boss Fight, the Championship of this round will not start. \n3. The first round of the promotion game will start at 20:30. Before the start of the game, qualified team members can |C:0x13ee22&T:wait on the scene|. The game will |C:0x13ee22&T:automatically start| when the countdown ends.\n4. The promotion game is a three-party battle of |C:0x13ee22&T:Fire Crystals|, which can be obtained through |C:0x13ee22&T:killing monsters, defeating players, and stealing from opponents' Base Camp|. \n5. The above operation will transform part of the Fire Crystals into the Base Camp, most of the Fire Crystals are carried by the players. When storing the Fire Crystals, |C:0x13ee22&T:all the carrying Fire Crystals will be stored in the own Base Camp|. \n6. The team that first accumulates a certain number of Fire Crystals or has the most Fire Crystals in the Base Camp when the time is over wins. \n7. After the game is over, |C:0x13ee22&T:the winning teams advance| while the remaining teams are eliminated. \n8. There will be two rounds of the promotion games, deciding |C:0x13ee22&T: three champion teams| in the end. \n9. While waiting for the promotion game, players can make a guess for the upcoming game. Whether the guess is successful or not, all of the guessing consumption will be returned."
+    },
+    "167": {
+        "id": 167,
+        "title": "",
+        "text": "1. The Championship game enters the preparatory stage at |C:0x13ee22&T:20:50|, and the three teams that advance from the three divisions will compete for the champion team. \n2. The Championship game is the same as the Promotion game. \n3. At the end of the Championship game, the final places will be decided based on the final ranking. \n|C:0x13ee22&T:The No.1 on the ranking is the champion team, the strongest team of all|\n|C:0x13ee22&T:The No.2 is the runner-up team|\n|C:0x13ee22&T:The No.3 is the second runner-up team |\n4. Settlement will be done after the game, and rewards will be issued at 21:00. \n5. While waiting for the Championship game, players can make a guess of the final ranking. |C:0x13ee22&T:Players can get double rewards if they guessed all the ranking right|."
+    },
+    "168": {
+        "id": 168,
+        "title": "Fire Crystal Info",
+        "text": "1. In the instance, obtain |C:0x13ee22&T:Fire Crystals| by killing monsters, defeating players, and stealing from opponents' Base Camp\n2. The above behavior will directly send a certain proportion of the Fire Crystals |C:0x13ee22&T:to your own Base Camp|, and most of the Fire Crystals are carried by the players themselves.\n3. During the game, you need to store your own Fire Crystals in your Base Camp in time. The final result of the game is based on |C:0x13ee22&T:the number of Fire Crystals in your Base Camp|. \n4. In the instance, the Championship Boss is refreshed |C:0x13ee22&T:1 minutes| after the game starts, the player who |C:0x13ee22&T:cast the last attack to the Boss| can get |C:0x13ee22&T:8000| Fire Crystals. \n5. Each storage operation of the Fire Crystal will store |C:0x13ee22&T:all carrying Fire Crystals| into the Base Camp. There is a cooling time for each storage. \n6. Every time you steal, you will steal |C:0x13ee22&T:20% of the Fire Crystals| in the enemy's Base Camp. There is a cooling time for each steal."
+    },
+    "169": {
+        "id": 169,
+        "title": "",
+        "text": "1. In the Dice Maze, players can move forward by throwing |C:0x13ee22&T:common dice| or |C:0x13ee22&T:golden dice|. \n2. Common dice can throw |C:0x13ee22&T:random| numbers while golden dice can throw |C:0x13ee22&T:chosen| numbers.\n3. Every use of |C:0x13ee22&T:common dice| grants |C:0x13ee22&T:10 points| while every use of  |C:0x13ee22&T:golden dice| grants |C:0x13ee22&T:120 points|\n4. Players need to collect enough special runes on every floor to claim the prize of the floor and unlock the next floor. \n5. Players can increase the server progress by using dice and claim the server reward when it is unlocked."
+    },
+    "170": {
+        "id": 170,
+        "title": "",
+        "text": "1. Floor Ranking is decided by the floors players pass in the Dice Maze during the event.\n2.Pass more |C:0x13ee22&T:floors| to get a higher ranking.\n3.Players need to pass a certain amount of |C:0x13ee22&T:floors| to enter the ranking to get ranking rewards.\n4. The event is divided into 2 periods, the first one is from |C:0x18ff00&T:Mar 17 to Mar 19|, the second one is from |C:0x18ff00&T:Mar 20 to Mar 23|, ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "171": {
+        "id": 171,
+        "title": "",
+        "text": "1. Players need to select a wishing item before performing wishing draws\n2. There is a guarantee for the wishing draw. When players have performed a certain amount of wishing draws but still haven't drawn the wishing item, the next draw |C:0x13ee22&T:guarantees| the wishing item. \n3. The guarantee is used when the wishing item is drawn. \n4. The wishing item can be changed at any time and all wishing items |C:0x13ee22&T:share| the same drawing progress. Changing the wishing item |C:0x13ee22&T:will not reset| the drawing progress. \n5. After changing the wishing item, if your drawing progress has reached or surpassed the required maximum draws for your newly-chosen wishing item, your next draw will be the wishing item. And the number of |C:0x13ee22&T:the required maximum draws| will be deducted from your drawing progress. \n6. Players can get 1 free draw at intervals and accumulate up to |C:0x13ee22&T:5| free draws. \n7. Players can use vouchers to draw when drawing items are insufficient, but there is a limit for voucher drawing. \n8. |C:0x13ee22&T:Every draw| grants |C:0x13ee22&T:10| points, and the points can be used for wishing ranking.\n"
+    },
+    "172": {
+        "id": 172,
+        "title": "",
+        "text": "1. Wishing Ranking is decided by the points players get during the event.\n2.Accumulate more |C:0x13ee22&T:points| to get a higher ranking.\n3.Players need to accumulate a certain amount of |C:0x13ee22&T:points| to enter the ranking to get ranking rewards.\n4. The event is divided into 2 periods, the first one is from |C:0x18ff00&T:Mar 17 to Mar 19|, the second one is from |C:0x18ff00&T:Mar 20 to Mar 23|, ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "173": {
+        "id": 173,
+        "title": "",
+        "text": "1. Everyone can get rewards for up to 5 times per day by watching videos. \\n2. Reset every day."
+    },
+    "174": {
+        "id": 174,
+        "title": "",
+        "text": "1. In the Dice Maze, players can move forward by throwing |C:0x13ee22&T:common dice| or |C:0x13ee22&T:golden dice|. \n2. Common dice can throw |C:0x13ee22&T:random| numbers while golden dice can throw |C:0x13ee22&T:chosen| numbers.\n3. Every use of |C:0x13ee22&T:common dice| grants |C:0x13ee22&T:10 points| while every use of  |C:0x13ee22&T:golden dice| grants |C:0x13ee22&T:120 points|\n4. Players need to collect enough special runes on every floor to claim the prize of the floor and unlock the next floor. \n5. Players can increase the server progress by using dice and claim the server reward when it is unlocked."
+    },
+    "175": {
+        "id": 175,
+        "title": "",
+        "text": "1. Floor Ranking is decided by the floors players pass in the Dice Maze during the event.\n2.Pass more |C:0x13ee22&T:floors| to get a higher ranking.\n3.Players need to pass a certain amount of |C:0x13ee22&T:floors| to enter the ranking to get ranking rewards.\n4. The event is divided into 2 periods, the first one is from |C:0x18ff00&T:Jan 23 to Jan 25|, the second one is from |C:0x18ff00&T:Jan 26 to Jan 29|, ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "176": {
+        "id": 176,
+        "title": "",
+        "text": "1. Players need to select a wishing item before performing wishing draws\n2. There is a guarantee for the wishing draw. When players have performed a certain amount of wishing draws but still haven't drawn the wishing item, the next draw |C:0x13ee22&T:guarantees| the wishing item. \n3. The guarantee is used when the wishing item is drawn. \n4. The wishing item can be changed at any time and all wishing items |C:0x13ee22&T:share| the same drawing progress. Changing the wishing item |C:0x13ee22&T:will not reset| the drawing progress. \n5. After changing the wishing item, if your drawing progress has reached or surpassed the required maximum draws for your newly-chosen wishing item, your next draw will be the wishing item. And the number of |C:0x13ee22&T:the required maximum draws| will be deducted from your drawing progress. \n6. Players can get 1 free draw at intervals and accumulate up to |C:0x13ee22&T:5| free draws. \n7. Players can use vouchers to draw when drawing items are insufficient, but there is a limit for voucher drawing. \n8. |C:0x13ee22&T:Every draw| grants |C:0x13ee22&T:10| points, and the points can be used for wishing ranking.\n"
+    },
+    "177": {
+        "id": 177,
+        "title": "",
+        "text": "1. Wishing Ranking is decided by the points players get during the event.\n2.Accumulate more |C:0x13ee22&T:points| to get a higher ranking.\n3.Players need to accumulate a certain amount of |C:0x13ee22&T:points| to enter the ranking to get ranking rewards.\n4. The event is divided into 2 periods, the first one is from |C:0x18ff00&T:Jan 23 to Jan 25|, the second one is from |C:0x18ff00&T:Jan 26 to Jan 29|, ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "178": {
+        "id": 178,
+        "title": "",
+        "text": " During the event, top up |C:0x13ee22&T:any amount| to claim deluxe gifts."
+    },
+    "179": {
+        "id": 179,
+        "title": "",
+        "text": "Traveling time and space, the dragon has collected countless treasures and hid them in the vault. \n1.|C:0x13ee22&T:Dragon's Treasure| refreshes 3 packs at a time; \n2.|C:0x13ee22&T:Dragon's Treasure| refreshes at |C:0x13ee22&T:6 AM| and |C:0x13ee22&T:6 PM| every day; \n3.You can also use |C:0x13ee22&T:Dragon Flame Crystal| to refresh."
+    },
+    "180": {
+        "id": 180,
+        "title": "",
+        "text": "1. Completing the daily trials will get prestige points. The prestige points will be converted into trial points in equal proportions, and you can participate in events to exchange rewards with certain trial points. \n2. The event lasts for 7 days, and you can get 300 trial points every day. After accumulating 1200 trial points, you can exchange beautiful appearances. \n3. Click the Exchange button to make up the trial points with vouchers. \n4. The appearances will be changed and the trial points will be refreshed next week."
+    },
+    "181": {
+        "id": 181,
+        "title": "",
+        "text": "After purchasing the Rebate Pack, you will receive a certain percentage of Vouchers back daily. After purchasing four packs, the Daily Wheel will be unlocked."
+    },
+    "182": {
+        "id": 182,
+        "title": "",
+        "text": "This is a ranking event that is based on the |C:0x13ee22&T:Gratitude| received. \n2. The player can be ranked when their Received Gratitude reach a certain amount. The players on the ranking will gain ranking rewards. \n3. When there are multiple players with the same amount of Received Gratitude, the first player who reaches that  amount will be ranked first. \n4. The two players who have sent the most Gratitude to the players on the ranking will gain rewards of the according ranking (Their Gift Gratitude must reach the condition)\n5. Tap on the Ask for Gift hyperlink to send your link in the corresponding channel. In the chat page, you and other players can send you Gratitude through that link. \n6. You can send other players or yourself Gratitude in Gratitude sending page. \n7. The event is divided into two stages, the first one is from |C:0x13ee22&T:June 13 to June 15|, the second one is from |C:0x13ee22&T:June 16 to June 19|, ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "183": {
+        "id": 183,
+        "title": "",
+        "text": "1. Surfing Ranking is a ranking event that rank the amount of |C:0x13ee22&T:Specific Items| sent. \n2. For every 1 |C:0x13ee22&T:Leather Shoes| sent, it grants |C:0x13ee22&T:10 points of Gift Gratitude|; For every 1 |C:0x13ee22&T:Suit| sent, it grants |C:0x13ee22&T:20 points of Gift Gratitude|; For every 1 |C:0x13ee22&T:Watch| sent, it grants |C:0x13ee22&T:50 points of Gift Gratitude|. \n3. Players can be listed on the Ranking when their Gift Gratitude reach a certain amount. The players on the ranking will gain ranking rewards. \n4. When there are multiple players with the same amount of Gift Gratitude, the first player who reaches that amount will be ranked first. \n5. When reaching a certain amount of Gift Gratitude, players can claim the related rewards. \n6. Upon the end of the event, the rewards will be issued based on the ranking via mail."
+    },
+    "184": {
+        "id": 184,
+        "title": "",
+        "text": "1. During the event period, players can spend different |C:0x18ff00&T:Items| to gain different amounts of Love. \n2. You can use Rose to raise |C:0x18ff00&T:10 points| of Love. You can use Chocolate to raise |C:0x18ff00&T:20 points| of Love. Using Love Letter will grant |C:0x18ff00&T:50 points| of Love. Meanwhile, it will raise the progress of Love Story event. When the |C:0x18ff00&T:progress is full|, players can tap to use Love Blessing to boost ample Love. \n3. The added Love will be added to the current round of Love and the Server Love. \n4. When Server Love is full, |C:0x18ff00&T:it will unlock the next round of Love Story|, players' Love of the current round will be reset meanwhile.\n5. A |C:0x18ff00&T:Love Master| will stand out every round, the player whose Love |C:0x18ff00&T:ranking No.1| in the current round of Love Story will get the rewards. The rewards will be sent to players via mail upon the refresh of the current round. \n6. The event will be divided into two stages. The first stage is from |C:0x18ff00&T:Feb 13 to Feb 15| and the second is from |C:0x18ff00&T:Feb 16 to Feb 19|, the rewards will be issued via mail based on the ranking upon the end of each stage. \n"
+    },
+    "185": {
+        "id": 185,
+        "title": "",
+        "text": "1. Love Ranking is an event that uses |C:0x13ee22&T:Specific Items|. \n2. For every 1 |C:0x13ee22&T:Rose| used, it grants |C:0x13ee22&T:10 points of Love|; for every 1 |C:0x13ee22&T:Chocolate| used, it grants |C:0x13ee22&T:20 points of Love|; For every 1 |C:0x13ee22&T:Love Letter| used, it grants |C:0x13ee22&T:50 points of Love|. \n3. Players can be listed on the Ranking when their Love reaches a certain amount. The players on the Rank will gain ranking rewards. \n4. When there are multiple players with the same amount of Love, the first player who reaches that amount will be ranked first. \n5. When reaching a certain amount of Love, players can claim the related rewards. \n6. The event will be divided into two stages. The first stage is from |C:0x18ff00&T:Feb 13 to Feb 15| and the second is from |C:0x18ff00&T:Feb 16 to Feb 19|, the rewards will be issued via mail based on the ranking upon the end of each stage.\n"
+    },
+    "186": {
+        "id": 186,
+        "title": "",
+        "text": "1.You can choose the appearance you like as the |C:0x13ee22&T:final prize| for the event. After you choose the |C:0x13ee22&T:final prize|, it goes into the pool. You can perform exploration by flipping cards. The final prize you choose is guaranteed to get through explorating a floor.\n2.Have a chance to trigger|C:0x13ee22&T:Crit hit| when flipping cards, and gain the relevant |C:0x13ee22&T:multiples| of rewards.\n3. After getting the final prize, |C:0x13ee22&T:all rewards| under unflipped cards will be obtained directly.\n4.You go to the next floor when you get the final prize and need to choose a new final prize again.\n5.You can unlock rarer |C:0x13ee22&T:final prize| on higher floors!\n6.You need more |C:0x13ee22&T:lucky compasses| on higher floors. You can purchase |C:0x13ee22&T:lucky compasses| with |C:0x13ee22&T:vouchers|.\n7.Use |C:0x13ee22&T:lucky compasses| to flip for a certain times to gain |C:0x13ee22&T:extra rewards|.\n8.There're two periods in this event: First |C:0x13ee22&T:Mar 18 to Mar 20|, second |C:0x13ee22&T:Mar 21 to Mar 24|\n"
+    },
+    "187": {
+        "id": 187,
+        "title": "",
+        "text": "1.Thanksgiving Day is decided according to |C:0x13ee22&T:Card Flip Floor|.\n2.Use |C:0x13ee22&T:Lucky Compass| to flip cards and have a chance to get the designated |C:0x13ee22&T:final prize|, and |C:0x13ee22&T:go to the next floor| after obtaining the final prize.\n3.You'll be ranked and receive ranking rewards when reaching a certain floor.\n4.If more than one player reached the same floor, the one who first reached the floor will be ranked first.\n5.Gain relevant rewards when reaching a certain floor.\n6.There're two periods in this event: First |C:0x13ee22&T:Mar 18 to Mar 20|, second |C:0x13ee22&T:Mar 21 to Mar 24|, relevant ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "188": {
+        "id": 188,
+        "title": "",
+        "text": "1.In the Treasure Hunt, use |C:0x13ee22&T:certain items| to perform treasure hunt.\n2.Using 1 |C:0x13ee22&T:Myth Tome| grants |C:0x13ee22&T:10 treasure hunt points|. \n3.You can be listed in the ranking and receive relevant rewards when you get enough points.\n4.If two players have the same amount, the first one who reaches this point will be ranked first.\n5.You get relevant rewards when points reach a certain amount.\n6.There're two periods in this event: First |C:0x13ee22&T:Jan 9 to Jan 11|, second |C:0x13ee22&T:Jan 12 to Jan 15|, relevant ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "189": {
+        "id": 189,
+        "title": "",
+        "text": "1. Egg Point Ranking is an event that uses |C:0x13ee22&T:Specific Items|. \n2. For every 1 |C:0x13ee22&T:Silver Hammer| used, it grants |C:0x13ee22&T:1 Egg Point|; for every 1 |C:0x13ee22&T:Gold Hammer| used, it grants |C:0x13ee22&T:10 Egg Points|; For every 1 |C:0x13ee22&T:Diamond Hammer| used, it grants |C:0x13ee22&T:50 Egg Points|. \n3. Players can be listed on the Ranking when their Egg Point reaches a certain amount. The players on the Ranking will get rewards. \n4. When there are multiple players with the same amount of Egg Points, the first player who reaches that amount will be ranked first. \n5. When reaching a certain amount of Egg Points, players can claim the related rewards. \n6. The event will be divided into two stages. The first stage is from |C:0x13ee22&T:Mar 18 to Mar 20| and the second is from |C:0x13ee22&T:Mar 21 to Mar 24|, the rewards will be issued via mail based on the ranking upon the end of each stage.\n"
+    },
+    "190": {
+        "id": 190,
+        "title": "",
+        "text": "1.In Treasure Hunt, use |C:0x13ee22&T:certain items| to perform treasure hunt.\n2. Using 1 |C:0x13ee22&T:Energy Core| grants |C:0x13ee22&T:10 treasure hunt points|. \n3.Players can be listed on the ranking and receive relevant rewards with enough points.\n4. When there are multiple players with the same amount of points, the first player who reaches that amount will be ranked first. \n5. When reaching a certain amount of Egg Points, players can claim the related rewards. \n6. The event will be divided into two stages. The first stage is from |C:0x13ee22&T:Mar 18 to Mar 20| and the second is from |C:0x13ee22&T:Mar 21 to Mar 24|, the rewards will be issued via mail based on the ranking upon the end of each stage.\n"
+    },
+    "191": {
+        "id": 191,
+        "title": "",
+        "text": "1.Voucher Spending Ranking is decided by the voucher you spend during the event.\n2.Spend more |C:0x13ee22&T:Vouchers| to get a higher ranking.\n3. Players need to spend a certain amount of |C:0x13ee22&T:Vouchers| to be listed and listed players can get the ranking rewards.\n4.Spend a specific amount of |C:0x13ee22&T:Vouchers| to get the according rewards.\n5. The event is divided into two periods, the first one is from |C:0x18ff00&T:Feb 13 to Feb 15|,the second one is from |C:0x18ff00&T:Feb 16 to Feb 19|, ranking rewards will be issued via mail when each period ends.\n"
+    },
+    "192": {
+        "id": 192,
+        "title": "",
+        "text": "1. After the Race Time starts, you can activate the ticket to participate in the event and gain rewards.\n2. You need to race with the system. Most items in the maze are first come first served. |C:0x13ee22&T:Complete race quests or top up to gain drawing attempts, you'll advance 1-3 for a normal draw, and system will advance 2. You'll advance 5 for a special draw, and system will advance 3|.\n3. Reward will go to the system is you're behind or in the same place with the system, and reward will go to you if you're ahead of the system. Reward goes to the system will be stored in Looted Rewards. |C:0x13ee22&T:When you complete the race, system will give you all looted rewards|.\n4.|C:0x13ee22&T:You'll win the grand prize after you complete the race|.\n5. The race ranking is cross-server, |C:0x13ee22&T:you'll be ranked according to your completion time|, ample rewards for all players in the rank. First come, first served.\n6. Charge to Victory!|C:0x13ee22&T:Event time: Mar. 24th - Mar. 30th|."
+    },
+    "193": {
+        "id": 193,
+        "title": "",
+        "text": "1. Choose the reward you want from all wish on the wishing tree.\n2. You can always change your wish |C:0x13ee22&T:before open it|.\n3. You can click to open your wish when reach the |C:0x13ee22&T:required time|.\n4. You |C:0x13ee22&T:cannot change| the reward in wishing tree after you opened your wish.\n5、|C:0x13ee22&T:Top up the required amount| to gain open attempts.\n6、You gain |C:0x13ee22&T:watering attempts| everyday, claim rewards for total watering.\n7. Unclaimed rewards will be |C:0x13ee22&T:issued via mail| after event ends."
+    },
+    "194": {
+        "id": 194,
+        "title": "",
+        "text": "1. You can collect relevant item during the event and |C:0x13ee22&T:Summon Meteor Shower| with required amount of items. \n2. Summon to gain relevant wishing rewards.\n3. Every meteor shower has |C:0x13ee22&T:fixed reward| and random |C:0x13ee22&T:chance reward|.\n4. Summon meteor shower to gain Stars, every meteor shower provides you with different amount of Stars.\n5. You'll gain higher rank for more Stars.\n6. This event is divided into to stages, first: |C:0x13ee22&T:Mar 24 to Mar 26|, second: |C:0x13ee22&T:Mar 27 to Mar 30|."
+    },
+    "195": {
+        "id": 195,
+        "title": "",
+        "text": "1. You can summon meteor shower and gain Stars for star rank during the event.\n2. Every meteor shower provides you with different amount of Stars.\n3. You'll be ranked and gain rank rewards after your Stars reached the required points. If multiple player has the same Stars, the one who reached this amount first will be listed higher. \n|C:0xFFB82A&T:Event time: |\nThis event is divided into to stages, first: |C:0x13ee22&T:Mar 24 to Mar 26|, second: |C:0x13ee22&T:Mar 27 to Mar 30|. The ranking reward will be settled according to your rank when each stage ends and send to you via mail."
+    },
+    "196": {
+        "id": 196,
+        "title": "",
+        "text": "1. Choose one of the outfit and |C:0x13ee22&T:Join a Faction|.\n2. You can use event item to |C:0x13ee22&T:Vote| after joining a faction and increase heat of your faction.\n3. You'll gain |C:0x13ee22&T:Heat Reward| after your contribution reached the required amount.\n4. There's |C:0x13ee22&T:stage reward| for each faction and all members in this faction can claim it when heat reaches the required amount.\n5. Your faction recieves |C:0x13ee22&T:faction chests| when heat reaches required amount, and all chests will be randomly |C:0x13ee22&T:issued to members in the faction| when event settles.\n6. |C:0x13ee22&T:Top 50| in rank for each faction can obtain rank reward.\n7. This event is divided into to stages, first: |C:0x13ee22&T:Mar 24 to Mar 26|, second: |C:0x13ee22&T:Mar 27 to Mar 30|."
+    },
+    "197": {
+        "id": 197,
+        "title": "",
+        "text": "1. During the event, you can gain heat and participate in faction ranking by voting in faction competition.\n2. Each voting item provide you with different amount of heat.\n3. You need to reach the required amount of heat to be listed in rank.  If multiple player has the same heat, the one who reached this amount first will be listed higher.\n|C:0xFFB82A&T:Event time: |\nThis event is divided into to stages, first: |C:0x13ee22&T:Mar 24 to Mar 26|, second: |C:0x13ee22&T:Mar 27 to Mar 30|. The ranking reward will be settled according to your rank when each stage ends and send to you via mail."
+    },
+    "198": {
+        "id": 198,
+        "title": "",
+        "text": "1. Single top up to claim relevant reward. You can claim each single top up reward |C:0x13ee22&T:once| a day.\n2. The single top up reward will be reset on |C:0x13ee22&T:00:00| everyday, and you can complete and claim it again after reset.\n3. Unclaimed reward will be issued via mail when reset.\n4. You can open up to |C:0x13ee22&T:200| mysterious chests with quick open, and when your chests are |C:0x13ee22&T:less than 200|, all chests you own will be opened."
+    },
+    "199": {
+        "id": 199,
+        "title": "",
+        "text": "1. Purchase the gift box in event to get mmeteor shower summoning items and rare |C:0x13ee22&T:Meteor Badge|.\n2. Use meteor badge to draw the wishing reward, chance to gain valuable wings: |C:0x13ee22&T:Spring Wings|!\n3. You need 10 meteor badges for a single draw and 100 badges for 10x draw. All items can be kept and used in future events after the event ends."
+    },
+    "200": {
+        "id": 200,
+        "title": "",
+        "text": "1. Some |C:0x15ef0a&T:UR and UTR| morph can gain relevant resonate stats with resonate gems or resonate crystals.\n2. You gain basic stats bonus when resonate as well as |C:0x15ef0a&T:% bonus for all basic stats (including upgrade, morph, ensol and so on)| according to other module in this system. \n3. Your resonate level is limited by your morph tier, and UTR morph has a higher resonate level limitation."
+    },
+    "201": {
+        "id": 201,
+        "title": "",
+        "text": "1.You can choose the appearance you like as the |C:0x13ee22&T:final prize| for the event. After you choose the |C:0x13ee22&T:final prize|, it goes into the pool. You can perform exploration by flipping cards. The final prize you choose is guaranteed to get through explorating a floor.\n2.Have a chance to trigger|C:0x13ee22&T:Crit hit| when flipping cards, and gain the relevant |C:0x13ee22&T:multiples| of rewards.\n3. After getting the final prize, |C:0x13ee22&T:all rewards| under unflipped cards will be obtained directly.\n4.You go to the next floor when you get the final prize and need to choose a new final prize again.\n5.You can unlock rarer |C:0x13ee22&T:final prize| on higher floors!\n6.You need more |C:0x13ee22&T:lucky compasses| on higher floors. You can purchase |C:0x13ee22&T:lucky compasses| with |C:0x13ee22&T:vouchers|.\n7.Use |C:0x13ee22&T:lucky compasses| to flip for a certain times to gain |C:0x13ee22&T:extra rewards|.\n8.There're two periods in this event: First |C:0x13ee22&T:Jan 6 to Jan 8|, second |C:0x13ee22&T:Jan 9 to Jan 12|\n"
+    },
+    "202": {
+        "id": 202,
+        "title": "",
+        "text": "1.Treasure Hunt is decided according to |C:0x13ee22&T:Card Flip Floor|.\n2.Use |C:0x13ee22&T:Lucky Compass| to flip cards and have a chance to get the designated |C:0x13ee22&T:final prize|, and |C:0x13ee22&T:go to the next floor| after obtaining the final prize.\n3.You'll be ranked and receive ranking rewards when reaching a certain floor.\n4.If more than one player reached the same floor, the one who first reached the floor will be ranked first.\n5.Gain relevant rewards when reaching a certain floor.\n6.There're two periods in this event: First |C:0x13ee22&T:Jan 6 to Jan 8|, second |C:0x13ee22&T:Jan 9 to Jan 12|, relevant ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "203": {
+        "id": 203,
+        "title": "",
+        "text": "1.You can choose the appearance you like as the |C:0x13ee22&T:final prize| for the event. After you choose the |C:0x13ee22&T:final prize|, it goes into the pool. You can perform exploration by flipping cards. The final prize you choose is guaranteed to get through explorating a floor.\n2.Have a chance to trigger|C:0x13ee22&T:Crit hit| when flipping cards, and gain the relevant |C:0x13ee22&T:multiples| of rewards.\n3. After getting the final prize, |C:0x13ee22&T:all rewards| under unflipped cards will be obtained directly.\n4.You go to the next floor when you get the final prize and need to choose a new final prize again.\n5.You can unlock rarer |C:0x13ee22&T:final prize| on higher floors!\n6.You need more |C:0x13ee22&T:lucky compasses| on higher floors. You can purchase |C:0x13ee22&T:lucky compasses| with |C:0x13ee22&T:vouchers|.\n7.Use |C:0x13ee22&T:lucky compasses| to flip for a certain times to gain |C:0x13ee22&T:extra rewards|.\n8.There're two periods in this event: First |C:0x13ee22&T:Apr 7 to Apr 9|, second |C:0x13ee22&T:Apr 10 to Apr 13|\n"
+    },
+    "204": {
+        "id": 204,
+        "title": "",
+        "text": "1.Thanksgiving Day is decided according to |C:0x13ee22&T:Card Flip Floor|.\n2.Use |C:0x13ee22&T:Lucky Compass| to flip cards and have a chance to get the designated |C:0x13ee22&T:final prize|, and |C:0x13ee22&T:go to the next floor| after obtaining the final prize.\n3.You'll be ranked and receive ranking rewards when reaching a certain floor.\n4.If more than one player reached the same floor, the one who first reached the floor will be ranked first.\n5.Gain relevant rewards when reaching a certain floor.\n6.There're two periods in this event: First |C:0x13ee22&T:Apr 7 to Apr 9|, second |C:0x13ee22&T:Apr 10 to Apr 13|, relevant ranking rewards will be sent via mail when each period ends.\n"
+    },
+    "205": {
+        "id": 205,
+        "title": "",
+        "text": "1. After the Race Time starts, you can activate the ticket to participate in the event and gain rewards.\n2. You need to race with the system. Most items in the maze are first come first served. |C:0x13ee22&T:Complete race quests or top up to gain drawing attempts, you'll advance 1-3 for a normal draw, and system will advance 2. You'll advance 5 for a special draw, and system will advance 3|.\n3. Reward will go to the system is you're behind or in the same place with the system, and reward will go to you if you're ahead of the system. Reward goes to the system will be stored in Looted Rewards. |C:0x13ee22&T:When you complete the race, system will give you all looted rewards|.\n4.|C:0x13ee22&T:You'll win the grand prize after you complete the race|.\n5. The race ranking is cross-server, |C:0x13ee22&T:you'll be ranked according to your completion time|, ample rewards for all players in the rank. First come, first served.\n6. Charge to Victory!|C:0x13ee22&T:Event time: Jan 13 to Jan 19|."
+    },
+    "206": {
+        "id": 206,
+        "title": "",
+        "text": "1. You can collect relevant item during the event and |C:0x13ee22&T:Summon Meteor Shower| with required amount of items. \n2. Summon to gain relevant wishing rewards.\n3. Every meteor shower has |C:0x13ee22&T:fixed reward| and random |C:0x13ee22&T:chance reward|.\n4. Summon meteor shower to gain Stars, every meteor shower provides you with different amount of Stars.\n5. You'll gain higher rank for more Stars.\n6. This event is divided into to stages, first: |C:0x13ee22&T:Jan 13 to Jan 15|, second: |C:0x13ee22&T:Jan 16 to Jan 19|."
+    },
+    "207": {
+        "id": 207,
+        "title": "",
+        "text": "1. You can collect relevant item during the event and |C:0x13ee22&T:Summon Meteor Shower| with required amount of items. \n2. Summon to gain relevant wishing rewards.\n3. Every meteor shower has |C:0x13ee22&T:fixed reward| and random |C:0x13ee22&T:chance reward|.\n4. Summon meteor shower to gain Stars, every meteor shower provides you with different amount of Stars.\n5. You'll gain higher rank for more Stars.\n6. This event is divided into to stages, first: |C:0x13ee22&T:Jan 13 to Jan 15|, second: |C:0x13ee22&T:Jan 16 to Jan 19|."
+    },
+    "208": {
+        "id": 208,
+        "title": "",
+        "text": "1. Choose one of the outfit and |C:0x13ee22&T:Join a Faction|.\n2. You can use event item to |C:0x13ee22&T:Vote| after joining a faction and increase heat of your faction.\n3. You'll gain |C:0x13ee22&T:Heat Reward| after your contribution reached the required amount.\n4. There's |C:0x13ee22&T:stage reward| for each faction and all members in this faction can claim it when heat reaches the required amount.\n5. Your faction recieves |C:0x13ee22&T:faction chests| when heat reaches required amount, and all chests will be randomly |C:0x13ee22&T:issued to members in the faction| when event settles.\n6. |C:0x13ee22&T:Top 50| in rank for each faction can obtain rank reward.\n7. This event is divided into to stages, first: |C:0x13ee22&T:Jan 13 to Jan 15|, second: |C:0x13ee22&T:Jan 16 to Jan 19|."
+    },
+    "209": {
+        "id": 209,
+        "title": "",
+        "text": "1. During the event, you can gain heat and participate in faction ranking by voting in faction competition.\n2. Each voting item provide you with different amount of heat.\n3. You need to reach the required amount of heat to be listed in rank.  If multiple player has the same heat, the one who reached this amount first will be listed higher.\n|C:0xFFB82A&T:Event time: |\nThis event is divided into to stages, first: |C:0x13ee22&T:Jan 13 to Jan 15|, second: |C:0x13ee22&T:Jan 16 to Jan 19|. The ranking reward will be settled according to your rank when each stage ends and send to you via mail."
+    },
+    "999": {
+        "id": 999,
+        "title": "",
+        "text": "ซื้อแล้วได่ SVIP1 ปลดล็อกสิทธิประโยชน์และสิทธิพิเศ"
+    }
+}

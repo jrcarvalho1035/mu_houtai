@@ -1,0 +1,86 @@
+{
+    "1": {
+        "id": 1,
+        "reward": [
+            {
+                "type": 0,
+                "id": 15,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 300000
+            }
+        ],
+        "extra": [],
+        "gatherTime": 1800,
+        "showBless": 2,
+        "rate": 80,
+        "name": "Leather Miner",
+        "apperance": "12001"
+    },
+    "2": {
+        "id": 2,
+        "reward": [
+            {
+                "type": 0,
+                "id": 15,
+                "count": 1000
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 600000
+            }
+        ],
+        "extra": [],
+        "gatherTime": 1800,
+        "showBless": 6,
+        "rate": 35,
+        "name": "Bronze Miner",
+        "apperance": "12002"
+    },
+    "3": {
+        "id": 3,
+        "reward": [
+            {
+                "type": 0,
+                "id": 15,
+                "count": 2000
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 1200000
+            }
+        ],
+        "extra": [],
+        "gatherTime": 1800,
+        "showBless": 12,
+        "rate": 5,
+        "name": "Platinum Miner",
+        "apperance": "12003"
+    },
+    "4": {
+        "id": 4,
+        "reward": [
+            {
+                "type": 0,
+                "id": 15,
+                "count": 4000
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 2400000
+            }
+        ],
+        "extra": [],
+        "gatherTime": 1800,
+        "showBless": 0,
+        "rate": 0,
+        "name": "Dragon Miner",
+        "apperance": "12004"
+    }
+}

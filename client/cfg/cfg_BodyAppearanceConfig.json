@@ -1,0 +1,1386 @@
+{
+    "100": {
+        "id": 100,
+        "appearance": "body100"
+    },
+    "101": {
+        "id": 101,
+        "appearance": "body101"
+    },
+    "102": {
+        "id": 102,
+        "appearance": "body102"
+    },
+    "103": {
+        "id": 103,
+        "appearance": "body103"
+    },
+    "104": {
+        "id": 104,
+        "appearance": "body104"
+    },
+    "105": {
+        "id": 105,
+        "appearance": "body105"
+    },
+    "106": {
+        "id": 106,
+        "appearance": "body106"
+    },
+    "107": {
+        "id": 107,
+        "appearance": "body107"
+    },
+    "108": {
+        "id": 108,
+        "appearance": "body108"
+    },
+    "109": {
+        "id": 109,
+        "appearance": "body109"
+    },
+    "110": {
+        "id": 110,
+        "appearance": "body110"
+    },
+    "111": {
+        "id": 111,
+        "appearance": "body111"
+    },
+    "112": {
+        "id": 112,
+        "appearance": "body112"
+    },
+    "113": {
+        "id": 113,
+        "appearance": "body113"
+    },
+    "114": {
+        "id": 114,
+        "appearance": "body114"
+    },
+    "115": {
+        "id": 115,
+        "appearance": "body115"
+    },
+    "116": {
+        "id": 116,
+        "appearance": "body116"
+    },
+    "117": {
+        "id": 117,
+        "appearance": "body117"
+    },
+    "118": {
+        "id": 118,
+        "appearance": "body118"
+    },
+    "119": {
+        "id": 119,
+        "appearance": "body119"
+    },
+    "120": {
+        "id": 120,
+        "appearance": "body120"
+    },
+    "121": {
+        "id": 121,
+        "appearance": "body121"
+    },
+    "122": {
+        "id": 122,
+        "appearance": "body122"
+    },
+    "123": {
+        "id": 123,
+        "appearance": "body123"
+    },
+    "124": {
+        "id": 124,
+        "appearance": "body124"
+    },
+    "125": {
+        "id": 125,
+        "appearance": "body125"
+    },
+    "126": {
+        "id": 126,
+        "appearance": "body126"
+    },
+    "127": {
+        "id": 127,
+        "appearance": "body127"
+    },
+    "128": {
+        "id": 128,
+        "appearance": "body128"
+    },
+    "129": {
+        "id": 129,
+        "appearance": "body129"
+    },
+    "130": {
+        "id": 130,
+        "appearance": "body130"
+    },
+    "131": {
+        "id": 131,
+        "appearance": "body131"
+    },
+    "132": {
+        "id": 132,
+        "appearance": "body132"
+    },
+    "133": {
+        "id": 133,
+        "appearance": "body133"
+    },
+    "134": {
+        "id": 134,
+        "appearance": "body134"
+    },
+    "135": {
+        "id": 135,
+        "appearance": "body135"
+    },
+    "136": {
+        "id": 136,
+        "appearance": "body136"
+    },
+    "137": {
+        "id": 137,
+        "appearance": "body137"
+    },
+    "138": {
+        "id": 138,
+        "appearance": "body138"
+    },
+    "139": {
+        "id": 139,
+        "appearance": "body139"
+    },
+    "140": {
+        "id": 140,
+        "appearance": "body140"
+    },
+    "141": {
+        "id": 141,
+        "appearance": "body141"
+    },
+    "142": {
+        "id": 142,
+        "appearance": "body142"
+    },
+    "143": {
+        "id": 143,
+        "appearance": "body143"
+    },
+    "144": {
+        "id": 144,
+        "appearance": "body144"
+    },
+    "145": {
+        "id": 145,
+        "appearance": "body145"
+    },
+    "146": {
+        "id": 146,
+        "appearance": "body146"
+    },
+    "147": {
+        "id": 147,
+        "appearance": "body147"
+    },
+    "148": {
+        "id": 148,
+        "appearance": "body148"
+    },
+    "149": {
+        "id": 149,
+        "appearance": "body149"
+    },
+    "150": {
+        "id": 150,
+        "appearance": "body150"
+    },
+    "151": {
+        "id": 151,
+        "appearance": "body151"
+    },
+    "152": {
+        "id": 152,
+        "appearance": "body152"
+    },
+    "153": {
+        "id": 153,
+        "appearance": "body153"
+    },
+    "154": {
+        "id": 154,
+        "appearance": "body154"
+    },
+    "155": {
+        "id": 155,
+        "appearance": "body155"
+    },
+    "156": {
+        "id": 156,
+        "appearance": "body156"
+    },
+    "157": {
+        "id": 157,
+        "appearance": "body157"
+    },
+    "158": {
+        "id": 158,
+        "appearance": "body158"
+    },
+    "159": {
+        "id": 159,
+        "appearance": "body159"
+    },
+    "160": {
+        "id": 160,
+        "appearance": "body160"
+    },
+    "161": {
+        "id": 161,
+        "appearance": "body161"
+    },
+    "162": {
+        "id": 162,
+        "appearance": "body162"
+    },
+    "163": {
+        "id": 163,
+        "appearance": "body163"
+    },
+    "164": {
+        "id": 164,
+        "appearance": "body164"
+    },
+    "165": {
+        "id": 165,
+        "appearance": "body165"
+    },
+    "166": {
+        "id": 166,
+        "appearance": "body166"
+    },
+    "167": {
+        "id": 167,
+        "appearance": "body167"
+    },
+    "168": {
+        "id": 168,
+        "appearance": "body168"
+    },
+    "169": {
+        "id": 169,
+        "appearance": "body169"
+    },
+    "170": {
+        "id": 170,
+        "appearance": "body170"
+    },
+    "171": {
+        "id": 171,
+        "appearance": "body171"
+    },
+    "172": {
+        "id": 172,
+        "appearance": "body172"
+    },
+    "173": {
+        "id": 173,
+        "appearance": "body173"
+    },
+    "174": {
+        "id": 174,
+        "appearance": "body174"
+    },
+    "175": {
+        "id": 175,
+        "appearance": "body175"
+    },
+    "176": {
+        "id": 176,
+        "appearance": "body176"
+    },
+    "177": {
+        "id": 177,
+        "appearance": "body177"
+    },
+    "178": {
+        "id": 178,
+        "appearance": "body178"
+    },
+    "179": {
+        "id": 179,
+        "appearance": "body179"
+    },
+    "180": {
+        "id": 180,
+        "appearance": "body180"
+    },
+    "181": {
+        "id": 181,
+        "appearance": "body181"
+    },
+    "200": {
+        "id": 200,
+        "appearance": "body200"
+    },
+    "201": {
+        "id": 201,
+        "appearance": "body201"
+    },
+    "202": {
+        "id": 202,
+        "appearance": "body202"
+    },
+    "203": {
+        "id": 203,
+        "appearance": "body203"
+    },
+    "204": {
+        "id": 204,
+        "appearance": "body204"
+    },
+    "205": {
+        "id": 205,
+        "appearance": "body205"
+    },
+    "206": {
+        "id": 206,
+        "appearance": "body206"
+    },
+    "207": {
+        "id": 207,
+        "appearance": "body207"
+    },
+    "208": {
+        "id": 208,
+        "appearance": "body208"
+    },
+    "209": {
+        "id": 209,
+        "appearance": "body209"
+    },
+    "210": {
+        "id": 210,
+        "appearance": "body210"
+    },
+    "211": {
+        "id": 211,
+        "appearance": "body211"
+    },
+    "212": {
+        "id": 212,
+        "appearance": "body212"
+    },
+    "213": {
+        "id": 213,
+        "appearance": "body213"
+    },
+    "214": {
+        "id": 214,
+        "appearance": "body214"
+    },
+    "215": {
+        "id": 215,
+        "appearance": "body215"
+    },
+    "216": {
+        "id": 216,
+        "appearance": "body216"
+    },
+    "217": {
+        "id": 217,
+        "appearance": "body217"
+    },
+    "218": {
+        "id": 218,
+        "appearance": "body218"
+    },
+    "219": {
+        "id": 219,
+        "appearance": "body219"
+    },
+    "220": {
+        "id": 220,
+        "appearance": "body220"
+    },
+    "221": {
+        "id": 221,
+        "appearance": "body221"
+    },
+    "222": {
+        "id": 222,
+        "appearance": "body222"
+    },
+    "223": {
+        "id": 223,
+        "appearance": "body223"
+    },
+    "224": {
+        "id": 224,
+        "appearance": "body224"
+    },
+    "225": {
+        "id": 225,
+        "appearance": "body225"
+    },
+    "226": {
+        "id": 226,
+        "appearance": "body226"
+    },
+    "227": {
+        "id": 227,
+        "appearance": "body227"
+    },
+    "228": {
+        "id": 228,
+        "appearance": "body228"
+    },
+    "229": {
+        "id": 229,
+        "appearance": "body229"
+    },
+    "230": {
+        "id": 230,
+        "appearance": "body230"
+    },
+    "231": {
+        "id": 231,
+        "appearance": "body231"
+    },
+    "232": {
+        "id": 232,
+        "appearance": "body232"
+    },
+    "233": {
+        "id": 233,
+        "appearance": "body233"
+    },
+    "234": {
+        "id": 234,
+        "appearance": "body234"
+    },
+    "235": {
+        "id": 235,
+        "appearance": "body235"
+    },
+    "236": {
+        "id": 236,
+        "appearance": "body236"
+    },
+    "237": {
+        "id": 237,
+        "appearance": "body237"
+    },
+    "238": {
+        "id": 238,
+        "appearance": "body238"
+    },
+    "239": {
+        "id": 239,
+        "appearance": "body239"
+    },
+    "240": {
+        "id": 240,
+        "appearance": "body240"
+    },
+    "241": {
+        "id": 241,
+        "appearance": "body241"
+    },
+    "242": {
+        "id": 242,
+        "appearance": "body242"
+    },
+    "243": {
+        "id": 243,
+        "appearance": "body243"
+    },
+    "244": {
+        "id": 244,
+        "appearance": "body244"
+    },
+    "245": {
+        "id": 245,
+        "appearance": "body245"
+    },
+    "246": {
+        "id": 246,
+        "appearance": "body246"
+    },
+    "247": {
+        "id": 247,
+        "appearance": "body247"
+    },
+    "248": {
+        "id": 248,
+        "appearance": "body248"
+    },
+    "249": {
+        "id": 249,
+        "appearance": "body249"
+    },
+    "250": {
+        "id": 250,
+        "appearance": "body250"
+    },
+    "251": {
+        "id": 251,
+        "appearance": "body251"
+    },
+    "252": {
+        "id": 252,
+        "appearance": "body252"
+    },
+    "253": {
+        "id": 253,
+        "appearance": "body253"
+    },
+    "254": {
+        "id": 254,
+        "appearance": "body254"
+    },
+    "255": {
+        "id": 255,
+        "appearance": "body255"
+    },
+    "256": {
+        "id": 256,
+        "appearance": "body256"
+    },
+    "257": {
+        "id": 257,
+        "appearance": "body257"
+    },
+    "258": {
+        "id": 258,
+        "appearance": "body258"
+    },
+    "259": {
+        "id": 259,
+        "appearance": "body259"
+    },
+    "260": {
+        "id": 260,
+        "appearance": "body260"
+    },
+    "261": {
+        "id": 261,
+        "appearance": "body261"
+    },
+    "262": {
+        "id": 262,
+        "appearance": "body262"
+    },
+    "263": {
+        "id": 263,
+        "appearance": "body263"
+    },
+    "264": {
+        "id": 264,
+        "appearance": "body264"
+    },
+    "265": {
+        "id": 265,
+        "appearance": "body265"
+    },
+    "266": {
+        "id": 266,
+        "appearance": "body266"
+    },
+    "267": {
+        "id": 267,
+        "appearance": "body267"
+    },
+    "268": {
+        "id": 268,
+        "appearance": "body268"
+    },
+    "269": {
+        "id": 269,
+        "appearance": "body269"
+    },
+    "270": {
+        "id": 270,
+        "appearance": "body270"
+    },
+    "271": {
+        "id": 271,
+        "appearance": "body271"
+    },
+    "272": {
+        "id": 272,
+        "appearance": "body272"
+    },
+    "273": {
+        "id": 273,
+        "appearance": "body273"
+    },
+    "274": {
+        "id": 274,
+        "appearance": "body274"
+    },
+    "275": {
+        "id": 275,
+        "appearance": "body275"
+    },
+    "276": {
+        "id": 276,
+        "appearance": "body276"
+    },
+    "277": {
+        "id": 277,
+        "appearance": "body277"
+    },
+    "278": {
+        "id": 278,
+        "appearance": "body278"
+    },
+    "279": {
+        "id": 279,
+        "appearance": "body279"
+    },
+    "280": {
+        "id": 280,
+        "appearance": "body280"
+    },
+    "281": {
+        "id": 281,
+        "appearance": "body281"
+    },
+    "300": {
+        "id": 300,
+        "appearance": "body300"
+    },
+    "301": {
+        "id": 301,
+        "appearance": "body301"
+    },
+    "302": {
+        "id": 302,
+        "appearance": "body302"
+    },
+    "303": {
+        "id": 303,
+        "appearance": "body303"
+    },
+    "304": {
+        "id": 304,
+        "appearance": "body304"
+    },
+    "305": {
+        "id": 305,
+        "appearance": "body305"
+    },
+    "306": {
+        "id": 306,
+        "appearance": "body306"
+    },
+    "307": {
+        "id": 307,
+        "appearance": "body307"
+    },
+    "308": {
+        "id": 308,
+        "appearance": "body308"
+    },
+    "309": {
+        "id": 309,
+        "appearance": "body309"
+    },
+    "310": {
+        "id": 310,
+        "appearance": "body310"
+    },
+    "311": {
+        "id": 311,
+        "appearance": "body311"
+    },
+    "312": {
+        "id": 312,
+        "appearance": "body312"
+    },
+    "313": {
+        "id": 313,
+        "appearance": "body313"
+    },
+    "314": {
+        "id": 314,
+        "appearance": "body314"
+    },
+    "315": {
+        "id": 315,
+        "appearance": "body315"
+    },
+    "316": {
+        "id": 316,
+        "appearance": "body316"
+    },
+    "317": {
+        "id": 317,
+        "appearance": "body317"
+    },
+    "318": {
+        "id": 318,
+        "appearance": "body318"
+    },
+    "319": {
+        "id": 319,
+        "appearance": "body319"
+    },
+    "320": {
+        "id": 320,
+        "appearance": "body320"
+    },
+    "321": {
+        "id": 321,
+        "appearance": "body321"
+    },
+    "322": {
+        "id": 322,
+        "appearance": "body322"
+    },
+    "323": {
+        "id": 323,
+        "appearance": "body323"
+    },
+    "324": {
+        "id": 324,
+        "appearance": "body324"
+    },
+    "325": {
+        "id": 325,
+        "appearance": "body325"
+    },
+    "326": {
+        "id": 326,
+        "appearance": "body326"
+    },
+    "327": {
+        "id": 327,
+        "appearance": "body327"
+    },
+    "328": {
+        "id": 328,
+        "appearance": "body328"
+    },
+    "329": {
+        "id": 329,
+        "appearance": "body329"
+    },
+    "330": {
+        "id": 330,
+        "appearance": "body330"
+    },
+    "331": {
+        "id": 331,
+        "appearance": "body331"
+    },
+    "332": {
+        "id": 332,
+        "appearance": "body332"
+    },
+    "333": {
+        "id": 333,
+        "appearance": "body333"
+    },
+    "334": {
+        "id": 334,
+        "appearance": "body334"
+    },
+    "335": {
+        "id": 335,
+        "appearance": "body335"
+    },
+    "336": {
+        "id": 336,
+        "appearance": "body336"
+    },
+    "337": {
+        "id": 337,
+        "appearance": "body337"
+    },
+    "338": {
+        "id": 338,
+        "appearance": "body338"
+    },
+    "339": {
+        "id": 339,
+        "appearance": "body339"
+    },
+    "340": {
+        "id": 340,
+        "appearance": "body340"
+    },
+    "341": {
+        "id": 341,
+        "appearance": "body341"
+    },
+    "342": {
+        "id": 342,
+        "appearance": "body342"
+    },
+    "343": {
+        "id": 343,
+        "appearance": "body343"
+    },
+    "344": {
+        "id": 344,
+        "appearance": "body344"
+    },
+    "345": {
+        "id": 345,
+        "appearance": "body345"
+    },
+    "346": {
+        "id": 346,
+        "appearance": "body346"
+    },
+    "347": {
+        "id": 347,
+        "appearance": "body347"
+    },
+    "348": {
+        "id": 348,
+        "appearance": "body348"
+    },
+    "349": {
+        "id": 349,
+        "appearance": "body349"
+    },
+    "350": {
+        "id": 350,
+        "appearance": "body350"
+    },
+    "351": {
+        "id": 351,
+        "appearance": "body351"
+    },
+    "352": {
+        "id": 352,
+        "appearance": "body352"
+    },
+    "353": {
+        "id": 353,
+        "appearance": "body353"
+    },
+    "354": {
+        "id": 354,
+        "appearance": "body354"
+    },
+    "355": {
+        "id": 355,
+        "appearance": "body355"
+    },
+    "356": {
+        "id": 356,
+        "appearance": "body356"
+    },
+    "357": {
+        "id": 357,
+        "appearance": "body357"
+    },
+    "358": {
+        "id": 358,
+        "appearance": "body358"
+    },
+    "359": {
+        "id": 359,
+        "appearance": "body359"
+    },
+    "360": {
+        "id": 360,
+        "appearance": "body360"
+    },
+    "361": {
+        "id": 361,
+        "appearance": "body361"
+    },
+    "362": {
+        "id": 362,
+        "appearance": "body362"
+    },
+    "363": {
+        "id": 363,
+        "appearance": "body363"
+    },
+    "364": {
+        "id": 364,
+        "appearance": "body364"
+    },
+    "365": {
+        "id": 365,
+        "appearance": "body365"
+    },
+    "366": {
+        "id": 366,
+        "appearance": "body366"
+    },
+    "367": {
+        "id": 367,
+        "appearance": "body367"
+    },
+    "368": {
+        "id": 368,
+        "appearance": "body368"
+    },
+    "369": {
+        "id": 369,
+        "appearance": "body369"
+    },
+    "370": {
+        "id": 370,
+        "appearance": "body370"
+    },
+    "371": {
+        "id": 371,
+        "appearance": "body371"
+    },
+    "372": {
+        "id": 372,
+        "appearance": "body372"
+    },
+    "373": {
+        "id": 373,
+        "appearance": "body373"
+    },
+    "374": {
+        "id": 374,
+        "appearance": "body374"
+    },
+    "375": {
+        "id": 375,
+        "appearance": "body375"
+    },
+    "376": {
+        "id": 376,
+        "appearance": "body376"
+    },
+    "377": {
+        "id": 377,
+        "appearance": "body377"
+    },
+    "378": {
+        "id": 378,
+        "appearance": "body378"
+    },
+    "379": {
+        "id": 379,
+        "appearance": "body379"
+    },
+    "380": {
+        "id": 380,
+        "appearance": "body380"
+    },
+    "381": {
+        "id": 381,
+        "appearance": "body381"
+    },
+    "401": {
+        "id": 401,
+        "appearance": "mercenary401"
+    },
+    "402": {
+        "id": 402,
+        "appearance": "mercenary402"
+    },
+    "403": {
+        "id": 403,
+        "appearance": "mercenary403"
+    },
+    "404": {
+        "id": 404,
+        "appearance": "mercenary404"
+    },
+    "405": {
+        "id": 405,
+        "appearance": "mercenary405"
+    },
+    "406": {
+        "id": 406,
+        "appearance": "mercenary406"
+    },
+    "407": {
+        "id": 407,
+        "appearance": "mercenary407"
+    },
+    "408": {
+        "id": 408,
+        "appearance": "mercenary408"
+    },
+    "409": {
+        "id": 409,
+        "appearance": "mercenary409"
+    },
+    "410": {
+        "id": 410,
+        "appearance": "mercenary410"
+    },
+    "501": {
+        "id": 501,
+        "appearance": "mercenary501"
+    },
+    "502": {
+        "id": 502,
+        "appearance": "mercenary502"
+    },
+    "503": {
+        "id": 503,
+        "appearance": "mercenary503"
+    },
+    "504": {
+        "id": 504,
+        "appearance": "mercenary504"
+    },
+    "505": {
+        "id": 505,
+        "appearance": "mercenary505"
+    },
+    "506": {
+        "id": 506,
+        "appearance": "mercenary506"
+    },
+    "507": {
+        "id": 507,
+        "appearance": "mercenary507"
+    },
+    "508": {
+        "id": 508,
+        "appearance": "mercenary508"
+    },
+    "509": {
+        "id": 509,
+        "appearance": "mercenary509"
+    },
+    "510": {
+        "id": 510,
+        "appearance": "mercenary510"
+    },
+    "511": {
+        "id": 511,
+        "appearance": "mercenary511"
+    },
+    "512": {
+        "id": 512,
+        "appearance": "mercenary512"
+    },
+    "513": {
+        "id": 513,
+        "appearance": "mercenary513"
+    },
+    "514": {
+        "id": 514,
+        "appearance": "mercenary514"
+    },
+    "515": {
+        "id": 515,
+        "appearance": "mercenary515"
+    },
+    "516": {
+        "id": 516,
+        "appearance": "mercenary516"
+    },
+    "517": {
+        "id": 517,
+        "appearance": "mercenary517"
+    },
+    "518": {
+        "id": 518,
+        "appearance": "mercenary518"
+    },
+    "519": {
+        "id": 519,
+        "appearance": "mercenary519"
+    },
+    "520": {
+        "id": 520,
+        "appearance": "mercenary520"
+    },
+    "521": {
+        "id": 521,
+        "appearance": "mercenary521"
+    },
+    "522": {
+        "id": 522,
+        "appearance": "mercenary522"
+    },
+    "523": {
+        "id": 523,
+        "appearance": "mercenary523"
+    },
+    "524": {
+        "id": 524,
+        "appearance": "mercenary524"
+    },
+    "525": {
+        "id": 525,
+        "appearance": "mercenary525"
+    },
+    "526": {
+        "id": 526,
+        "appearance": "mercenary526"
+    },
+    "527": {
+        "id": 527,
+        "appearance": "mercenary527"
+    },
+    "528": {
+        "id": 528,
+        "appearance": "mercenary528"
+    },
+    "529": {
+        "id": 529,
+        "appearance": "mercenary529"
+    },
+    "530": {
+        "id": 530,
+        "appearance": "mercenary530"
+    },
+    "531": {
+        "id": 531,
+        "appearance": "mercenary531"
+    },
+    "532": {
+        "id": 532,
+        "appearance": "mercenary532"
+    },
+    "533": {
+        "id": 533,
+        "appearance": "mercenary533"
+    },
+    "534": {
+        "id": 534,
+        "appearance": "mercenary534"
+    },
+    "535": {
+        "id": 535,
+        "appearance": "mercenary535"
+    },
+    "536": {
+        "id": 536,
+        "appearance": "mercenary536"
+    },
+    "537": {
+        "id": 537,
+        "appearance": "mercenary537"
+    },
+    "538": {
+        "id": 538,
+        "appearance": "mercenary538"
+    },
+    "539": {
+        "id": 539,
+        "appearance": "mercenary539"
+    },
+    "540": {
+        "id": 540,
+        "appearance": "mercenary540"
+    },
+    "541": {
+        "id": 541,
+        "appearance": "mercenary541"
+    },
+    "542": {
+        "id": 542,
+        "appearance": "mercenary542"
+    },
+    "543": {
+        "id": 543,
+        "appearance": "mercenary543"
+    },
+    "1001": {
+        "id": 1001,
+        "appearance": "shenmo101"
+    },
+    "1002": {
+        "id": 1002,
+        "appearance": "shenmo102"
+    },
+    "1003": {
+        "id": 1003,
+        "appearance": "shenmo103"
+    },
+    "1004": {
+        "id": 1004,
+        "appearance": "shenmo104"
+    },
+    "1005": {
+        "id": 1005,
+        "appearance": "shenmo105"
+    },
+    "1006": {
+        "id": 1006,
+        "appearance": "shenmo106"
+    },
+    "1007": {
+        "id": 1007,
+        "appearance": "shenmo107"
+    },
+    "1008": {
+        "id": 1008,
+        "appearance": "shenmo108"
+    },
+    "1009": {
+        "id": 1009,
+        "appearance": "shenmo109"
+    },
+    "1010": {
+        "id": 1010,
+        "appearance": "shenmo110"
+    },
+    "5001": {
+        "id": 5001,
+        "appearance": "shenmo501"
+    },
+    "5002": {
+        "id": 5002,
+        "appearance": "shenmo502"
+    },
+    "5003": {
+        "id": 5003,
+        "appearance": "shenmo503"
+    },
+    "5004": {
+        "id": 5004,
+        "appearance": "shenmo504"
+    },
+    "5005": {
+        "id": 5005,
+        "appearance": "shenmo505"
+    },
+    "5006": {
+        "id": 5006,
+        "appearance": "shenmo506"
+    },
+    "5007": {
+        "id": 5007,
+        "appearance": "shenmo507"
+    },
+    "5008": {
+        "id": 5008,
+        "appearance": "shenmo508"
+    },
+    "5009": {
+        "id": 5009,
+        "appearance": "shenmo509"
+    },
+    "5010": {
+        "id": 5010,
+        "appearance": "shenmo510"
+    },
+    "5011": {
+        "id": 5011,
+        "appearance": "shenmo511"
+    },
+    "5012": {
+        "id": 5012,
+        "appearance": "shenmo512"
+    },
+    "5013": {
+        "id": 5013,
+        "appearance": "shenmo513"
+    },
+    "5015": {
+        "id": 5015,
+        "appearance": "shenmo515"
+    },
+    "5016": {
+        "id": 5016,
+        "appearance": "shenmo516"
+    },
+    "5017": {
+        "id": 5017,
+        "appearance": "shenmo517"
+    },
+    "5018": {
+        "id": 5018,
+        "appearance": "shenmo518"
+    },
+    "5019": {
+        "id": 5019,
+        "appearance": "shenmo519"
+    },
+    "5020": {
+        "id": 5020,
+        "appearance": "shenmo520"
+    },
+    "10001": {
+        "id": 10001,
+        "appearance": "npc10008"
+    },
+    "10002": {
+        "id": 10002,
+        "appearance": "npc10007"
+    },
+    "10003": {
+        "id": 10003,
+        "appearance": "npc10000"
+    },
+    "10004": {
+        "id": 10004,
+        "appearance": "npc10011"
+    },
+    "10005": {
+        "id": 10005,
+        "appearance": "npc10002"
+    },
+    "10006": {
+        "id": 10006,
+        "appearance": "npc10001"
+    },
+    "10007": {
+        "id": 10007,
+        "appearance": "npc10006"
+    },
+    "10008": {
+        "id": 10008,
+        "appearance": "npc10009"
+    },
+    "10009": {
+        "id": 10009,
+        "appearance": "npc10000"
+    },
+    "10010": {
+        "id": 10010,
+        "appearance": "npc10010"
+    },
+    "10011": {
+        "id": 10011,
+        "appearance": "body106"
+    },
+    "10012": {
+        "id": 10012,
+        "appearance": "body206"
+    },
+    "10013": {
+        "id": 10013,
+        "appearance": "body306"
+    },
+    "10014": {
+        "id": 10014,
+        "appearance": "npc10001"
+    },
+    "10015": {
+        "id": 10015,
+        "appearance": "npc10000"
+    },
+    "10016": {
+        "id": 10016,
+        "appearance": "npc10006"
+    },
+    "10017": {
+        "id": 10017,
+        "appearance": "npc12005"
+    },
+    "10018": {
+        "id": 10018,
+        "appearance": "npc10005"
+    }
+}

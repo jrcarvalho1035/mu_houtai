@@ -1,0 +1,33 @@
+{
+    "lastTime": 1,
+    "dartCarNumber": [
+        24,
+        26,
+        28,
+        30,
+        32
+    ],
+    "dartCarBreakNum": 4,
+    "buyChallengeCount": 10,
+    "buyChallengeMoney": 5000,
+    "buyRefreshListMoney": 1000,
+    "startTimes": [
+        [
+            11,
+            0
+        ],
+        [
+            18,
+            0
+        ],
+        [
+            21,
+            30
+        ]
+    ],
+    "settlementTime": [
+        7,
+        10,
+        40
+    ]
+}

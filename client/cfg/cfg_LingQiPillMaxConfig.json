@@ -1,0 +1,826 @@
+{
+    "1": {
+        "1": {
+            "id": 1,
+            "index": 1,
+            "level": 1,
+            "maxLevel": 40
+        },
+        "2": {
+            "id": 1,
+            "index": 2,
+            "level": 1,
+            "maxLevel": 80
+        },
+        "3": {
+            "id": 1,
+            "index": 3,
+            "level": 1,
+            "maxLevel": 120
+        },
+        "4": {
+            "id": 1,
+            "index": 4,
+            "level": 1,
+            "maxLevel": 160
+        },
+        "5": {
+            "id": 1,
+            "index": 5,
+            "level": 1,
+            "maxLevel": 200
+        },
+        "6": {
+            "id": 1,
+            "index": 6,
+            "level": 1,
+            "maxLevel": 240
+        },
+        "7": {
+            "id": 1,
+            "index": 7,
+            "level": 1,
+            "maxLevel": 280
+        },
+        "8": {
+            "id": 1,
+            "index": 8,
+            "level": 1,
+            "maxLevel": 320
+        },
+        "9": {
+            "id": 1,
+            "index": 9,
+            "level": 1,
+            "maxLevel": 400
+        },
+        "10": {
+            "id": 1,
+            "index": 10,
+            "level": 1,
+            "maxLevel": 500
+        },
+        "11": {
+            "id": 1,
+            "index": 11,
+            "level": 1,
+            "maxLevel": 600
+        },
+        "12": {
+            "id": 1,
+            "index": 12,
+            "level": 1,
+            "maxLevel": 700
+        },
+        "13": {
+            "id": 1,
+            "index": 13,
+            "level": 1,
+            "maxLevel": 800
+        },
+        "14": {
+            "id": 1,
+            "index": 14,
+            "level": 1,
+            "maxLevel": 900
+        },
+        "15": {
+            "id": 1,
+            "index": 15,
+            "level": 1,
+            "maxLevel": 1000
+        },
+        "16": {
+            "id": 1,
+            "index": 16,
+            "level": 1,
+            "maxLevel": 1100
+        },
+        "17": {
+            "id": 1,
+            "index": 17,
+            "level": 1,
+            "maxLevel": 1200
+        },
+        "18": {
+            "id": 1,
+            "index": 18,
+            "level": 1,
+            "maxLevel": 1800
+        },
+        "19": {
+            "id": 1,
+            "index": 19,
+            "level": 1,
+            "maxLevel": 2400
+        },
+        "20": {
+            "id": 1,
+            "index": 20,
+            "level": 1,
+            "maxLevel": 3000
+        },
+        "21": {
+            "id": 1,
+            "index": 21,
+            "level": 1,
+            "maxLevel": 3600
+        },
+        "22": {
+            "id": 1,
+            "index": 22,
+            "level": 1,
+            "maxLevel": 4200
+        },
+        "23": {
+            "id": 1,
+            "index": 23,
+            "level": 1,
+            "maxLevel": 4800
+        },
+        "24": {
+            "id": 1,
+            "index": 24,
+            "level": 1,
+            "maxLevel": 5400
+        },
+        "25": {
+            "id": 1,
+            "index": 25,
+            "level": 1,
+            "maxLevel": 6000
+        },
+        "26": {
+            "id": 1,
+            "index": 26,
+            "level": 1,
+            "maxLevel": 12000
+        },
+        "27": {
+            "id": 1,
+            "index": 27,
+            "level": 1,
+            "maxLevel": 18000
+        },
+        "28": {
+            "id": 1,
+            "index": 28,
+            "level": 1,
+            "maxLevel": 24000
+        },
+        "29": {
+            "id": 1,
+            "index": 29,
+            "level": 1,
+            "maxLevel": 30000
+        },
+        "30": {
+            "id": 1,
+            "index": 30,
+            "level": 1,
+            "maxLevel": 36000
+        },
+        "31": {
+            "id": 1,
+            "index": 31,
+            "level": 1,
+            "maxLevel": 42000
+        },
+        "32": {
+            "id": 1,
+            "index": 32,
+            "level": 1,
+            "maxLevel": 48000
+        },
+        "33": {
+            "id": 1,
+            "index": 33,
+            "level": 1,
+            "maxLevel": 54000
+        },
+        "34": {
+            "id": 1,
+            "index": 34,
+            "level": 1,
+            "maxLevel": 60000
+        }
+    },
+    "2": {
+        "1": {
+            "id": 2,
+            "index": 1,
+            "level": 1,
+            "maxLevel": 30
+        },
+        "2": {
+            "id": 2,
+            "index": 2,
+            "level": 1,
+            "maxLevel": 60
+        },
+        "3": {
+            "id": 2,
+            "index": 3,
+            "level": 1,
+            "maxLevel": 90
+        },
+        "4": {
+            "id": 2,
+            "index": 4,
+            "level": 1,
+            "maxLevel": 120
+        },
+        "5": {
+            "id": 2,
+            "index": 5,
+            "level": 1,
+            "maxLevel": 150
+        },
+        "6": {
+            "id": 2,
+            "index": 6,
+            "level": 1,
+            "maxLevel": 180
+        },
+        "7": {
+            "id": 2,
+            "index": 7,
+            "level": 1,
+            "maxLevel": 210
+        },
+        "8": {
+            "id": 2,
+            "index": 8,
+            "level": 1,
+            "maxLevel": 240
+        },
+        "9": {
+            "id": 2,
+            "index": 9,
+            "level": 1,
+            "maxLevel": 300
+        },
+        "10": {
+            "id": 2,
+            "index": 10,
+            "level": 1,
+            "maxLevel": 400
+        },
+        "11": {
+            "id": 2,
+            "index": 11,
+            "level": 1,
+            "maxLevel": 500
+        },
+        "12": {
+            "id": 2,
+            "index": 12,
+            "level": 1,
+            "maxLevel": 600
+        },
+        "13": {
+            "id": 2,
+            "index": 13,
+            "level": 1,
+            "maxLevel": 700
+        },
+        "14": {
+            "id": 2,
+            "index": 14,
+            "level": 1,
+            "maxLevel": 800
+        },
+        "15": {
+            "id": 2,
+            "index": 15,
+            "level": 1,
+            "maxLevel": 900
+        },
+        "16": {
+            "id": 2,
+            "index": 16,
+            "level": 1,
+            "maxLevel": 1000
+        },
+        "17": {
+            "id": 2,
+            "index": 17,
+            "level": 1,
+            "maxLevel": 1100
+        },
+        "18": {
+            "id": 2,
+            "index": 18,
+            "level": 1,
+            "maxLevel": 1650
+        },
+        "19": {
+            "id": 2,
+            "index": 19,
+            "level": 1,
+            "maxLevel": 2200
+        },
+        "20": {
+            "id": 2,
+            "index": 20,
+            "level": 1,
+            "maxLevel": 2750
+        },
+        "21": {
+            "id": 2,
+            "index": 21,
+            "level": 1,
+            "maxLevel": 3300
+        },
+        "22": {
+            "id": 2,
+            "index": 22,
+            "level": 1,
+            "maxLevel": 3850
+        },
+        "23": {
+            "id": 2,
+            "index": 23,
+            "level": 1,
+            "maxLevel": 4400
+        },
+        "24": {
+            "id": 2,
+            "index": 24,
+            "level": 1,
+            "maxLevel": 4950
+        },
+        "25": {
+            "id": 2,
+            "index": 25,
+            "level": 1,
+            "maxLevel": 5500
+        },
+        "26": {
+            "id": 2,
+            "index": 26,
+            "level": 1,
+            "maxLevel": 11000
+        },
+        "27": {
+            "id": 2,
+            "index": 27,
+            "level": 1,
+            "maxLevel": 16500
+        },
+        "28": {
+            "id": 2,
+            "index": 28,
+            "level": 1,
+            "maxLevel": 22000
+        },
+        "29": {
+            "id": 2,
+            "index": 29,
+            "level": 1,
+            "maxLevel": 27500
+        },
+        "30": {
+            "id": 2,
+            "index": 30,
+            "level": 1,
+            "maxLevel": 33000
+        },
+        "31": {
+            "id": 2,
+            "index": 31,
+            "level": 1,
+            "maxLevel": 38500
+        },
+        "32": {
+            "id": 2,
+            "index": 32,
+            "level": 1,
+            "maxLevel": 44000
+        },
+        "33": {
+            "id": 2,
+            "index": 33,
+            "level": 1,
+            "maxLevel": 49500
+        },
+        "34": {
+            "id": 2,
+            "index": 34,
+            "level": 1,
+            "maxLevel": 55000
+        }
+    },
+    "3": {
+        "1": {
+            "id": 3,
+            "index": 1,
+            "level": 1,
+            "maxLevel": 20
+        },
+        "2": {
+            "id": 3,
+            "index": 2,
+            "level": 1,
+            "maxLevel": 40
+        },
+        "3": {
+            "id": 3,
+            "index": 3,
+            "level": 1,
+            "maxLevel": 60
+        },
+        "4": {
+            "id": 3,
+            "index": 4,
+            "level": 1,
+            "maxLevel": 80
+        },
+        "5": {
+            "id": 3,
+            "index": 5,
+            "level": 1,
+            "maxLevel": 100
+        },
+        "6": {
+            "id": 3,
+            "index": 6,
+            "level": 1,
+            "maxLevel": 120
+        },
+        "7": {
+            "id": 3,
+            "index": 7,
+            "level": 1,
+            "maxLevel": 140
+        },
+        "8": {
+            "id": 3,
+            "index": 8,
+            "level": 1,
+            "maxLevel": 160
+        },
+        "9": {
+            "id": 3,
+            "index": 9,
+            "level": 1,
+            "maxLevel": 200
+        },
+        "10": {
+            "id": 3,
+            "index": 10,
+            "level": 1,
+            "maxLevel": 300
+        },
+        "11": {
+            "id": 3,
+            "index": 11,
+            "level": 1,
+            "maxLevel": 400
+        },
+        "12": {
+            "id": 3,
+            "index": 12,
+            "level": 1,
+            "maxLevel": 500
+        },
+        "13": {
+            "id": 3,
+            "index": 13,
+            "level": 1,
+            "maxLevel": 600
+        },
+        "14": {
+            "id": 3,
+            "index": 14,
+            "level": 1,
+            "maxLevel": 700
+        },
+        "15": {
+            "id": 3,
+            "index": 15,
+            "level": 1,
+            "maxLevel": 800
+        },
+        "16": {
+            "id": 3,
+            "index": 16,
+            "level": 1,
+            "maxLevel": 900
+        },
+        "17": {
+            "id": 3,
+            "index": 17,
+            "level": 1,
+            "maxLevel": 1000
+        },
+        "18": {
+            "id": 3,
+            "index": 18,
+            "level": 1,
+            "maxLevel": 1500
+        },
+        "19": {
+            "id": 3,
+            "index": 19,
+            "level": 1,
+            "maxLevel": 2000
+        },
+        "20": {
+            "id": 3,
+            "index": 20,
+            "level": 1,
+            "maxLevel": 2500
+        },
+        "21": {
+            "id": 3,
+            "index": 21,
+            "level": 1,
+            "maxLevel": 3000
+        },
+        "22": {
+            "id": 3,
+            "index": 22,
+            "level": 1,
+            "maxLevel": 3500
+        },
+        "23": {
+            "id": 3,
+            "index": 23,
+            "level": 1,
+            "maxLevel": 4000
+        },
+        "24": {
+            "id": 3,
+            "index": 24,
+            "level": 1,
+            "maxLevel": 4500
+        },
+        "25": {
+            "id": 3,
+            "index": 25,
+            "level": 1,
+            "maxLevel": 5000
+        },
+        "26": {
+            "id": 3,
+            "index": 26,
+            "level": 1,
+            "maxLevel": 10000
+        },
+        "27": {
+            "id": 3,
+            "index": 27,
+            "level": 1,
+            "maxLevel": 15000
+        },
+        "28": {
+            "id": 3,
+            "index": 28,
+            "level": 1,
+            "maxLevel": 20000
+        },
+        "29": {
+            "id": 3,
+            "index": 29,
+            "level": 1,
+            "maxLevel": 25000
+        },
+        "30": {
+            "id": 3,
+            "index": 30,
+            "level": 1,
+            "maxLevel": 30000
+        },
+        "31": {
+            "id": 3,
+            "index": 31,
+            "level": 1,
+            "maxLevel": 35000
+        },
+        "32": {
+            "id": 3,
+            "index": 32,
+            "level": 1,
+            "maxLevel": 40000
+        },
+        "33": {
+            "id": 3,
+            "index": 33,
+            "level": 1,
+            "maxLevel": 45000
+        },
+        "34": {
+            "id": 3,
+            "index": 34,
+            "level": 1,
+            "maxLevel": 50000
+        }
+    },
+    "4": {
+        "1": {
+            "id": 4,
+            "index": 1,
+            "level": 1,
+            "maxLevel": 2
+        },
+        "2": {
+            "id": 4,
+            "index": 2,
+            "level": 1,
+            "maxLevel": 4
+        },
+        "3": {
+            "id": 4,
+            "index": 3,
+            "level": 1,
+            "maxLevel": 6
+        },
+        "4": {
+            "id": 4,
+            "index": 4,
+            "level": 1,
+            "maxLevel": 8
+        },
+        "5": {
+            "id": 4,
+            "index": 5,
+            "level": 1,
+            "maxLevel": 10
+        },
+        "6": {
+            "id": 4,
+            "index": 6,
+            "level": 1,
+            "maxLevel": 12
+        },
+        "7": {
+            "id": 4,
+            "index": 7,
+            "level": 1,
+            "maxLevel": 14
+        },
+        "8": {
+            "id": 4,
+            "index": 8,
+            "level": 1,
+            "maxLevel": 16
+        },
+        "9": {
+            "id": 4,
+            "index": 9,
+            "level": 1,
+            "maxLevel": 20
+        },
+        "10": {
+            "id": 4,
+            "index": 10,
+            "level": 1,
+            "maxLevel": 30
+        },
+        "11": {
+            "id": 4,
+            "index": 11,
+            "level": 1,
+            "maxLevel": 40
+        },
+        "12": {
+            "id": 4,
+            "index": 12,
+            "level": 1,
+            "maxLevel": 50
+        },
+        "13": {
+            "id": 4,
+            "index": 13,
+            "level": 1,
+            "maxLevel": 60
+        },
+        "14": {
+            "id": 4,
+            "index": 14,
+            "level": 1,
+            "maxLevel": 70
+        },
+        "15": {
+            "id": 4,
+            "index": 15,
+            "level": 1,
+            "maxLevel": 80
+        },
+        "16": {
+            "id": 4,
+            "index": 16,
+            "level": 1,
+            "maxLevel": 90
+        },
+        "17": {
+            "id": 4,
+            "index": 17,
+            "level": 1,
+            "maxLevel": 100
+        },
+        "18": {
+            "id": 4,
+            "index": 18,
+            "level": 1,
+            "maxLevel": 150
+        },
+        "19": {
+            "id": 4,
+            "index": 19,
+            "level": 1,
+            "maxLevel": 200
+        },
+        "20": {
+            "id": 4,
+            "index": 20,
+            "level": 1,
+            "maxLevel": 250
+        },
+        "21": {
+            "id": 4,
+            "index": 21,
+            "level": 1,
+            "maxLevel": 300
+        },
+        "22": {
+            "id": 4,
+            "index": 22,
+            "level": 1,
+            "maxLevel": 350
+        },
+        "23": {
+            "id": 4,
+            "index": 23,
+            "level": 1,
+            "maxLevel": 400
+        },
+        "24": {
+            "id": 4,
+            "index": 24,
+            "level": 1,
+            "maxLevel": 450
+        },
+        "25": {
+            "id": 4,
+            "index": 25,
+            "level": 1,
+            "maxLevel": 500
+        },
+        "26": {
+            "id": 4,
+            "index": 26,
+            "level": 1,
+            "maxLevel": 1000
+        },
+        "27": {
+            "id": 4,
+            "index": 27,
+            "level": 1,
+            "maxLevel": 1500
+        },
+        "28": {
+            "id": 4,
+            "index": 28,
+            "level": 1,
+            "maxLevel": 2000
+        },
+        "29": {
+            "id": 4,
+            "index": 29,
+            "level": 1,
+            "maxLevel": 2500
+        },
+        "30": {
+            "id": 4,
+            "index": 30,
+            "level": 1,
+            "maxLevel": 3000
+        },
+        "31": {
+            "id": 4,
+            "index": 31,
+            "level": 1,
+            "maxLevel": 3500
+        },
+        "32": {
+            "id": 4,
+            "index": 32,
+            "level": 1,
+            "maxLevel": 4000
+        },
+        "33": {
+            "id": 4,
+            "index": 33,
+            "level": 1,
+            "maxLevel": 4500
+        },
+        "34": {
+            "id": 4,
+            "index": 34,
+            "level": 1,
+            "maxLevel": 5000
+        }
+    }
+}

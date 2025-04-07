@@ -1,0 +1,86 @@
+{
+    "1": {
+        "id": 1,
+        "needItemId": 1081501,
+        "attr": [
+            {
+                "type": 1,
+                "value": 2000
+            },
+            {
+                "type": 4,
+                "value": 100
+            }
+        ],
+        "name": "Sage Armor Soul"
+    },
+    "2": {
+        "id": 2,
+        "needItemId": 1081502,
+        "attr": [
+            {
+                "type": 1,
+                "value": 4200
+            },
+            {
+                "type": 4,
+                "value": 180
+            },
+            {
+                "type": 43,
+                "value": 350
+            }
+        ],
+        "name": "Triumphal Armor Soul"
+    },
+    "3": {
+        "id": 3,
+        "needItemId": 1081503,
+        "attr": [
+            {
+                "type": 1,
+                "value": 12000
+            },
+            {
+                "type": 4,
+                "value": 600
+            },
+            {
+                "type": 6,
+                "value": 750
+            },
+            {
+                "type": 43,
+                "value": 1000
+            }
+        ],
+        "name": "Sacrifice Armor Soul"
+    },
+    "4": {
+        "id": 4,
+        "needItemId": 1081504,
+        "attr": [
+            {
+                "type": 1,
+                "value": 600000
+            },
+            {
+                "type": 4,
+                "value": 30000
+            },
+            {
+                "type": 6,
+                "value": 37500
+            },
+            {
+                "type": 43,
+                "value": 50000
+            },
+            {
+                "type": 67,
+                "value": 100
+            }
+        ],
+        "name": "Glorious Armor Soul"
+    }
+}

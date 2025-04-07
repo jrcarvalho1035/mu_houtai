@@ -1,0 +1,198 @@
+{
+    "1": {
+        "id": 1,
+        "needitems": [
+            {
+                "type": 0,
+                "id": 30,
+                "count": 3000
+            }
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010139,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1010112,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 773008,
+                "count": 3
+            },
+            {
+                "type": 1,
+                "id": 773014,
+                "count": 3
+            },
+            {
+                "type": 1,
+                "id": 773015,
+                "count": 3
+            }
+        ],
+        "returnDay": 5,
+        "returnRewards": [
+            {
+                "type": 0,
+                "id": 30,
+                "count": 200
+            }
+        ],
+        "mcIcon": {
+            "type": 1,
+            "param": 81
+        }
+    },
+    "2": {
+        "id": 2,
+        "needitems": [
+            {
+                "type": 0,
+                "id": 30,
+                "count": 6000
+            }
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 310611,
+                "count": 5
+            },
+            {
+                "type": 1,
+                "id": 1093008,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 390024,
+                "count": 1000
+            },
+            {
+                "type": 1,
+                "id": 620001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 750005,
+                "count": 1
+            }
+        ],
+        "returnDay": 5,
+        "returnRewards": [
+            {
+                "type": 0,
+                "id": 30,
+                "count": 300
+            }
+        ],
+        "mcIcon": {
+            "type": 1,
+            "param": 82
+        }
+    },
+    "3": {
+        "id": 3,
+        "needitems": [
+            {
+                "type": 0,
+                "id": 30,
+                "count": 9000
+            }
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 727000,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220011,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 741001,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 300
+            },
+            {
+                "type": 1,
+                "id": 1093006,
+                "count": 1
+            }
+        ],
+        "returnDay": 5,
+        "returnRewards": [
+            {
+                "type": 0,
+                "id": 30,
+                "count": 400
+            }
+        ],
+        "mcIcon": {
+            "type": 1,
+            "param": 83
+        }
+    },
+    "4": {
+        "id": 4,
+        "needitems": [
+            {
+                "type": 0,
+                "id": 30,
+                "count": 12000
+            }
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1089006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 773012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 368001,
+                "count": 60
+            },
+            {
+                "type": 1,
+                "id": 772002,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 1060008,
+                "count": 1
+            }
+        ],
+        "returnDay": 5,
+        "returnRewards": [
+            {
+                "type": 0,
+                "id": 30,
+                "count": 500
+            }
+        ],
+        "mcIcon": {
+            "type": 1,
+            "param": 84
+        }
+    }
+}

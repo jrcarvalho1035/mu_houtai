@@ -1,0 +1,149 @@
+{
+    "1": {
+        "index": 1,
+        "day": 1,
+        "reward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 300000
+            }
+        ]
+    },
+    "2": {
+        "index": 2,
+        "day": 2,
+        "reward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 350000
+            }
+        ]
+    },
+    "3": {
+        "index": 3,
+        "day": 3,
+        "reward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 400000
+            }
+        ]
+    },
+    "4": {
+        "index": 4,
+        "day": 4,
+        "reward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 450000
+            }
+        ]
+    },
+    "5": {
+        "index": 5,
+        "day": 5,
+        "reward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500000
+            }
+        ]
+    },
+    "6": {
+        "index": 6,
+        "day": 6,
+        "reward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 550000
+            }
+        ]
+    },
+    "7": {
+        "index": 7,
+        "day": 7,
+        "reward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 600000
+            }
+        ]
+    }
+}

@@ -1,0 +1,1758 @@
+{
+    "0": {
+        "2": {
+            "1": {
+                "slot": 0,
+                "needCount": 2,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 9,
+                        "value": 50
+                    }
+                ],
+                "power": 43200
+            },
+            "2": {
+                "slot": 0,
+                "needCount": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 9,
+                        "value": 100
+                    }
+                ],
+                "power": 432000
+            },
+            "3": {
+                "slot": 0,
+                "needCount": 2,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 9,
+                        "value": 150
+                    }
+                ],
+                "power": 2268000
+            },
+            "4": {
+                "slot": 0,
+                "needCount": 2,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 9,
+                        "value": 200
+                    }
+                ],
+                "power": 8640000
+            },
+            "5": {
+                "slot": 0,
+                "needCount": 2,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 9,
+                        "value": 250
+                    }
+                ],
+                "power": 21600000
+            }
+        },
+        "4": {
+            "1": {
+                "slot": 0,
+                "needCount": 4,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 12,
+                        "value": 50
+                    }
+                ],
+                "power": 86400
+            },
+            "2": {
+                "slot": 0,
+                "needCount": 4,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 12,
+                        "value": 100
+                    }
+                ],
+                "power": 864000
+            },
+            "3": {
+                "slot": 0,
+                "needCount": 4,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 12,
+                        "value": 150
+                    }
+                ],
+                "power": 4536000
+            },
+            "4": {
+                "slot": 0,
+                "needCount": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 12,
+                        "value": 200
+                    }
+                ],
+                "power": 17280000
+            },
+            "5": {
+                "slot": 0,
+                "needCount": 4,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 12,
+                        "value": 250
+                    }
+                ],
+                "power": 43200000
+            }
+        },
+        "6": {
+            "1": {
+                "slot": 0,
+                "needCount": 6,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 175,
+                        "value": 500
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 0,
+                "needCount": 6,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 175,
+                        "value": 1000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 0,
+                "needCount": 6,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 175,
+                        "value": 1500
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 0,
+                "needCount": 6,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 175,
+                        "value": 2000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 0,
+                "needCount": 6,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 175,
+                        "value": 2500
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "8": {
+            "1": {
+                "slot": 0,
+                "needCount": 8,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 179,
+                        "value": 100
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 0,
+                "needCount": 8,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 179,
+                        "value": 200
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 0,
+                "needCount": 8,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 179,
+                        "value": 300
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 0,
+                "needCount": 8,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 179,
+                        "value": 400
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 0,
+                "needCount": 8,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 179,
+                        "value": 500
+                    }
+                ],
+                "power": 0
+            }
+        }
+    },
+    "1": {
+        "2": {
+            "1": {
+                "slot": 1,
+                "needCount": 2,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 32,
+                        "value": 7200
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 1,
+                "needCount": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 32,
+                        "value": 72000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 1,
+                "needCount": 2,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 32,
+                        "value": 378000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 1,
+                "needCount": 2,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 32,
+                        "value": 1440000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 1,
+                "needCount": 2,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 32,
+                        "value": 2880000
+                    }
+                ],
+                "power": 0
+            }
+        }
+    },
+    "2": {
+        "2": {
+            "1": {
+                "slot": 2,
+                "needCount": 2,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 41,
+                        "value": 50
+                    }
+                ],
+                "power": 43200
+            },
+            "2": {
+                "slot": 2,
+                "needCount": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 41,
+                        "value": 100
+                    }
+                ],
+                "power": 432000
+            },
+            "3": {
+                "slot": 2,
+                "needCount": 2,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 41,
+                        "value": 150
+                    }
+                ],
+                "power": 2268000
+            },
+            "4": {
+                "slot": 2,
+                "needCount": 2,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 41,
+                        "value": 200
+                    }
+                ],
+                "power": 8640000
+            },
+            "5": {
+                "slot": 2,
+                "needCount": 2,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 41,
+                        "value": 250
+                    }
+                ],
+                "power": 21600000
+            }
+        },
+        "4": {
+            "1": {
+                "slot": 2,
+                "needCount": 4,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 44,
+                        "value": 50
+                    }
+                ],
+                "power": 86400
+            },
+            "2": {
+                "slot": 2,
+                "needCount": 4,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 44,
+                        "value": 100
+                    }
+                ],
+                "power": 864000
+            },
+            "3": {
+                "slot": 2,
+                "needCount": 4,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 44,
+                        "value": 150
+                    }
+                ],
+                "power": 4536000
+            },
+            "4": {
+                "slot": 2,
+                "needCount": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 44,
+                        "value": 200
+                    }
+                ],
+                "power": 17280000
+            },
+            "5": {
+                "slot": 2,
+                "needCount": 4,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 44,
+                        "value": 250
+                    }
+                ],
+                "power": 43200000
+            }
+        },
+        "6": {
+            "1": {
+                "slot": 2,
+                "needCount": 6,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 176,
+                        "value": 500
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 2,
+                "needCount": 6,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 176,
+                        "value": 1000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 2,
+                "needCount": 6,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 176,
+                        "value": 1500
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 2,
+                "needCount": 6,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 176,
+                        "value": 2000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 2,
+                "needCount": 6,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 176,
+                        "value": 2500
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "8": {
+            "1": {
+                "slot": 2,
+                "needCount": 8,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 180,
+                        "value": 100
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 2,
+                "needCount": 8,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 180,
+                        "value": 200
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 2,
+                "needCount": 8,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 180,
+                        "value": 300
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 2,
+                "needCount": 8,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 180,
+                        "value": 400
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 2,
+                "needCount": 8,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 180,
+                        "value": 500
+                    }
+                ],
+                "power": 0
+            }
+        }
+    },
+    "3": {
+        "2": {
+            "1": {
+                "slot": 3,
+                "needCount": 2,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 1,
+                        "value": 144000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 3,
+                "needCount": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 1,
+                        "value": 1440000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 3,
+                "needCount": 2,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 1,
+                        "value": 7560000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 3,
+                "needCount": 2,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 1,
+                        "value": 28800000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 3,
+                "needCount": 2,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 1,
+                        "value": 57600000
+                    }
+                ],
+                "power": 0
+            }
+        }
+    },
+    "4": {
+        "2": {
+            "1": {
+                "slot": 4,
+                "needCount": 2,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 11,
+                        "value": 12000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 4,
+                "needCount": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 11,
+                        "value": 120000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 4,
+                "needCount": 2,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 11,
+                        "value": 630000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 4,
+                "needCount": 2,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 11,
+                        "value": 2400000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 4,
+                "needCount": 2,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 11,
+                        "value": 4800000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "4": {
+            "1": {
+                "slot": 4,
+                "needCount": 4,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 27,
+                        "value": 14400
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 4,
+                "needCount": 4,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 27,
+                        "value": 144000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 4,
+                "needCount": 4,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 27,
+                        "value": 756000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 4,
+                "needCount": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 27,
+                        "value": 2880000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 4,
+                "needCount": 4,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 27,
+                        "value": 5760000
+                    }
+                ],
+                "power": 0
+            }
+        }
+    },
+    "5": {
+        "2": {
+            "1": {
+                "slot": 5,
+                "needCount": 2,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 62,
+                        "value": 3600
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 5,
+                "needCount": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 62,
+                        "value": 36000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 5,
+                "needCount": 2,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 62,
+                        "value": 189000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 5,
+                "needCount": 2,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 62,
+                        "value": 720000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 5,
+                "needCount": 2,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 62,
+                        "value": 1440000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "4": {
+            "1": {
+                "slot": 5,
+                "needCount": 4,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 26,
+                        "value": 14400
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 5,
+                "needCount": 4,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 26,
+                        "value": 144000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 5,
+                "needCount": 4,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 26,
+                        "value": 756000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 5,
+                "needCount": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 26,
+                        "value": 2880000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 5,
+                "needCount": 4,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 26,
+                        "value": 5760000
+                    }
+                ],
+                "power": 0
+            }
+        }
+    },
+    "6": {
+        "2": {
+            "1": {
+                "slot": 6,
+                "needCount": 2,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 5,
+                        "value": 9000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 6,
+                "needCount": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 5,
+                        "value": 90000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 6,
+                "needCount": 2,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 5,
+                        "value": 472500
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 6,
+                "needCount": 2,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 5,
+                        "value": 1800000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 6,
+                "needCount": 2,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 5,
+                        "value": 3600000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "4": {
+            "1": {
+                "slot": 6,
+                "needCount": 4,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 99,
+                        "value": 14400
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 6,
+                "needCount": 4,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 99,
+                        "value": 144000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 6,
+                "needCount": 4,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 99,
+                        "value": 756000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 6,
+                "needCount": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 99,
+                        "value": 2880000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 6,
+                "needCount": 4,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 99,
+                        "value": 5760000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "6": {
+            "1": {
+                "slot": 6,
+                "needCount": 6,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 59,
+                        "value": 100
+                    }
+                ],
+                "power": 108000
+            },
+            "2": {
+                "slot": 6,
+                "needCount": 6,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 59,
+                        "value": 200
+                    }
+                ],
+                "power": 1080000
+            },
+            "3": {
+                "slot": 6,
+                "needCount": 6,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 59,
+                        "value": 300
+                    }
+                ],
+                "power": 5670000
+            },
+            "4": {
+                "slot": 6,
+                "needCount": 6,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 59,
+                        "value": 400
+                    }
+                ],
+                "power": 21600000
+            },
+            "5": {
+                "slot": 6,
+                "needCount": 6,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 59,
+                        "value": 500
+                    }
+                ],
+                "power": 54000000
+            }
+        }
+    },
+    "7": {
+        "2": {
+            "1": {
+                "slot": 7,
+                "needCount": 2,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 6,
+                        "value": 9000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 7,
+                "needCount": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 6,
+                        "value": 90000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 7,
+                "needCount": 2,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 6,
+                        "value": 472500
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 7,
+                "needCount": 2,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 6,
+                        "value": 1800000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 7,
+                "needCount": 2,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 6,
+                        "value": 3600000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "4": {
+            "1": {
+                "slot": 7,
+                "needCount": 4,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 100,
+                        "value": 14400
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 7,
+                "needCount": 4,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 100,
+                        "value": 144000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 7,
+                "needCount": 4,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 100,
+                        "value": 756000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 7,
+                "needCount": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 100,
+                        "value": 2880000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 7,
+                "needCount": 4,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 100,
+                        "value": 5760000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "6": {
+            "1": {
+                "slot": 7,
+                "needCount": 6,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 60,
+                        "value": 100
+                    }
+                ],
+                "power": 108000
+            },
+            "2": {
+                "slot": 7,
+                "needCount": 6,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 60,
+                        "value": 200
+                    }
+                ],
+                "power": 1080000
+            },
+            "3": {
+                "slot": 7,
+                "needCount": 6,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 60,
+                        "value": 300
+                    }
+                ],
+                "power": 5670000
+            },
+            "4": {
+                "slot": 7,
+                "needCount": 6,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 60,
+                        "value": 400
+                    }
+                ],
+                "power": 21600000
+            },
+            "5": {
+                "slot": 7,
+                "needCount": 6,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 60,
+                        "value": 500
+                    }
+                ],
+                "power": 54000000
+            }
+        }
+    },
+    "8": {
+        "2": {
+            "1": {
+                "slot": 8,
+                "needCount": 2,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 9,
+                        "value": 50
+                    }
+                ],
+                "power": 43200
+            },
+            "2": {
+                "slot": 8,
+                "needCount": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 9,
+                        "value": 100
+                    }
+                ],
+                "power": 432000
+            },
+            "3": {
+                "slot": 8,
+                "needCount": 2,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 9,
+                        "value": 150
+                    }
+                ],
+                "power": 2268000
+            },
+            "4": {
+                "slot": 8,
+                "needCount": 2,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 9,
+                        "value": 200
+                    }
+                ],
+                "power": 8640000
+            },
+            "5": {
+                "slot": 8,
+                "needCount": 2,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 9,
+                        "value": 250
+                    }
+                ],
+                "power": 21600000
+            }
+        },
+        "4": {
+            "1": {
+                "slot": 8,
+                "needCount": 4,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 12,
+                        "value": 50
+                    }
+                ],
+                "power": 86400
+            },
+            "2": {
+                "slot": 8,
+                "needCount": 4,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 12,
+                        "value": 100
+                    }
+                ],
+                "power": 864000
+            },
+            "3": {
+                "slot": 8,
+                "needCount": 4,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 12,
+                        "value": 150
+                    }
+                ],
+                "power": 4536000
+            },
+            "4": {
+                "slot": 8,
+                "needCount": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 12,
+                        "value": 200
+                    }
+                ],
+                "power": 17280000
+            },
+            "5": {
+                "slot": 8,
+                "needCount": 4,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 12,
+                        "value": 250
+                    }
+                ],
+                "power": 43200000
+            }
+        },
+        "6": {
+            "1": {
+                "slot": 8,
+                "needCount": 6,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 177,
+                        "value": 500
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 8,
+                "needCount": 6,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 177,
+                        "value": 1000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 8,
+                "needCount": 6,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 177,
+                        "value": 1500
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 8,
+                "needCount": 6,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 177,
+                        "value": 2000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 8,
+                "needCount": 6,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 177,
+                        "value": 2500
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "8": {
+            "1": {
+                "slot": 8,
+                "needCount": 8,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 181,
+                        "value": 100
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 8,
+                "needCount": 8,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 181,
+                        "value": 200
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 8,
+                "needCount": 8,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 181,
+                        "value": 300
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 8,
+                "needCount": 8,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 181,
+                        "value": 400
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 8,
+                "needCount": 8,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 181,
+                        "value": 500
+                    }
+                ],
+                "power": 0
+            }
+        }
+    },
+    "9": {
+        "2": {
+            "1": {
+                "slot": 9,
+                "needCount": 2,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 41,
+                        "value": 50
+                    }
+                ],
+                "power": 43200
+            },
+            "2": {
+                "slot": 9,
+                "needCount": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 41,
+                        "value": 100
+                    }
+                ],
+                "power": 432000
+            },
+            "3": {
+                "slot": 9,
+                "needCount": 2,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 41,
+                        "value": 150
+                    }
+                ],
+                "power": 2268000
+            },
+            "4": {
+                "slot": 9,
+                "needCount": 2,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 41,
+                        "value": 200
+                    }
+                ],
+                "power": 8640000
+            },
+            "5": {
+                "slot": 9,
+                "needCount": 2,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 41,
+                        "value": 250
+                    }
+                ],
+                "power": 21600000
+            }
+        },
+        "4": {
+            "1": {
+                "slot": 9,
+                "needCount": 4,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 44,
+                        "value": 50
+                    }
+                ],
+                "power": 86400
+            },
+            "2": {
+                "slot": 9,
+                "needCount": 4,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 44,
+                        "value": 100
+                    }
+                ],
+                "power": 864000
+            },
+            "3": {
+                "slot": 9,
+                "needCount": 4,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 44,
+                        "value": 150
+                    }
+                ],
+                "power": 4536000
+            },
+            "4": {
+                "slot": 9,
+                "needCount": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 44,
+                        "value": 200
+                    }
+                ],
+                "power": 17280000
+            },
+            "5": {
+                "slot": 9,
+                "needCount": 4,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 44,
+                        "value": 250
+                    }
+                ],
+                "power": 43200000
+            }
+        },
+        "6": {
+            "1": {
+                "slot": 9,
+                "needCount": 6,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 178,
+                        "value": 500
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 9,
+                "needCount": 6,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 178,
+                        "value": 1000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 9,
+                "needCount": 6,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 178,
+                        "value": 1500
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 9,
+                "needCount": 6,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 178,
+                        "value": 2000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 9,
+                "needCount": 6,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 178,
+                        "value": 2500
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "8": {
+            "1": {
+                "slot": 9,
+                "needCount": 8,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 182,
+                        "value": 100
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "slot": 9,
+                "needCount": 8,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 182,
+                        "value": 200
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "slot": 9,
+                "needCount": 8,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 182,
+                        "value": 300
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "slot": 9,
+                "needCount": 8,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 182,
+                        "value": 400
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "slot": 9,
+                "needCount": 8,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 182,
+                        "value": 500
+                    }
+                ],
+                "power": 0
+            }
+        }
+    }
+}

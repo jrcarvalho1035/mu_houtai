@@ -1,0 +1,1556 @@
+{
+    "1": {
+        "1": {
+            "sjId": 1,
+            "floor": 1,
+            "fbId": 99501,
+            "bossIndex": [
+                1,
+                2,
+                3,
+                4
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690001,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690002,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690003,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690004,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368102,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368101,
+                    "count": 1
+                }
+            ],
+            "power": 2160000000
+        },
+        "2": {
+            "sjId": 1,
+            "floor": 2,
+            "fbId": 99502,
+            "bossIndex": [
+                5,
+                6,
+                7,
+                8
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690011,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690012,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690013,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690014,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368103,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368102,
+                    "count": 1
+                }
+            ],
+            "power": 4080000000
+        },
+        "3": {
+            "sjId": 1,
+            "floor": 3,
+            "fbId": 99503,
+            "bossIndex": [
+                9,
+                10,
+                11,
+                12
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690011,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690012,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690013,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690014,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368104,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368103,
+                    "count": 1
+                }
+            ],
+            "power": 7200000000
+        },
+        "4": {
+            "sjId": 1,
+            "floor": 4,
+            "fbId": 99504,
+            "bossIndex": [
+                13,
+                14,
+                15,
+                16
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690021,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690022,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690023,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690024,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368001,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368105,
+                    "count": 1
+                }
+            ],
+            "power": 11400000000
+        },
+        "5": {
+            "sjId": 1,
+            "floor": 5,
+            "fbId": 99505,
+            "bossIndex": [
+                17,
+                18,
+                19,
+                20
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690021,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690022,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690023,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690024,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368002,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368106,
+                    "count": 1
+                }
+            ],
+            "power": 16200000000
+        }
+    },
+    "2": {
+        "1": {
+            "sjId": 2,
+            "floor": 1,
+            "fbId": 99506,
+            "bossIndex": [
+                21,
+                22,
+                23,
+                24
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690101,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690102,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690103,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690104,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368202,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368201,
+                    "count": 1
+                }
+            ],
+            "power": 3510000000
+        },
+        "2": {
+            "sjId": 2,
+            "floor": 2,
+            "fbId": 99507,
+            "bossIndex": [
+                25,
+                26,
+                27,
+                28
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690111,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690112,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690113,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690114,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368203,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368202,
+                    "count": 1
+                }
+            ],
+            "power": 4920000000
+        },
+        "3": {
+            "sjId": 2,
+            "floor": 3,
+            "fbId": 99508,
+            "bossIndex": [
+                29,
+                30,
+                31,
+                32
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690111,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690112,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690113,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690114,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368204,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368203,
+                    "count": 1
+                }
+            ],
+            "power": 8040000000
+        },
+        "4": {
+            "sjId": 2,
+            "floor": 4,
+            "fbId": 99509,
+            "bossIndex": [
+                33,
+                34,
+                35,
+                36
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690121,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690122,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690123,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690124,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368003,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368205,
+                    "count": 1
+                }
+            ],
+            "power": 12240000000
+        },
+        "5": {
+            "sjId": 2,
+            "floor": 5,
+            "fbId": 99510,
+            "bossIndex": [
+                37,
+                38,
+                39,
+                40
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690121,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690122,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690123,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690124,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368004,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368206,
+                    "count": 1
+                }
+            ],
+            "power": 17040000000
+        }
+    },
+    "3": {
+        "1": {
+            "sjId": 3,
+            "floor": 1,
+            "fbId": 99511,
+            "bossIndex": [
+                41,
+                42,
+                43,
+                44
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690201,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690202,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690203,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690204,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368302,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368301,
+                    "count": 1
+                }
+            ],
+            "power": 3360000000
+        },
+        "2": {
+            "sjId": 3,
+            "floor": 2,
+            "fbId": 99512,
+            "bossIndex": [
+                45,
+                46,
+                47,
+                48
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690211,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690212,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690213,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690214,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368303,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368302,
+                    "count": 1
+                }
+            ],
+            "power": 5520000000
+        },
+        "3": {
+            "sjId": 3,
+            "floor": 3,
+            "fbId": 99513,
+            "bossIndex": [
+                49,
+                50,
+                51,
+                52
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690211,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690212,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690213,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690214,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368304,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368303,
+                    "count": 1
+                }
+            ],
+            "power": 8880000000
+        },
+        "4": {
+            "sjId": 3,
+            "floor": 4,
+            "fbId": 99514,
+            "bossIndex": [
+                53,
+                54,
+                55,
+                56
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690221,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690222,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690223,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690224,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368005,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368305,
+                    "count": 1
+                }
+            ],
+            "power": 13320000000
+        },
+        "5": {
+            "sjId": 3,
+            "floor": 5,
+            "fbId": 99515,
+            "bossIndex": [
+                57,
+                58,
+                59,
+                60
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690221,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690222,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690223,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690224,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368006,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368306,
+                    "count": 1
+                }
+            ],
+            "power": 18360000000
+        }
+    },
+    "4": {
+        "1": {
+            "sjId": 4,
+            "floor": 1,
+            "fbId": 99516,
+            "bossIndex": [
+                61,
+                62,
+                63,
+                64
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690301,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690302,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690303,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690304,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368402,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368401,
+                    "count": 1
+                }
+            ],
+            "power": 3720000000
+        },
+        "2": {
+            "sjId": 4,
+            "floor": 2,
+            "fbId": 99517,
+            "bossIndex": [
+                65,
+                66,
+                67,
+                68
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690311,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690312,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690313,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690314,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368403,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368402,
+                    "count": 1
+                }
+            ],
+            "power": 6120000000
+        },
+        "3": {
+            "sjId": 4,
+            "floor": 3,
+            "fbId": 99518,
+            "bossIndex": [
+                69,
+                70,
+                71,
+                72
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690311,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690312,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690313,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690314,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368404,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368403,
+                    "count": 1
+                }
+            ],
+            "power": 9720000000
+        },
+        "4": {
+            "sjId": 4,
+            "floor": 4,
+            "fbId": 99519,
+            "bossIndex": [
+                73,
+                74,
+                75,
+                76
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690321,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690322,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690323,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690324,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368007,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368405,
+                    "count": 1
+                }
+            ],
+            "power": 14400000000
+        },
+        "5": {
+            "sjId": 4,
+            "floor": 5,
+            "fbId": 99520,
+            "bossIndex": [
+                77,
+                78,
+                79,
+                80
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690321,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690322,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690323,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690324,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368008,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368406,
+                    "count": 1
+                }
+            ],
+            "power": 19680000000
+        }
+    },
+    "5": {
+        "1": {
+            "sjId": 5,
+            "floor": 1,
+            "fbId": 99521,
+            "bossIndex": [
+                81,
+                82,
+                83,
+                84
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690401,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690402,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690403,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690404,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368502,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368501,
+                    "count": 1
+                }
+            ],
+            "power": 4080000000
+        },
+        "2": {
+            "sjId": 5,
+            "floor": 2,
+            "fbId": 99522,
+            "bossIndex": [
+                85,
+                86,
+                87,
+                88
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690411,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690412,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690413,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690414,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368503,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368502,
+                    "count": 1
+                }
+            ],
+            "power": 7200000000
+        },
+        "3": {
+            "sjId": 5,
+            "floor": 3,
+            "fbId": 99523,
+            "bossIndex": [
+                89,
+                90,
+                91,
+                92
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690411,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690412,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690413,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690414,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368504,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368503,
+                    "count": 1
+                }
+            ],
+            "power": 11400000000
+        },
+        "4": {
+            "sjId": 5,
+            "floor": 4,
+            "fbId": 99524,
+            "bossIndex": [
+                93,
+                94,
+                95,
+                96
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690421,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690422,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690423,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690424,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368009,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368505,
+                    "count": 1
+                }
+            ],
+            "power": 16200000000
+        },
+        "5": {
+            "sjId": 5,
+            "floor": 5,
+            "fbId": 99525,
+            "bossIndex": [
+                97,
+                98,
+                99,
+                100
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690421,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690422,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690423,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690424,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368010,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368506,
+                    "count": 1
+                }
+            ],
+            "power": 21600000000
+        }
+    },
+    "6": {
+        "1": {
+            "sjId": 6,
+            "floor": 1,
+            "fbId": 99526,
+            "bossIndex": [
+                101,
+                102,
+                103,
+                104
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690501,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690502,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690503,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690504,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368602,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368601,
+                    "count": 1
+                }
+            ],
+            "power": 4920000000
+        },
+        "2": {
+            "sjId": 6,
+            "floor": 2,
+            "fbId": 99527,
+            "bossIndex": [
+                105,
+                106,
+                107,
+                108
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690511,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690512,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690513,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690514,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368603,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368602,
+                    "count": 1
+                }
+            ],
+            "power": 8040000000
+        },
+        "3": {
+            "sjId": 6,
+            "floor": 3,
+            "fbId": 99528,
+            "bossIndex": [
+                109,
+                110,
+                111,
+                112
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690511,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690512,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690513,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690514,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368604,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368603,
+                    "count": 1
+                }
+            ],
+            "power": 12240000000
+        },
+        "4": {
+            "sjId": 6,
+            "floor": 4,
+            "fbId": 99529,
+            "bossIndex": [
+                113,
+                114,
+                115,
+                116
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690521,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690522,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690523,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690524,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368011,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368605,
+                    "count": 1
+                }
+            ],
+            "power": 17040000000
+        },
+        "5": {
+            "sjId": 6,
+            "floor": 5,
+            "fbId": 99530,
+            "bossIndex": [
+                117,
+                118,
+                119,
+                120
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690521,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690522,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690523,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690524,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368012,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368606,
+                    "count": 1
+                }
+            ],
+            "power": 23040000000
+        }
+    },
+    "7": {
+        "1": {
+            "sjId": 7,
+            "floor": 1,
+            "fbId": 99531,
+            "bossIndex": [
+                121,
+                122,
+                123,
+                124
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690601,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690602,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690603,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690604,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368702,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368701,
+                    "count": 1
+                }
+            ],
+            "power": 5520000000
+        },
+        "2": {
+            "sjId": 7,
+            "floor": 2,
+            "fbId": 99532,
+            "bossIndex": [
+                125,
+                126,
+                127,
+                128
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690611,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690612,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690613,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690614,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368703,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368702,
+                    "count": 1
+                }
+            ],
+            "power": 8880000000
+        },
+        "3": {
+            "sjId": 7,
+            "floor": 3,
+            "fbId": 99533,
+            "bossIndex": [
+                129,
+                130,
+                131,
+                132
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690611,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690612,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690613,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690614,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368704,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368703,
+                    "count": 1
+                }
+            ],
+            "power": 13320000000
+        },
+        "4": {
+            "sjId": 7,
+            "floor": 4,
+            "fbId": 99534,
+            "bossIndex": [
+                133,
+                134,
+                135,
+                136
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690621,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690622,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690623,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690624,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368013,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368705,
+                    "count": 1
+                }
+            ],
+            "power": 18360000000
+        },
+        "5": {
+            "sjId": 7,
+            "floor": 5,
+            "fbId": 99535,
+            "bossIndex": [
+                137,
+                138,
+                139,
+                140
+            ],
+            "previewReward": [
+                {
+                    "type": 1,
+                    "id": 690621,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690622,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690623,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 690624,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368014,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 368706,
+                    "count": 1
+                }
+            ],
+            "power": 24360000000
+        }
+    }
+}

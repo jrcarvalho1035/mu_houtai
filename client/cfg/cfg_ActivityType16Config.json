@@ -1,0 +1,3346 @@
+{
+    "96418": {
+        "1": {
+            "1": {
+                "id": 96418,
+                "jiangchi": 1,
+                "index": 1,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1500
+                    }
+                ],
+                "gettimes": 2,
+                "sort": 12,
+                "maxbg": 0
+            },
+            "2": {
+                "id": 96418,
+                "jiangchi": 1,
+                "index": 2,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310013,
+                        "count": 5
+                    }
+                ],
+                "gettimes": 1,
+                "sort": 11,
+                "maxbg": 0
+            },
+            "3": {
+                "id": 96418,
+                "jiangchi": 1,
+                "index": 3,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310006,
+                        "count": 10
+                    }
+                ],
+                "gettimes": 3,
+                "sort": 5,
+                "maxbg": 0
+            },
+            "4": {
+                "id": 96418,
+                "jiangchi": 1,
+                "index": 4,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310005,
+                        "count": 40
+                    }
+                ],
+                "gettimes": 5,
+                "sort": 6,
+                "maxbg": 0
+            },
+            "5": {
+                "id": 96418,
+                "jiangchi": 1,
+                "index": 5,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 3000
+                    }
+                ],
+                "gettimes": 4,
+                "sort": 2,
+                "maxbg": 0
+            },
+            "6": {
+                "id": 96418,
+                "jiangchi": 1,
+                "index": 6,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1071005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 6,
+                "sort": 3,
+                "maxbg": 0
+            },
+            "7": {
+                "id": 96418,
+                "jiangchi": 1,
+                "index": 7,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600310,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 7,
+                "sort": 4,
+                "maxbg": 0
+            },
+            "8": {
+                "id": 96418,
+                "jiangchi": 1,
+                "index": 8,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1061005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 8,
+                "sort": 8,
+                "maxbg": 0
+            },
+            "9": {
+                "id": 96418,
+                "jiangchi": 1,
+                "index": 9,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600210,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 9,
+                "sort": 9,
+                "maxbg": 0
+            },
+            "10": {
+                "id": 96418,
+                "jiangchi": 1,
+                "index": 10,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1071005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 10,
+                "sort": 10,
+                "maxbg": 0
+            },
+            "11": {
+                "id": 96418,
+                "jiangchi": 1,
+                "index": 11,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1072005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 11,
+                "sort": 7,
+                "maxbg": 1
+            },
+            "12": {
+                "id": 96418,
+                "jiangchi": 1,
+                "index": 12,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1083006,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 12,
+                "sort": 1,
+                "maxbg": 1
+            }
+        },
+        "2": {
+            "1": {
+                "id": 96418,
+                "jiangchi": 2,
+                "index": 1,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310006,
+                        "count": 20
+                    }
+                ],
+                "gettimes": 2,
+                "sort": 12,
+                "maxbg": 0
+            },
+            "2": {
+                "id": 96418,
+                "jiangchi": 2,
+                "index": 2,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 3000
+                    }
+                ],
+                "gettimes": 1,
+                "sort": 11,
+                "maxbg": 0
+            },
+            "3": {
+                "id": 96418,
+                "jiangchi": 2,
+                "index": 3,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600511,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 3,
+                "sort": 5,
+                "maxbg": 0
+            },
+            "4": {
+                "id": 96418,
+                "jiangchi": 2,
+                "index": 4,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 4000
+                    }
+                ],
+                "gettimes": 5,
+                "sort": 6,
+                "maxbg": 0
+            },
+            "5": {
+                "id": 96418,
+                "jiangchi": 2,
+                "index": 5,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310005,
+                        "count": 80
+                    }
+                ],
+                "gettimes": 4,
+                "sort": 2,
+                "maxbg": 0
+            },
+            "6": {
+                "id": 96418,
+                "jiangchi": 2,
+                "index": 6,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600411,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 6,
+                "sort": 3,
+                "maxbg": 0
+            },
+            "7": {
+                "id": 96418,
+                "jiangchi": 2,
+                "index": 7,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 341047,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 7,
+                "sort": 4,
+                "maxbg": 0
+            },
+            "8": {
+                "id": 96418,
+                "jiangchi": 2,
+                "index": 8,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310014,
+                        "count": 5
+                    }
+                ],
+                "gettimes": 8,
+                "sort": 8,
+                "maxbg": 0
+            },
+            "9": {
+                "id": 96418,
+                "jiangchi": 2,
+                "index": 9,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1093003,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 9,
+                "sort": 9,
+                "maxbg": 0
+            },
+            "10": {
+                "id": 96418,
+                "jiangchi": 2,
+                "index": 10,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 5000
+                    }
+                ],
+                "gettimes": 10,
+                "sort": 10,
+                "maxbg": 0
+            },
+            "11": {
+                "id": 96418,
+                "jiangchi": 2,
+                "index": 11,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1089001,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 11,
+                "sort": 7,
+                "maxbg": 1
+            },
+            "12": {
+                "id": 96418,
+                "jiangchi": 2,
+                "index": 12,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1010106,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 12,
+                "sort": 1,
+                "maxbg": 1
+            }
+        },
+        "3": {
+            "1": {
+                "id": 96418,
+                "jiangchi": 3,
+                "index": 1,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 340401,
+                        "count": 100
+                    }
+                ],
+                "gettimes": 2,
+                "sort": 12,
+                "maxbg": 0
+            },
+            "2": {
+                "id": 96418,
+                "jiangchi": 3,
+                "index": 2,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 5000
+                    }
+                ],
+                "gettimes": 1,
+                "sort": 11,
+                "maxbg": 0
+            },
+            "3": {
+                "id": 96418,
+                "jiangchi": 3,
+                "index": 3,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600111,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 3,
+                "sort": 5,
+                "maxbg": 0
+            },
+            "4": {
+                "id": 96418,
+                "jiangchi": 3,
+                "index": 4,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 5000
+                    }
+                ],
+                "gettimes": 5,
+                "sort": 6,
+                "maxbg": 0
+            },
+            "5": {
+                "id": 96418,
+                "jiangchi": 3,
+                "index": 5,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1084200,
+                        "count": 4
+                    }
+                ],
+                "gettimes": 4,
+                "sort": 2,
+                "maxbg": 0
+            },
+            "6": {
+                "id": 96418,
+                "jiangchi": 3,
+                "index": 6,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310192,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 6,
+                "sort": 3,
+                "maxbg": 0
+            },
+            "7": {
+                "id": 96418,
+                "jiangchi": 3,
+                "index": 7,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 341048,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 7,
+                "sort": 4,
+                "maxbg": 0
+            },
+            "8": {
+                "id": 96418,
+                "jiangchi": 3,
+                "index": 8,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310014,
+                        "count": 5
+                    }
+                ],
+                "gettimes": 8,
+                "sort": 8,
+                "maxbg": 0
+            },
+            "9": {
+                "id": 96418,
+                "jiangchi": 3,
+                "index": 9,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 8000
+                    }
+                ],
+                "gettimes": 9,
+                "sort": 9,
+                "maxbg": 0
+            },
+            "10": {
+                "id": 96418,
+                "jiangchi": 3,
+                "index": 10,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 380224,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 10,
+                "sort": 10,
+                "maxbg": 0
+            },
+            "11": {
+                "id": 96418,
+                "jiangchi": 3,
+                "index": 11,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1082006,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 11,
+                "sort": 7,
+                "maxbg": 1
+            },
+            "12": {
+                "id": 96418,
+                "jiangchi": 3,
+                "index": 12,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450396,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1081007,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 12,
+                "sort": 1,
+                "maxbg": 1
+            }
+        }
+    },
+    "97418": {
+        "1": {
+            "1": {
+                "id": 97418,
+                "jiangchi": 1,
+                "index": 1,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1500
+                    }
+                ],
+                "gettimes": 2,
+                "sort": 12,
+                "maxbg": 0
+            },
+            "2": {
+                "id": 97418,
+                "jiangchi": 1,
+                "index": 2,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310013,
+                        "count": 5
+                    }
+                ],
+                "gettimes": 1,
+                "sort": 11,
+                "maxbg": 0
+            },
+            "3": {
+                "id": 97418,
+                "jiangchi": 1,
+                "index": 3,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310006,
+                        "count": 10
+                    }
+                ],
+                "gettimes": 3,
+                "sort": 5,
+                "maxbg": 0
+            },
+            "4": {
+                "id": 97418,
+                "jiangchi": 1,
+                "index": 4,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310005,
+                        "count": 40
+                    }
+                ],
+                "gettimes": 5,
+                "sort": 6,
+                "maxbg": 0
+            },
+            "5": {
+                "id": 97418,
+                "jiangchi": 1,
+                "index": 5,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 3000
+                    }
+                ],
+                "gettimes": 4,
+                "sort": 2,
+                "maxbg": 0
+            },
+            "6": {
+                "id": 97418,
+                "jiangchi": 1,
+                "index": 6,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1071005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 6,
+                "sort": 3,
+                "maxbg": 0
+            },
+            "7": {
+                "id": 97418,
+                "jiangchi": 1,
+                "index": 7,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600310,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 7,
+                "sort": 4,
+                "maxbg": 0
+            },
+            "8": {
+                "id": 97418,
+                "jiangchi": 1,
+                "index": 8,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1061005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 8,
+                "sort": 8,
+                "maxbg": 0
+            },
+            "9": {
+                "id": 97418,
+                "jiangchi": 1,
+                "index": 9,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600210,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 9,
+                "sort": 9,
+                "maxbg": 0
+            },
+            "10": {
+                "id": 97418,
+                "jiangchi": 1,
+                "index": 10,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1071005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 10,
+                "sort": 10,
+                "maxbg": 0
+            },
+            "11": {
+                "id": 97418,
+                "jiangchi": 1,
+                "index": 11,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1072005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 11,
+                "sort": 7,
+                "maxbg": 1
+            },
+            "12": {
+                "id": 97418,
+                "jiangchi": 1,
+                "index": 12,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1083006,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 12,
+                "sort": 1,
+                "maxbg": 1
+            }
+        },
+        "2": {
+            "1": {
+                "id": 97418,
+                "jiangchi": 2,
+                "index": 1,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310006,
+                        "count": 20
+                    }
+                ],
+                "gettimes": 2,
+                "sort": 12,
+                "maxbg": 0
+            },
+            "2": {
+                "id": 97418,
+                "jiangchi": 2,
+                "index": 2,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 3000
+                    }
+                ],
+                "gettimes": 1,
+                "sort": 11,
+                "maxbg": 0
+            },
+            "3": {
+                "id": 97418,
+                "jiangchi": 2,
+                "index": 3,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600511,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 3,
+                "sort": 5,
+                "maxbg": 0
+            },
+            "4": {
+                "id": 97418,
+                "jiangchi": 2,
+                "index": 4,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 4000
+                    }
+                ],
+                "gettimes": 5,
+                "sort": 6,
+                "maxbg": 0
+            },
+            "5": {
+                "id": 97418,
+                "jiangchi": 2,
+                "index": 5,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310005,
+                        "count": 80
+                    }
+                ],
+                "gettimes": 4,
+                "sort": 2,
+                "maxbg": 0
+            },
+            "6": {
+                "id": 97418,
+                "jiangchi": 2,
+                "index": 6,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600411,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 6,
+                "sort": 3,
+                "maxbg": 0
+            },
+            "7": {
+                "id": 97418,
+                "jiangchi": 2,
+                "index": 7,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 341047,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 7,
+                "sort": 4,
+                "maxbg": 0
+            },
+            "8": {
+                "id": 97418,
+                "jiangchi": 2,
+                "index": 8,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310014,
+                        "count": 5
+                    }
+                ],
+                "gettimes": 8,
+                "sort": 8,
+                "maxbg": 0
+            },
+            "9": {
+                "id": 97418,
+                "jiangchi": 2,
+                "index": 9,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1093003,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 9,
+                "sort": 9,
+                "maxbg": 0
+            },
+            "10": {
+                "id": 97418,
+                "jiangchi": 2,
+                "index": 10,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 5000
+                    }
+                ],
+                "gettimes": 10,
+                "sort": 10,
+                "maxbg": 0
+            },
+            "11": {
+                "id": 97418,
+                "jiangchi": 2,
+                "index": 11,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1089001,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 11,
+                "sort": 7,
+                "maxbg": 1
+            },
+            "12": {
+                "id": 97418,
+                "jiangchi": 2,
+                "index": 12,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1010106,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 12,
+                "sort": 1,
+                "maxbg": 1
+            }
+        },
+        "3": {
+            "1": {
+                "id": 97418,
+                "jiangchi": 3,
+                "index": 1,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 340401,
+                        "count": 100
+                    }
+                ],
+                "gettimes": 2,
+                "sort": 12,
+                "maxbg": 0
+            },
+            "2": {
+                "id": 97418,
+                "jiangchi": 3,
+                "index": 2,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 5000
+                    }
+                ],
+                "gettimes": 1,
+                "sort": 11,
+                "maxbg": 0
+            },
+            "3": {
+                "id": 97418,
+                "jiangchi": 3,
+                "index": 3,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600111,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 3,
+                "sort": 5,
+                "maxbg": 0
+            },
+            "4": {
+                "id": 97418,
+                "jiangchi": 3,
+                "index": 4,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 5000
+                    }
+                ],
+                "gettimes": 5,
+                "sort": 6,
+                "maxbg": 0
+            },
+            "5": {
+                "id": 97418,
+                "jiangchi": 3,
+                "index": 5,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1084200,
+                        "count": 4
+                    }
+                ],
+                "gettimes": 4,
+                "sort": 2,
+                "maxbg": 0
+            },
+            "6": {
+                "id": 97418,
+                "jiangchi": 3,
+                "index": 6,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310192,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 6,
+                "sort": 3,
+                "maxbg": 0
+            },
+            "7": {
+                "id": 97418,
+                "jiangchi": 3,
+                "index": 7,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 341048,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 7,
+                "sort": 4,
+                "maxbg": 0
+            },
+            "8": {
+                "id": 97418,
+                "jiangchi": 3,
+                "index": 8,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310014,
+                        "count": 5
+                    }
+                ],
+                "gettimes": 8,
+                "sort": 8,
+                "maxbg": 0
+            },
+            "9": {
+                "id": 97418,
+                "jiangchi": 3,
+                "index": 9,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 8000
+                    }
+                ],
+                "gettimes": 9,
+                "sort": 9,
+                "maxbg": 0
+            },
+            "10": {
+                "id": 97418,
+                "jiangchi": 3,
+                "index": 10,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 380225,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 10,
+                "sort": 10,
+                "maxbg": 0
+            },
+            "11": {
+                "id": 97418,
+                "jiangchi": 3,
+                "index": 11,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1082006,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 11,
+                "sort": 7,
+                "maxbg": 1
+            },
+            "12": {
+                "id": 97418,
+                "jiangchi": 3,
+                "index": 12,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450401,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1081007,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 12,
+                "sort": 1,
+                "maxbg": 1
+            }
+        }
+    },
+    "98518": {
+        "1": {
+            "1": {
+                "id": 98518,
+                "jiangchi": 1,
+                "index": 1,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1500
+                    }
+                ],
+                "gettimes": 2,
+                "sort": 12,
+                "maxbg": 0
+            },
+            "2": {
+                "id": 98518,
+                "jiangchi": 1,
+                "index": 2,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310013,
+                        "count": 5
+                    }
+                ],
+                "gettimes": 1,
+                "sort": 11,
+                "maxbg": 0
+            },
+            "3": {
+                "id": 98518,
+                "jiangchi": 1,
+                "index": 3,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310006,
+                        "count": 10
+                    }
+                ],
+                "gettimes": 3,
+                "sort": 5,
+                "maxbg": 0
+            },
+            "4": {
+                "id": 98518,
+                "jiangchi": 1,
+                "index": 4,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310005,
+                        "count": 40
+                    }
+                ],
+                "gettimes": 5,
+                "sort": 6,
+                "maxbg": 0
+            },
+            "5": {
+                "id": 98518,
+                "jiangchi": 1,
+                "index": 5,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 3000
+                    }
+                ],
+                "gettimes": 4,
+                "sort": 2,
+                "maxbg": 0
+            },
+            "6": {
+                "id": 98518,
+                "jiangchi": 1,
+                "index": 6,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1071005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 6,
+                "sort": 3,
+                "maxbg": 0
+            },
+            "7": {
+                "id": 98518,
+                "jiangchi": 1,
+                "index": 7,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600310,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 7,
+                "sort": 4,
+                "maxbg": 0
+            },
+            "8": {
+                "id": 98518,
+                "jiangchi": 1,
+                "index": 8,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1061005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 8,
+                "sort": 8,
+                "maxbg": 0
+            },
+            "9": {
+                "id": 98518,
+                "jiangchi": 1,
+                "index": 9,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600210,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 9,
+                "sort": 9,
+                "maxbg": 0
+            },
+            "10": {
+                "id": 98518,
+                "jiangchi": 1,
+                "index": 10,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1071005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 10,
+                "sort": 10,
+                "maxbg": 0
+            },
+            "11": {
+                "id": 98518,
+                "jiangchi": 1,
+                "index": 11,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1072005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 11,
+                "sort": 7,
+                "maxbg": 1
+            },
+            "12": {
+                "id": 98518,
+                "jiangchi": 1,
+                "index": 12,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1083006,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 12,
+                "sort": 1,
+                "maxbg": 1
+            }
+        },
+        "2": {
+            "1": {
+                "id": 98518,
+                "jiangchi": 2,
+                "index": 1,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310006,
+                        "count": 20
+                    }
+                ],
+                "gettimes": 2,
+                "sort": 12,
+                "maxbg": 0
+            },
+            "2": {
+                "id": 98518,
+                "jiangchi": 2,
+                "index": 2,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 3000
+                    }
+                ],
+                "gettimes": 1,
+                "sort": 11,
+                "maxbg": 0
+            },
+            "3": {
+                "id": 98518,
+                "jiangchi": 2,
+                "index": 3,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600511,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 3,
+                "sort": 5,
+                "maxbg": 0
+            },
+            "4": {
+                "id": 98518,
+                "jiangchi": 2,
+                "index": 4,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 4000
+                    }
+                ],
+                "gettimes": 5,
+                "sort": 6,
+                "maxbg": 0
+            },
+            "5": {
+                "id": 98518,
+                "jiangchi": 2,
+                "index": 5,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310005,
+                        "count": 80
+                    }
+                ],
+                "gettimes": 4,
+                "sort": 2,
+                "maxbg": 0
+            },
+            "6": {
+                "id": 98518,
+                "jiangchi": 2,
+                "index": 6,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600411,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 6,
+                "sort": 3,
+                "maxbg": 0
+            },
+            "7": {
+                "id": 98518,
+                "jiangchi": 2,
+                "index": 7,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 341047,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 7,
+                "sort": 4,
+                "maxbg": 0
+            },
+            "8": {
+                "id": 98518,
+                "jiangchi": 2,
+                "index": 8,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310014,
+                        "count": 5
+                    }
+                ],
+                "gettimes": 8,
+                "sort": 8,
+                "maxbg": 0
+            },
+            "9": {
+                "id": 98518,
+                "jiangchi": 2,
+                "index": 9,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1093003,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 9,
+                "sort": 9,
+                "maxbg": 0
+            },
+            "10": {
+                "id": 98518,
+                "jiangchi": 2,
+                "index": 10,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 5000
+                    }
+                ],
+                "gettimes": 10,
+                "sort": 10,
+                "maxbg": 0
+            },
+            "11": {
+                "id": 98518,
+                "jiangchi": 2,
+                "index": 11,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1089001,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 11,
+                "sort": 7,
+                "maxbg": 1
+            },
+            "12": {
+                "id": 98518,
+                "jiangchi": 2,
+                "index": 12,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1010106,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 12,
+                "sort": 1,
+                "maxbg": 1
+            }
+        },
+        "3": {
+            "1": {
+                "id": 98518,
+                "jiangchi": 3,
+                "index": 1,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 340401,
+                        "count": 100
+                    }
+                ],
+                "gettimes": 2,
+                "sort": 12,
+                "maxbg": 0
+            },
+            "2": {
+                "id": 98518,
+                "jiangchi": 3,
+                "index": 2,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 5000
+                    }
+                ],
+                "gettimes": 1,
+                "sort": 11,
+                "maxbg": 0
+            },
+            "3": {
+                "id": 98518,
+                "jiangchi": 3,
+                "index": 3,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600111,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 3,
+                "sort": 5,
+                "maxbg": 0
+            },
+            "4": {
+                "id": 98518,
+                "jiangchi": 3,
+                "index": 4,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 5000
+                    }
+                ],
+                "gettimes": 5,
+                "sort": 6,
+                "maxbg": 0
+            },
+            "5": {
+                "id": 98518,
+                "jiangchi": 3,
+                "index": 5,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1084200,
+                        "count": 4
+                    }
+                ],
+                "gettimes": 4,
+                "sort": 2,
+                "maxbg": 0
+            },
+            "6": {
+                "id": 98518,
+                "jiangchi": 3,
+                "index": 6,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310192,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 6,
+                "sort": 3,
+                "maxbg": 0
+            },
+            "7": {
+                "id": 98518,
+                "jiangchi": 3,
+                "index": 7,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 341048,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 7,
+                "sort": 4,
+                "maxbg": 0
+            },
+            "8": {
+                "id": 98518,
+                "jiangchi": 3,
+                "index": 8,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310014,
+                        "count": 5
+                    }
+                ],
+                "gettimes": 8,
+                "sort": 8,
+                "maxbg": 0
+            },
+            "9": {
+                "id": 98518,
+                "jiangchi": 3,
+                "index": 9,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 8000
+                    }
+                ],
+                "gettimes": 9,
+                "sort": 9,
+                "maxbg": 0
+            },
+            "10": {
+                "id": 98518,
+                "jiangchi": 3,
+                "index": 10,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 380226,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 10,
+                "sort": 10,
+                "maxbg": 0
+            },
+            "11": {
+                "id": 98518,
+                "jiangchi": 3,
+                "index": 11,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1082006,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 11,
+                "sort": 7,
+                "maxbg": 1
+            },
+            "12": {
+                "id": 98518,
+                "jiangchi": 3,
+                "index": 12,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450409,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1081007,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 12,
+                "sort": 1,
+                "maxbg": 1
+            }
+        }
+    },
+    "99518": {
+        "1": {
+            "1": {
+                "id": 99518,
+                "jiangchi": 1,
+                "index": 1,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1500
+                    }
+                ],
+                "gettimes": 2,
+                "sort": 12,
+                "maxbg": 0
+            },
+            "2": {
+                "id": 99518,
+                "jiangchi": 1,
+                "index": 2,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310013,
+                        "count": 5
+                    }
+                ],
+                "gettimes": 1,
+                "sort": 11,
+                "maxbg": 0
+            },
+            "3": {
+                "id": 99518,
+                "jiangchi": 1,
+                "index": 3,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310006,
+                        "count": 10
+                    }
+                ],
+                "gettimes": 3,
+                "sort": 5,
+                "maxbg": 0
+            },
+            "4": {
+                "id": 99518,
+                "jiangchi": 1,
+                "index": 4,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310005,
+                        "count": 40
+                    }
+                ],
+                "gettimes": 5,
+                "sort": 6,
+                "maxbg": 0
+            },
+            "5": {
+                "id": 99518,
+                "jiangchi": 1,
+                "index": 5,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 3000
+                    }
+                ],
+                "gettimes": 4,
+                "sort": 2,
+                "maxbg": 0
+            },
+            "6": {
+                "id": 99518,
+                "jiangchi": 1,
+                "index": 6,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1071005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 6,
+                "sort": 3,
+                "maxbg": 0
+            },
+            "7": {
+                "id": 99518,
+                "jiangchi": 1,
+                "index": 7,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600310,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 7,
+                "sort": 4,
+                "maxbg": 0
+            },
+            "8": {
+                "id": 99518,
+                "jiangchi": 1,
+                "index": 8,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1061005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 8,
+                "sort": 8,
+                "maxbg": 0
+            },
+            "9": {
+                "id": 99518,
+                "jiangchi": 1,
+                "index": 9,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600210,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 9,
+                "sort": 9,
+                "maxbg": 0
+            },
+            "10": {
+                "id": 99518,
+                "jiangchi": 1,
+                "index": 10,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1071005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 10,
+                "sort": 10,
+                "maxbg": 0
+            },
+            "11": {
+                "id": 99518,
+                "jiangchi": 1,
+                "index": 11,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1072005,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 11,
+                "sort": 7,
+                "maxbg": 1
+            },
+            "12": {
+                "id": 99518,
+                "jiangchi": 1,
+                "index": 12,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1083006,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 12,
+                "sort": 1,
+                "maxbg": 1
+            }
+        },
+        "2": {
+            "1": {
+                "id": 99518,
+                "jiangchi": 2,
+                "index": 1,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310006,
+                        "count": 20
+                    }
+                ],
+                "gettimes": 2,
+                "sort": 12,
+                "maxbg": 0
+            },
+            "2": {
+                "id": 99518,
+                "jiangchi": 2,
+                "index": 2,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 3000
+                    }
+                ],
+                "gettimes": 1,
+                "sort": 11,
+                "maxbg": 0
+            },
+            "3": {
+                "id": 99518,
+                "jiangchi": 2,
+                "index": 3,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600511,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 3,
+                "sort": 5,
+                "maxbg": 0
+            },
+            "4": {
+                "id": 99518,
+                "jiangchi": 2,
+                "index": 4,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 4000
+                    }
+                ],
+                "gettimes": 5,
+                "sort": 6,
+                "maxbg": 0
+            },
+            "5": {
+                "id": 99518,
+                "jiangchi": 2,
+                "index": 5,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310005,
+                        "count": 80
+                    }
+                ],
+                "gettimes": 4,
+                "sort": 2,
+                "maxbg": 0
+            },
+            "6": {
+                "id": 99518,
+                "jiangchi": 2,
+                "index": 6,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600411,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 6,
+                "sort": 3,
+                "maxbg": 0
+            },
+            "7": {
+                "id": 99518,
+                "jiangchi": 2,
+                "index": 7,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 341047,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 7,
+                "sort": 4,
+                "maxbg": 0
+            },
+            "8": {
+                "id": 99518,
+                "jiangchi": 2,
+                "index": 8,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310014,
+                        "count": 5
+                    }
+                ],
+                "gettimes": 8,
+                "sort": 8,
+                "maxbg": 0
+            },
+            "9": {
+                "id": 99518,
+                "jiangchi": 2,
+                "index": 9,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1093003,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 9,
+                "sort": 9,
+                "maxbg": 0
+            },
+            "10": {
+                "id": 99518,
+                "jiangchi": 2,
+                "index": 10,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 5000
+                    }
+                ],
+                "gettimes": 10,
+                "sort": 10,
+                "maxbg": 0
+            },
+            "11": {
+                "id": 99518,
+                "jiangchi": 2,
+                "index": 11,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1089001,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 11,
+                "sort": 7,
+                "maxbg": 1
+            },
+            "12": {
+                "id": 99518,
+                "jiangchi": 2,
+                "index": 12,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1010106,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 12,
+                "sort": 1,
+                "maxbg": 1
+            }
+        },
+        "3": {
+            "1": {
+                "id": 99518,
+                "jiangchi": 3,
+                "index": 1,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 340401,
+                        "count": 100
+                    }
+                ],
+                "gettimes": 2,
+                "sort": 12,
+                "maxbg": 0
+            },
+            "2": {
+                "id": 99518,
+                "jiangchi": 3,
+                "index": 2,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 5000
+                    }
+                ],
+                "gettimes": 1,
+                "sort": 11,
+                "maxbg": 0
+            },
+            "3": {
+                "id": 99518,
+                "jiangchi": 3,
+                "index": 3,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 600111,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 3,
+                "sort": 5,
+                "maxbg": 0
+            },
+            "4": {
+                "id": 99518,
+                "jiangchi": 3,
+                "index": 4,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 5000
+                    }
+                ],
+                "gettimes": 5,
+                "sort": 6,
+                "maxbg": 0
+            },
+            "5": {
+                "id": 99518,
+                "jiangchi": 3,
+                "index": 5,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1084200,
+                        "count": 4
+                    }
+                ],
+                "gettimes": 4,
+                "sort": 2,
+                "maxbg": 0
+            },
+            "6": {
+                "id": 99518,
+                "jiangchi": 3,
+                "index": 6,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310192,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 6,
+                "sort": 3,
+                "maxbg": 0
+            },
+            "7": {
+                "id": 99518,
+                "jiangchi": 3,
+                "index": 7,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 341048,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 7,
+                "sort": 4,
+                "maxbg": 0
+            },
+            "8": {
+                "id": 99518,
+                "jiangchi": 3,
+                "index": 8,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 310014,
+                        "count": 5
+                    }
+                ],
+                "gettimes": 8,
+                "sort": 8,
+                "maxbg": 0
+            },
+            "9": {
+                "id": 99518,
+                "jiangchi": 3,
+                "index": 9,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 8000
+                    }
+                ],
+                "gettimes": 9,
+                "sort": 9,
+                "maxbg": 0
+            },
+            "10": {
+                "id": 99518,
+                "jiangchi": 3,
+                "index": 10,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 380227,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 10,
+                "sort": 10,
+                "maxbg": 0
+            },
+            "11": {
+                "id": 99518,
+                "jiangchi": 3,
+                "index": 11,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1082006,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 11,
+                "sort": 7,
+                "maxbg": 1
+            },
+            "12": {
+                "id": 99518,
+                "jiangchi": 3,
+                "index": 12,
+                "subType": 1,
+                "costitem": [
+                    {
+                        "type": 1,
+                        "id": 450414,
+                        "count": 1
+                    }
+                ],
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1081007,
+                        "count": 1
+                    }
+                ],
+                "gettimes": 12,
+                "sort": 1,
+                "maxbg": 1
+            }
+        }
+    }
+}

@@ -1,0 +1,47 @@
+{
+    "maxtimes": 3,
+    "showReward": [
+        {
+            "type": 1,
+            "id": 420144,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 420139,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 36,
+            "count": 1
+        }
+    ],
+    "refreshtime": 90,
+    "startTime": [
+        10,
+        0
+    ],
+    "endTime": [
+        22,
+        0
+    ],
+    "timeDesc": "|C:0x13ee22&T:Event Time: 10：00-22：00 daily|",
+    "monstertimes": 3,
+    "playdesc": "The monsters of Excelllent Land are plotting for an invasion. Some monsters already show up at the east gate location of the city. \nWarriors, go and defend against the attack of the monsters!",
+    "qwzb": [
+        [
+            69,
+            14
+        ],
+        [
+            81,
+            15
+        ],
+        [
+            80,
+            21
+        ]
+    ],
+    "monsterdesc": "The siege monsters can be challenged up to |C:0x13ee22&T:3 times|, and each player only has |C:0x13ee22&T:1| challenge attempts. When they are challenged for 3 times or it has been |C:0x13ee22&T:1| hour after the challenge, the monsters will fall back and regroup. You can challenge them again when they come back."
+}

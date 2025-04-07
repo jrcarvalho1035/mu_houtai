@@ -1,0 +1,29 @@
+{
+    "1": {
+        "job": 1,
+        "name": "Swordsman Ranking",
+        "mcIcon": {
+            "type": 2,
+            "param": 13
+        },
+        "power": 3500000
+    },
+    "2": {
+        "job": 2,
+        "name": "Wizard Ranking",
+        "mcIcon": {
+            "type": 2,
+            "param": 13
+        },
+        "power": 3500000
+    },
+    "3": {
+        "job": 3,
+        "name": "Archer Ranking",
+        "mcIcon": {
+            "type": 2,
+            "param": 13
+        },
+        "power": 3500000
+    }
+}

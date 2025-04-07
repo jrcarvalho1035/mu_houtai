@@ -1,0 +1,38 @@
+{
+    "maxMember": 4,
+    "rewardCount": 10,
+    "joinCount": 10,
+    "winPoint": [
+        25,
+        20,
+        20,
+        35
+    ],
+    "cameraPos": [
+        32,
+        20
+    ],
+    "linkReward": [
+        {
+            "type": 1,
+            "id": 1081016,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1082010,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310905,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 37,
+            "count": 1
+        }
+    ],
+    "actDec": "20:00 to 20:30 daily\n(Except for Saturday)"
+}

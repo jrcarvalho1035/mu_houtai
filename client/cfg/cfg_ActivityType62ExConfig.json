@@ -1,0 +1,94 @@
+{
+    "96100": {
+        "1": {
+            "id": 96100,
+            "index": 1,
+            "minDis": -999,
+            "maxDis": 0,
+            "record": "Temporarily fall behind"
+        },
+        "2": {
+            "id": 96100,
+            "index": 2,
+            "minDis": 1,
+            "maxDis": 4,
+            "record": "In the lead"
+        },
+        "3": {
+            "id": 96100,
+            "index": 3,
+            "minDis": 5,
+            "maxDis": 999,
+            "record": "Far ahead"
+        }
+    },
+    "96700": {
+        "1": {
+            "id": 96700,
+            "index": 1,
+            "minDis": -999,
+            "maxDis": 0,
+            "record": "Temporarily fall behind"
+        },
+        "2": {
+            "id": 96700,
+            "index": 2,
+            "minDis": 1,
+            "maxDis": 4,
+            "record": "In the lead"
+        },
+        "3": {
+            "id": 96700,
+            "index": 3,
+            "minDis": 5,
+            "maxDis": 999,
+            "record": "Far ahead"
+        }
+    },
+    "98300": {
+        "1": {
+            "id": 98300,
+            "index": 1,
+            "minDis": -999,
+            "maxDis": 0,
+            "record": "Temporarily fall behind"
+        },
+        "2": {
+            "id": 98300,
+            "index": 2,
+            "minDis": 1,
+            "maxDis": 4,
+            "record": "In the lead"
+        },
+        "3": {
+            "id": 98300,
+            "index": 3,
+            "minDis": 5,
+            "maxDis": 999,
+            "record": "Far ahead"
+        }
+    },
+    "99000": {
+        "1": {
+            "id": 99000,
+            "index": 1,
+            "minDis": -999,
+            "maxDis": 0,
+            "record": "Temporarily fall behind"
+        },
+        "2": {
+            "id": 99000,
+            "index": 2,
+            "minDis": 1,
+            "maxDis": 4,
+            "record": "In the lead"
+        },
+        "3": {
+            "id": 99000,
+            "index": 3,
+            "minDis": 5,
+            "maxDis": 999,
+            "record": "Far ahead"
+        }
+    }
+}

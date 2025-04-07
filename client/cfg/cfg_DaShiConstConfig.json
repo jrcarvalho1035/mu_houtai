@@ -1,0 +1,13 @@
+{
+    "tzDec": "1. Can do Master Challenge after completing Master Quests and claiming the rewards\n2. Players can use the master medal to directly kill the BOSS to complete the challenge\n3. After the challenge is completed, players can get rich rewards and open the next-level challenge",
+    "yzDec": "Master Suppression: |C:0xff9b0f&T:High Tier Master| players' DMG to |C:0xff9b0f&T:Low Tier Master| players |C:0x13ee22&T: is increased by 10%|",
+    "maxLevel": 10,
+    "taskGroupNames": [
+        "Emperor Book",
+        "Fairy Tear",
+        "Sorrow Sword",
+        "Prophet Soul",
+        "Abyss Eye",
+        "Glory Ring"
+    ]
+}

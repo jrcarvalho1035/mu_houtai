@@ -1,0 +1,58 @@
+{
+    "1": {
+        "index": 1,
+        "killnum": [
+            3,
+            5
+        ],
+        "bro": "completed $num$ killstreak!"
+    },
+    "2": {
+        "index": 2,
+        "killnum": [
+            6,
+            8
+        ],
+        "bro": "completed $num$ killstreak, steam rolling!"
+    },
+    "3": {
+        "index": 3,
+        "killnum": [
+            9,
+            12
+        ],
+        "bro": "completed $num$ killstreak, invincible!"
+    },
+    "4": {
+        "index": 4,
+        "killnum": [
+            13,
+            15
+        ],
+        "bro": "completed $num$ killstreak, rampage!"
+    },
+    "5": {
+        "index": 5,
+        "killnum": [
+            16,
+            20
+        ],
+        "bro": "completed $num$ killstreak, dominating!"
+    },
+    "6": {
+        "index": 6,
+        "killnum": [
+            21,
+            30
+        ],
+        "bro": "completed $num$ killstreak, godlike!"
+    },
+    "7": {
+        "index": 7,
+        "killnum": [
+            31,
+            99999
+        ],
+        "bro": "completed $num$ killstreak, beyond god!"
+    }
+}

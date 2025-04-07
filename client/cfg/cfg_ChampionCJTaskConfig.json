@@ -1,0 +1,652 @@
+{
+    "1": {
+        "id": 1,
+        "type": 232,
+        "target": 1,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 12500
+            }
+        ],
+        "desc": "Win the Championship |C:0x00ff00&T:once|"
+    },
+    "2": {
+        "id": 2,
+        "type": 232,
+        "target": 2,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 25000
+            }
+        ],
+        "desc": "Win the Championship |C:0x00ff00&T:twice|"
+    },
+    "3": {
+        "id": 3,
+        "type": 232,
+        "target": 5,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 50000
+            }
+        ],
+        "desc": "Win the Championship |C:0x00ff00&T:5| times"
+    },
+    "4": {
+        "id": 4,
+        "type": 232,
+        "target": 8,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 75000
+            }
+        ],
+        "desc": "Win the Championship |C:0x00ff00&T:8| times"
+    },
+    "5": {
+        "id": 5,
+        "type": 232,
+        "target": 10,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 100000
+            }
+        ],
+        "desc": "Win the Championship |C:0x00ff00&T:10| times"
+    },
+    "6": {
+        "id": 6,
+        "type": 233,
+        "target": 3,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 4000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:3| times"
+    },
+    "7": {
+        "id": 7,
+        "type": 233,
+        "target": 6,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 6000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:6| times"
+    },
+    "8": {
+        "id": 8,
+        "type": 233,
+        "target": 9,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 8000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:9| times"
+    },
+    "9": {
+        "id": 9,
+        "type": 233,
+        "target": 12,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:12| times"
+    },
+    "10": {
+        "id": 10,
+        "type": 233,
+        "target": 15,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 12000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:15| times"
+    },
+    "11": {
+        "id": 11,
+        "type": 233,
+        "target": 18,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 14000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:18| times"
+    },
+    "12": {
+        "id": 12,
+        "type": 233,
+        "target": 21,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 16000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:21| times"
+    },
+    "13": {
+        "id": 13,
+        "type": 233,
+        "target": 24,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 18000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:24| times"
+    },
+    "14": {
+        "id": 14,
+        "type": 233,
+        "target": 27,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:27| times"
+    },
+    "15": {
+        "id": 15,
+        "type": 233,
+        "target": 30,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 22000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:30| times"
+    },
+    "16": {
+        "id": 16,
+        "type": 233,
+        "target": 36,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 24000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:36| times"
+    },
+    "17": {
+        "id": 17,
+        "type": 233,
+        "target": 42,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 28000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:42| times"
+    },
+    "18": {
+        "id": 18,
+        "type": 233,
+        "target": 48,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 32000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:48| times"
+    },
+    "19": {
+        "id": 19,
+        "type": 233,
+        "target": 54,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 36000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:54| times"
+    },
+    "20": {
+        "id": 20,
+        "type": 233,
+        "target": 60,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 40000
+            }
+        ],
+        "desc": "Become the MVP in a single game |C:0x00ff00&T:60| times"
+    },
+    "21": {
+        "id": 21,
+        "type": 234,
+        "target": 30000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 5000
+            }
+        ],
+        "desc": "Obtain |C:0x00ff00&T:30000| Fire Crystals in total"
+    },
+    "22": {
+        "id": 22,
+        "type": 234,
+        "target": 60000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Obtain |C:0x00ff00&T:60000| Fire Crystals in total"
+    },
+    "23": {
+        "id": 23,
+        "type": 234,
+        "target": 90000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 15000
+            }
+        ],
+        "desc": "Obtain |C:0x00ff00&T:90000| Fire Crystals in total"
+    },
+    "24": {
+        "id": 24,
+        "type": 234,
+        "target": 120000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Obtain |C:0x00ff00&T:120000| Fire Crystals in total"
+    },
+    "25": {
+        "id": 25,
+        "type": 234,
+        "target": 150000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 25000
+            }
+        ],
+        "desc": "Obtain |C:0x00ff00&T:150000| Fire Crystals in total"
+    },
+    "26": {
+        "id": 26,
+        "type": 234,
+        "target": 200000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 30000
+            }
+        ],
+        "desc": "Obtain |C:0x00ff00&T:200000| Fire Crystals in total"
+    },
+    "27": {
+        "id": 27,
+        "type": 234,
+        "target": 250000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 35000
+            }
+        ],
+        "desc": "Obtain |C:0x00ff00&T:250000| Fire Crystals in total"
+    },
+    "28": {
+        "id": 28,
+        "type": 234,
+        "target": 300000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 40000
+            }
+        ],
+        "desc": "Obtain |C:0x00ff00&T:300000| Fire Crystals in total"
+    },
+    "29": {
+        "id": 29,
+        "type": 234,
+        "target": 400000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 45000
+            }
+        ],
+        "desc": "Obtain |C:0x00ff00&T:400000| Fire Crystals in total"
+    },
+    "30": {
+        "id": 30,
+        "type": 234,
+        "target": 500000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 60000
+            }
+        ],
+        "desc": "Obtain |C:0x00ff00&T:500000| Fire Crystals in total"
+    },
+    "31": {
+        "id": 31,
+        "type": 235,
+        "target": 25,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 3000
+            }
+        ],
+        "desc": "Defeat players |C:0x00ff00&T:25| times in total"
+    },
+    "32": {
+        "id": 32,
+        "type": 235,
+        "target": 50,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 5000
+            }
+        ],
+        "desc": "Defeat players |C:0x00ff00&T:50| times in total"
+    },
+    "33": {
+        "id": 33,
+        "type": 235,
+        "target": 75,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 7500
+            }
+        ],
+        "desc": "Defeat players |C:0x00ff00&T:75| times in total"
+    },
+    "34": {
+        "id": 34,
+        "type": 235,
+        "target": 100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Defeat players |C:0x00ff00&T:100| times in total"
+    },
+    "35": {
+        "id": 35,
+        "type": 235,
+        "target": 150,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 12500
+            }
+        ],
+        "desc": "Defeat players |C:0x00ff00&T:150| times in total"
+    },
+    "36": {
+        "id": 36,
+        "type": 235,
+        "target": 200,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 15000
+            }
+        ],
+        "desc": "Defeat players |C:0x00ff00&T:200| times in total"
+    },
+    "37": {
+        "id": 37,
+        "type": 235,
+        "target": 250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 17500
+            }
+        ],
+        "desc": "Defeat players |C:0x00ff00&T:250| times in total"
+    },
+    "38": {
+        "id": 38,
+        "type": 235,
+        "target": 300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Defeat players |C:0x00ff00&T:300| times in total"
+    },
+    "39": {
+        "id": 39,
+        "type": 235,
+        "target": 400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 25000
+            }
+        ],
+        "desc": "Defeat players |C:0x00ff00&T:400| times in total"
+    },
+    "40": {
+        "id": 40,
+        "type": 235,
+        "target": 500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 30000
+            }
+        ],
+        "desc": "Defeat players |C:0x00ff00&T:500| times in total"
+    },
+    "41": {
+        "id": 41,
+        "type": 236,
+        "target": 50,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 3000
+            }
+        ],
+        "desc": "Kill |C:0x00ff00&T:50| monsters in total"
+    },
+    "42": {
+        "id": 42,
+        "type": 236,
+        "target": 100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 5000
+            }
+        ],
+        "desc": "Kill |C:0x00ff00&T:100| monsters in total"
+    },
+    "43": {
+        "id": 43,
+        "type": 236,
+        "target": 150,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 7500
+            }
+        ],
+        "desc": "Kill |C:0x00ff00&T:150| monsters in total"
+    },
+    "44": {
+        "id": 44,
+        "type": 236,
+        "target": 200,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "desc": "Kill |C:0x00ff00&T:200| monsters in total"
+    },
+    "45": {
+        "id": 45,
+        "type": 236,
+        "target": 250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 12500
+            }
+        ],
+        "desc": "Kill |C:0x00ff00&T:250| monsters in total"
+    },
+    "46": {
+        "id": 46,
+        "type": 236,
+        "target": 300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 15000
+            }
+        ],
+        "desc": "Kill |C:0x00ff00&T:300| monsters in total"
+    },
+    "47": {
+        "id": 47,
+        "type": 236,
+        "target": 350,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 17500
+            }
+        ],
+        "desc": "Kill |C:0x00ff00&T:350| monsters in total"
+    },
+    "48": {
+        "id": 48,
+        "type": 236,
+        "target": 400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "desc": "Kill |C:0x00ff00&T:400| monsters in total"
+    },
+    "49": {
+        "id": 49,
+        "type": 236,
+        "target": 500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 25000
+            }
+        ],
+        "desc": "Kill |C:0x00ff00&T:500| monsters in total"
+    },
+    "50": {
+        "id": 50,
+        "type": 236,
+        "target": 800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 30000
+            }
+        ],
+        "desc": "Kill |C:0x00ff00&T:800| monsters in total"
+    }
+}

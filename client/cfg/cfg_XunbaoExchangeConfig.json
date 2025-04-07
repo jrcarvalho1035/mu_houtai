@@ -1,0 +1,744 @@
+{
+    "1": {
+        "1": {
+            "type": 1,
+            "index": 1,
+            "item": {
+                "type": 0,
+                "id": 1,
+                "count": 500000
+            },
+            "score": 100
+        },
+        "2": {
+            "type": 1,
+            "index": 2,
+            "item": {
+                "type": 1,
+                "id": 1051001,
+                "count": 10
+            },
+            "score": 150
+        },
+        "3": {
+            "type": 1,
+            "index": 3,
+            "item": {
+                "type": 1,
+                "id": 1061001,
+                "count": 10
+            },
+            "score": 150
+        },
+        "4": {
+            "type": 1,
+            "index": 4,
+            "item": {
+                "type": 1,
+                "id": 1071001,
+                "count": 10
+            },
+            "score": 150
+        },
+        "5": {
+            "type": 1,
+            "index": 5,
+            "item": {
+                "type": 1,
+                "id": 220005,
+                "count": 1
+            },
+            "score": 500
+        },
+        "6": {
+            "type": 1,
+            "index": 6,
+            "item": {
+                "type": 1,
+                "id": 220007,
+                "count": 1
+            },
+            "score": 1500
+        },
+        "7": {
+            "type": 1,
+            "index": 7,
+            "item": {
+                "type": 1,
+                "id": 1081003,
+                "count": 1
+            },
+            "score": 4000
+        },
+        "8": {
+            "type": 1,
+            "index": 8,
+            "item": {
+                "type": 1,
+                "id": 1010103,
+                "count": 1
+            },
+            "score": 4000
+        },
+        "9": {
+            "type": 1,
+            "index": 9,
+            "item": {
+                "type": 1,
+                "id": 181507,
+                "count": 1
+            },
+            "score": 7000
+        },
+        "10": {
+            "type": 1,
+            "index": 10,
+            "item": {
+                "type": 1,
+                "id": 191507,
+                "count": 1
+            },
+            "score": 7000
+        }
+    },
+    "2": {
+        "1": {
+            "type": 2,
+            "index": 1,
+            "item": {
+                "type": 1,
+                "id": 310015,
+                "count": 1
+            },
+            "score": 120
+        },
+        "2": {
+            "type": 2,
+            "index": 2,
+            "item": {
+                "type": 1,
+                "id": 310016,
+                "count": 1
+            },
+            "score": 350
+        },
+        "3": {
+            "type": 2,
+            "index": 3,
+            "item": {
+                "type": 1,
+                "id": 341029,
+                "count": 1
+            },
+            "score": 1000
+        },
+        "4": {
+            "type": 2,
+            "index": 4,
+            "item": {
+                "type": 1,
+                "id": 341030,
+                "count": 1
+            },
+            "score": 1000
+        },
+        "5": {
+            "type": 2,
+            "index": 5,
+            "item": {
+                "type": 1,
+                "id": 341031,
+                "count": 1
+            },
+            "score": 1000
+        },
+        "6": {
+            "type": 2,
+            "index": 6,
+            "item": {
+                "type": 1,
+                "id": 341032,
+                "count": 1
+            },
+            "score": 1000
+        },
+        "7": {
+            "type": 2,
+            "index": 7,
+            "item": {
+                "type": 1,
+                "id": 341041,
+                "count": 1
+            },
+            "score": 5000
+        },
+        "8": {
+            "type": 2,
+            "index": 8,
+            "item": {
+                "type": 1,
+                "id": 341042,
+                "count": 1
+            },
+            "score": 5000
+        }
+    },
+    "3": {
+        "1": {
+            "type": 3,
+            "index": 1,
+            "item": {
+                "type": 0,
+                "id": 13,
+                "count": 1200
+            },
+            "score": 50
+        },
+        "2": {
+            "type": 3,
+            "index": 2,
+            "item": {
+                "type": 1,
+                "id": 400003,
+                "count": 1
+            },
+            "score": 300
+        },
+        "3": {
+            "type": 3,
+            "index": 3,
+            "item": {
+                "type": 1,
+                "id": 400103,
+                "count": 1
+            },
+            "score": 300
+        },
+        "4": {
+            "type": 3,
+            "index": 4,
+            "item": {
+                "type": 1,
+                "id": 400203,
+                "count": 1
+            },
+            "score": 300
+        },
+        "5": {
+            "type": 3,
+            "index": 5,
+            "item": {
+                "type": 1,
+                "id": 400303,
+                "count": 1
+            },
+            "score": 300
+        },
+        "6": {
+            "type": 3,
+            "index": 6,
+            "item": {
+                "type": 1,
+                "id": 400403,
+                "count": 1
+            },
+            "score": 300
+        },
+        "7": {
+            "type": 3,
+            "index": 7,
+            "item": {
+                "type": 1,
+                "id": 400503,
+                "count": 1
+            },
+            "score": 300
+        },
+        "8": {
+            "type": 3,
+            "index": 8,
+            "item": {
+                "type": 1,
+                "id": 400603,
+                "count": 1
+            },
+            "score": 300
+        },
+        "9": {
+            "type": 3,
+            "index": 9,
+            "item": {
+                "type": 1,
+                "id": 400703,
+                "count": 1
+            },
+            "score": 300
+        },
+        "10": {
+            "type": 3,
+            "index": 10,
+            "item": {
+                "type": 1,
+                "id": 400004,
+                "count": 1
+            },
+            "score": 1000
+        },
+        "11": {
+            "type": 3,
+            "index": 11,
+            "item": {
+                "type": 1,
+                "id": 400104,
+                "count": 1
+            },
+            "score": 1000
+        },
+        "12": {
+            "type": 3,
+            "index": 12,
+            "item": {
+                "type": 1,
+                "id": 400204,
+                "count": 1
+            },
+            "score": 1000
+        },
+        "13": {
+            "type": 3,
+            "index": 13,
+            "item": {
+                "type": 1,
+                "id": 400304,
+                "count": 1
+            },
+            "score": 1000
+        },
+        "14": {
+            "type": 3,
+            "index": 14,
+            "item": {
+                "type": 1,
+                "id": 400404,
+                "count": 1
+            },
+            "score": 1000
+        },
+        "15": {
+            "type": 3,
+            "index": 15,
+            "item": {
+                "type": 1,
+                "id": 400504,
+                "count": 1
+            },
+            "score": 1000
+        },
+        "16": {
+            "type": 3,
+            "index": 16,
+            "item": {
+                "type": 1,
+                "id": 400604,
+                "count": 1
+            },
+            "score": 1000
+        },
+        "17": {
+            "type": 3,
+            "index": 17,
+            "item": {
+                "type": 1,
+                "id": 400704,
+                "count": 1
+            },
+            "score": 1000
+        },
+        "18": {
+            "type": 3,
+            "index": 18,
+            "item": {
+                "type": 1,
+                "id": 400005,
+                "count": 1
+            },
+            "score": 6000
+        },
+        "19": {
+            "type": 3,
+            "index": 19,
+            "item": {
+                "type": 1,
+                "id": 400105,
+                "count": 1
+            },
+            "score": 6000
+        },
+        "20": {
+            "type": 3,
+            "index": 20,
+            "item": {
+                "type": 1,
+                "id": 400205,
+                "count": 1
+            },
+            "score": 6000
+        },
+        "21": {
+            "type": 3,
+            "index": 21,
+            "item": {
+                "type": 1,
+                "id": 400305,
+                "count": 1
+            },
+            "score": 6000
+        },
+        "22": {
+            "type": 3,
+            "index": 22,
+            "item": {
+                "type": 1,
+                "id": 400405,
+                "count": 1
+            },
+            "score": 6000
+        },
+        "23": {
+            "type": 3,
+            "index": 23,
+            "item": {
+                "type": 1,
+                "id": 400505,
+                "count": 1
+            },
+            "score": 6000
+        },
+        "24": {
+            "type": 3,
+            "index": 24,
+            "item": {
+                "type": 1,
+                "id": 400605,
+                "count": 1
+            },
+            "score": 6000
+        },
+        "25": {
+            "type": 3,
+            "index": 25,
+            "item": {
+                "type": 1,
+                "id": 400705,
+                "count": 1
+            },
+            "score": 6000
+        }
+    },
+    "4": {
+        "1": {
+            "type": 4,
+            "index": 1,
+            "item": {
+                "type": 0,
+                "id": 27,
+                "count": 300000
+            },
+            "score": 100
+        },
+        "2": {
+            "type": 4,
+            "index": 2,
+            "item": {
+                "type": 1,
+                "id": 1081000,
+                "count": 10
+            },
+            "score": 200
+        },
+        "3": {
+            "type": 4,
+            "index": 3,
+            "item": {
+                "type": 1,
+                "id": 1010000,
+                "count": 10
+            },
+            "score": 200
+        },
+        "4": {
+            "type": 4,
+            "index": 4,
+            "item": {
+                "type": 1,
+                "id": 220005,
+                "count": 1
+            },
+            "score": 500
+        },
+        "5": {
+            "type": 4,
+            "index": 5,
+            "item": {
+                "type": 1,
+                "id": 220007,
+                "count": 1
+            },
+            "score": 1500
+        },
+        "6": {
+            "type": 4,
+            "index": 6,
+            "item": {
+                "type": 1,
+                "id": 220009,
+                "count": 1
+            },
+            "score": 4000
+        },
+        "7": {
+            "type": 4,
+            "index": 7,
+            "item": {
+                "type": 1,
+                "id": 310007,
+                "count": 1
+            },
+            "score": 7000
+        },
+        "8": {
+            "type": 4,
+            "index": 8,
+            "item": {
+                "type": 1,
+                "id": 310009,
+                "count": 1
+            },
+            "score": 7000
+        }
+    },
+    "5": {
+        "1": {
+            "type": 5,
+            "index": 1,
+            "item": {
+                "type": 1,
+                "id": 220102,
+                "count": 1
+            },
+            "score": 150
+        },
+        "2": {
+            "type": 5,
+            "index": 2,
+            "item": {
+                "type": 1,
+                "id": 1051001,
+                "count": 20
+            },
+            "score": 200
+        },
+        "3": {
+            "type": 5,
+            "index": 3,
+            "item": {
+                "type": 1,
+                "id": 1061001,
+                "count": 20
+            },
+            "score": 200
+        },
+        "4": {
+            "type": 5,
+            "index": 4,
+            "item": {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            },
+            "score": 300
+        },
+        "5": {
+            "type": 5,
+            "index": 5,
+            "item": {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            },
+            "score": 300
+        },
+        "6": {
+            "type": 5,
+            "index": 6,
+            "item": {
+                "type": 1,
+                "id": 1051002,
+                "count": 10
+            },
+            "score": 500
+        },
+        "7": {
+            "type": 5,
+            "index": 7,
+            "item": {
+                "type": 1,
+                "id": 1061002,
+                "count": 10
+            },
+            "score": 500
+        },
+        "8": {
+            "type": 5,
+            "index": 8,
+            "item": {
+                "type": 1,
+                "id": 220008,
+                "count": 1
+            },
+            "score": 2000
+        },
+        "9": {
+            "type": 5,
+            "index": 9,
+            "item": {
+                "type": 1,
+                "id": 1081004,
+                "count": 1
+            },
+            "score": 4000
+        },
+        "10": {
+            "type": 5,
+            "index": 10,
+            "item": {
+                "type": 1,
+                "id": 1010104,
+                "count": 1
+            },
+            "score": 4000
+        },
+        "11": {
+            "type": 5,
+            "index": 11,
+            "item": {
+                "type": 1,
+                "id": 310008,
+                "count": 1
+            },
+            "score": 7000
+        },
+        "12": {
+            "type": 5,
+            "index": 12,
+            "item": {
+                "type": 1,
+                "id": 310010,
+                "count": 1
+            },
+            "score": 7000
+        }
+    },
+    "6": {
+        "1": {
+            "type": 6,
+            "index": 1,
+            "item": {
+                "type": 1,
+                "id": 550001,
+                "count": 1
+            },
+            "score": 300
+        },
+        "2": {
+            "type": 6,
+            "index": 2,
+            "item": {
+                "type": 1,
+                "id": 550002,
+                "count": 1
+            },
+            "score": 900
+        },
+        "3": {
+            "type": 6,
+            "index": 3,
+            "item": {
+                "type": 1,
+                "id": 550005,
+                "count": 1
+            },
+            "score": 1200
+        },
+        "4": {
+            "type": 6,
+            "index": 4,
+            "item": {
+                "type": 1,
+                "id": 550006,
+                "count": 1
+            },
+            "score": 1200
+        },
+        "5": {
+            "type": 6,
+            "index": 5,
+            "item": {
+                "type": 1,
+                "id": 550007,
+                "count": 1
+            },
+            "score": 3000
+        },
+        "6": {
+            "type": 6,
+            "index": 6,
+            "item": {
+                "type": 1,
+                "id": 550008,
+                "count": 1
+            },
+            "score": 3000
+        },
+        "7": {
+            "type": 6,
+            "index": 7,
+            "item": {
+                "type": 1,
+                "id": 550009,
+                "count": 1
+            },
+            "score": 8000
+        },
+        "8": {
+            "type": 6,
+            "index": 8,
+            "item": {
+                "type": 1,
+                "id": 550010,
+                "count": 1
+            },
+            "score": 8000
+        },
+        "9": {
+            "type": 6,
+            "index": 9,
+            "item": {
+                "type": 1,
+                "id": 550011,
+                "count": 1
+            },
+            "score": 10000
+        },
+        "10": {
+            "type": 6,
+            "index": 10,
+            "item": {
+                "type": 1,
+                "id": 550012,
+                "count": 1
+            },
+            "score": 10000
+        }
+    }
+}

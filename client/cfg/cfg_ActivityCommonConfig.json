@@ -1,0 +1,140 @@
+{
+    "daily60recharge": [
+        {
+            "type": 0,
+            "id": 2,
+            "count": 100100,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 1083002,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 1082003,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 310082,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 1081006,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 410007,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 600110,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 1083007,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 600212,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 341045,
+            "count": 1,
+            "eff": 1
+        }
+    ],
+    "daily60recharge2": [
+        {
+            "type": 0,
+            "id": 2,
+            "count": 165000,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 600110,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 1010105,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 1052006,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 1093004,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 1089005,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 1083011,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 1070010,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 1060006,
+            "count": 1,
+            "eff": 1
+        },
+        {
+            "type": 1,
+            "id": 1081025,
+            "count": 1,
+            "eff": 1
+        }
+    ],
+    "dialtimesneed": 1000,
+    "hefubutton": 7,
+    "actRankTipsCD": 1800,
+    "actRankPowers": [
+        50000,
+        50000,
+        50000,
+        50000,
+        50000,
+        50000,
+        50000
+    ],
+    "act35Recharge": 3000,
+    "act35LuckyScore": 100
+}

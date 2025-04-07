@@ -1,0 +1,59 @@
+{
+    "rewards": [
+        {
+            "type": 1,
+            "id": 2141000,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 2131000,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 2121000,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 2111000,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310111,
+            "count": 1
+        }
+    ],
+    "maxBelongCount": 3,
+    "maxCrystalCount": 20,
+    "maxStoneCount": 2,
+    "duorewards": [
+        {
+            "type": 1,
+            "id": 2142000,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 2141000,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 2131000,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 2121000,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310111,
+            "count": 1
+        }
+    ]
+}

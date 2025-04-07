@@ -1,0 +1,2324 @@
+{
+    "1": {
+        "id": 1,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 850,
+        "desc": "Char. Lv. reaches Master II Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "type": 218,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "desc": "Demon Rune reaches T10",
+        "controlTarget": [
+            5,
+            24,
+            1,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081403,
+                "count": 5
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 950,
+        "desc": "Char. Lv. reaches Master II Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "type": 219,
+        "param": [
+            -1
+        ],
+        "target": 2,
+        "desc": "Demon Beast Soul reach T2",
+        "controlTarget": [
+            5,
+            26,
+            2,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010403,
+                "count": 5
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 1050,
+        "desc": "Char. Lv. reaches Master II Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "type": 220,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "desc": "Judgement Vestment reaches T10",
+        "controlTarget": [
+            5,
+            66,
+            1,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1061005,
+                "count": 5
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 1150,
+        "desc": "Char. Lv. reaches Master II Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "type": 221,
+        "param": [
+            -1
+        ],
+        "target": 2,
+        "desc": "Angelic Shield Reach T2",
+        "controlTarget": [
+            5,
+            24,
+            2,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1051005,
+                "count": 5
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 1250,
+        "desc": "Char. Lv. reaches Master III Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "10": {
+        "id": 10,
+        "type": 222,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "desc": "Total Tier of Spirit reaches T1",
+        "controlTarget": [
+            5,
+            25,
+            3,
+            2
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1071005,
+                "count": 5
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 1350,
+        "desc": "Char. Lv. reaches Master III Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "type": 223,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "desc": "Protection reaches T10",
+        "controlTarget": [
+            5,
+            25,
+            4,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010105,
+                "count": 1
+            }
+        ]
+    },
+    "13": {
+        "id": 13,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 1450,
+        "desc": "Char. Lv. reaches Master III Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "14": {
+        "id": 14,
+        "type": 110,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "desc": "Total Refine Level  Lv.20",
+        "controlTarget": [
+            5,
+            5,
+            5,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081503,
+                "count": 5
+            }
+        ]
+    },
+    "15": {
+        "id": 15,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 1550,
+        "desc": "Char. Lv. reaches Master III Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "16": {
+        "id": 16,
+        "type": 224,
+        "param": [
+            -1
+        ],
+        "target": 2,
+        "desc": "Dark Spirit upgraded to T2",
+        "controlTarget": [
+            5,
+            66,
+            2,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 390026,
+                "count": 5
+            }
+        ]
+    },
+    "17": {
+        "id": 17,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 1650,
+        "desc": "Char. Lv. reaches Master IV Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "18": {
+        "id": 18,
+        "type": 225,
+        "param": [
+            -1
+        ],
+        "target": 16,
+        "desc": "Element Gear reach 16 stars",
+        "controlTarget": [
+            5,
+            1,
+            1,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081603,
+                "count": 5
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 1750,
+        "desc": "Char. Lv. reaches Master IV Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "20": {
+        "id": 20,
+        "type": 229,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "desc": "Activate 1 piece of Scarlet Gear",
+        "controlTarget": [
+            5,
+            70,
+            0,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 5
+            }
+        ]
+    },
+    "21": {
+        "id": 21,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 1850,
+        "desc": "Char. Lv. reaches Master IV Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "22": {
+        "id": 22,
+        "type": 230,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "desc": "Activate 3 pieces of Spirit Gear",
+        "controlTarget": [
+            5,
+            71,
+            0,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 5
+            }
+        ]
+    },
+    "23": {
+        "id": 23,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 1950,
+        "desc": "Char. Lv. reaches Master IV Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "24": {
+        "id": 24,
+        "type": 231,
+        "param": [
+            -1
+        ],
+        "target": 4,
+        "desc": "Activate 4 Cryptids",
+        "controlTarget": [
+            5,
+            26,
+            3,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082005,
+                "count": 1
+            }
+        ]
+    },
+    "25": {
+        "id": 25,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 2050,
+        "desc": "Char. Lv. reaches Master V Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "26": {
+        "id": 26,
+        "type": 218,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "desc": "Demon Rune reaches T30",
+        "controlTarget": [
+            5,
+            24,
+            1,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081403,
+                "count": 6
+            }
+        ]
+    },
+    "27": {
+        "id": 27,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 2150,
+        "desc": "Char. Lv. reaches Master V Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "28": {
+        "id": 28,
+        "type": 219,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "desc": "Demon Beast Soul reach T5",
+        "controlTarget": [
+            5,
+            26,
+            2,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010403,
+                "count": 6
+            }
+        ]
+    },
+    "29": {
+        "id": 29,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 2250,
+        "desc": "Char. Lv. reaches Master V Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "30": {
+        "id": 30,
+        "type": 220,
+        "param": [
+            -1
+        ],
+        "target": 40,
+        "desc": "Judgement Vestment reaches T40",
+        "controlTarget": [
+            5,
+            66,
+            1,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1061005,
+                "count": 6
+            }
+        ]
+    },
+    "31": {
+        "id": 31,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 2350,
+        "desc": "Char. Lv. reaches Master V Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "32": {
+        "id": 32,
+        "type": 221,
+        "param": [
+            -1
+        ],
+        "target": 6,
+        "desc": "Angelic Shield Reach T6",
+        "controlTarget": [
+            5,
+            24,
+            2,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1051005,
+                "count": 6
+            }
+        ]
+    },
+    "33": {
+        "id": 33,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 2450,
+        "desc": "Char. Lv. reaches Master VI Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "34": {
+        "id": 34,
+        "type": 222,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "desc": "Total Tier of Spirit reaches T5",
+        "controlTarget": [
+            5,
+            25,
+            3,
+            2
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1071005,
+                "count": 6
+            }
+        ]
+    },
+    "35": {
+        "id": 35,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 2550,
+        "desc": "Char. Lv. reaches Master VI Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "36": {
+        "id": 36,
+        "type": 223,
+        "param": [
+            -1
+        ],
+        "target": 40,
+        "desc": "Protection reaches T40",
+        "controlTarget": [
+            5,
+            25,
+            4,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010106,
+                "count": 6
+            }
+        ]
+    },
+    "37": {
+        "id": 37,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 2650,
+        "desc": "Char. Lv. reaches Master VI Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "38": {
+        "id": 38,
+        "type": 110,
+        "param": [
+            -1
+        ],
+        "target": 60,
+        "desc": "Total Refine Level Lv.60",
+        "controlTarget": [
+            5,
+            5,
+            5,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081503,
+                "count": 6
+            }
+        ]
+    },
+    "39": {
+        "id": 39,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 2750,
+        "desc": "Char. Lv. reaches Master VI Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "40": {
+        "id": 40,
+        "type": 224,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "desc": "Dark Spirit upgraded to T5",
+        "controlTarget": [
+            5,
+            66,
+            2,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 390026,
+                "count": 6
+            }
+        ]
+    },
+    "41": {
+        "id": 41,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 2850,
+        "desc": "Char. Lv. reaches Master VII Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "42": {
+        "id": 42,
+        "type": 225,
+        "param": [
+            -1
+        ],
+        "target": 40,
+        "desc": "Element Gear reach 40 stars",
+        "controlTarget": [
+            5,
+            1,
+            1,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081603,
+                "count": 6
+            }
+        ]
+    },
+    "43": {
+        "id": 43,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 2950,
+        "desc": "Char. Lv. reaches Master VII Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "44": {
+        "id": 44,
+        "type": 229,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "desc": "Activate 3 pieces of Scarlet Gear",
+        "controlTarget": [
+            5,
+            70,
+            0,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 6
+            }
+        ]
+    },
+    "45": {
+        "id": 45,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 3050,
+        "desc": "Char. Lv. reaches Master VII Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "46": {
+        "id": 46,
+        "type": 230,
+        "param": [
+            -1
+        ],
+        "target": 6,
+        "desc": "Activate 6 pieces of Spirit Gear",
+        "controlTarget": [
+            5,
+            71,
+            0,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 6
+            }
+        ]
+    },
+    "47": {
+        "id": 47,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 3150,
+        "desc": "Char. Lv. reaches Master VII Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "48": {
+        "id": 48,
+        "type": 231,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "desc": "Activate 10 Cryptids",
+        "controlTarget": [
+            5,
+            26,
+            3,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082006,
+                "count": 1
+            }
+        ]
+    },
+    "49": {
+        "id": 49,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 3250,
+        "desc": "Char. Lv. reaches Master VIII Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "50": {
+        "id": 50,
+        "type": 218,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "desc": "Demon Rune reaches T70",
+        "controlTarget": [
+            5,
+            24,
+            1,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081403,
+                "count": 8
+            }
+        ]
+    },
+    "51": {
+        "id": 51,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 3350,
+        "desc": "Char. Lv. reaches Master VIII Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "52": {
+        "id": 52,
+        "type": 219,
+        "param": [
+            -1
+        ],
+        "target": 7,
+        "desc": "Demon Beast Soul reach T7",
+        "controlTarget": [
+            5,
+            26,
+            2,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010403,
+                "count": 8
+            }
+        ]
+    },
+    "53": {
+        "id": 53,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 3450,
+        "desc": "Char. Lv. reaches Master VIII Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "54": {
+        "id": 54,
+        "type": 220,
+        "param": [
+            -1
+        ],
+        "target": 80,
+        "desc": "Judgement Vestment reaches T80",
+        "controlTarget": [
+            5,
+            66,
+            1,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1061005,
+                "count": 8
+            }
+        ]
+    },
+    "55": {
+        "id": 55,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 3550,
+        "desc": "Char. Lv. reaches Master VIII Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "56": {
+        "id": 56,
+        "type": 221,
+        "param": [
+            -1
+        ],
+        "target": 8,
+        "desc": "Angelic Shield Reach T8",
+        "controlTarget": [
+            5,
+            24,
+            2,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1051005,
+                "count": 8
+            }
+        ]
+    },
+    "57": {
+        "id": 57,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 3650,
+        "desc": "Char. Lv. reaches Master II Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "58": {
+        "id": 58,
+        "type": 222,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "desc": "Total Tier of Spirit reaches T10",
+        "controlTarget": [
+            5,
+            25,
+            3,
+            2
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1071005,
+                "count": 8
+            }
+        ]
+    },
+    "59": {
+        "id": 59,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 3750,
+        "desc": "Char. Lv. reaches Master II Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "60": {
+        "id": 60,
+        "type": 223,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "desc": "Protection reaches T70",
+        "controlTarget": [
+            5,
+            25,
+            4,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010107,
+                "count": 1
+            }
+        ]
+    },
+    "61": {
+        "id": 61,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 3850,
+        "desc": "Char. Lv. reaches Master II Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "62": {
+        "id": 62,
+        "type": 110,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "desc": "Total Refine Level Lv.100",
+        "controlTarget": [
+            5,
+            5,
+            5,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081503,
+                "count": 8
+            }
+        ]
+    },
+    "63": {
+        "id": 63,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 3950,
+        "desc": "Char. Lv. reaches Master II Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "64": {
+        "id": 64,
+        "type": 224,
+        "param": [
+            -1
+        ],
+        "target": 8,
+        "desc": "Dark Spirit upgraded to T8",
+        "controlTarget": [
+            5,
+            66,
+            2,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 390026,
+                "count": 8
+            }
+        ]
+    },
+    "65": {
+        "id": 65,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 4050,
+        "desc": "Char. Lv. reaches Master X Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "66": {
+        "id": 66,
+        "type": 225,
+        "param": [
+            -1
+        ],
+        "target": 72,
+        "desc": "Element Gear reach 72 stars",
+        "controlTarget": [
+            5,
+            1,
+            1,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081603,
+                "count": 8
+            }
+        ]
+    },
+    "67": {
+        "id": 67,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 4150,
+        "desc": "Char. Lv. reaches Master X Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "68": {
+        "id": 68,
+        "type": 229,
+        "param": [
+            -1
+        ],
+        "target": 6,
+        "desc": "Activate 6 pieces of Scarlet Gear",
+        "controlTarget": [
+            5,
+            70,
+            0,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 8
+            }
+        ]
+    },
+    "69": {
+        "id": 69,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 4250,
+        "desc": "Char. Lv. reaches Master X Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "70": {
+        "id": 70,
+        "type": 230,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "desc": "Activate 10 pieces of Spirit Gear",
+        "controlTarget": [
+            5,
+            71,
+            0,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 8
+            }
+        ]
+    },
+    "71": {
+        "id": 71,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 4350,
+        "desc": "Char. Lv. reaches Master X Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "72": {
+        "id": 72,
+        "type": 231,
+        "param": [
+            -1
+        ],
+        "target": 16,
+        "desc": "Activate 16 Cryptids",
+        "controlTarget": [
+            5,
+            26,
+            3,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082007,
+                "count": 1
+            }
+        ]
+    },
+    "73": {
+        "id": 73,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 4450,
+        "desc": "Char. Lv. reaches Master XI Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "74": {
+        "id": 74,
+        "type": 218,
+        "param": [
+            -1
+        ],
+        "target": 120,
+        "desc": "Demon Rune reaches Lv.120",
+        "controlTarget": [
+            5,
+            24,
+            1,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081403,
+                "count": 10
+            }
+        ]
+    },
+    "75": {
+        "id": 75,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 4550,
+        "desc": "Char. Lv. reaches Master XI Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "76": {
+        "id": 76,
+        "type": 219,
+        "param": [
+            -1
+        ],
+        "target": 9,
+        "desc": "Demon Beast Soul reach T9",
+        "controlTarget": [
+            5,
+            26,
+            2,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010403,
+                "count": 10
+            }
+        ]
+    },
+    "77": {
+        "id": 77,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 4650,
+        "desc": "Char. Lv. reaches Master XI Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "78": {
+        "id": 78,
+        "type": 220,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "desc": "Judgement Vestment reaches T100",
+        "controlTarget": [
+            5,
+            66,
+            1,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1061005,
+                "count": 10
+            }
+        ]
+    },
+    "79": {
+        "id": 79,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 4750,
+        "desc": "Char. Lv. reaches Master XI Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "80": {
+        "id": 80,
+        "type": 110,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "desc": "Total Refine Level  Lv.400",
+        "controlTarget": [
+            5,
+            5,
+            5,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1051005,
+                "count": 10
+            }
+        ]
+    },
+    "81": {
+        "id": 81,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 4850,
+        "desc": "Char. Lv. reaches Master XII Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "82": {
+        "id": 82,
+        "type": 222,
+        "param": [
+            -1
+        ],
+        "target": 15,
+        "desc": "Total Tier of Spirit reaches T15",
+        "controlTarget": [
+            5,
+            25,
+            3,
+            2
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1071005,
+                "count": 10
+            }
+        ]
+    },
+    "83": {
+        "id": 83,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 4950,
+        "desc": "Char. Lv. reaches Master XII Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "84": {
+        "id": 84,
+        "type": 224,
+        "param": [
+            -1
+        ],
+        "target": 12,
+        "desc": "Dark Spirit upgraded to T12",
+        "controlTarget": [
+            5,
+            66,
+            2,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1083008,
+                "count": 1
+            }
+        ]
+    },
+    "85": {
+        "id": 85,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 5050,
+        "desc": "Char. Lv. reaches Master XII Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "86": {
+        "id": 86,
+        "type": 229,
+        "param": [
+            -1
+        ],
+        "target": 7,
+        "desc": "Activate 7 pieces of Scarlet Gear",
+        "controlTarget": [
+            5,
+            70,
+            0,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081503,
+                "count": 10
+            }
+        ]
+    },
+    "87": {
+        "id": 87,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 5150,
+        "desc": "Char. Lv. reaches Master XII Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "88": {
+        "id": 88,
+        "type": 229,
+        "param": [
+            -1
+        ],
+        "target": 8,
+        "desc": "Activate 8 pieces of Scarlet Gear",
+        "controlTarget": [
+            5,
+            71,
+            0,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 390026,
+                "count": 10
+            }
+        ]
+    },
+    "89": {
+        "id": 89,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 5250,
+        "desc": "Char. Lv. reaches Master XIII Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "90": {
+        "id": 90,
+        "type": 225,
+        "param": [
+            -1
+        ],
+        "target": 120,
+        "desc": "Element Gear reach 120 stars",
+        "controlTarget": [
+            5,
+            1,
+            1,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081603,
+                "count": 10
+            }
+        ]
+    },
+    "91": {
+        "id": 91,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 5350,
+        "desc": "Char. Lv. reaches Master XIII Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "92": {
+        "id": 92,
+        "type": 229,
+        "param": [
+            -1
+        ],
+        "target": 9,
+        "desc": "Activate 9 pieces of Scarlet Gear",
+        "controlTarget": [
+            5,
+            71,
+            0,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 10
+            }
+        ]
+    },
+    "93": {
+        "id": 93,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 5450,
+        "desc": "Char. Lv. reaches Master XIII Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "94": {
+        "id": 94,
+        "type": 231,
+        "param": [
+            -1
+        ],
+        "target": 18,
+        "desc": "Activate 18 Cryptids",
+        "controlTarget": [
+            5,
+            26,
+            3,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 10
+            }
+        ]
+    },
+    "95": {
+        "id": 95,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 5550,
+        "desc": "Char. Lv. reaches Master XIII Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "96": {
+        "id": 96,
+        "type": 231,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "desc": "Activate 20 Cryptids",
+        "controlTarget": [
+            5,
+            26,
+            3,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082008,
+                "count": 1
+            }
+        ]
+    },
+    "97": {
+        "id": 97,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 5650,
+        "desc": "Char. Lv. reaches Master XIV Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "98": {
+        "id": 98,
+        "type": 218,
+        "param": [
+            -1
+        ],
+        "target": 180,
+        "desc": "Demon Rune reaches Lv.180",
+        "controlTarget": [
+            5,
+            24,
+            1,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081404,
+                "count": 8
+            }
+        ]
+    },
+    "99": {
+        "id": 99,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 5750,
+        "desc": "Char. Lv. reaches Master XIV Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "100": {
+        "id": 100,
+        "type": 219,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "desc": "Demon Beast Soul reach T10",
+        "controlTarget": [
+            5,
+            26,
+            2,
+            1
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010404,
+                "count": 1
+            }
+        ]
+    },
+    "101": {
+        "id": 101,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 5850,
+        "desc": "Char. Lv. reaches Master XIV Lv.250",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "102": {
+        "id": 102,
+        "type": 220,
+        "param": [
+            -1
+        ],
+        "target": 110,
+        "desc": "Judgement Vestment reaches T110",
+        "controlTarget": [
+            5,
+            66,
+            1,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1061006,
+                "count": 1
+            }
+        ]
+    },
+    "103": {
+        "id": 103,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 5950,
+        "desc": "Char. Lv. reaches Master XIV Lv.350",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "104": {
+        "id": 104,
+        "type": 110,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "desc": "Total Refine Level  Lv.600",
+        "controlTarget": [
+            5,
+            5,
+            5,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1051006,
+                "count": 1
+            }
+        ]
+    },
+    "105": {
+        "id": 105,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 6050,
+        "desc": "Char. Lv. reaches Master XV Lv.50",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "106": {
+        "id": 106,
+        "type": 222,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "desc": "Total Tier of Spirit reaches T20",
+        "controlTarget": [
+            5,
+            25,
+            3,
+            2
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1071006,
+                "count": 1
+            }
+        ]
+    },
+    "107": {
+        "id": 107,
+        "type": 2,
+        "param": [
+            -1
+        ],
+        "target": 6150,
+        "desc": "Char. Lv. reaches Master XV Lv.150",
+        "controlTarget": [
+            1,
+            42,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "108": {
+        "id": 108,
+        "type": 224,
+        "param": [
+            -1
+        ],
+        "target": 15,
+        "desc": "Dark Spirit upgraded to T15",
+        "controlTarget": [
+            5,
+            66,
+            2,
+            0
+        ],
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010108,
+                "count": 1
+            }
+        ]
+    }
+}

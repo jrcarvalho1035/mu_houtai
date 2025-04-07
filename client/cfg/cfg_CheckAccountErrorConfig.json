@@ -1,0 +1,47 @@
+{
+    "0": {
+        "id": 0,
+        "desc": "Normal Login",
+        "todo": 0
+    },
+    "1": {
+        "id": 1,
+        "desc": "Incorrect Password",
+        "todo": 1
+    },
+    "2": {
+        "id": 2,
+        "desc": "Account not found",
+        "todo": 1
+    },
+    "3": {
+        "id": 3,
+        "desc": "This account has been login from another device, please login again",
+        "todo": 1
+    },
+    "4": {
+        "id": 4,
+        "desc": "Server is busy",
+        "todo": 1
+    },
+    "5": {
+        "id": 5,
+        "desc": "Server is under maintenance",
+        "todo": 1
+    },
+    "6": {
+        "id": 6,
+        "desc": "Database unconnected",
+        "todo": 1
+    },
+    "7": {
+        "id": 7,
+        "desc": "Server doesn't exist",
+        "todo": 1
+    },
+    "8": {
+        "id": 8,
+        "desc": "Account is added to anti-addiction system. Would you like to fill in your identity information?",
+        "todo": 1
+    }
+}

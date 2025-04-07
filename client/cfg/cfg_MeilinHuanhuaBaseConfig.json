@@ -1,0 +1,5133 @@
+{
+    "0": {
+        "id": 0,
+        "quality": 3,
+        "srQuality": 1,
+        "name": [
+            "Initial Book"
+        ],
+        "dec": "0",
+        "power": 0,
+        "appearanceId": 0,
+        "groupId": 1,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "1": {
+        "id": 1,
+        "quality": 3,
+        "srQuality": 1,
+        "name": [
+            "Mayan Prophecy"
+        ],
+        "dec": "Event",
+        "power": 8000,
+        "appearanceId": 1,
+        "groupId": 1,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 800
+            },
+            {
+                "type": 62,
+                "value": 400
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083001,
+                "count": 1
+            }
+        ],
+        "maxLevel": 6000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "2": {
+        "id": 2,
+        "quality": 3,
+        "srQuality": 1,
+        "name": [
+            "Dark Sacrament"
+        ],
+        "dec": "$1 Gift",
+        "power": 20000,
+        "appearanceId": 2,
+        "groupId": 1,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 40000
+            },
+            {
+                "type": 62,
+                "value": 1000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083002,
+                "count": 1
+            }
+        ],
+        "maxLevel": 6000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "3": {
+        "id": 3,
+        "quality": 3,
+        "srQuality": 2,
+        "name": [
+            "Legacy of Fire"
+        ],
+        "dec": "Rank Hunt",
+        "power": 45000,
+        "appearanceId": 3,
+        "groupId": 1,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 4,
+                "value": 4500
+            },
+            {
+                "type": 62,
+                "value": 2250
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083003,
+                "count": 1
+            }
+        ],
+        "maxLevel": 6000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "4": {
+        "id": 4,
+        "quality": 3,
+        "srQuality": 2,
+        "name": [
+            "Starlight Word"
+        ],
+        "dec": "Rank Hunt",
+        "power": 90000,
+        "appearanceId": 4,
+        "groupId": 1,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 7200
+            },
+            {
+                "type": 62,
+                "value": 5400
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083004,
+                "count": 1
+            }
+        ],
+        "maxLevel": 6000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "5": {
+        "id": 5,
+        "quality": 4,
+        "srQuality": 2,
+        "name": [
+            "Book of Sages"
+        ],
+        "dec": "Login Rewards",
+        "power": 150000,
+        "appearanceId": 5,
+        "groupId": 2,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 6000
+            },
+            {
+                "type": 1,
+                "value": 300000
+            },
+            {
+                "type": 62,
+                "value": 4500
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083005,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "6": {
+        "id": 6,
+        "quality": 4,
+        "srQuality": 3,
+        "name": [
+            "Eternal Night Ode"
+        ],
+        "dec": "SVIP3",
+        "power": 270000,
+        "appearanceId": 6,
+        "groupId": 2,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 10800
+            },
+            {
+                "type": 4,
+                "value": 27000
+            },
+            {
+                "type": 62,
+                "value": 8100
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083006,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "7": {
+        "id": 7,
+        "quality": 4,
+        "srQuality": 3,
+        "name": [
+            "Tree of Life"
+        ],
+        "dec": "$1 Gift",
+        "power": 420000,
+        "appearanceId": 7,
+        "groupId": 2,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 672000
+            },
+            {
+                "type": 4,
+                "value": 25200
+            },
+            {
+                "type": 62,
+                "value": 12600
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083007,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "8": {
+        "id": 8,
+        "quality": 4,
+        "srQuality": 3,
+        "name": [
+            "Banned Catalog"
+        ],
+        "dec": "SVIP Store",
+        "power": 700000,
+        "appearanceId": 8,
+        "groupId": 2,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 28000
+            },
+            {
+                "type": 4,
+                "value": 70000
+            },
+            {
+                "type": 62,
+                "value": 21000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083008,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "9": {
+        "id": 9,
+        "quality": 5,
+        "srQuality": 3,
+        "name": [
+            "Demon Spell"
+        ],
+        "dec": "Rank total top-up",
+        "power": 1200000,
+        "appearanceId": 9,
+        "groupId": 3,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 48000
+            },
+            {
+                "type": 1,
+                "value": 2400000
+            },
+            {
+                "type": 4,
+                "value": 72000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083009,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "10": {
+        "id": 10,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Flower of Glory"
+        ],
+        "dec": "Opening Rank",
+        "power": 2200000,
+        "appearanceId": 10,
+        "groupId": 3,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 88000
+            },
+            {
+                "type": 1,
+                "value": 4400000
+            },
+            {
+                "type": 62,
+                "value": 66000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083010,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "11": {
+        "id": 11,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Holy Rune"
+        ],
+        "dec": "Event",
+        "power": 4000000,
+        "appearanceId": 11,
+        "groupId": 3,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 6400000
+            },
+            {
+                "type": 4,
+                "value": 240000
+            },
+            {
+                "type": 62,
+                "value": 120000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083011,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "12": {
+        "id": 12,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Divine Talks"
+        ],
+        "dec": "Event",
+        "power": 7000000,
+        "appearanceId": 12,
+        "groupId": 3,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 280000
+            },
+            {
+                "type": 4,
+                "value": 700000
+            },
+            {
+                "type": 62,
+                "value": 210000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083012,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "13": {
+        "id": 13,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Chrono Book"
+        ],
+        "dec": "Event",
+        "power": 5000000,
+        "appearanceId": 13,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 4000000
+            },
+            {
+                "type": 4,
+                "value": 500000
+            },
+            {
+                "type": 62,
+                "value": 150000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083013,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "14": {
+        "id": 14,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Dragon Secret"
+        ],
+        "dec": "Poseidon Store",
+        "power": 8000000,
+        "appearanceId": 14,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 62,
+                "value": 250000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083014,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "15": {
+        "id": 15,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Golden Dictum"
+        ],
+        "dec": "Event",
+        "power": 6000000,
+        "appearanceId": 15,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 200000
+            },
+            {
+                "type": 1,
+                "value": 14000000
+            },
+            {
+                "type": 62,
+                "value": 150000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083015,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "16": {
+        "id": 16,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Color Balloon"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 16,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 24000000
+            },
+            {
+                "type": 4,
+                "value": 500000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083016,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "17": {
+        "id": 17,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "mojito"
+        ],
+        "dec": "Event",
+        "power": 8000000,
+        "appearanceId": 17,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 250000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 550000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083017,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "18": {
+        "id": 18,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Valentine's Fairy Tale"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 18,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 24000000
+            },
+            {
+                "type": 62,
+                "value": 250000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083018,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Three-Foot Podium"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 19,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 280000
+            },
+            {
+                "type": 1,
+                "value": 22400000
+            },
+            {
+                "type": 62,
+                "value": 300000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083019,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "20": {
+        "id": 20,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Dumpling"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 20,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 290000
+            },
+            {
+                "type": 1,
+                "value": 23400000
+            },
+            {
+                "type": 4,
+                "value": 540000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083020,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "21": {
+        "id": 21,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Crystal Love"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 21,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 310000
+            },
+            {
+                "type": 1,
+                "value": 22800000
+            },
+            {
+                "type": 62,
+                "value": 275000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083021,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "22": {
+        "id": 22,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Christmas Fairy Tale"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "appearanceId": 22,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 256000
+            },
+            {
+                "type": 1,
+                "value": 17280000
+            },
+            {
+                "type": 4,
+                "value": 480000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083022,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "23": {
+        "id": 23,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Turkey"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 23,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 290000
+            },
+            {
+                "type": 1,
+                "value": 22800000
+            },
+            {
+                "type": 62,
+                "value": 285000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083023,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "24": {
+        "id": 24,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Hot Spring"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 24,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 320000
+            },
+            {
+                "type": 1,
+                "value": 21600000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083024,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "25": {
+        "id": 25,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Night Plum Blossom"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 25,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 22800000
+            },
+            {
+                "type": 4,
+                "value": 560000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083025,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "26": {
+        "id": 26,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Burn Game Designer"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 26,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 340000
+            },
+            {
+                "type": 1,
+                "value": 21600000
+            },
+            {
+                "type": 62,
+                "value": 290000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083026,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "27": {
+        "id": 27,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Frost Throne"
+        ],
+        "dec": "Heaven War",
+        "power": 8000000,
+        "appearanceId": 27,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 232000
+            },
+            {
+                "type": 1,
+                "value": 18240000
+            },
+            {
+                "type": 62,
+                "value": 228000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083027,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "28": {
+        "id": 28,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Universe Ox"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 28,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 330000
+            },
+            {
+                "type": 1,
+                "value": 22000000
+            },
+            {
+                "type": 4,
+                "value": 570000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083028,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "29": {
+        "id": 29,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Lantern's Day"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 29,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 246000
+            },
+            {
+                "type": 1,
+                "value": 23600000
+            },
+            {
+                "type": 4,
+                "value": 574000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083029,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "30": {
+        "id": 30,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "True Heart"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 30,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 340000
+            },
+            {
+                "type": 1,
+                "value": 23200000
+            },
+            {
+                "type": 62,
+                "value": 250000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083030,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "31": {
+        "id": 31,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Glazed Kite"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 31,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 22000000
+            },
+            {
+                "type": 62,
+                "value": 300000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083031,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "32": {
+        "id": 32,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Floating Lantern"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 32,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 20000000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083032,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "33": {
+        "id": 33,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Gilding Scripture"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "appearanceId": 33,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 320000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 480000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083033,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "34": {
+        "id": 34,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Love Card"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 34,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 444000
+            },
+            {
+                "type": 1,
+                "value": 19600000
+            },
+            {
+                "type": 62,
+                "value": 288000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083034,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "35": {
+        "id": 35,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Healing Tome"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 35,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 360000
+            },
+            {
+                "type": 1,
+                "value": 22000000
+            },
+            {
+                "type": 62,
+                "value": 270000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083035,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "36": {
+        "id": 36,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Candy Tale"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 36,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 390000
+            },
+            {
+                "type": 1,
+                "value": 22400000
+            },
+            {
+                "type": 4,
+                "value": 490000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083036,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "37": {
+        "id": 37,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "School Yearbook"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 37,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 380000
+            },
+            {
+                "type": 1,
+                "value": 21200000
+            },
+            {
+                "type": 62,
+                "value": 280000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083037,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "38": {
+        "id": 38,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Swimming Duck"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 38,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 390000
+            },
+            {
+                "type": 1,
+                "value": 20600000
+            },
+            {
+                "type": 62,
+                "value": 290000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083038,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "39": {
+        "id": 39,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Arcade Hall"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 39,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 390000
+            },
+            {
+                "type": 1,
+                "value": 20600000
+            },
+            {
+                "type": 4,
+                "value": 580000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083039,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "40": {
+        "id": 40,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Merry-go-around"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 40,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 388000
+            },
+            {
+                "type": 1,
+                "value": 20800000
+            },
+            {
+                "type": 4,
+                "value": 572000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083040,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "41": {
+        "id": 41,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Hydro Code"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 41,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 444000
+            },
+            {
+                "type": 1,
+                "value": 19600000
+            },
+            {
+                "type": 62,
+                "value": 288000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083041,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "42": {
+        "id": 42,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Cyber Detector"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 42,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 290000
+            },
+            {
+                "type": 1,
+                "value": 23400000
+            },
+            {
+                "type": 4,
+                "value": 540000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083042,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "43": {
+        "id": 43,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Chaos Scroll"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "appearanceId": 43,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 232000
+            },
+            {
+                "type": 1,
+                "value": 18720000
+            },
+            {
+                "type": 4,
+                "value": 432000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083043,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "44": {
+        "id": 44,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Nebula Legend"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 44,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 310000
+            },
+            {
+                "type": 1,
+                "value": 22800000
+            },
+            {
+                "type": 62,
+                "value": 275000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083044,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "45": {
+        "id": 45,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Fantasy Tome"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 45,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 290000
+            },
+            {
+                "type": 1,
+                "value": 22800000
+            },
+            {
+                "type": 62,
+                "value": 285000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083045,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "46": {
+        "id": 46,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Refulgent Gem"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 46,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 330000
+            },
+            {
+                "type": 1,
+                "value": 22000000
+            },
+            {
+                "type": 4,
+                "value": 570000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083046,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "47": {
+        "id": 47,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Thanksgiving Cake"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 47,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 290000
+            },
+            {
+                "type": 1,
+                "value": 22800000
+            },
+            {
+                "type": 62,
+                "value": 285000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083047,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "48": {
+        "id": 48,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Digisnow"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 48,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 246000
+            },
+            {
+                "type": 1,
+                "value": 23600000
+            },
+            {
+                "type": 4,
+                "value": 574000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083048,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "49": {
+        "id": 49,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Eudemon Magic Tome"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 49,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 340000
+            },
+            {
+                "type": 1,
+                "value": 23200000
+            },
+            {
+                "type": 62,
+                "value": 250000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083049,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "50": {
+        "id": 50,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Abyss Code"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 50,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 340000
+            },
+            {
+                "type": 1,
+                "value": 21600000
+            },
+            {
+                "type": 62,
+                "value": 290000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083050,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "51": {
+        "id": 51,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Cleaning Robot"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 51,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 22800000
+            },
+            {
+                "type": 4,
+                "value": 560000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083051,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "52": {
+        "id": 52,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Fortune Tiger"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 52,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 340000
+            },
+            {
+                "type": 1,
+                "value": 21600000
+            },
+            {
+                "type": 62,
+                "value": 290000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083052,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "53": {
+        "id": 53,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Romantic Heart"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 53,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 330000
+            },
+            {
+                "type": 1,
+                "value": 22000000
+            },
+            {
+                "type": 4,
+                "value": 570000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083053,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "54": {
+        "id": 54,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Crystal Core"
+        ],
+        "dec": "Event",
+        "power": 10000000,
+        "appearanceId": 54,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 290000
+            },
+            {
+                "type": 1,
+                "value": 22800000
+            },
+            {
+                "type": 62,
+                "value": 285000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083054,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "55": {
+        "id": 55,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Justice Scale"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 55,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 580000
+            },
+            {
+                "type": 1,
+                "value": 45600000
+            },
+            {
+                "type": 62,
+                "value": 570000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083055,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "56": {
+        "id": 56,
+        "quality": 5,
+        "srQuality": 4,
+        "name": [
+            "Energy Droid"
+        ],
+        "dec": "Warrior Badge",
+        "power": 8000000,
+        "appearanceId": 56,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 232000
+            },
+            {
+                "type": 1,
+                "value": 18240000
+            },
+            {
+                "type": 62,
+                "value": 228000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083056,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "57": {
+        "id": 57,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "April Fool Box"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 57,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 660000
+            },
+            {
+                "type": 1,
+                "value": 44000000
+            },
+            {
+                "type": 4,
+                "value": 1140000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083057,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "58": {
+        "id": 58,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Mechanical Core"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 58,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 45600000
+            },
+            {
+                "type": 4,
+                "value": 1120000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083058,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "59": {
+        "id": 59,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Funfair"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 59,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 492000
+            },
+            {
+                "type": 1,
+                "value": 47200000
+            },
+            {
+                "type": 4,
+                "value": 1148000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083059,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "60": {
+        "id": 60,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Phantom Legend"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 60,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 43200000
+            },
+            {
+                "type": 62,
+                "value": 580000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083060,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "61": {
+        "id": 61,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Carrot Cabin"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 61,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 43200000
+            },
+            {
+                "type": 62,
+                "value": 580000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083061,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "62": {
+        "id": 62,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Moon Rabbit"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 62,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 888000
+            },
+            {
+                "type": 1,
+                "value": 39200000
+            },
+            {
+                "type": 62,
+                "value": 576000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083062,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "63": {
+        "id": 63,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Magic Mirror"
+        ],
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "appearanceId": 63,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 22800000
+            },
+            {
+                "type": 4,
+                "value": 560000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083063,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "64": {
+        "id": 64,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Star Looting Book"
+        ],
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "appearanceId": 64,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 290000
+            },
+            {
+                "type": 1,
+                "value": 22800000
+            },
+            {
+                "type": 62,
+                "value": 285000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083064,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "65": {
+        "id": 65,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Celebrating Bunny"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 65,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 492000
+            },
+            {
+                "type": 1,
+                "value": 47200000
+            },
+            {
+                "type": 4,
+                "value": 1148000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083065,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "66": {
+        "id": 66,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Unlimited Cube"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 66,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 43200000
+            },
+            {
+                "type": 62,
+                "value": 580000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083066,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "67": {
+        "id": 67,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Goddess Petal"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 67,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 660000
+            },
+            {
+                "type": 1,
+                "value": 44000000
+            },
+            {
+                "type": 4,
+                "value": 1140000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083067,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "68": {
+        "id": 68,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Core Engine"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 68,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 45600000
+            },
+            {
+                "type": 4,
+                "value": 1120000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083068,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "69": {
+        "id": 69,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Wretched Lamp"
+        ],
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "appearanceId": 69,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 22800000
+            },
+            {
+                "type": 4,
+                "value": 560000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083069,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "70": {
+        "id": 70,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Celebration Book"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 70,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 492000
+            },
+            {
+                "type": 1,
+                "value": 47200000
+            },
+            {
+                "type": 4,
+                "value": 1148000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083070,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "71": {
+        "id": 71,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Street Game Machine"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 71,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 43200000
+            },
+            {
+                "type": 62,
+                "value": 580000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083071,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "72": {
+        "id": 72,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Energy Core"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 72,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 888000
+            },
+            {
+                "type": 1,
+                "value": 39200000
+            },
+            {
+                "type": 62,
+                "value": 576000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083072,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "73": {
+        "id": 73,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Domination Watch"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 73,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 660000
+            },
+            {
+                "type": 1,
+                "value": 44000000
+            },
+            {
+                "type": 4,
+                "value": 1140000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083073,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "74": {
+        "id": 74,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Sea Guide"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 74,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 492000
+            },
+            {
+                "type": 1,
+                "value": 47200000
+            },
+            {
+                "type": 4,
+                "value": 1148000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083074,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "75": {
+        "id": 75,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Summer Guitar"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 75,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 45600000
+            },
+            {
+                "type": 4,
+                "value": 1120000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083075,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "76": {
+        "id": 76,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Magic Dove"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 76,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 492000
+            },
+            {
+                "type": 1,
+                "value": 47200000
+            },
+            {
+                "type": 4,
+                "value": 1148000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083076,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "77": {
+        "id": 77,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Rose Mirror"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 77,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 43200000
+            },
+            {
+                "type": 62,
+                "value": 580000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083077,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "78": {
+        "id": 78,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "School Memory"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 78,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 888000
+            },
+            {
+                "type": 1,
+                "value": 39200000
+            },
+            {
+                "type": 62,
+                "value": 576000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083078,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "79": {
+        "id": 79,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Cereal Harvest"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 79,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 660000
+            },
+            {
+                "type": 1,
+                "value": 44000000
+            },
+            {
+                "type": 4,
+                "value": 1140000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083079,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "80": {
+        "id": 80,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Holy Heart"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 80,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 45600000
+            },
+            {
+                "type": 4,
+                "value": 1120000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083080,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "81": {
+        "id": 81,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Halloween Candy"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 81,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 492000
+            },
+            {
+                "type": 1,
+                "value": 47200000
+            },
+            {
+                "type": 4,
+                "value": 1148000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083081,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "82": {
+        "id": 82,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Winter Scarf"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 82,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 680000
+            },
+            {
+                "type": 1,
+                "value": 43200000
+            },
+            {
+                "type": 62,
+                "value": 580000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083082,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "83": {
+        "id": 83,
+        "quality": 5,
+        "srQuality": 5,
+        "name": [
+            "Nutcracker Knight"
+        ],
+        "dec": "Warrior Badge",
+        "power": 10000000,
+        "appearanceId": 83,
+        "groupId": 4,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 444000
+            },
+            {
+                "type": 1,
+                "value": 19600000
+            },
+            {
+                "type": 62,
+                "value": 288000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083083,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226107,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "84": {
+        "id": 84,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "New Year Book"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 84,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 660000
+            },
+            {
+                "type": 1,
+                "value": 44000000
+            },
+            {
+                "type": 4,
+                "value": 1140000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083084,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "85": {
+        "id": 85,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Dream Teapot"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 85,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 45600000
+            },
+            {
+                "type": 4,
+                "value": 1120000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083085,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "86": {
+        "id": 86,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Dragonn Banner"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 86,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 492000
+            },
+            {
+                "type": 1,
+                "value": 47200000
+            },
+            {
+                "type": 4,
+                "value": 1148000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083086,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "87": {
+        "id": 87,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Spring Drum"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 87,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 600000
+            },
+            {
+                "type": 1,
+                "value": 45600000
+            },
+            {
+                "type": 4,
+                "value": 1120000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083087,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "88": {
+        "id": 88,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Sweet Dumpling"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 88,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 888000
+            },
+            {
+                "type": 1,
+                "value": 39200000
+            },
+            {
+                "type": 62,
+                "value": 576000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083088,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "89": {
+        "id": 89,
+        "quality": 6,
+        "srQuality": 6,
+        "name": [
+            "Vibrant Spring"
+        ],
+        "dec": "Event",
+        "power": 20000000,
+        "appearanceId": 89,
+        "groupId": 5,
+        "MvSpeed": 4200,
+        "high": 100,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 760000
+            },
+            {
+                "type": 1,
+                "value": 42400000
+            },
+            {
+                "type": 62,
+                "value": 560000
+            },
+            {
+                "type": 68,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1083089,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1200,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226117,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    }
+}

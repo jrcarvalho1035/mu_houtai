@@ -1,0 +1,43 @@
+{
+    "1": {
+        "type": 1,
+        "itemId": 650002,
+        "helpMaxPeople": 3,
+        "rewardView": [
+            {
+                "type": 1,
+                "id": 652003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 650000,
+                "count": 1
+            }
+        ],
+        "score": 1
+    },
+    "2": {
+        "type": 2,
+        "itemId": 650003,
+        "helpMaxPeople": 10,
+        "rewardView": [
+            {
+                "type": 1,
+                "id": 652004,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 650001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 650000,
+                "count": 1
+            }
+        ],
+        "score": 5
+    }
+}

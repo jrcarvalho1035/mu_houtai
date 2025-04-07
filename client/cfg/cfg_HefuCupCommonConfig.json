@@ -1,0 +1,44 @@
+{
+    "worshipRewards": [
+        {
+            "type": 0,
+            "id": 2,
+            "count": 100
+        },
+        {
+            "type": 0,
+            "id": 39,
+            "count": 100
+        }
+    ],
+    "worshiptimes": 3,
+    "closeDay": 6,
+    "signupRewards": [
+        {
+            "type": 1,
+            "id": 1070011,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 380042,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 620007,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 621007,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 39,
+            "count": 0
+        }
+    ],
+    "signupDec": "|C:0xf5e65a&T:Game Rules:|\n\n1. Merging Peak Tournament will be available after each Merging. You can sign up for the match when your Rebirth level reaches |C:0x13ee22&T:M2 R4|. \n2. Until the end of the registration, every registered players will be subject to ranking. The top |C:0x13ee22&T:64| players with the highest CP will be qualified for the tournament. \n3. The 64 players who reach the tournament will be divided into |C:0x13ee22&T:4| groups. There are |C:0x13ee22&T:16| players in each group. \n4. |C:0x13ee22&T:1| Group Champion will come out from each group after the competition and they will be qualified for the semifinals. \n5. The two players who are defeated in the semifinals will perform a 2nd Runner-up Match. The two winning players will perform a championship final to settle the final champion. \n\n\n|C:0xf5e65a&T:Game Process:\n |\n\n1. Registration Deadline:|C:0x13ee22&T: 12:00 of the 3rd day after Merging|\n2. Group Round 1 (64 to 32): |C:0x13ee22&T: The 3 day after the merging, 16:00|\n3. Group Round 2 (32 to 16): |C:0x13ee22&T: The 3 day after the merging, 17:00|\n4. Group Round 3 (16 to 8): |C:0x13ee22&T: The 4 day after the merging, 16:00|\n5. Group Round 4 (8 to 4): |C:0x13ee22&T: The 4 day after the merging, 17:00|\n6. Semi Final (4 to 2): |C:0x13ee22&T: The 5 day after the merging, 17:00|\n7.2nd Runner-up Final:|C:0x13ee22&T: The 5 day after the merging, 19:00|\n8. Championship Final:|C:0x13ee22&T: The 5 day after the merging, 20:00|\n"
+}

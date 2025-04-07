@@ -1,0 +1,1298 @@
+{
+    "2": {
+        "5": {
+            "star": 2,
+            "stage": 5,
+            "needlevel": 1,
+            "needzslevel": 10103,
+            "name": [
+                "Demon Lord",
+                "Raven",
+                "Giant"
+            ],
+            "equipid": [
+                [
+                    101605,
+                    111605,
+                    121605,
+                    131605,
+                    141605,
+                    151605,
+                    161605,
+                    171605
+                ]
+            ]
+        },
+        "6": {
+            "star": 2,
+            "stage": 6,
+            "needlevel": 1,
+            "needzslevel": 10201,
+            "name": [
+                "Hallow",
+                "Purgatory",
+                "Moon Chaser"
+            ],
+            "equipid": [
+                [
+                    101606,
+                    111606,
+                    121606,
+                    131606,
+                    141606,
+                    151606,
+                    161606,
+                    171606
+                ]
+            ]
+        },
+        "7": {
+            "star": 2,
+            "stage": 7,
+            "needlevel": 1,
+            "needzslevel": 10203,
+            "name": [
+                "Courage",
+                "Reaping",
+                "Silver Wings"
+            ],
+            "equipid": [
+                [
+                    101607,
+                    111607,
+                    121607,
+                    131607,
+                    141607,
+                    151607,
+                    161607,
+                    171607
+                ]
+            ]
+        },
+        "8": {
+            "star": 2,
+            "stage": 8,
+            "needlevel": 1,
+            "needzslevel": 10301,
+            "name": [
+                "Thunder",
+                "Demon Spirit",
+                "Azure Phantom"
+            ],
+            "equipid": [
+                [
+                    101608,
+                    111608,
+                    121608,
+                    131608,
+                    141608,
+                    151608,
+                    161608,
+                    171608
+                ]
+            ]
+        },
+        "9": {
+            "star": 2,
+            "stage": 9,
+            "needlevel": 1,
+            "needzslevel": 10303,
+            "name": [
+                "Titan",
+                "Grudge",
+                "Oblivion"
+            ],
+            "equipid": [
+                [
+                    101609,
+                    111609,
+                    121609,
+                    131609,
+                    141609,
+                    151609,
+                    161609,
+                    171609
+                ]
+            ]
+        },
+        "10": {
+            "star": 2,
+            "stage": 10,
+            "needlevel": 1,
+            "needzslevel": 10401,
+            "name": [
+                "Dragon Flame",
+                "Karma",
+                "Blade"
+            ],
+            "equipid": [
+                [
+                    101610,
+                    111610,
+                    121610,
+                    131610,
+                    141610,
+                    151610,
+                    161610,
+                    171610
+                ]
+            ]
+        },
+        "11": {
+            "star": 2,
+            "stage": 11,
+            "needlevel": 1,
+            "needzslevel": 10501,
+            "name": [
+                "Hades",
+                "Sage",
+                "Storm"
+            ],
+            "equipid": [
+                [
+                    101611,
+                    111611,
+                    121611,
+                    131611,
+                    141611,
+                    151611,
+                    161611,
+                    171611
+                ]
+            ]
+        },
+        "12": {
+            "star": 2,
+            "stage": 12,
+            "needlevel": 1,
+            "needzslevel": 10601,
+            "name": [
+                "Demogorgon",
+                "Destruction",
+                "Demon"
+            ],
+            "equipid": [
+                [
+                    101612,
+                    111612,
+                    121612,
+                    131612,
+                    141612,
+                    151612,
+                    161612,
+                    171612
+                ]
+            ]
+        },
+        "13": {
+            "star": 2,
+            "stage": 13,
+            "needlevel": 1,
+            "needzslevel": 10701,
+            "name": [
+                "Zeus",
+                "Eternal",
+                "Deity"
+            ],
+            "equipid": [
+                [
+                    101613,
+                    111613,
+                    121613,
+                    131613,
+                    141613,
+                    151613,
+                    161613,
+                    171613
+                ]
+            ]
+        },
+        "14": {
+            "star": 2,
+            "stage": 14,
+            "needlevel": 1,
+            "needzslevel": 10801,
+            "name": [
+                "Morning Star",
+                "Morning Star",
+                "Morning Star"
+            ],
+            "equipid": [
+                [
+                    101614,
+                    111614,
+                    121614,
+                    131614,
+                    141614,
+                    151614,
+                    161614,
+                    171614
+                ]
+            ]
+        },
+        "15": {
+            "star": 2,
+            "stage": 15,
+            "needlevel": 1,
+            "needzslevel": 10901,
+            "name": [
+                "Waning Moon",
+                "Waning Moon",
+                "Waning Moon"
+            ],
+            "equipid": [
+                [
+                    101615,
+                    111615,
+                    121615,
+                    131615,
+                    141615,
+                    151615,
+                    161615,
+                    171615
+                ]
+            ]
+        },
+        "16": {
+            "star": 2,
+            "stage": 16,
+            "needlevel": 1,
+            "needzslevel": 11001,
+            "name": [
+                "Sacred Sun",
+                "Sacred Sun",
+                "Sacred Sun"
+            ],
+            "equipid": [
+                [
+                    101616,
+                    111616,
+                    121616,
+                    131616,
+                    141616,
+                    151616,
+                    161616,
+                    171616
+                ]
+            ]
+        },
+        "17": {
+            "star": 2,
+            "stage": 17,
+            "needlevel": 1,
+            "needzslevel": 11101,
+            "name": [
+                "Gust",
+                "Gust",
+                "Gust"
+            ],
+            "equipid": [
+                [
+                    101617,
+                    111617,
+                    121617,
+                    131617,
+                    141617,
+                    151617,
+                    161617,
+                    171617
+                ]
+            ]
+        },
+        "18": {
+            "star": 2,
+            "stage": 18,
+            "needlevel": 1,
+            "needzslevel": 11201,
+            "name": [
+                "Blaze",
+                "Blaze",
+                "Blaze"
+            ],
+            "equipid": [
+                [
+                    101618,
+                    111618,
+                    121618,
+                    131618,
+                    141618,
+                    151618,
+                    161618,
+                    171618
+                ]
+            ]
+        },
+        "19": {
+            "star": 2,
+            "stage": 19,
+            "needlevel": 1,
+            "needzslevel": 11301,
+            "name": [
+                "Massacre",
+                "Massacre",
+                "Massacre"
+            ],
+            "equipid": [
+                [
+                    101619,
+                    111619,
+                    121619,
+                    131619,
+                    141619,
+                    151619,
+                    161619,
+                    171619
+                ]
+            ]
+        },
+        "20": {
+            "star": 2,
+            "stage": 20,
+            "needlevel": 1,
+            "needzslevel": 11401,
+            "name": [
+                "Emperor",
+                "Emperor",
+                "Emperor"
+            ],
+            "equipid": [
+                [
+                    101620,
+                    111620,
+                    121620,
+                    131620,
+                    141620,
+                    151620,
+                    161620,
+                    171620
+                ]
+            ]
+        },
+        "21": {
+            "star": 2,
+            "stage": 21,
+            "needlevel": 1,
+            "needzslevel": 11501,
+            "name": [
+                "Skylord",
+                "Skylord",
+                "Skylord"
+            ],
+            "equipid": [
+                [
+                    101621,
+                    111621,
+                    121621,
+                    131621,
+                    141621,
+                    151621,
+                    161621,
+                    171621
+                ]
+            ]
+        }
+    },
+    "3": {
+        "5": {
+            "star": 3,
+            "stage": 5,
+            "needlevel": 1,
+            "needzslevel": 10103,
+            "name": [
+                "Demon Lord",
+                "Raven",
+                "Giant"
+            ],
+            "equipid": [
+                [
+                    101705,
+                    111705,
+                    121705,
+                    131705,
+                    141705,
+                    151705,
+                    161705,
+                    171705
+                ]
+            ]
+        },
+        "6": {
+            "star": 3,
+            "stage": 6,
+            "needlevel": 1,
+            "needzslevel": 10201,
+            "name": [
+                "Hallow",
+                "Purgatory",
+                "Moon Chaser"
+            ],
+            "equipid": [
+                [
+                    101706,
+                    111706,
+                    121706,
+                    131706,
+                    141706,
+                    151706,
+                    161706,
+                    171706
+                ]
+            ]
+        },
+        "7": {
+            "star": 3,
+            "stage": 7,
+            "needlevel": 1,
+            "needzslevel": 10203,
+            "name": [
+                "Courage",
+                "Reaping",
+                "Silver Wings"
+            ],
+            "equipid": [
+                [
+                    101707,
+                    111707,
+                    121707,
+                    131707,
+                    141707,
+                    151707,
+                    161707,
+                    171707
+                ]
+            ]
+        },
+        "8": {
+            "star": 3,
+            "stage": 8,
+            "needlevel": 1,
+            "needzslevel": 10301,
+            "name": [
+                "Thunder",
+                "Demon Spirit",
+                "Azure Phantom"
+            ],
+            "equipid": [
+                [
+                    101708,
+                    111708,
+                    121708,
+                    131708,
+                    141708,
+                    151708,
+                    161708,
+                    171708
+                ]
+            ]
+        },
+        "9": {
+            "star": 3,
+            "stage": 9,
+            "needlevel": 1,
+            "needzslevel": 10303,
+            "name": [
+                "Titan",
+                "Grudge",
+                "Oblivion"
+            ],
+            "equipid": [
+                [
+                    101709,
+                    111709,
+                    121709,
+                    131709,
+                    141709,
+                    151709,
+                    161709,
+                    171709
+                ]
+            ]
+        },
+        "10": {
+            "star": 3,
+            "stage": 10,
+            "needlevel": 1,
+            "needzslevel": 10401,
+            "name": [
+                "Dragon Flame",
+                "Karma",
+                "Blade"
+            ],
+            "equipid": [
+                [
+                    101710,
+                    111710,
+                    121710,
+                    131710,
+                    141710,
+                    151710,
+                    161710,
+                    171710
+                ]
+            ]
+        },
+        "11": {
+            "star": 3,
+            "stage": 11,
+            "needlevel": 1,
+            "needzslevel": 10501,
+            "name": [
+                "Hades",
+                "Sage",
+                "Storm"
+            ],
+            "equipid": [
+                [
+                    101711,
+                    111711,
+                    121711,
+                    131711,
+                    141711,
+                    151711,
+                    161711,
+                    171711
+                ]
+            ]
+        },
+        "12": {
+            "star": 3,
+            "stage": 12,
+            "needlevel": 1,
+            "needzslevel": 10601,
+            "name": [
+                "Demogorgon",
+                "Destruction",
+                "Demon"
+            ],
+            "equipid": [
+                [
+                    101712,
+                    111712,
+                    121712,
+                    131712,
+                    141712,
+                    151712,
+                    161712,
+                    171712
+                ]
+            ]
+        },
+        "13": {
+            "star": 3,
+            "stage": 13,
+            "needlevel": 1,
+            "needzslevel": 10701,
+            "name": [
+                "Zeus",
+                "Eternal",
+                "Deity"
+            ],
+            "equipid": [
+                [
+                    101713,
+                    111713,
+                    121713,
+                    131713,
+                    141713,
+                    151713,
+                    161713,
+                    171713
+                ]
+            ]
+        },
+        "14": {
+            "star": 3,
+            "stage": 14,
+            "needlevel": 1,
+            "needzslevel": 10801,
+            "name": [
+                "Morning Star",
+                "Morning Star",
+                "Morning Star"
+            ],
+            "equipid": [
+                [
+                    101714,
+                    111714,
+                    121714,
+                    131714,
+                    141714,
+                    151714,
+                    161714,
+                    171714
+                ]
+            ]
+        },
+        "15": {
+            "star": 3,
+            "stage": 15,
+            "needlevel": 1,
+            "needzslevel": 10901,
+            "name": [
+                "Waning Moon",
+                "Waning Moon",
+                "Waning Moon"
+            ],
+            "equipid": [
+                [
+                    101715,
+                    111715,
+                    121715,
+                    131715,
+                    141715,
+                    151715,
+                    161715,
+                    171715
+                ]
+            ]
+        },
+        "16": {
+            "star": 3,
+            "stage": 16,
+            "needlevel": 1,
+            "needzslevel": 11001,
+            "name": [
+                "Sacred Sun",
+                "Sacred Sun",
+                "Sacred Sun"
+            ],
+            "equipid": [
+                [
+                    101716,
+                    111716,
+                    121716,
+                    131716,
+                    141716,
+                    151716,
+                    161716,
+                    171716
+                ]
+            ]
+        },
+        "17": {
+            "star": 3,
+            "stage": 17,
+            "needlevel": 1,
+            "needzslevel": 11101,
+            "name": [
+                "Gust",
+                "Gust",
+                "Gust"
+            ],
+            "equipid": [
+                [
+                    101717,
+                    111717,
+                    121717,
+                    131717,
+                    141717,
+                    151717,
+                    161717,
+                    171717
+                ]
+            ]
+        },
+        "18": {
+            "star": 3,
+            "stage": 18,
+            "needlevel": 1,
+            "needzslevel": 11201,
+            "name": [
+                "Blaze",
+                "Blaze",
+                "Blaze"
+            ],
+            "equipid": [
+                [
+                    101718,
+                    111718,
+                    121718,
+                    131718,
+                    141718,
+                    151718,
+                    161718,
+                    171718
+                ]
+            ]
+        },
+        "19": {
+            "star": 3,
+            "stage": 19,
+            "needlevel": 1,
+            "needzslevel": 11301,
+            "name": [
+                "Massacre",
+                "Massacre",
+                "Massacre"
+            ],
+            "equipid": [
+                [
+                    101719,
+                    111719,
+                    121719,
+                    131719,
+                    141719,
+                    151719,
+                    161719,
+                    171719
+                ]
+            ]
+        },
+        "20": {
+            "star": 3,
+            "stage": 20,
+            "needlevel": 1,
+            "needzslevel": 11401,
+            "name": [
+                "Emperor",
+                "Emperor",
+                "Emperor"
+            ],
+            "equipid": [
+                [
+                    101720,
+                    111720,
+                    121720,
+                    131720,
+                    141720,
+                    151720,
+                    161720,
+                    171720
+                ]
+            ]
+        },
+        "21": {
+            "star": 3,
+            "stage": 21,
+            "needlevel": 1,
+            "needzslevel": 11501,
+            "name": [
+                "Skylord",
+                "Skylord",
+                "Skylord"
+            ],
+            "equipid": [
+                [
+                    101721,
+                    111721,
+                    121721,
+                    131721,
+                    141721,
+                    151721,
+                    161721,
+                    171721
+                ]
+            ]
+        }
+    },
+    "4": {
+        "8": {
+            "star": 4,
+            "stage": 8,
+            "needlevel": 1,
+            "needzslevel": 10301,
+            "name": [
+                "Thunder",
+                "Demon Spirit",
+                "Azure Phantom"
+            ],
+            "equipid": [
+                [
+                    101808,
+                    111808,
+                    121808,
+                    131808,
+                    141808,
+                    151808,
+                    161808,
+                    171808
+                ]
+            ]
+        },
+        "9": {
+            "star": 4,
+            "stage": 9,
+            "needlevel": 1,
+            "needzslevel": 10303,
+            "name": [
+                "Titan",
+                "Grudge",
+                "Oblivion"
+            ],
+            "equipid": [
+                [
+                    101809,
+                    111809,
+                    121809,
+                    131809,
+                    141809,
+                    151809,
+                    161809,
+                    171809
+                ]
+            ]
+        },
+        "10": {
+            "star": 4,
+            "stage": 10,
+            "needlevel": 1,
+            "needzslevel": 10401,
+            "name": [
+                "Dragon Flame",
+                "Karma",
+                "Blade"
+            ],
+            "equipid": [
+                [
+                    101810,
+                    111810,
+                    121810,
+                    131810,
+                    141810,
+                    151810,
+                    161810,
+                    171810
+                ]
+            ]
+        },
+        "11": {
+            "star": 4,
+            "stage": 11,
+            "needlevel": 1,
+            "needzslevel": 10501,
+            "name": [
+                "Hades",
+                "Sage",
+                "Storm"
+            ],
+            "equipid": [
+                [
+                    101811,
+                    111811,
+                    121811,
+                    131811,
+                    141811,
+                    151811,
+                    161811,
+                    171811
+                ]
+            ]
+        },
+        "12": {
+            "star": 4,
+            "stage": 12,
+            "needlevel": 1,
+            "needzslevel": 10601,
+            "name": [
+                "Demogorgon",
+                "Destruction",
+                "Demon"
+            ],
+            "equipid": [
+                [
+                    101812,
+                    111812,
+                    121812,
+                    131812,
+                    141812,
+                    151812,
+                    161812,
+                    171812
+                ]
+            ]
+        },
+        "13": {
+            "star": 4,
+            "stage": 13,
+            "needlevel": 1,
+            "needzslevel": 10701,
+            "name": [
+                "Zeus",
+                "Eternal",
+                "Deity"
+            ],
+            "equipid": [
+                [
+                    101813,
+                    111813,
+                    121813,
+                    131813,
+                    141813,
+                    151813,
+                    161813,
+                    171813
+                ]
+            ]
+        },
+        "14": {
+            "star": 4,
+            "stage": 14,
+            "needlevel": 1,
+            "needzslevel": 10801,
+            "name": [
+                "Morning Star",
+                "Morning Star",
+                "Morning Star"
+            ],
+            "equipid": [
+                [
+                    101814,
+                    111814,
+                    121814,
+                    131814,
+                    141814,
+                    151814,
+                    161814,
+                    171814
+                ]
+            ]
+        },
+        "15": {
+            "star": 4,
+            "stage": 15,
+            "needlevel": 1,
+            "needzslevel": 10901,
+            "name": [
+                "Waning Moon",
+                "Waning Moon",
+                "Waning Moon"
+            ],
+            "equipid": [
+                [
+                    101815,
+                    111815,
+                    121815,
+                    131815,
+                    141815,
+                    151815,
+                    161815,
+                    171815
+                ]
+            ]
+        },
+        "16": {
+            "star": 4,
+            "stage": 16,
+            "needlevel": 1,
+            "needzslevel": 11001,
+            "name": [
+                "Sacred Sun",
+                "Sacred Sun",
+                "Sacred Sun"
+            ],
+            "equipid": [
+                [
+                    101816,
+                    111816,
+                    121816,
+                    131816,
+                    141816,
+                    151816,
+                    161816,
+                    171816
+                ]
+            ]
+        },
+        "17": {
+            "star": 4,
+            "stage": 17,
+            "needlevel": 1,
+            "needzslevel": 11101,
+            "name": [
+                "Gust",
+                "Gust",
+                "Gust"
+            ],
+            "equipid": [
+                [
+                    101817,
+                    111817,
+                    121817,
+                    131817,
+                    141817,
+                    151817,
+                    161817,
+                    171817
+                ]
+            ]
+        },
+        "18": {
+            "star": 4,
+            "stage": 18,
+            "needlevel": 1,
+            "needzslevel": 11201,
+            "name": [
+                "Blaze",
+                "Blaze",
+                "Blaze"
+            ],
+            "equipid": [
+                [
+                    101818,
+                    111818,
+                    121818,
+                    131818,
+                    141818,
+                    151818,
+                    161818,
+                    171818
+                ]
+            ]
+        },
+        "19": {
+            "star": 4,
+            "stage": 19,
+            "needlevel": 1,
+            "needzslevel": 11301,
+            "name": [
+                "Massacre",
+                "Massacre",
+                "Massacre"
+            ],
+            "equipid": [
+                [
+                    101819,
+                    111819,
+                    121819,
+                    131819,
+                    141819,
+                    151819,
+                    161819,
+                    171819
+                ]
+            ]
+        },
+        "20": {
+            "star": 4,
+            "stage": 20,
+            "needlevel": 1,
+            "needzslevel": 11401,
+            "name": [
+                "Emperor",
+                "Emperor",
+                "Emperor"
+            ],
+            "equipid": [
+                [
+                    101820,
+                    111820,
+                    121820,
+                    131820,
+                    141820,
+                    151820,
+                    161820,
+                    171820
+                ]
+            ]
+        },
+        "21": {
+            "star": 4,
+            "stage": 21,
+            "needlevel": 1,
+            "needzslevel": 11501,
+            "name": [
+                "Skylord",
+                "Skylord",
+                "Skylord"
+            ],
+            "equipid": [
+                [
+                    101821,
+                    111821,
+                    121821,
+                    131821,
+                    141821,
+                    151821,
+                    161821,
+                    171821
+                ]
+            ]
+        }
+    },
+    "5": {
+        "14": {
+            "star": 5,
+            "stage": 14,
+            "needlevel": 1,
+            "needzslevel": 10801,
+            "name": [
+                "Morning Star",
+                "Morning Star",
+                "Morning Star"
+            ],
+            "equipid": [
+                [
+                    101914,
+                    111914,
+                    121914,
+                    131914,
+                    141914,
+                    151914,
+                    161914,
+                    171914
+                ]
+            ]
+        },
+        "15": {
+            "star": 5,
+            "stage": 15,
+            "needlevel": 1,
+            "needzslevel": 10901,
+            "name": [
+                "Waning Moon",
+                "Waning Moon",
+                "Waning Moon"
+            ],
+            "equipid": [
+                [
+                    101915,
+                    111915,
+                    121915,
+                    131915,
+                    141915,
+                    151915,
+                    161915,
+                    171915
+                ]
+            ]
+        },
+        "16": {
+            "star": 5,
+            "stage": 16,
+            "needlevel": 1,
+            "needzslevel": 11001,
+            "name": [
+                "Sacred Sun",
+                "Sacred Sun",
+                "Sacred Sun"
+            ],
+            "equipid": [
+                [
+                    101916,
+                    111916,
+                    121916,
+                    131916,
+                    141916,
+                    151916,
+                    161916,
+                    171916
+                ]
+            ]
+        },
+        "17": {
+            "star": 5,
+            "stage": 17,
+            "needlevel": 1,
+            "needzslevel": 11101,
+            "name": [
+                "Gust",
+                "Gust",
+                "Gust"
+            ],
+            "equipid": [
+                [
+                    101917,
+                    111917,
+                    121917,
+                    131917,
+                    141917,
+                    151917,
+                    161917,
+                    171917
+                ]
+            ]
+        },
+        "18": {
+            "star": 5,
+            "stage": 18,
+            "needlevel": 1,
+            "needzslevel": 11201,
+            "name": [
+                "Blaze",
+                "Blaze",
+                "Blaze"
+            ],
+            "equipid": [
+                [
+                    101918,
+                    111918,
+                    121918,
+                    131918,
+                    141918,
+                    151918,
+                    161918,
+                    171918
+                ]
+            ]
+        },
+        "19": {
+            "star": 5,
+            "stage": 19,
+            "needlevel": 1,
+            "needzslevel": 11301,
+            "name": [
+                "Massacre",
+                "Massacre",
+                "Massacre"
+            ],
+            "equipid": [
+                [
+                    101919,
+                    111919,
+                    121919,
+                    131919,
+                    141919,
+                    151919,
+                    161919,
+                    171919
+                ]
+            ]
+        },
+        "20": {
+            "star": 5,
+            "stage": 20,
+            "needlevel": 1,
+            "needzslevel": 11401,
+            "name": [
+                "Emperor",
+                "Emperor",
+                "Emperor"
+            ],
+            "equipid": [
+                [
+                    101920,
+                    111920,
+                    121920,
+                    131920,
+                    141920,
+                    151920,
+                    161920,
+                    171920
+                ]
+            ]
+        },
+        "21": {
+            "star": 5,
+            "stage": 21,
+            "needlevel": 1,
+            "needzslevel": 11501,
+            "name": [
+                "Skylord",
+                "Skylord",
+                "Skylord"
+            ],
+            "equipid": [
+                [
+                    101921,
+                    111921,
+                    121921,
+                    131921,
+                    141921,
+                    151921,
+                    161921,
+                    171921
+                ]
+            ]
+        }
+    }
+}

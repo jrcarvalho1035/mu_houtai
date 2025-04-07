@@ -1,0 +1,86 @@
+{
+    "1": {
+        "id": 1,
+        "needItemId": 1071003,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 2000
+            },
+            {
+                "type": 4,
+                "value": 100
+            }
+        ],
+        "name": "Spirit Imprint"
+    },
+    "2": {
+        "id": 2,
+        "needItemId": 1071004,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 5040
+            },
+            {
+                "type": 4,
+                "value": 180
+            },
+            {
+                "type": 43,
+                "value": 280
+            }
+        ],
+        "name": "Skill Imprint"
+    },
+    "3": {
+        "id": 3,
+        "needItemId": 1071005,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 13440
+            },
+            {
+                "type": 4,
+                "value": 480
+            },
+            {
+                "type": 6,
+                "value": 720
+            },
+            {
+                "type": 43,
+                "value": 1120
+            }
+        ],
+        "name": "Capacity Imprint"
+    },
+    "4": {
+        "id": 4,
+        "needItemId": 1071006,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 672000
+            },
+            {
+                "type": 4,
+                "value": 24000
+            },
+            {
+                "type": 6,
+                "value": 36000
+            },
+            {
+                "type": 43,
+                "value": 56000
+            },
+            {
+                "type": 69,
+                "value": 100
+            }
+        ],
+        "name": "Transform Imprint"
+    }
+}

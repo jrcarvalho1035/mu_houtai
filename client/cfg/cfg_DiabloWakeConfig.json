@@ -1,0 +1,384 @@
+{
+    "1": {
+        "id": 1,
+        "quality": 5,
+        "name": "Spirit of Desire",
+        "dec": "Diamond Activate",
+        "skillId": 27001,
+        "itemId": 750001,
+        "needItem": [
+            {
+                "type": 1,
+                "id": 750001,
+                "count": 1
+            }
+        ],
+        "maxStage": 500,
+        "attrs": [
+            {
+                "type": 2,
+                "value": 80000
+            },
+            {
+                "type": 3,
+                "value": 120000
+            },
+            {
+                "type": 5,
+                "value": 50000
+            },
+            {
+                "type": 11,
+                "value": 100000
+            }
+        ],
+        "power": 1000000
+    },
+    "2": {
+        "id": 2,
+        "quality": 5,
+        "name": "Spirit of Gluttony",
+        "dec": "Diamond Activate",
+        "skillId": 27002,
+        "itemId": 750002,
+        "needItem": [
+            {
+                "type": 1,
+                "id": 750002,
+                "count": 1
+            }
+        ],
+        "maxStage": 500,
+        "attrs": [
+            {
+                "type": 2,
+                "value": 160000
+            },
+            {
+                "type": 3,
+                "value": 200000
+            },
+            {
+                "type": 5,
+                "value": 75000
+            },
+            {
+                "type": 1,
+                "value": 3200000
+            }
+        ],
+        "power": 2000000
+    },
+    "3": {
+        "id": 3,
+        "quality": 5,
+        "name": "Spirit of Greed",
+        "dec": "Spirit Gear Realm",
+        "skillId": 27003,
+        "itemId": 750003,
+        "needItem": [
+            {
+                "type": 1,
+                "id": 750003,
+                "count": 1
+            }
+        ],
+        "maxStage": 500,
+        "attrs": [
+            {
+                "type": 2,
+                "value": 312000
+            },
+            {
+                "type": 3,
+                "value": 384000
+            },
+            {
+                "type": 11,
+                "value": 120000
+            },
+            {
+                "type": 62,
+                "value": 90000
+            },
+            {
+                "type": 140,
+                "value": 50
+            }
+        ],
+        "power": 3000000
+    },
+    "4": {
+        "id": 4,
+        "quality": 5,
+        "name": "Spirit of Sloth",
+        "dec": "Spirit Gear Realm",
+        "skillId": 27004,
+        "itemId": 750004,
+        "needItem": [
+            {
+                "type": 1,
+                "id": 750004,
+                "count": 1
+            }
+        ],
+        "maxStage": 500,
+        "attrs": [
+            {
+                "type": 2,
+                "value": 400000
+            },
+            {
+                "type": 3,
+                "value": 400000
+            },
+            {
+                "type": 11,
+                "value": 320000
+            },
+            {
+                "type": 62,
+                "value": 104000
+            },
+            {
+                "type": 140,
+                "value": 50
+            }
+        ],
+        "power": 4000000
+    },
+    "5": {
+        "id": 5,
+        "quality": 5,
+        "name": "Spirit of Rage",
+        "dec": "Spirit Gear Hunt",
+        "skillId": 27005,
+        "itemId": 750005,
+        "needItem": [
+            {
+                "type": 1,
+                "id": 750005,
+                "count": 1
+            }
+        ],
+        "maxStage": 500,
+        "attrs": [
+            {
+                "type": 2,
+                "value": 408000
+            },
+            {
+                "type": 3,
+                "value": 840000
+            },
+            {
+                "type": 5,
+                "value": 270000
+            },
+            {
+                "type": 1,
+                "value": 7200000
+            },
+            {
+                "type": 140,
+                "value": 100
+            }
+        ],
+        "power": 6000000
+    },
+    "6": {
+        "id": 6,
+        "quality": 5,
+        "name": "Spirit of Jealousy",
+        "dec": "Spirit Gear Hunt",
+        "skillId": 27006,
+        "itemId": 750006,
+        "needItem": [
+            {
+                "type": 1,
+                "id": 750006,
+                "count": 1
+            }
+        ],
+        "maxStage": 500,
+        "attrs": [
+            {
+                "type": 2,
+                "value": 560000
+            },
+            {
+                "type": 3,
+                "value": 840000
+            },
+            {
+                "type": 5,
+                "value": 350000
+            },
+            {
+                "type": 11,
+                "value": 700000
+            },
+            {
+                "type": 140,
+                "value": 100
+            }
+        ],
+        "power": 7000000
+    },
+    "7": {
+        "id": 7,
+        "quality": 5,
+        "name": "Spirit of Arrogance",
+        "dec": "Spirit Gear Hunt",
+        "skillId": 27007,
+        "itemId": 750007,
+        "needItem": [
+            {
+                "type": 1,
+                "id": 750007,
+                "count": 1
+            }
+        ],
+        "maxStage": 500,
+        "attrs": [
+            {
+                "type": 2,
+                "value": 640000
+            },
+            {
+                "type": 3,
+                "value": 800000
+            },
+            {
+                "type": 5,
+                "value": 300000
+            },
+            {
+                "type": 1,
+                "value": 12800000
+            },
+            {
+                "type": 140,
+                "value": 150
+            }
+        ],
+        "power": 8000000
+    },
+    "8": {
+        "id": 8,
+        "quality": 5,
+        "name": "Spirit of Chaos",
+        "dec": "Spirit Gear Hunt",
+        "skillId": 27008,
+        "itemId": 750008,
+        "needItem": [
+            {
+                "type": 1,
+                "id": 750008,
+                "count": 1
+            }
+        ],
+        "maxStage": 500,
+        "attrs": [
+            {
+                "type": 2,
+                "value": 936000
+            },
+            {
+                "type": 3,
+                "value": 1152000
+            },
+            {
+                "type": 11,
+                "value": 360000
+            },
+            {
+                "type": 62,
+                "value": 270000
+            },
+            {
+                "type": 140,
+                "value": 150
+            }
+        ],
+        "power": 9000000
+    },
+    "9": {
+        "id": 9,
+        "quality": 5,
+        "name": "Spirit of Purgatory",
+        "dec": "Spirit Gear Hunt",
+        "skillId": 27009,
+        "itemId": 750009,
+        "needItem": [
+            {
+                "type": 1,
+                "id": 750009,
+                "count": 1
+            }
+        ],
+        "maxStage": 500,
+        "attrs": [
+            {
+                "type": 2,
+                "value": 1000000
+            },
+            {
+                "type": 3,
+                "value": 1000000
+            },
+            {
+                "type": 11,
+                "value": 800000
+            },
+            {
+                "type": 62,
+                "value": 260000
+            },
+            {
+                "type": 140,
+                "value": 200
+            }
+        ],
+        "power": 10000000
+    },
+    "10": {
+        "id": 10,
+        "quality": 5,
+        "name": "Spirit of Avatar",
+        "dec": "Spirit Gear Hunt",
+        "skillId": 27010,
+        "itemId": 750010,
+        "needItem": [
+            {
+                "type": 1,
+                "id": 750010,
+                "count": 1
+            }
+        ],
+        "maxStage": 500,
+        "attrs": [
+            {
+                "type": 2,
+                "value": 680000
+            },
+            {
+                "type": 3,
+                "value": 1400000
+            },
+            {
+                "type": 5,
+                "value": 450000
+            },
+            {
+                "type": 1,
+                "value": 12000000
+            },
+            {
+                "type": 140,
+                "value": 200
+            }
+        ],
+        "power": 10000000
+    }
+}

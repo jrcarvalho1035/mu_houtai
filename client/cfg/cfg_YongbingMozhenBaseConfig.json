@@ -1,0 +1,386 @@
+{
+    "1": {
+        "id": 1,
+        "quality": 3,
+        "srQuality": 1,
+        "name": "Three-Star Map",
+        "dec": "Event",
+        "power": 5000,
+        "appearanceId": 101,
+        "groupId": 1,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 700
+            },
+            {
+                "type": 1,
+                "value": 6000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1062001,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000
+    },
+    "2": {
+        "id": 2,
+        "quality": 3,
+        "srQuality": 1,
+        "name": "Four-Star Map",
+        "dec": "Event",
+        "power": 12000,
+        "appearanceId": 102,
+        "groupId": 1,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1560
+            },
+            {
+                "type": 1,
+                "value": 16800
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1062002,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000
+    },
+    "3": {
+        "id": 3,
+        "quality": 3,
+        "srQuality": 2,
+        "name": "Five-Star Map",
+        "dec": "Event",
+        "power": 36000,
+        "appearanceId": 103,
+        "groupId": 1,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 5040
+            },
+            {
+                "type": 1,
+                "value": 43200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1062003,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000
+    },
+    "4": {
+        "id": 4,
+        "quality": 3,
+        "srQuality": 2,
+        "name": "Six-Star Map",
+        "dec": "Boss Shop",
+        "power": 72000,
+        "appearanceId": 104,
+        "groupId": 1,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 9360
+            },
+            {
+                "type": 1,
+                "value": 100800
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1062004,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000
+    },
+    "5": {
+        "id": 5,
+        "quality": 4,
+        "srQuality": 2,
+        "name": "Wind Dragon Flicker",
+        "dec": "Encounter",
+        "power": 120000,
+        "appearanceId": 105,
+        "groupId": 2,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 9600
+            },
+            {
+                "type": 1,
+                "value": 144000
+            },
+            {
+                "type": 5,
+                "value": 9000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1062005,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1500
+    },
+    "6": {
+        "id": 6,
+        "quality": 4,
+        "srQuality": 3,
+        "name": "Water Spirit Blessing",
+        "dec": "Event",
+        "power": 240000,
+        "appearanceId": 106,
+        "groupId": 2,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 19200
+            },
+            {
+                "type": 1,
+                "value": 288000
+            },
+            {
+                "type": 11,
+                "value": 24000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1062006,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1500
+    },
+    "7": {
+        "id": 7,
+        "quality": 4,
+        "srQuality": 3,
+        "name": "Thunder Dragon Breath",
+        "dec": "SVIP4",
+        "power": 360000,
+        "appearanceId": 107,
+        "groupId": 2,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 28800
+            },
+            {
+                "type": 1,
+                "value": 432000
+            },
+            {
+                "type": 62,
+                "value": 10800
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1062007,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1500
+    },
+    "8": {
+        "id": 8,
+        "quality": 4,
+        "srQuality": 3,
+        "name": "Fire Dragon Trial",
+        "dec": "Event",
+        "power": 600000,
+        "appearanceId": 108,
+        "groupId": 2,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 48000
+            },
+            {
+                "type": 1,
+                "value": 720000
+            },
+            {
+                "type": 5,
+                "value": 45000
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1062008,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1500
+    },
+    "9": {
+        "id": 9,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Light Circle",
+        "dec": "Event",
+        "power": 1200000,
+        "appearanceId": 109,
+        "groupId": 3,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 96000
+            },
+            {
+                "type": 1,
+                "value": 1440000
+            },
+            {
+                "type": 11,
+                "value": 120000
+            },
+            {
+                "type": 70,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1062009,
+                "count": 1
+            }
+        ],
+        "maxLevel": 800
+    },
+    "10": {
+        "id": 10,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Void Circle",
+        "dec": "Event",
+        "power": 2200000,
+        "appearanceId": 110,
+        "groupId": 3,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 176000
+            },
+            {
+                "type": 1,
+                "value": 2640000
+            },
+            {
+                "type": 62,
+                "value": 66000
+            },
+            {
+                "type": 70,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1062010,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600
+    },
+    "11": {
+        "id": 11,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Dark Circle",
+        "dec": "SVIP9",
+        "power": 4000000,
+        "appearanceId": 111,
+        "groupId": 3,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 320000
+            },
+            {
+                "type": 1,
+                "value": 4800000
+            },
+            {
+                "type": 5,
+                "value": 300000
+            },
+            {
+                "type": 70,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1062011,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600
+    },
+    "12": {
+        "id": 12,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Earth Circle",
+        "dec": "Event",
+        "power": 7000000,
+        "appearanceId": 112,
+        "groupId": 3,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 560000
+            },
+            {
+                "type": 1,
+                "value": 8400000
+            },
+            {
+                "type": 11,
+                "value": 700000
+            },
+            {
+                "type": 70,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1062012,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600
+    }
+}

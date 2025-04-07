@@ -1,0 +1,62 @@
+{
+    "money": 16800,
+    "rewards": [
+        {
+            "type": 0,
+            "id": 2,
+            "count": 50400
+        },
+        {
+            "type": 0,
+            "id": 30,
+            "count": 1680
+        }
+    ],
+    "attrs": [
+        {
+            "type": 17,
+            "value": 200
+        },
+        {
+            "type": 18,
+            "value": 200
+        },
+        {
+            "type": 19,
+            "value": 200
+        },
+        {
+            "type": 20,
+            "value": 200
+        },
+        {
+            "type": 21,
+            "value": 200
+        }
+    ],
+    "power": 0,
+    "dailyRewards": [
+        {
+            "day": 9,
+            "count": 100
+        },
+        {
+            "day": 29,
+            "count": 110
+        },
+        {
+            "day": 59,
+            "count": 130
+        },
+        {
+            "day": 89,
+            "count": 150
+        }
+    ],
+    "title": 42,
+    "mcIcon": {
+        "type": 20,
+        "param": 42
+    },
+    "sviplevel": 6
+}

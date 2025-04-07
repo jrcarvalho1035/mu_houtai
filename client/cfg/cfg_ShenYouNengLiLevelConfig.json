@@ -1,0 +1,44 @@
+{
+    "1": {
+        "id": 1,
+        "lockRank": 1,
+        "name": "Skill unlocked",
+        "desc": "Unlock |C:0xffb82a&T:3| slots available to study in Godhood Skills"
+    },
+    "2": {
+        "id": 2,
+        "lockRank": 5,
+        "name": "Protection Skin",
+        "desc": "Activate Protection Morph feature. Protection will surround the character to block |C:0xffb82a&T:10%| of the damage taken"
+    },
+    "3": {
+        "id": 3,
+        "lockRank": 10,
+        "name": "Magic Shield",
+        "desc": "Protection Point increases by |C:0xffb82a&T:1000000|. |C:0xffb82a&T:25%| of all taken damage will be negated by the shield"
+    },
+    "4": {
+        "id": 4,
+        "lockRank": 20,
+        "name": "Advance Skill",
+        "desc": "Unlock |C:0xffb82a&T:2| slots for skills and unlock the purchase features of the remaining |C:0xffb82a&T:3| slots of skills"
+    },
+    "5": {
+        "id": 5,
+        "lockRank": 40,
+        "name": "Holy Shield",
+        "desc": "Protection Point increases by |C:0xffb82a&T:2000000|, when HP is lower than |C:0xffb82a&T:50%|, restores Shield by |C:0xffb82a&T:25%|. CD: |C:0xffb82a&T:20s|"
+    },
+    "6": {
+        "id": 6,
+        "lockRank": 60,
+        "name": "Holy Blessing",
+        "desc": "Protection Point increases by |C:0xffb82a&T:5000000|, when HP is lower than |C:0xffb82a&T:30%|, restores Shield by |C:0xffb82a&T:50%|. CD:|C:0xffb82a&T:20s|"
+    },
+    "7": {
+        "id": 7,
+        "lockRank": 80,
+        "name": "Shield Counterattack",
+        "desc": "When own shield is broken, it will give out shockwave, dealing to the |C:0xffb82a&T:4| surrounding units with |C:0xffb82a&T:250%| damage"
+    }
+}

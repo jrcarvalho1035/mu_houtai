@@ -1,0 +1,53 @@
+{
+    "1": {
+        "id": 1,
+        "condition": [
+            5
+        ],
+        "talk": "The monsters are surrounding me. Come and help me, warriors!",
+        "keeptime": 5
+    },
+    "2": {
+        "id": 2,
+        "condition": [
+            15
+        ],
+        "talk": "Warriors, the monsters are swarming up. Please eliminate them now.",
+        "keeptime": 5
+    },
+    "3": {
+        "id": 3,
+        "condition": [
+            4,
+            8,
+            12,
+            15
+        ],
+        "talk": "The Boss monster is coming, gather your strength and eliminate the boss",
+        "keeptime": 5
+    },
+    "4": {
+        "id": 4,
+        "condition": [
+            80
+        ],
+        "talk": "I'm wounded, but I can still hang on. Watch out for the next wave of monsters",
+        "keeptime": 5
+    },
+    "5": {
+        "id": 5,
+        "condition": [
+            50
+        ],
+        "talk": "I can't hold it much longer, come save me!",
+        "keeptime": 5
+    },
+    "6": {
+        "id": 6,
+        "condition": [
+            0
+        ],
+        "talk": "The War of Sacred Soul is inevitable, may archangel have mercy on every warrior",
+        "keeptime": 5
+    }
+}

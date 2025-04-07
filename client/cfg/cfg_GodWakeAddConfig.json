@@ -1,0 +1,32 @@
+{
+    "1": {
+        "id": 1,
+        "number": 2,
+        "addatk": 500,
+        "addhp": 500
+    },
+    "2": {
+        "id": 2,
+        "number": 4,
+        "addatk": 1000,
+        "addhp": 1000
+    },
+    "3": {
+        "id": 3,
+        "number": 6,
+        "addatk": 1500,
+        "addhp": 1500
+    },
+    "4": {
+        "id": 4,
+        "number": 8,
+        "addatk": 2000,
+        "addhp": 2000
+    },
+    "5": {
+        "id": 5,
+        "number": 10,
+        "addatk": 2500,
+        "addhp": 2500
+    }
+}

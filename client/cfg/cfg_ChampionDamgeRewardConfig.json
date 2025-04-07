@@ -1,0 +1,167 @@
+{
+    "1": {
+        "index": 1,
+        "damage": 5000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 120
+            }
+        ]
+    },
+    "2": {
+        "index": 2,
+        "damage": 12500000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 180
+            }
+        ]
+    },
+    "3": {
+        "index": 3,
+        "damage": 25000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 300
+            }
+        ]
+    },
+    "4": {
+        "index": 4,
+        "damage": 50000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 300
+            }
+        ]
+    },
+    "5": {
+        "index": 5,
+        "damage": 100000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 300
+            }
+        ]
+    },
+    "6": {
+        "index": 6,
+        "damage": 200000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 600
+            }
+        ]
+    },
+    "7": {
+        "index": 7,
+        "damage": 400000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 600
+            }
+        ]
+    },
+    "8": {
+        "index": 8,
+        "damage": 600000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 1200
+            }
+        ]
+    },
+    "9": {
+        "index": 9,
+        "damage": 1200000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 1200
+            }
+        ]
+    },
+    "10": {
+        "index": 10,
+        "damage": 1600000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 1800
+            }
+        ]
+    },
+    "11": {
+        "index": 11,
+        "damage": 2000000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 1800
+            }
+        ]
+    },
+    "12": {
+        "index": 12,
+        "damage": 2400000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 2400
+            }
+        ]
+    },
+    "13": {
+        "index": 13,
+        "damage": 3000000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 2400
+            }
+        ]
+    },
+    "14": {
+        "index": 14,
+        "damage": 3600000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 3000
+            }
+        ]
+    },
+    "15": {
+        "index": 15,
+        "damage": 5000000000000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 3000
+            }
+        ]
+    }
+}

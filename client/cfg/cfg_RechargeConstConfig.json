@@ -1,0 +1,65 @@
+{
+    "firstTipsTimer": 600,
+    "firstTipsPower": 50000,
+    "firstTipsTaskId": [
+        3,
+        9,
+        13,
+        22,
+        34,
+        41,
+        53,
+        61,
+        73
+    ],
+    "loginyuanbao": 800,
+    "customyuanbao": 1800,
+    "levelyuanbao": 3000,
+    "loginsvip": 2,
+    "customsvip": 4,
+    "levelsvip": 6,
+    "yyqgrewards": [
+        {
+            "type": 0,
+            "id": 2,
+            "count": 648
+        },
+        {
+            "type": 0,
+            "id": 30,
+            "count": 10
+        },
+        {
+            "type": 1,
+            "id": 111606,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 1,
+            "count": 1000000
+        },
+        {
+            "type": 0,
+            "id": 27,
+            "count": 1000000
+        },
+        {
+            "type": 1,
+            "id": 310001,
+            "count": 1000
+        }
+    ],
+    "yyqgvip": 1,
+    "yyqgyuanbao": 110,
+    "rechargeInvestActive": [
+        3004,
+        6802,
+        12806
+    ],
+    "rechargeInvestMultiple": [
+        20,
+        15,
+        10
+    ]
+}

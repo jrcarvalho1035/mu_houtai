@@ -1,0 +1,650 @@
+{
+    "1": {
+        "1": {
+            "1": {
+                "type": 1,
+                "day": 1,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1000
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051001,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 1,
+                "day": 1,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1051001,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 1,
+                "day": 1,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1051001,
+                        "count": 20
+                    }
+                ]
+            }
+        },
+        "2": {
+            "1": {
+                "type": 1,
+                "day": 2,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1000
+                    },
+                    {
+                        "type": 1,
+                        "id": 1061001,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 1,
+                "day": 2,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1061001,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 1,
+                "day": 2,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1061001,
+                        "count": 20
+                    }
+                ]
+            }
+        },
+        "3": {
+            "1": {
+                "type": 1,
+                "day": 3,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1000
+                    },
+                    {
+                        "type": 1,
+                        "id": 1010000,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 1,
+                "day": 3,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1010000,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 1,
+                "day": 3,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1010000,
+                        "count": 20
+                    }
+                ]
+            }
+        },
+        "4": {
+            "1": {
+                "type": 1,
+                "day": 4,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1000
+                    },
+                    {
+                        "type": 1,
+                        "id": 1081000,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 1,
+                "day": 4,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1081000,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 1,
+                "day": 4,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1081000,
+                        "count": 20
+                    }
+                ]
+            }
+        },
+        "5": {
+            "1": {
+                "type": 1,
+                "day": 5,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1000
+                    },
+                    {
+                        "type": 1,
+                        "id": 1071001,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 1,
+                "day": 5,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1071001,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 1,
+                "day": 5,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1071001,
+                        "count": 20
+                    }
+                ]
+            }
+        },
+        "6": {
+            "1": {
+                "type": 1,
+                "day": 6,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1000
+                    },
+                    {
+                        "type": 1,
+                        "id": 1082000,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 1,
+                "day": 6,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1082000,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 1,
+                "day": 6,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1082000,
+                        "count": 20
+                    }
+                ]
+            }
+        },
+        "7": {
+            "1": {
+                "type": 1,
+                "day": 7,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 1000
+                    },
+                    {
+                        "type": 1,
+                        "id": 1083000,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 1,
+                "day": 7,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1083000,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 1,
+                "day": 7,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1083000,
+                        "count": 20
+                    }
+                ]
+            }
+        }
+    },
+    "2": {
+        "1": {
+            "1": {
+                "type": 2,
+                "day": 1,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 800
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051001,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 2,
+                "day": 1,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1051001,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 2,
+                "day": 1,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1051001,
+                        "count": 20
+                    }
+                ]
+            }
+        },
+        "2": {
+            "1": {
+                "type": 2,
+                "day": 2,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 800
+                    },
+                    {
+                        "type": 1,
+                        "id": 1061001,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 2,
+                "day": 2,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1061001,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 2,
+                "day": 2,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1061001,
+                        "count": 20
+                    }
+                ]
+            }
+        },
+        "3": {
+            "1": {
+                "type": 2,
+                "day": 3,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 800
+                    },
+                    {
+                        "type": 1,
+                        "id": 1010000,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 2,
+                "day": 3,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1010000,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 2,
+                "day": 3,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1010000,
+                        "count": 20
+                    }
+                ]
+            }
+        },
+        "4": {
+            "1": {
+                "type": 2,
+                "day": 4,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 800
+                    },
+                    {
+                        "type": 1,
+                        "id": 1081000,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 2,
+                "day": 4,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1081000,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 2,
+                "day": 4,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1081000,
+                        "count": 20
+                    }
+                ]
+            }
+        },
+        "5": {
+            "1": {
+                "type": 2,
+                "day": 5,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 800
+                    },
+                    {
+                        "type": 1,
+                        "id": 1071001,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 2,
+                "day": 5,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1071001,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 2,
+                "day": 5,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1071001,
+                        "count": 20
+                    }
+                ]
+            }
+        },
+        "6": {
+            "1": {
+                "type": 2,
+                "day": 6,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 800
+                    },
+                    {
+                        "type": 1,
+                        "id": 1082000,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 2,
+                "day": 6,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1082000,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 2,
+                "day": 6,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1082000,
+                        "count": 20
+                    }
+                ]
+            }
+        },
+        "7": {
+            "1": {
+                "type": 2,
+                "day": 7,
+                "id": 1,
+                "sviplevel": 0,
+                "rewards": [
+                    {
+                        "type": 0,
+                        "id": 2,
+                        "count": 800
+                    },
+                    {
+                        "type": 1,
+                        "id": 1083000,
+                        "count": 20
+                    }
+                ]
+            },
+            "2": {
+                "type": 2,
+                "day": 7,
+                "id": 2,
+                "sviplevel": 1,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1083000,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "type": 2,
+                "day": 7,
+                "id": 3,
+                "sviplevel": 6,
+                "rewards": [
+                    {
+                        "type": 1,
+                        "id": 1083000,
+                        "count": 20
+                    }
+                ]
+            }
+        }
+    }
+}

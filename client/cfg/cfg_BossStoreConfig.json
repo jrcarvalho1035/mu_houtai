@@ -1,0 +1,170 @@
+{
+    "1": {
+        "index": 1,
+        "id": 380028,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 200000,
+        "daycount": {
+            "type": 3,
+            "count": 1
+        },
+        "faseBuy": 0
+    },
+    "2": {
+        "index": 2,
+        "id": 600107,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 16000,
+        "daycount": {
+            "type": 2,
+            "count": 0
+        },
+        "faseBuy": 0
+    },
+    "3": {
+        "index": 3,
+        "id": 600207,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 16000,
+        "daycount": {
+            "type": 2,
+            "count": 0
+        },
+        "faseBuy": 0
+    },
+    "4": {
+        "index": 4,
+        "id": 310402,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 12000,
+        "daycount": {
+            "type": 2,
+            "count": 0
+        },
+        "faseBuy": 0
+    },
+    "5": {
+        "index": 5,
+        "id": 310302,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 12000,
+        "daycount": {
+            "type": 2,
+            "count": 0
+        },
+        "faseBuy": 0
+    },
+    "6": {
+        "index": 6,
+        "id": 310401,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 3000,
+        "daycount": {
+            "type": 2,
+            "count": 0
+        },
+        "faseBuy": 0
+    },
+    "7": {
+        "index": 7,
+        "id": 310301,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 3000,
+        "daycount": {
+            "type": 2,
+            "count": 0
+        },
+        "faseBuy": 0
+    },
+    "8": {
+        "index": 8,
+        "id": 340006,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 200,
+        "daycount": {
+            "type": 2,
+            "count": 0
+        },
+        "faseBuy": 1
+    },
+    "9": {
+        "index": 9,
+        "id": 340003,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 200,
+        "daycount": {
+            "type": 2,
+            "count": 0
+        },
+        "faseBuy": 1
+    },
+    "10": {
+        "index": 10,
+        "id": 1071002,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 500,
+        "daycount": {
+            "type": 1,
+            "count": 50
+        },
+        "faseBuy": 0
+    },
+    "11": {
+        "index": 11,
+        "id": 1071001,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 150,
+        "daycount": {
+            "type": 1,
+            "count": 50
+        },
+        "faseBuy": 0
+    },
+    "12": {
+        "index": 12,
+        "id": 310006,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 600,
+        "daycount": {
+            "type": 2,
+            "count": 0
+        },
+        "faseBuy": 0
+    },
+    "13": {
+        "index": 13,
+        "id": 310005,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 200,
+        "daycount": {
+            "type": 2,
+            "count": 0
+        },
+        "faseBuy": 0
+    },
+    "14": {
+        "index": 14,
+        "id": 773017,
+        "count": 1,
+        "needitem": 310100,
+        "needcount": 250000,
+        "daycount": {
+            "type": 2,
+            "count": 20
+        },
+        "faseBuy": 0
+    }
+}

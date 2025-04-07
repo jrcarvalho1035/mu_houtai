@@ -1,0 +1,1047 @@
+{
+    "1": {
+        "id": 1,
+        "appearanceList": [
+            1010123,
+            1081024,
+            1082028,
+            1083033,
+            1060012,
+            1070018
+        ],
+        "groupId": 4,
+        "name": "Gilding",
+        "career1Icon": "wxtz_zycs_1_1",
+        "career2Icon": "wxtz_zycs_1_2",
+        "career3Icon": "wxtz_zycs_1_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "2": {
+        "id": 2,
+        "appearanceList": [
+            1010131,
+            1081032,
+            1082038,
+            1083043,
+            1060019,
+            1070030
+        ],
+        "groupId": 4,
+        "name": "Chaos",
+        "career1Icon": "wxtz_zycs_2_1",
+        "career2Icon": "wxtz_zycs_2_2",
+        "career3Icon": "wxtz_zycs_2_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "3": {
+        "id": 3,
+        "appearanceList": [
+            1010116,
+            1081014,
+            1082014,
+            1083015,
+            1060005,
+            1070008
+        ],
+        "groupId": 4,
+        "name": "Gladiator",
+        "career1Icon": "wxtz_zycs_3_1",
+        "career2Icon": "wxtz_zycs_3_2",
+        "career3Icon": "wxtz_zycs_3_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "4": {
+        "id": 4,
+        "appearanceList": [
+            1081023,
+            1010125,
+            1082024,
+            1083028,
+            1060013,
+            1070021
+        ],
+        "groupId": 4,
+        "name": "Year Ox",
+        "career1Icon": "wxtz_zycs_4_1",
+        "career2Icon": "wxtz_zycs_4_2",
+        "career3Icon": "wxtz_zycs_4_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "5": {
+        "id": 5,
+        "appearanceList": [
+            1010121,
+            1081020,
+            1082022,
+            1060009,
+            1083022,
+            1070015
+        ],
+        "groupId": 4,
+        "name": "Christmas",
+        "career1Icon": "wxtz_zycs_5_1",
+        "career2Icon": "wxtz_zycs_5_2",
+        "career3Icon": "wxtz_zycs_5_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "6": {
+        "id": 6,
+        "appearanceList": [
+            1010112,
+            1081012,
+            1082012,
+            1083012
+        ],
+        "groupId": 3,
+        "name": "Angel",
+        "career1Icon": "wxtz_zycs_6_1",
+        "career2Icon": "wxtz_zycs_6_2",
+        "career3Icon": "wxtz_zycs_6_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "7": {
+        "id": 7,
+        "appearanceList": [
+            1010133,
+            1082031,
+            1083039,
+            1070025
+        ],
+        "groupId": 3,
+        "name": "Top Player",
+        "career1Icon": "wxtz_zycs_7_1",
+        "career2Icon": "wxtz_zycs_7_2",
+        "career3Icon": "wxtz_zycs_7_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "8": {
+        "id": 8,
+        "appearanceList": [
+            1010135,
+            1081031,
+            1083044,
+            1070038
+        ],
+        "groupId": 3,
+        "name": "Starlight",
+        "career1Icon": "wxtz_zycs_8_1",
+        "career2Icon": "wxtz_zycs_8_2",
+        "career3Icon": "wxtz_zycs_8_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            141
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "9": {
+        "id": 9,
+        "appearanceList": [
+            1010130,
+            1082035,
+            1083037,
+            1070037
+        ],
+        "groupId": 3,
+        "name": "School",
+        "career1Icon": "wxtz_zycs_9_1",
+        "career2Icon": "wxtz_zycs_9_2",
+        "career3Icon": "wxtz_zycs_9_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "10": {
+        "id": 10,
+        "appearanceList": [
+            1010120,
+            1082019,
+            1060014,
+            1070023
+        ],
+        "groupId": 3,
+        "name": "Forest",
+        "career1Icon": "wxtz_zycs_10_1",
+        "career2Icon": "wxtz_zycs_10_2",
+        "career3Icon": "wxtz_zycs_10_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "11": {
+        "id": 11,
+        "appearanceList": [
+            1010132,
+            1081016,
+            1082017,
+            1083038,
+            1060006
+        ],
+        "groupId": 3,
+        "name": "Summer",
+        "career1Icon": "wxtz_zycs_11_1",
+        "career2Icon": "wxtz_zycs_11_2",
+        "career3Icon": "wxtz_zycs_11_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "12": {
+        "id": 12,
+        "appearanceList": [
+            1010137,
+            1081035,
+            1082020,
+            1083027,
+            1070010
+        ],
+        "groupId": 3,
+        "name": "Frozen",
+        "career1Icon": "wxtz_zycs_12_1",
+        "career2Icon": "wxtz_zycs_12_2",
+        "career3Icon": "wxtz_zycs_12_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "13": {
+        "id": 13,
+        "appearanceList": [
+            1010128,
+            1082030,
+            1083042,
+            1060020,
+            1070005
+        ],
+        "groupId": 3,
+        "name": "Cyber",
+        "career1Icon": "wxtz_zycs_13_1",
+        "career2Icon": "wxtz_zycs_13_2",
+        "career3Icon": "wxtz_zycs_13_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "14": {
+        "id": 14,
+        "appearanceList": [
+            1010129,
+            1082039,
+            1083036,
+            1060021,
+            1070040
+        ],
+        "groupId": 3,
+        "name": "Fairy Tale",
+        "career1Icon": "wxtz_zycs_14_1",
+        "career2Icon": "wxtz_zycs_14_2",
+        "career3Icon": "wxtz_zycs_14_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "15": {
+        "id": 15,
+        "appearanceList": [
+            1010106,
+            1081006,
+            1082006,
+            1083006
+        ],
+        "groupId": 1,
+        "name": "Night",
+        "career1Icon": "wxtz_zycs_15_1",
+        "career2Icon": "wxtz_zycs_15_2",
+        "career3Icon": "wxtz_zycs_15_3",
+        "quality": 3,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "16": {
+        "id": 16,
+        "appearanceList": [
+            1010107,
+            1081007,
+            1082007,
+            1083007
+        ],
+        "groupId": 1,
+        "name": "Glory",
+        "career1Icon": "wxtz_zycs_16_1",
+        "career2Icon": "wxtz_zycs_16_2",
+        "career3Icon": "wxtz_zycs_16_3",
+        "quality": 3,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "17": {
+        "id": 17,
+        "appearanceList": [
+            1010108,
+            1081008,
+            1082008,
+            1083008
+        ],
+        "groupId": 1,
+        "name": "Embrace",
+        "career1Icon": "wxtz_zycs_17_1",
+        "career2Icon": "wxtz_zycs_17_2",
+        "career3Icon": "wxtz_zycs_17_3",
+        "quality": 3,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "18": {
+        "id": 18,
+        "appearanceList": [
+            1010109,
+            1081009,
+            1082009,
+            1083009
+        ],
+        "groupId": 2,
+        "name": "Demogorgon",
+        "career1Icon": "wxtz_zycs_18_1",
+        "career2Icon": "wxtz_zycs_18_2",
+        "career3Icon": "wxtz_zycs_18_3",
+        "quality": 4,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "19": {
+        "id": 19,
+        "appearanceList": [
+            1010110,
+            1081010,
+            1082010,
+            1083010
+        ],
+        "groupId": 2,
+        "name": "Chrono",
+        "career1Icon": "wxtz_zycs_19_1",
+        "career2Icon": "wxtz_zycs_19_2",
+        "career3Icon": "wxtz_zycs_19_3",
+        "quality": 4,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "20": {
+        "id": 20,
+        "appearanceList": [
+            1010111,
+            1081011,
+            1082011,
+            1083011
+        ],
+        "groupId": 2,
+        "name": "Poseidon",
+        "career1Icon": "wxtz_zycs_20_1",
+        "career2Icon": "wxtz_zycs_20_2",
+        "career3Icon": "wxtz_zycs_20_3",
+        "quality": 4,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "21": {
+        "id": 21,
+        "appearanceList": [
+            1010114,
+            1081013,
+            1082013,
+            1083013
+        ],
+        "groupId": 2,
+        "name": "Project",
+        "career1Icon": "wxtz_zycs_21_1",
+        "career2Icon": "wxtz_zycs_21_2",
+        "career3Icon": "wxtz_zycs_21_3",
+        "quality": 4,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "22": {
+        "id": 22,
+        "appearanceList": [
+            1010140,
+            1081037,
+            1082046,
+            1083056,
+            1060024,
+            1070044
+        ],
+        "groupId": 4,
+        "name": "Energy",
+        "career1Icon": "wxtz_zycs_22_1",
+        "career2Icon": "wxtz_zycs_22_2",
+        "career3Icon": "wxtz_zycs_22_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.6,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            600,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            530
+        ]
+    },
+    "23": {
+        "id": 23,
+        "appearanceList": [
+            1010149,
+            1081042,
+            1082056,
+            1083063,
+            1060027,
+            1070054
+        ],
+        "groupId": 4,
+        "name": "Soulhunt",
+        "career1Icon": "wxtz_zycs_23_1",
+        "career2Icon": "wxtz_zycs_23_2",
+        "career3Icon": "wxtz_zycs_23_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.45,
+        "yongbingScale": 0.75,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            550,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            510
+        ]
+    },
+    "24": {
+        "id": 24,
+        "appearanceList": [
+            1010158,
+            1081049,
+            1082062,
+            1083064,
+            1060032,
+            1070065
+        ],
+        "groupId": 4,
+        "name": "Star Looting",
+        "career1Icon": "wxtz_zycs_24_1",
+        "career2Icon": "wxtz_zycs_24_2",
+        "career3Icon": "wxtz_zycs_24_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": 0.45,
+        "yongbingScale": 0.75,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            550,
+            241
+        ],
+        "damonPos": [
+            550,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            510
+        ]
+    },
+    "25": {
+        "id": 25,
+        "appearanceList": [
+            1010168,
+            1081047,
+            1082044,
+            1083055,
+            1060029,
+            1070076
+        ],
+        "groupId": 5,
+        "name": "Myth & Legend",
+        "career1Icon": "wxtz_zycs_25_1",
+        "career2Icon": "wxtz_zycs_25_2",
+        "career3Icon": "wxtz_zycs_25_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": -0.6,
+        "yongbingScale": 0.85,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            630,
+            241
+        ],
+        "damonPos": [
+            630,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            510
+        ]
+    },
+    "26": {
+        "id": 26,
+        "appearanceList": [
+            1010169,
+            1081056,
+            1082067,
+            1083069,
+            1060039,
+            1070074
+        ],
+        "groupId": 4,
+        "name": "Decayed King",
+        "career1Icon": "wxtz_zycs_26_1",
+        "career2Icon": "wxtz_zycs_26_2",
+        "career3Icon": "wxtz_zycs_26_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.6,
+        "damonScale": 0.68,
+        "yongbingScale": 0.9,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            650,
+            241
+        ],
+        "damonPos": [
+            620,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            510
+        ]
+    },
+    "27": {
+        "id": 27,
+        "appearanceList": [
+            1010162,
+            1081053,
+            1082064,
+            1083070,
+            1060041,
+            1070072
+        ],
+        "groupId": 5,
+        "name": "Celebration Music",
+        "career1Icon": "wxtz_zycs_27_1",
+        "career2Icon": "wxtz_zycs_27_2",
+        "career3Icon": "wxtz_zycs_27_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": -0.6,
+        "yongbingScale": 0.85,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            630,
+            241
+        ],
+        "damonPos": [
+            630,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            510
+        ]
+    },
+    "28": {
+        "id": 28,
+        "appearanceList": [
+            1010176,
+            1081063,
+            1082078,
+            1083086,
+            1060042,
+            1070085
+        ],
+        "groupId": 5,
+        "name": "Spring Dragon",
+        "career1Icon": "wxtz_zycs_28_1",
+        "career2Icon": "wxtz_zycs_28_2",
+        "career3Icon": "wxtz_zycs_28_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": -0.6,
+        "yongbingScale": 0.85,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            630,
+            241
+        ],
+        "damonPos": [
+            630,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            510
+        ]
+    },
+    "29": {
+        "id": 29,
+        "appearanceList": [
+            1010160,
+            1081041,
+            1082043,
+            1083060,
+            1060043,
+            1070050
+        ],
+        "groupId": 5,
+        "name": "Western Shadow",
+        "career1Icon": "wxtz_zycs_29_1",
+        "career2Icon": "wxtz_zycs_29_2",
+        "career3Icon": "wxtz_zycs_29_3",
+        "quality": 5,
+        "bodyScale": 1,
+        "meilinScale": 0.4,
+        "damonScale": -0.6,
+        "yongbingScale": 0.85,
+        "bodyPos": [
+            360,
+            530
+        ],
+        "meilinPos": [
+            630,
+            241
+        ],
+        "damonPos": [
+            630,
+            530
+        ],
+        "yongbingPos": [
+            90,
+            510
+        ]
+    }
+}

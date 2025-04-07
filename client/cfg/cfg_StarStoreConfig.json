@@ -1,0 +1,90 @@
+{
+    "1": {
+        "index": 1,
+        "id": 1082010,
+        "count": 1,
+        "needitem": 310083,
+        "needcount": 60,
+        "daycount": {
+            "type": 1,
+            "count": 1
+        }
+    },
+    "2": {
+        "index": 2,
+        "id": 1010109,
+        "count": 1,
+        "needitem": 310083,
+        "needcount": 30,
+        "daycount": {
+            "type": 1,
+            "count": 1
+        }
+    },
+    "3": {
+        "index": 3,
+        "id": 1052009,
+        "count": 1,
+        "needitem": 310083,
+        "needcount": 30,
+        "daycount": {
+            "type": 1,
+            "count": 1
+        }
+    },
+    "4": {
+        "index": 4,
+        "id": 1062009,
+        "count": 1,
+        "needitem": 310083,
+        "needcount": 25,
+        "daycount": {
+            "type": 1,
+            "count": 1
+        }
+    },
+    "5": {
+        "index": 5,
+        "id": 1072009,
+        "count": 1,
+        "needitem": 310083,
+        "needcount": 20,
+        "daycount": {
+            "type": 1,
+            "count": 1
+        }
+    },
+    "6": {
+        "index": 6,
+        "id": 1081008,
+        "count": 1,
+        "needitem": 310083,
+        "needcount": 16,
+        "daycount": {
+            "type": 1,
+            "count": 1
+        }
+    },
+    "7": {
+        "index": 7,
+        "id": 1083008,
+        "count": 1,
+        "needitem": 310083,
+        "needcount": 14,
+        "daycount": {
+            "type": 1,
+            "count": 1
+        }
+    },
+    "8": {
+        "index": 8,
+        "id": 310006,
+        "count": 50,
+        "needitem": 310083,
+        "needcount": 2,
+        "daycount": {
+            "type": 1,
+            "count": 1
+        }
+    }
+}

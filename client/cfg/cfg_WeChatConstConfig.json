@@ -1,0 +1,17 @@
+{
+    "needCount": 2000,
+    "maxShareCount": 3,
+    "maxInviteCount": 15,
+    "collectReward": [
+        {
+            "type": 0,
+            "id": 2,
+            "count": 1000
+        },
+        {
+            "type": 1,
+            "id": 310005,
+            "count": 20
+        }
+    ]
+}

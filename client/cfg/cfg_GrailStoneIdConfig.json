@@ -1,0 +1,38 @@
+{
+    "1": {
+        "id": 1,
+        "desc1": "Holder deals more damage to Boss +{a}",
+        "desc2": "Increase Grail's all basic stats +{a}",
+        "name": "Psychic Originite"
+    },
+    "2": {
+        "id": 2,
+        "desc1": "PVP DMG Reduction rate in Battle +{a}",
+        "desc2": "Increase Grail's all basic stats +{a}",
+        "name": "Life Originite"
+    },
+    "3": {
+        "id": 3,
+        "desc1": "PVP DMG Bonus Rate in Battle +{a}",
+        "desc2": "Increase Grail's all basic stats +{a}",
+        "name": "Contest Originite"
+    },
+    "4": {
+        "id": 4,
+        "desc1": "Deadly DMG Reduction in Battle +{a}",
+        "desc2": "Increase Grail's all basic stats +{a}",
+        "name": "Devour Originite"
+    },
+    "5": {
+        "id": 5,
+        "desc1": "Deadly DMG Bonus in Battle +{a}",
+        "desc2": "Increase Grail's all basic stats +{a}",
+        "name": "Combat Originite"
+    },
+    "6": {
+        "id": 6,
+        "desc1": "Reinforced Damage in Battle +{a}",
+        "desc2": "Increase Grail's all basic stats +{a}",
+        "name": "Purity Originite"
+    }
+}

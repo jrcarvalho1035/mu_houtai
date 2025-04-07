@@ -1,0 +1,124 @@
+{
+    "costcount": [
+        [
+            1,
+            1
+        ],
+        [
+            10,
+            9
+        ],
+        [
+            50,
+            45
+        ]
+    ],
+    "elementcost": [
+        [
+            1,
+            1
+        ],
+        [
+            10,
+            9
+        ],
+        [
+            30,
+            27
+        ]
+    ],
+    "itemid": [
+        310019,
+        310020,
+        310021,
+        310022,
+        310023,
+        310650
+    ],
+    "xunbaolucky": [
+        360,
+        10,
+        1500,
+        360,
+        360,
+        360
+    ],
+    "gailvdesc": [
+        "When Luck Points reach 360, it guarantees Deity Rings or\n Demon Rings \nTreasure Hunt Chance:",
+        "Guarantee Epic or Legendary Soulgear in 10X draw\nTreasure Hunt Chance:\n|C:0xf01414&T:Divine Soulgear   0.1%|\n|C:0xff9b0f&T:Legendary Soulgear   1.8%|\n|C:0xcd8cff&T:Epic Soulgear   8.5%|\n|C:0x23becd&T:Rare Soulgear   89.6%|",
+        "10x Drawing guarantees Epic Rune\n30x Drawing guarantees Legendary Rune\nTreasure Hunt Chance: \n|C:0xf01414&T:Divine Rune 1%|\n|C:0xff9b0f&T:Legendary Rune 1%|\n|C:0xcd8cff&T:Epic Rune 10%|\n|C:0x23becd&T:Rare Rune 40%|\n|C:0x13ee22&T:Uncommon Rune 48%|",
+        "When Luck Points reach 360, it guarantees Diety Ring \nAdv. Stone or Demon Ring Adv. Stone \nTreasure Hunt Chance:",
+        "When Luck Points reach 360, it guarantees Deity Ring Star\n Stone or Demon Ring Star Stone \nTreasure Hunt Chance:",
+        "When Luck Points reach 360, it guarantees Sacred Spirit Gear\nTreasure Hunt Chance:"
+    ],
+    "wanfadesc": [
+        "1. Each Treasure Hunt will cost 1 Gear Treasure Map, which grants 10 points of Gear Hunt Scores and item rewards. \n2. Each Treasure Hunt allows you to draw 1 item. Item will be sent to Warehouse. \n3. Each 1 attempt of Treasure Hunt increases Lucky Point by 1. When Lucky Points is full, it guarantees Deity Ring or Demon Ring. \n4. Points can be used to exchange for Superb Items in Gear Exchange. \n5. 10x Drawing and 50x Drawing both grant more discounts.",
+        "",
+        "1. Each Treasure Hunt will cost 1 Rune Treasure Map, which grants 10 points of Rune Hunt Scores and item rewards. \n2. Each Treasure Hunt allows you to draw 1 item. It will be sent to Warehouse.\n3. 10x Drawing guarantees Epic Rune, 30x Drawing guarantees Legendary Runes. \n4. Each 1 attempt of Treasure Hunt increases Lucky Point by 1. When Lucky Points are full, it guarantees Divine Runes. \n5. Points can be used to exchange for Superb Items in Gear Exchange. \n6. 10x Drawing and 50x Drawing both grant more discounts.",
+        "1. Each Treasure Hunt will cost 1 Peak Treasure Map, which grants 10 points of Peak Hunt Scores and item rewards. \n2. Each Treasure Hunt allows you to draw 1 item. Item will be sent to Warehouse. \n3. Each 1 attempt of Treasure Hunt increases Lucky Point by 1. When Lucky Points is full, it guarantees Deity Ring Adv. Stone or Demon Ring Adv. Stone. \n4. Points can be used to exchange for Superb Items in Gear Exchange. \n5. 10x Drawing and 50x Drawing both grant more discounts.",
+        "1. Each Treasure Hunt will cost 1 Deity Treasure Map, which grants 10 points of Deity Hunt Scores and item rewards. \n2. Each Treasure Hunt allows you to draw 1 item. Item will be sent to Warehouse. \n3. Each 1 attempt of Treasure Hunt increases Lucky Point by 1. When Lucky Points is full, it guarantees Deity Ring Star Stone or Demon Ring Star Stone. \n4. Points can be used to exchange for Superb Items in Gear Exchange. \n5. 10x Drawing and 50x Drawing both grant more discounts.",
+        "1.Spend 1 spirit gear treasure map to perform a treasure hunt and gain an item and 10 spirit gear treasure hunt points as rewards.\n2.You gain 1 item for each treasure hunt and the item will be stored in warehouse.\n3.You gain 1 Luck Point for each treasure hunt and you're garanteed to get a sacred spirit gear when Luck Point is full.\n4.Points can be used to redeem valuable items in spirit gear redeem.\n5.You gain more discounts if perform 10X or 50X treasure hunt."
+    ],
+    "openday": [
+        7,
+        3
+    ],
+    "addscore": 10,
+    "hunqiItem": [
+        341001,
+        341023,
+        341033,
+        341045,
+        341007,
+        341011,
+        341039,
+        341014,
+        341008,
+        341012,
+        341040,
+        341016,
+        341009,
+        341013,
+        341015,
+        341010,
+        341002,
+        341024,
+        341034,
+        341046,
+        341003,
+        341025,
+        341035,
+        341047,
+        341004,
+        341026,
+        341036,
+        341048,
+        341005,
+        341027,
+        341037,
+        341049,
+        341006,
+        341028,
+        341038,
+        341050
+    ],
+    "acts1": [
+        1820,
+        1160
+    ],
+    "acts2": [
+        1823
+    ],
+    "acts3": [
+        1824
+    ],
+    "acts4": [
+        1821,
+        1161
+    ],
+    "acts5": [
+        1822,
+        1162
+    ],
+    "acts6": []
+}

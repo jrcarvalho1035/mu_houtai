@@ -1,0 +1,302 @@
+{
+    "1": {
+        "id": 1,
+        "name": "Nunchaku",
+        "quality": 1,
+        "itemid": 341001
+    },
+    "2": {
+        "id": 2,
+        "name": "Seven-string Koto",
+        "quality": 1,
+        "itemid": 341002
+    },
+    "3": {
+        "id": 3,
+        "name": "Asco Serpent Staff",
+        "quality": 1,
+        "itemid": 341003
+    },
+    "4": {
+        "id": 4,
+        "name": "Battle Bugle",
+        "quality": 1,
+        "itemid": 341004
+    },
+    "5": {
+        "id": 5,
+        "name": "Soul Crystal",
+        "quality": 1,
+        "itemid": 341005
+    },
+    "6": {
+        "id": 6,
+        "name": "Soul Scale",
+        "quality": 1,
+        "itemid": 341006
+    },
+    "7": {
+        "id": 7,
+        "name": "Midas Staff",
+        "quality": 1,
+        "itemid": 341007
+    },
+    "8": {
+        "id": 8,
+        "name": "Demon Dagger",
+        "quality": 1,
+        "itemid": 341008
+    },
+    "9": {
+        "id": 9,
+        "name": "Wisdom Staff",
+        "quality": 1,
+        "itemid": 341009
+    },
+    "10": {
+        "id": 10,
+        "name": "Crystal Harp",
+        "quality": 1,
+        "itemid": 341010
+    },
+    "11": {
+        "id": 11,
+        "name": "Jupiter's Bow",
+        "quality": 1,
+        "itemid": 341011
+    },
+    "12": {
+        "id": 12,
+        "name": "Demon Battleaxe",
+        "quality": 1,
+        "itemid": 341012
+    },
+    "13": {
+        "id": 13,
+        "name": "Greed Ring",
+        "quality": 1,
+        "itemid": 341013
+    },
+    "14": {
+        "id": 14,
+        "name": "Enthrall Lantern",
+        "quality": 1,
+        "itemid": 341014
+    },
+    "15": {
+        "id": 15,
+        "name": "Vitality Potion",
+        "quality": 1,
+        "itemid": 341015
+    },
+    "16": {
+        "id": 16,
+        "name": "Mind Key",
+        "quality": 1,
+        "itemid": 341016
+    },
+    "17": {
+        "id": 17,
+        "name": "Demon's Akimbo Blades",
+        "quality": 2,
+        "itemid": 341017
+    },
+    "18": {
+        "id": 18,
+        "name": "Soul Staff",
+        "quality": 2,
+        "itemid": 341018
+    },
+    "19": {
+        "id": 19,
+        "name": "Rebel's Hammer",
+        "quality": 2,
+        "itemid": 341019
+    },
+    "20": {
+        "id": 20,
+        "name": "Might Belt",
+        "quality": 2,
+        "itemid": 341020
+    },
+    "21": {
+        "id": 21,
+        "name": "Curved Sacred Sword",
+        "quality": 2,
+        "itemid": 341021
+    },
+    "22": {
+        "id": 22,
+        "name": "Death Hourglass",
+        "quality": 2,
+        "itemid": 341022
+    },
+    "23": {
+        "id": 23,
+        "name": "Soul Pact",
+        "quality": 2,
+        "itemid": 341023
+    },
+    "24": {
+        "id": 24,
+        "name": "Golden Bow",
+        "quality": 2,
+        "itemid": 341024
+    },
+    "25": {
+        "id": 25,
+        "name": "Undead Staff",
+        "quality": 2,
+        "itemid": 341025
+    },
+    "26": {
+        "id": 26,
+        "name": "Lunar Scythe",
+        "quality": 2,
+        "itemid": 341026
+    },
+    "27": {
+        "id": 27,
+        "name": "Apocalypse Shield",
+        "quality": 2,
+        "itemid": 341027
+    },
+    "28": {
+        "id": 28,
+        "name": "Thor's Hammer",
+        "quality": 2,
+        "itemid": 341028
+    },
+    "29": {
+        "id": 29,
+        "name": "Apollo's Bow",
+        "quality": 3,
+        "itemid": 341029
+    },
+    "30": {
+        "id": 30,
+        "name": "Pandora's Box",
+        "quality": 3,
+        "itemid": 341030
+    },
+    "31": {
+        "id": 31,
+        "name": "Hades Talon",
+        "quality": 3,
+        "itemid": 341031
+    },
+    "32": {
+        "id": 32,
+        "name": "Athena's Spear",
+        "quality": 3,
+        "itemid": 341032
+    },
+    "33": {
+        "id": 33,
+        "name": "Helios Badge",
+        "quality": 3,
+        "itemid": 341033
+    },
+    "34": {
+        "id": 34,
+        "name": "Victory Sword",
+        "quality": 3,
+        "itemid": 341034
+    },
+    "35": {
+        "id": 35,
+        "name": "Lightning Scepter",
+        "quality": 3,
+        "itemid": 341035
+    },
+    "36": {
+        "id": 36,
+        "name": "Holy Grail",
+        "quality": 3,
+        "itemid": 341036
+    },
+    "37": {
+        "id": 37,
+        "name": "Hrungnir's Sword",
+        "quality": 3,
+        "itemid": 341037
+    },
+    "38": {
+        "id": 38,
+        "name": "Nemean Bracers",
+        "quality": 3,
+        "itemid": 341038
+    },
+    "39": {
+        "id": 39,
+        "name": "Hermes Shoes",
+        "quality": 3,
+        "itemid": 341039
+    },
+    "40": {
+        "id": 40,
+        "name": "Ares Battleaxe",
+        "quality": 3,
+        "itemid": 341040
+    },
+    "41": {
+        "id": 41,
+        "name": "World Branch Bow",
+        "quality": 4,
+        "itemid": 341041
+    },
+    "42": {
+        "id": 42,
+        "name": "Ruler's Sword",
+        "quality": 4,
+        "itemid": 341042
+    },
+    "43": {
+        "id": 43,
+        "name": "Life Vial",
+        "quality": 4,
+        "itemid": 341043
+    },
+    "44": {
+        "id": 44,
+        "name": "Longinus Lance",
+        "quality": 4,
+        "itemid": 341044
+    },
+    "45": {
+        "id": 45,
+        "name": "Cloaking Helmet",
+        "quality": 4,
+        "itemid": 341045
+    },
+    "46": {
+        "id": 46,
+        "name": "Eternal Lance",
+        "quality": 4,
+        "itemid": 341046
+    },
+    "47": {
+        "id": 47,
+        "name": "Worldly Sword",
+        "quality": 4,
+        "itemid": 341047
+    },
+    "48": {
+        "id": 48,
+        "name": "Thunder Scepter",
+        "quality": 4,
+        "itemid": 341048
+    },
+    "49": {
+        "id": 49,
+        "name": "Zeus Shield",
+        "quality": 4,
+        "itemid": 341049
+    },
+    "50": {
+        "id": 50,
+        "name": "Poseidon's Trident",
+        "quality": 4,
+        "itemid": 341050
+    }
+}

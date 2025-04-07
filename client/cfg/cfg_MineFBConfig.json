@@ -1,0 +1,152 @@
+{
+    "1": {
+        "idx": 1,
+        "fbId": 81001,
+        "name": "#1 Crystal",
+        "apperance": "20004",
+        "shuijingXY": [
+            30,
+            10
+        ],
+        "kuanggongXY": [
+            29,
+            10
+        ],
+        "dir": 2
+    },
+    "2": {
+        "idx": 2,
+        "fbId": 81001,
+        "name": "#2 Crystal",
+        "apperance": "20005",
+        "shuijingXY": [
+            29,
+            12
+        ],
+        "kuanggongXY": [
+            28,
+            12
+        ],
+        "dir": 2
+    },
+    "3": {
+        "idx": 3,
+        "fbId": 81001,
+        "name": "#3 Crystal",
+        "apperance": "20006",
+        "shuijingXY": [
+            32,
+            12
+        ],
+        "kuanggongXY": [
+            33,
+            12
+        ],
+        "dir": 6
+    },
+    "4": {
+        "idx": 4,
+        "fbId": 81001,
+        "name": "#4 Crystal",
+        "apperance": "20004",
+        "shuijingXY": [
+            26,
+            13
+        ],
+        "kuanggongXY": [
+            25,
+            13
+        ],
+        "dir": 2
+    },
+    "5": {
+        "idx": 5,
+        "fbId": 81001,
+        "name": "#5 Crystal",
+        "apperance": "20005",
+        "shuijingXY": [
+            35,
+            13
+        ],
+        "kuanggongXY": [
+            36,
+            13
+        ],
+        "dir": 6
+    },
+    "6": {
+        "idx": 6,
+        "fbId": 81001,
+        "name": "#6 Crystal",
+        "apperance": "20006",
+        "shuijingXY": [
+            25,
+            15
+        ],
+        "kuanggongXY": [
+            24,
+            15
+        ],
+        "dir": 2
+    },
+    "7": {
+        "idx": 7,
+        "fbId": 81001,
+        "name": "#7 Crystal",
+        "apperance": "20004",
+        "shuijingXY": [
+            26,
+            18
+        ],
+        "kuanggongXY": [
+            26,
+            17
+        ],
+        "dir": 5
+    },
+    "8": {
+        "idx": 8,
+        "fbId": 81001,
+        "name": "#8 Crystal",
+        "apperance": "20005",
+        "shuijingXY": [
+            37,
+            14
+        ],
+        "kuanggongXY": [
+            38,
+            14
+        ],
+        "dir": 6
+    },
+    "9": {
+        "idx": 9,
+        "fbId": 81001,
+        "name": "#9 Crystal",
+        "apperance": "20006",
+        "shuijingXY": [
+            37,
+            11
+        ],
+        "kuanggongXY": [
+            36,
+            11
+        ],
+        "dir": 2
+    },
+    "10": {
+        "idx": 10,
+        "fbId": 81001,
+        "name": "#10 Crystal",
+        "apperance": "20004",
+        "shuijingXY": [
+            33,
+            18
+        ],
+        "kuanggongXY": [
+            33,
+            19
+        ],
+        "dir": 0
+    }
+}

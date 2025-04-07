@@ -1,0 +1,93 @@
+{
+    "1": {
+        "id": 1,
+        "maxBetGame": 3,
+        "betCount": 1000,
+        "winFightReward": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 400
+            }
+        ],
+        "loseFightReward": []
+    },
+    "2": {
+        "id": 2,
+        "maxBetGame": 3,
+        "betCount": 1000,
+        "winFightReward": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 800
+            }
+        ],
+        "loseFightReward": []
+    },
+    "3": {
+        "id": 3,
+        "maxBetGame": 3,
+        "betCount": 1000,
+        "winFightReward": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 2000
+            }
+        ],
+        "loseFightReward": []
+    },
+    "4": {
+        "id": 4,
+        "maxBetGame": 3,
+        "betCount": 1000,
+        "winFightReward": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 4000
+            }
+        ],
+        "loseFightReward": []
+    },
+    "5": {
+        "id": 5,
+        "maxBetGame": 3,
+        "betCount": 1000,
+        "winFightReward": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 7000
+            }
+        ],
+        "loseFightReward": []
+    },
+    "6": {
+        "id": 6,
+        "maxBetGame": 3,
+        "betCount": 1000,
+        "winFightReward": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 10000
+            }
+        ],
+        "loseFightReward": []
+    },
+    "7": {
+        "id": 7,
+        "maxBetGame": 3,
+        "betCount": 1000,
+        "winFightReward": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 20000
+            }
+        ],
+        "loseFightReward": []
+    }
+}

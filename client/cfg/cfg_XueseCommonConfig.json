@@ -1,0 +1,12 @@
+{
+    "count": 3,
+    "number": 10,
+    "cost": [
+        {
+            "type": 0,
+            "id": 2,
+            "count": 50
+        }
+    ],
+    "secFight": 300
+}

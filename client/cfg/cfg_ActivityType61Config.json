@@ -1,0 +1,4274 @@
+{
+    "96101": {
+        "1": {
+            "1": {
+                "id": 96101,
+                "subType": 1,
+                "index": 1,
+                "ticket": 1000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 96101,
+                "subType": 1,
+                "index": 2,
+                "ticket": 2000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ]
+            },
+            "3": {
+                "id": 96101,
+                "subType": 1,
+                "index": 3,
+                "ticket": 4000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ]
+            },
+            "4": {
+                "id": 96101,
+                "subType": 1,
+                "index": 4,
+                "ticket": 6000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ]
+            },
+            "5": {
+                "id": 96101,
+                "subType": 1,
+                "index": 5,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ]
+            }
+        },
+        "2": {
+            "1": {
+                "id": 96101,
+                "subType": 2,
+                "index": 1,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 96101,
+                "subType": 2,
+                "index": 2,
+                "ticket": 16000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "id": 96101,
+                "subType": 2,
+                "index": 3,
+                "ticket": 32000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ]
+            },
+            "4": {
+                "id": 96101,
+                "subType": 2,
+                "index": 4,
+                "ticket": 48000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ]
+            },
+            "5": {
+                "id": 96101,
+                "subType": 2,
+                "index": 5,
+                "ticket": 64000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ]
+            }
+        },
+        "3": {
+            "1": {
+                "id": 96101,
+                "subType": 3,
+                "index": 1,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            },
+            "2": {
+                "id": 96101,
+                "subType": 3,
+                "index": 2,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            },
+            "3": {
+                "id": 96101,
+                "subType": 3,
+                "index": 3,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            },
+            "4": {
+                "id": 96101,
+                "subType": 3,
+                "index": 4,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            },
+            "5": {
+                "id": 96101,
+                "subType": 3,
+                "index": 5,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            },
+            "6": {
+                "id": 96101,
+                "subType": 3,
+                "index": 6,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            },
+            "7": {
+                "id": 96101,
+                "subType": 3,
+                "index": 7,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    },
+    "96103": {
+        "1": {
+            "1": {
+                "id": 96103,
+                "subType": 1,
+                "index": 1,
+                "ticket": 1000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 96103,
+                "subType": 1,
+                "index": 2,
+                "ticket": 2000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ]
+            },
+            "3": {
+                "id": 96103,
+                "subType": 1,
+                "index": 3,
+                "ticket": 4000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ]
+            },
+            "4": {
+                "id": 96103,
+                "subType": 1,
+                "index": 4,
+                "ticket": 6000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ]
+            },
+            "5": {
+                "id": 96103,
+                "subType": 1,
+                "index": 5,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ]
+            }
+        },
+        "2": {
+            "1": {
+                "id": 96103,
+                "subType": 2,
+                "index": 1,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 96103,
+                "subType": 2,
+                "index": 2,
+                "ticket": 16000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "id": 96103,
+                "subType": 2,
+                "index": 3,
+                "ticket": 32000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ]
+            },
+            "4": {
+                "id": 96103,
+                "subType": 2,
+                "index": 4,
+                "ticket": 48000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ]
+            },
+            "5": {
+                "id": 96103,
+                "subType": 2,
+                "index": 5,
+                "ticket": 64000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ]
+            }
+        },
+        "3": {
+            "1": {
+                "id": 96103,
+                "subType": 3,
+                "index": 1,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            },
+            "2": {
+                "id": 96103,
+                "subType": 3,
+                "index": 2,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            },
+            "3": {
+                "id": 96103,
+                "subType": 3,
+                "index": 3,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            },
+            "4": {
+                "id": 96103,
+                "subType": 3,
+                "index": 4,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            },
+            "5": {
+                "id": 96103,
+                "subType": 3,
+                "index": 5,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            },
+            "6": {
+                "id": 96103,
+                "subType": 3,
+                "index": 6,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            },
+            "7": {
+                "id": 96103,
+                "subType": 3,
+                "index": 7,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070048,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070047,
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    },
+    "96701": {
+        "1": {
+            "1": {
+                "id": 96701,
+                "subType": 1,
+                "index": 1,
+                "ticket": 1000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 96701,
+                "subType": 1,
+                "index": 2,
+                "ticket": 2000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ]
+            },
+            "3": {
+                "id": 96701,
+                "subType": 1,
+                "index": 3,
+                "ticket": 4000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ]
+            },
+            "4": {
+                "id": 96701,
+                "subType": 1,
+                "index": 4,
+                "ticket": 6000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ]
+            },
+            "5": {
+                "id": 96701,
+                "subType": 1,
+                "index": 5,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ]
+            }
+        },
+        "2": {
+            "1": {
+                "id": 96701,
+                "subType": 2,
+                "index": 1,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 96701,
+                "subType": 2,
+                "index": 2,
+                "ticket": 16000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "id": 96701,
+                "subType": 2,
+                "index": 3,
+                "ticket": 32000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ]
+            },
+            "4": {
+                "id": 96701,
+                "subType": 2,
+                "index": 4,
+                "ticket": 48000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ]
+            },
+            "5": {
+                "id": 96701,
+                "subType": 2,
+                "index": 5,
+                "ticket": 64000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ]
+            }
+        },
+        "3": {
+            "1": {
+                "id": 96701,
+                "subType": 3,
+                "index": 1,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            },
+            "2": {
+                "id": 96701,
+                "subType": 3,
+                "index": 2,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            },
+            "3": {
+                "id": 96701,
+                "subType": 3,
+                "index": 3,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            },
+            "4": {
+                "id": 96701,
+                "subType": 3,
+                "index": 4,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            },
+            "5": {
+                "id": 96701,
+                "subType": 3,
+                "index": 5,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            },
+            "6": {
+                "id": 96701,
+                "subType": 3,
+                "index": 6,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            },
+            "7": {
+                "id": 96701,
+                "subType": 3,
+                "index": 7,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    },
+    "96703": {
+        "1": {
+            "1": {
+                "id": 96703,
+                "subType": 1,
+                "index": 1,
+                "ticket": 1000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 96703,
+                "subType": 1,
+                "index": 2,
+                "ticket": 2000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ]
+            },
+            "3": {
+                "id": 96703,
+                "subType": 1,
+                "index": 3,
+                "ticket": 4000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ]
+            },
+            "4": {
+                "id": 96703,
+                "subType": 1,
+                "index": 4,
+                "ticket": 6000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ]
+            },
+            "5": {
+                "id": 96703,
+                "subType": 1,
+                "index": 5,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ]
+            }
+        },
+        "2": {
+            "1": {
+                "id": 96703,
+                "subType": 2,
+                "index": 1,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 96703,
+                "subType": 2,
+                "index": 2,
+                "ticket": 16000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "id": 96703,
+                "subType": 2,
+                "index": 3,
+                "ticket": 32000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ]
+            },
+            "4": {
+                "id": 96703,
+                "subType": 2,
+                "index": 4,
+                "ticket": 48000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ]
+            },
+            "5": {
+                "id": 96703,
+                "subType": 2,
+                "index": 5,
+                "ticket": 64000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ]
+            }
+        },
+        "3": {
+            "1": {
+                "id": 96703,
+                "subType": 3,
+                "index": 1,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            },
+            "2": {
+                "id": 96703,
+                "subType": 3,
+                "index": 2,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            },
+            "3": {
+                "id": 96703,
+                "subType": 3,
+                "index": 3,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            },
+            "4": {
+                "id": 96703,
+                "subType": 3,
+                "index": 4,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            },
+            "5": {
+                "id": 96703,
+                "subType": 3,
+                "index": 5,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            },
+            "6": {
+                "id": 96703,
+                "subType": 3,
+                "index": 6,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            },
+            "7": {
+                "id": 96703,
+                "subType": 3,
+                "index": 7,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1083054,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1083044,
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    },
+    "98301": {
+        "1": {
+            "1": {
+                "id": 98301,
+                "subType": 1,
+                "index": 1,
+                "ticket": 1000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 98301,
+                "subType": 1,
+                "index": 2,
+                "ticket": 2000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ]
+            },
+            "3": {
+                "id": 98301,
+                "subType": 1,
+                "index": 3,
+                "ticket": 4000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ]
+            },
+            "4": {
+                "id": 98301,
+                "subType": 1,
+                "index": 4,
+                "ticket": 6000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ]
+            },
+            "5": {
+                "id": 98301,
+                "subType": 1,
+                "index": 5,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ]
+            }
+        },
+        "2": {
+            "1": {
+                "id": 98301,
+                "subType": 2,
+                "index": 1,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 98301,
+                "subType": 2,
+                "index": 2,
+                "ticket": 16000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "id": 98301,
+                "subType": 2,
+                "index": 3,
+                "ticket": 32000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ]
+            },
+            "4": {
+                "id": 98301,
+                "subType": 2,
+                "index": 4,
+                "ticket": 48000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ]
+            },
+            "5": {
+                "id": 98301,
+                "subType": 2,
+                "index": 5,
+                "ticket": 64000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ]
+            }
+        },
+        "3": {
+            "1": {
+                "id": 98301,
+                "subType": 3,
+                "index": 1,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            },
+            "2": {
+                "id": 98301,
+                "subType": 3,
+                "index": 2,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            },
+            "3": {
+                "id": 98301,
+                "subType": 3,
+                "index": 3,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            },
+            "4": {
+                "id": 98301,
+                "subType": 3,
+                "index": 4,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            },
+            "5": {
+                "id": 98301,
+                "subType": 3,
+                "index": 5,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            },
+            "6": {
+                "id": 98301,
+                "subType": 3,
+                "index": 6,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            },
+            "7": {
+                "id": 98301,
+                "subType": 3,
+                "index": 7,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    },
+    "98303": {
+        "1": {
+            "1": {
+                "id": 98303,
+                "subType": 1,
+                "index": 1,
+                "ticket": 1000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 98303,
+                "subType": 1,
+                "index": 2,
+                "ticket": 2000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ]
+            },
+            "3": {
+                "id": 98303,
+                "subType": 1,
+                "index": 3,
+                "ticket": 4000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ]
+            },
+            "4": {
+                "id": 98303,
+                "subType": 1,
+                "index": 4,
+                "ticket": 6000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ]
+            },
+            "5": {
+                "id": 98303,
+                "subType": 1,
+                "index": 5,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ]
+            }
+        },
+        "2": {
+            "1": {
+                "id": 98303,
+                "subType": 2,
+                "index": 1,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 98303,
+                "subType": 2,
+                "index": 2,
+                "ticket": 16000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "id": 98303,
+                "subType": 2,
+                "index": 3,
+                "ticket": 32000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ]
+            },
+            "4": {
+                "id": 98303,
+                "subType": 2,
+                "index": 4,
+                "ticket": 48000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ]
+            },
+            "5": {
+                "id": 98303,
+                "subType": 2,
+                "index": 5,
+                "ticket": 64000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ]
+            }
+        },
+        "3": {
+            "1": {
+                "id": 98303,
+                "subType": 3,
+                "index": 1,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            },
+            "2": {
+                "id": 98303,
+                "subType": 3,
+                "index": 2,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            },
+            "3": {
+                "id": 98303,
+                "subType": 3,
+                "index": 3,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            },
+            "4": {
+                "id": 98303,
+                "subType": 3,
+                "index": 4,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            },
+            "5": {
+                "id": 98303,
+                "subType": 3,
+                "index": 5,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            },
+            "6": {
+                "id": 98303,
+                "subType": 3,
+                "index": 6,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            },
+            "7": {
+                "id": 98303,
+                "subType": 3,
+                "index": 7,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1070022,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1070042,
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    },
+    "99001": {
+        "1": {
+            "1": {
+                "id": 99001,
+                "subType": 1,
+                "index": 1,
+                "ticket": 1000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 99001,
+                "subType": 1,
+                "index": 2,
+                "ticket": 2000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ]
+            },
+            "3": {
+                "id": 99001,
+                "subType": 1,
+                "index": 3,
+                "ticket": 4000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ]
+            },
+            "4": {
+                "id": 99001,
+                "subType": 1,
+                "index": 4,
+                "ticket": 6000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ]
+            },
+            "5": {
+                "id": 99001,
+                "subType": 1,
+                "index": 5,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ]
+            }
+        },
+        "2": {
+            "1": {
+                "id": 99001,
+                "subType": 2,
+                "index": 1,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 99001,
+                "subType": 2,
+                "index": 2,
+                "ticket": 16000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "id": 99001,
+                "subType": 2,
+                "index": 3,
+                "ticket": 32000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ]
+            },
+            "4": {
+                "id": 99001,
+                "subType": 2,
+                "index": 4,
+                "ticket": 48000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ]
+            },
+            "5": {
+                "id": 99001,
+                "subType": 2,
+                "index": 5,
+                "ticket": 64000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ]
+            }
+        },
+        "3": {
+            "1": {
+                "id": 99001,
+                "subType": 3,
+                "index": 1,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            },
+            "2": {
+                "id": 99001,
+                "subType": 3,
+                "index": 2,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            },
+            "3": {
+                "id": 99001,
+                "subType": 3,
+                "index": 3,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            },
+            "4": {
+                "id": 99001,
+                "subType": 3,
+                "index": 4,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            },
+            "5": {
+                "id": 99001,
+                "subType": 3,
+                "index": 5,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            },
+            "6": {
+                "id": 99001,
+                "subType": 3,
+                "index": 6,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            },
+            "7": {
+                "id": 99001,
+                "subType": 3,
+                "index": 7,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    },
+    "99003": {
+        "1": {
+            "1": {
+                "id": 99003,
+                "subType": 1,
+                "index": 1,
+                "ticket": 1000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051004,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 99003,
+                "subType": 1,
+                "index": 2,
+                "ticket": 2000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 5
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 15
+                    }
+                ]
+            },
+            "3": {
+                "id": 99003,
+                "subType": 1,
+                "index": 3,
+                "ticket": 4000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 2
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 10
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    }
+                ]
+            },
+            "4": {
+                "id": 99003,
+                "subType": 1,
+                "index": 4,
+                "ticket": 6000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 3
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 15
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    }
+                ]
+            },
+            "5": {
+                "id": 99003,
+                "subType": 1,
+                "index": 5,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 4
+                    },
+                    {
+                        "type": 1,
+                        "id": 1051005,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    }
+                ]
+            }
+        },
+        "2": {
+            "1": {
+                "id": 99003,
+                "subType": 2,
+                "index": 1,
+                "ticket": 8000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1051006,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 20
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 10
+                    }
+                ]
+            },
+            "2": {
+                "id": 99003,
+                "subType": 2,
+                "index": 2,
+                "ticket": 16000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052009,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 25
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 20
+                    }
+                ]
+            },
+            "3": {
+                "id": 99003,
+                "subType": 2,
+                "index": 3,
+                "ticket": 32000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050002,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 30
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 30
+                    }
+                ]
+            },
+            "4": {
+                "id": 99003,
+                "subType": 2,
+                "index": 4,
+                "ticket": 48000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1050003,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 35
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 40
+                    }
+                ]
+            },
+            "5": {
+                "id": 99003,
+                "subType": 2,
+                "index": 5,
+                "ticket": 64000,
+                "rewards1": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "type": 1,
+                        "id": 1052012,
+                        "count": 1
+                    },
+                    {
+                        "type": 1,
+                        "id": 369103,
+                        "count": 40
+                    },
+                    {
+                        "type": 1,
+                        "id": 310650,
+                        "count": 50
+                    }
+                ]
+            }
+        },
+        "3": {
+            "1": {
+                "id": 99003,
+                "subType": 3,
+                "index": 1,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            },
+            "2": {
+                "id": 99003,
+                "subType": 3,
+                "index": 2,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            },
+            "3": {
+                "id": 99003,
+                "subType": 3,
+                "index": 3,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            },
+            "4": {
+                "id": 99003,
+                "subType": 3,
+                "index": 4,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            },
+            "5": {
+                "id": 99003,
+                "subType": 3,
+                "index": 5,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            },
+            "6": {
+                "id": 99003,
+                "subType": 3,
+                "index": 6,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            },
+            "7": {
+                "id": 99003,
+                "subType": 3,
+                "index": 7,
+                "ticket": 0,
+                "rewards1": [
+                    {
+                        "id": 1060014,
+                        "count": 1
+                    }
+                ],
+                "rewards2": [
+                    {
+                        "id": 1060009,
+                        "count": 1
+                    }
+                ]
+            }
+        }
+    }
+}

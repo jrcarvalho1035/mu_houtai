@@ -1,0 +1,275 @@
+{
+    "1": {
+        "xlId": 1,
+        "ids": [
+            10001,
+            10002
+        ],
+        "name": [
+            "Golden",
+            "Fantasy",
+            "Saint"
+        ],
+        "zsId": 10000
+    },
+    "2": {
+        "xlId": 2,
+        "ids": [
+            10101,
+            10102,
+            10103
+        ],
+        "name": [
+            "Demon Lord",
+            "Raven",
+            "Giant"
+        ],
+        "zsId": 10103
+    },
+    "3": {
+        "xlId": 3,
+        "ids": [
+            10201,
+            10202,
+            10203
+        ],
+        "name": [
+            "Hallow",
+            "Purgatory",
+            "Moon Chaser"
+        ],
+        "zsId": 10201
+    },
+    "4": {
+        "xlId": 4,
+        "ids": [
+            10301,
+            10302,
+            10303
+        ],
+        "name": [
+            "Courage",
+            "Reaping",
+            "Silver Wings"
+        ],
+        "zsId": 10203
+    },
+    "5": {
+        "xlId": 5,
+        "ids": [
+            10401,
+            10402,
+            10403,
+            10404
+        ],
+        "name": [
+            "Thunder",
+            "Demon Spirit",
+            "Azure Phantom"
+        ],
+        "zsId": 10301
+    },
+    "6": {
+        "xlId": 6,
+        "ids": [
+            10501,
+            10502,
+            10503,
+            10504
+        ],
+        "name": [
+            "Titan",
+            "Grudge",
+            "Oblivion"
+        ],
+        "zsId": 10303
+    },
+    "7": {
+        "xlId": 7,
+        "ids": [
+            10601,
+            10602,
+            10603,
+            10604
+        ],
+        "name": [
+            "Dragon Flame",
+            "Karma",
+            "Blade"
+        ],
+        "zsId": 10401
+    },
+    "8": {
+        "xlId": 8,
+        "ids": [
+            10701,
+            10702,
+            10703,
+            10704
+        ],
+        "name": [
+            "Hades",
+            "Sage",
+            "Storm"
+        ],
+        "zsId": 10501
+    },
+    "9": {
+        "xlId": 9,
+        "ids": [
+            10801,
+            10802,
+            10803,
+            10804
+        ],
+        "name": [
+            "Demogorgon",
+            "Destruction",
+            "Demon"
+        ],
+        "zsId": 10601
+    },
+    "10": {
+        "xlId": 10,
+        "ids": [
+            10901,
+            10902,
+            10903,
+            10904
+        ],
+        "name": [
+            "Zeus",
+            "Eternal",
+            "Deity"
+        ],
+        "zsId": 10701
+    },
+    "11": {
+        "xlId": 11,
+        "ids": [
+            11001,
+            11002,
+            11003,
+            11004,
+            11005
+        ],
+        "name": [
+            "Morning Star",
+            "Morning Star",
+            "Morning Star"
+        ],
+        "zsId": 10801
+    },
+    "12": {
+        "xlId": 12,
+        "ids": [
+            11101,
+            11102,
+            11103,
+            11104,
+            11105
+        ],
+        "name": [
+            "Waning Moon",
+            "Waning Moon",
+            "Waning Moon"
+        ],
+        "zsId": 10901
+    },
+    "13": {
+        "xlId": 13,
+        "ids": [
+            11201,
+            11202,
+            11203,
+            11204,
+            11205
+        ],
+        "name": [
+            "Sacred Sun",
+            "Sacred Sun",
+            "Sacred Sun"
+        ],
+        "zsId": 11001
+    },
+    "14": {
+        "xlId": 14,
+        "ids": [
+            11301,
+            11302,
+            11303,
+            11304,
+            11305
+        ],
+        "name": [
+            "Gust",
+            "Gust",
+            "Gust"
+        ],
+        "zsId": 11101
+    },
+    "15": {
+        "xlId": 15,
+        "ids": [
+            11401,
+            11402,
+            11403,
+            11404,
+            11405
+        ],
+        "name": [
+            "Blaze",
+            "Blaze",
+            "Blaze"
+        ],
+        "zsId": 11201
+    },
+    "16": {
+        "xlId": 16,
+        "ids": [
+            11501,
+            11502,
+            11503,
+            11504,
+            11505
+        ],
+        "name": [
+            "Massacre",
+            "Massacre",
+            "Massacre"
+        ],
+        "zsId": 11301
+    },
+    "17": {
+        "xlId": 17,
+        "ids": [
+            11601,
+            11602,
+            11603,
+            11604,
+            11605
+        ],
+        "name": [
+            "Emperor",
+            "Emperor",
+            "Emperor"
+        ],
+        "zsId": 11401
+    },
+    "18": {
+        "xlId": 18,
+        "ids": [
+            11701,
+            11702,
+            11703,
+            11704,
+            11705
+        ],
+        "name": [
+            "Skylord",
+            "Skylord",
+            "Skylord"
+        ],
+        "zsId": 11501
+    }
+}

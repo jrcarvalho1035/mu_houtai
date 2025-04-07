@@ -1,0 +1,926 @@
+{
+    "100": {
+        "id": 100,
+        "appearance": "weapon100"
+    },
+    "101": {
+        "id": 101,
+        "appearance": "weapon101"
+    },
+    "102": {
+        "id": 102,
+        "appearance": "weapon102"
+    },
+    "103": {
+        "id": 103,
+        "appearance": "weapon103"
+    },
+    "104": {
+        "id": 104,
+        "appearance": "weapon104"
+    },
+    "105": {
+        "id": 105,
+        "appearance": "weapon105"
+    },
+    "106": {
+        "id": 106,
+        "appearance": "weapon106"
+    },
+    "107": {
+        "id": 107,
+        "appearance": "weapon108"
+    },
+    "108": {
+        "id": 108,
+        "appearance": "weapon107"
+    },
+    "109": {
+        "id": 109,
+        "appearance": "weapon109"
+    },
+    "110": {
+        "id": 110,
+        "appearance": "weapon110"
+    },
+    "111": {
+        "id": 111,
+        "appearance": "weapon111"
+    },
+    "112": {
+        "id": 112,
+        "appearance": "weapon112"
+    },
+    "113": {
+        "id": 113,
+        "appearance": "weapon113"
+    },
+    "114": {
+        "id": 114,
+        "appearance": "weapon114"
+    },
+    "115": {
+        "id": 115,
+        "appearance": "weapon115"
+    },
+    "116": {
+        "id": 116,
+        "appearance": "weapon116"
+    },
+    "117": {
+        "id": 117,
+        "appearance": "weapon117"
+    },
+    "118": {
+        "id": 118,
+        "appearance": "weapon118"
+    },
+    "119": {
+        "id": 119,
+        "appearance": "weapon119"
+    },
+    "120": {
+        "id": 120,
+        "appearance": "weapon120"
+    },
+    "121": {
+        "id": 121,
+        "appearance": "weapon121"
+    },
+    "122": {
+        "id": 122,
+        "appearance": "weapon122"
+    },
+    "123": {
+        "id": 123,
+        "appearance": "weapon123"
+    },
+    "124": {
+        "id": 124,
+        "appearance": "weapon124"
+    },
+    "125": {
+        "id": 125,
+        "appearance": "weapon125"
+    },
+    "126": {
+        "id": 126,
+        "appearance": "weapon126"
+    },
+    "127": {
+        "id": 127,
+        "appearance": "weapon127"
+    },
+    "128": {
+        "id": 128,
+        "appearance": "weapon128"
+    },
+    "129": {
+        "id": 129,
+        "appearance": "weapon129"
+    },
+    "130": {
+        "id": 130,
+        "appearance": "weapon130"
+    },
+    "131": {
+        "id": 131,
+        "appearance": "weapon131"
+    },
+    "132": {
+        "id": 132,
+        "appearance": "weapon132"
+    },
+    "133": {
+        "id": 133,
+        "appearance": "weapon133"
+    },
+    "134": {
+        "id": 134,
+        "appearance": "weapon134"
+    },
+    "135": {
+        "id": 135,
+        "appearance": "weapon135"
+    },
+    "136": {
+        "id": 136,
+        "appearance": "weapon136"
+    },
+    "137": {
+        "id": 137,
+        "appearance": "weapon137"
+    },
+    "138": {
+        "id": 138,
+        "appearance": "weapon138"
+    },
+    "139": {
+        "id": 139,
+        "appearance": "weapon139"
+    },
+    "140": {
+        "id": 140,
+        "appearance": "weapon140"
+    },
+    "141": {
+        "id": 141,
+        "appearance": "weapon141"
+    },
+    "142": {
+        "id": 142,
+        "appearance": "weapon142"
+    },
+    "143": {
+        "id": 143,
+        "appearance": "weapon143"
+    },
+    "144": {
+        "id": 144,
+        "appearance": "weapon144"
+    },
+    "145": {
+        "id": 145,
+        "appearance": "weapon145"
+    },
+    "146": {
+        "id": 146,
+        "appearance": "weapon146"
+    },
+    "147": {
+        "id": 147,
+        "appearance": "weapon147"
+    },
+    "148": {
+        "id": 148,
+        "appearance": "weapon148"
+    },
+    "149": {
+        "id": 149,
+        "appearance": "weapon149"
+    },
+    "150": {
+        "id": 150,
+        "appearance": "weapon150"
+    },
+    "151": {
+        "id": 151,
+        "appearance": "weapon151"
+    },
+    "152": {
+        "id": 152,
+        "appearance": "weapon152"
+    },
+    "153": {
+        "id": 153,
+        "appearance": "weapon153"
+    },
+    "154": {
+        "id": 154,
+        "appearance": "weapon154"
+    },
+    "155": {
+        "id": 155,
+        "appearance": "weapon155"
+    },
+    "156": {
+        "id": 156,
+        "appearance": "weapon156"
+    },
+    "157": {
+        "id": 157,
+        "appearance": "weapon157"
+    },
+    "158": {
+        "id": 158,
+        "appearance": "weapon158"
+    },
+    "159": {
+        "id": 159,
+        "appearance": "weapon159"
+    },
+    "160": {
+        "id": 160,
+        "appearance": "weapon160"
+    },
+    "161": {
+        "id": 161,
+        "appearance": "weapon161"
+    },
+    "162": {
+        "id": 162,
+        "appearance": "weapon162"
+    },
+    "163": {
+        "id": 163,
+        "appearance": "weapon163"
+    },
+    "164": {
+        "id": 164,
+        "appearance": "weapon164"
+    },
+    "165": {
+        "id": 165,
+        "appearance": "weapon165"
+    },
+    "166": {
+        "id": 166,
+        "appearance": "weapon166"
+    },
+    "167": {
+        "id": 167,
+        "appearance": "weapon167"
+    },
+    "168": {
+        "id": 168,
+        "appearance": "weapon168"
+    },
+    "169": {
+        "id": 169,
+        "appearance": "weapon169"
+    },
+    "170": {
+        "id": 170,
+        "appearance": "weapon170"
+    },
+    "171": {
+        "id": 171,
+        "appearance": "weapon171"
+    },
+    "172": {
+        "id": 172,
+        "appearance": "weapon172"
+    },
+    "173": {
+        "id": 173,
+        "appearance": "weapon173"
+    },
+    "174": {
+        "id": 174,
+        "appearance": "weapon174"
+    },
+    "175": {
+        "id": 175,
+        "appearance": "weapon175"
+    },
+    "176": {
+        "id": 176,
+        "appearance": "weapon176"
+    },
+    "200": {
+        "id": 200,
+        "appearance": "weapon200"
+    },
+    "201": {
+        "id": 201,
+        "appearance": "weapon201"
+    },
+    "202": {
+        "id": 202,
+        "appearance": "weapon202"
+    },
+    "203": {
+        "id": 203,
+        "appearance": "weapon203"
+    },
+    "204": {
+        "id": 204,
+        "appearance": "weapon204"
+    },
+    "205": {
+        "id": 205,
+        "appearance": "weapon205"
+    },
+    "206": {
+        "id": 206,
+        "appearance": "weapon206"
+    },
+    "207": {
+        "id": 207,
+        "appearance": "weapon207"
+    },
+    "208": {
+        "id": 208,
+        "appearance": "weapon208"
+    },
+    "209": {
+        "id": 209,
+        "appearance": "weapon209"
+    },
+    "210": {
+        "id": 210,
+        "appearance": "weapon210"
+    },
+    "211": {
+        "id": 211,
+        "appearance": "weapon211"
+    },
+    "212": {
+        "id": 212,
+        "appearance": "weapon212"
+    },
+    "213": {
+        "id": 213,
+        "appearance": "weapon213"
+    },
+    "214": {
+        "id": 214,
+        "appearance": "weapon214"
+    },
+    "215": {
+        "id": 215,
+        "appearance": "weapon215"
+    },
+    "216": {
+        "id": 216,
+        "appearance": "weapon216"
+    },
+    "217": {
+        "id": 217,
+        "appearance": "weapon217"
+    },
+    "218": {
+        "id": 218,
+        "appearance": "weapon218"
+    },
+    "219": {
+        "id": 219,
+        "appearance": "weapon219"
+    },
+    "220": {
+        "id": 220,
+        "appearance": "weapon220"
+    },
+    "221": {
+        "id": 221,
+        "appearance": "weapon221"
+    },
+    "222": {
+        "id": 222,
+        "appearance": "weapon222"
+    },
+    "223": {
+        "id": 223,
+        "appearance": "weapon223"
+    },
+    "224": {
+        "id": 224,
+        "appearance": "weapon224"
+    },
+    "225": {
+        "id": 225,
+        "appearance": "weapon225"
+    },
+    "226": {
+        "id": 226,
+        "appearance": "weapon226"
+    },
+    "227": {
+        "id": 227,
+        "appearance": "weapon227"
+    },
+    "228": {
+        "id": 228,
+        "appearance": "weapon228"
+    },
+    "229": {
+        "id": 229,
+        "appearance": "weapon229"
+    },
+    "230": {
+        "id": 230,
+        "appearance": "weapon230"
+    },
+    "231": {
+        "id": 231,
+        "appearance": "weapon231"
+    },
+    "232": {
+        "id": 232,
+        "appearance": "weapon232"
+    },
+    "233": {
+        "id": 233,
+        "appearance": "weapon233"
+    },
+    "234": {
+        "id": 234,
+        "appearance": "weapon234"
+    },
+    "235": {
+        "id": 235,
+        "appearance": "weapon235"
+    },
+    "236": {
+        "id": 236,
+        "appearance": "weapon236"
+    },
+    "237": {
+        "id": 237,
+        "appearance": "weapon237"
+    },
+    "238": {
+        "id": 238,
+        "appearance": "weapon238"
+    },
+    "239": {
+        "id": 239,
+        "appearance": "weapon239"
+    },
+    "240": {
+        "id": 240,
+        "appearance": "weapon240"
+    },
+    "241": {
+        "id": 241,
+        "appearance": "weapon241"
+    },
+    "242": {
+        "id": 242,
+        "appearance": "weapon242"
+    },
+    "243": {
+        "id": 243,
+        "appearance": "weapon243"
+    },
+    "244": {
+        "id": 244,
+        "appearance": "weapon244"
+    },
+    "245": {
+        "id": 245,
+        "appearance": "weapon245"
+    },
+    "246": {
+        "id": 246,
+        "appearance": "weapon246"
+    },
+    "247": {
+        "id": 247,
+        "appearance": "weapon247"
+    },
+    "248": {
+        "id": 248,
+        "appearance": "weapon248"
+    },
+    "249": {
+        "id": 249,
+        "appearance": "weapon249"
+    },
+    "250": {
+        "id": 250,
+        "appearance": "weapon250"
+    },
+    "251": {
+        "id": 251,
+        "appearance": "weapon251"
+    },
+    "252": {
+        "id": 252,
+        "appearance": "weapon252"
+    },
+    "253": {
+        "id": 253,
+        "appearance": "weapon253"
+    },
+    "254": {
+        "id": 254,
+        "appearance": "weapon254"
+    },
+    "255": {
+        "id": 255,
+        "appearance": "weapon255"
+    },
+    "256": {
+        "id": 256,
+        "appearance": "weapon256"
+    },
+    "257": {
+        "id": 257,
+        "appearance": "weapon257"
+    },
+    "258": {
+        "id": 258,
+        "appearance": "weapon258"
+    },
+    "259": {
+        "id": 259,
+        "appearance": "weapon259"
+    },
+    "260": {
+        "id": 260,
+        "appearance": "weapon260"
+    },
+    "261": {
+        "id": 261,
+        "appearance": "weapon261"
+    },
+    "262": {
+        "id": 262,
+        "appearance": "weapon262"
+    },
+    "263": {
+        "id": 263,
+        "appearance": "weapon263"
+    },
+    "264": {
+        "id": 264,
+        "appearance": "weapon264"
+    },
+    "265": {
+        "id": 265,
+        "appearance": "weapon265"
+    },
+    "266": {
+        "id": 266,
+        "appearance": "weapon266"
+    },
+    "267": {
+        "id": 267,
+        "appearance": "weapon267"
+    },
+    "268": {
+        "id": 268,
+        "appearance": "weapon268"
+    },
+    "269": {
+        "id": 269,
+        "appearance": "weapon269"
+    },
+    "270": {
+        "id": 270,
+        "appearance": "weapon270"
+    },
+    "271": {
+        "id": 271,
+        "appearance": "weapon271"
+    },
+    "272": {
+        "id": 272,
+        "appearance": "weapon272"
+    },
+    "273": {
+        "id": 273,
+        "appearance": "weapon273"
+    },
+    "274": {
+        "id": 274,
+        "appearance": "weapon274"
+    },
+    "275": {
+        "id": 275,
+        "appearance": "weapon275"
+    },
+    "276": {
+        "id": 276,
+        "appearance": "weapon276"
+    },
+    "300": {
+        "id": 300,
+        "appearance": "weapon300"
+    },
+    "301": {
+        "id": 301,
+        "appearance": "weapon301"
+    },
+    "302": {
+        "id": 302,
+        "appearance": "weapon302"
+    },
+    "303": {
+        "id": 303,
+        "appearance": "weapon303"
+    },
+    "304": {
+        "id": 304,
+        "appearance": "weapon304"
+    },
+    "305": {
+        "id": 305,
+        "appearance": "weapon305"
+    },
+    "306": {
+        "id": 306,
+        "appearance": "weapon306"
+    },
+    "307": {
+        "id": 307,
+        "appearance": "weapon307"
+    },
+    "308": {
+        "id": 308,
+        "appearance": "weapon308"
+    },
+    "309": {
+        "id": 309,
+        "appearance": "weapon309"
+    },
+    "310": {
+        "id": 310,
+        "appearance": "weapon310"
+    },
+    "311": {
+        "id": 311,
+        "appearance": "weapon311"
+    },
+    "312": {
+        "id": 312,
+        "appearance": "weapon312"
+    },
+    "313": {
+        "id": 313,
+        "appearance": "weapon313"
+    },
+    "314": {
+        "id": 314,
+        "appearance": "weapon314"
+    },
+    "315": {
+        "id": 315,
+        "appearance": "weapon315"
+    },
+    "316": {
+        "id": 316,
+        "appearance": "weapon316"
+    },
+    "317": {
+        "id": 317,
+        "appearance": "weapon317"
+    },
+    "318": {
+        "id": 318,
+        "appearance": "weapon318"
+    },
+    "319": {
+        "id": 319,
+        "appearance": "weapon319"
+    },
+    "320": {
+        "id": 320,
+        "appearance": "weapon320"
+    },
+    "321": {
+        "id": 321,
+        "appearance": "weapon321"
+    },
+    "322": {
+        "id": 322,
+        "appearance": "weapon322"
+    },
+    "323": {
+        "id": 323,
+        "appearance": "weapon323"
+    },
+    "324": {
+        "id": 324,
+        "appearance": "weapon324"
+    },
+    "325": {
+        "id": 325,
+        "appearance": "weapon325"
+    },
+    "326": {
+        "id": 326,
+        "appearance": "weapon326"
+    },
+    "327": {
+        "id": 327,
+        "appearance": "weapon327"
+    },
+    "328": {
+        "id": 328,
+        "appearance": "weapon328"
+    },
+    "329": {
+        "id": 329,
+        "appearance": "weapon329"
+    },
+    "330": {
+        "id": 330,
+        "appearance": "weapon330"
+    },
+    "331": {
+        "id": 331,
+        "appearance": "weapon331"
+    },
+    "332": {
+        "id": 332,
+        "appearance": "weapon332"
+    },
+    "333": {
+        "id": 333,
+        "appearance": "weapon333"
+    },
+    "334": {
+        "id": 334,
+        "appearance": "weapon334"
+    },
+    "335": {
+        "id": 335,
+        "appearance": "weapon335"
+    },
+    "336": {
+        "id": 336,
+        "appearance": "weapon336"
+    },
+    "337": {
+        "id": 337,
+        "appearance": "weapon337"
+    },
+    "338": {
+        "id": 338,
+        "appearance": "weapon338"
+    },
+    "339": {
+        "id": 339,
+        "appearance": "weapon339"
+    },
+    "340": {
+        "id": 340,
+        "appearance": "weapon340"
+    },
+    "341": {
+        "id": 341,
+        "appearance": "weapon341"
+    },
+    "342": {
+        "id": 342,
+        "appearance": "weapon342"
+    },
+    "343": {
+        "id": 343,
+        "appearance": "weapon343"
+    },
+    "344": {
+        "id": 344,
+        "appearance": "weapon344"
+    },
+    "345": {
+        "id": 345,
+        "appearance": "weapon345"
+    },
+    "346": {
+        "id": 346,
+        "appearance": "weapon346"
+    },
+    "347": {
+        "id": 347,
+        "appearance": "weapon347"
+    },
+    "348": {
+        "id": 348,
+        "appearance": "weapon348"
+    },
+    "349": {
+        "id": 349,
+        "appearance": "weapon349"
+    },
+    "350": {
+        "id": 350,
+        "appearance": "weapon350"
+    },
+    "351": {
+        "id": 351,
+        "appearance": "weapon351"
+    },
+    "352": {
+        "id": 352,
+        "appearance": "weapon352"
+    },
+    "353": {
+        "id": 353,
+        "appearance": "weapon353"
+    },
+    "354": {
+        "id": 354,
+        "appearance": "weapon354"
+    },
+    "355": {
+        "id": 355,
+        "appearance": "weapon355"
+    },
+    "356": {
+        "id": 356,
+        "appearance": "weapon356"
+    },
+    "357": {
+        "id": 357,
+        "appearance": "weapon357"
+    },
+    "358": {
+        "id": 358,
+        "appearance": "weapon358"
+    },
+    "359": {
+        "id": 359,
+        "appearance": "weapon359"
+    },
+    "360": {
+        "id": 360,
+        "appearance": "weapon360"
+    },
+    "361": {
+        "id": 361,
+        "appearance": "weapon361"
+    },
+    "362": {
+        "id": 362,
+        "appearance": "weapon362"
+    },
+    "363": {
+        "id": 363,
+        "appearance": "weapon363"
+    },
+    "364": {
+        "id": 364,
+        "appearance": "weapon364"
+    },
+    "365": {
+        "id": 365,
+        "appearance": "weapon365"
+    },
+    "366": {
+        "id": 366,
+        "appearance": "weapon366"
+    },
+    "367": {
+        "id": 367,
+        "appearance": "weapon367"
+    },
+    "368": {
+        "id": 368,
+        "appearance": "weapon368"
+    },
+    "369": {
+        "id": 369,
+        "appearance": "weapon369"
+    },
+    "370": {
+        "id": 370,
+        "appearance": "weapon370"
+    },
+    "371": {
+        "id": 371,
+        "appearance": "weapon371"
+    },
+    "372": {
+        "id": 372,
+        "appearance": "weapon372"
+    },
+    "373": {
+        "id": 373,
+        "appearance": "weapon373"
+    },
+    "374": {
+        "id": 374,
+        "appearance": "weapon374"
+    },
+    "375": {
+        "id": 375,
+        "appearance": "weapon375"
+    },
+    "376": {
+        "id": 376,
+        "appearance": "weapon376"
+    }
+}

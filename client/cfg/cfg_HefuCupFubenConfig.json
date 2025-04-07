@@ -1,0 +1,134 @@
+{
+    "1": {
+        "id": 1,
+        "round": 0,
+        "fightGame": 0,
+        "fightTime": 0,
+        "betCount": 0,
+        "betGame": 0,
+        "pkName": "Registration Start",
+        "winBetRewards": []
+    },
+    "2": {
+        "id": 2,
+        "round": 0,
+        "fightGame": 0,
+        "fightTime": 0,
+        "betCount": 0,
+        "betGame": 0,
+        "pkName": "Registration Deadline",
+        "winBetRewards": []
+    },
+    "3": {
+        "id": 3,
+        "round": 1,
+        "fightGame": 3,
+        "fightTime": 60,
+        "betCount": 1000,
+        "betGame": 4,
+        "pkName": "64 to 32",
+        "winBetRewards": [
+            {
+                "type": 0,
+                "id": 39,
+                "count": 200
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "round": 2,
+        "fightGame": 3,
+        "fightTime": 60,
+        "betCount": 2000,
+        "betGame": 4,
+        "pkName": "32 to 16",
+        "winBetRewards": [
+            {
+                "type": 0,
+                "id": 39,
+                "count": 400
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "round": 3,
+        "fightGame": 3,
+        "fightTime": 60,
+        "betCount": 3000,
+        "betGame": 3,
+        "pkName": "16 to 8",
+        "winBetRewards": [
+            {
+                "type": 0,
+                "id": 39,
+                "count": 600
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "round": 4,
+        "fightGame": 3,
+        "fightTime": 60,
+        "betCount": 5000,
+        "betGame": 2,
+        "pkName": "8 to 4",
+        "winBetRewards": [
+            {
+                "type": 0,
+                "id": 39,
+                "count": 1000
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "round": 5,
+        "fightGame": 5,
+        "fightTime": 60,
+        "betCount": 6000,
+        "betGame": 1,
+        "pkName": "4 to 2",
+        "winBetRewards": [
+            {
+                "type": 0,
+                "id": 39,
+                "count": 1200
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "round": 6,
+        "fightGame": 5,
+        "fightTime": 60,
+        "betCount": 8000,
+        "betGame": 1,
+        "pkName": "2nd Runner-up Final",
+        "winBetRewards": [
+            {
+                "type": 0,
+                "id": 39,
+                "count": 1600
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "round": 7,
+        "fightGame": 5,
+        "fightTime": 60,
+        "betCount": 10000,
+        "betGame": 1,
+        "pkName": "Championship Final",
+        "winBetRewards": [
+            {
+                "type": 0,
+                "id": 39,
+                "count": 2000
+            }
+        ]
+    }
+}

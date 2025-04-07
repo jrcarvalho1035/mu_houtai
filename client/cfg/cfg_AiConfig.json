@@ -1,0 +1,3184 @@
+{
+    "1": {
+        "home_range": 5000,
+        "vision": 5000,
+        "patrolRadius": 70,
+        "skills": []
+    },
+    "2": {
+        "home_range": 5000,
+        "vision": 5000,
+        "patrolRadius": 70,
+        "skills": []
+    },
+    "3": {
+        "home_range": 5000,
+        "vision": 5000,
+        "patrolRadius": 70,
+        "skills": []
+    },
+    "4": {
+        "home_range": 5000,
+        "vision": 5000,
+        "patrolRadius": 70,
+        "skills": []
+    },
+    "5": {
+        "home_range": 5000,
+        "vision": 5000,
+        "patrolRadius": 0,
+        "skills": []
+    },
+    "11": {
+        "home_range": 0,
+        "vision": 8000,
+        "patrolRadius": 100,
+        "skills": []
+    },
+    "12": {
+        "home_range": 0,
+        "vision": 8000,
+        "patrolRadius": 100,
+        "skills": []
+    },
+    "13": {
+        "home_range": 0,
+        "vision": 8000,
+        "patrolRadius": 100,
+        "skills": []
+    },
+    "14": {
+        "home_range": 0,
+        "vision": 8000,
+        "patrolRadius": 100,
+        "skills": []
+    },
+    "21": {
+        "home_range": 0,
+        "vision": 8000,
+        "patrolRadius": 0,
+        "skills": []
+    },
+    "22": {
+        "home_range": 0,
+        "vision": 8000,
+        "patrolRadius": 0,
+        "skills": []
+    },
+    "23": {
+        "home_range": 0,
+        "vision": 8000,
+        "patrolRadius": 0,
+        "skills": []
+    },
+    "31": {
+        "home_range": 600,
+        "vision": 600,
+        "patrolRadius": 0,
+        "skills": []
+    },
+    "32": {
+        "home_range": 600,
+        "vision": 600,
+        "patrolRadius": 0,
+        "skills": []
+    },
+    "33": {
+        "home_range": 600,
+        "vision": 600,
+        "patrolRadius": 0,
+        "skills": []
+    },
+    "34": {
+        "home_range": 600,
+        "vision": 600,
+        "patrolRadius": 0,
+        "skills": []
+    },
+    "35": {
+        "home_range": 600,
+        "vision": 600,
+        "patrolRadius": 0,
+        "skills": []
+    },
+    "10001": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "10002": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50001
+            }
+        ]
+    },
+    "10003": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50004
+            }
+        ]
+    },
+    "10004": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50005
+            }
+        ]
+    },
+    "10005": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50006
+            }
+        ]
+    },
+    "10006": {
+        "home_range": 600,
+        "vision": 600,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "10007": {
+        "home_range": 600,
+        "vision": 600,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50007
+            }
+        ]
+    },
+    "10008": {
+        "home_range": 600,
+        "vision": 600,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "10009": {
+        "home_range": 600,
+        "vision": 600,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9310
+            }
+        ]
+    },
+    "10010": {
+        "home_range": 1500,
+        "vision": 1500,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "10105": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50006
+            }
+        ]
+    },
+    "11001": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9001
+            }
+        ]
+    },
+    "11002": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "11003": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9003
+            }
+        ]
+    },
+    "11004": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9004
+            }
+        ]
+    },
+    "11005": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "11006": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9006
+            }
+        ]
+    },
+    "11007": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9007
+            }
+        ]
+    },
+    "11008": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9008
+            }
+        ]
+    },
+    "11009": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9009
+            }
+        ]
+    },
+    "11010": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9010
+            }
+        ]
+    },
+    "11011": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9011
+            }
+        ]
+    },
+    "11012": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9012
+            }
+        ]
+    },
+    "11013": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9028
+            }
+        ]
+    },
+    "11014": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9014
+            }
+        ]
+    },
+    "11015": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9030
+            }
+        ]
+    },
+    "11101": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9001
+            }
+        ]
+    },
+    "11102": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "11103": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9003
+            }
+        ]
+    },
+    "11104": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9004
+            }
+        ]
+    },
+    "11105": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "11106": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9006
+            }
+        ]
+    },
+    "11107": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9007
+            }
+        ]
+    },
+    "11108": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9008
+            }
+        ]
+    },
+    "11109": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9009
+            }
+        ]
+    },
+    "11110": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9010
+            }
+        ]
+    },
+    "11111": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9011
+            }
+        ]
+    },
+    "11112": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9012
+            }
+        ]
+    },
+    "11113": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9028
+            }
+        ]
+    },
+    "12001": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50000
+            },
+            {
+                "id": 9101
+            }
+        ]
+    },
+    "12002": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50000
+            },
+            {
+                "id": 9102
+            }
+        ]
+    },
+    "12003": {
+        "home_range": 800,
+        "vision": 500,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50000
+            },
+            {
+                "id": 9103
+            }
+        ]
+    },
+    "12004": {
+        "home_range": 600,
+        "vision": 600,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "12005": {
+        "home_range": 1500,
+        "vision": 1500,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "13001": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9022
+            }
+        ]
+    },
+    "13002": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9023
+            }
+        ]
+    },
+    "13003": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9026
+            }
+        ]
+    },
+    "13004": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9025
+            }
+        ]
+    },
+    "13005": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9024
+            }
+        ]
+    },
+    "13006": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9027
+            }
+        ]
+    },
+    "13007": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "13008": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50005
+            }
+        ]
+    },
+    "13009": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9029
+            }
+        ]
+    },
+    "13010": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9028
+            }
+        ]
+    },
+    "13011": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9030
+            }
+        ]
+    },
+    "13012": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "13013": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9032
+            }
+        ]
+    },
+    "13014": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9033
+            }
+        ]
+    },
+    "13015": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9034
+            }
+        ]
+    },
+    "14001": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9001
+            }
+        ]
+    },
+    "14002": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9009
+            }
+        ]
+    },
+    "14003": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9006
+            }
+        ]
+    },
+    "14004": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "14005": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9033
+            }
+        ]
+    },
+    "14006": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "14007": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9023
+            }
+        ]
+    },
+    "14008": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9024
+            }
+        ]
+    },
+    "14009": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9022
+            }
+        ]
+    },
+    "14010": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "14011": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9001
+            }
+        ]
+    },
+    "14012": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9003
+            }
+        ]
+    },
+    "14013": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9010
+            }
+        ]
+    },
+    "14014": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9003
+            }
+        ]
+    },
+    "14015": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9023
+            }
+        ]
+    },
+    "14016": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "14017": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9029
+            }
+        ]
+    },
+    "14018": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "14019": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "14020": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9008
+            }
+        ]
+    },
+    "14021": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9006
+            }
+        ]
+    },
+    "14022": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9028
+            }
+        ]
+    },
+    "14023": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "14024": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "14025": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "14026": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "14027": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9004
+            }
+        ]
+    },
+    "14028": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9012
+            }
+        ]
+    },
+    "14029": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "14030": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9007
+            }
+        ]
+    },
+    "15001": {
+        "home_range": 400,
+        "vision": 150,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50004
+            }
+        ]
+    },
+    "16001": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9001
+            }
+        ]
+    },
+    "16002": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "16003": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9003
+            }
+        ]
+    },
+    "16004": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9004
+            }
+        ]
+    },
+    "16005": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "16006": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "16007": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "16008": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9008
+            }
+        ]
+    },
+    "16009": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9009
+            }
+        ]
+    },
+    "16010": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9009
+            }
+        ]
+    },
+    "16011": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9009
+            }
+        ]
+    },
+    "16012": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9009
+            }
+        ]
+    },
+    "16101": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "17001": {
+        "home_range": 0,
+        "vision": 150,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50008
+            }
+        ]
+    },
+    "18001": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9035
+            }
+        ]
+    },
+    "18002": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9036
+            }
+        ]
+    },
+    "19001": {
+        "home_range": 120,
+        "vision": 200,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "19002": {
+        "home_range": 120,
+        "vision": 200,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "19003": {
+        "home_range": 120,
+        "vision": 200,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "20001": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 50,
+        "skills": [
+            {
+                "id": 50002
+            }
+        ]
+    },
+    "21001": {
+        "home_range": 0,
+        "vision": 0,
+        "patrolRadius": 0,
+        "skills": []
+    },
+    "21002": {
+        "home_range": 0,
+        "vision": 0,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9350
+            }
+        ]
+    },
+    "22101": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 10001
+            }
+        ]
+    },
+    "22102": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 10002
+            }
+        ]
+    },
+    "22103": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 10003
+            }
+        ]
+    },
+    "22104": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 10004
+            }
+        ]
+    },
+    "22105": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 10005
+            }
+        ]
+    },
+    "22106": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 10006
+            }
+        ]
+    },
+    "22107": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 10007
+            }
+        ]
+    },
+    "22108": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 10008
+            }
+        ]
+    },
+    "22109": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 10009
+            }
+        ]
+    },
+    "22110": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 10010
+            }
+        ]
+    },
+    "22201": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10011
+            }
+        ]
+    },
+    "22202": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10012
+            }
+        ]
+    },
+    "22203": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10013
+            }
+        ]
+    },
+    "22204": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10014
+            }
+        ]
+    },
+    "22205": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10015
+            }
+        ]
+    },
+    "22206": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10016
+            }
+        ]
+    },
+    "22207": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10017
+            }
+        ]
+    },
+    "22208": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10018
+            }
+        ]
+    },
+    "22209": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10019
+            }
+        ]
+    },
+    "22210": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10020
+            }
+        ]
+    },
+    "22211": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10021
+            }
+        ]
+    },
+    "22212": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10022
+            }
+        ]
+    },
+    "22213": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10023
+            }
+        ]
+    },
+    "22214": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10024
+            }
+        ]
+    },
+    "22215": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10025
+            }
+        ]
+    },
+    "22216": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 10026
+            }
+        ]
+    },
+    "22301": {
+        "home_range": 1500,
+        "vision": 1500,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "22302": {
+        "home_range": 120,
+        "vision": 0,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9037
+            }
+        ]
+    },
+    "23001": {
+        "home_range": 30,
+        "vision": 0,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "23002": {
+        "home_range": 30,
+        "vision": 0,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50001
+            }
+        ]
+    },
+    "23003": {
+        "home_range": 30,
+        "vision": 0,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50004
+            }
+        ]
+    },
+    "23004": {
+        "home_range": 30,
+        "vision": 0,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50005
+            }
+        ]
+    },
+    "23005": {
+        "home_range": 30,
+        "vision": 0,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50006
+            }
+        ]
+    },
+    "23006": {
+        "home_range": 30,
+        "vision": 0,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "23007": {
+        "home_range": 30,
+        "vision": 0,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50007
+            }
+        ]
+    },
+    "24001": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9201
+            }
+        ]
+    },
+    "24002": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9202
+            }
+        ]
+    },
+    "24003": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9203
+            }
+        ]
+    },
+    "24004": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9204
+            }
+        ]
+    },
+    "24005": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9205
+            }
+        ]
+    },
+    "24006": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9206
+            }
+        ]
+    },
+    "24007": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9207
+            }
+        ]
+    },
+    "24008": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9208
+            }
+        ]
+    },
+    "24009": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9209
+            }
+        ]
+    },
+    "24010": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9210
+            }
+        ]
+    },
+    "24011": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9211
+            }
+        ]
+    },
+    "24012": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9212
+            }
+        ]
+    },
+    "24013": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9213
+            }
+        ]
+    },
+    "24014": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9214
+            }
+        ]
+    },
+    "24015": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9215
+            }
+        ]
+    },
+    "24016": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9216
+            }
+        ]
+    },
+    "25000": {
+        "home_range": 0,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50013
+            },
+            {
+                "id": 50009
+            }
+        ]
+    },
+    "25001": {
+        "home_range": 0,
+        "vision": 5000,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "25002": {
+        "home_range": 0,
+        "vision": 5000,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "25003": {
+        "home_range": 0,
+        "vision": 5000,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50010
+            }
+        ]
+    },
+    "25004": {
+        "home_range": 0,
+        "vision": 5000,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50011
+            }
+        ]
+    },
+    "25005": {
+        "home_range": 0,
+        "vision": 5000,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50012
+            }
+        ]
+    },
+    "26000": {
+        "home_range": 0,
+        "vision": 600,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50005
+            }
+        ]
+    },
+    "26001": {
+        "home_range": 0,
+        "vision": 600,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50014
+            },
+            {
+                "id": 50015
+            }
+        ]
+    },
+    "26002": {
+        "home_range": 0,
+        "vision": 600,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50016
+            },
+            {
+                "id": 50017
+            }
+        ]
+    },
+    "26003": {
+        "home_range": 800,
+        "vision": 800,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "26004": {
+        "home_range": 0,
+        "vision": 600,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9008
+            }
+        ]
+    },
+    "26005": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "26006": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "26007": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9014
+            }
+        ]
+    },
+    "26008": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9008
+            }
+        ]
+    },
+    "26009": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9009
+            }
+        ]
+    },
+    "26010": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9010
+            }
+        ]
+    },
+    "26011": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9011
+            }
+        ]
+    },
+    "26012": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 40101
+            }
+        ]
+    },
+    "26013": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 40102
+            }
+        ]
+    },
+    "26014": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 40103
+            }
+        ]
+    },
+    "26015": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 40104
+            }
+        ]
+    },
+    "26016": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 40105
+            }
+        ]
+    },
+    "26017": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 40106
+            }
+        ]
+    },
+    "26018": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 40107
+            }
+        ]
+    },
+    "26019": {
+        "home_range": 2000,
+        "vision": 2000,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "26021": {
+        "home_range": 2000,
+        "vision": 2000,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50004
+            }
+        ]
+    },
+    "26022": {
+        "home_range": 2000,
+        "vision": 2000,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50005
+            }
+        ]
+    },
+    "26023": {
+        "home_range": 600,
+        "vision": 600,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50000
+            }
+        ]
+    },
+    "26024": {
+        "home_range": 600,
+        "vision": 600,
+        "patrolRadius": 70,
+        "skills": [
+            {
+                "id": 50006
+            }
+        ]
+    },
+    "27001": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41101
+            }
+        ]
+    },
+    "27002": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41102
+            }
+        ]
+    },
+    "27003": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41103
+            }
+        ]
+    },
+    "27004": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41104
+            }
+        ]
+    },
+    "27005": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41105
+            }
+        ]
+    },
+    "27006": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41106
+            }
+        ]
+    },
+    "27007": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41201
+            }
+        ]
+    },
+    "27008": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41202
+            }
+        ]
+    },
+    "27009": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41203
+            }
+        ]
+    },
+    "27010": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41204
+            }
+        ]
+    },
+    "27011": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41205
+            }
+        ]
+    },
+    "27012": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41206
+            }
+        ]
+    },
+    "27013": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41207
+            }
+        ]
+    },
+    "27014": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41301
+            }
+        ]
+    },
+    "27015": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41302
+            }
+        ]
+    },
+    "27016": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41303
+            }
+        ]
+    },
+    "27017": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41304
+            }
+        ]
+    },
+    "27018": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41305
+            }
+        ]
+    },
+    "27019": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41306
+            }
+        ]
+    },
+    "27020": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41307
+            }
+        ]
+    },
+    "27021": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41401
+            }
+        ]
+    },
+    "27022": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41402
+            }
+        ]
+    },
+    "27023": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41403
+            }
+        ]
+    },
+    "27024": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41404
+            }
+        ]
+    },
+    "27025": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41405
+            }
+        ]
+    },
+    "27026": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41501
+            }
+        ]
+    },
+    "27027": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41502
+            }
+        ]
+    },
+    "27028": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41503
+            }
+        ]
+    },
+    "27029": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41504
+            }
+        ]
+    },
+    "27030": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41505
+            }
+        ]
+    },
+    "27031": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41601
+            }
+        ]
+    },
+    "27032": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41602
+            }
+        ]
+    },
+    "27033": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41603
+            }
+        ]
+    },
+    "27034": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41604
+            }
+        ]
+    },
+    "27035": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41605
+            }
+        ]
+    },
+    "27036": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41701
+            }
+        ]
+    },
+    "27037": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41702
+            }
+        ]
+    },
+    "27038": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41703
+            }
+        ]
+    },
+    "27039": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41704
+            }
+        ]
+    },
+    "27040": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41705
+            }
+        ]
+    },
+    "27041": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41801
+            }
+        ]
+    },
+    "27042": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41802
+            }
+        ]
+    },
+    "27043": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41803
+            }
+        ]
+    },
+    "27044": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41804
+            }
+        ]
+    },
+    "27045": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41805
+            }
+        ]
+    },
+    "27046": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41806
+            }
+        ]
+    },
+    "28000": {
+        "home_range": 100,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "28101": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "28102": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9014
+            }
+        ]
+    },
+    "28103": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9008
+            }
+        ]
+    },
+    "28201": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9009
+            }
+        ]
+    },
+    "28202": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9010
+            }
+        ]
+    },
+    "28203": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9011
+            }
+        ]
+    },
+    "28301": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9009
+            }
+        ]
+    },
+    "28302": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9010
+            }
+        ]
+    },
+    "28303": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9011
+            }
+        ]
+    },
+    "29001": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "29002": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9009
+            }
+        ]
+    },
+    "29003": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9001
+            }
+        ]
+    },
+    "29004": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9008
+            }
+        ]
+    },
+    "29005": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9014
+            }
+        ]
+    },
+    "29006": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9001
+            }
+        ]
+    },
+    "29007": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "29008": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9030
+            }
+        ]
+    },
+    "29009": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9004
+            }
+        ]
+    },
+    "29010": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9003
+            }
+        ]
+    },
+    "29011": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9030
+            }
+        ]
+    },
+    "29012": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "29013": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9008
+            }
+        ]
+    },
+    "29014": {
+        "home_range": 600,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9009
+            }
+        ]
+    },
+    "30000": {
+        "home_range": 2000,
+        "vision": 2000,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 50004
+            }
+        ]
+    },
+    "30001": {
+        "home_range": 0,
+        "vision": 0,
+        "patrolRadius": 0,
+        "skills": []
+    },
+    "86001": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41101
+            }
+        ]
+    },
+    "86002": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41102
+            }
+        ]
+    },
+    "86003": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41103
+            }
+        ]
+    },
+    "86004": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41104
+            }
+        ]
+    },
+    "86005": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 41104
+            }
+        ]
+    },
+    "87000": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42000
+            }
+        ]
+    },
+    "87001": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42001
+            }
+        ]
+    },
+    "87002": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42002
+            }
+        ]
+    },
+    "87003": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42003
+            }
+        ]
+    },
+    "87004": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42004
+            }
+        ]
+    },
+    "87100": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42100
+            }
+        ]
+    },
+    "87101": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42101
+            }
+        ]
+    },
+    "87102": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42102
+            }
+        ]
+    },
+    "87103": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42103
+            }
+        ]
+    },
+    "87104": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42104
+            }
+        ]
+    },
+    "88000": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42000
+            }
+        ]
+    },
+    "88001": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42001
+            }
+        ]
+    },
+    "88002": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42002
+            }
+        ]
+    },
+    "88003": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42003
+            }
+        ]
+    },
+    "88004": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42004
+            }
+        ]
+    },
+    "88005": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42100
+            }
+        ]
+    },
+    "88006": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42101
+            }
+        ]
+    },
+    "88007": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42102
+            }
+        ]
+    },
+    "88008": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42103
+            }
+        ]
+    },
+    "88009": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42104
+            }
+        ]
+    },
+    "88010": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42001
+            }
+        ]
+    },
+    "88011": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42002
+            }
+        ]
+    },
+    "88012": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42003
+            }
+        ]
+    },
+    "88013": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42004
+            }
+        ]
+    },
+    "88014": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42100
+            }
+        ]
+    },
+    "88015": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42101
+            }
+        ]
+    },
+    "88016": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42102
+            }
+        ]
+    },
+    "88017": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42103
+            }
+        ]
+    },
+    "88018": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42104
+            }
+        ]
+    },
+    "88019": {
+        "home_range": 200,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 42104
+            }
+        ]
+    },
+    "92001": {
+        "home_range": 100,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9002
+            }
+        ]
+    },
+    "92002": {
+        "home_range": 100,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    },
+    "93000": {
+        "home_range": 100,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9351
+            }
+        ]
+    },
+    "93001": {
+        "home_range": 100,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9352
+            }
+        ]
+    },
+    "93002": {
+        "home_range": 100,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9353
+            }
+        ]
+    },
+    "93003": {
+        "home_range": 100,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9354
+            }
+        ]
+    },
+    "93005": {
+        "home_range": 100,
+        "vision": 300,
+        "patrolRadius": 0,
+        "skills": [
+            {
+                "id": 9005
+            }
+        ]
+    }
+}

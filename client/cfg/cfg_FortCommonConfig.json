@@ -1,0 +1,54 @@
+{
+    "zjjl": [
+        {
+            "type": 0,
+            "id": 15,
+            "count": 30000
+        },
+        {
+            "type": 1,
+            "id": 310017,
+            "count": 8
+        },
+        {
+            "type": 1,
+            "id": 310014,
+            "count": 6
+        },
+        {
+            "type": 1,
+            "id": 310013,
+            "count": 6
+        }
+    ],
+    "dayCount": 2,
+    "topLeft": {
+        "x": 24,
+        "y": 16
+    },
+    "bottomRight": {
+        "x": 51,
+        "y": 29
+    },
+    "starTime1": [
+        12,
+        15,
+        0
+    ],
+    "endTime1": [
+        12,
+        25,
+        0
+    ],
+    "starTime2": [
+        19,
+        30,
+        0
+    ],
+    "endTime2": [
+        19,
+        40,
+        0
+    ],
+    "beforeTime": 900
+}

@@ -1,0 +1,4622 @@
+{
+    "1": {
+        "id": 1,
+        "sjId": 1,
+        "floor": 1,
+        "bossId": 97001,
+        "refreshpos": {
+            "x": 33,
+            "y": 52
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690002,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690004,
+                "count": 1
+            }
+        ],
+        "fbId": 99501
+    },
+    "2": {
+        "id": 2,
+        "sjId": 1,
+        "floor": 1,
+        "bossId": 97002,
+        "refreshpos": {
+            "x": 27,
+            "y": 16
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690002,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690004,
+                "count": 1
+            }
+        ],
+        "fbId": 99501
+    },
+    "3": {
+        "id": 3,
+        "sjId": 1,
+        "floor": 1,
+        "bossId": 97003,
+        "refreshpos": {
+            "x": 71,
+            "y": 16
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690002,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690004,
+                "count": 1
+            }
+        ],
+        "fbId": 99501
+    },
+    "4": {
+        "id": 4,
+        "sjId": 1,
+        "floor": 1,
+        "bossId": 97004,
+        "refreshpos": {
+            "x": 42,
+            "y": 85
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690002,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690004,
+                "count": 1
+            }
+        ],
+        "fbId": 99501
+    },
+    "5": {
+        "id": 5,
+        "sjId": 1,
+        "floor": 2,
+        "bossId": 97005,
+        "refreshpos": {
+            "x": 33,
+            "y": 52
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690013,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690014,
+                "count": 1
+            }
+        ],
+        "fbId": 99502
+    },
+    "6": {
+        "id": 6,
+        "sjId": 1,
+        "floor": 2,
+        "bossId": 97006,
+        "refreshpos": {
+            "x": 27,
+            "y": 16
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690013,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690014,
+                "count": 1
+            }
+        ],
+        "fbId": 99502
+    },
+    "7": {
+        "id": 7,
+        "sjId": 1,
+        "floor": 2,
+        "bossId": 97007,
+        "refreshpos": {
+            "x": 71,
+            "y": 16
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690013,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690014,
+                "count": 1
+            }
+        ],
+        "fbId": 99502
+    },
+    "8": {
+        "id": 8,
+        "sjId": 1,
+        "floor": 2,
+        "bossId": 97008,
+        "refreshpos": {
+            "x": 42,
+            "y": 85
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690013,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690014,
+                "count": 1
+            }
+        ],
+        "fbId": 99502
+    },
+    "9": {
+        "id": 9,
+        "sjId": 1,
+        "floor": 3,
+        "bossId": 97009,
+        "refreshpos": {
+            "x": 33,
+            "y": 52
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690013,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690014,
+                "count": 1
+            }
+        ],
+        "fbId": 99503
+    },
+    "10": {
+        "id": 10,
+        "sjId": 1,
+        "floor": 3,
+        "bossId": 97010,
+        "refreshpos": {
+            "x": 27,
+            "y": 16
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690013,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690014,
+                "count": 1
+            }
+        ],
+        "fbId": 99503
+    },
+    "11": {
+        "id": 11,
+        "sjId": 1,
+        "floor": 3,
+        "bossId": 97011,
+        "refreshpos": {
+            "x": 71,
+            "y": 16
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690013,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690014,
+                "count": 1
+            }
+        ],
+        "fbId": 99503
+    },
+    "12": {
+        "id": 12,
+        "sjId": 1,
+        "floor": 3,
+        "bossId": 97012,
+        "refreshpos": {
+            "x": 42,
+            "y": 85
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690013,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690014,
+                "count": 1
+            }
+        ],
+        "fbId": 99503
+    },
+    "13": {
+        "id": 13,
+        "sjId": 1,
+        "floor": 4,
+        "bossId": 97013,
+        "refreshpos": {
+            "x": 33,
+            "y": 52
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690021,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690022,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690023,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690024,
+                "count": 1
+            }
+        ],
+        "fbId": 99504
+    },
+    "14": {
+        "id": 14,
+        "sjId": 1,
+        "floor": 4,
+        "bossId": 97014,
+        "refreshpos": {
+            "x": 27,
+            "y": 16
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690021,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690022,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690023,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690024,
+                "count": 1
+            }
+        ],
+        "fbId": 99504
+    },
+    "15": {
+        "id": 15,
+        "sjId": 1,
+        "floor": 4,
+        "bossId": 97015,
+        "refreshpos": {
+            "x": 71,
+            "y": 16
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690021,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690022,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690023,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690024,
+                "count": 1
+            }
+        ],
+        "fbId": 99504
+    },
+    "16": {
+        "id": 16,
+        "sjId": 1,
+        "floor": 4,
+        "bossId": 97016,
+        "refreshpos": {
+            "x": 42,
+            "y": 85
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690021,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690022,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690023,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690024,
+                "count": 1
+            }
+        ],
+        "fbId": 99504
+    },
+    "17": {
+        "id": 17,
+        "sjId": 1,
+        "floor": 5,
+        "bossId": 97017,
+        "refreshpos": {
+            "x": 33,
+            "y": 52
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690021,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690022,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690023,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690024,
+                "count": 1
+            }
+        ],
+        "fbId": 99505
+    },
+    "18": {
+        "id": 18,
+        "sjId": 1,
+        "floor": 5,
+        "bossId": 97018,
+        "refreshpos": {
+            "x": 27,
+            "y": 16
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690021,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690022,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690023,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690024,
+                "count": 1
+            }
+        ],
+        "fbId": 99505
+    },
+    "19": {
+        "id": 19,
+        "sjId": 1,
+        "floor": 5,
+        "bossId": 97019,
+        "refreshpos": {
+            "x": 71,
+            "y": 16
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690021,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690022,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690023,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690024,
+                "count": 1
+            }
+        ],
+        "fbId": 99505
+    },
+    "20": {
+        "id": 20,
+        "sjId": 1,
+        "floor": 5,
+        "bossId": 97020,
+        "refreshpos": {
+            "x": 42,
+            "y": 85
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690021,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690022,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690023,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690024,
+                "count": 1
+            }
+        ],
+        "fbId": 99505
+    },
+    "21": {
+        "id": 21,
+        "sjId": 2,
+        "floor": 1,
+        "bossId": 97021,
+        "refreshpos": {
+            "x": 14,
+            "y": 40
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690101,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690102,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690103,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690104,
+                "count": 1
+            }
+        ],
+        "fbId": 99506
+    },
+    "22": {
+        "id": 22,
+        "sjId": 2,
+        "floor": 1,
+        "bossId": 97022,
+        "refreshpos": {
+            "x": 66,
+            "y": 53
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690101,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690102,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690103,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690104,
+                "count": 1
+            }
+        ],
+        "fbId": 99506
+    },
+    "23": {
+        "id": 23,
+        "sjId": 2,
+        "floor": 1,
+        "bossId": 97023,
+        "refreshpos": {
+            "x": 103,
+            "y": 40
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690101,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690102,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690103,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690104,
+                "count": 1
+            }
+        ],
+        "fbId": 99506
+    },
+    "24": {
+        "id": 24,
+        "sjId": 2,
+        "floor": 1,
+        "bossId": 97024,
+        "refreshpos": {
+            "x": 82,
+            "y": 25
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690101,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690102,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690103,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690104,
+                "count": 1
+            }
+        ],
+        "fbId": 99506
+    },
+    "25": {
+        "id": 25,
+        "sjId": 2,
+        "floor": 2,
+        "bossId": 97025,
+        "refreshpos": {
+            "x": 14,
+            "y": 40
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690111,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690112,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690113,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690114,
+                "count": 1
+            }
+        ],
+        "fbId": 99507
+    },
+    "26": {
+        "id": 26,
+        "sjId": 2,
+        "floor": 2,
+        "bossId": 97026,
+        "refreshpos": {
+            "x": 66,
+            "y": 53
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690111,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690112,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690113,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690114,
+                "count": 1
+            }
+        ],
+        "fbId": 99507
+    },
+    "27": {
+        "id": 27,
+        "sjId": 2,
+        "floor": 2,
+        "bossId": 97027,
+        "refreshpos": {
+            "x": 103,
+            "y": 40
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690111,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690112,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690113,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690114,
+                "count": 1
+            }
+        ],
+        "fbId": 99507
+    },
+    "28": {
+        "id": 28,
+        "sjId": 2,
+        "floor": 2,
+        "bossId": 97028,
+        "refreshpos": {
+            "x": 82,
+            "y": 25
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690111,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690112,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690113,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690114,
+                "count": 1
+            }
+        ],
+        "fbId": 99507
+    },
+    "29": {
+        "id": 29,
+        "sjId": 2,
+        "floor": 3,
+        "bossId": 97029,
+        "refreshpos": {
+            "x": 14,
+            "y": 40
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690111,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690112,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690113,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690114,
+                "count": 1
+            }
+        ],
+        "fbId": 99508
+    },
+    "30": {
+        "id": 30,
+        "sjId": 2,
+        "floor": 3,
+        "bossId": 97030,
+        "refreshpos": {
+            "x": 66,
+            "y": 53
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690111,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690112,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690113,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690114,
+                "count": 1
+            }
+        ],
+        "fbId": 99508
+    },
+    "31": {
+        "id": 31,
+        "sjId": 2,
+        "floor": 3,
+        "bossId": 97031,
+        "refreshpos": {
+            "x": 103,
+            "y": 40
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690111,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690112,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690113,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690114,
+                "count": 1
+            }
+        ],
+        "fbId": 99508
+    },
+    "32": {
+        "id": 32,
+        "sjId": 2,
+        "floor": 3,
+        "bossId": 97032,
+        "refreshpos": {
+            "x": 82,
+            "y": 25
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690111,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690112,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690113,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690114,
+                "count": 1
+            }
+        ],
+        "fbId": 99508
+    },
+    "33": {
+        "id": 33,
+        "sjId": 2,
+        "floor": 4,
+        "bossId": 97033,
+        "refreshpos": {
+            "x": 14,
+            "y": 40
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690121,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690122,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690123,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690124,
+                "count": 1
+            }
+        ],
+        "fbId": 99509
+    },
+    "34": {
+        "id": 34,
+        "sjId": 2,
+        "floor": 4,
+        "bossId": 97034,
+        "refreshpos": {
+            "x": 66,
+            "y": 53
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690121,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690122,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690123,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690124,
+                "count": 1
+            }
+        ],
+        "fbId": 99509
+    },
+    "35": {
+        "id": 35,
+        "sjId": 2,
+        "floor": 4,
+        "bossId": 97035,
+        "refreshpos": {
+            "x": 103,
+            "y": 40
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690121,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690122,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690123,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690124,
+                "count": 1
+            }
+        ],
+        "fbId": 99509
+    },
+    "36": {
+        "id": 36,
+        "sjId": 2,
+        "floor": 4,
+        "bossId": 97036,
+        "refreshpos": {
+            "x": 82,
+            "y": 25
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690121,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690122,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690123,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690124,
+                "count": 1
+            }
+        ],
+        "fbId": 99509
+    },
+    "37": {
+        "id": 37,
+        "sjId": 2,
+        "floor": 5,
+        "bossId": 97037,
+        "refreshpos": {
+            "x": 14,
+            "y": 40
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690121,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690122,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690123,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690124,
+                "count": 1
+            }
+        ],
+        "fbId": 99510
+    },
+    "38": {
+        "id": 38,
+        "sjId": 2,
+        "floor": 5,
+        "bossId": 97038,
+        "refreshpos": {
+            "x": 66,
+            "y": 53
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690121,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690122,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690123,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690124,
+                "count": 1
+            }
+        ],
+        "fbId": 99510
+    },
+    "39": {
+        "id": 39,
+        "sjId": 2,
+        "floor": 5,
+        "bossId": 97039,
+        "refreshpos": {
+            "x": 103,
+            "y": 40
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690121,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690122,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690123,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690124,
+                "count": 1
+            }
+        ],
+        "fbId": 99510
+    },
+    "40": {
+        "id": 40,
+        "sjId": 2,
+        "floor": 5,
+        "bossId": 97040,
+        "refreshpos": {
+            "x": 82,
+            "y": 25
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690121,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690122,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690123,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690124,
+                "count": 1
+            }
+        ],
+        "fbId": 99510
+    },
+    "41": {
+        "id": 41,
+        "sjId": 3,
+        "floor": 1,
+        "bossId": 97041,
+        "refreshpos": {
+            "x": 18,
+            "y": 42
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690201,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690202,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690203,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690204,
+                "count": 1
+            }
+        ],
+        "fbId": 99511
+    },
+    "42": {
+        "id": 42,
+        "sjId": 3,
+        "floor": 1,
+        "bossId": 97042,
+        "refreshpos": {
+            "x": 46,
+            "y": 76
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690201,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690202,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690203,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690204,
+                "count": 1
+            }
+        ],
+        "fbId": 99511
+    },
+    "43": {
+        "id": 43,
+        "sjId": 3,
+        "floor": 1,
+        "bossId": 97043,
+        "refreshpos": {
+            "x": 91,
+            "y": 59
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690201,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690202,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690203,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690204,
+                "count": 1
+            }
+        ],
+        "fbId": 99511
+    },
+    "44": {
+        "id": 44,
+        "sjId": 3,
+        "floor": 1,
+        "bossId": 97044,
+        "refreshpos": {
+            "x": 71,
+            "y": 32
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690201,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690202,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690203,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690204,
+                "count": 1
+            }
+        ],
+        "fbId": 99511
+    },
+    "45": {
+        "id": 45,
+        "sjId": 3,
+        "floor": 2,
+        "bossId": 97045,
+        "refreshpos": {
+            "x": 18,
+            "y": 42
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690211,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690212,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690213,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690214,
+                "count": 1
+            }
+        ],
+        "fbId": 99512
+    },
+    "46": {
+        "id": 46,
+        "sjId": 3,
+        "floor": 2,
+        "bossId": 97046,
+        "refreshpos": {
+            "x": 46,
+            "y": 76
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690211,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690212,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690213,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690214,
+                "count": 1
+            }
+        ],
+        "fbId": 99512
+    },
+    "47": {
+        "id": 47,
+        "sjId": 3,
+        "floor": 2,
+        "bossId": 97047,
+        "refreshpos": {
+            "x": 91,
+            "y": 59
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690211,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690212,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690213,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690214,
+                "count": 1
+            }
+        ],
+        "fbId": 99512
+    },
+    "48": {
+        "id": 48,
+        "sjId": 3,
+        "floor": 2,
+        "bossId": 97048,
+        "refreshpos": {
+            "x": 71,
+            "y": 32
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690211,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690212,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690213,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690214,
+                "count": 1
+            }
+        ],
+        "fbId": 99512
+    },
+    "49": {
+        "id": 49,
+        "sjId": 3,
+        "floor": 3,
+        "bossId": 97049,
+        "refreshpos": {
+            "x": 18,
+            "y": 42
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690211,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690212,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690213,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690214,
+                "count": 1
+            }
+        ],
+        "fbId": 99513
+    },
+    "50": {
+        "id": 50,
+        "sjId": 3,
+        "floor": 3,
+        "bossId": 97050,
+        "refreshpos": {
+            "x": 46,
+            "y": 76
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690211,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690212,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690213,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690214,
+                "count": 1
+            }
+        ],
+        "fbId": 99513
+    },
+    "51": {
+        "id": 51,
+        "sjId": 3,
+        "floor": 3,
+        "bossId": 97051,
+        "refreshpos": {
+            "x": 91,
+            "y": 59
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690211,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690212,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690213,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690214,
+                "count": 1
+            }
+        ],
+        "fbId": 99513
+    },
+    "52": {
+        "id": 52,
+        "sjId": 3,
+        "floor": 3,
+        "bossId": 97052,
+        "refreshpos": {
+            "x": 71,
+            "y": 32
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690211,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690212,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690213,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690214,
+                "count": 1
+            }
+        ],
+        "fbId": 99513
+    },
+    "53": {
+        "id": 53,
+        "sjId": 3,
+        "floor": 4,
+        "bossId": 97053,
+        "refreshpos": {
+            "x": 18,
+            "y": 42
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690221,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690222,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690223,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690224,
+                "count": 1
+            }
+        ],
+        "fbId": 99514
+    },
+    "54": {
+        "id": 54,
+        "sjId": 3,
+        "floor": 4,
+        "bossId": 97054,
+        "refreshpos": {
+            "x": 46,
+            "y": 76
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690221,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690222,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690223,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690224,
+                "count": 1
+            }
+        ],
+        "fbId": 99514
+    },
+    "55": {
+        "id": 55,
+        "sjId": 3,
+        "floor": 4,
+        "bossId": 97055,
+        "refreshpos": {
+            "x": 91,
+            "y": 59
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690221,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690222,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690223,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690224,
+                "count": 1
+            }
+        ],
+        "fbId": 99514
+    },
+    "56": {
+        "id": 56,
+        "sjId": 3,
+        "floor": 4,
+        "bossId": 97056,
+        "refreshpos": {
+            "x": 71,
+            "y": 32
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690221,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690222,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690223,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690224,
+                "count": 1
+            }
+        ],
+        "fbId": 99514
+    },
+    "57": {
+        "id": 57,
+        "sjId": 3,
+        "floor": 5,
+        "bossId": 97057,
+        "refreshpos": {
+            "x": 18,
+            "y": 42
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690221,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690222,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690223,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690224,
+                "count": 1
+            }
+        ],
+        "fbId": 99515
+    },
+    "58": {
+        "id": 58,
+        "sjId": 3,
+        "floor": 5,
+        "bossId": 97058,
+        "refreshpos": {
+            "x": 46,
+            "y": 76
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690221,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690222,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690223,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690224,
+                "count": 1
+            }
+        ],
+        "fbId": 99515
+    },
+    "59": {
+        "id": 59,
+        "sjId": 3,
+        "floor": 5,
+        "bossId": 97059,
+        "refreshpos": {
+            "x": 91,
+            "y": 59
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690221,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690222,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690223,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690224,
+                "count": 1
+            }
+        ],
+        "fbId": 99515
+    },
+    "60": {
+        "id": 60,
+        "sjId": 3,
+        "floor": 5,
+        "bossId": 97060,
+        "refreshpos": {
+            "x": 71,
+            "y": 32
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690221,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690222,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690223,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690224,
+                "count": 1
+            }
+        ],
+        "fbId": 99515
+    },
+    "61": {
+        "id": 61,
+        "sjId": 4,
+        "floor": 1,
+        "bossId": 97061,
+        "refreshpos": {
+            "x": 56,
+            "y": 69
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690301,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690302,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690303,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690304,
+                "count": 1
+            }
+        ],
+        "fbId": 99516
+    },
+    "62": {
+        "id": 62,
+        "sjId": 4,
+        "floor": 1,
+        "bossId": 97062,
+        "refreshpos": {
+            "x": 32,
+            "y": 36
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690301,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690302,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690303,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690304,
+                "count": 1
+            }
+        ],
+        "fbId": 99516
+    },
+    "63": {
+        "id": 63,
+        "sjId": 4,
+        "floor": 1,
+        "bossId": 97063,
+        "refreshpos": {
+            "x": 108,
+            "y": 20
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690301,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690302,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690303,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690304,
+                "count": 1
+            }
+        ],
+        "fbId": 99516
+    },
+    "64": {
+        "id": 64,
+        "sjId": 4,
+        "floor": 1,
+        "bossId": 97064,
+        "refreshpos": {
+            "x": 114,
+            "y": 60
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690301,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690302,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690303,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690304,
+                "count": 1
+            }
+        ],
+        "fbId": 99516
+    },
+    "65": {
+        "id": 65,
+        "sjId": 4,
+        "floor": 2,
+        "bossId": 97065,
+        "refreshpos": {
+            "x": 56,
+            "y": 69
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690311,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690312,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690313,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690314,
+                "count": 1
+            }
+        ],
+        "fbId": 99517
+    },
+    "66": {
+        "id": 66,
+        "sjId": 4,
+        "floor": 2,
+        "bossId": 97066,
+        "refreshpos": {
+            "x": 32,
+            "y": 36
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690311,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690312,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690313,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690314,
+                "count": 1
+            }
+        ],
+        "fbId": 99517
+    },
+    "67": {
+        "id": 67,
+        "sjId": 4,
+        "floor": 2,
+        "bossId": 97067,
+        "refreshpos": {
+            "x": 108,
+            "y": 20
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690311,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690312,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690313,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690314,
+                "count": 1
+            }
+        ],
+        "fbId": 99517
+    },
+    "68": {
+        "id": 68,
+        "sjId": 4,
+        "floor": 2,
+        "bossId": 97068,
+        "refreshpos": {
+            "x": 114,
+            "y": 60
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690311,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690312,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690313,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690314,
+                "count": 1
+            }
+        ],
+        "fbId": 99517
+    },
+    "69": {
+        "id": 69,
+        "sjId": 4,
+        "floor": 3,
+        "bossId": 97069,
+        "refreshpos": {
+            "x": 56,
+            "y": 69
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690311,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690312,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690313,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690314,
+                "count": 1
+            }
+        ],
+        "fbId": 99518
+    },
+    "70": {
+        "id": 70,
+        "sjId": 4,
+        "floor": 3,
+        "bossId": 97070,
+        "refreshpos": {
+            "x": 32,
+            "y": 36
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690311,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690312,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690313,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690314,
+                "count": 1
+            }
+        ],
+        "fbId": 99518
+    },
+    "71": {
+        "id": 71,
+        "sjId": 4,
+        "floor": 3,
+        "bossId": 97071,
+        "refreshpos": {
+            "x": 108,
+            "y": 20
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690311,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690312,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690313,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690314,
+                "count": 1
+            }
+        ],
+        "fbId": 99518
+    },
+    "72": {
+        "id": 72,
+        "sjId": 4,
+        "floor": 3,
+        "bossId": 97072,
+        "refreshpos": {
+            "x": 114,
+            "y": 60
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690311,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690312,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690313,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690314,
+                "count": 1
+            }
+        ],
+        "fbId": 99518
+    },
+    "73": {
+        "id": 73,
+        "sjId": 4,
+        "floor": 4,
+        "bossId": 97073,
+        "refreshpos": {
+            "x": 56,
+            "y": 69
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690321,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690322,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690323,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690324,
+                "count": 1
+            }
+        ],
+        "fbId": 99519
+    },
+    "74": {
+        "id": 74,
+        "sjId": 4,
+        "floor": 4,
+        "bossId": 97074,
+        "refreshpos": {
+            "x": 32,
+            "y": 36
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690321,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690322,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690323,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690324,
+                "count": 1
+            }
+        ],
+        "fbId": 99519
+    },
+    "75": {
+        "id": 75,
+        "sjId": 4,
+        "floor": 4,
+        "bossId": 97075,
+        "refreshpos": {
+            "x": 108,
+            "y": 20
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690321,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690322,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690323,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690324,
+                "count": 1
+            }
+        ],
+        "fbId": 99519
+    },
+    "76": {
+        "id": 76,
+        "sjId": 4,
+        "floor": 4,
+        "bossId": 97076,
+        "refreshpos": {
+            "x": 114,
+            "y": 60
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690321,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690322,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690323,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690324,
+                "count": 1
+            }
+        ],
+        "fbId": 99519
+    },
+    "77": {
+        "id": 77,
+        "sjId": 4,
+        "floor": 5,
+        "bossId": 97077,
+        "refreshpos": {
+            "x": 56,
+            "y": 69
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690321,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690322,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690323,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690324,
+                "count": 1
+            }
+        ],
+        "fbId": 99520
+    },
+    "78": {
+        "id": 78,
+        "sjId": 4,
+        "floor": 5,
+        "bossId": 97078,
+        "refreshpos": {
+            "x": 32,
+            "y": 36
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690321,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690322,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690323,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690324,
+                "count": 1
+            }
+        ],
+        "fbId": 99520
+    },
+    "79": {
+        "id": 79,
+        "sjId": 4,
+        "floor": 5,
+        "bossId": 97079,
+        "refreshpos": {
+            "x": 108,
+            "y": 20
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690321,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690322,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690323,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690324,
+                "count": 1
+            }
+        ],
+        "fbId": 99520
+    },
+    "80": {
+        "id": 80,
+        "sjId": 4,
+        "floor": 5,
+        "bossId": 97080,
+        "refreshpos": {
+            "x": 114,
+            "y": 60
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690321,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690322,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690323,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690324,
+                "count": 1
+            }
+        ],
+        "fbId": 99520
+    },
+    "81": {
+        "id": 81,
+        "sjId": 5,
+        "floor": 1,
+        "bossId": 97081,
+        "refreshpos": {
+            "x": 38,
+            "y": 23
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690401,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690402,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690403,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690404,
+                "count": 1
+            }
+        ],
+        "fbId": 99521
+    },
+    "82": {
+        "id": 82,
+        "sjId": 5,
+        "floor": 1,
+        "bossId": 97082,
+        "refreshpos": {
+            "x": 71,
+            "y": 7
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690401,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690402,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690403,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690404,
+                "count": 1
+            }
+        ],
+        "fbId": 99521
+    },
+    "83": {
+        "id": 83,
+        "sjId": 5,
+        "floor": 1,
+        "bossId": 97083,
+        "refreshpos": {
+            "x": 27,
+            "y": 69
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690401,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690402,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690403,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690404,
+                "count": 1
+            }
+        ],
+        "fbId": 99521
+    },
+    "84": {
+        "id": 84,
+        "sjId": 5,
+        "floor": 1,
+        "bossId": 97084,
+        "refreshpos": {
+            "x": 72,
+            "y": 79
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690401,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690402,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690403,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690404,
+                "count": 1
+            }
+        ],
+        "fbId": 99521
+    },
+    "85": {
+        "id": 85,
+        "sjId": 5,
+        "floor": 2,
+        "bossId": 97085,
+        "refreshpos": {
+            "x": 38,
+            "y": 23
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690411,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690412,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690413,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690414,
+                "count": 1
+            }
+        ],
+        "fbId": 99522
+    },
+    "86": {
+        "id": 86,
+        "sjId": 5,
+        "floor": 2,
+        "bossId": 97086,
+        "refreshpos": {
+            "x": 71,
+            "y": 7
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690411,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690412,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690413,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690414,
+                "count": 1
+            }
+        ],
+        "fbId": 99522
+    },
+    "87": {
+        "id": 87,
+        "sjId": 5,
+        "floor": 2,
+        "bossId": 97087,
+        "refreshpos": {
+            "x": 27,
+            "y": 69
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690411,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690412,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690413,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690414,
+                "count": 1
+            }
+        ],
+        "fbId": 99522
+    },
+    "88": {
+        "id": 88,
+        "sjId": 5,
+        "floor": 2,
+        "bossId": 97088,
+        "refreshpos": {
+            "x": 72,
+            "y": 79
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690411,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690412,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690413,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690414,
+                "count": 1
+            }
+        ],
+        "fbId": 99522
+    },
+    "89": {
+        "id": 89,
+        "sjId": 5,
+        "floor": 3,
+        "bossId": 97089,
+        "refreshpos": {
+            "x": 38,
+            "y": 23
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690411,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690412,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690413,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690414,
+                "count": 1
+            }
+        ],
+        "fbId": 99523
+    },
+    "90": {
+        "id": 90,
+        "sjId": 5,
+        "floor": 3,
+        "bossId": 97090,
+        "refreshpos": {
+            "x": 71,
+            "y": 7
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690411,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690412,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690413,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690414,
+                "count": 1
+            }
+        ],
+        "fbId": 99523
+    },
+    "91": {
+        "id": 91,
+        "sjId": 5,
+        "floor": 3,
+        "bossId": 97091,
+        "refreshpos": {
+            "x": 27,
+            "y": 69
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690411,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690412,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690413,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690414,
+                "count": 1
+            }
+        ],
+        "fbId": 99523
+    },
+    "92": {
+        "id": 92,
+        "sjId": 5,
+        "floor": 3,
+        "bossId": 97092,
+        "refreshpos": {
+            "x": 72,
+            "y": 79
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690411,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690412,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690413,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690414,
+                "count": 1
+            }
+        ],
+        "fbId": 99523
+    },
+    "93": {
+        "id": 93,
+        "sjId": 5,
+        "floor": 4,
+        "bossId": 97093,
+        "refreshpos": {
+            "x": 38,
+            "y": 23
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690421,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690422,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690423,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690424,
+                "count": 1
+            }
+        ],
+        "fbId": 99524
+    },
+    "94": {
+        "id": 94,
+        "sjId": 5,
+        "floor": 4,
+        "bossId": 97094,
+        "refreshpos": {
+            "x": 71,
+            "y": 7
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690421,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690422,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690423,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690424,
+                "count": 1
+            }
+        ],
+        "fbId": 99524
+    },
+    "95": {
+        "id": 95,
+        "sjId": 5,
+        "floor": 4,
+        "bossId": 97095,
+        "refreshpos": {
+            "x": 27,
+            "y": 69
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690421,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690422,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690423,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690424,
+                "count": 1
+            }
+        ],
+        "fbId": 99524
+    },
+    "96": {
+        "id": 96,
+        "sjId": 5,
+        "floor": 4,
+        "bossId": 97096,
+        "refreshpos": {
+            "x": 72,
+            "y": 79
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690421,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690422,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690423,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690424,
+                "count": 1
+            }
+        ],
+        "fbId": 99524
+    },
+    "97": {
+        "id": 97,
+        "sjId": 5,
+        "floor": 5,
+        "bossId": 97097,
+        "refreshpos": {
+            "x": 38,
+            "y": 23
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690421,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690422,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690423,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690424,
+                "count": 1
+            }
+        ],
+        "fbId": 99525
+    },
+    "98": {
+        "id": 98,
+        "sjId": 5,
+        "floor": 5,
+        "bossId": 97098,
+        "refreshpos": {
+            "x": 71,
+            "y": 7
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690421,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690422,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690423,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690424,
+                "count": 1
+            }
+        ],
+        "fbId": 99525
+    },
+    "99": {
+        "id": 99,
+        "sjId": 5,
+        "floor": 5,
+        "bossId": 97099,
+        "refreshpos": {
+            "x": 27,
+            "y": 69
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690421,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690422,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690423,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690424,
+                "count": 1
+            }
+        ],
+        "fbId": 99525
+    },
+    "100": {
+        "id": 100,
+        "sjId": 5,
+        "floor": 5,
+        "bossId": 97100,
+        "refreshpos": {
+            "x": 72,
+            "y": 79
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690421,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690422,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690423,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690424,
+                "count": 1
+            }
+        ],
+        "fbId": 99525
+    },
+    "101": {
+        "id": 101,
+        "sjId": 6,
+        "floor": 1,
+        "bossId": 97101,
+        "refreshpos": {
+            "x": 63,
+            "y": 14
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690501,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690502,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690503,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690504,
+                "count": 1
+            }
+        ],
+        "fbId": 99526
+    },
+    "102": {
+        "id": 102,
+        "sjId": 6,
+        "floor": 1,
+        "bossId": 97102,
+        "refreshpos": {
+            "x": 52,
+            "y": 46
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690501,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690502,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690503,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690504,
+                "count": 1
+            }
+        ],
+        "fbId": 99526
+    },
+    "103": {
+        "id": 103,
+        "sjId": 6,
+        "floor": 1,
+        "bossId": 97103,
+        "refreshpos": {
+            "x": 94,
+            "y": 56
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690501,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690502,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690503,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690504,
+                "count": 1
+            }
+        ],
+        "fbId": 99526
+    },
+    "104": {
+        "id": 104,
+        "sjId": 6,
+        "floor": 1,
+        "bossId": 97104,
+        "refreshpos": {
+            "x": 111,
+            "y": 33
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690501,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690502,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690503,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690504,
+                "count": 1
+            }
+        ],
+        "fbId": 99526
+    },
+    "105": {
+        "id": 105,
+        "sjId": 6,
+        "floor": 2,
+        "bossId": 97105,
+        "refreshpos": {
+            "x": 63,
+            "y": 14
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690511,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690512,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690513,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690514,
+                "count": 1
+            }
+        ],
+        "fbId": 99527
+    },
+    "106": {
+        "id": 106,
+        "sjId": 6,
+        "floor": 2,
+        "bossId": 97106,
+        "refreshpos": {
+            "x": 52,
+            "y": 46
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690511,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690512,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690513,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690514,
+                "count": 1
+            }
+        ],
+        "fbId": 99527
+    },
+    "107": {
+        "id": 107,
+        "sjId": 6,
+        "floor": 2,
+        "bossId": 97107,
+        "refreshpos": {
+            "x": 94,
+            "y": 56
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690511,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690512,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690513,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690514,
+                "count": 1
+            }
+        ],
+        "fbId": 99527
+    },
+    "108": {
+        "id": 108,
+        "sjId": 6,
+        "floor": 2,
+        "bossId": 97108,
+        "refreshpos": {
+            "x": 111,
+            "y": 33
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690511,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690512,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690513,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690514,
+                "count": 1
+            }
+        ],
+        "fbId": 99527
+    },
+    "109": {
+        "id": 109,
+        "sjId": 6,
+        "floor": 3,
+        "bossId": 97109,
+        "refreshpos": {
+            "x": 63,
+            "y": 14
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690511,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690512,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690513,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690514,
+                "count": 1
+            }
+        ],
+        "fbId": 99528
+    },
+    "110": {
+        "id": 110,
+        "sjId": 6,
+        "floor": 3,
+        "bossId": 97110,
+        "refreshpos": {
+            "x": 52,
+            "y": 46
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690511,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690512,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690513,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690514,
+                "count": 1
+            }
+        ],
+        "fbId": 99528
+    },
+    "111": {
+        "id": 111,
+        "sjId": 6,
+        "floor": 3,
+        "bossId": 97111,
+        "refreshpos": {
+            "x": 94,
+            "y": 56
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690511,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690512,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690513,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690514,
+                "count": 1
+            }
+        ],
+        "fbId": 99528
+    },
+    "112": {
+        "id": 112,
+        "sjId": 6,
+        "floor": 3,
+        "bossId": 97112,
+        "refreshpos": {
+            "x": 111,
+            "y": 33
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690511,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690512,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690513,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690514,
+                "count": 1
+            }
+        ],
+        "fbId": 99528
+    },
+    "113": {
+        "id": 113,
+        "sjId": 6,
+        "floor": 4,
+        "bossId": 97113,
+        "refreshpos": {
+            "x": 63,
+            "y": 14
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690521,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690522,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690523,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690524,
+                "count": 1
+            }
+        ],
+        "fbId": 99529
+    },
+    "114": {
+        "id": 114,
+        "sjId": 6,
+        "floor": 4,
+        "bossId": 97114,
+        "refreshpos": {
+            "x": 52,
+            "y": 46
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690521,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690522,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690523,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690524,
+                "count": 1
+            }
+        ],
+        "fbId": 99529
+    },
+    "115": {
+        "id": 115,
+        "sjId": 6,
+        "floor": 4,
+        "bossId": 97115,
+        "refreshpos": {
+            "x": 94,
+            "y": 56
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690521,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690522,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690523,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690524,
+                "count": 1
+            }
+        ],
+        "fbId": 99529
+    },
+    "116": {
+        "id": 116,
+        "sjId": 6,
+        "floor": 4,
+        "bossId": 97116,
+        "refreshpos": {
+            "x": 111,
+            "y": 33
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690521,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690522,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690523,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690524,
+                "count": 1
+            }
+        ],
+        "fbId": 99529
+    },
+    "117": {
+        "id": 117,
+        "sjId": 6,
+        "floor": 5,
+        "bossId": 97117,
+        "refreshpos": {
+            "x": 63,
+            "y": 14
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690521,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690522,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690523,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690524,
+                "count": 1
+            }
+        ],
+        "fbId": 99530
+    },
+    "118": {
+        "id": 118,
+        "sjId": 6,
+        "floor": 5,
+        "bossId": 97118,
+        "refreshpos": {
+            "x": 52,
+            "y": 46
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690521,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690522,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690523,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690524,
+                "count": 1
+            }
+        ],
+        "fbId": 99530
+    },
+    "119": {
+        "id": 119,
+        "sjId": 6,
+        "floor": 5,
+        "bossId": 97119,
+        "refreshpos": {
+            "x": 94,
+            "y": 56
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690521,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690522,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690523,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690524,
+                "count": 1
+            }
+        ],
+        "fbId": 99530
+    },
+    "120": {
+        "id": 120,
+        "sjId": 6,
+        "floor": 5,
+        "bossId": 97120,
+        "refreshpos": {
+            "x": 111,
+            "y": 33
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690521,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690522,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690523,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690524,
+                "count": 1
+            }
+        ],
+        "fbId": 99530
+    },
+    "121": {
+        "id": 121,
+        "sjId": 7,
+        "floor": 1,
+        "bossId": 97121,
+        "refreshpos": {
+            "x": 17,
+            "y": 43
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690601,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690602,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690603,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690604,
+                "count": 1
+            }
+        ],
+        "fbId": 99531
+    },
+    "122": {
+        "id": 122,
+        "sjId": 7,
+        "floor": 1,
+        "bossId": 97122,
+        "refreshpos": {
+            "x": 39,
+            "y": 76
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690601,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690602,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690603,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690604,
+                "count": 1
+            }
+        ],
+        "fbId": 99531
+    },
+    "123": {
+        "id": 123,
+        "sjId": 7,
+        "floor": 1,
+        "bossId": 97123,
+        "refreshpos": {
+            "x": 78,
+            "y": 83
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690601,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690602,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690603,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690604,
+                "count": 1
+            }
+        ],
+        "fbId": 99531
+    },
+    "124": {
+        "id": 124,
+        "sjId": 7,
+        "floor": 1,
+        "bossId": 97124,
+        "refreshpos": {
+            "x": 101,
+            "y": 56
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690601,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690602,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690603,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690604,
+                "count": 1
+            }
+        ],
+        "fbId": 99531
+    },
+    "125": {
+        "id": 125,
+        "sjId": 7,
+        "floor": 2,
+        "bossId": 97125,
+        "refreshpos": {
+            "x": 17,
+            "y": 43
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690611,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690612,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690613,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690614,
+                "count": 1
+            }
+        ],
+        "fbId": 99532
+    },
+    "126": {
+        "id": 126,
+        "sjId": 7,
+        "floor": 2,
+        "bossId": 97126,
+        "refreshpos": {
+            "x": 39,
+            "y": 76
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690611,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690612,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690613,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690614,
+                "count": 1
+            }
+        ],
+        "fbId": 99532
+    },
+    "127": {
+        "id": 127,
+        "sjId": 7,
+        "floor": 2,
+        "bossId": 97127,
+        "refreshpos": {
+            "x": 78,
+            "y": 83
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690611,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690612,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690613,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690614,
+                "count": 1
+            }
+        ],
+        "fbId": 99532
+    },
+    "128": {
+        "id": 128,
+        "sjId": 7,
+        "floor": 2,
+        "bossId": 97128,
+        "refreshpos": {
+            "x": 101,
+            "y": 56
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690611,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690612,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690613,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690614,
+                "count": 1
+            }
+        ],
+        "fbId": 99532
+    },
+    "129": {
+        "id": 129,
+        "sjId": 7,
+        "floor": 3,
+        "bossId": 97129,
+        "refreshpos": {
+            "x": 17,
+            "y": 43
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690611,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690612,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690613,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690614,
+                "count": 1
+            }
+        ],
+        "fbId": 99533
+    },
+    "130": {
+        "id": 130,
+        "sjId": 7,
+        "floor": 3,
+        "bossId": 97130,
+        "refreshpos": {
+            "x": 39,
+            "y": 76
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690611,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690612,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690613,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690614,
+                "count": 1
+            }
+        ],
+        "fbId": 99533
+    },
+    "131": {
+        "id": 131,
+        "sjId": 7,
+        "floor": 3,
+        "bossId": 97131,
+        "refreshpos": {
+            "x": 78,
+            "y": 83
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690611,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690612,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690613,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690614,
+                "count": 1
+            }
+        ],
+        "fbId": 99533
+    },
+    "132": {
+        "id": 132,
+        "sjId": 7,
+        "floor": 3,
+        "bossId": 97132,
+        "refreshpos": {
+            "x": 101,
+            "y": 56
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690611,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690612,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690613,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690614,
+                "count": 1
+            }
+        ],
+        "fbId": 99533
+    },
+    "133": {
+        "id": 133,
+        "sjId": 7,
+        "floor": 4,
+        "bossId": 97133,
+        "refreshpos": {
+            "x": 17,
+            "y": 43
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690621,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690622,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690623,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690624,
+                "count": 1
+            }
+        ],
+        "fbId": 99534
+    },
+    "134": {
+        "id": 134,
+        "sjId": 7,
+        "floor": 4,
+        "bossId": 97134,
+        "refreshpos": {
+            "x": 39,
+            "y": 76
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690621,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690622,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690623,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690624,
+                "count": 1
+            }
+        ],
+        "fbId": 99534
+    },
+    "135": {
+        "id": 135,
+        "sjId": 7,
+        "floor": 4,
+        "bossId": 97135,
+        "refreshpos": {
+            "x": 78,
+            "y": 83
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690621,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690622,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690623,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690624,
+                "count": 1
+            }
+        ],
+        "fbId": 99534
+    },
+    "136": {
+        "id": 136,
+        "sjId": 7,
+        "floor": 4,
+        "bossId": 97136,
+        "refreshpos": {
+            "x": 101,
+            "y": 56
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690621,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690622,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690623,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690624,
+                "count": 1
+            }
+        ],
+        "fbId": 99534
+    },
+    "137": {
+        "id": 137,
+        "sjId": 7,
+        "floor": 5,
+        "bossId": 97137,
+        "refreshpos": {
+            "x": 17,
+            "y": 43
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690621,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690622,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690623,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690624,
+                "count": 1
+            }
+        ],
+        "fbId": 99535
+    },
+    "138": {
+        "id": 138,
+        "sjId": 7,
+        "floor": 5,
+        "bossId": 97138,
+        "refreshpos": {
+            "x": 39,
+            "y": 76
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690621,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690622,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690623,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690624,
+                "count": 1
+            }
+        ],
+        "fbId": 99535
+    },
+    "139": {
+        "id": 139,
+        "sjId": 7,
+        "floor": 5,
+        "bossId": 97139,
+        "refreshpos": {
+            "x": 78,
+            "y": 83
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690621,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690622,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690623,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690624,
+                "count": 1
+            }
+        ],
+        "fbId": 99535
+    },
+    "140": {
+        "id": 140,
+        "sjId": 7,
+        "floor": 5,
+        "bossId": 97140,
+        "refreshpos": {
+            "x": 101,
+            "y": 56
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 690621,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690622,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690623,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 690624,
+                "count": 1
+            }
+        ],
+        "fbId": 99535
+    }
+}

@@ -1,0 +1,2354 @@
+{
+    "690001": {
+        "id": 690001,
+        "targetId": 690011,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690002": {
+        "id": 690002,
+        "targetId": 690012,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690003": {
+        "id": 690003,
+        "targetId": 690013,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690004": {
+        "id": 690004,
+        "targetId": 690014,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690011": {
+        "id": 690011,
+        "targetId": 690021,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690012": {
+        "id": 690012,
+        "targetId": 690022,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690013": {
+        "id": 690013,
+        "targetId": 690023,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690014": {
+        "id": 690014,
+        "targetId": 690024,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690021": {
+        "id": 690021,
+        "targetId": 690031,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690022": {
+        "id": 690022,
+        "targetId": 690032,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690023": {
+        "id": 690023,
+        "targetId": 690033,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690024": {
+        "id": 690024,
+        "targetId": 690034,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690031": {
+        "id": 690031,
+        "targetId": 690041,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690032": {
+        "id": 690032,
+        "targetId": 690042,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690033": {
+        "id": 690033,
+        "targetId": 690043,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690034": {
+        "id": 690034,
+        "targetId": 690044,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690041": {
+        "id": 690041,
+        "targetId": 690051,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368001,
+                "count": 500
+            }
+        ]
+    },
+    "690042": {
+        "id": 690042,
+        "targetId": 690052,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368001,
+                "count": 500
+            }
+        ]
+    },
+    "690043": {
+        "id": 690043,
+        "targetId": 690053,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368001,
+                "count": 500
+            }
+        ]
+    },
+    "690044": {
+        "id": 690044,
+        "targetId": 690054,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368001,
+                "count": 500
+            }
+        ]
+    },
+    "690051": {
+        "id": 690051,
+        "targetId": 690061,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 1000
+            }
+        ]
+    },
+    "690052": {
+        "id": 690052,
+        "targetId": 690062,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 1000
+            }
+        ]
+    },
+    "690053": {
+        "id": 690053,
+        "targetId": 690063,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 1000
+            }
+        ]
+    },
+    "690054": {
+        "id": 690054,
+        "targetId": 690064,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 1000
+            }
+        ]
+    },
+    "690061": {
+        "id": 690061,
+        "targetId": 690071,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 3000
+            }
+        ]
+    },
+    "690062": {
+        "id": 690062,
+        "targetId": 690072,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 3000
+            }
+        ]
+    },
+    "690063": {
+        "id": 690063,
+        "targetId": 690073,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 3000
+            }
+        ]
+    },
+    "690064": {
+        "id": 690064,
+        "targetId": 690074,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 3000
+            }
+        ]
+    },
+    "690071": {
+        "id": 690071,
+        "targetId": 690081,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 10000
+            }
+        ]
+    },
+    "690072": {
+        "id": 690072,
+        "targetId": 690082,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 10000
+            }
+        ]
+    },
+    "690073": {
+        "id": 690073,
+        "targetId": 690083,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 10000
+            }
+        ]
+    },
+    "690074": {
+        "id": 690074,
+        "targetId": 690084,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 10000
+            }
+        ]
+    },
+    "690081": {
+        "id": 690081,
+        "targetId": 690091,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 30000
+            }
+        ]
+    },
+    "690082": {
+        "id": 690082,
+        "targetId": 690092,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 30000
+            }
+        ]
+    },
+    "690083": {
+        "id": 690083,
+        "targetId": 690093,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 30000
+            }
+        ]
+    },
+    "690084": {
+        "id": 690084,
+        "targetId": 690094,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368002,
+                "count": 30000
+            }
+        ]
+    },
+    "690101": {
+        "id": 690101,
+        "targetId": 690111,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690102": {
+        "id": 690102,
+        "targetId": 690112,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690103": {
+        "id": 690103,
+        "targetId": 690113,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690104": {
+        "id": 690104,
+        "targetId": 690114,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690111": {
+        "id": 690111,
+        "targetId": 690121,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690112": {
+        "id": 690112,
+        "targetId": 690122,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690113": {
+        "id": 690113,
+        "targetId": 690123,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690114": {
+        "id": 690114,
+        "targetId": 690124,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690121": {
+        "id": 690121,
+        "targetId": 690131,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690122": {
+        "id": 690122,
+        "targetId": 690132,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690123": {
+        "id": 690123,
+        "targetId": 690133,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690124": {
+        "id": 690124,
+        "targetId": 690134,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690131": {
+        "id": 690131,
+        "targetId": 690141,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690132": {
+        "id": 690132,
+        "targetId": 690142,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690133": {
+        "id": 690133,
+        "targetId": 690143,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690134": {
+        "id": 690134,
+        "targetId": 690144,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690141": {
+        "id": 690141,
+        "targetId": 690151,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368003,
+                "count": 500
+            }
+        ]
+    },
+    "690142": {
+        "id": 690142,
+        "targetId": 690152,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368003,
+                "count": 500
+            }
+        ]
+    },
+    "690143": {
+        "id": 690143,
+        "targetId": 690153,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368003,
+                "count": 500
+            }
+        ]
+    },
+    "690144": {
+        "id": 690144,
+        "targetId": 690154,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368003,
+                "count": 500
+            }
+        ]
+    },
+    "690151": {
+        "id": 690151,
+        "targetId": 690161,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 1000
+            }
+        ]
+    },
+    "690152": {
+        "id": 690152,
+        "targetId": 690162,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 1000
+            }
+        ]
+    },
+    "690153": {
+        "id": 690153,
+        "targetId": 690163,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 1000
+            }
+        ]
+    },
+    "690154": {
+        "id": 690154,
+        "targetId": 690164,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 1000
+            }
+        ]
+    },
+    "690161": {
+        "id": 690161,
+        "targetId": 690171,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 3000
+            }
+        ]
+    },
+    "690162": {
+        "id": 690162,
+        "targetId": 690172,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 3000
+            }
+        ]
+    },
+    "690163": {
+        "id": 690163,
+        "targetId": 690173,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 3000
+            }
+        ]
+    },
+    "690164": {
+        "id": 690164,
+        "targetId": 690174,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 3000
+            }
+        ]
+    },
+    "690171": {
+        "id": 690171,
+        "targetId": 690181,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 10000
+            }
+        ]
+    },
+    "690172": {
+        "id": 690172,
+        "targetId": 690182,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 10000
+            }
+        ]
+    },
+    "690173": {
+        "id": 690173,
+        "targetId": 690183,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 10000
+            }
+        ]
+    },
+    "690174": {
+        "id": 690174,
+        "targetId": 690184,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 10000
+            }
+        ]
+    },
+    "690181": {
+        "id": 690181,
+        "targetId": 690191,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 30000
+            }
+        ]
+    },
+    "690182": {
+        "id": 690182,
+        "targetId": 690192,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 30000
+            }
+        ]
+    },
+    "690183": {
+        "id": 690183,
+        "targetId": 690193,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 30000
+            }
+        ]
+    },
+    "690184": {
+        "id": 690184,
+        "targetId": 690194,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368004,
+                "count": 30000
+            }
+        ]
+    },
+    "690201": {
+        "id": 690201,
+        "targetId": 690211,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690202": {
+        "id": 690202,
+        "targetId": 690212,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690203": {
+        "id": 690203,
+        "targetId": 690213,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690204": {
+        "id": 690204,
+        "targetId": 690214,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690211": {
+        "id": 690211,
+        "targetId": 690221,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690212": {
+        "id": 690212,
+        "targetId": 690222,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690213": {
+        "id": 690213,
+        "targetId": 690223,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690214": {
+        "id": 690214,
+        "targetId": 690224,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690221": {
+        "id": 690221,
+        "targetId": 690231,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690222": {
+        "id": 690222,
+        "targetId": 690232,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690223": {
+        "id": 690223,
+        "targetId": 690233,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690224": {
+        "id": 690224,
+        "targetId": 690234,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690231": {
+        "id": 690231,
+        "targetId": 690241,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690232": {
+        "id": 690232,
+        "targetId": 690242,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690233": {
+        "id": 690233,
+        "targetId": 690243,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690234": {
+        "id": 690234,
+        "targetId": 690244,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690241": {
+        "id": 690241,
+        "targetId": 690251,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368005,
+                "count": 500
+            }
+        ]
+    },
+    "690242": {
+        "id": 690242,
+        "targetId": 690252,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368005,
+                "count": 500
+            }
+        ]
+    },
+    "690243": {
+        "id": 690243,
+        "targetId": 690253,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368005,
+                "count": 500
+            }
+        ]
+    },
+    "690244": {
+        "id": 690244,
+        "targetId": 690254,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368005,
+                "count": 500
+            }
+        ]
+    },
+    "690251": {
+        "id": 690251,
+        "targetId": 690261,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 1000
+            }
+        ]
+    },
+    "690252": {
+        "id": 690252,
+        "targetId": 690262,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 1000
+            }
+        ]
+    },
+    "690253": {
+        "id": 690253,
+        "targetId": 690263,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 1000
+            }
+        ]
+    },
+    "690254": {
+        "id": 690254,
+        "targetId": 690264,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 1000
+            }
+        ]
+    },
+    "690261": {
+        "id": 690261,
+        "targetId": 690271,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 3000
+            }
+        ]
+    },
+    "690262": {
+        "id": 690262,
+        "targetId": 690272,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 3000
+            }
+        ]
+    },
+    "690263": {
+        "id": 690263,
+        "targetId": 690273,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 3000
+            }
+        ]
+    },
+    "690264": {
+        "id": 690264,
+        "targetId": 690274,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 3000
+            }
+        ]
+    },
+    "690271": {
+        "id": 690271,
+        "targetId": 690281,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 10000
+            }
+        ]
+    },
+    "690272": {
+        "id": 690272,
+        "targetId": 690282,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 10000
+            }
+        ]
+    },
+    "690273": {
+        "id": 690273,
+        "targetId": 690283,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 10000
+            }
+        ]
+    },
+    "690274": {
+        "id": 690274,
+        "targetId": 690284,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 10000
+            }
+        ]
+    },
+    "690281": {
+        "id": 690281,
+        "targetId": 690291,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 30000
+            }
+        ]
+    },
+    "690282": {
+        "id": 690282,
+        "targetId": 690292,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 30000
+            }
+        ]
+    },
+    "690283": {
+        "id": 690283,
+        "targetId": 690293,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 30000
+            }
+        ]
+    },
+    "690284": {
+        "id": 690284,
+        "targetId": 690294,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368006,
+                "count": 30000
+            }
+        ]
+    },
+    "690301": {
+        "id": 690301,
+        "targetId": 690311,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690302": {
+        "id": 690302,
+        "targetId": 690312,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690303": {
+        "id": 690303,
+        "targetId": 690313,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690304": {
+        "id": 690304,
+        "targetId": 690314,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690311": {
+        "id": 690311,
+        "targetId": 690321,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690312": {
+        "id": 690312,
+        "targetId": 690322,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690313": {
+        "id": 690313,
+        "targetId": 690323,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690314": {
+        "id": 690314,
+        "targetId": 690324,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690321": {
+        "id": 690321,
+        "targetId": 690331,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690322": {
+        "id": 690322,
+        "targetId": 690332,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690323": {
+        "id": 690323,
+        "targetId": 690333,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690324": {
+        "id": 690324,
+        "targetId": 690334,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690331": {
+        "id": 690331,
+        "targetId": 690341,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690332": {
+        "id": 690332,
+        "targetId": 690342,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690333": {
+        "id": 690333,
+        "targetId": 690343,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690334": {
+        "id": 690334,
+        "targetId": 690344,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690341": {
+        "id": 690341,
+        "targetId": 690351,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368007,
+                "count": 500
+            }
+        ]
+    },
+    "690342": {
+        "id": 690342,
+        "targetId": 690352,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368007,
+                "count": 500
+            }
+        ]
+    },
+    "690343": {
+        "id": 690343,
+        "targetId": 690353,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368007,
+                "count": 500
+            }
+        ]
+    },
+    "690344": {
+        "id": 690344,
+        "targetId": 690354,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368007,
+                "count": 500
+            }
+        ]
+    },
+    "690351": {
+        "id": 690351,
+        "targetId": 690361,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 1000
+            }
+        ]
+    },
+    "690352": {
+        "id": 690352,
+        "targetId": 690362,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 1000
+            }
+        ]
+    },
+    "690353": {
+        "id": 690353,
+        "targetId": 690363,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 1000
+            }
+        ]
+    },
+    "690354": {
+        "id": 690354,
+        "targetId": 690364,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 1000
+            }
+        ]
+    },
+    "690361": {
+        "id": 690361,
+        "targetId": 690371,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 3000
+            }
+        ]
+    },
+    "690362": {
+        "id": 690362,
+        "targetId": 690372,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 3000
+            }
+        ]
+    },
+    "690363": {
+        "id": 690363,
+        "targetId": 690373,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 3000
+            }
+        ]
+    },
+    "690364": {
+        "id": 690364,
+        "targetId": 690374,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 3000
+            }
+        ]
+    },
+    "690371": {
+        "id": 690371,
+        "targetId": 690381,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 10000
+            }
+        ]
+    },
+    "690372": {
+        "id": 690372,
+        "targetId": 690382,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 10000
+            }
+        ]
+    },
+    "690373": {
+        "id": 690373,
+        "targetId": 690383,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 10000
+            }
+        ]
+    },
+    "690374": {
+        "id": 690374,
+        "targetId": 690384,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 10000
+            }
+        ]
+    },
+    "690381": {
+        "id": 690381,
+        "targetId": 690391,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 30000
+            }
+        ]
+    },
+    "690382": {
+        "id": 690382,
+        "targetId": 690392,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 30000
+            }
+        ]
+    },
+    "690383": {
+        "id": 690383,
+        "targetId": 690393,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 30000
+            }
+        ]
+    },
+    "690384": {
+        "id": 690384,
+        "targetId": 690394,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368008,
+                "count": 30000
+            }
+        ]
+    },
+    "690401": {
+        "id": 690401,
+        "targetId": 690411,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690402": {
+        "id": 690402,
+        "targetId": 690412,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690403": {
+        "id": 690403,
+        "targetId": 690413,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690404": {
+        "id": 690404,
+        "targetId": 690414,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690411": {
+        "id": 690411,
+        "targetId": 690421,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690412": {
+        "id": 690412,
+        "targetId": 690422,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690413": {
+        "id": 690413,
+        "targetId": 690423,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690414": {
+        "id": 690414,
+        "targetId": 690424,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690421": {
+        "id": 690421,
+        "targetId": 690431,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690422": {
+        "id": 690422,
+        "targetId": 690432,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690423": {
+        "id": 690423,
+        "targetId": 690433,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690424": {
+        "id": 690424,
+        "targetId": 690434,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690431": {
+        "id": 690431,
+        "targetId": 690441,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690432": {
+        "id": 690432,
+        "targetId": 690442,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690433": {
+        "id": 690433,
+        "targetId": 690443,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690434": {
+        "id": 690434,
+        "targetId": 690444,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690441": {
+        "id": 690441,
+        "targetId": 690451,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368009,
+                "count": 500
+            }
+        ]
+    },
+    "690442": {
+        "id": 690442,
+        "targetId": 690452,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368009,
+                "count": 500
+            }
+        ]
+    },
+    "690443": {
+        "id": 690443,
+        "targetId": 690453,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368009,
+                "count": 500
+            }
+        ]
+    },
+    "690444": {
+        "id": 690444,
+        "targetId": 690454,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368009,
+                "count": 500
+            }
+        ]
+    },
+    "690451": {
+        "id": 690451,
+        "targetId": 690461,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 1000
+            }
+        ]
+    },
+    "690452": {
+        "id": 690452,
+        "targetId": 690462,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 1000
+            }
+        ]
+    },
+    "690453": {
+        "id": 690453,
+        "targetId": 690463,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 1000
+            }
+        ]
+    },
+    "690454": {
+        "id": 690454,
+        "targetId": 690464,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 1000
+            }
+        ]
+    },
+    "690461": {
+        "id": 690461,
+        "targetId": 690471,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 3000
+            }
+        ]
+    },
+    "690462": {
+        "id": 690462,
+        "targetId": 690472,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 3000
+            }
+        ]
+    },
+    "690463": {
+        "id": 690463,
+        "targetId": 690473,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 3000
+            }
+        ]
+    },
+    "690464": {
+        "id": 690464,
+        "targetId": 690474,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 3000
+            }
+        ]
+    },
+    "690471": {
+        "id": 690471,
+        "targetId": 690481,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 10000
+            }
+        ]
+    },
+    "690472": {
+        "id": 690472,
+        "targetId": 690482,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 10000
+            }
+        ]
+    },
+    "690473": {
+        "id": 690473,
+        "targetId": 690483,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 10000
+            }
+        ]
+    },
+    "690474": {
+        "id": 690474,
+        "targetId": 690484,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 10000
+            }
+        ]
+    },
+    "690481": {
+        "id": 690481,
+        "targetId": 690491,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 30000
+            }
+        ]
+    },
+    "690482": {
+        "id": 690482,
+        "targetId": 690492,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 30000
+            }
+        ]
+    },
+    "690483": {
+        "id": 690483,
+        "targetId": 690493,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 30000
+            }
+        ]
+    },
+    "690484": {
+        "id": 690484,
+        "targetId": 690494,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368010,
+                "count": 30000
+            }
+        ]
+    },
+    "690501": {
+        "id": 690501,
+        "targetId": 690511,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690502": {
+        "id": 690502,
+        "targetId": 690512,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690503": {
+        "id": 690503,
+        "targetId": 690513,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690504": {
+        "id": 690504,
+        "targetId": 690514,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690511": {
+        "id": 690511,
+        "targetId": 690521,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690512": {
+        "id": 690512,
+        "targetId": 690522,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690513": {
+        "id": 690513,
+        "targetId": 690523,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690514": {
+        "id": 690514,
+        "targetId": 690524,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690521": {
+        "id": 690521,
+        "targetId": 690531,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690522": {
+        "id": 690522,
+        "targetId": 690532,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690523": {
+        "id": 690523,
+        "targetId": 690533,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690524": {
+        "id": 690524,
+        "targetId": 690534,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690531": {
+        "id": 690531,
+        "targetId": 690541,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690532": {
+        "id": 690532,
+        "targetId": 690542,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690533": {
+        "id": 690533,
+        "targetId": 690543,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690534": {
+        "id": 690534,
+        "targetId": 690544,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690541": {
+        "id": 690541,
+        "targetId": 690551,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368011,
+                "count": 500
+            }
+        ]
+    },
+    "690542": {
+        "id": 690542,
+        "targetId": 690552,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368011,
+                "count": 500
+            }
+        ]
+    },
+    "690543": {
+        "id": 690543,
+        "targetId": 690553,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368011,
+                "count": 500
+            }
+        ]
+    },
+    "690544": {
+        "id": 690544,
+        "targetId": 690554,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368011,
+                "count": 500
+            }
+        ]
+    },
+    "690551": {
+        "id": 690551,
+        "targetId": 690561,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 1000
+            }
+        ]
+    },
+    "690552": {
+        "id": 690552,
+        "targetId": 690562,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 1000
+            }
+        ]
+    },
+    "690553": {
+        "id": 690553,
+        "targetId": 690563,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 1000
+            }
+        ]
+    },
+    "690554": {
+        "id": 690554,
+        "targetId": 690564,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 1000
+            }
+        ]
+    },
+    "690561": {
+        "id": 690561,
+        "targetId": 690571,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 3000
+            }
+        ]
+    },
+    "690562": {
+        "id": 690562,
+        "targetId": 690572,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 3000
+            }
+        ]
+    },
+    "690563": {
+        "id": 690563,
+        "targetId": 690573,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 3000
+            }
+        ]
+    },
+    "690564": {
+        "id": 690564,
+        "targetId": 690574,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 3000
+            }
+        ]
+    },
+    "690571": {
+        "id": 690571,
+        "targetId": 690581,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 10000
+            }
+        ]
+    },
+    "690572": {
+        "id": 690572,
+        "targetId": 690582,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 10000
+            }
+        ]
+    },
+    "690573": {
+        "id": 690573,
+        "targetId": 690583,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 10000
+            }
+        ]
+    },
+    "690574": {
+        "id": 690574,
+        "targetId": 690584,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 10000
+            }
+        ]
+    },
+    "690581": {
+        "id": 690581,
+        "targetId": 690591,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 30000
+            }
+        ]
+    },
+    "690582": {
+        "id": 690582,
+        "targetId": 690592,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 30000
+            }
+        ]
+    },
+    "690583": {
+        "id": 690583,
+        "targetId": 690593,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 30000
+            }
+        ]
+    },
+    "690584": {
+        "id": 690584,
+        "targetId": 690594,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368012,
+                "count": 30000
+            }
+        ]
+    },
+    "690601": {
+        "id": 690601,
+        "targetId": 690611,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690602": {
+        "id": 690602,
+        "targetId": 690612,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690603": {
+        "id": 690603,
+        "targetId": 690613,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690604": {
+        "id": 690604,
+        "targetId": 690614,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690611": {
+        "id": 690611,
+        "targetId": 690621,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690612": {
+        "id": 690612,
+        "targetId": 690622,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690613": {
+        "id": 690613,
+        "targetId": 690623,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690614": {
+        "id": 690614,
+        "targetId": 690624,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690621": {
+        "id": 690621,
+        "targetId": 690631,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690622": {
+        "id": 690622,
+        "targetId": 690632,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690623": {
+        "id": 690623,
+        "targetId": 690633,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690624": {
+        "id": 690624,
+        "targetId": 690634,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690631": {
+        "id": 690631,
+        "targetId": 690641,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690632": {
+        "id": 690632,
+        "targetId": 690642,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690633": {
+        "id": 690633,
+        "targetId": 690643,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690634": {
+        "id": 690634,
+        "targetId": 690644,
+        "needCount": 4,
+        "costItem": []
+    },
+    "690641": {
+        "id": 690641,
+        "targetId": 690651,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368013,
+                "count": 500
+            }
+        ]
+    },
+    "690642": {
+        "id": 690642,
+        "targetId": 690652,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368013,
+                "count": 500
+            }
+        ]
+    },
+    "690643": {
+        "id": 690643,
+        "targetId": 690653,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368013,
+                "count": 500
+            }
+        ]
+    },
+    "690644": {
+        "id": 690644,
+        "targetId": 690654,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368013,
+                "count": 500
+            }
+        ]
+    },
+    "690651": {
+        "id": 690651,
+        "targetId": 690661,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 1000
+            }
+        ]
+    },
+    "690652": {
+        "id": 690652,
+        "targetId": 690662,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 1000
+            }
+        ]
+    },
+    "690653": {
+        "id": 690653,
+        "targetId": 690663,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 1000
+            }
+        ]
+    },
+    "690654": {
+        "id": 690654,
+        "targetId": 690664,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 1000
+            }
+        ]
+    },
+    "690661": {
+        "id": 690661,
+        "targetId": 690671,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 3000
+            }
+        ]
+    },
+    "690662": {
+        "id": 690662,
+        "targetId": 690672,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 3000
+            }
+        ]
+    },
+    "690663": {
+        "id": 690663,
+        "targetId": 690673,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 3000
+            }
+        ]
+    },
+    "690664": {
+        "id": 690664,
+        "targetId": 690674,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 3000
+            }
+        ]
+    },
+    "690671": {
+        "id": 690671,
+        "targetId": 690681,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 10000
+            }
+        ]
+    },
+    "690672": {
+        "id": 690672,
+        "targetId": 690682,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 10000
+            }
+        ]
+    },
+    "690673": {
+        "id": 690673,
+        "targetId": 690683,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 10000
+            }
+        ]
+    },
+    "690674": {
+        "id": 690674,
+        "targetId": 690684,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 10000
+            }
+        ]
+    },
+    "690681": {
+        "id": 690681,
+        "targetId": 690691,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 30000
+            }
+        ]
+    },
+    "690682": {
+        "id": 690682,
+        "targetId": 690692,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 30000
+            }
+        ]
+    },
+    "690683": {
+        "id": 690683,
+        "targetId": 690693,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 30000
+            }
+        ]
+    },
+    "690684": {
+        "id": 690684,
+        "targetId": 690694,
+        "needCount": 4,
+        "costItem": [
+            {
+                "type": 1,
+                "id": 368014,
+                "count": 30000
+            }
+        ]
+    }
+}

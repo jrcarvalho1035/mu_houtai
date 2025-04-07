@@ -1,0 +1,1567 @@
+{
+    "1": {
+        "id": 1,
+        "nextId": 2,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310113,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 0
+            },
+            {
+                "type": 157,
+                "value": 0
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 170,
+                "value": 0
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:None|",
+        "showLv": 0
+    },
+    "2": {
+        "id": 2,
+        "nextId": 3,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310113,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 52000
+            },
+            {
+                "type": 157,
+                "value": 80000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 170,
+                "value": 100
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Horn +1%|",
+        "showLv": 1
+    },
+    "3": {
+        "id": 3,
+        "nextId": 4,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310113,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 104000
+            },
+            {
+                "type": 157,
+                "value": 160000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 170,
+                "value": 200
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Horn +2%|",
+        "showLv": 2
+    },
+    "4": {
+        "id": 4,
+        "nextId": 5,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310113,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 156000
+            },
+            {
+                "type": 157,
+                "value": 240000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 170,
+                "value": 300
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Horn +3%|",
+        "showLv": 3
+    },
+    "5": {
+        "id": 5,
+        "nextId": 6,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310113,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 208000
+            },
+            {
+                "type": 157,
+                "value": 320000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 170,
+                "value": 400
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Horn +4%|",
+        "showLv": 4
+    },
+    "6": {
+        "id": 6,
+        "nextId": 7,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310113,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 260000
+            },
+            {
+                "type": 157,
+                "value": 400000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 170,
+                "value": 500
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Horn +5%|",
+        "showLv": 5
+    },
+    "7": {
+        "id": 7,
+        "nextId": 8,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310113,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 312000
+            },
+            {
+                "type": 157,
+                "value": 480000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 170,
+                "value": 600
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Horn +6%|",
+        "showLv": 6
+    },
+    "8": {
+        "id": 8,
+        "nextId": 9,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310113,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 364000
+            },
+            {
+                "type": 157,
+                "value": 560000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 170,
+                "value": 700
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Horn +7%|",
+        "showLv": 7
+    },
+    "9": {
+        "id": 9,
+        "nextId": 10,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310113,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 416000
+            },
+            {
+                "type": 157,
+                "value": 640000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 170,
+                "value": 800
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Horn +8%|",
+        "showLv": 8
+    },
+    "10": {
+        "id": 10,
+        "nextId": 11,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310113,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 468000
+            },
+            {
+                "type": 157,
+                "value": 720000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 170,
+                "value": 900
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Horn +9%|",
+        "showLv": 9
+    },
+    "11": {
+        "id": 11,
+        "nextId": 0,
+        "needItems": [],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 520000
+            },
+            {
+                "type": 157,
+                "value": 800000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 170,
+                "value": 1000
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Horn +10%|",
+        "showLv": 10
+    },
+    "12": {
+        "id": 12,
+        "nextId": 13,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310114,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 154,
+                "value": 0
+            },
+            {
+                "type": 151,
+                "value": 0
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 171,
+                "value": 0
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:None|",
+        "showLv": 0
+    },
+    "13": {
+        "id": 13,
+        "nextId": 14,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310114,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 154,
+                "value": 70000
+            },
+            {
+                "type": 151,
+                "value": 880000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 171,
+                "value": 100
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Body +1%|",
+        "showLv": 1
+    },
+    "14": {
+        "id": 14,
+        "nextId": 15,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310114,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 154,
+                "value": 140000
+            },
+            {
+                "type": 151,
+                "value": 1760000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 171,
+                "value": 200
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Body +2%|",
+        "showLv": 2
+    },
+    "15": {
+        "id": 15,
+        "nextId": 16,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310114,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 154,
+                "value": 210000
+            },
+            {
+                "type": 151,
+                "value": 2640000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 171,
+                "value": 300
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Body +3%|",
+        "showLv": 3
+    },
+    "16": {
+        "id": 16,
+        "nextId": 17,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310114,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 154,
+                "value": 280000
+            },
+            {
+                "type": 151,
+                "value": 3520000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 171,
+                "value": 400
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Body +4%|",
+        "showLv": 4
+    },
+    "17": {
+        "id": 17,
+        "nextId": 18,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310114,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 154,
+                "value": 350000
+            },
+            {
+                "type": 151,
+                "value": 4400000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 171,
+                "value": 500
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Body +5%|",
+        "showLv": 5
+    },
+    "18": {
+        "id": 18,
+        "nextId": 19,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310114,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 154,
+                "value": 420000
+            },
+            {
+                "type": 151,
+                "value": 5280000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 171,
+                "value": 600
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Body +6%|",
+        "showLv": 6
+    },
+    "19": {
+        "id": 19,
+        "nextId": 20,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310114,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 154,
+                "value": 490000
+            },
+            {
+                "type": 151,
+                "value": 6160000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 171,
+                "value": 700
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Body +7%|",
+        "showLv": 7
+    },
+    "20": {
+        "id": 20,
+        "nextId": 21,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310114,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 154,
+                "value": 560000
+            },
+            {
+                "type": 151,
+                "value": 7040000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 171,
+                "value": 800
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Body +8%|",
+        "showLv": 8
+    },
+    "21": {
+        "id": 21,
+        "nextId": 22,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310114,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 154,
+                "value": 630000
+            },
+            {
+                "type": 151,
+                "value": 7920000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 171,
+                "value": 900
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Body +9%|",
+        "showLv": 9
+    },
+    "22": {
+        "id": 22,
+        "nextId": 0,
+        "needItems": [],
+        "baseAttrs": [
+            {
+                "type": 154,
+                "value": 700000
+            },
+            {
+                "type": 151,
+                "value": 8800000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 171,
+                "value": 1000
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Body +10%|",
+        "showLv": 10
+    },
+    "23": {
+        "id": 23,
+        "nextId": 24,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310115,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 0
+            },
+            {
+                "type": 155,
+                "value": 0
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 172,
+                "value": 0
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:None|",
+        "showLv": 0
+    },
+    "24": {
+        "id": 24,
+        "nextId": 25,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310115,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 48000
+            },
+            {
+                "type": 155,
+                "value": 65000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 172,
+                "value": 100
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Eye +1%|",
+        "showLv": 1
+    },
+    "25": {
+        "id": 25,
+        "nextId": 26,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310115,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 96000
+            },
+            {
+                "type": 155,
+                "value": 130000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 172,
+                "value": 200
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Eye +2%|",
+        "showLv": 2
+    },
+    "26": {
+        "id": 26,
+        "nextId": 27,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310115,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 144000
+            },
+            {
+                "type": 155,
+                "value": 195000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 172,
+                "value": 300
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Eye +3%|",
+        "showLv": 3
+    },
+    "27": {
+        "id": 27,
+        "nextId": 28,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310115,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 192000
+            },
+            {
+                "type": 155,
+                "value": 260000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 172,
+                "value": 400
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Eye +4%|",
+        "showLv": 4
+    },
+    "28": {
+        "id": 28,
+        "nextId": 29,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310115,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 240000
+            },
+            {
+                "type": 155,
+                "value": 325000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 172,
+                "value": 500
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Eye +5%|",
+        "showLv": 5
+    },
+    "29": {
+        "id": 29,
+        "nextId": 30,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310115,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 288000
+            },
+            {
+                "type": 155,
+                "value": 390000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 172,
+                "value": 600
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Eye +6%|",
+        "showLv": 6
+    },
+    "30": {
+        "id": 30,
+        "nextId": 31,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310115,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 336000
+            },
+            {
+                "type": 155,
+                "value": 455000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 172,
+                "value": 700
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Eye +7%|",
+        "showLv": 7
+    },
+    "31": {
+        "id": 31,
+        "nextId": 32,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310115,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 384000
+            },
+            {
+                "type": 155,
+                "value": 520000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 172,
+                "value": 800
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Eye +8%|",
+        "showLv": 8
+    },
+    "32": {
+        "id": 32,
+        "nextId": 33,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310115,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 432000
+            },
+            {
+                "type": 155,
+                "value": 585000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 172,
+                "value": 900
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Eye +9%|",
+        "showLv": 9
+    },
+    "33": {
+        "id": 33,
+        "nextId": 0,
+        "needItems": [],
+        "baseAttrs": [
+            {
+                "type": 152,
+                "value": 480000
+            },
+            {
+                "type": 155,
+                "value": 650000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 172,
+                "value": 1000
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Eye +10%|",
+        "showLv": 10
+    },
+    "34": {
+        "id": 34,
+        "nextId": 35,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310116,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 156,
+                "value": 0
+            },
+            {
+                "type": 151,
+                "value": 0
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 173,
+                "value": 0
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:None|",
+        "showLv": 0
+    },
+    "35": {
+        "id": 35,
+        "nextId": 36,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310116,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 156,
+                "value": 75000
+            },
+            {
+                "type": 151,
+                "value": 1100000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 173,
+                "value": 100
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Claw +1%|",
+        "showLv": 1
+    },
+    "36": {
+        "id": 36,
+        "nextId": 37,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310116,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 156,
+                "value": 150000
+            },
+            {
+                "type": 151,
+                "value": 2200000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 173,
+                "value": 200
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Claw +2%|",
+        "showLv": 2
+    },
+    "37": {
+        "id": 37,
+        "nextId": 38,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310116,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 156,
+                "value": 225000
+            },
+            {
+                "type": 151,
+                "value": 3300000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 173,
+                "value": 300
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Claw +3%|",
+        "showLv": 3
+    },
+    "38": {
+        "id": 38,
+        "nextId": 39,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310116,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 156,
+                "value": 300000
+            },
+            {
+                "type": 151,
+                "value": 4400000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 173,
+                "value": 400
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Claw +4%|",
+        "showLv": 4
+    },
+    "39": {
+        "id": 39,
+        "nextId": 40,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310116,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 156,
+                "value": 375000
+            },
+            {
+                "type": 151,
+                "value": 5500000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 173,
+                "value": 500
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Claw +5%|",
+        "showLv": 5
+    },
+    "40": {
+        "id": 40,
+        "nextId": 41,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310116,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 156,
+                "value": 450000
+            },
+            {
+                "type": 151,
+                "value": 6600000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 173,
+                "value": 600
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Claw +6%|",
+        "showLv": 6
+    },
+    "41": {
+        "id": 41,
+        "nextId": 42,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310116,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 156,
+                "value": 525000
+            },
+            {
+                "type": 151,
+                "value": 7700000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 173,
+                "value": 700
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Claw +7%|",
+        "showLv": 7
+    },
+    "42": {
+        "id": 42,
+        "nextId": 43,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310116,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 156,
+                "value": 600000
+            },
+            {
+                "type": 151,
+                "value": 8800000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 173,
+                "value": 800
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Claw +8%|",
+        "showLv": 8
+    },
+    "43": {
+        "id": 43,
+        "nextId": 44,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310116,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 156,
+                "value": 675000
+            },
+            {
+                "type": 151,
+                "value": 9900000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 173,
+                "value": 900
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Claw +9%|",
+        "showLv": 9
+    },
+    "44": {
+        "id": 44,
+        "nextId": 0,
+        "needItems": [],
+        "baseAttrs": [
+            {
+                "type": 156,
+                "value": 750000
+            },
+            {
+                "type": 151,
+                "value": 11000000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 173,
+                "value": 1000
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Claw +10%|",
+        "showLv": 10
+    },
+    "45": {
+        "id": 45,
+        "nextId": 46,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310117,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 158,
+                "value": 0
+            },
+            {
+                "type": 153,
+                "value": 0
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 174,
+                "value": 0
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:None|",
+        "showLv": 0
+    },
+    "46": {
+        "id": 46,
+        "nextId": 47,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310117,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 158,
+                "value": 25000
+            },
+            {
+                "type": 153,
+                "value": 50000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 174,
+                "value": 100
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Tail +1%|",
+        "showLv": 1
+    },
+    "47": {
+        "id": 47,
+        "nextId": 48,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310117,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 158,
+                "value": 50000
+            },
+            {
+                "type": 153,
+                "value": 100000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 174,
+                "value": 200
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Tail +2%|",
+        "showLv": 2
+    },
+    "48": {
+        "id": 48,
+        "nextId": 49,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310117,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 158,
+                "value": 75000
+            },
+            {
+                "type": 153,
+                "value": 150000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 174,
+                "value": 300
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Tail +3%|",
+        "showLv": 3
+    },
+    "49": {
+        "id": 49,
+        "nextId": 50,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310117,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 158,
+                "value": 100000
+            },
+            {
+                "type": 153,
+                "value": 200000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 174,
+                "value": 400
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Tail +4%|",
+        "showLv": 4
+    },
+    "50": {
+        "id": 50,
+        "nextId": 51,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310117,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 158,
+                "value": 125000
+            },
+            {
+                "type": 153,
+                "value": 250000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 174,
+                "value": 500
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Tail +5%|",
+        "showLv": 5
+    },
+    "51": {
+        "id": 51,
+        "nextId": 52,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310117,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 158,
+                "value": 150000
+            },
+            {
+                "type": 153,
+                "value": 300000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 174,
+                "value": 600
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Tail +6%|",
+        "showLv": 6
+    },
+    "52": {
+        "id": 52,
+        "nextId": 53,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310117,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 158,
+                "value": 175000
+            },
+            {
+                "type": 153,
+                "value": 350000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 174,
+                "value": 700
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Tail +7%|",
+        "showLv": 7
+    },
+    "53": {
+        "id": 53,
+        "nextId": 54,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310117,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 158,
+                "value": 200000
+            },
+            {
+                "type": 153,
+                "value": 400000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 174,
+                "value": 800
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Tail +8%|",
+        "showLv": 8
+    },
+    "54": {
+        "id": 54,
+        "nextId": 55,
+        "needItems": [
+            {
+                "type": 1,
+                "id": 310117,
+                "count": 1
+            }
+        ],
+        "baseAttrs": [
+            {
+                "type": 158,
+                "value": 225000
+            },
+            {
+                "type": 153,
+                "value": 450000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 174,
+                "value": 900
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Tail +9%|",
+        "showLv": 9
+    },
+    "55": {
+        "id": 55,
+        "nextId": 0,
+        "needItems": [],
+        "baseAttrs": [
+            {
+                "type": 158,
+                "value": 250000
+            },
+            {
+                "type": 153,
+                "value": 500000
+            }
+        ],
+        "skillAttrs": [
+            {
+                "type": 174,
+                "value": 1000
+            }
+        ],
+        "attrDec": "|C:0x13ee22&T:All stats of the Eudemon's Tail +10%|",
+        "showLv": 10
+    }
+}

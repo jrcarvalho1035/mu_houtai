@@ -1,0 +1,398 @@
+{
+    "1": {
+        "1": {
+            "zhuzaiid": 1,
+            "id": 1,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350513,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 350501,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                }
+            ],
+            "rank": 1,
+            "rankdesc": "No.1"
+        },
+        "2": {
+            "zhuzaiid": 1,
+            "id": 2,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350501,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 6
+                }
+            ],
+            "rank": 2,
+            "rankdesc": "No.2"
+        },
+        "3": {
+            "zhuzaiid": 1,
+            "id": 3,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350501,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 6
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                }
+            ],
+            "rank": 3,
+            "rankdesc": "No.3-5"
+        },
+        "4": {
+            "zhuzaiid": 1,
+            "id": 4,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350501,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                }
+            ],
+            "rank": 4,
+            "rankdesc": "Other Player"
+        }
+    },
+    "2": {
+        "5": {
+            "zhuzaiid": 2,
+            "id": 5,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350514,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 350502,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 12
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                }
+            ],
+            "rank": 1,
+            "rankdesc": "No.1"
+        },
+        "6": {
+            "zhuzaiid": 2,
+            "id": 6,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350502,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                }
+            ],
+            "rank": 2,
+            "rankdesc": "No.2"
+        },
+        "7": {
+            "zhuzaiid": 2,
+            "id": 7,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350502,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 6
+                }
+            ],
+            "rank": 3,
+            "rankdesc": "No.3-5"
+        },
+        "8": {
+            "zhuzaiid": 2,
+            "id": 8,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350502,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 6
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                }
+            ],
+            "rank": 4,
+            "rankdesc": "Other Player"
+        }
+    },
+    "3": {
+        "9": {
+            "zhuzaiid": 3,
+            "id": 9,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350515,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 350503,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 14
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 12
+                }
+            ],
+            "rank": 1,
+            "rankdesc": "No.1"
+        },
+        "10": {
+            "zhuzaiid": 3,
+            "id": 10,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350503,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 12
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                }
+            ],
+            "rank": 2,
+            "rankdesc": "No.2"
+        },
+        "11": {
+            "zhuzaiid": 3,
+            "id": 11,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350503,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                }
+            ],
+            "rank": 3,
+            "rankdesc": "No.3-5"
+        },
+        "12": {
+            "zhuzaiid": 3,
+            "id": 12,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350503,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 6
+                }
+            ],
+            "rank": 4,
+            "rankdesc": "Other Player"
+        }
+    },
+    "4": {
+        "13": {
+            "zhuzaiid": 4,
+            "id": 13,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350516,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 350504,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 16
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 14
+                }
+            ],
+            "rank": 1,
+            "rankdesc": "No.1"
+        },
+        "14": {
+            "zhuzaiid": 4,
+            "id": 14,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350504,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 14
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 12
+                }
+            ],
+            "rank": 2,
+            "rankdesc": "No.2"
+        },
+        "15": {
+            "zhuzaiid": 4,
+            "id": 15,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350504,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 12
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                }
+            ],
+            "rank": 3,
+            "rankdesc": "No.3-5"
+        },
+        "16": {
+            "zhuzaiid": 4,
+            "id": 16,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 350504,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310610,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                }
+            ],
+            "rank": 4,
+            "rankdesc": "Other Player"
+        }
+    }
+}

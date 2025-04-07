@@ -1,0 +1,27 @@
+{
+    "yinjiskills": [
+        11301,
+        60112,
+        60113,
+        60115,
+        60114,
+        60116
+    ],
+    "yinjiskill": 51002,
+    "buyMin": 5,
+    "buyPrice": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        2000,
+        5000,
+        10000
+    ],
+    "activeTagDmg": 15,
+    "skillOpen": 1,
+    "huanhuaOpen": 5,
+    "yinjiOpen": 15,
+    "skillViewDesc": "The absolute power presented by the Godhood surrounds the Protection Shield\nAfter activation, it can deal damage to the target"
+}

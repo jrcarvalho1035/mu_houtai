@@ -1,0 +1,103 @@
+{
+    "commonSkillLevels": [
+        100,
+        200,
+        300,
+        400,
+        500
+    ],
+    "practiceSkillLevels": [
+        2,
+        4,
+        6,
+        8,
+        10
+    ],
+    "commonSkillCount": 3,
+    "practiceSkillCount": 2,
+    "impeachTime": 432000,
+    "posCounts": [
+        [
+            1,
+            2,
+            1,
+            1,
+            1,
+            2
+        ],
+        [
+            1,
+            2,
+            1,
+            1,
+            2,
+            3
+        ],
+        [
+            1,
+            2,
+            2,
+            2,
+            2,
+            3
+        ],
+        [
+            1,
+            2,
+            2,
+            2,
+            3,
+            4
+        ],
+        [
+            1,
+            2,
+            2,
+            3,
+            3,
+            5
+        ]
+    ],
+    "maxMember": [
+        30,
+        40,
+        50,
+        55,
+        60
+    ],
+    "buildingTips": [
+        "1) Decides Guild Level\n2) Decides the highest level of other buildings",
+        "1) Decides Guild Skill Level Limit",
+        "1) Decides Guild Store Opening Times daily"
+    ],
+    "commonSkillNames": [
+        "Fearless",
+        "Steadfast",
+        "Will"
+    ],
+    "commonSkillIcon": [
+        "90001",
+        "90002",
+        "90003"
+    ],
+    "skillDesc": [
+        "+ ATK",
+        "+ DEF",
+        "+ HP"
+    ],
+    "practiceSkillNames": [
+        "Berserk Power",
+        "Guardian Light"
+    ],
+    "practiceSkillIcon": [
+        "90004",
+        "90005"
+    ],
+    "impeachCost": 998,
+    "buildingNames": [
+        "Guild Management",
+        "Skill Altar",
+        "Shop",
+        "Event Hall"
+    ]
+}

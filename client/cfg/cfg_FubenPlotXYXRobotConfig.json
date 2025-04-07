@@ -1,0 +1,28 @@
+{
+    "1": {
+        "idx": 1,
+        "next": 2,
+        "fbId": 4,
+        "target": 0,
+        "controlTarget": [
+            15,
+            27,
+            14
+        ],
+        "monsterId": [],
+        "monsPos": []
+    },
+    "2": {
+        "idx": 2,
+        "next": 0,
+        "fbId": 4,
+        "target": 0,
+        "controlTarget": [
+            15,
+            36,
+            27
+        ],
+        "monsterId": [],
+        "monsPos": []
+    }
+}

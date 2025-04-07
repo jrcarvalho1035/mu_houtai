@@ -1,0 +1,698 @@
+{
+    "0": {
+        "id": 0,
+        "icon": [
+            320000
+        ],
+        "name": [
+            "EXP"
+        ],
+        "desc": [
+            "Can be used to level up character"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "AFK Gain \nEXP Dungeon and more",
+        "gainitemid": 0
+    },
+    "1": {
+        "id": 1,
+        "icon": [
+            320001
+        ],
+        "name": [
+            "Coin"
+        ],
+        "desc": [
+            "Can be used to upgrade Sacred Ring and train gear"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "AFK Gain \nCoin Dungeon and more",
+        "gainitemid": 1
+    },
+    "2": {
+        "id": 2,
+        "icon": [
+            320002
+        ],
+        "name": [
+            "Diamond"
+        ],
+        "desc": [
+            "Obtain from Top-up"
+        ],
+        "quality": 4,
+        "level": 1,
+        "output": "Top-up",
+        "gainitemid": 0
+    },
+    "3": {
+        "id": 3,
+        "icon": [
+            320003
+        ],
+        "name": [
+            "Spiritspar"
+        ],
+        "desc": [
+            "Can be used to upgrade Fairy"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Fairy Recycling",
+        "gainitemid": 12
+    },
+    "4": {
+        "id": 4,
+        "icon": [
+            320004
+        ],
+        "name": [
+            "Prism"
+        ],
+        "desc": [
+            "Can be used to upgrade Demon Rune"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Golden Demon Lord",
+        "gainitemid": 3
+    },
+    "5": {
+        "id": 5,
+        "icon": [
+            320005
+        ],
+        "name": [
+            "Guild Contribution"
+        ],
+        "desc": [
+            "Can be used to purchase items in Guild Store and level-up Guild Skill"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Territory War\nGuild Donation\nMonster Invasion",
+        "gainitemid": 0
+    },
+    "6": {
+        "id": 6,
+        "icon": [
+            320006
+        ],
+        "name": [
+            "Guild Funds"
+        ],
+        "desc": [
+            "Can be used to level up various guild buildings"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Guild Donation\nMonster Invasion",
+        "gainitemid": 0
+    },
+    "7": {
+        "id": 7,
+        "icon": [
+            320007
+        ],
+        "name": [
+            "Merit"
+        ],
+        "desc": [],
+        "quality": 3,
+        "level": 1,
+        "output": "AFK Gain \nDungeon",
+        "gainitemid": 0
+    },
+    "8": {
+        "id": 8,
+        "icon": [
+            320008
+        ],
+        "name": [
+            "Ring Soul Point"
+        ],
+        "desc": [
+            "Can be used to upgrade rings"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Smelt Gear",
+        "gainitemid": 10
+    },
+    "9": {
+        "id": 9,
+        "icon": [
+            320009
+        ],
+        "name": [
+            "Store Scores"
+        ],
+        "desc": [],
+        "quality": 3,
+        "level": 1,
+        "output": "Daily Quest",
+        "gainitemid": 0
+    },
+    "10": {
+        "id": 10,
+        "icon": [
+            320010
+        ],
+        "name": [
+            "Cryptid Scores"
+        ],
+        "desc": [
+            "Can be used to exchange for Cryptid"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Draw with Diamond",
+        "gainitemid": 0
+    },
+    "11": {
+        "id": 11,
+        "icon": [
+            320011
+        ],
+        "name": [
+            "Dust"
+        ],
+        "desc": [
+            "Can be used to draw Rune"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Dark Abyss",
+        "gainitemid": 11
+    },
+    "12": {
+        "id": 12,
+        "icon": [
+            320012
+        ],
+        "name": [
+            "Achievement Point"
+        ],
+        "desc": [
+            "Can be used to upgrade Spirit"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Achievements",
+        "gainitemid": 0
+    },
+    "13": {
+        "id": 13,
+        "icon": [
+            320013
+        ],
+        "name": [
+            "Rune Essence"
+        ],
+        "desc": [
+            "Can be used to upgrade Rune"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Salvage Rune",
+        "gainitemid": 0
+    },
+    "14": {
+        "id": 14,
+        "icon": [
+            320014
+        ],
+        "name": [
+            "Guardian Points"
+        ],
+        "desc": [
+            "Can be used to upgrade Guardian Deity"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Salvage Spirit",
+        "gainitemid": 0
+    },
+    "15": {
+        "id": 15,
+        "icon": [
+            320015
+        ],
+        "name": [
+            "Honor"
+        ],
+        "desc": [
+            "Can be used in Honor Shop"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Arena",
+        "gainitemid": 0
+    },
+    "16": {
+        "id": 16,
+        "icon": [
+            320015
+        ],
+        "name": [
+            "Epic Gear Shard"
+        ],
+        "desc": [
+            "Epic Gear Shard"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Epic Gear Shard",
+        "gainitemid": 0
+    },
+    "17": {
+        "id": 17,
+        "icon": [
+            320017
+        ],
+        "name": [
+            "Chaotic Stone"
+        ],
+        "desc": [
+            "Chaotic Stone"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Exploration Event",
+        "gainitemid": 82
+    },
+    "18": {
+        "id": 18,
+        "icon": [
+            320018
+        ],
+        "name": [
+            "Ethereal Deity Soul"
+        ],
+        "desc": [
+            "Ethereal Deity Soul"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Exploration Event",
+        "gainitemid": 83
+    },
+    "19": {
+        "id": 19,
+        "icon": [
+            320019
+        ],
+        "name": [
+            "Siege Scores"
+        ],
+        "desc": [
+            "Can be used to claim Siege Scores Rewards"
+        ],
+        "quality": 4,
+        "level": 1,
+        "output": "Monster Siege",
+        "gainitemid": 0
+    },
+    "20": {
+        "id": 20,
+        "icon": [
+            320020
+        ],
+        "name": [
+            "Prestige"
+        ],
+        "desc": [
+            "Prestige"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Prestige",
+        "gainitemid": 0
+    },
+    "21": {
+        "id": 21,
+        "icon": [
+            320000
+        ],
+        "name": [
+            "Gallery EXP"
+        ],
+        "desc": [
+            "Gallery EXP"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Gallery EXP",
+        "gainitemid": 0
+    },
+    "22": {
+        "id": 22,
+        "icon": [
+            320020
+        ],
+        "name": [
+            "Renown"
+        ],
+        "desc": [
+            "Renown"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Renown",
+        "gainitemid": 44
+    },
+    "23": {
+        "id": 23,
+        "icon": [
+            320020
+        ],
+        "name": [
+            "Mount Scores"
+        ],
+        "desc": [
+            "Mount Scores"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Mount Scores",
+        "gainitemid": 0
+    },
+    "24": {
+        "id": 24,
+        "icon": [
+            320021
+        ],
+        "name": [
+            "Cross-server Honor"
+        ],
+        "desc": [
+            "Can be used for Cross-server Store Items"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Cross-server Arena",
+        "gainitemid": 0
+    },
+    "25": {
+        "id": 25,
+        "icon": [
+            320025
+        ],
+        "name": [
+            "Boss Points"
+        ],
+        "desc": [
+            "Server-merge Event Produced Boss Points"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Temple Boss",
+        "gainitemid": 0
+    },
+    "26": {
+        "id": 26,
+        "icon": [
+            320026
+        ],
+        "name": [
+            "Point"
+        ],
+        "desc": [
+            "Can be used to claim Carnival Event Rewards"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Time-Limited Levelup Event",
+        "gainitemid": 0
+    },
+    "27": {
+        "id": 27,
+        "icon": [
+            320027
+        ],
+        "name": [
+            "Talent Point"
+        ],
+        "desc": [
+            "Can be used to upgrade skills"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Time-Limited Levelup Event",
+        "gainitemid": 0
+    },
+    "28": {
+        "id": 28,
+        "icon": [
+            320028
+        ],
+        "name": [
+            "Alchemy EXP"
+        ],
+        "desc": [
+            "Can be used to increase Alchemy Level"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Time-Limited Levelup Event",
+        "gainitemid": 0
+    },
+    "29": {
+        "id": 29,
+        "icon": [
+            320029
+        ],
+        "name": [
+            "Angel Point"
+        ],
+        "desc": [
+            "Can be used to increase Title Level"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Time-Limited Levelup Event",
+        "gainitemid": 0
+    },
+    "30": {
+        "id": 30,
+        "icon": [
+            320030
+        ],
+        "name": [
+            "Voucher"
+        ],
+        "desc": [
+            "Can be used to purchase Point Store Items"
+        ],
+        "quality": 5,
+        "level": 1,
+        "output": "Time-Limited Levelup Event",
+        "gainitemid": 0
+    },
+    "31": {
+        "id": 31,
+        "icon": [
+            340036
+        ],
+        "name": [
+            "Exploration Point"
+        ],
+        "desc": [
+            "Can be used to exchange for Encounter Item"
+        ],
+        "quality": 5,
+        "level": 1,
+        "output": "Time-Limited Levelup Event",
+        "gainitemid": 0
+    },
+    "32": {
+        "id": 32,
+        "icon": [
+            360042
+        ],
+        "name": [
+            "Gadget Crystal"
+        ],
+        "desc": [
+            "Can be used to increase Footprint Gadget Level"
+        ],
+        "quality": 4,
+        "level": 1,
+        "output": "Time-Limited Levelup Event",
+        "gainitemid": 0
+    },
+    "33": {
+        "id": 33,
+        "icon": [
+            360043
+        ],
+        "name": [
+            "Loot Token"
+        ],
+        "desc": [
+            "Important item that can be used to loot for treasure in Poseidon's Treasure"
+        ],
+        "quality": 5,
+        "level": 1,
+        "output": "Time-Limited Levelup Event",
+        "gainitemid": 0
+    },
+    "34": {
+        "id": 34,
+        "icon": [
+            380049
+        ],
+        "name": [
+            "Personal Treasure Scores"
+        ],
+        "desc": [],
+        "quality": 4,
+        "level": 1,
+        "output": "Poseidon's Treasure Event",
+        "gainitemid": 0
+    },
+    "35": {
+        "id": 35,
+        "icon": [
+            380050
+        ],
+        "name": [
+            "Guild Treasure Scores"
+        ],
+        "desc": [],
+        "quality": 5,
+        "level": 1,
+        "output": "Poseidon's Treasure Event",
+        "gainitemid": 0
+    },
+    "36": {
+        "id": 36,
+        "icon": [
+            380051
+        ],
+        "name": [
+            "Beast Soul Point"
+        ],
+        "desc": [
+            "Can be used to upgrade Demon Soul"
+        ],
+        "quality": 4,
+        "level": 1,
+        "output": "Monster Siege",
+        "gainitemid": 0
+    },
+    "37": {
+        "id": 37,
+        "icon": [
+            380050
+        ],
+        "name": [
+            "Faction Contribution"
+        ],
+        "desc": [
+            "Can be used to purchase Avatar Store Item"
+        ],
+        "quality": 5,
+        "level": 1,
+        "output": "Poseidon's Treasure Event",
+        "gainitemid": 0
+    },
+    "38": {
+        "id": 38,
+        "icon": [
+            320026
+        ],
+        "name": [
+            "Feast Scores"
+        ],
+        "desc": [
+            "Used to claim Feast of Ecstasy Basic Rewards"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Feast of Ecstasy Event",
+        "gainitemid": 0
+    },
+    "39": {
+        "id": 39,
+        "icon": [
+            320026
+        ],
+        "name": [
+            "Peak Points"
+        ],
+        "desc": [
+            "Can be used to purchase Peak Shop Items"
+        ],
+        "quality": 5,
+        "level": 1,
+        "output": "Merging Tournament",
+        "gainitemid": 0
+    },
+    "40": {
+        "id": 40,
+        "icon": [
+            320031
+        ],
+        "name": [
+            "Battle Zone Coin"
+        ],
+        "desc": [
+            "Can be used to buy items in Battle Zone Shop"
+        ],
+        "quality": 5,
+        "level": 1,
+        "output": "Battle Zone",
+        "gainitemid": 0
+    },
+    "41": {
+        "id": 41,
+        "icon": [
+            320031
+        ],
+        "name": [
+            "Battle Zone Coin"
+        ],
+        "desc": [
+            "Can be used to buy items in Battle Zone Shop"
+        ],
+        "quality": 5,
+        "level": 1,
+        "output": "Battle Zone",
+        "gainitemid": 0
+    },
+    "42": {
+        "id": 42,
+        "icon": [
+            320032
+        ],
+        "name": [
+            ""
+        ],
+        "desc": [
+            ""
+        ],
+        "quality": 5,
+        "level": 1,
+        "output": "Event",
+        "gainitemid": 0
+    },
+    "99": {
+        "id": 99,
+        "icon": [
+            320002
+        ],
+        "name": [
+            "Top-up Diamond"
+        ],
+        "desc": [
+            "Obtain from Top-up"
+        ],
+        "quality": 3,
+        "level": 1,
+        "output": "Top-up",
+        "gainitemid": 0
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "1": {
+        "groupId": 1,
+        "groupName": "Epic",
+        "huanhuaIds": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    "2": {
+        "groupId": 2,
+        "groupName": "Legendary",
+        "huanhuaIds": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    "3": {
+        "groupId": 3,
+        "groupName": "Sacred",
+        "huanhuaIds": [
+            9,
+            10,
+            11,
+            12
+        ]
+    }
+}

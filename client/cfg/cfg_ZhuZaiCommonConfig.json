@@ -1,0 +1,48 @@
+{
+    "cdTime": 60,
+    "rollTime": 10,
+    "zhuzaiTime": 600,
+    "itemNum": 5,
+    "starTime1": [
+        12,
+        30,
+        0
+    ],
+    "endTime1": [
+        12,
+        40,
+        0
+    ],
+    "starTime2": [
+        19,
+        0,
+        0
+    ],
+    "endTime2": [
+        19,
+        10,
+        0
+    ],
+    "zjjl": [
+        {
+            "type": 1,
+            "id": 195001,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 195004,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310611,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310610,
+            "count": 1
+        }
+    ]
+}

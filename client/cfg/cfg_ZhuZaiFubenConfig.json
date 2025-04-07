@@ -1,0 +1,162 @@
+{
+    "1": {
+        "id": 1,
+        "zslvmin": 10104,
+        "zslvmax": 10204,
+        "fbId": 75001,
+        "bossId": 75001,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 195001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310610,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310611,
+                "count": 1
+            }
+        ],
+        "killDropshow": [
+            {
+                "type": 1,
+                "id": 350505,
+                "count": 1
+            }
+        ],
+        "lotteryDropshow": [
+            {
+                "type": 1,
+                "id": 350509,
+                "count": 1
+            }
+        ],
+        "name": "Abyss Butcher",
+        "head": "140003"
+    },
+    "2": {
+        "id": 2,
+        "zslvmin": 10301,
+        "zslvmax": 10304,
+        "fbId": 75002,
+        "bossId": 75002,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 195002,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310610,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310611,
+                "count": 1
+            }
+        ],
+        "killDropshow": [
+            {
+                "type": 1,
+                "id": 350506,
+                "count": 1
+            }
+        ],
+        "lotteryDropshow": [
+            {
+                "type": 1,
+                "id": 350510,
+                "count": 1
+            }
+        ],
+        "name": "Executioner",
+        "head": "140002"
+    },
+    "3": {
+        "id": 3,
+        "zslvmin": 10401,
+        "zslvmax": 10404,
+        "fbId": 75003,
+        "bossId": 75003,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 195003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310610,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310611,
+                "count": 1
+            }
+        ],
+        "killDropshow": [
+            {
+                "type": 1,
+                "id": 350507,
+                "count": 1
+            }
+        ],
+        "lotteryDropshow": [
+            {
+                "type": 1,
+                "id": 350511,
+                "count": 1
+            }
+        ],
+        "name": "Doom God",
+        "head": "140001"
+    },
+    "4": {
+        "id": 4,
+        "zslvmin": 10501,
+        "zslvmax": 11504,
+        "fbId": 75004,
+        "bossId": 75004,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 195004,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310610,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310611,
+                "count": 1
+            }
+        ],
+        "killDropshow": [
+            {
+                "type": 1,
+                "id": 350508,
+                "count": 1
+            }
+        ],
+        "lotteryDropshow": [
+            {
+                "type": 1,
+                "id": 350512,
+                "count": 1
+            }
+        ],
+        "name": "Ancient Demon",
+        "head": "140008"
+    }
+}

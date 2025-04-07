@@ -1,0 +1,117 @@
+{
+    "1": {
+        "1": {
+            "carlevel": 1,
+            "id": 1,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 4800000
+        },
+        "2": {
+            "carlevel": 1,
+            "id": 2,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 4800000
+        },
+        "3": {
+            "carlevel": 1,
+            "id": 3,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 4800000
+        }
+    },
+    "2": {
+        "1": {
+            "carlevel": 2,
+            "id": 1,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 9600000
+        },
+        "2": {
+            "carlevel": 2,
+            "id": 2,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 9600000
+        },
+        "3": {
+            "carlevel": 2,
+            "id": 3,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 9600000
+        }
+    },
+    "3": {
+        "1": {
+            "carlevel": 3,
+            "id": 1,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 14400000
+        },
+        "2": {
+            "carlevel": 3,
+            "id": 2,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 14400000
+        },
+        "3": {
+            "carlevel": 3,
+            "id": 3,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 14400000
+        }
+    },
+    "4": {
+        "1": {
+            "carlevel": 4,
+            "id": 1,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 19200000
+        },
+        "2": {
+            "carlevel": 4,
+            "id": 2,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 19200000
+        },
+        "3": {
+            "carlevel": 4,
+            "id": 3,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 19200000
+        }
+    },
+    "5": {
+        "1": {
+            "carlevel": 5,
+            "id": 1,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 24000000
+        },
+        "2": {
+            "carlevel": 5,
+            "id": 2,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 24000000
+        },
+        "3": {
+            "carlevel": 5,
+            "id": 3,
+            "name": "Treasure Guard",
+            "level": 400,
+            "power": 24000000
+        }
+    }
+}

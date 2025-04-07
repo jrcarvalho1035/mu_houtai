@@ -1,0 +1,205 @@
+{
+    "1": {
+        "id": 1,
+        "zhuansheng": 10000,
+        "buyAct": 1,
+        "power": 400000,
+        "desc": "Equip CP Medal to increase CP:400000"
+    },
+    "2": {
+        "id": 2,
+        "zhuansheng": 10101,
+        "buyAct": 0,
+        "power": 600000,
+        "desc": "Rebirth Level reaches M1 R1 to boost CP to :600000"
+    },
+    "3": {
+        "id": 3,
+        "zhuansheng": 10102,
+        "buyAct": 0,
+        "power": 900000,
+        "desc": "Rebirth Level reaches M1 R2 to boost CP to :900000"
+    },
+    "4": {
+        "id": 4,
+        "zhuansheng": 10103,
+        "buyAct": 0,
+        "power": 1200000,
+        "desc": "Rebirth Level reaches M1 R3 to boost CP to :1200000"
+    },
+    "5": {
+        "id": 5,
+        "zhuansheng": 10104,
+        "buyAct": 0,
+        "power": 1600000,
+        "desc": "Rebirth Level reaches M1 R4 to boost CP to :1600000"
+    },
+    "6": {
+        "id": 6,
+        "zhuansheng": 10201,
+        "buyAct": 0,
+        "power": 2000000,
+        "desc": "Rebirth Level reaches M2 R1 to boost CP to :2000000"
+    },
+    "7": {
+        "id": 7,
+        "zhuansheng": 10202,
+        "buyAct": 0,
+        "power": 2500000,
+        "desc": "Rebirth Level reaches M2 R2 to boost CP to :2500000"
+    },
+    "8": {
+        "id": 8,
+        "zhuansheng": 10203,
+        "buyAct": 0,
+        "power": 3000000,
+        "desc": "Rebirth Level reaches M2 R3 to boost CP to :3000000"
+    },
+    "9": {
+        "id": 9,
+        "zhuansheng": 10204,
+        "buyAct": 0,
+        "power": 3600000,
+        "desc": "Rebirth Level reaches M2 R4 to boost CP to :3600000"
+    },
+    "10": {
+        "id": 10,
+        "zhuansheng": 10301,
+        "buyAct": 0,
+        "power": 4200000,
+        "desc": "Rebirth Level reaches M3 R1 to boost CP to :4200000"
+    },
+    "11": {
+        "id": 11,
+        "zhuansheng": 10302,
+        "buyAct": 0,
+        "power": 5000000,
+        "desc": "Rebirth Level reaches M3 R2 to boost CP to :5000000"
+    },
+    "12": {
+        "id": 12,
+        "zhuansheng": 10303,
+        "buyAct": 0,
+        "power": 5800000,
+        "desc": "Rebirth Level reaches M3 R3 to boost CP to :5800000"
+    },
+    "13": {
+        "id": 13,
+        "zhuansheng": 10304,
+        "buyAct": 0,
+        "power": 6800000,
+        "desc": "Rebirth Level reaches M3 R4 to boost CP to :6800000"
+    },
+    "14": {
+        "id": 14,
+        "zhuansheng": 10401,
+        "buyAct": 0,
+        "power": 7800000,
+        "desc": "Rebirth Level reaches M4 R1 to boost CP to :7800000"
+    },
+    "15": {
+        "id": 15,
+        "zhuansheng": 10402,
+        "buyAct": 0,
+        "power": 9000000,
+        "desc": "Rebirth Level reaches M4 R2 to boost CP to :9000000"
+    },
+    "16": {
+        "id": 16,
+        "zhuansheng": 10403,
+        "buyAct": 0,
+        "power": 10500000,
+        "desc": "Rebirth Level reaches M4 R3 to boost CP to :10500000"
+    },
+    "17": {
+        "id": 17,
+        "zhuansheng": 10404,
+        "buyAct": 0,
+        "power": 12000000,
+        "desc": "Rebirth Level reaches M4 R4 to boost CP to :12000000"
+    },
+    "18": {
+        "id": 18,
+        "zhuansheng": 10501,
+        "buyAct": 0,
+        "power": 13500000,
+        "desc": "Rebirth Level reaches M5 R1 to boost CP to :13500000"
+    },
+    "19": {
+        "id": 19,
+        "zhuansheng": 10502,
+        "buyAct": 0,
+        "power": 15000000,
+        "desc": "Rebirth Level reaches M5 R2 to boost CP to :15000000"
+    },
+    "20": {
+        "id": 20,
+        "zhuansheng": 10503,
+        "buyAct": 0,
+        "power": 16600000,
+        "desc": "Rebirth Level reaches M5 R3 to boost CP to :16600000"
+    },
+    "21": {
+        "id": 21,
+        "zhuansheng": 10504,
+        "buyAct": 0,
+        "power": 18200000,
+        "desc": "Rebirth Level reaches M5 R4 to boost CP to :18200000"
+    },
+    "22": {
+        "id": 22,
+        "zhuansheng": 10601,
+        "buyAct": 0,
+        "power": 19800000,
+        "desc": "Rebirth Level reaches M6 R1 to boost CP to :19800000"
+    },
+    "23": {
+        "id": 23,
+        "zhuansheng": 10602,
+        "buyAct": 0,
+        "power": 21400000,
+        "desc": "Rebirth Level reaches M6 R2 to boost CP to :21400000"
+    },
+    "24": {
+        "id": 24,
+        "zhuansheng": 10603,
+        "buyAct": 0,
+        "power": 23000000,
+        "desc": "Rebirth Level reaches M6 R3 to boost CP to :23000000"
+    },
+    "25": {
+        "id": 25,
+        "zhuansheng": 10604,
+        "buyAct": 0,
+        "power": 25000000,
+        "desc": "Rebirth Level reaches M6 R4 to boost CP to :25000000"
+    },
+    "26": {
+        "id": 26,
+        "zhuansheng": 10701,
+        "buyAct": 0,
+        "power": 27000000,
+        "desc": "Rebirth Level reaches M7 R1 to boost CP to :27000000"
+    },
+    "27": {
+        "id": 27,
+        "zhuansheng": 10702,
+        "buyAct": 0,
+        "power": 29000000,
+        "desc": "Rebirth Level reaches M7 R2 to boost CP to :29000000"
+    },
+    "28": {
+        "id": 28,
+        "zhuansheng": 10703,
+        "buyAct": 0,
+        "power": 32000000,
+        "desc": "Rebirth Level reaches M7 R3 to boost CP to :32000000"
+    },
+    "29": {
+        "id": 29,
+        "zhuansheng": 10704,
+        "buyAct": 0,
+        "power": 35000000,
+        "desc": "Rebirth Level reaches M7 R4 to boost CP to :35000000"
+    }
+}

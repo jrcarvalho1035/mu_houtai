@@ -1,0 +1,85 @@
+{
+    "1": {
+        "id": 1,
+        "min": 1,
+        "max": 1,
+        "needScore": 1000,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 380046,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 39,
+                "count": 7000
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "min": 2,
+        "max": 2,
+        "needScore": 1000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 39,
+                "count": 5000
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "min": 3,
+        "max": 3,
+        "needScore": 1000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 39,
+                "count": 4000
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "min": 4,
+        "max": 4,
+        "needScore": 1000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 39,
+                "count": 3000
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "min": 5,
+        "max": 5,
+        "needScore": 1000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 39,
+                "count": 2500
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "min": 6,
+        "max": 10,
+        "needScore": 1000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 39,
+                "count": 2000
+            }
+        ]
+    }
+}

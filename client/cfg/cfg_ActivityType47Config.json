@@ -1,0 +1,161 @@
+{
+    "1232": {
+        "1": {
+            "id": 1232,
+            "index": 1,
+            "subType": 1,
+            "type": 1,
+            "day": 2,
+            "val": 12800,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1082011,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 1500
+                },
+                {
+                    "type": 1,
+                    "id": 1081504,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 1082000,
+                    "count": 500
+                }
+            ],
+            "mcIcon": {
+                "type": 4,
+                "param": 11,
+                "scale": 0.4,
+                "y": 60
+            },
+            "mcIconTop": [],
+            "mcItemId": 1082011
+        },
+        "2": {
+            "id": 1232,
+            "index": 2,
+            "subType": 1,
+            "type": 1,
+            "day": 4,
+            "val": 12800,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010119,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 3000
+                },
+                {
+                    "type": 1,
+                    "id": 1010404,
+                    "count": 3
+                },
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 1000
+                }
+            ],
+            "mcIcon": {
+                "type": 2,
+                "param": 19,
+                "scale": 0.35,
+                "y": 1
+            },
+            "mcIconTop": [],
+            "mcItemId": 1010119
+        },
+        "3": {
+            "id": 1232,
+            "index": 3,
+            "subType": 1,
+            "type": 1,
+            "day": 7,
+            "val": 12800,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1060015,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 4500
+                },
+                {
+                    "type": 1,
+                    "id": 1061006,
+                    "count": 5
+                },
+                {
+                    "type": 1,
+                    "id": 1061001,
+                    "count": 1500
+                }
+            ],
+            "mcIcon": {
+                "type": 11,
+                "param": 115,
+                "scale": 0.36,
+                "y": 45
+            },
+            "mcIconTop": [],
+            "mcItemId": 1060015
+        },
+        "4": {
+            "id": 1232,
+            "index": 4,
+            "subType": 1,
+            "type": 2,
+            "day": 7,
+            "val": 666600,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1050008,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 1052012,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 66666
+                },
+                {
+                    "type": 1,
+                    "id": 1051006,
+                    "count": 20
+                }
+            ],
+            "mcIcon": {
+                "type": 8,
+                "param": 108,
+                "scale": 0.8,
+                "y": 140
+            },
+            "mcIconTop": {
+                "type": 8,
+                "param": 108,
+                "scale": 0.48,
+                "y": 60
+            },
+            "mcItemId": 1050008
+        }
+    }
+}

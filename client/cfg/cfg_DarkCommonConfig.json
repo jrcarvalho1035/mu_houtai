@@ -1,0 +1,9 @@
+{
+    "stageMenu": [
+        2,
+        4,
+        6,
+        8
+    ],
+    "desc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards"
+}

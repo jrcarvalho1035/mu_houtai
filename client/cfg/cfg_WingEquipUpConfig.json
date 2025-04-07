@@ -1,0 +1,1862 @@
+{
+    "610101": {
+        "targetid": 610101,
+        "level": 1,
+        "needitem": [],
+        "mainitem": []
+    },
+    "610102": {
+        "targetid": 610102,
+        "level": 1,
+        "needitem": [],
+        "mainitem": []
+    },
+    "610103": {
+        "targetid": 610103,
+        "level": 1,
+        "needitem": [],
+        "mainitem": []
+    },
+    "610104": {
+        "targetid": 610104,
+        "level": 1,
+        "needitem": [],
+        "mainitem": []
+    },
+    "610105": {
+        "targetid": 610105,
+        "level": 1,
+        "needitem": [],
+        "mainitem": []
+    },
+    "610106": {
+        "targetid": 610106,
+        "level": 1,
+        "needitem": [],
+        "mainitem": []
+    },
+    "610201": {
+        "targetid": 610201,
+        "level": 2,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 10
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610101,
+            "count": 3
+        }
+    },
+    "610202": {
+        "targetid": 610202,
+        "level": 2,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 10
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610102,
+            "count": 3
+        }
+    },
+    "610203": {
+        "targetid": 610203,
+        "level": 2,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 10
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610103,
+            "count": 3
+        }
+    },
+    "610204": {
+        "targetid": 610204,
+        "level": 2,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 10
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610104,
+            "count": 3
+        }
+    },
+    "610205": {
+        "targetid": 610205,
+        "level": 2,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 10
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610105,
+            "count": 3
+        }
+    },
+    "610206": {
+        "targetid": 610206,
+        "level": 2,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 10
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610106,
+            "count": 3
+        }
+    },
+    "610301": {
+        "targetid": 610301,
+        "level": 3,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 20
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610201,
+            "count": 3
+        }
+    },
+    "610302": {
+        "targetid": 610302,
+        "level": 3,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 20
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610202,
+            "count": 3
+        }
+    },
+    "610303": {
+        "targetid": 610303,
+        "level": 3,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 20
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610203,
+            "count": 3
+        }
+    },
+    "610304": {
+        "targetid": 610304,
+        "level": 3,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 20
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610204,
+            "count": 3
+        }
+    },
+    "610305": {
+        "targetid": 610305,
+        "level": 3,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 20
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610205,
+            "count": 3
+        }
+    },
+    "610306": {
+        "targetid": 610306,
+        "level": 3,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 20
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610206,
+            "count": 3
+        }
+    },
+    "610401": {
+        "targetid": 610401,
+        "level": 4,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 40
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610301,
+            "count": 3
+        }
+    },
+    "610402": {
+        "targetid": 610402,
+        "level": 4,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 40
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610302,
+            "count": 3
+        }
+    },
+    "610403": {
+        "targetid": 610403,
+        "level": 4,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 40
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610303,
+            "count": 3
+        }
+    },
+    "610404": {
+        "targetid": 610404,
+        "level": 4,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 40
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610304,
+            "count": 3
+        }
+    },
+    "610405": {
+        "targetid": 610405,
+        "level": 4,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 40
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610305,
+            "count": 3
+        }
+    },
+    "610406": {
+        "targetid": 610406,
+        "level": 4,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 40
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610306,
+            "count": 3
+        }
+    },
+    "610501": {
+        "targetid": 610501,
+        "level": 5,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 80
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610401,
+            "count": 3
+        }
+    },
+    "610502": {
+        "targetid": 610502,
+        "level": 5,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 80
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610402,
+            "count": 3
+        }
+    },
+    "610503": {
+        "targetid": 610503,
+        "level": 5,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 80
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610403,
+            "count": 3
+        }
+    },
+    "610504": {
+        "targetid": 610504,
+        "level": 5,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 80
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610404,
+            "count": 3
+        }
+    },
+    "610505": {
+        "targetid": 610505,
+        "level": 5,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 80
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610405,
+            "count": 3
+        }
+    },
+    "610506": {
+        "targetid": 610506,
+        "level": 5,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 80
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610406,
+            "count": 3
+        }
+    },
+    "610601": {
+        "targetid": 610601,
+        "level": 6,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 160
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610501,
+            "count": 3
+        }
+    },
+    "610602": {
+        "targetid": 610602,
+        "level": 6,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 160
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610502,
+            "count": 3
+        }
+    },
+    "610603": {
+        "targetid": 610603,
+        "level": 6,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 160
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610503,
+            "count": 3
+        }
+    },
+    "610604": {
+        "targetid": 610604,
+        "level": 6,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 160
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610504,
+            "count": 3
+        }
+    },
+    "610605": {
+        "targetid": 610605,
+        "level": 6,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 160
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610505,
+            "count": 3
+        }
+    },
+    "610606": {
+        "targetid": 610606,
+        "level": 6,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 160
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610506,
+            "count": 3
+        }
+    },
+    "610701": {
+        "targetid": 610701,
+        "level": 7,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 320
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610601,
+            "count": 3
+        }
+    },
+    "610702": {
+        "targetid": 610702,
+        "level": 7,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 320
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610602,
+            "count": 3
+        }
+    },
+    "610703": {
+        "targetid": 610703,
+        "level": 7,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 320
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610603,
+            "count": 3
+        }
+    },
+    "610704": {
+        "targetid": 610704,
+        "level": 7,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 320
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610604,
+            "count": 3
+        }
+    },
+    "610705": {
+        "targetid": 610705,
+        "level": 7,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 320
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610605,
+            "count": 3
+        }
+    },
+    "610706": {
+        "targetid": 610706,
+        "level": 7,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 320
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610606,
+            "count": 3
+        }
+    },
+    "610801": {
+        "targetid": 610801,
+        "level": 8,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 640
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610701,
+            "count": 3
+        }
+    },
+    "610802": {
+        "targetid": 610802,
+        "level": 8,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 640
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610702,
+            "count": 3
+        }
+    },
+    "610803": {
+        "targetid": 610803,
+        "level": 8,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 640
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610703,
+            "count": 3
+        }
+    },
+    "610804": {
+        "targetid": 610804,
+        "level": 8,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 640
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610704,
+            "count": 3
+        }
+    },
+    "610805": {
+        "targetid": 610805,
+        "level": 8,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 640
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610705,
+            "count": 3
+        }
+    },
+    "610806": {
+        "targetid": 610806,
+        "level": 8,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 640
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610706,
+            "count": 3
+        }
+    },
+    "610901": {
+        "targetid": 610901,
+        "level": 9,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 1280
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610801,
+            "count": 3
+        }
+    },
+    "610902": {
+        "targetid": 610902,
+        "level": 9,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 1280
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610802,
+            "count": 3
+        }
+    },
+    "610903": {
+        "targetid": 610903,
+        "level": 9,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 1280
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610803,
+            "count": 3
+        }
+    },
+    "610904": {
+        "targetid": 610904,
+        "level": 9,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 1280
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610804,
+            "count": 3
+        }
+    },
+    "610905": {
+        "targetid": 610905,
+        "level": 9,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 1280
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610805,
+            "count": 3
+        }
+    },
+    "610906": {
+        "targetid": 610906,
+        "level": 9,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 1280
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610806,
+            "count": 3
+        }
+    },
+    "611001": {
+        "targetid": 611001,
+        "level": 10,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 2560
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610901,
+            "count": 3
+        }
+    },
+    "611002": {
+        "targetid": 611002,
+        "level": 10,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 2560
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610902,
+            "count": 3
+        }
+    },
+    "611003": {
+        "targetid": 611003,
+        "level": 10,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 2560
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610903,
+            "count": 3
+        }
+    },
+    "611004": {
+        "targetid": 611004,
+        "level": 10,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 2560
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610904,
+            "count": 3
+        }
+    },
+    "611005": {
+        "targetid": 611005,
+        "level": 10,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 2560
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610905,
+            "count": 3
+        }
+    },
+    "611006": {
+        "targetid": 611006,
+        "level": 10,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 2560
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 610906,
+            "count": 3
+        }
+    },
+    "611101": {
+        "targetid": 611101,
+        "level": 11,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 5120
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611001,
+            "count": 3
+        }
+    },
+    "611102": {
+        "targetid": 611102,
+        "level": 11,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 5120
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611002,
+            "count": 3
+        }
+    },
+    "611103": {
+        "targetid": 611103,
+        "level": 11,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 5120
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611003,
+            "count": 3
+        }
+    },
+    "611104": {
+        "targetid": 611104,
+        "level": 11,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 5120
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611004,
+            "count": 3
+        }
+    },
+    "611105": {
+        "targetid": 611105,
+        "level": 11,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 5120
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611005,
+            "count": 3
+        }
+    },
+    "611106": {
+        "targetid": 611106,
+        "level": 11,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 5120
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611006,
+            "count": 3
+        }
+    },
+    "611201": {
+        "targetid": 611201,
+        "level": 12,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 7500
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611101,
+            "count": 3
+        }
+    },
+    "611202": {
+        "targetid": 611202,
+        "level": 12,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 7500
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611102,
+            "count": 3
+        }
+    },
+    "611203": {
+        "targetid": 611203,
+        "level": 12,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 7500
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611103,
+            "count": 3
+        }
+    },
+    "611204": {
+        "targetid": 611204,
+        "level": 12,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 7500
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611104,
+            "count": 3
+        }
+    },
+    "611205": {
+        "targetid": 611205,
+        "level": 12,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 7500
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611105,
+            "count": 3
+        }
+    },
+    "611206": {
+        "targetid": 611206,
+        "level": 12,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 7500
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611106,
+            "count": 3
+        }
+    },
+    "611301": {
+        "targetid": 611301,
+        "level": 13,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 10000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611201,
+            "count": 3
+        }
+    },
+    "611302": {
+        "targetid": 611302,
+        "level": 13,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 10000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611202,
+            "count": 3
+        }
+    },
+    "611303": {
+        "targetid": 611303,
+        "level": 13,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 10000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611203,
+            "count": 3
+        }
+    },
+    "611304": {
+        "targetid": 611304,
+        "level": 13,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 10000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611204,
+            "count": 3
+        }
+    },
+    "611305": {
+        "targetid": 611305,
+        "level": 13,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 10000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611205,
+            "count": 3
+        }
+    },
+    "611306": {
+        "targetid": 611306,
+        "level": 13,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 10000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611206,
+            "count": 3
+        }
+    },
+    "611401": {
+        "targetid": 611401,
+        "level": 14,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 12500
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611301,
+            "count": 3
+        }
+    },
+    "611402": {
+        "targetid": 611402,
+        "level": 14,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 12500
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611302,
+            "count": 3
+        }
+    },
+    "611403": {
+        "targetid": 611403,
+        "level": 14,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 12500
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611303,
+            "count": 3
+        }
+    },
+    "611404": {
+        "targetid": 611404,
+        "level": 14,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 12500
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611304,
+            "count": 3
+        }
+    },
+    "611405": {
+        "targetid": 611405,
+        "level": 14,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 12500
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611305,
+            "count": 3
+        }
+    },
+    "611406": {
+        "targetid": 611406,
+        "level": 14,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 12500
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611306,
+            "count": 3
+        }
+    },
+    "611501": {
+        "targetid": 611501,
+        "level": 15,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 15000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611401,
+            "count": 3
+        }
+    },
+    "611502": {
+        "targetid": 611502,
+        "level": 15,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 15000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611402,
+            "count": 3
+        }
+    },
+    "611503": {
+        "targetid": 611503,
+        "level": 15,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 15000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611403,
+            "count": 3
+        }
+    },
+    "611504": {
+        "targetid": 611504,
+        "level": 15,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 15000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611404,
+            "count": 3
+        }
+    },
+    "611505": {
+        "targetid": 611505,
+        "level": 15,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 15000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611405,
+            "count": 3
+        }
+    },
+    "611506": {
+        "targetid": 611506,
+        "level": 15,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 15000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611406,
+            "count": 3
+        }
+    },
+    "611601": {
+        "targetid": 611601,
+        "level": 16,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 20000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611501,
+            "count": 3
+        }
+    },
+    "611602": {
+        "targetid": 611602,
+        "level": 16,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 20000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611502,
+            "count": 3
+        }
+    },
+    "611603": {
+        "targetid": 611603,
+        "level": 16,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 20000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611503,
+            "count": 3
+        }
+    },
+    "611604": {
+        "targetid": 611604,
+        "level": 16,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 20000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611504,
+            "count": 3
+        }
+    },
+    "611605": {
+        "targetid": 611605,
+        "level": 16,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 20000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611505,
+            "count": 3
+        }
+    },
+    "611606": {
+        "targetid": 611606,
+        "level": 16,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 20000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611506,
+            "count": 3
+        }
+    },
+    "611701": {
+        "targetid": 611701,
+        "level": 17,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 25000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611601,
+            "count": 3
+        }
+    },
+    "611702": {
+        "targetid": 611702,
+        "level": 17,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 25000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611602,
+            "count": 3
+        }
+    },
+    "611703": {
+        "targetid": 611703,
+        "level": 17,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 25000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611603,
+            "count": 3
+        }
+    },
+    "611704": {
+        "targetid": 611704,
+        "level": 17,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 25000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611604,
+            "count": 3
+        }
+    },
+    "611705": {
+        "targetid": 611705,
+        "level": 17,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 25000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611605,
+            "count": 3
+        }
+    },
+    "611706": {
+        "targetid": 611706,
+        "level": 17,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 25000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611606,
+            "count": 3
+        }
+    },
+    "611801": {
+        "targetid": 611801,
+        "level": 18,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 30000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611701,
+            "count": 3
+        }
+    },
+    "611802": {
+        "targetid": 611802,
+        "level": 18,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 30000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611702,
+            "count": 3
+        }
+    },
+    "611803": {
+        "targetid": 611803,
+        "level": 18,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 30000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611703,
+            "count": 3
+        }
+    },
+    "611804": {
+        "targetid": 611804,
+        "level": 18,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 30000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611704,
+            "count": 3
+        }
+    },
+    "611805": {
+        "targetid": 611805,
+        "level": 18,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 30000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611705,
+            "count": 3
+        }
+    },
+    "611806": {
+        "targetid": 611806,
+        "level": 18,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 30000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611706,
+            "count": 3
+        }
+    },
+    "611901": {
+        "targetid": 611901,
+        "level": 19,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 35000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611801,
+            "count": 3
+        }
+    },
+    "611902": {
+        "targetid": 611902,
+        "level": 19,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 35000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611802,
+            "count": 3
+        }
+    },
+    "611903": {
+        "targetid": 611903,
+        "level": 19,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 35000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611803,
+            "count": 3
+        }
+    },
+    "611904": {
+        "targetid": 611904,
+        "level": 19,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 35000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611804,
+            "count": 3
+        }
+    },
+    "611905": {
+        "targetid": 611905,
+        "level": 19,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 35000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611805,
+            "count": 3
+        }
+    },
+    "611906": {
+        "targetid": 611906,
+        "level": 19,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 35000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611806,
+            "count": 3
+        }
+    },
+    "612001": {
+        "targetid": 612001,
+        "level": 20,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 40000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611901,
+            "count": 3
+        }
+    },
+    "612002": {
+        "targetid": 612002,
+        "level": 20,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 40000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611902,
+            "count": 3
+        }
+    },
+    "612003": {
+        "targetid": 612003,
+        "level": 20,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 40000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611903,
+            "count": 3
+        }
+    },
+    "612004": {
+        "targetid": 612004,
+        "level": 20,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 40000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611904,
+            "count": 3
+        }
+    },
+    "612005": {
+        "targetid": 612005,
+        "level": 20,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 40000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611905,
+            "count": 3
+        }
+    },
+    "612006": {
+        "targetid": 612006,
+        "level": 20,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 40000
+            }
+        ],
+        "mainitem": {
+            "type": 1,
+            "id": 611906,
+            "count": 3
+        }
+    }
+}

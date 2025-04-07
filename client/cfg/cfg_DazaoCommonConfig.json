@@ -1,0 +1,22 @@
+{
+    "equipConsumeDesc": "Gear Boss, Multiple Boss, Boss Homestead, Cross-server Boss",
+    "ringConsumeDesc": "Gear Hunt, Peak Hunt, Deity Hunt",
+    "footConsumeDesc": "Poseidon's Treasure",
+    "minRankGodRing": [
+        181507
+    ],
+    "minRankModRing": [
+        191507
+    ],
+    "minStarGodRing": [
+        181507
+    ],
+    "minStarMoRing": [
+        191507
+    ],
+    "ringMaxRank": 21,
+    "ringMaxStar": 10,
+    "ysConsumeDesc": "Element Ethereal Realm",
+    "huanshouConsumeDesc": "Eudemon Dungeon",
+    "sjzhConsumeDesc": "Miracle Realm"
+}

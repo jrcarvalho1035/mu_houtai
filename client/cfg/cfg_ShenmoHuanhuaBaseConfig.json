@@ -1,0 +1,2172 @@
+{
+    "1": {
+        "id": 1,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Thunder Angel",
+        "dec": "",
+        "power": 624,
+        "bodyId": 1001,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20403,
+        "skillid": [
+            20401,
+            20402
+        ],
+        "height": 200,
+        "stoneid": 0,
+        "stoneaddexp": 6700,
+        "dir": 4,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "2": {
+        "id": 2,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiery Demon",
+        "dec": "",
+        "power": 20100,
+        "bodyId": 1002,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20203,
+        "skillid": [
+            20201,
+            20202
+        ],
+        "height": 200,
+        "stoneid": 1051103,
+        "stoneaddexp": 23100,
+        "dir": 4,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "3": {
+        "id": 3,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Dark Reaper",
+        "dec": "",
+        "power": 89400,
+        "bodyId": 1003,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20303,
+        "skillid": [
+            20301,
+            20302
+        ],
+        "height": 250,
+        "stoneid": 1051104,
+        "stoneaddexp": 49600,
+        "dir": 4,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "4": {
+        "id": 4,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Angel of Judgment",
+        "dec": "",
+        "power": 238200,
+        "bodyId": 1004,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20103,
+        "skillid": [
+            20101,
+            20102
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 86600,
+        "dir": 4,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "5": {
+        "id": 5,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fallen Angel",
+        "dec": "",
+        "power": 498000,
+        "bodyId": 1005,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20503,
+        "skillid": [
+            20501,
+            20502
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 166000,
+        "dir": 4,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "6": {
+        "id": 6,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiendish Dragon",
+        "dec": "",
+        "power": 996000,
+        "bodyId": 1007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20703,
+        "skillid": [
+            20701,
+            20702
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 331000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "7": {
+        "id": 7,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Souleater Bull",
+        "dec": "",
+        "power": 1989000,
+        "bodyId": 1008,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20803,
+        "skillid": [
+            20801,
+            20802
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 596000,
+        "dir": 4,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "8": {
+        "id": 8,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Frost Giant Spider",
+        "dec": "",
+        "power": 3777000,
+        "bodyId": 1009,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20903,
+        "skillid": [
+            20901,
+            20902
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 961000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "9": {
+        "id": 9,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fallen Angel",
+        "dec": "",
+        "power": 6660000,
+        "bodyId": 1010,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 21003,
+        "skillid": [
+            21001,
+            21002
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 1426000,
+        "dir": 4,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "10": {
+        "id": 10,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiendish Dragon",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 1007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20703,
+        "skillid": [
+            20701,
+            20702
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 1764000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "11": {
+        "id": 11,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiendish Dragon",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 1007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20703,
+        "skillid": [
+            20701,
+            20702
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 1764000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "12": {
+        "id": 12,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiendish Dragon",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 1007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20703,
+        "skillid": [
+            20701,
+            20702
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 1764000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "13": {
+        "id": 13,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiendish Dragon",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 1007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20703,
+        "skillid": [
+            20701,
+            20702
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 1764000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "14": {
+        "id": 14,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiendish Dragon",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 1007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20703,
+        "skillid": [
+            20701,
+            20702
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 1764000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "15": {
+        "id": 15,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiendish Dragon",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 1007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20703,
+        "skillid": [
+            20701,
+            20702
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 1764000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "16": {
+        "id": 16,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiendish Dragon",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 1007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20703,
+        "skillid": [
+            20701,
+            20702
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 1764000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "17": {
+        "id": 17,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiendish Dragon",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 1007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20703,
+        "skillid": [
+            20701,
+            20702
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 1764000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "18": {
+        "id": 18,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiendish Dragon",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 1007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20703,
+        "skillid": [
+            20701,
+            20702
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 1764000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "19": {
+        "id": 19,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiendish Dragon",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 1007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20703,
+        "skillid": [
+            20701,
+            20702
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 1764000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "20": {
+        "id": 20,
+        "quality": 0,
+        "srQuality": 0,
+        "name": "Fiendish Dragon",
+        "dec": "",
+        "power": 10938000,
+        "bodyId": 1007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20703,
+        "skillid": [
+            20701,
+            20702
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 1764000,
+        "dir": 5,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "101": {
+        "id": 101,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Frigid Queen",
+        "dec": "Opening Rank",
+        "power": 2000000,
+        "bodyId": 5001,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 30103,
+        "skillid": [
+            30101,
+            30102
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 90000
+            },
+            {
+                "type": 1,
+                "value": 1800000
+            },
+            {
+                "type": 62,
+                "value": 40000
+            },
+            {
+                "type": 5,
+                "value": 100000
+            },
+            {
+                "type": 11,
+                "value": 100000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050001,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "102": {
+        "id": 102,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Storm Lord",
+        "dec": "Next Week Event",
+        "power": 3000000,
+        "bodyId": 1006,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 30203,
+        "skillid": [
+            30201,
+            30202
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 150000
+            },
+            {
+                "type": 1,
+                "value": 3000000
+            },
+            {
+                "type": 62,
+                "value": 45000
+            },
+            {
+                "type": 5,
+                "value": 150000
+            },
+            {
+                "type": 11,
+                "value": 150000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050002,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "103": {
+        "id": 103,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "King of Doom",
+        "dec": "Event",
+        "power": 5000000,
+        "bodyId": 5002,
+        "wingId": 0,
+        "footId": 5002,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 20603,
+        "skillid": [
+            20601,
+            20602
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 230000
+            },
+            {
+                "type": 1,
+                "value": 4600000
+            },
+            {
+                "type": 62,
+                "value": 90000
+            },
+            {
+                "type": 5,
+                "value": 187500
+            },
+            {
+                "type": 11,
+                "value": 350000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050003,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "104": {
+        "id": 104,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Dark Angel",
+        "dec": "SVIP18",
+        "power": 5000000,
+        "bodyId": 5003,
+        "wingId": 0,
+        "footId": 5003,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 30303,
+        "skillid": [
+            30301,
+            30302
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 250000
+            },
+            {
+                "type": 1,
+                "value": 5000000
+            },
+            {
+                "type": 62,
+                "value": 80000
+            },
+            {
+                "type": 5,
+                "value": 200000
+            },
+            {
+                "type": 11,
+                "value": 300000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050004,
+                "count": 1
+            }
+        ],
+        "maxLevel": 4000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "105": {
+        "id": 105,
+        "quality": 5,
+        "srQuality": 4,
+        "name": "Warlord Athena",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 5004,
+        "wingId": 0,
+        "footId": 5004,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 30403,
+        "skillid": [
+            30401,
+            30402
+        ],
+        "height": 250,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 460000
+            },
+            {
+                "type": 1,
+                "value": 9200000
+            },
+            {
+                "type": 62,
+                "value": 180000
+            },
+            {
+                "type": 5,
+                "value": 375000
+            },
+            {
+                "type": 11,
+                "value": 700000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050005,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 0,
+        "resonanceCost": [],
+        "resonancePer": 0,
+        "resonanceAttr": []
+    },
+    "106": {
+        "id": 106,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Demon Angel",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 5005,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 30503,
+        "skillid": [
+            30501,
+            30502
+        ],
+        "height": 280,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 500000
+            },
+            {
+                "type": 1,
+                "value": 10000000
+            },
+            {
+                "type": 62,
+                "value": 160000
+            },
+            {
+                "type": 5,
+                "value": 400000
+            },
+            {
+                "type": 11,
+                "value": 600000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050006,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226105,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "107": {
+        "id": 107,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Healing Queen",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 5006,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 30603,
+        "skillid": [
+            30601,
+            30602
+        ],
+        "height": 280,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 520000
+            },
+            {
+                "type": 1,
+                "value": 11200000
+            },
+            {
+                "type": 62,
+                "value": 151000
+            },
+            {
+                "type": 5,
+                "value": 390000
+            },
+            {
+                "type": 11,
+                "value": 510000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050007,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226105,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "108": {
+        "id": 108,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Furious Waves",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 5007,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 30703,
+        "skillid": [
+            30701,
+            30702
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 510000
+            },
+            {
+                "type": 1,
+                "value": 10600000
+            },
+            {
+                "type": 62,
+                "value": 156000
+            },
+            {
+                "type": 5,
+                "value": 375000
+            },
+            {
+                "type": 11,
+                "value": 580000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050008,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226105,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "109": {
+        "id": 109,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Mecha Dragon",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 5008,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 30803,
+        "skillid": [
+            30801,
+            30802
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 5,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 490000
+            },
+            {
+                "type": 1,
+                "value": 10200000
+            },
+            {
+                "type": 62,
+                "value": 160000
+            },
+            {
+                "type": 5,
+                "value": 400000
+            },
+            {
+                "type": 11,
+                "value": 600000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050009,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226105,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "110": {
+        "id": 110,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Christmas Mecha",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 5009,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 30903,
+        "skillid": [
+            30901,
+            30902
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 500000
+            },
+            {
+                "type": 1,
+                "value": 9600000
+            },
+            {
+                "type": 62,
+                "value": 166000
+            },
+            {
+                "type": 5,
+                "value": 410000
+            },
+            {
+                "type": 11,
+                "value": 600000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050010,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226105,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "111": {
+        "id": 111,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Elemental Cerberus",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 5010,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 31003,
+        "skillid": [
+            31001,
+            31002
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 5,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 500000
+            },
+            {
+                "type": 1,
+                "value": 10000000
+            },
+            {
+                "type": 62,
+                "value": 160000
+            },
+            {
+                "type": 5,
+                "value": 400000
+            },
+            {
+                "type": 11,
+                "value": 600000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050011,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226105,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "112": {
+        "id": 112,
+        "quality": 5,
+        "srQuality": 5,
+        "name": "Monster Nian",
+        "dec": "Event",
+        "power": 10000000,
+        "bodyId": 5011,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 31103,
+        "skillid": [
+            31101,
+            31102
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 5,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 520000
+            },
+            {
+                "type": 1,
+                "value": 11200000
+            },
+            {
+                "type": 62,
+                "value": 151000
+            },
+            {
+                "type": 5,
+                "value": 390000
+            },
+            {
+                "type": 11,
+                "value": 510000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050012,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 1,
+        "resonanceCost": [
+            {
+                "id": 226105,
+                "count": 1
+            }
+        ],
+        "resonancePer": 200,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 16000000
+            }
+        ]
+    },
+    "113": {
+        "id": 113,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Emerald Dragon",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 5012,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 31203,
+        "skillid": [
+            31201,
+            31202
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000000
+            },
+            {
+                "type": 1,
+                "value": 19200000
+            },
+            {
+                "type": 62,
+                "value": 332000
+            },
+            {
+                "type": 5,
+                "value": 820000
+            },
+            {
+                "type": 11,
+                "value": 1200000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050013,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226115,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "114": {
+        "id": 114,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Evil Gunner",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 5013,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 31303,
+        "skillid": [
+            31301,
+            31302
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1040000
+            },
+            {
+                "type": 1,
+                "value": 22400000
+            },
+            {
+                "type": 62,
+                "value": 302000
+            },
+            {
+                "type": 5,
+                "value": 780000
+            },
+            {
+                "type": 11,
+                "value": 1020000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050014,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226115,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "116": {
+        "id": 116,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Music Star",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 5015,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 31503,
+        "skillid": [
+            31501,
+            31502
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1020000
+            },
+            {
+                "type": 1,
+                "value": 21200000
+            },
+            {
+                "type": 62,
+                "value": 312000
+            },
+            {
+                "type": 5,
+                "value": 750000
+            },
+            {
+                "type": 11,
+                "value": 1160000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050016,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226115,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "117": {
+        "id": 117,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Destroyer Dragon",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 5016,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 31603,
+        "skillid": [
+            31601,
+            31602
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 5,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000000
+            },
+            {
+                "type": 1,
+                "value": 19200000
+            },
+            {
+                "type": 62,
+                "value": 332000
+            },
+            {
+                "type": 5,
+                "value": 820000
+            },
+            {
+                "type": 11,
+                "value": 1200000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050017,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226115,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "118": {
+        "id": 118,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Core Destroyer",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 5017,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 31703,
+        "skillid": [
+            31701,
+            31702
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1040000
+            },
+            {
+                "type": 1,
+                "value": 22400000
+            },
+            {
+                "type": 62,
+                "value": 302000
+            },
+            {
+                "type": 5,
+                "value": 780000
+            },
+            {
+                "type": 11,
+                "value": 1020000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050018,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226115,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "119": {
+        "id": 119,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Summer Goddess",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 5018,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 31803,
+        "skillid": [
+            31801,
+            31802
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 980000
+            },
+            {
+                "type": 1,
+                "value": 20400000
+            },
+            {
+                "type": 62,
+                "value": 320000
+            },
+            {
+                "type": 5,
+                "value": 800000
+            },
+            {
+                "type": 11,
+                "value": 1200000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050019,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226115,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "120": {
+        "id": 120,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Supreme Goddess",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 5019,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 31903,
+        "skillid": [
+            31901,
+            31902
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1020000
+            },
+            {
+                "type": 1,
+                "value": 21200000
+            },
+            {
+                "type": 62,
+                "value": 312000
+            },
+            {
+                "type": 5,
+                "value": 750000
+            },
+            {
+                "type": 11,
+                "value": 1160000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050020,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226115,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    },
+    "121": {
+        "id": 121,
+        "quality": 6,
+        "srQuality": 6,
+        "name": "Moon Werewolf",
+        "dec": "Event",
+        "power": 20000000,
+        "bodyId": 5020,
+        "wingId": 0,
+        "footId": 0,
+        "hpparam": 0.4,
+        "atkparam": 1,
+        "duration": 10,
+        "cd": 60,
+        "scenecd": 5,
+        "appearskillid": 32003,
+        "skillid": [
+            32001,
+            32002
+        ],
+        "height": 320,
+        "stoneid": 0,
+        "stoneaddexp": 0,
+        "dir": 4,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1040000
+            },
+            {
+                "type": 1,
+                "value": 22400000
+            },
+            {
+                "type": 62,
+                "value": 302000
+            },
+            {
+                "type": 5,
+                "value": 780000
+            },
+            {
+                "type": 11,
+                "value": 1020000
+            },
+            {
+                "type": 71,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1050021,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "resonanceTime": 2,
+        "resonanceCost": [
+            {
+                "id": 226115,
+                "count": 1
+            }
+        ],
+        "resonancePer": 500,
+        "resonanceAttr": [
+            {
+                "type": 32,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 800000
+            },
+            {
+                "type": 1,
+                "value": 32000000
+            }
+        ]
+    }
+}

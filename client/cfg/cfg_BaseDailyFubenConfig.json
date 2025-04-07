@@ -1,0 +1,289 @@
+{
+    "10003": {
+        "fubenGroup": 10003,
+        "moneyCount": [
+            50,
+            100,
+            120,
+            150,
+            200,
+            250,
+            300,
+            350
+        ],
+        "name": "Coin",
+        "condition": {
+            "level": 1,
+            "custom": 9
+        },
+        "awards": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 0
+            }
+        ],
+        "sort": 1,
+        "helpId": 76,
+        "needkillcnt": 0
+    },
+    "10043": {
+        "fubenGroup": 10043,
+        "moneyCount": [
+            50,
+            100,
+            120,
+            150,
+            200,
+            250,
+            300,
+            350
+        ],
+        "name": "Talent",
+        "condition": {
+            "level": 1,
+            "custom": 11
+        },
+        "awards": [
+            {
+                "type": 0,
+                "id": 27,
+                "count": 0
+            }
+        ],
+        "sort": 5,
+        "helpId": 77,
+        "needkillcnt": 0
+    },
+    "10044": {
+        "fubenGroup": 10044,
+        "moneyCount": [
+            50,
+            100,
+            120,
+            150,
+            200,
+            250,
+            300,
+            350
+        ],
+        "name": "Avatar",
+        "condition": {
+            "level": 1,
+            "custom": 12
+        },
+        "awards": [
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1051002,
+                "count": 0
+            }
+        ],
+        "sort": 6,
+        "helpId": 78,
+        "needkillcnt": 4
+    },
+    "10045": {
+        "fubenGroup": 10045,
+        "moneyCount": [
+            50,
+            100,
+            120,
+            150,
+            200,
+            250,
+            300,
+            350
+        ],
+        "name": "Mercenary",
+        "condition": {
+            "level": 1,
+            "custom": 13
+        },
+        "awards": [
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1061002,
+                "count": 0
+            }
+        ],
+        "sort": 7,
+        "helpId": 79,
+        "needkillcnt": 4
+    },
+    "10046": {
+        "fubenGroup": 10046,
+        "moneyCount": [
+            50,
+            100,
+            120,
+            150,
+            200,
+            250,
+            300,
+            350
+        ],
+        "name": "Fairy",
+        "condition": {
+            "level": 1,
+            "custom": 14
+        },
+        "awards": [
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1071002,
+                "count": 0
+            }
+        ],
+        "sort": 8,
+        "helpId": 80,
+        "needkillcnt": 4
+    },
+    "10047": {
+        "fubenGroup": 10047,
+        "moneyCount": [
+            50,
+            100,
+            120,
+            150,
+            200,
+            250,
+            300,
+            350
+        ],
+        "name": "Artifact",
+        "condition": {
+            "level": 1,
+            "custom": 70
+        },
+        "awards": [
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1010401,
+                "count": 0
+            }
+        ],
+        "sort": 9,
+        "helpId": 81,
+        "needkillcnt": 4
+    },
+    "10048": {
+        "fubenGroup": 10048,
+        "moneyCount": [
+            50,
+            100,
+            120,
+            150,
+            200,
+            250,
+            300,
+            350
+        ],
+        "name": "Wings",
+        "condition": {
+            "level": 1,
+            "custom": 80
+        },
+        "awards": [
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1081401,
+                "count": 0
+            }
+        ],
+        "sort": 10,
+        "helpId": 82,
+        "needkillcnt": 4
+    },
+    "10049": {
+        "fubenGroup": 10049,
+        "moneyCount": [
+            50,
+            100,
+            120,
+            150,
+            200,
+            250,
+            300,
+            350
+        ],
+        "name": "Divine Gear",
+        "condition": {
+            "level": 1,
+            "custom": 90
+        },
+        "awards": [
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1081501,
+                "count": 0
+            }
+        ],
+        "sort": 11,
+        "helpId": 83,
+        "needkillcnt": 4
+    },
+    "10052": {
+        "fubenGroup": 10052,
+        "moneyCount": [
+            50,
+            100,
+            120,
+            150,
+            200,
+            250,
+            300,
+            350
+        ],
+        "name": "Merlin",
+        "condition": {
+            "level": 1,
+            "custom": 90
+        },
+        "awards": [
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 1081601,
+                "count": 0
+            }
+        ],
+        "sort": 12,
+        "helpId": 84,
+        "needkillcnt": 4
+    }
+}

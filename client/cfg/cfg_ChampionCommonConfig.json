@@ -1,0 +1,123 @@
+{
+    "bossChallengeTime": 180,
+    "teamIcons": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10"
+    ],
+    "changeCostItem": [
+        {
+            "type": 0,
+            "id": 2,
+            "count": 1000
+        }
+    ],
+    "winScore": 30000,
+    "worshipRewards": [
+        {
+            "type": 0,
+            "id": 2,
+            "count": 100
+        },
+        {
+            "type": 0,
+            "id": 40,
+            "count": 200
+        }
+    ],
+    "worshiptimes": 3,
+    "bossRewards": [
+        {
+            "type": 1,
+            "id": 382000,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1081030,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 650001,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 40,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 770805,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 770905,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 770304,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 770404,
+            "count": 1
+        }
+    ],
+    "stateScores": [
+        2000,
+        6000
+    ],
+    "fbBossIds": [
+        94101,
+        94102,
+        94103,
+        94104
+    ],
+    "fenzuTimeDec": "Team grouping will start at |C:0x00ff00&T:18:00| today",
+    "fenzuTipsDec": "The promotion match opens at |C:0x00ff00&T:20:30| tonight\nYou will be in the |C:0x00ff00&T:$teamName$| team of |C:0x00ff00&T:$str$| ",
+    "jinjisaiDec1": "Promotion match round 1 starts at |C:0x00ff00&T:20:32|, please wait in the Battle Zone |C:0x00ff00&T:2| minutes in advance",
+    "jinjisaiDec2": "Promotion match round 2 starts at |C:0x00ff00&T:20:42|, please wait in the Battle Zone |C:0x00ff00&T:2| minutes in advance",
+    "jinjisaiDec3": "The promotion match has started, please enter the instance",
+    "jinjisaiDec4": "Guess before the match starts\nThe promotion match round 1 starts at 20:32\nThe promotion match round 2 starts at 20:42",
+    "jueSaiDec1": "Championship starts at |C:0x00ff00&T:20:52|, please wait in the Battle Zone |C:0x00ff00&T:2| minutes in advance",
+    "jueSaiDec2": "The championship has started, please enter the instance",
+    "jueSaiDec3": "Guess before the match starts\nChampionship starts at |C:0x00ff00&T:20:52|",
+    "actDec": "Event Time：0:00-21:00\n          (Saturday)",
+    "actReward": [
+        {
+            "type": 1,
+            "id": 382000,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1081030,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 770105,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 770205,
+            "count": 1
+        }
+    ],
+    "fbPkTipsDec": "|C:0x00ff00&T:Team Match|has started\nPlease go to the Battle Zone",
+    "pkFbBossAliveDec": "|C:0x00ff00&T:Championship| Boss has revived, kill the boss to get Fire Crystals",
+    "pkFbBossDeadDec": "$roleName$ killed the Leader Boss and obtained |C:0x00ff00&T:8000| Fire Crystals"
+}

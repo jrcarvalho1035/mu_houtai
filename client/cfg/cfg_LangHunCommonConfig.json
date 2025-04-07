@@ -1,0 +1,68 @@
+{
+    "dec": "1.|C:0x13ee22&T:Kill players and Monsters| to get |C:0x13ee22&T:Wolf Soul|\n2.You'll |C:0x13ee22&T:lose some Wolf Soul| if defeated by others.\n3.Kill enough players and gain enough Wolf Soul to |C:0x13ee22&T:enter the next floor| \n4.You'll be ranked according to your |C:0x13ee22&T:Wolf Soul| after the battle and recieve |C:0x13ee22&T:ranking rewards| via mail.",
+    "mainReward": [
+        {
+            "type": 1,
+            "id": 1070017,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 750005,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 750004,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 750003,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 750002,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 750001,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 390027,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 40,
+            "count": 1
+        }
+    ],
+    "actDec": "20:30-21:00\n(Tuesday)",
+    "actReward": [
+        {
+            "type": 1,
+            "id": 1070017,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 750005,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 390027,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 40,
+            "count": 1
+        }
+    ]
+}

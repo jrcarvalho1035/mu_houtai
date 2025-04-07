@@ -1,0 +1,1626 @@
+{
+    "1": {
+        "id": 1,
+        "stage": 2,
+        "index": 1,
+        "fbId": 87101,
+        "bossId": 160001,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390038,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390034,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 4
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 64,
+            "y": 15
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390038,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390034,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 4
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 1601,
+        "dropStage": 1,
+        "power": 60000000
+    },
+    "2": {
+        "id": 2,
+        "stage": 2,
+        "index": 2,
+        "fbId": 87101,
+        "bossId": 160002,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390036,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390037,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 6
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 79,
+            "y": 32
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390036,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390037,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 6
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 1601,
+        "dropStage": 1,
+        "power": 120000000
+    },
+    "3": {
+        "id": 3,
+        "stage": 2,
+        "index": 3,
+        "fbId": 87101,
+        "bossId": 160003,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390035,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390039,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 6
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 111,
+            "y": 33
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390035,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390039,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 6
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 1601,
+        "dropStage": 1,
+        "power": 240000000
+    },
+    "4": {
+        "id": 4,
+        "stage": 2,
+        "index": 4,
+        "fbId": 87101,
+        "bossId": 160004,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390031,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390036,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 8
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 92,
+            "y": 56
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390031,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390036,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 8
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 1601,
+        "dropStage": 1,
+        "power": 480000000
+    },
+    "5": {
+        "id": 5,
+        "stage": 2,
+        "index": 5,
+        "fbId": 87101,
+        "bossId": 160005,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390033,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390035,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 8
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 66,
+            "y": 62
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390033,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390035,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 8
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 1601,
+        "dropStage": 1,
+        "power": 720000000
+    },
+    "6": {
+        "id": 6,
+        "stage": 2,
+        "index": 6,
+        "fbId": 87101,
+        "bossId": 160006,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390032,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390031,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 37,
+            "y": 52
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390032,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390031,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 1601,
+        "dropStage": 1,
+        "power": 960000000
+    },
+    "7": {
+        "id": 7,
+        "stage": 2,
+        "index": 7,
+        "fbId": 87101,
+        "bossId": 160007,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390030,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390033,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 11,
+            "y": 31
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390030,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390033,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 1601,
+        "dropStage": 1,
+        "power": 1200000000
+    },
+    "8": {
+        "id": 8,
+        "stage": 4,
+        "index": 1,
+        "fbId": 87102,
+        "bossId": 160008,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390138,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390134,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 48,
+            "y": 76
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390138,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390134,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2001,
+        "dropStage": 2,
+        "power": 120000000
+    },
+    "9": {
+        "id": 9,
+        "stage": 4,
+        "index": 2,
+        "fbId": 87102,
+        "bossId": 160009,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390136,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390137,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 12
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 15,
+            "y": 70
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390136,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390137,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 12
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2001,
+        "dropStage": 2,
+        "power": 240000000
+    },
+    "10": {
+        "id": 10,
+        "stage": 4,
+        "index": 3,
+        "fbId": 87102,
+        "bossId": 160010,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390135,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390139,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 12
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 44,
+            "y": 47
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390135,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390139,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 12
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2001,
+        "dropStage": 2,
+        "power": 480000000
+    },
+    "11": {
+        "id": 11,
+        "stage": 4,
+        "index": 4,
+        "fbId": 87102,
+        "bossId": 160011,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390131,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390136,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 14
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 19,
+            "y": 42
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390131,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390136,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 14
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2001,
+        "dropStage": 2,
+        "power": 960000000
+    },
+    "12": {
+        "id": 12,
+        "stage": 4,
+        "index": 5,
+        "fbId": 87102,
+        "bossId": 160012,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390133,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390135,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 14
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 44,
+            "y": 17
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390133,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390135,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 14
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2001,
+        "dropStage": 2,
+        "power": 1440000000
+    },
+    "13": {
+        "id": 13,
+        "stage": 4,
+        "index": 6,
+        "fbId": 87102,
+        "bossId": 160013,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390132,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390131,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 16
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 70,
+            "y": 33
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390132,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390131,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 16
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2001,
+        "dropStage": 2,
+        "power": 1920000000
+    },
+    "14": {
+        "id": 14,
+        "stage": 4,
+        "index": 7,
+        "fbId": 87102,
+        "bossId": 160014,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390130,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390133,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 16
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 87,
+            "y": 57
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390130,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390133,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 16
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2001,
+        "dropStage": 2,
+        "power": 2400000000
+    },
+    "15": {
+        "id": 15,
+        "stage": 6,
+        "index": 1,
+        "fbId": 87103,
+        "bossId": 160015,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390238,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390234,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 16
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 45,
+            "y": 86
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390238,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390234,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 16
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2401,
+        "dropStage": 3,
+        "power": 240000000
+    },
+    "16": {
+        "id": 16,
+        "stage": 6,
+        "index": 2,
+        "fbId": 87103,
+        "bossId": 160016,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390236,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390237,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 18
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 111,
+            "y": 91
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390236,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390237,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 18
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2401,
+        "dropStage": 3,
+        "power": 480000000
+    },
+    "17": {
+        "id": 17,
+        "stage": 6,
+        "index": 3,
+        "fbId": 87103,
+        "bossId": 160017,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390235,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390239,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 18
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 18,
+            "y": 67
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390235,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390239,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 18
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2401,
+        "dropStage": 3,
+        "power": 960000000
+    },
+    "18": {
+        "id": 18,
+        "stage": 6,
+        "index": 4,
+        "fbId": 87103,
+        "bossId": 160018,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390231,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390236,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 20
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 30,
+            "y": 39
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390231,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390236,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 20
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2401,
+        "dropStage": 3,
+        "power": 1920000000
+    },
+    "19": {
+        "id": 19,
+        "stage": 6,
+        "index": 5,
+        "fbId": 87103,
+        "bossId": 160019,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390233,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390235,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 20
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 53,
+            "y": 19
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390233,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390235,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 20
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2401,
+        "dropStage": 3,
+        "power": 2880000000
+    },
+    "20": {
+        "id": 20,
+        "stage": 6,
+        "index": 6,
+        "fbId": 87103,
+        "bossId": 160020,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390232,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390231,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 22
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 97,
+            "y": 14
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390232,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390231,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 22
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2401,
+        "dropStage": 3,
+        "power": 3840000000
+    },
+    "21": {
+        "id": 21,
+        "stage": 6,
+        "index": 7,
+        "fbId": 87103,
+        "bossId": 160021,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390230,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390233,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 22
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 98,
+            "y": 50
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390230,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390233,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 22
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2401,
+        "dropStage": 3,
+        "power": 4800000000
+    },
+    "22": {
+        "id": 22,
+        "stage": 8,
+        "index": 1,
+        "fbId": 87104,
+        "bossId": 160022,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390338,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390334,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 22
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 95,
+            "y": 73
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390338,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390334,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 22
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2801,
+        "dropStage": 4,
+        "power": 480000000
+    },
+    "23": {
+        "id": 23,
+        "stage": 8,
+        "index": 2,
+        "fbId": 87104,
+        "bossId": 160023,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390336,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390337,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 24
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 81,
+            "y": 85
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390336,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390337,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 24
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2801,
+        "dropStage": 4,
+        "power": 960000000
+    },
+    "24": {
+        "id": 24,
+        "stage": 8,
+        "index": 3,
+        "fbId": 87104,
+        "bossId": 160024,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390335,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390339,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 24
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 63,
+            "y": 79
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390335,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390339,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 24
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2801,
+        "dropStage": 4,
+        "power": 1920000000
+    },
+    "25": {
+        "id": 25,
+        "stage": 8,
+        "index": 4,
+        "fbId": 87104,
+        "bossId": 160025,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390331,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390336,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 26
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 43,
+            "y": 75
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390331,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390336,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 26
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2801,
+        "dropStage": 4,
+        "power": 3840000000
+    },
+    "26": {
+        "id": 26,
+        "stage": 8,
+        "index": 5,
+        "fbId": 87104,
+        "bossId": 160026,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390333,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390335,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 26
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 40,
+            "y": 62
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390333,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390335,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 26
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2801,
+        "dropStage": 4,
+        "power": 5760000000
+    },
+    "27": {
+        "id": 27,
+        "stage": 8,
+        "index": 6,
+        "fbId": 87104,
+        "bossId": 160027,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390332,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390331,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 28
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 33,
+            "y": 38
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390332,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390331,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 28
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2801,
+        "dropStage": 4,
+        "power": 7680000000
+    },
+    "28": {
+        "id": 28,
+        "stage": 8,
+        "index": 7,
+        "fbId": 87104,
+        "bossId": 160028,
+        "desc": [
+            {
+                "type": 1,
+                "id": 390330,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390333,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 28
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "monsPos": {
+            "x": 67,
+            "y": 45
+        },
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 390330,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390333,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390028,
+                "count": 28
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            }
+        ],
+        "showlv": 2801,
+        "dropStage": 4,
+        "power": 9600000000
+    }
+}

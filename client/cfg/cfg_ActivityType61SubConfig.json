@@ -1,0 +1,210 @@
+{
+    "96101": {
+        "1": {
+            "id": 96101,
+            "index": 1,
+            "leftItem": 1070048,
+            "rightItem": 1070047,
+            "mcIcon1": {
+                "type": 10,
+                "param": 148,
+                "scale": 1,
+                "y": 80
+            },
+            "mcIcon2": {
+                "type": 10,
+                "param": 147,
+                "scale": 1,
+                "y": 80
+            },
+            "maxnum": 8000,
+            "allmaxnum": 64000,
+            "winbox": 2,
+            "flatbox": 1,
+            "tips1": "Faction Chest Description",
+            "boxDesc": "When faction heat reaches 8000/16000/32000/48000/64000, faction receives 1/2/3/4/5 rewards. The wining faction receive 2 extra rewards. The faction rewards will be issued to members in this faction randomly after event ends."
+        }
+    },
+    "96103": {
+        "1": {
+            "id": 96103,
+            "index": 1,
+            "leftItem": 1070048,
+            "rightItem": 1070047,
+            "mcIcon1": {
+                "type": 10,
+                "param": 148,
+                "scale": 1,
+                "y": 80
+            },
+            "mcIcon2": {
+                "type": 10,
+                "param": 147,
+                "scale": 1,
+                "y": 80
+            },
+            "maxnum": 8000,
+            "allmaxnum": 64000,
+            "winbox": 2,
+            "flatbox": 1,
+            "tips1": "Faction Chest Description",
+            "boxDesc": "When faction heat reaches 8000/16000/32000/48000/64000, faction receives 1/2/3/4/5 rewards. The wining faction receive 2 extra rewards. The faction rewards will be issued to members in this faction randomly after event ends."
+        }
+    },
+    "96701": {
+        "1": {
+            "id": 96701,
+            "index": 1,
+            "leftItem": 1083054,
+            "rightItem": 1083044,
+            "mcIcon1": {
+                "type": 5,
+                "param": 54,
+                "scale": 0.7,
+                "y": -50
+            },
+            "mcIcon2": {
+                "type": 5,
+                "param": 44,
+                "scale": 0.7,
+                "y": -50
+            },
+            "maxnum": 8000,
+            "allmaxnum": 64000,
+            "winbox": 2,
+            "flatbox": 1,
+            "tips1": "Faction Chest Description",
+            "boxDesc": "When faction heat reaches 8000/16000/32000/48000/64000, faction receives 1/2/3/4/5 rewards. The wining faction receive 2 extra rewards. The faction rewards will be issued to members in this faction randomly after event ends."
+        }
+    },
+    "96703": {
+        "1": {
+            "id": 96703,
+            "index": 1,
+            "leftItem": 1083054,
+            "rightItem": 1083044,
+            "mcIcon1": {
+                "type": 5,
+                "param": 54,
+                "scale": 0.7,
+                "y": -50
+            },
+            "mcIcon2": {
+                "type": 5,
+                "param": 44,
+                "scale": 0.7,
+                "y": -50
+            },
+            "maxnum": 8000,
+            "allmaxnum": 64000,
+            "winbox": 2,
+            "flatbox": 1,
+            "tips1": "Faction Chest Description",
+            "boxDesc": "When faction heat reaches 8000/16000/32000/48000/64000, faction receives 1/2/3/4/5 rewards. The wining faction receive 2 extra rewards. The faction rewards will be issued to members in this faction randomly after event ends."
+        }
+    },
+    "98301": {
+        "1": {
+            "id": 98301,
+            "index": 1,
+            "leftItem": 1070022,
+            "rightItem": 1070042,
+            "mcIcon1": {
+                "type": 10,
+                "param": 122,
+                "scale": 0.7,
+                "y": 80
+            },
+            "mcIcon2": {
+                "type": 10,
+                "param": 142,
+                "scale": 0.7,
+                "y": 80
+            },
+            "maxnum": 8000,
+            "allmaxnum": 64000,
+            "winbox": 2,
+            "flatbox": 1,
+            "tips1": "Faction Chest Description",
+            "boxDesc": "When faction heat reaches 8000/16000/32000/48000/64000, faction receives 1/2/3/4/5 rewards. The wining faction receive 2 extra rewards. The faction rewards will be issued to members in this faction randomly after event ends."
+        }
+    },
+    "98303": {
+        "1": {
+            "id": 98303,
+            "index": 1,
+            "leftItem": 1070022,
+            "rightItem": 1070042,
+            "mcIcon1": {
+                "type": 10,
+                "param": 122,
+                "scale": 0.7,
+                "y": 80
+            },
+            "mcIcon2": {
+                "type": 10,
+                "param": 142,
+                "scale": 0.7,
+                "y": 80
+            },
+            "maxnum": 8000,
+            "allmaxnum": 64000,
+            "winbox": 2,
+            "flatbox": 1,
+            "tips1": "Faction Chest Description",
+            "boxDesc": "When faction heat reaches 8000/16000/32000/48000/64000, faction receives 1/2/3/4/5 rewards. The wining faction receive 2 extra rewards. The faction rewards will be issued to members in this faction randomly after event ends."
+        }
+    },
+    "99001": {
+        "1": {
+            "id": 99001,
+            "index": 1,
+            "leftItem": 1060014,
+            "rightItem": 1060009,
+            "mcIcon1": {
+                "type": 11,
+                "param": 114,
+                "scale": 0.6,
+                "y": 80
+            },
+            "mcIcon2": {
+                "type": 11,
+                "param": 109,
+                "scale": 0.6,
+                "y": 80
+            },
+            "maxnum": 8000,
+            "allmaxnum": 64000,
+            "winbox": 2,
+            "flatbox": 1,
+            "tips1": "Faction Chest Description",
+            "boxDesc": "When faction heat reaches 8000/16000/32000/48000/64000, faction receives 1/2/3/4/5 rewards. The wining faction receive 2 extra rewards. The faction rewards will be issued to members in this faction randomly after event ends."
+        }
+    },
+    "99003": {
+        "1": {
+            "id": 99003,
+            "index": 1,
+            "leftItem": 1060014,
+            "rightItem": 1060009,
+            "mcIcon1": {
+                "type": 11,
+                "param": 114,
+                "scale": 0.6,
+                "y": 80
+            },
+            "mcIcon2": {
+                "type": 11,
+                "param": 109,
+                "scale": 0.6,
+                "y": 80
+            },
+            "maxnum": 8000,
+            "allmaxnum": 64000,
+            "winbox": 2,
+            "flatbox": 1,
+            "tips1": "Faction Chest Description",
+            "boxDesc": "When faction heat reaches 8000/16000/32000/48000/64000, faction receives 1/2/3/4/5 rewards. The wining faction receive 2 extra rewards. The faction rewards will be issued to members in this faction randomly after event ends."
+        }
+    }
+}

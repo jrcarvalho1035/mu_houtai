@@ -1,0 +1,97 @@
+{
+    "1": {
+        "id": 1,
+        "cash": 1100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 30,
+                "count": 100
+            },
+            {
+                "type": 1,
+                "id": 220009,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 10000
+            },
+            {
+                "type": 1,
+                "id": 310810,
+                "count": 2000
+            }
+        ],
+        "mailTitle": "SVIP Deal Rewards",
+        "mailContent": "These are the unclaimed rewards you gained from SVIP Deal.",
+        "sviplv": 4
+    },
+    "2": {
+        "id": 2,
+        "cash": 6900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 30,
+                "count": 680
+            },
+            {
+                "type": 1,
+                "id": 310404,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 68000
+            },
+            {
+                "type": 1,
+                "id": 310811,
+                "count": 2000
+            }
+        ],
+        "mailTitle": "SVIP Deal Rewards",
+        "mailContent": "These are the unclaimed rewards you gained from SVIP Deal.",
+        "sviplv": 6
+    },
+    "3": {
+        "id": 3,
+        "cash": 12800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 30,
+                "count": 1280
+            },
+            {
+                "type": 1,
+                "id": 321010,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 128000
+            },
+            {
+                "type": 1,
+                "id": 310812,
+                "count": 2000
+            }
+        ],
+        "mailTitle": "SVIP Deal Rewards",
+        "mailContent": "These are the unclaimed rewards you gained from SVIP Deal.",
+        "sviplv": 8
+    },
+    "4": {
+        "id": 4,
+        "cash": 20600,
+        "rewards": [],
+        "mailTitle": "SVIP Deal Rewards",
+        "mailContent": "These are the unclaimed rewards you gained from SVIP Deal.",
+        "sviplv": 8
+    }
+}

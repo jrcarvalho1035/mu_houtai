@@ -1,0 +1,86 @@
+{
+    "1": {
+        "id": 1,
+        "needItemId": 1081401,
+        "attr": [
+            {
+                "type": 32,
+                "value": 100
+            },
+            {
+                "type": 1,
+                "value": 2000
+            }
+        ],
+        "name": "Thunder Wings Soul"
+    },
+    "2": {
+        "id": 2,
+        "needItemId": 1081402,
+        "attr": [
+            {
+                "type": 32,
+                "value": 180
+            },
+            {
+                "type": 1,
+                "value": 4560
+            },
+            {
+                "type": 6,
+                "value": 240
+            }
+        ],
+        "name": "Star Wings Soul"
+    },
+    "3": {
+        "id": 3,
+        "needItemId": 1081403,
+        "attr": [
+            {
+                "type": 32,
+                "value": 672
+            },
+            {
+                "type": 1,
+                "value": 11520
+            },
+            {
+                "type": 4,
+                "value": 576
+            },
+            {
+                "type": 6,
+                "value": 720
+            }
+        ],
+        "name": "Phoenix Wings Soul"
+    },
+    "4": {
+        "id": 4,
+        "needItemId": 1081404,
+        "attr": [
+            {
+                "type": 32,
+                "value": 30000
+            },
+            {
+                "type": 1,
+                "value": 624000
+            },
+            {
+                "type": 4,
+                "value": 30000
+            },
+            {
+                "type": 6,
+                "value": 36000
+            },
+            {
+                "type": 66,
+                "value": 100
+            }
+        ],
+        "name": "Wind Wings Soul"
+    }
+}

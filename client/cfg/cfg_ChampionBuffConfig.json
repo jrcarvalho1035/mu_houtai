@@ -1,0 +1,56 @@
+{
+    "1": {
+        "id": 1,
+        "condition": 6000,
+        "attrs": [
+            {
+                "type": 17,
+                "value": 200
+            },
+            {
+                "type": 18,
+                "value": 200
+            },
+            {
+                "type": 19,
+                "value": 200
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "condition": 12000,
+        "attrs": [
+            {
+                "type": 17,
+                "value": 500
+            },
+            {
+                "type": 18,
+                "value": 500
+            },
+            {
+                "type": 19,
+                "value": 500
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "condition": 18000,
+        "attrs": [
+            {
+                "type": 17,
+                "value": 800
+            },
+            {
+                "type": 18,
+                "value": 800
+            },
+            {
+                "type": 19,
+                "value": 800
+            }
+        ]
+    }
+}

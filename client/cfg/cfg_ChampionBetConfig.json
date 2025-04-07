@@ -1,0 +1,110 @@
+{
+    "1": {
+        "id": 1,
+        "stage": [
+            3,
+            4
+        ],
+        "count": 1,
+        "betCount": 3000,
+        "betWinReward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 0,
+                "id": 40,
+                "count": 1000
+            }
+        ],
+        "betLostReward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 0,
+                "id": 40,
+                "count": 200
+            }
+        ],
+        "betWinExtraReward": []
+    },
+    "2": {
+        "id": 2,
+        "stage": [
+            6,
+            6
+        ],
+        "count": 1,
+        "betCount": 3000,
+        "betWinReward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 0,
+                "id": 40,
+                "count": 1000
+            }
+        ],
+        "betLostReward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 0,
+                "id": 40,
+                "count": 200
+            }
+        ],
+        "betWinExtraReward": []
+    },
+    "3": {
+        "id": 3,
+        "stage": [
+            8,
+            8
+        ],
+        "count": 3,
+        "betCount": 3000,
+        "betWinReward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 0,
+                "id": 40,
+                "count": 1000
+            }
+        ],
+        "betLostReward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 0,
+                "id": 40,
+                "count": 200
+            }
+        ],
+        "betWinExtraReward": [
+            {
+                "type": 0,
+                "id": 40,
+                "count": 2000
+            }
+        ]
+    }
+}

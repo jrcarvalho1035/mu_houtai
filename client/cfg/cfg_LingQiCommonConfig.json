@@ -1,0 +1,63 @@
+{
+    "fightcount": 3,
+    "helpcount": 5,
+    "mailtitle": "Spirit Gear Realm Settlement Rewards",
+    "mailcontent": "This is your unclaimed Rewards in Spirit Gear Realm, please claim them.",
+    "minname": "C",
+    "buffer": 25000,
+    "teamcd": 40,
+    "startcd": 10,
+    "desc": "After the fall of the spirits, Spirit Gear were scattered in a mysterious area - Spirit Gear Realm\nGather warriors to search for the legendary Spirit Gear!\nThe more challenges you pass within the time limit, the greater the reward!\n|C:0xf5e65a&T:Tips: After joining the Dungeon, call your friends to challenge together for more rewards! |",
+    "needdiamond": [
+        500,
+        500,
+        500
+    ],
+    "pos": [
+        [
+            [
+                20,
+                8
+            ],
+            [
+                19,
+                8
+            ],
+            [
+                20,
+                9
+            ]
+        ],
+        [
+            [
+                21,
+                12
+            ],
+            [
+                21,
+                11
+            ],
+            [
+                20,
+                12
+            ]
+        ],
+        [
+            [
+                15,
+                12
+            ],
+            [
+                16,
+                12
+            ],
+            [
+                15,
+                11
+            ]
+        ]
+    ],
+    "tiaozhancd": 180,
+    "monstermaxcount": 450,
+    "yaoqingdesc": "The Spirit Gear Challenge is coming, rally your friends and get ready!\n Send an invitation to the whole server to get more rewards"
+}

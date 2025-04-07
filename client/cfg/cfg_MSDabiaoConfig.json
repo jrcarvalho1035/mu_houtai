@@ -1,0 +1,188 @@
+{
+    "88101": {
+        "1": {
+            "monsterId": 88101,
+            "index": 1,
+            "hurt": 120000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        },
+        "2": {
+            "monsterId": 88101,
+            "index": 2,
+            "hurt": 250000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        },
+        "3": {
+            "monsterId": 88101,
+            "index": 3,
+            "hurt": 500000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        },
+        "4": {
+            "monsterId": 88101,
+            "index": 4,
+            "hurt": 990000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        },
+        "5": {
+            "monsterId": 88101,
+            "index": 5,
+            "hurt": 1490000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        }
+    },
+    "88111": {
+        "1": {
+            "monsterId": 88111,
+            "index": 1,
+            "hurt": 370000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        },
+        "2": {
+            "monsterId": 88111,
+            "index": 2,
+            "hurt": 740000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        },
+        "3": {
+            "monsterId": 88111,
+            "index": 3,
+            "hurt": 1490000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        },
+        "4": {
+            "monsterId": 88111,
+            "index": 4,
+            "hurt": 2970000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        },
+        "5": {
+            "monsterId": 88111,
+            "index": 5,
+            "hurt": 4460000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        }
+    },
+    "88121": {
+        "1": {
+            "monsterId": 88121,
+            "index": 1,
+            "hurt": 750000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        },
+        "2": {
+            "monsterId": 88121,
+            "index": 2,
+            "hurt": 1500000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        },
+        "3": {
+            "monsterId": 88121,
+            "index": 3,
+            "hurt": 3000000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        },
+        "4": {
+            "monsterId": 88121,
+            "index": 4,
+            "hurt": 6000000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        },
+        "5": {
+            "monsterId": 88121,
+            "index": 5,
+            "hurt": 9000000000,
+            "reward": [
+                {
+                    "type": 1,
+                    "id": 420203,
+                    "count": 1
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1134 @@
+{
+    "1": {
+        "1": {
+            "day": 1,
+            "index": 1,
+            "onlinetime": 120,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1081001,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                101,
+                201,
+                301
+            ]
+        },
+        "2": {
+            "day": 1,
+            "index": 2,
+            "onlinetime": 300,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 341017,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310001,
+                    "count": 50
+                }
+            ],
+            "effId": [
+                102
+            ]
+        },
+        "3": {
+            "day": 1,
+            "index": 3,
+            "onlinetime": 600,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 310020,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 27,
+                    "count": 60000
+                }
+            ],
+            "effId": [
+                103
+            ]
+        },
+        "4": {
+            "day": 1,
+            "index": 4,
+            "onlinetime": 1200,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 220101,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                104
+            ]
+        },
+        "5": {
+            "day": 1,
+            "index": 5,
+            "onlinetime": 1800,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010101,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "effId": [
+                105,
+                205,
+                305
+            ]
+        },
+        "6": {
+            "day": 1,
+            "index": 6,
+            "onlinetime": 2400,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 100000
+                }
+            ],
+            "effId": [
+                106
+            ]
+        },
+        "7": {
+            "day": 1,
+            "index": 7,
+            "onlinetime": 3000,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 310019,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                107
+            ]
+        },
+        "8": {
+            "day": 1,
+            "index": 8,
+            "onlinetime": 3600,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 1051002,
+                    "count": 20
+                }
+            ],
+            "effId": [
+                108
+            ]
+        }
+    },
+    "2": {
+        "1": {
+            "day": 2,
+            "index": 1,
+            "onlinetime": 120,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1081002,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                111,
+                211,
+                311
+            ]
+        },
+        "2": {
+            "day": 2,
+            "index": 2,
+            "onlinetime": 300,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 310016,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310001,
+                    "count": 100
+                }
+            ],
+            "effId": [
+                112
+            ]
+        },
+        "3": {
+            "day": 2,
+            "index": 3,
+            "onlinetime": 600,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 310020,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 27,
+                    "count": 800000
+                }
+            ],
+            "effId": [
+                113
+            ]
+        },
+        "4": {
+            "day": 2,
+            "index": 4,
+            "onlinetime": 1200,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 220101,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                114
+            ]
+        },
+        "5": {
+            "day": 2,
+            "index": 5,
+            "onlinetime": 1800,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010102,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "effId": [
+                115,
+                215,
+                315
+            ]
+        },
+        "6": {
+            "day": 2,
+            "index": 6,
+            "onlinetime": 2400,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 150000
+                }
+            ],
+            "effId": [
+                116
+            ]
+        },
+        "7": {
+            "day": 2,
+            "index": 7,
+            "onlinetime": 3000,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 310019,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                117
+            ]
+        },
+        "8": {
+            "day": 2,
+            "index": 8,
+            "onlinetime": 3600,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 1061002,
+                    "count": 20
+                }
+            ],
+            "effId": [
+                118
+            ]
+        }
+    },
+    "3": {
+        "1": {
+            "day": 3,
+            "index": 1,
+            "onlinetime": 120,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 341032,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "effId": [
+                121
+            ]
+        },
+        "2": {
+            "day": 3,
+            "index": 2,
+            "onlinetime": 300,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310001,
+                    "count": 200
+                }
+            ],
+            "effId": [
+                122
+            ]
+        },
+        "3": {
+            "day": 3,
+            "index": 3,
+            "onlinetime": 600,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 15
+                },
+                {
+                    "type": 1,
+                    "id": 1010401,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                123
+            ]
+        },
+        "4": {
+            "day": 3,
+            "index": 4,
+            "onlinetime": 1200,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 220102,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                124
+            ]
+        },
+        "5": {
+            "day": 3,
+            "index": 5,
+            "onlinetime": 1800,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 1010402,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                125
+            ]
+        },
+        "6": {
+            "day": 3,
+            "index": 6,
+            "onlinetime": 2400,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 310019,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                126
+            ]
+        },
+        "7": {
+            "day": 3,
+            "index": 7,
+            "onlinetime": 3000,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 310012,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                127
+            ]
+        },
+        "8": {
+            "day": 3,
+            "index": 8,
+            "onlinetime": 3600,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 1010403,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                128
+            ]
+        }
+    },
+    "4": {
+        "1": {
+            "day": 4,
+            "index": 1,
+            "onlinetime": 120,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 341032,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "effId": [
+                101
+            ]
+        },
+        "2": {
+            "day": 4,
+            "index": 2,
+            "onlinetime": 300,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310001,
+                    "count": 200
+                }
+            ],
+            "effId": [
+                102
+            ]
+        },
+        "3": {
+            "day": 4,
+            "index": 3,
+            "onlinetime": 600,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 15
+                },
+                {
+                    "type": 1,
+                    "id": 1010401,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                103
+            ]
+        },
+        "4": {
+            "day": 4,
+            "index": 4,
+            "onlinetime": 1200,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 220102,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                104
+            ]
+        },
+        "5": {
+            "day": 4,
+            "index": 5,
+            "onlinetime": 1800,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 1010402,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                105
+            ]
+        },
+        "6": {
+            "day": 4,
+            "index": 6,
+            "onlinetime": 2400,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 310019,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                106
+            ]
+        },
+        "7": {
+            "day": 4,
+            "index": 7,
+            "onlinetime": 3000,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 310012,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                107
+            ]
+        },
+        "8": {
+            "day": 4,
+            "index": 8,
+            "onlinetime": 3600,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 1010403,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                108
+            ]
+        }
+    },
+    "5": {
+        "1": {
+            "day": 5,
+            "index": 1,
+            "onlinetime": 120,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 341032,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "effId": [
+                111
+            ]
+        },
+        "2": {
+            "day": 5,
+            "index": 2,
+            "onlinetime": 300,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310001,
+                    "count": 200
+                }
+            ],
+            "effId": [
+                112
+            ]
+        },
+        "3": {
+            "day": 5,
+            "index": 3,
+            "onlinetime": 600,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 15
+                },
+                {
+                    "type": 1,
+                    "id": 1010401,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                113
+            ]
+        },
+        "4": {
+            "day": 5,
+            "index": 4,
+            "onlinetime": 1200,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 220102,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                114
+            ]
+        },
+        "5": {
+            "day": 5,
+            "index": 5,
+            "onlinetime": 1800,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 1010402,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                115
+            ]
+        },
+        "6": {
+            "day": 5,
+            "index": 6,
+            "onlinetime": 2400,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 310019,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                116
+            ]
+        },
+        "7": {
+            "day": 5,
+            "index": 7,
+            "onlinetime": 3000,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 310012,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                117
+            ]
+        },
+        "8": {
+            "day": 5,
+            "index": 8,
+            "onlinetime": 3600,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 1010403,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                118
+            ]
+        }
+    },
+    "6": {
+        "1": {
+            "day": 6,
+            "index": 1,
+            "onlinetime": 120,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 80000
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "effId": [
+                121
+            ]
+        },
+        "2": {
+            "day": 6,
+            "index": 2,
+            "onlinetime": 300,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 80000
+                },
+                {
+                    "type": 1,
+                    "id": 310001,
+                    "count": 300
+                }
+            ],
+            "effId": [
+                122
+            ]
+        },
+        "3": {
+            "day": 6,
+            "index": 3,
+            "onlinetime": 600,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 120000
+                },
+                {
+                    "type": 0,
+                    "id": 27,
+                    "count": 60000
+                }
+            ],
+            "effId": [
+                123
+            ]
+        },
+        "4": {
+            "day": 6,
+            "index": 4,
+            "onlinetime": 1200,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 120000
+                },
+                {
+                    "type": 1,
+                    "id": 220102,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                124
+            ]
+        },
+        "5": {
+            "day": 6,
+            "index": 5,
+            "onlinetime": 1800,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 200000
+                },
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                }
+            ],
+            "effId": [
+                125
+            ]
+        },
+        "6": {
+            "day": 6,
+            "index": 6,
+            "onlinetime": 2400,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 200000
+                },
+                {
+                    "type": 0,
+                    "id": 13,
+                    "count": 500
+                }
+            ],
+            "effId": [
+                126
+            ]
+        },
+        "7": {
+            "day": 6,
+            "index": 7,
+            "onlinetime": 3000,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 320000
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                127
+            ]
+        },
+        "8": {
+            "day": 6,
+            "index": 8,
+            "onlinetime": 3600,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 400000
+                },
+                {
+                    "type": 1,
+                    "id": 310019,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                128
+            ]
+        }
+    },
+    "7": {
+        "1": {
+            "day": 7,
+            "index": 1,
+            "onlinetime": 120,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 80000
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "effId": [
+                121
+            ]
+        },
+        "2": {
+            "day": 7,
+            "index": 2,
+            "onlinetime": 300,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 80000
+                },
+                {
+                    "type": 1,
+                    "id": 310001,
+                    "count": 300
+                }
+            ],
+            "effId": [
+                122
+            ]
+        },
+        "3": {
+            "day": 7,
+            "index": 3,
+            "onlinetime": 600,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 120000
+                },
+                {
+                    "type": 0,
+                    "id": 27,
+                    "count": 60000
+                }
+            ],
+            "effId": [
+                123
+            ]
+        },
+        "4": {
+            "day": 7,
+            "index": 4,
+            "onlinetime": 1200,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 120000
+                },
+                {
+                    "type": 1,
+                    "id": 220102,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                124
+            ]
+        },
+        "5": {
+            "day": 7,
+            "index": 5,
+            "onlinetime": 1800,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 200000
+                },
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 100
+                }
+            ],
+            "effId": [
+                125
+            ]
+        },
+        "6": {
+            "day": 7,
+            "index": 6,
+            "onlinetime": 2400,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 200000
+                },
+                {
+                    "type": 0,
+                    "id": 13,
+                    "count": 500
+                }
+            ],
+            "effId": [
+                126
+            ]
+        },
+        "7": {
+            "day": 7,
+            "index": 7,
+            "onlinetime": 3000,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 320000
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                127
+            ]
+        },
+        "8": {
+            "day": 7,
+            "index": 8,
+            "onlinetime": 3600,
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 1,
+                    "count": 400000
+                },
+                {
+                    "type": 1,
+                    "id": 310019,
+                    "count": 1
+                }
+            ],
+            "effId": [
+                128
+            ]
+        }
+    }
+}

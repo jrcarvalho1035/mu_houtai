@@ -1,0 +1,1604 @@
+{
+    "1": {
+        "id": 1,
+        "target": 300,
+        "controlTarget": [
+            13
+        ],
+        "desc": "Kill 300 monsters in AFK",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            0
+        ],
+        "desc": "Challenge Demon Tower once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "target": 1,
+        "controlTarget": [
+            5,
+            24,
+            0,
+            0
+        ],
+        "desc": "Upgrade Sacred Ring once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 700
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "target": 1,
+        "controlTarget": [
+            1,
+            5,
+            0
+        ],
+        "desc": "Enhance Gear once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 800
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "target": 1,
+        "controlTarget": [
+            1,
+            6,
+            2
+        ],
+        "desc": "Perform Gear Smelting once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 900
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "target": 1,
+        "controlTarget": [
+            1,
+            35,
+            0
+        ],
+        "desc": "Perform Cross-server Chat once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "target": 1,
+        "controlTarget": [
+            5,
+            4,
+            0,
+            0
+        ],
+        "desc": "Perform Upgrade Skill once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            2
+        ],
+        "desc": "Challenge Dark Abyss once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "target": 300,
+        "controlTarget": [
+            13
+        ],
+        "desc": "Kill 300 monsters in AFK",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "10": {
+        "id": 10,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            0
+        ],
+        "desc": "Challenge Demon Tower once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "target": 1,
+        "controlTarget": [
+            5,
+            24,
+            0,
+            0
+        ],
+        "desc": "Upgrade Sacred Ring once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 700
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "target": 1,
+        "controlTarget": [
+            1,
+            5,
+            0
+        ],
+        "desc": "Enhance Gear once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 800
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            }
+        ]
+    },
+    "13": {
+        "id": 13,
+        "target": 1,
+        "controlTarget": [
+            1,
+            6,
+            2
+        ],
+        "desc": "Perform Gear Smelting once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 900
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            }
+        ]
+    },
+    "14": {
+        "id": 14,
+        "target": 1,
+        "controlTarget": [
+            1,
+            35,
+            0
+        ],
+        "desc": "Perform Cross-server Chat once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "15": {
+        "id": 15,
+        "target": 1,
+        "controlTarget": [
+            5,
+            4,
+            0,
+            0
+        ],
+        "desc": "Perform Upgrade Skill once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "16": {
+        "id": 16,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            2
+        ],
+        "desc": "Challenge Dark Abyss once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "17": {
+        "id": 17,
+        "target": 300,
+        "controlTarget": [
+            13
+        ],
+        "desc": "Kill 300 monsters in AFK",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "18": {
+        "id": 18,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            0
+        ],
+        "desc": "Challenge Demon Tower once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "target": 1,
+        "controlTarget": [
+            5,
+            24,
+            0,
+            0
+        ],
+        "desc": "Upgrade Sacred Ring once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 700
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            }
+        ]
+    },
+    "20": {
+        "id": 20,
+        "target": 1,
+        "controlTarget": [
+            1,
+            5,
+            0
+        ],
+        "desc": "Enhance Gear once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 800
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            }
+        ]
+    },
+    "21": {
+        "id": 21,
+        "target": 1,
+        "controlTarget": [
+            1,
+            6,
+            2
+        ],
+        "desc": "Perform Gear Smelting once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 900
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            }
+        ]
+    },
+    "22": {
+        "id": 22,
+        "target": 1,
+        "controlTarget": [
+            1,
+            35,
+            0
+        ],
+        "desc": "Perform Cross-server Chat once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "23": {
+        "id": 23,
+        "target": 1,
+        "controlTarget": [
+            5,
+            4,
+            0,
+            0
+        ],
+        "desc": "Perform Upgrade Skill once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "24": {
+        "id": 24,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            2
+        ],
+        "desc": "Challenge Dark Abyss once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "25": {
+        "id": 25,
+        "target": 300,
+        "controlTarget": [
+            13
+        ],
+        "desc": "Kill 300 monsters in AFK",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "26": {
+        "id": 26,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            0
+        ],
+        "desc": "Challenge Demon Tower once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            }
+        ]
+    },
+    "27": {
+        "id": 27,
+        "target": 1,
+        "controlTarget": [
+            5,
+            24,
+            0,
+            0
+        ],
+        "desc": "Upgrade Sacred Ring once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 700
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            }
+        ]
+    },
+    "28": {
+        "id": 28,
+        "target": 1,
+        "controlTarget": [
+            1,
+            5,
+            0
+        ],
+        "desc": "Enhance Gear once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 800
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            }
+        ]
+    },
+    "29": {
+        "id": 29,
+        "target": 1,
+        "controlTarget": [
+            1,
+            6,
+            2
+        ],
+        "desc": "Perform Gear Smelting once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 900
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            }
+        ]
+    },
+    "30": {
+        "id": 30,
+        "target": 1,
+        "controlTarget": [
+            1,
+            35,
+            0
+        ],
+        "desc": "Perform Cross-server Chat once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "31": {
+        "id": 31,
+        "target": 1,
+        "controlTarget": [
+            5,
+            4,
+            0,
+            0
+        ],
+        "desc": "Perform Upgrade Skill once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "32": {
+        "id": 32,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            2
+        ],
+        "desc": "Challenge Dark Abyss once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "33": {
+        "id": 33,
+        "target": 300,
+        "controlTarget": [
+            13
+        ],
+        "desc": "Kill 300 monsters in AFK",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "34": {
+        "id": 34,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            0
+        ],
+        "desc": "Challenge Demon Tower once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            }
+        ]
+    },
+    "35": {
+        "id": 35,
+        "target": 1,
+        "controlTarget": [
+            5,
+            24,
+            0,
+            0
+        ],
+        "desc": "Upgrade Sacred Ring once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 700
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            }
+        ]
+    },
+    "36": {
+        "id": 36,
+        "target": 1,
+        "controlTarget": [
+            1,
+            5,
+            0
+        ],
+        "desc": "Enhance Gear once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 800
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            }
+        ]
+    },
+    "37": {
+        "id": 37,
+        "target": 1,
+        "controlTarget": [
+            1,
+            6,
+            2
+        ],
+        "desc": "Perform Gear Smelting once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 900
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            }
+        ]
+    },
+    "38": {
+        "id": 38,
+        "target": 1,
+        "controlTarget": [
+            1,
+            35,
+            0
+        ],
+        "desc": "Perform Cross-server Chat once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "39": {
+        "id": 39,
+        "target": 1,
+        "controlTarget": [
+            5,
+            4,
+            0,
+            0
+        ],
+        "desc": "Perform Upgrade Skill once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "40": {
+        "id": 40,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            2
+        ],
+        "desc": "Challenge Dark Abyss once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "41": {
+        "id": 41,
+        "target": 300,
+        "controlTarget": [
+            13
+        ],
+        "desc": "Kill 300 monsters in AFK",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "42": {
+        "id": 42,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            0
+        ],
+        "desc": "Challenge Demon Tower once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            }
+        ]
+    },
+    "43": {
+        "id": 43,
+        "target": 1,
+        "controlTarget": [
+            5,
+            24,
+            0,
+            0
+        ],
+        "desc": "Upgrade Sacred Ring once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 700
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            }
+        ]
+    },
+    "44": {
+        "id": 44,
+        "target": 1,
+        "controlTarget": [
+            1,
+            5,
+            0
+        ],
+        "desc": "Enhance Gear once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 800
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            }
+        ]
+    },
+    "45": {
+        "id": 45,
+        "target": 1,
+        "controlTarget": [
+            1,
+            6,
+            2
+        ],
+        "desc": "Perform Gear Smelting once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 900
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            }
+        ]
+    },
+    "46": {
+        "id": 46,
+        "target": 1,
+        "controlTarget": [
+            1,
+            35,
+            0
+        ],
+        "desc": "Perform Cross-server Chat once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "47": {
+        "id": 47,
+        "target": 1,
+        "controlTarget": [
+            5,
+            4,
+            0,
+            0
+        ],
+        "desc": "Perform Upgrade Skill once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "48": {
+        "id": 48,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            2
+        ],
+        "desc": "Challenge Dark Abyss once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "49": {
+        "id": 49,
+        "target": 300,
+        "controlTarget": [
+            13
+        ],
+        "desc": "Kill 300 monsters in AFK",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "50": {
+        "id": 50,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            0
+        ],
+        "desc": "Challenge Demon Tower once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            }
+        ]
+    },
+    "51": {
+        "id": 51,
+        "target": 1,
+        "controlTarget": [
+            5,
+            24,
+            0,
+            0
+        ],
+        "desc": "Upgrade Sacred Ring once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 700
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            }
+        ]
+    },
+    "52": {
+        "id": 52,
+        "target": 1,
+        "controlTarget": [
+            1,
+            5,
+            0
+        ],
+        "desc": "Enhance Gear once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 800
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            }
+        ]
+    },
+    "53": {
+        "id": 53,
+        "target": 1,
+        "controlTarget": [
+            1,
+            6,
+            2
+        ],
+        "desc": "Perform Gear Smelting once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 900
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            }
+        ]
+    },
+    "54": {
+        "id": 54,
+        "target": 1,
+        "controlTarget": [
+            1,
+            35,
+            0
+        ],
+        "desc": "Perform Cross-server Chat once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "55": {
+        "id": 55,
+        "target": 1,
+        "controlTarget": [
+            5,
+            4,
+            0,
+            0
+        ],
+        "desc": "Perform Upgrade Skill once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "56": {
+        "id": 56,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            2
+        ],
+        "desc": "Challenge Dark Abyss once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "57": {
+        "id": 57,
+        "target": 300,
+        "controlTarget": [
+            13
+        ],
+        "desc": "Kill 300 monsters in AFK",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "58": {
+        "id": 58,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            0
+        ],
+        "desc": "Challenge Demon Tower once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            }
+        ]
+    },
+    "59": {
+        "id": 59,
+        "target": 1,
+        "controlTarget": [
+            5,
+            24,
+            0,
+            0
+        ],
+        "desc": "Upgrade Sacred Ring once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 700
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            }
+        ]
+    },
+    "60": {
+        "id": 60,
+        "target": 1,
+        "controlTarget": [
+            1,
+            5,
+            0
+        ],
+        "desc": "Enhance Gear once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 800
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            }
+        ]
+    },
+    "61": {
+        "id": 61,
+        "target": 1,
+        "controlTarget": [
+            1,
+            6,
+            2
+        ],
+        "desc": "Perform Gear Smelting once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 900
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            }
+        ]
+    },
+    "62": {
+        "id": 62,
+        "target": 1,
+        "controlTarget": [
+            1,
+            35,
+            0
+        ],
+        "desc": "Perform Cross-server Chat once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "63": {
+        "id": 63,
+        "target": 1,
+        "controlTarget": [
+            5,
+            4,
+            0,
+            0
+        ],
+        "desc": "Perform Upgrade Skill once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "64": {
+        "id": 64,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            2
+        ],
+        "desc": "Challenge Dark Abyss once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "65": {
+        "id": 65,
+        "target": 300,
+        "controlTarget": [
+            13
+        ],
+        "desc": "Kill 300 monsters in AFK",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "66": {
+        "id": 66,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            0
+        ],
+        "desc": "Challenge Demon Tower once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 600
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            }
+        ]
+    },
+    "67": {
+        "id": 67,
+        "target": 1,
+        "controlTarget": [
+            5,
+            24,
+            0,
+            0
+        ],
+        "desc": "Upgrade Sacred Ring once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 700
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            }
+        ]
+    },
+    "68": {
+        "id": 68,
+        "target": 1,
+        "controlTarget": [
+            1,
+            5,
+            0
+        ],
+        "desc": "Enhance Gear once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 800
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            }
+        ]
+    },
+    "69": {
+        "id": 69,
+        "target": 1,
+        "controlTarget": [
+            1,
+            6,
+            2
+        ],
+        "desc": "Perform Gear Smelting once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 900
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            }
+        ]
+    },
+    "70": {
+        "id": 70,
+        "target": 1,
+        "controlTarget": [
+            1,
+            35,
+            0
+        ],
+        "desc": "Perform Cross-server Chat once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "71": {
+        "id": 71,
+        "target": 1,
+        "controlTarget": [
+            5,
+            4,
+            0,
+            0
+        ],
+        "desc": "Perform Upgrade Skill once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    },
+    "72": {
+        "id": 72,
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            2
+        ],
+        "desc": "Challenge Dark Abyss once",
+        "reward": [
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            }
+        ]
+    }
+}

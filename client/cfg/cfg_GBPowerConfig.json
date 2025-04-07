@@ -1,0 +1,66 @@
+{
+    "1": {
+        "index": 1,
+        "difference": [
+            0,
+            10
+        ],
+        "dec": "Ultra High"
+    },
+    "2": {
+        "index": 2,
+        "difference": [
+            11,
+            20
+        ],
+        "dec": "Very High"
+    },
+    "3": {
+        "index": 3,
+        "difference": [
+            21,
+            50
+        ],
+        "dec": "High"
+    },
+    "4": {
+        "index": 4,
+        "difference": [
+            51,
+            80
+        ],
+        "dec": "Slightly High"
+    },
+    "5": {
+        "index": 5,
+        "difference": [
+            81,
+            125
+        ],
+        "dec": "Tie"
+    },
+    "6": {
+        "index": 6,
+        "difference": [
+            126,
+            200
+        ],
+        "dec": "Slightly Low"
+    },
+    "7": {
+        "index": 7,
+        "difference": [
+            201,
+            500
+        ],
+        "dec": "Very Low"
+    },
+    "8": {
+        "index": 8,
+        "difference": [
+            501,
+            999999999
+        ],
+        "dec": "Ultra Low"
+    }
+}

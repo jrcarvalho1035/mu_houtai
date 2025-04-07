@@ -1,0 +1,21 @@
+{
+    "floorMenu": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16
+    ],
+    "desc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards"
+}

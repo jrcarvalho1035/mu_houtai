@@ -1,0 +1,1658 @@
+{
+    "1": {
+        "id": 1,
+        "quality": 3,
+        "name": "Fantasy Butterfly",
+        "bodyId": 1,
+        "equips": [
+            181001,
+            181002,
+            181003,
+            181004,
+            181005
+        ],
+        "equipNames": [
+            "Rare Starima",
+            "Rare Godrune",
+            "Rare Spar",
+            "Rare Divineye",
+            "Rare Hourglass"
+        ],
+        "dec": "Dragon Castle",
+        "power": 20000,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 64000
+            },
+            {
+                "type": 6,
+                "value": 1000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087001,
+                "count": 1
+            }
+        ],
+        "maxLevel": 5000
+    },
+    "2": {
+        "id": 2,
+        "quality": 3,
+        "name": "Tornado",
+        "bodyId": 2,
+        "equips": [
+            182001,
+            182002,
+            182003,
+            182004,
+            182005
+        ],
+        "equipNames": [
+            "Legendary Starima",
+            "Legendary Godrune",
+            "Legendary Spar",
+            "Legendary Divineye",
+            "Legendary Hourglass"
+        ],
+        "dec": "Dragon Castle",
+        "power": 50000,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 152000
+            },
+            {
+                "type": 43,
+                "value": 4000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087002,
+                "count": 1
+            }
+        ],
+        "maxLevel": 5000
+    },
+    "3": {
+        "id": 3,
+        "quality": 3,
+        "name": "666",
+        "bodyId": 3,
+        "equips": [
+            182001,
+            182002,
+            182003,
+            183004,
+            183005
+        ],
+        "equipNames": [
+            "Legendary Starima",
+            "Legendary Godrune",
+            "Legendary Spar",
+            "Epic Divineye",
+            "Epic Hourglass"
+        ],
+        "dec": "Dragon Castle",
+        "power": 80000,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 160000
+            },
+            {
+                "type": 4,
+                "value": 8000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087003,
+                "count": 1
+            }
+        ],
+        "maxLevel": 5000
+    },
+    "4": {
+        "id": 4,
+        "quality": 4,
+        "name": "Incoming Wealth",
+        "bodyId": 4,
+        "equips": [
+            183001,
+            183002,
+            183003,
+            183004,
+            183005
+        ],
+        "equipNames": [
+            "Epic Starima",
+            "Epic Godrune",
+            "Epic Spar",
+            "Epic Divineye",
+            "Epic Hourglass"
+        ],
+        "dec": "Dragon Castle",
+        "power": 200000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 10000
+            },
+            {
+                "type": 1,
+                "value": 400000
+            },
+            {
+                "type": 6,
+                "value": 12500
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087004,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "5": {
+        "id": 5,
+        "quality": 4,
+        "name": "Black Hole",
+        "bodyId": 5,
+        "equips": [
+            183001,
+            183002,
+            183003,
+            184004,
+            184005
+        ],
+        "equipNames": [
+            "Epic Starima",
+            "Epic Godrune",
+            "Epic Spar",
+            "Divine 1-Star Divineye",
+            "Divine 1-Star Hourglass"
+        ],
+        "dec": "Dragon Castle",
+        "power": 400000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 20000
+            },
+            {
+                "type": 1,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087005,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "6": {
+        "id": 6,
+        "quality": 4,
+        "name": "Autumn Blossom",
+        "bodyId": 6,
+        "equips": [
+            184001,
+            184002,
+            184003,
+            184004,
+            184005
+        ],
+        "equipNames": [
+            "Divine 1-Star Starima",
+            "Divine 1-Star Godrune",
+            "Divine 1-Star Spar",
+            "Divine 1-Star Divineye",
+            "Divine 1-Star Hourglass"
+        ],
+        "dec": "Dragon Castle",
+        "power": 600000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 30000
+            },
+            {
+                "type": 1,
+                "value": 1200000
+            },
+            {
+                "type": 43,
+                "value": 50000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087006,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "7": {
+        "id": 7,
+        "quality": 5,
+        "name": "Mysterious Book",
+        "bodyId": 7,
+        "equips": [
+            184001,
+            184002,
+            184003,
+            185004,
+            185005
+        ],
+        "equipNames": [
+            "Divine 1-Star Starima",
+            "Divine 1-Star Godrune",
+            "Divine 1-Star Spar",
+            "Divine 2-Star Divineye",
+            "Divine 2-Star Hourglass"
+        ],
+        "dec": "Warrior Badge",
+        "power": 2000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 100000
+            },
+            {
+                "type": 1,
+                "value": 4000000
+            },
+            {
+                "type": 4,
+                "value": 100000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087007,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "8": {
+        "id": 8,
+        "quality": 5,
+        "name": "Glamorous Firework",
+        "bodyId": 8,
+        "equips": [
+            185001,
+            185002,
+            185003,
+            185004,
+            185005
+        ],
+        "equipNames": [
+            "Divine 2-Star Starima",
+            "Divine 2-Star Godrune",
+            "Divine 2-Star Spar",
+            "Divine 2-Star Divineye",
+            "Divine 2-Star Hourglass"
+        ],
+        "dec": "Poseidon's Treasure",
+        "power": 3000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 150000
+            },
+            {
+                "type": 1,
+                "value": 6000000
+            },
+            {
+                "type": 6,
+                "value": 187500
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087008,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "9": {
+        "id": 9,
+        "quality": 5,
+        "name": "Poseidon's Anchor",
+        "bodyId": 9,
+        "equips": [
+            186001,
+            186002,
+            186003,
+            186004,
+            186005
+        ],
+        "equipNames": [
+            "Divine 3-Star Starima",
+            "Divine 3-Star Godrune",
+            "Divine 3-Star Spar",
+            "Divine 3-Star Divineye",
+            "Divine 3-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 5000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 240000
+            },
+            {
+                "type": 1,
+                "value": 9800000
+            },
+            {
+                "type": 43,
+                "value": 450000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087009,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "10": {
+        "id": 10,
+        "quality": 5,
+        "name": "Big Fortune",
+        "bodyId": 10,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 8000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 400000
+            },
+            {
+                "type": 1,
+                "value": 18000000
+            },
+            {
+                "type": 4,
+                "value": 300000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087010,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "11": {
+        "id": 11,
+        "quality": 6,
+        "name": "Easter Eggs",
+        "bodyId": 11,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 10000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 500000
+            },
+            {
+                "type": 1,
+                "value": 20000000
+            },
+            {
+                "type": 4,
+                "value": 500000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087011,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "12": {
+        "id": 12,
+        "quality": 6,
+        "name": "Eternal Love",
+        "bodyId": 12,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 10000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 480000
+            },
+            {
+                "type": 1,
+                "value": 19600000
+            },
+            {
+                "type": 43,
+                "value": 900000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087012,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "13": {
+        "id": 13,
+        "quality": 6,
+        "name": "Destiny Guide",
+        "bodyId": 13,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 10000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 482000
+            },
+            {
+                "type": 1,
+                "value": 19800000
+            },
+            {
+                "type": 6,
+                "value": 660000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087013,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "14": {
+        "id": 14,
+        "quality": 7,
+        "name": "Sparkling Meteor",
+        "bodyId": 14,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 964000
+            },
+            {
+                "type": 1,
+                "value": 39600000
+            },
+            {
+                "type": 6,
+                "value": 1320000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087014,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "15": {
+        "id": 15,
+        "quality": 7,
+        "name": "Abyssal Shark",
+        "bodyId": 15,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 960000
+            },
+            {
+                "type": 1,
+                "value": 39200000
+            },
+            {
+                "type": 43,
+                "value": 1800000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087015,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "16": {
+        "id": 16,
+        "quality": 7,
+        "name": "Victory K.O.",
+        "bodyId": 16,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000000
+            },
+            {
+                "type": 1,
+                "value": 40000000
+            },
+            {
+                "type": 4,
+                "value": 1000000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087016,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "17": {
+        "id": 17,
+        "quality": 7,
+        "name": "Myth's Secret",
+        "bodyId": 17,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 920000
+            },
+            {
+                "type": 1,
+                "value": 38400000
+            },
+            {
+                "type": 6,
+                "value": 1450000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087017,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "18": {
+        "id": 18,
+        "quality": 7,
+        "name": "Paladin Legend",
+        "bodyId": 18,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000000
+            },
+            {
+                "type": 1,
+                "value": 38400000
+            },
+            {
+                "type": 43,
+                "value": 1800000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087018,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "19": {
+        "id": 19,
+        "quality": 7,
+        "name": "Evil Pumpkin",
+        "bodyId": 19,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 964000
+            },
+            {
+                "type": 1,
+                "value": 39600000
+            },
+            {
+                "type": 6,
+                "value": 1320000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087019,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "20": {
+        "id": 20,
+        "quality": 7,
+        "name": "Turkey Feast",
+        "bodyId": 20,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000000
+            },
+            {
+                "type": 1,
+                "value": 40000000
+            },
+            {
+                "type": 4,
+                "value": 1000000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087020,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "21": {
+        "id": 21,
+        "quality": 7,
+        "name": "Christmas Tree",
+        "bodyId": 21,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000000
+            },
+            {
+                "type": 1,
+                "value": 40000000
+            },
+            {
+                "type": 4,
+                "value": 1000000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087021,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "22": {
+        "id": 22,
+        "quality": 7,
+        "name": "New Year Fireworks",
+        "bodyId": 22,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 920000
+            },
+            {
+                "type": 1,
+                "value": 38400000
+            },
+            {
+                "type": 6,
+                "value": 1450000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087022,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "23": {
+        "id": 23,
+        "quality": 7,
+        "name": "Spring Vigor",
+        "bodyId": 23,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000000
+            },
+            {
+                "type": 1,
+                "value": 39600000
+            },
+            {
+                "type": 43,
+                "value": 1700000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087023,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "24": {
+        "id": 24,
+        "quality": 7,
+        "name": "Western Claw",
+        "bodyId": 24,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 964000
+            },
+            {
+                "type": 1,
+                "value": 39600000
+            },
+            {
+                "type": 6,
+                "value": 1320000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087024,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "25": {
+        "id": 25,
+        "quality": 7,
+        "name": "April Fool Box",
+        "bodyId": 25,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 960000
+            },
+            {
+                "type": 1,
+                "value": 39200000
+            },
+            {
+                "type": 43,
+                "value": 1800000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087025,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "26": {
+        "id": 26,
+        "quality": 7,
+        "name": "Fallen Wings",
+        "bodyId": 26,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000000
+            },
+            {
+                "type": 1,
+                "value": 40000000
+            },
+            {
+                "type": 4,
+                "value": 1000000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087026,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "27": {
+        "id": 27,
+        "quality": 7,
+        "name": "Time Flow",
+        "bodyId": 27,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 920000
+            },
+            {
+                "type": 1,
+                "value": 38400000
+            },
+            {
+                "type": 6,
+                "value": 1450000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087027,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "28": {
+        "id": 28,
+        "quality": 7,
+        "name": "Sweet Coffee ",
+        "bodyId": 28,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 960000
+            },
+            {
+                "type": 1,
+                "value": 39200000
+            },
+            {
+                "type": 43,
+                "value": 1800000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087028,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "29": {
+        "id": 29,
+        "quality": 7,
+        "name": "Paper Plane",
+        "bodyId": 29,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000000
+            },
+            {
+                "type": 1,
+                "value": 40000000
+            },
+            {
+                "type": 4,
+                "value": 1000000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087029,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "30": {
+        "id": 30,
+        "quality": 7,
+        "name": "Ocean Pearl",
+        "bodyId": 31,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 920000
+            },
+            {
+                "type": 1,
+                "value": 38400000
+            },
+            {
+                "type": 6,
+                "value": 1450000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087031,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "31": {
+        "id": 31,
+        "quality": 7,
+        "name": "Summer Date",
+        "bodyId": 32,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 960000
+            },
+            {
+                "type": 1,
+                "value": 39200000
+            },
+            {
+                "type": 43,
+                "value": 1800000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087032,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "32": {
+        "id": 32,
+        "quality": 7,
+        "name": "Moon in Sky",
+        "bodyId": 33,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000000
+            },
+            {
+                "type": 1,
+                "value": 40000000
+            },
+            {
+                "type": 4,
+                "value": 1000000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087033,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "33": {
+        "id": 33,
+        "quality": 7,
+        "name": "Starlight",
+        "bodyId": 30,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 1000000
+            },
+            {
+                "type": 1,
+                "value": 40000000
+            },
+            {
+                "type": 4,
+                "value": 1000000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087030,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "34": {
+        "id": 34,
+        "quality": 7,
+        "name": "Supreme Star",
+        "bodyId": 34,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 964000
+            },
+            {
+                "type": 1,
+                "value": 39600000
+            },
+            {
+                "type": 6,
+                "value": 1320000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087034,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "35": {
+        "id": 35,
+        "quality": 7,
+        "name": "Hex Energy",
+        "bodyId": 35,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 920000
+            },
+            {
+                "type": 1,
+                "value": 38400000
+            },
+            {
+                "type": 6,
+                "value": 1450000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087035,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    },
+    "36": {
+        "id": 36,
+        "quality": 7,
+        "name": "Magic Surprise",
+        "bodyId": 36,
+        "equips": [
+            187001,
+            187002,
+            187003,
+            187004,
+            187005
+        ],
+        "equipNames": [
+            "Divine 4-Star Starima",
+            "Divine 4-Star Godrune",
+            "Divine 4-Star Spar",
+            "Divine 4-Star Divineye",
+            "Divine 4-Star Hourglass"
+        ],
+        "dec": "Event Gain",
+        "power": 20000000,
+        "baseAttrs": [
+            {
+                "type": 32,
+                "value": 960000
+            },
+            {
+                "type": 1,
+                "value": 39200000
+            },
+            {
+                "type": 43,
+                "value": 1800000
+            },
+            {
+                "type": 85,
+                "value": 200
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1087036,
+                "count": 1
+            }
+        ],
+        "maxLevel": 2500
+    }
+}

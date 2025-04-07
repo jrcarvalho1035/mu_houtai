@@ -1,0 +1,172 @@
+{
+    "0": {
+        "slot": 0,
+        "pos": [
+            1,
+            5,
+            7,
+            4,
+            9,
+            9,
+            0,
+            0
+        ],
+        "condition": {
+            "quality": 4,
+            "count": 8,
+            "level": 1
+        },
+        "desc": "Unlock by equipping any Scarlet Gear with 8 Glyphs of |C:0xeb9631&T:Legendary| or above quality\n|C:0xf5e65a&T:Directly unlock when Scarlet Sword reaches T1|",
+        "sortValue": 4
+    },
+    "1": {
+        "slot": 1,
+        "pos": [
+            2,
+            3
+        ],
+        "condition": {
+            "quality": 0,
+            "count": 0
+        },
+        "desc": "Tap the button to unlock Scarlet Helmet Glyph",
+        "sortValue": 10
+    },
+    "2": {
+        "slot": 2,
+        "pos": [
+            1,
+            2,
+            3,
+            6,
+            10,
+            10,
+            0,
+            0
+        ],
+        "condition": {
+            "quality": 4,
+            "count": 12,
+            "level": 2
+        },
+        "desc": "Unlock by equipping any Scarlet Gear with 12 Glyphs of |C:0xeb9631&T:Legendary| or above quality\n|C:0xf5e65a&T:Directly unlock when Scarlet Armor reaches T2|",
+        "sortValue": 3
+    },
+    "3": {
+        "slot": 3,
+        "pos": [
+            1,
+            2
+        ],
+        "condition": {
+            "quality": 1,
+            "count": 2
+        },
+        "desc": "Unlock by equipping any Scarlet Gear with 2 Glyphs of |C:0x03f005&T:Uncommon| or above quality",
+        "sortValue": 9
+    },
+    "4": {
+        "slot": 4,
+        "pos": [
+            2,
+            5,
+            6,
+            8
+        ],
+        "condition": {
+            "quality": 2,
+            "count": 2
+        },
+        "desc": "Unlock by equipping any Scarlet Gear with 2 Glyphs of |C:0x3d81ff&T:Rare| or above quality",
+        "sortValue": 8
+    },
+    "5": {
+        "slot": 5,
+        "pos": [
+            1,
+            5,
+            7,
+            4
+        ],
+        "condition": {
+            "quality": 2,
+            "count": 4
+        },
+        "desc": "Unlock by equipping any Scarlet Gear with 4 Glyphs of |C:0x3d81ff&T:Rare| or above quality",
+        "sortValue": 7
+    },
+    "6": {
+        "slot": 6,
+        "pos": [
+            2,
+            3,
+            6,
+            8,
+            9,
+            9
+        ],
+        "condition": {
+            "quality": 3,
+            "count": 4
+        },
+        "desc": "Unlock by equipping any Scarlet Gear with 4 Glyphs of |C:0xd846fc&T:Epic| or above quality",
+        "sortValue": 6
+    },
+    "7": {
+        "slot": 7,
+        "pos": [
+            7,
+            2,
+            3,
+            6,
+            10,
+            10
+        ],
+        "condition": {
+            "quality": 3,
+            "count": 8
+        },
+        "desc": "Unlock by equipping any Scarlet Gear with 8 Glyphs of |C:0xd846fc&T:Epic| or above quality",
+        "sortValue": 5
+    },
+    "8": {
+        "slot": 8,
+        "pos": [
+            1,
+            5,
+            7,
+            4,
+            9,
+            9,
+            0,
+            0
+        ],
+        "condition": {
+            "quality": 4,
+            "count": 16,
+            "level": 3
+        },
+        "desc": "Unlock by equipping any Scarlet Gear with 16 Glyphs of |C:0xeb9631&T:Legendary| or above quality\n|C:0xf5e65a&T:Directly unlock when Scarlet Ring reaches T3|",
+        "sortValue": 2
+    },
+    "9": {
+        "slot": 9,
+        "pos": [
+            1,
+            5,
+            7,
+            4,
+            10,
+            10,
+            0,
+            0
+        ],
+        "condition": {
+            "quality": 4,
+            "count": 20,
+            "level": 4
+        },
+        "desc": "Unlock by equipping any Scarlet Gear with 20 Glyphs of |C:0xeb9631&T:Legendary| or above quality\n|C:0xf5e65a&T:Directly unlock when Scarlet Imprint reaches T4|",
+        "sortValue": 1
+    }
+}

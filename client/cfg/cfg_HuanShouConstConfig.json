@@ -1,0 +1,62 @@
+{
+    "needItemId": 310111,
+    "fightCount": 2,
+    "extendFightCount": 18,
+    "needFightItem": [
+        {
+            "type": 1,
+            "id": 310110,
+            "count": 1
+        }
+    ],
+    "commonSkillIndex": [
+        1,
+        12,
+        23,
+        34,
+        45
+    ],
+    "commonSkillNames": [
+        "Force of Horn",
+        "Force of Body",
+        "Force of Eye",
+        "Force of Claw",
+        "Force of Tail"
+    ],
+    "skillDec": "Eudemon Skill will be passed on to the next deployed Eudemon",
+    "dazaoItemId": 310112,
+    "baseAttrView": [
+        {
+            "type": 152,
+            "value": 0
+        },
+        {
+            "type": 151,
+            "value": 0
+        },
+        {
+            "type": 153,
+            "value": 0
+        },
+        {
+            "type": 158,
+            "value": 0
+        },
+        {
+            "type": 156,
+            "value": 0
+        },
+        {
+            "type": 157,
+            "value": 0
+        },
+        {
+            "type": 154,
+            "value": 0
+        },
+        {
+            "type": 155,
+            "value": 0
+        }
+    ]
+}

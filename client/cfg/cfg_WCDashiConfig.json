@@ -1,0 +1,1494 @@
+{
+    "1": {
+        "0": {
+            "type": 1,
+            "level": 0,
+            "per": 0,
+            "needlv": 1,
+            "neednumber": 3
+        },
+        "1": {
+            "type": 1,
+            "level": 1,
+            "per": 1000,
+            "needlv": 1,
+            "neednumber": 6
+        },
+        "2": {
+            "type": 1,
+            "level": 2,
+            "per": 2000,
+            "needlv": 1,
+            "neednumber": 9
+        },
+        "3": {
+            "type": 1,
+            "level": 3,
+            "per": 3000,
+            "needlv": 1,
+            "neednumber": 12
+        },
+        "4": {
+            "type": 1,
+            "level": 4,
+            "per": 4000,
+            "needlv": 2,
+            "neednumber": 12
+        },
+        "5": {
+            "type": 1,
+            "level": 5,
+            "per": 5000,
+            "needlv": 3,
+            "neednumber": 12
+        },
+        "6": {
+            "type": 1,
+            "level": 6,
+            "per": 6000,
+            "needlv": 5,
+            "neednumber": 12
+        },
+        "7": {
+            "type": 1,
+            "level": 7,
+            "per": 7000,
+            "needlv": 10,
+            "neednumber": 12
+        },
+        "8": {
+            "type": 1,
+            "level": 8,
+            "per": 8000,
+            "needlv": 15,
+            "neednumber": 12
+        },
+        "9": {
+            "type": 1,
+            "level": 9,
+            "per": 9000,
+            "needlv": 20,
+            "neednumber": 12
+        },
+        "10": {
+            "type": 1,
+            "level": 10,
+            "per": 10000,
+            "needlv": 25,
+            "neednumber": 12
+        },
+        "11": {
+            "type": 1,
+            "level": 11,
+            "per": 10500,
+            "needlv": 30,
+            "neednumber": 12
+        },
+        "12": {
+            "type": 1,
+            "level": 12,
+            "per": 11000,
+            "needlv": 35,
+            "neednumber": 12
+        },
+        "13": {
+            "type": 1,
+            "level": 13,
+            "per": 11500,
+            "needlv": 40,
+            "neednumber": 12
+        },
+        "14": {
+            "type": 1,
+            "level": 14,
+            "per": 12000,
+            "needlv": 45,
+            "neednumber": 12
+        },
+        "15": {
+            "type": 1,
+            "level": 15,
+            "per": 12500,
+            "needlv": 50,
+            "neednumber": 12
+        },
+        "16": {
+            "type": 1,
+            "level": 16,
+            "per": 13000,
+            "needlv": 55,
+            "neednumber": 12
+        },
+        "17": {
+            "type": 1,
+            "level": 17,
+            "per": 13500,
+            "needlv": 60,
+            "neednumber": 12
+        },
+        "18": {
+            "type": 1,
+            "level": 18,
+            "per": 14000,
+            "needlv": 65,
+            "neednumber": 12
+        },
+        "19": {
+            "type": 1,
+            "level": 19,
+            "per": 14500,
+            "needlv": 70,
+            "neednumber": 12
+        },
+        "20": {
+            "type": 1,
+            "level": 20,
+            "per": 15000,
+            "needlv": 75,
+            "neednumber": 12
+        },
+        "21": {
+            "type": 1,
+            "level": 21,
+            "per": 15500,
+            "needlv": 80,
+            "neednumber": 12
+        },
+        "22": {
+            "type": 1,
+            "level": 22,
+            "per": 16000,
+            "needlv": 85,
+            "neednumber": 12
+        },
+        "23": {
+            "type": 1,
+            "level": 23,
+            "per": 16500,
+            "needlv": 90,
+            "neednumber": 12
+        },
+        "24": {
+            "type": 1,
+            "level": 24,
+            "per": 17000,
+            "needlv": 95,
+            "neednumber": 12
+        },
+        "25": {
+            "type": 1,
+            "level": 25,
+            "per": 17500,
+            "needlv": 100,
+            "neednumber": 12
+        },
+        "26": {
+            "type": 1,
+            "level": 26,
+            "per": 18000,
+            "needlv": 110,
+            "neednumber": 12
+        },
+        "27": {
+            "type": 1,
+            "level": 27,
+            "per": 18500,
+            "needlv": 120,
+            "neednumber": 12
+        },
+        "28": {
+            "type": 1,
+            "level": 28,
+            "per": 19000,
+            "needlv": 130,
+            "neednumber": 12
+        },
+        "29": {
+            "type": 1,
+            "level": 29,
+            "per": 19500,
+            "needlv": 140,
+            "neednumber": 12
+        },
+        "30": {
+            "type": 1,
+            "level": 30,
+            "per": 20000,
+            "needlv": 150,
+            "neednumber": 12
+        },
+        "31": {
+            "type": 1,
+            "level": 31,
+            "per": 20500,
+            "needlv": 160,
+            "neednumber": 12
+        },
+        "32": {
+            "type": 1,
+            "level": 32,
+            "per": 21000,
+            "needlv": 170,
+            "neednumber": 12
+        },
+        "33": {
+            "type": 1,
+            "level": 33,
+            "per": 21500,
+            "needlv": 180,
+            "neednumber": 12
+        },
+        "34": {
+            "type": 1,
+            "level": 34,
+            "per": 22000,
+            "needlv": 190,
+            "neednumber": 12
+        },
+        "35": {
+            "type": 1,
+            "level": 35,
+            "per": 22500,
+            "needlv": 200,
+            "neednumber": 12
+        },
+        "36": {
+            "type": 1,
+            "level": 36,
+            "per": 23000,
+            "needlv": 210,
+            "neednumber": 12
+        },
+        "37": {
+            "type": 1,
+            "level": 37,
+            "per": 23500,
+            "needlv": 220,
+            "neednumber": 12
+        },
+        "38": {
+            "type": 1,
+            "level": 38,
+            "per": 24000,
+            "needlv": 230,
+            "neednumber": 12
+        },
+        "39": {
+            "type": 1,
+            "level": 39,
+            "per": 24500,
+            "needlv": 240,
+            "neednumber": 12
+        },
+        "40": {
+            "type": 1,
+            "level": 40,
+            "per": 25000,
+            "needlv": 250,
+            "neednumber": 12
+        },
+        "41": {
+            "type": 1,
+            "level": 41,
+            "per": 25500,
+            "needlv": 260,
+            "neednumber": 12
+        },
+        "42": {
+            "type": 1,
+            "level": 42,
+            "per": 26000,
+            "needlv": 270,
+            "neednumber": 12
+        },
+        "43": {
+            "type": 1,
+            "level": 43,
+            "per": 26500,
+            "needlv": 280,
+            "neednumber": 12
+        },
+        "44": {
+            "type": 1,
+            "level": 44,
+            "per": 27000,
+            "needlv": 290,
+            "neednumber": 12
+        },
+        "45": {
+            "type": 1,
+            "level": 45,
+            "per": 27500,
+            "needlv": 300,
+            "neednumber": 12
+        },
+        "46": {
+            "type": 1,
+            "level": 46,
+            "per": 28000,
+            "needlv": 320,
+            "neednumber": 12
+        },
+        "47": {
+            "type": 1,
+            "level": 47,
+            "per": 28100,
+            "needlv": 340,
+            "neednumber": 12
+        },
+        "48": {
+            "type": 1,
+            "level": 48,
+            "per": 28200,
+            "needlv": 360,
+            "neednumber": 12
+        },
+        "49": {
+            "type": 1,
+            "level": 49,
+            "per": 28300,
+            "needlv": 380,
+            "neednumber": 12
+        },
+        "50": {
+            "type": 1,
+            "level": 50,
+            "per": 28400,
+            "needlv": 400,
+            "neednumber": 12
+        },
+        "51": {
+            "type": 1,
+            "level": 51,
+            "per": 28500,
+            "needlv": 420,
+            "neednumber": 12
+        },
+        "52": {
+            "type": 1,
+            "level": 52,
+            "per": 28600,
+            "needlv": 440,
+            "neednumber": 12
+        },
+        "53": {
+            "type": 1,
+            "level": 53,
+            "per": 28700,
+            "needlv": 460,
+            "neednumber": 12
+        },
+        "54": {
+            "type": 1,
+            "level": 54,
+            "per": 28800,
+            "needlv": 480,
+            "neednumber": 12
+        },
+        "55": {
+            "type": 1,
+            "level": 55,
+            "per": 28900,
+            "needlv": 500,
+            "neednumber": 12
+        },
+        "56": {
+            "type": 1,
+            "level": 56,
+            "per": 29000,
+            "needlv": 520,
+            "neednumber": 12
+        },
+        "57": {
+            "type": 1,
+            "level": 57,
+            "per": 29100,
+            "needlv": 540,
+            "neednumber": 12
+        },
+        "58": {
+            "type": 1,
+            "level": 58,
+            "per": 29200,
+            "needlv": 560,
+            "neednumber": 12
+        },
+        "59": {
+            "type": 1,
+            "level": 59,
+            "per": 29300,
+            "needlv": 580,
+            "neednumber": 12
+        },
+        "60": {
+            "type": 1,
+            "level": 60,
+            "per": 29400,
+            "needlv": 600,
+            "neednumber": 12
+        },
+        "61": {
+            "type": 1,
+            "level": 61,
+            "per": 29500,
+            "needlv": 650,
+            "neednumber": 12
+        },
+        "62": {
+            "type": 1,
+            "level": 62,
+            "per": 29600,
+            "needlv": 700,
+            "neednumber": 12
+        },
+        "63": {
+            "type": 1,
+            "level": 63,
+            "per": 29700,
+            "needlv": 750,
+            "neednumber": 12
+        },
+        "64": {
+            "type": 1,
+            "level": 64,
+            "per": 29800,
+            "needlv": 800,
+            "neednumber": 12
+        },
+        "65": {
+            "type": 1,
+            "level": 65,
+            "per": 29900,
+            "needlv": 850,
+            "neednumber": 12
+        },
+        "66": {
+            "type": 1,
+            "level": 66,
+            "per": 30000,
+            "needlv": 900,
+            "neednumber": 12
+        },
+        "67": {
+            "type": 1,
+            "level": 67,
+            "per": 30100,
+            "needlv": 950,
+            "neednumber": 12
+        },
+        "68": {
+            "type": 1,
+            "level": 68,
+            "per": 30200,
+            "needlv": 1000,
+            "neednumber": 12
+        },
+        "69": {
+            "type": 1,
+            "level": 69,
+            "per": 30300,
+            "needlv": 1050,
+            "neednumber": 12
+        },
+        "70": {
+            "type": 1,
+            "level": 70,
+            "per": 30400,
+            "needlv": 1100,
+            "neednumber": 12
+        },
+        "71": {
+            "type": 1,
+            "level": 71,
+            "per": 30500,
+            "needlv": 1150,
+            "neednumber": 12
+        },
+        "72": {
+            "type": 1,
+            "level": 72,
+            "per": 30600,
+            "needlv": 1200,
+            "neednumber": 12
+        },
+        "73": {
+            "type": 1,
+            "level": 73,
+            "per": 30700,
+            "needlv": 1250,
+            "neednumber": 12
+        },
+        "74": {
+            "type": 1,
+            "level": 74,
+            "per": 30800,
+            "needlv": 1300,
+            "neednumber": 12
+        },
+        "75": {
+            "type": 1,
+            "level": 75,
+            "per": 30900,
+            "needlv": 1350,
+            "neednumber": 12
+        },
+        "76": {
+            "type": 1,
+            "level": 76,
+            "per": 31000,
+            "needlv": 1400,
+            "neednumber": 12
+        },
+        "77": {
+            "type": 1,
+            "level": 77,
+            "per": 31100,
+            "needlv": 1450,
+            "neednumber": 12
+        },
+        "78": {
+            "type": 1,
+            "level": 78,
+            "per": 31200,
+            "needlv": 1500,
+            "neednumber": 12
+        },
+        "79": {
+            "type": 1,
+            "level": 79,
+            "per": 31300,
+            "needlv": 0,
+            "neednumber": 0
+        }
+    },
+    "2": {
+        "0": {
+            "type": 2,
+            "level": 0,
+            "per": 0,
+            "needlv": 1,
+            "neednumber": 3
+        },
+        "1": {
+            "type": 2,
+            "level": 1,
+            "per": 1000,
+            "needlv": 1,
+            "neednumber": 6
+        },
+        "2": {
+            "type": 2,
+            "level": 2,
+            "per": 2000,
+            "needlv": 1,
+            "neednumber": 9
+        },
+        "3": {
+            "type": 2,
+            "level": 3,
+            "per": 3000,
+            "needlv": 1,
+            "neednumber": 12
+        },
+        "4": {
+            "type": 2,
+            "level": 4,
+            "per": 4000,
+            "needlv": 2,
+            "neednumber": 12
+        },
+        "5": {
+            "type": 2,
+            "level": 5,
+            "per": 5000,
+            "needlv": 3,
+            "neednumber": 12
+        },
+        "6": {
+            "type": 2,
+            "level": 6,
+            "per": 6000,
+            "needlv": 5,
+            "neednumber": 12
+        },
+        "7": {
+            "type": 2,
+            "level": 7,
+            "per": 7000,
+            "needlv": 10,
+            "neednumber": 12
+        },
+        "8": {
+            "type": 2,
+            "level": 8,
+            "per": 8000,
+            "needlv": 15,
+            "neednumber": 12
+        },
+        "9": {
+            "type": 2,
+            "level": 9,
+            "per": 9000,
+            "needlv": 20,
+            "neednumber": 12
+        },
+        "10": {
+            "type": 2,
+            "level": 10,
+            "per": 10000,
+            "needlv": 25,
+            "neednumber": 12
+        },
+        "11": {
+            "type": 2,
+            "level": 11,
+            "per": 10500,
+            "needlv": 30,
+            "neednumber": 12
+        },
+        "12": {
+            "type": 2,
+            "level": 12,
+            "per": 11000,
+            "needlv": 35,
+            "neednumber": 12
+        },
+        "13": {
+            "type": 2,
+            "level": 13,
+            "per": 11500,
+            "needlv": 40,
+            "neednumber": 12
+        },
+        "14": {
+            "type": 2,
+            "level": 14,
+            "per": 12000,
+            "needlv": 45,
+            "neednumber": 12
+        },
+        "15": {
+            "type": 2,
+            "level": 15,
+            "per": 12500,
+            "needlv": 50,
+            "neednumber": 12
+        },
+        "16": {
+            "type": 2,
+            "level": 16,
+            "per": 13000,
+            "needlv": 55,
+            "neednumber": 12
+        },
+        "17": {
+            "type": 2,
+            "level": 17,
+            "per": 13500,
+            "needlv": 60,
+            "neednumber": 12
+        },
+        "18": {
+            "type": 2,
+            "level": 18,
+            "per": 14000,
+            "needlv": 65,
+            "neednumber": 12
+        },
+        "19": {
+            "type": 2,
+            "level": 19,
+            "per": 14500,
+            "needlv": 70,
+            "neednumber": 12
+        },
+        "20": {
+            "type": 2,
+            "level": 20,
+            "per": 15000,
+            "needlv": 75,
+            "neednumber": 12
+        },
+        "21": {
+            "type": 2,
+            "level": 21,
+            "per": 15500,
+            "needlv": 80,
+            "neednumber": 12
+        },
+        "22": {
+            "type": 2,
+            "level": 22,
+            "per": 16000,
+            "needlv": 85,
+            "neednumber": 12
+        },
+        "23": {
+            "type": 2,
+            "level": 23,
+            "per": 16500,
+            "needlv": 90,
+            "neednumber": 12
+        },
+        "24": {
+            "type": 2,
+            "level": 24,
+            "per": 17000,
+            "needlv": 95,
+            "neednumber": 12
+        },
+        "25": {
+            "type": 2,
+            "level": 25,
+            "per": 17500,
+            "needlv": 100,
+            "neednumber": 12
+        },
+        "26": {
+            "type": 2,
+            "level": 26,
+            "per": 18000,
+            "needlv": 110,
+            "neednumber": 12
+        },
+        "27": {
+            "type": 2,
+            "level": 27,
+            "per": 18500,
+            "needlv": 120,
+            "neednumber": 12
+        },
+        "28": {
+            "type": 2,
+            "level": 28,
+            "per": 19000,
+            "needlv": 130,
+            "neednumber": 12
+        },
+        "29": {
+            "type": 2,
+            "level": 29,
+            "per": 19500,
+            "needlv": 140,
+            "neednumber": 12
+        },
+        "30": {
+            "type": 2,
+            "level": 30,
+            "per": 20000,
+            "needlv": 150,
+            "neednumber": 12
+        },
+        "31": {
+            "type": 2,
+            "level": 31,
+            "per": 20500,
+            "needlv": 160,
+            "neednumber": 12
+        },
+        "32": {
+            "type": 2,
+            "level": 32,
+            "per": 21000,
+            "needlv": 170,
+            "neednumber": 12
+        },
+        "33": {
+            "type": 2,
+            "level": 33,
+            "per": 21500,
+            "needlv": 180,
+            "neednumber": 12
+        },
+        "34": {
+            "type": 2,
+            "level": 34,
+            "per": 22000,
+            "needlv": 190,
+            "neednumber": 12
+        },
+        "35": {
+            "type": 2,
+            "level": 35,
+            "per": 22500,
+            "needlv": 200,
+            "neednumber": 12
+        },
+        "36": {
+            "type": 2,
+            "level": 36,
+            "per": 23000,
+            "needlv": 220,
+            "neednumber": 12
+        },
+        "37": {
+            "type": 2,
+            "level": 37,
+            "per": 23100,
+            "needlv": 240,
+            "neednumber": 12
+        },
+        "38": {
+            "type": 2,
+            "level": 38,
+            "per": 23200,
+            "needlv": 260,
+            "neednumber": 12
+        },
+        "39": {
+            "type": 2,
+            "level": 39,
+            "per": 23300,
+            "needlv": 280,
+            "neednumber": 12
+        },
+        "40": {
+            "type": 2,
+            "level": 40,
+            "per": 23400,
+            "needlv": 300,
+            "neednumber": 12
+        },
+        "41": {
+            "type": 2,
+            "level": 41,
+            "per": 23500,
+            "needlv": 320,
+            "neednumber": 12
+        },
+        "42": {
+            "type": 2,
+            "level": 42,
+            "per": 23600,
+            "needlv": 340,
+            "neednumber": 12
+        },
+        "43": {
+            "type": 2,
+            "level": 43,
+            "per": 23700,
+            "needlv": 360,
+            "neednumber": 12
+        },
+        "44": {
+            "type": 2,
+            "level": 44,
+            "per": 23800,
+            "needlv": 380,
+            "neednumber": 12
+        },
+        "45": {
+            "type": 2,
+            "level": 45,
+            "per": 23900,
+            "needlv": 400,
+            "neednumber": 12
+        },
+        "46": {
+            "type": 2,
+            "level": 46,
+            "per": 24000,
+            "needlv": 420,
+            "neednumber": 12
+        },
+        "47": {
+            "type": 2,
+            "level": 47,
+            "per": 24100,
+            "needlv": 440,
+            "neednumber": 12
+        },
+        "48": {
+            "type": 2,
+            "level": 48,
+            "per": 24200,
+            "needlv": 460,
+            "neednumber": 12
+        },
+        "49": {
+            "type": 2,
+            "level": 49,
+            "per": 24300,
+            "needlv": 480,
+            "neednumber": 12
+        },
+        "50": {
+            "type": 2,
+            "level": 50,
+            "per": 24400,
+            "needlv": 500,
+            "neednumber": 12
+        },
+        "51": {
+            "type": 2,
+            "level": 51,
+            "per": 24500,
+            "needlv": 520,
+            "neednumber": 12
+        },
+        "52": {
+            "type": 2,
+            "level": 52,
+            "per": 24600,
+            "needlv": 540,
+            "neednumber": 12
+        },
+        "53": {
+            "type": 2,
+            "level": 53,
+            "per": 24700,
+            "needlv": 560,
+            "neednumber": 12
+        },
+        "54": {
+            "type": 2,
+            "level": 54,
+            "per": 24800,
+            "needlv": 580,
+            "neednumber": 12
+        },
+        "55": {
+            "type": 2,
+            "level": 55,
+            "per": 24900,
+            "needlv": 600,
+            "neednumber": 12
+        },
+        "56": {
+            "type": 2,
+            "level": 56,
+            "per": 25000,
+            "needlv": 0,
+            "neednumber": 0
+        }
+    },
+    "3": {
+        "0": {
+            "type": 3,
+            "level": 0,
+            "per": 0,
+            "needlv": 1,
+            "neednumber": 3
+        },
+        "1": {
+            "type": 3,
+            "level": 1,
+            "per": 1000,
+            "needlv": 1,
+            "neednumber": 6
+        },
+        "2": {
+            "type": 3,
+            "level": 2,
+            "per": 2000,
+            "needlv": 1,
+            "neednumber": 9
+        },
+        "3": {
+            "type": 3,
+            "level": 3,
+            "per": 3000,
+            "needlv": 1,
+            "neednumber": 12
+        },
+        "4": {
+            "type": 3,
+            "level": 4,
+            "per": 4000,
+            "needlv": 1,
+            "neednumber": 15
+        },
+        "5": {
+            "type": 3,
+            "level": 5,
+            "per": 5000,
+            "needlv": 2,
+            "neednumber": 15
+        },
+        "6": {
+            "type": 3,
+            "level": 6,
+            "per": 6000,
+            "needlv": 3,
+            "neednumber": 15
+        },
+        "7": {
+            "type": 3,
+            "level": 7,
+            "per": 7000,
+            "needlv": 5,
+            "neednumber": 15
+        },
+        "8": {
+            "type": 3,
+            "level": 8,
+            "per": 8000,
+            "needlv": 10,
+            "neednumber": 15
+        },
+        "9": {
+            "type": 3,
+            "level": 9,
+            "per": 9000,
+            "needlv": 15,
+            "neednumber": 15
+        },
+        "10": {
+            "type": 3,
+            "level": 10,
+            "per": 10000,
+            "needlv": 20,
+            "neednumber": 15
+        },
+        "11": {
+            "type": 3,
+            "level": 11,
+            "per": 10500,
+            "needlv": 25,
+            "neednumber": 15
+        },
+        "12": {
+            "type": 3,
+            "level": 12,
+            "per": 11000,
+            "needlv": 30,
+            "neednumber": 15
+        },
+        "13": {
+            "type": 3,
+            "level": 13,
+            "per": 11500,
+            "needlv": 35,
+            "neednumber": 15
+        },
+        "14": {
+            "type": 3,
+            "level": 14,
+            "per": 12000,
+            "needlv": 40,
+            "neednumber": 15
+        },
+        "15": {
+            "type": 3,
+            "level": 15,
+            "per": 12500,
+            "needlv": 45,
+            "neednumber": 15
+        },
+        "16": {
+            "type": 3,
+            "level": 16,
+            "per": 13000,
+            "needlv": 50,
+            "neednumber": 15
+        },
+        "17": {
+            "type": 3,
+            "level": 17,
+            "per": 13500,
+            "needlv": 55,
+            "neednumber": 15
+        },
+        "18": {
+            "type": 3,
+            "level": 18,
+            "per": 14000,
+            "needlv": 60,
+            "neednumber": 15
+        },
+        "19": {
+            "type": 3,
+            "level": 19,
+            "per": 14500,
+            "needlv": 65,
+            "neednumber": 15
+        },
+        "20": {
+            "type": 3,
+            "level": 20,
+            "per": 15000,
+            "needlv": 70,
+            "neednumber": 15
+        },
+        "21": {
+            "type": 3,
+            "level": 21,
+            "per": 15500,
+            "needlv": 75,
+            "neednumber": 15
+        },
+        "22": {
+            "type": 3,
+            "level": 22,
+            "per": 16000,
+            "needlv": 80,
+            "neednumber": 15
+        },
+        "23": {
+            "type": 3,
+            "level": 23,
+            "per": 16500,
+            "needlv": 85,
+            "neednumber": 15
+        },
+        "24": {
+            "type": 3,
+            "level": 24,
+            "per": 17000,
+            "needlv": 90,
+            "neednumber": 15
+        },
+        "25": {
+            "type": 3,
+            "level": 25,
+            "per": 17500,
+            "needlv": 95,
+            "neednumber": 15
+        },
+        "26": {
+            "type": 3,
+            "level": 26,
+            "per": 18000,
+            "needlv": 100,
+            "neednumber": 15
+        },
+        "27": {
+            "type": 3,
+            "level": 27,
+            "per": 18500,
+            "needlv": 110,
+            "neednumber": 15
+        },
+        "28": {
+            "type": 3,
+            "level": 28,
+            "per": 18600,
+            "needlv": 120,
+            "neednumber": 15
+        },
+        "29": {
+            "type": 3,
+            "level": 29,
+            "per": 18700,
+            "needlv": 130,
+            "neednumber": 15
+        },
+        "30": {
+            "type": 3,
+            "level": 30,
+            "per": 18800,
+            "needlv": 140,
+            "neednumber": 15
+        },
+        "31": {
+            "type": 3,
+            "level": 31,
+            "per": 18900,
+            "needlv": 150,
+            "neednumber": 15
+        },
+        "32": {
+            "type": 3,
+            "level": 32,
+            "per": 19000,
+            "needlv": 160,
+            "neednumber": 15
+        },
+        "33": {
+            "type": 3,
+            "level": 33,
+            "per": 19100,
+            "needlv": 180,
+            "neednumber": 15
+        },
+        "34": {
+            "type": 3,
+            "level": 34,
+            "per": 19200,
+            "needlv": 200,
+            "neednumber": 15
+        },
+        "35": {
+            "type": 3,
+            "level": 35,
+            "per": 19300,
+            "needlv": 220,
+            "neednumber": 15
+        },
+        "36": {
+            "type": 3,
+            "level": 36,
+            "per": 19400,
+            "needlv": 240,
+            "neednumber": 15
+        },
+        "37": {
+            "type": 3,
+            "level": 37,
+            "per": 19500,
+            "needlv": 260,
+            "neednumber": 15
+        },
+        "38": {
+            "type": 3,
+            "level": 38,
+            "per": 19600,
+            "needlv": 280,
+            "neednumber": 15
+        },
+        "39": {
+            "type": 3,
+            "level": 39,
+            "per": 19700,
+            "needlv": 300,
+            "neednumber": 15
+        },
+        "40": {
+            "type": 3,
+            "level": 40,
+            "per": 19800,
+            "needlv": 320,
+            "neednumber": 15
+        },
+        "41": {
+            "type": 3,
+            "level": 41,
+            "per": 19900,
+            "needlv": 340,
+            "neednumber": 15
+        },
+        "42": {
+            "type": 3,
+            "level": 42,
+            "per": 20000,
+            "needlv": 360,
+            "neednumber": 15
+        },
+        "43": {
+            "type": 3,
+            "level": 43,
+            "per": 20100,
+            "needlv": 380,
+            "neednumber": 15
+        },
+        "44": {
+            "type": 3,
+            "level": 44,
+            "per": 20200,
+            "needlv": 400,
+            "neednumber": 15
+        },
+        "45": {
+            "type": 3,
+            "level": 45,
+            "per": 20300,
+            "needlv": 420,
+            "neednumber": 15
+        },
+        "46": {
+            "type": 3,
+            "level": 46,
+            "per": 20400,
+            "needlv": 440,
+            "neednumber": 15
+        },
+        "47": {
+            "type": 3,
+            "level": 47,
+            "per": 20500,
+            "needlv": 0,
+            "neednumber": 0
+        }
+    },
+    "4": {
+        "0": {
+            "type": 4,
+            "level": 0,
+            "per": 0,
+            "needlv": 1,
+            "neednumber": 3
+        },
+        "1": {
+            "type": 4,
+            "level": 1,
+            "per": 1000,
+            "needlv": 1,
+            "neednumber": 6
+        },
+        "2": {
+            "type": 4,
+            "level": 2,
+            "per": 2000,
+            "needlv": 1,
+            "neednumber": 9
+        },
+        "3": {
+            "type": 4,
+            "level": 3,
+            "per": 3000,
+            "needlv": 1,
+            "neednumber": 12
+        },
+        "4": {
+            "type": 4,
+            "level": 4,
+            "per": 4000,
+            "needlv": 2,
+            "neednumber": 12
+        },
+        "5": {
+            "type": 4,
+            "level": 5,
+            "per": 5000,
+            "needlv": 3,
+            "neednumber": 12
+        },
+        "6": {
+            "type": 4,
+            "level": 6,
+            "per": 6000,
+            "needlv": 5,
+            "neednumber": 12
+        },
+        "7": {
+            "type": 4,
+            "level": 7,
+            "per": 7000,
+            "needlv": 10,
+            "neednumber": 12
+        },
+        "8": {
+            "type": 4,
+            "level": 8,
+            "per": 8000,
+            "needlv": 15,
+            "neednumber": 12
+        },
+        "9": {
+            "type": 4,
+            "level": 9,
+            "per": 9000,
+            "needlv": 20,
+            "neednumber": 12
+        },
+        "10": {
+            "type": 4,
+            "level": 10,
+            "per": 10000,
+            "needlv": 25,
+            "neednumber": 12
+        },
+        "11": {
+            "type": 4,
+            "level": 11,
+            "per": 10500,
+            "needlv": 30,
+            "neednumber": 12
+        },
+        "12": {
+            "type": 4,
+            "level": 12,
+            "per": 11000,
+            "needlv": 35,
+            "neednumber": 12
+        },
+        "13": {
+            "type": 4,
+            "level": 13,
+            "per": 11500,
+            "needlv": 40,
+            "neednumber": 12
+        },
+        "14": {
+            "type": 4,
+            "level": 14,
+            "per": 12000,
+            "needlv": 45,
+            "neednumber": 12
+        },
+        "15": {
+            "type": 4,
+            "level": 15,
+            "per": 12500,
+            "needlv": 50,
+            "neednumber": 12
+        },
+        "16": {
+            "type": 4,
+            "level": 16,
+            "per": 13000,
+            "needlv": 55,
+            "neednumber": 12
+        },
+        "17": {
+            "type": 4,
+            "level": 17,
+            "per": 13500,
+            "needlv": 60,
+            "neednumber": 12
+        },
+        "18": {
+            "type": 4,
+            "level": 18,
+            "per": 14000,
+            "needlv": 65,
+            "neednumber": 12
+        },
+        "19": {
+            "type": 4,
+            "level": 19,
+            "per": 14500,
+            "needlv": 70,
+            "neednumber": 12
+        },
+        "20": {
+            "type": 4,
+            "level": 20,
+            "per": 15000,
+            "needlv": 75,
+            "neednumber": 12
+        },
+        "21": {
+            "type": 4,
+            "level": 21,
+            "per": 15500,
+            "needlv": 80,
+            "neednumber": 12
+        },
+        "22": {
+            "type": 4,
+            "level": 22,
+            "per": 16000,
+            "needlv": 85,
+            "neednumber": 12
+        },
+        "23": {
+            "type": 4,
+            "level": 23,
+            "per": 16500,
+            "needlv": 90,
+            "neednumber": 12
+        },
+        "24": {
+            "type": 4,
+            "level": 24,
+            "per": 17000,
+            "needlv": 95,
+            "neednumber": 12
+        },
+        "25": {
+            "type": 4,
+            "level": 25,
+            "per": 17500,
+            "needlv": 100,
+            "neednumber": 12
+        },
+        "26": {
+            "type": 4,
+            "level": 26,
+            "per": 18000,
+            "needlv": 0,
+            "neednumber": 0
+        }
+    }
+}

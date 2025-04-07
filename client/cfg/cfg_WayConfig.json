@@ -1,0 +1,422 @@
+{
+    "1": {
+        "idx": 1,
+        "id": 214,
+        "guanqia": 2,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Learn cool skills and boost your CP",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "2": {
+        "idx": 2,
+        "id": 217,
+        "guanqia": 3,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Assist the other players to grind monsters, boost your CP",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "3": {
+        "idx": 3,
+        "id": 233,
+        "guanqia": 4,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Fight Boss to earn Gears. Legendary and Divine Gears await",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "4": {
+        "idx": 4,
+        "id": 219,
+        "guanqia": 4,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Enhance Gear and take the lead in CP",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "5": {
+        "idx": 5,
+        "id": 201,
+        "guanqia": 5,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Claim the Basic rewards. Complete the quest to boost your title",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "6": {
+        "idx": 6,
+        "id": 234,
+        "guanqia": 6,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Fight the Boss and get the ownership, gain your rare rewards",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "7": {
+        "idx": 7,
+        "id": 237,
+        "guanqia": 7,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Climb the tower to gain Secret and Item Rewards",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "8": {
+        "idx": 8,
+        "id": 220,
+        "guanqia": 8,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Inlaid gems, increase gear stats and CP",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "9": {
+        "idx": 9,
+        "id": 238,
+        "guanqia": 9,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Grind monsters to gain ample Coin",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "10": {
+        "idx": 10,
+        "id": 226,
+        "guanqia": 10,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Complete Trial Quests daily and earn Prestige to upgrade rank",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "11": {
+        "idx": 11,
+        "id": 239,
+        "guanqia": 11,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Time-limited Monster Grind grants ample talent points",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "12": {
+        "idx": 12,
+        "id": 242,
+        "guanqia": 12,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Produces Avatar Training Materials for increase Avatar Stats",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "13": {
+        "idx": 13,
+        "id": 241,
+        "guanqia": 13,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Produces Mercenary Training Materials for increasing Mercenary Stats",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "14": {
+        "idx": 14,
+        "id": 202,
+        "guanqia": 15,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Complete Rebirth Quest and increase your Rebirth level",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "15": {
+        "idx": 15,
+        "id": 288,
+        "guanqia": 15,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Gain ample EXP and accelerate your level-up",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "16": {
+        "idx": 16,
+        "id": 204,
+        "guanqia": 17,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 50
+            }
+        ],
+        "description": "Activate Set Stats to gain Set Skill",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "17": {
+        "idx": 17,
+        "id": 236,
+        "guanqia": 22,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 100
+            }
+        ],
+        "description": "Fight for Boss and gain ample rewards",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "18": {
+        "idx": 18,
+        "id": 235,
+        "guanqia": 25,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 100
+            }
+        ],
+        "description": "Fight Boss in the Cross-server and enjoy the fun of competing",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "19": {
+        "idx": 19,
+        "id": 250,
+        "guanqia": 28,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 100
+            }
+        ],
+        "description": "Gain ample EXP and accelerate your level-up",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "20": {
+        "idx": 20,
+        "id": 255,
+        "guanqia": 30,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 100
+            }
+        ],
+        "description": "Create a guild and conquer the Excellent Land",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "21": {
+        "idx": 21,
+        "id": 256,
+        "guanqia": 32,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 100
+            }
+        ],
+        "description": "Fight in Arena and enjoy the fun of 1v1",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "22": {
+        "idx": 22,
+        "id": 222,
+        "guanqia": 35,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 100
+            }
+        ],
+        "description": "Increase Gear Stats and boost character's CP",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "23": {
+        "idx": 23,
+        "id": 254,
+        "guanqia": 40,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 100
+            }
+        ],
+        "description": "Bath, Monster Grinding, and PvP. Enjoy Them Together",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "24": {
+        "idx": 24,
+        "id": 253,
+        "guanqia": 45,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 100
+            }
+        ],
+        "description": "Ranking PVP mode. Boost your strength and rush to the highest rank",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "25": {
+        "idx": 25,
+        "id": 208,
+        "guanqia": 50,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 200
+            }
+        ],
+        "description": "Increase various stats of character",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "26": {
+        "idx": 26,
+        "id": 292,
+        "guanqia": 55,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 200
+            }
+        ],
+        "description": "Level up Imprint and increase stats for players",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "27": {
+        "idx": 27,
+        "id": 252,
+        "guanqia": 60,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 200
+            }
+        ],
+        "description": "Gather resource in exciting loot mode",
+        "playsys": 0,
+        "controlTarget": []
+    },
+    "28": {
+        "idx": 28,
+        "id": 293,
+        "guanqia": 65,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 200
+            }
+        ],
+        "description": "Cool Circle under Mercenary can be upgraded or replaced",
+        "playsys": 0,
+        "controlTarget": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "belongtime": 3,
+    "dailyaddtime": 3,
+    "maxbelongtime": 9,
+    "cdTime": 60,
+    "bossreborntime": 600,
+    "buyNeedYuanbao": [
+        300,
+        300,
+        300,
+        300,
+        300
+    ]
+}

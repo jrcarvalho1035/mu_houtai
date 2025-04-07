@@ -1,0 +1,185 @@
+{
+    "1": {
+        "id": 1,
+        "type": 1,
+        "reward": [
+            {
+                "type": 0,
+                "id": 31,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340203,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340202,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340201,
+                "count": 1
+            }
+        ],
+        "fbid": 0,
+        "controlTarget": [
+            5,
+            3,
+            0,
+            0
+        ]
+    },
+    "2": {
+        "id": 2,
+        "type": 2,
+        "reward": [
+            {
+                "type": 0,
+                "id": 31,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340203,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340202,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340201,
+                "count": 1
+            }
+        ],
+        "fbid": 0,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "3": {
+        "id": 3,
+        "type": 3,
+        "reward": [
+            {
+                "type": 0,
+                "id": 31,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340203,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340202,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340201,
+                "count": 1
+            }
+        ],
+        "fbid": 0,
+        "controlTarget": []
+    },
+    "4": {
+        "id": 4,
+        "type": 4,
+        "reward": [
+            {
+                "type": 0,
+                "id": 31,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340203,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340202,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340201,
+                "count": 1
+            }
+        ],
+        "fbid": 0,
+        "controlTarget": []
+    },
+    "5": {
+        "id": 5,
+        "type": 5,
+        "reward": [
+            {
+                "type": 0,
+                "id": 31,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340203,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340202,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340201,
+                "count": 1
+            }
+        ],
+        "fbid": 82021,
+        "controlTarget": []
+    },
+    "6": {
+        "id": 6,
+        "type": 6,
+        "reward": [
+            {
+                "type": 0,
+                "id": 31,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340203,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340202,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340201,
+                "count": 1
+            }
+        ],
+        "fbid": 0,
+        "controlTarget": [
+            5,
+            39,
+            0,
+            0
+        ]
+    }
+}

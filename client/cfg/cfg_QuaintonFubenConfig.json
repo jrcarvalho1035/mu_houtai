@@ -1,0 +1,87 @@
+{
+    "1": {
+        "id": 1,
+        "fbId": 27301,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310702,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310703,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310704,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310600,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310804,
+                "count": 1
+            }
+        ],
+        "descStr": "1. Kill any Temple Boss to increase your rage. Activate Soul King with maximum rage\n2. The rewards are settled based on the damage ranking. The higher the damage you have dealt to the boss, the better the rewards you can get\n3. The player who has delivered the final blow to the boss 10 times can get a special title",
+        "rewardDesc": "1. The player who has dealt the highest damage to Soul King Boss can get Damage Rewards \n2. The other players who have attacked the boss can get participantion rewards \n3. The player who completes the final blow will gain extra rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310704,
+                "count": 1,
+                "dropType": 2
+            },
+            {
+                "type": 1,
+                "id": 310705,
+                "count": 1,
+                "dropType": 2
+            },
+            {
+                "type": 1,
+                "id": 310702,
+                "count": 1,
+                "dropType": 2
+            },
+            {
+                "type": 1,
+                "id": 310703,
+                "count": 1,
+                "dropType": 2
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310704,
+                "count": 1,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310705,
+                "count": 1,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310702,
+                "count": 1,
+                "dropType": 3
+            },
+            {
+                "type": 1,
+                "id": 310703,
+                "count": 1,
+                "dropType": 3
+            }
+        ]
+    }
+}

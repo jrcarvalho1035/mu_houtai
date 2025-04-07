@@ -1,0 +1,1040 @@
+{
+    "10001": {
+        "id": 10001,
+        "name": "Demon Tower",
+        "npcEvent": {
+            "type": 5,
+            "winId": 15,
+            "winTab": 0,
+            "winTab1": 0
+        },
+        "controlTarget": [
+            5,
+            15,
+            0,
+            0
+        ],
+        "pos": {
+            "mapX": 47,
+            "mapY": 25
+        },
+        "dir": 3,
+        "bodyAppearanceId": 10001,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 160,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10002": {
+        "id": 10002,
+        "name": "Dark Abyss",
+        "npcEvent": {
+            "type": 5,
+            "winId": 15,
+            "winTab": 0,
+            "winTab1": 2
+        },
+        "controlTarget": [
+            5,
+            15,
+            0,
+            2
+        ],
+        "pos": {
+            "mapX": 41,
+            "mapY": 25
+        },
+        "dir": 3,
+        "bodyAppearanceId": 10002,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 145,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10003": {
+        "id": 10003,
+        "name": "Chief Archangel",
+        "npcEvent": {
+            "type": 1,
+            "winId": 23,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            23,
+            0
+        ],
+        "pos": {
+            "mapX": 15,
+            "mapY": 23
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10003,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 175,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10004": {
+        "id": 10004,
+        "name": "Demon Fortress",
+        "npcEvent": {
+            "type": 5,
+            "winId": 15,
+            "winTab": 1,
+            "winTab1": 1
+        },
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ],
+        "pos": {
+            "mapX": 65,
+            "mapY": 27
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10004,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 145,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10005": {
+        "id": 10005,
+        "name": "Bloody Land",
+        "npcEvent": {
+            "type": 5,
+            "winId": 15,
+            "winTab": 1,
+            "winTab1": 0
+        },
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ],
+        "pos": {
+            "mapX": 60,
+            "mapY": 28
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10005,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 165,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10006": {
+        "id": 10006,
+        "name": "Daily Dungeon",
+        "npcEvent": {
+            "type": 5,
+            "winId": 15,
+            "winTab": 0,
+            "winTab1": 1
+        },
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ],
+        "pos": {
+            "mapX": 56,
+            "mapY": 32
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10006,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 125,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10007": {
+        "id": 10007,
+        "name": "Golden Demon Lord",
+        "npcEvent": {
+            "type": 1,
+            "winId": 1,
+            "winTab": 0
+        },
+        "controlTarget": [
+            6,
+            1,
+            10
+        ],
+        "pos": {
+            "mapX": 35,
+            "mapY": 19
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10007,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 120,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10008": {
+        "id": 10008,
+        "name": "Arena",
+        "npcEvent": {
+            "type": 5,
+            "winId": 13,
+            "winTab": 0,
+            "winTab1": 0
+        },
+        "controlTarget": [
+            5,
+            13,
+            0,
+            0
+        ],
+        "pos": {
+            "mapX": 52,
+            "mapY": 23
+        },
+        "dir": 3,
+        "bodyAppearanceId": 10008,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 145,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10009": {
+        "id": 10009,
+        "name": "Despair Temple",
+        "npcEvent": {
+            "type": 1,
+            "winId": 2,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            2,
+            0
+        ],
+        "pos": {
+            "mapX": 32,
+            "mapY": 22
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10009,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 145,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10010": {
+        "id": 10010,
+        "name": "Rebirth",
+        "npcEvent": {
+            "type": 1,
+            "winId": 19,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            19,
+            0
+        ],
+        "pos": {
+            "mapX": 54,
+            "mapY": 26
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10010,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 185,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10011": {
+        "id": 10011,
+        "name": "Vacant",
+        "npcEvent": {
+            "type": 1,
+            "winId": 11,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            11,
+            0
+        ],
+        "pos": {
+            "mapX": 63,
+            "mapY": 37
+        },
+        "dir": 4,
+        "bodyAppearanceId": 10011,
+        "weaponAppearanceId": 106,
+        "wingAppearanceId": 109,
+        "myHeight": 125,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10012": {
+        "id": 10012,
+        "name": "Vacant",
+        "npcEvent": {
+            "type": 1,
+            "winId": 11,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            11,
+            0
+        ],
+        "pos": {
+            "mapX": 71,
+            "mapY": 37
+        },
+        "dir": 4,
+        "bodyAppearanceId": 10012,
+        "weaponAppearanceId": 206,
+        "wingAppearanceId": 209,
+        "myHeight": 125,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10013": {
+        "id": 10013,
+        "name": "Vacant",
+        "npcEvent": {
+            "type": 1,
+            "winId": 11,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            11,
+            0
+        ],
+        "pos": {
+            "mapX": 67,
+            "mapY": 38
+        },
+        "dir": 4,
+        "bodyAppearanceId": 10013,
+        "weaponAppearanceId": 306,
+        "wingAppearanceId": 309,
+        "myHeight": 125,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10014": {
+        "id": 10014,
+        "name": "Gear Dungeon",
+        "npcEvent": {
+            "type": 1,
+            "winId": 27,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            2,
+            0
+        ],
+        "pos": {
+            "mapX": 19,
+            "mapY": 27
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10014,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 145,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10015": {
+        "id": 10015,
+        "name": "Trial Boss",
+        "npcEvent": {
+            "type": 1,
+            "winId": 28,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            28,
+            0
+        ],
+        "pos": {
+            "mapX": 31,
+            "mapY": 30
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10015,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 145,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10016": {
+        "id": 10016,
+        "name": "Monster Siege",
+        "npcEvent": {
+            "type": 1,
+            "winId": 1,
+            "winTab": 5
+        },
+        "controlTarget": [
+            6,
+            1,
+            53
+        ],
+        "pos": {
+            "mapX": 53,
+            "mapY": 19
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10016,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 120,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10017": {
+        "id": 10017,
+        "name": "Soul King Correa",
+        "npcEvent": {
+            "type": 1,
+            "winId": 31,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            31,
+            0
+        ],
+        "pos": {
+            "mapX": 77,
+            "mapY": 23
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10017,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 145,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10018": {
+        "id": 10018,
+        "name": "Red Fortress",
+        "npcEvent": {
+            "type": 1,
+            "winId": 1,
+            "winTab": 2
+        },
+        "controlTarget": [
+            6,
+            1,
+            56
+        ],
+        "pos": {
+            "mapX": 37,
+            "mapY": 18
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10018,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 130,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10019": {
+        "id": 10019,
+        "name": "Mysterious Miner",
+        "npcEvent": {
+            "type": 1,
+            "winId": 43,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            43,
+            0
+        ],
+        "pos": {
+            "mapX": 31,
+            "mapY": 15
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10004,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 125,
+        "fbId": 81001,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10020": {
+        "id": 10020,
+        "name": "Phantom Tutor",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10020
+        },
+        "controlTarget": [
+            1,
+            29,
+            10020
+        ],
+        "pos": {
+            "mapX": 13,
+            "mapY": 15
+        },
+        "dir": 4,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 125,
+        "fbId": 1,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10021": {
+        "id": 10021,
+        "name": "Wandering Swordsman",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10021
+        },
+        "controlTarget": [
+            1,
+            29,
+            10021
+        ],
+        "pos": {
+            "mapX": 25,
+            "mapY": 8
+        },
+        "dir": 4,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 125,
+        "fbId": 1,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10022": {
+        "id": 10022,
+        "name": "Anna the Maiden",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10022
+        },
+        "controlTarget": [
+            1,
+            29,
+            10022
+        ],
+        "pos": {
+            "mapX": 40,
+            "mapY": 18
+        },
+        "dir": 0,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 125,
+        "fbId": 1,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10023": {
+        "id": 10023,
+        "name": "Wizard",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10023
+        },
+        "controlTarget": [
+            1,
+            29,
+            10023
+        ],
+        "pos": {
+            "mapX": 50,
+            "mapY": 24
+        },
+        "dir": 4,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 125,
+        "fbId": 1,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10024": {
+        "id": 10024,
+        "name": "Mercenary",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10024
+        },
+        "controlTarget": [
+            1,
+            29,
+            10024
+        ],
+        "pos": {
+            "mapX": 55,
+            "mapY": 32
+        },
+        "dir": 0,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 145,
+        "fbId": 1,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10025": {
+        "id": 10025,
+        "name": "Elite",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10025
+        },
+        "controlTarget": [
+            1,
+            29,
+            10025
+        ],
+        "pos": {
+            "mapX": 67,
+            "mapY": 23
+        },
+        "dir": 0,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 125,
+        "fbId": 1,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10026": {
+        "id": 10026,
+        "name": "Chief Archangel",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10026
+        },
+        "controlTarget": [
+            1,
+            29,
+            10026
+        ],
+        "pos": {
+            "mapX": 60,
+            "mapY": 11
+        },
+        "dir": 0,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 175,
+        "fbId": 1,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10027": {
+        "id": 10027,
+        "name": "Yoda the Craftsman",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10027
+        },
+        "controlTarget": [
+            1,
+            29,
+            10027
+        ],
+        "pos": {
+            "mapX": 75,
+            "mapY": 39
+        },
+        "dir": 0,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 125,
+        "fbId": 2,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10028": {
+        "id": 10028,
+        "name": "Pahi the Magician",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10028
+        },
+        "controlTarget": [
+            1,
+            29,
+            10028
+        ],
+        "pos": {
+            "mapX": 67,
+            "mapY": 37
+        },
+        "dir": 0,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 145,
+        "fbId": 2,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10029": {
+        "id": 10029,
+        "name": "Ace Swordsman",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10029
+        },
+        "controlTarget": [
+            1,
+            29,
+            10029
+        ],
+        "pos": {
+            "mapX": 59,
+            "mapY": 34
+        },
+        "dir": 4,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 125,
+        "fbId": 2,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10030": {
+        "id": 10030,
+        "name": "Envoy of Archangel",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10030
+        },
+        "controlTarget": [
+            1,
+            29,
+            10030
+        ],
+        "pos": {
+            "mapX": 63,
+            "mapY": 28
+        },
+        "dir": 0,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 175,
+        "fbId": 2,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10031": {
+        "id": 10031,
+        "name": "Guide",
+        "npcEvent": {
+            "type": 1,
+            "winId": 23,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            23,
+            0
+        ],
+        "pos": {
+            "mapX": 28,
+            "mapY": 56
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10005,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 175,
+        "fbId": 1,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10032": {
+        "id": 10032,
+        "name": "Mystery One",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10030
+        },
+        "controlTarget": [
+            1,
+            29,
+            10032
+        ],
+        "pos": {
+            "mapX": 63,
+            "mapY": 13
+        },
+        "dir": 3,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 145,
+        "fbId": 2,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10033": {
+        "id": 10033,
+        "name": "City Guard",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10030
+        },
+        "controlTarget": [
+            1,
+            29,
+            10033
+        ],
+        "pos": {
+            "mapX": 93,
+            "mapY": 16
+        },
+        "dir": 5,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 175,
+        "fbId": 2,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10034": {
+        "id": 10034,
+        "name": "City Guard",
+        "npcEvent": {
+            "type": 1,
+            "winId": 29,
+            "winTab": 10030
+        },
+        "controlTarget": [
+            1,
+            29,
+            10034
+        ],
+        "pos": {
+            "mapX": 93,
+            "mapY": 16
+        },
+        "dir": 5,
+        "bodyAppearanceId": 0,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 175,
+        "fbId": 2,
+        "isShow": 0,
+        "titleId": 0,
+        "scale": 100
+    },
+    "10035": {
+        "id": 10035,
+        "name": "Vacant",
+        "npcEvent": {
+            "type": 1,
+            "winId": 57,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            57,
+            0
+        ],
+        "pos": {
+            "mapX": 66.8,
+            "mapY": 32
+        },
+        "dir": 4,
+        "bodyAppearanceId": 108,
+        "weaponAppearanceId": 117,
+        "wingAppearanceId": 112,
+        "myHeight": 130,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 16,
+        "scale": 150
+    },
+    "10036": {
+        "id": 10036,
+        "name": "Avatar War",
+        "npcEvent": {
+            "type": 1,
+            "winId": 61,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            61,
+            0
+        ],
+        "pos": {
+            "mapX": 53,
+            "mapY": 26
+        },
+        "dir": 0,
+        "bodyAppearanceId": 10018,
+        "weaponAppearanceId": 0,
+        "wingAppearanceId": 0,
+        "myHeight": 160,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 0,
+        "scale": 150
+    },
+    "10037": {
+        "id": 10037,
+        "name": "Vacant",
+        "npcEvent": {
+            "type": 1,
+            "winId": 64,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            64,
+            0
+        ],
+        "pos": {
+            "mapX": 52.5,
+            "mapY": 33
+        },
+        "dir": 4,
+        "bodyAppearanceId": 108,
+        "weaponAppearanceId": 117,
+        "wingAppearanceId": 112,
+        "myHeight": 130,
+        "fbId": 0,
+        "isShow": 1,
+        "titleId": 26,
+        "scale": 150
+    },
+    "10038": {
+        "id": 10038,
+        "name": "战区-擂台赛",
+        "npcEvent": {
+            "type": 1,
+            "winId": 67,
+            "winTab": 0
+        },
+        "controlTarget": [
+            1,
+            67,
+            0
+        ],
+        "pos": {
+            "mapX": 33,
+            "mapY": 15
+        },
+        "dir": 4,
+        "bodyAppearanceId": 108,
+        "weaponAppearanceId": 117,
+        "wingAppearanceId": 112,
+        "myHeight": 130,
+        "fbId": 3,
+        "isShow": 1,
+        "titleId": 26,
+        "scale": 150
+    }
+}

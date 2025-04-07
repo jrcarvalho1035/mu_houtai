@@ -1,0 +1,32 @@
+{
+    "1": {
+        "pos": 1,
+        "name": "Excelllent Land",
+        "cost": 0,
+        "huntOnce": 2000
+    },
+    "2": {
+        "pos": 2,
+        "name": "Demon Castle",
+        "cost": 0,
+        "huntOnce": 3000
+    },
+    "3": {
+        "pos": 3,
+        "name": "Destruction Land",
+        "cost": 0,
+        "huntOnce": 4000
+    },
+    "4": {
+        "pos": 4,
+        "name": "Aerial Temple",
+        "cost": 200,
+        "huntOnce": 6000
+    },
+    "5": {
+        "pos": 5,
+        "name": "Dark Temple",
+        "cost": 0,
+        "huntOnce": 10000
+    }
+}

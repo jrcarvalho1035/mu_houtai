@@ -1,0 +1,136 @@
+{
+    "1": {
+        "idx": 1,
+        "clevel": 1,
+        "name": "Wild AFK",
+        "icon": "ywgj",
+        "funtype": 1,
+        "description": "",
+        "controlTarget": [
+            3
+        ],
+        "order": 6,
+        "limitId": 232
+    },
+    "2": {
+        "idx": 2,
+        "clevel": 100,
+        "name": "Bloody Land",
+        "icon": "xscb",
+        "funtype": 1,
+        "description": "",
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ],
+        "order": 1,
+        "limitId": 288
+    },
+    "3": {
+        "idx": 3,
+        "clevel": 250,
+        "name": "Demon Fortress",
+        "icon": "emgc",
+        "funtype": 1,
+        "description": "",
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ],
+        "order": 2,
+        "limitId": 250
+    },
+    "4": {
+        "idx": 4,
+        "clevel": 330,
+        "name": "Quick Battle",
+        "icon": "kszd",
+        "funtype": 1,
+        "description": "",
+        "controlTarget": [
+            1,
+            36,
+            0
+        ],
+        "order": 3,
+        "limitId": 257
+    },
+    "5": {
+        "idx": 5,
+        "clevel": 1,
+        "name": "Main Quest",
+        "icon": "zxrw",
+        "funtype": 1,
+        "description": "",
+        "controlTarget": [
+            3
+        ],
+        "order": 5,
+        "limitId": 232
+    },
+    "6": {
+        "idx": 6,
+        "clevel": 1,
+        "name": "Wild AFK",
+        "icon": "ywgj",
+        "funtype": 2,
+        "description": "",
+        "controlTarget": [
+            3
+        ],
+        "order": 3,
+        "limitId": 232
+    },
+    "7": {
+        "idx": 7,
+        "clevel": 40,
+        "name": "Gear Boss",
+        "icon": "zbboss",
+        "funtype": 2,
+        "description": "",
+        "controlTarget": [
+            5,
+            16,
+            0,
+            0
+        ],
+        "order": 2,
+        "limitId": 233
+    },
+    "8": {
+        "idx": 8,
+        "clevel": 85,
+        "name": "Server Boss",
+        "icon": "qmboss",
+        "funtype": 2,
+        "description": "",
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ],
+        "order": 1,
+        "limitId": 234
+    },
+    "9": {
+        "idx": 9,
+        "clevel": 100,
+        "name": "Poseidon's Treasure",
+        "icon": "hwbz",
+        "funtype": 3,
+        "description": "",
+        "controlTarget": [
+            5,
+            13,
+            2,
+            0
+        ],
+        "order": 1,
+        "limitId": 318
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "1": {
+        "id": 1,
+        "type": 2,
+        "guiderid": 9997,
+        "startstep": 1,
+        "hendstep": 2,
+        "endstep": 2,
+        "param1": 3,
+        "param2": 0
+    },
+    "2": {
+        "id": 2,
+        "type": 3,
+        "guiderid": 9996,
+        "startstep": 1,
+        "hendstep": 2,
+        "endstep": 2,
+        "param1": 3,
+        "param2": 0
+    },
+    "3": {
+        "id": 3,
+        "type": 2,
+        "guiderid": 1003,
+        "startstep": 1,
+        "hendstep": 2,
+        "endstep": 5,
+        "param1": 3,
+        "param2": 0
+    }
+}

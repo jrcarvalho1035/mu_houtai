@@ -1,0 +1,2666 @@
+{
+    "0": {
+        "level": 0,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 0
+            },
+            {
+                "type": 4,
+                "value": 0
+            },
+            {
+                "type": 6,
+                "value": 0
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 1000
+            }
+        ]
+    },
+    "1": {
+        "level": 1,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 60000
+            },
+            {
+                "type": 4,
+                "value": 3000
+            },
+            {
+                "type": 6,
+                "value": 3750
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 1000
+            }
+        ]
+    },
+    "2": {
+        "level": 2,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 80000
+            },
+            {
+                "type": 4,
+                "value": 4000
+            },
+            {
+                "type": 6,
+                "value": 5000
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 1200
+            }
+        ]
+    },
+    "3": {
+        "level": 3,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 104000
+            },
+            {
+                "type": 4,
+                "value": 5200
+            },
+            {
+                "type": 6,
+                "value": 6500
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 1400
+            }
+        ]
+    },
+    "4": {
+        "level": 4,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 132000
+            },
+            {
+                "type": 4,
+                "value": 6600
+            },
+            {
+                "type": 6,
+                "value": 8250
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 1600
+            }
+        ]
+    },
+    "5": {
+        "level": 5,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 164000
+            },
+            {
+                "type": 4,
+                "value": 8200
+            },
+            {
+                "type": 6,
+                "value": 10250
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 1800
+            }
+        ]
+    },
+    "6": {
+        "level": 6,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 200000
+            },
+            {
+                "type": 4,
+                "value": 10000
+            },
+            {
+                "type": 6,
+                "value": 12500
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 2000
+            }
+        ]
+    },
+    "7": {
+        "level": 7,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 240000
+            },
+            {
+                "type": 4,
+                "value": 12000
+            },
+            {
+                "type": 6,
+                "value": 15000
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 2200
+            }
+        ]
+    },
+    "8": {
+        "level": 8,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 284000
+            },
+            {
+                "type": 4,
+                "value": 14200
+            },
+            {
+                "type": 6,
+                "value": 17750
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 2400
+            }
+        ]
+    },
+    "9": {
+        "level": 9,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 332000
+            },
+            {
+                "type": 4,
+                "value": 16600
+            },
+            {
+                "type": 6,
+                "value": 20750
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 2600
+            }
+        ]
+    },
+    "10": {
+        "level": 10,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 384000
+            },
+            {
+                "type": 4,
+                "value": 19200
+            },
+            {
+                "type": 6,
+                "value": 24000
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 2800
+            }
+        ]
+    },
+    "11": {
+        "level": 11,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 440000
+            },
+            {
+                "type": 4,
+                "value": 22000
+            },
+            {
+                "type": 6,
+                "value": 27500
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 5000
+            }
+        ]
+    },
+    "12": {
+        "level": 12,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 539000
+            },
+            {
+                "type": 4,
+                "value": 26950
+            },
+            {
+                "type": 6,
+                "value": 33687
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 3200
+            }
+        ]
+    },
+    "13": {
+        "level": 13,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 601720
+            },
+            {
+                "type": 4,
+                "value": 30086
+            },
+            {
+                "type": 6,
+                "value": 37607
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 3600
+            }
+        ]
+    },
+    "14": {
+        "level": 14,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 671560
+            },
+            {
+                "type": 4,
+                "value": 33578
+            },
+            {
+                "type": 6,
+                "value": 41972
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 4000
+            }
+        ]
+    },
+    "15": {
+        "level": 15,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 748360
+            },
+            {
+                "type": 4,
+                "value": 37418
+            },
+            {
+                "type": 6,
+                "value": 46772
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 4400
+            }
+        ]
+    },
+    "16": {
+        "level": 16,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 831960
+            },
+            {
+                "type": 4,
+                "value": 41598
+            },
+            {
+                "type": 6,
+                "value": 51997
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 4800
+            }
+        ]
+    },
+    "17": {
+        "level": 17,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 922200
+            },
+            {
+                "type": 4,
+                "value": 46110
+            },
+            {
+                "type": 6,
+                "value": 57637
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 5200
+            }
+        ]
+    },
+    "18": {
+        "level": 18,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 1018920
+            },
+            {
+                "type": 4,
+                "value": 50946
+            },
+            {
+                "type": 6,
+                "value": 63682
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 5600
+            }
+        ]
+    },
+    "19": {
+        "level": 19,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 1121960
+            },
+            {
+                "type": 4,
+                "value": 56098
+            },
+            {
+                "type": 6,
+                "value": 70122
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 6000
+            }
+        ]
+    },
+    "20": {
+        "level": 20,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 1231160
+            },
+            {
+                "type": 4,
+                "value": 61558
+            },
+            {
+                "type": 6,
+                "value": 76947
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 6400
+            }
+        ]
+    },
+    "21": {
+        "level": 21,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 1346360
+            },
+            {
+                "type": 4,
+                "value": 67318
+            },
+            {
+                "type": 6,
+                "value": 84147
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 6800
+            }
+        ]
+    },
+    "22": {
+        "level": 22,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 1467400
+            },
+            {
+                "type": 4,
+                "value": 73370
+            },
+            {
+                "type": 6,
+                "value": 91712
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 13000
+            }
+        ]
+    },
+    "23": {
+        "level": 23,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 1696200
+            },
+            {
+                "type": 4,
+                "value": 84810
+            },
+            {
+                "type": 6,
+                "value": 106012
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 7400
+            }
+        ]
+    },
+    "24": {
+        "level": 24,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 1824960
+            },
+            {
+                "type": 4,
+                "value": 91248
+            },
+            {
+                "type": 6,
+                "value": 114060
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 8000
+            }
+        ]
+    },
+    "25": {
+        "level": 25,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 1962560
+            },
+            {
+                "type": 4,
+                "value": 98128
+            },
+            {
+                "type": 6,
+                "value": 122660
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 8600
+            }
+        ]
+    },
+    "26": {
+        "level": 26,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 2108760
+            },
+            {
+                "type": 4,
+                "value": 105438
+            },
+            {
+                "type": 6,
+                "value": 131797
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 9200
+            }
+        ]
+    },
+    "27": {
+        "level": 27,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 2263320
+            },
+            {
+                "type": 4,
+                "value": 113166
+            },
+            {
+                "type": 6,
+                "value": 141457
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 9800
+            }
+        ]
+    },
+    "28": {
+        "level": 28,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 2426000
+            },
+            {
+                "type": 4,
+                "value": 121300
+            },
+            {
+                "type": 6,
+                "value": 151625
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 10400
+            }
+        ]
+    },
+    "29": {
+        "level": 29,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 2596560
+            },
+            {
+                "type": 4,
+                "value": 129828
+            },
+            {
+                "type": 6,
+                "value": 162285
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 11000
+            }
+        ]
+    },
+    "30": {
+        "level": 30,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 2774760
+            },
+            {
+                "type": 4,
+                "value": 138738
+            },
+            {
+                "type": 6,
+                "value": 173422
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 11600
+            }
+        ]
+    },
+    "31": {
+        "level": 31,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 2960360
+            },
+            {
+                "type": 4,
+                "value": 148018
+            },
+            {
+                "type": 6,
+                "value": 185022
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 12200
+            }
+        ]
+    },
+    "32": {
+        "level": 32,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 3153120
+            },
+            {
+                "type": 4,
+                "value": 157656
+            },
+            {
+                "type": 6,
+                "value": 197070
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 12800
+            }
+        ]
+    },
+    "33": {
+        "level": 33,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 3352800
+            },
+            {
+                "type": 4,
+                "value": 167640
+            },
+            {
+                "type": 6,
+                "value": 209550
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 25000
+            }
+        ]
+    },
+    "34": {
+        "level": 34,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 3737800
+            },
+            {
+                "type": 4,
+                "value": 186890
+            },
+            {
+                "type": 6,
+                "value": 233612
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 13600
+            }
+        ]
+    },
+    "35": {
+        "level": 35,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 3944520
+            },
+            {
+                "type": 4,
+                "value": 197226
+            },
+            {
+                "type": 6,
+                "value": 246532
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 14400
+            }
+        ]
+    },
+    "36": {
+        "level": 36,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 4160520
+            },
+            {
+                "type": 4,
+                "value": 208026
+            },
+            {
+                "type": 6,
+                "value": 260032
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 15200
+            }
+        ]
+    },
+    "37": {
+        "level": 37,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 4385480
+            },
+            {
+                "type": 4,
+                "value": 219274
+            },
+            {
+                "type": 6,
+                "value": 274092
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 16000
+            }
+        ]
+    },
+    "38": {
+        "level": 38,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 4619080
+            },
+            {
+                "type": 4,
+                "value": 230954
+            },
+            {
+                "type": 6,
+                "value": 288692
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 16800
+            }
+        ]
+    },
+    "39": {
+        "level": 39,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 4861000
+            },
+            {
+                "type": 4,
+                "value": 243050
+            },
+            {
+                "type": 6,
+                "value": 303812
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 17600
+            }
+        ]
+    },
+    "40": {
+        "level": 40,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 5110920
+            },
+            {
+                "type": 4,
+                "value": 255546
+            },
+            {
+                "type": 6,
+                "value": 319432
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 18400
+            }
+        ]
+    },
+    "41": {
+        "level": 41,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 5368520
+            },
+            {
+                "type": 4,
+                "value": 268426
+            },
+            {
+                "type": 6,
+                "value": 335532
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 19200
+            }
+        ]
+    },
+    "42": {
+        "level": 42,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 5633480
+            },
+            {
+                "type": 4,
+                "value": 281674
+            },
+            {
+                "type": 6,
+                "value": 352092
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 20000
+            }
+        ]
+    },
+    "43": {
+        "level": 43,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 5905480
+            },
+            {
+                "type": 4,
+                "value": 295274
+            },
+            {
+                "type": 6,
+                "value": 369092
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 20800
+            }
+        ]
+    },
+    "44": {
+        "level": 44,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 6184200
+            },
+            {
+                "type": 4,
+                "value": 309210
+            },
+            {
+                "type": 6,
+                "value": 386512
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 41000
+            }
+        ]
+    },
+    "45": {
+        "level": 45,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 6725400
+            },
+            {
+                "type": 4,
+                "value": 336270
+            },
+            {
+                "type": 6,
+                "value": 420337
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 21800
+            }
+        ]
+    },
+    "46": {
+        "level": 46,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 7008800
+            },
+            {
+                "type": 4,
+                "value": 350440
+            },
+            {
+                "type": 6,
+                "value": 438050
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 22800
+            }
+        ]
+    },
+    "47": {
+        "level": 47,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 7300640
+            },
+            {
+                "type": 4,
+                "value": 365032
+            },
+            {
+                "type": 6,
+                "value": 456290
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 23800
+            }
+        ]
+    },
+    "48": {
+        "level": 48,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 7600520
+            },
+            {
+                "type": 4,
+                "value": 380026
+            },
+            {
+                "type": 6,
+                "value": 475032
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 24800
+            }
+        ]
+    },
+    "49": {
+        "level": 49,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 7908040
+            },
+            {
+                "type": 4,
+                "value": 395402
+            },
+            {
+                "type": 6,
+                "value": 494252
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 25800
+            }
+        ]
+    },
+    "50": {
+        "level": 50,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 8222800
+            },
+            {
+                "type": 4,
+                "value": 411140
+            },
+            {
+                "type": 6,
+                "value": 513925
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 26800
+            }
+        ]
+    },
+    "51": {
+        "level": 51,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 8544400
+            },
+            {
+                "type": 4,
+                "value": 427220
+            },
+            {
+                "type": 6,
+                "value": 534025
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 27800
+            }
+        ]
+    },
+    "52": {
+        "level": 52,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 8872440
+            },
+            {
+                "type": 4,
+                "value": 443622
+            },
+            {
+                "type": 6,
+                "value": 554527
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 28800
+            }
+        ]
+    },
+    "53": {
+        "level": 53,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 9206520
+            },
+            {
+                "type": 4,
+                "value": 460326
+            },
+            {
+                "type": 6,
+                "value": 575407
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 29800
+            }
+        ]
+    },
+    "54": {
+        "level": 54,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 9546240
+            },
+            {
+                "type": 4,
+                "value": 477312
+            },
+            {
+                "type": 6,
+                "value": 596640
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 30800
+            }
+        ]
+    },
+    "55": {
+        "level": 55,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 9891200
+            },
+            {
+                "type": 4,
+                "value": 494560
+            },
+            {
+                "type": 6,
+                "value": 618200
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 61000
+            }
+        ]
+    },
+    "56": {
+        "level": 56,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 10562200
+            },
+            {
+                "type": 4,
+                "value": 528110
+            },
+            {
+                "type": 6,
+                "value": 660137
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 32800
+            }
+        ]
+    },
+    "57": {
+        "level": 57,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 10916440
+            },
+            {
+                "type": 4,
+                "value": 545822
+            },
+            {
+                "type": 6,
+                "value": 682277
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 34800
+            }
+        ]
+    },
+    "58": {
+        "level": 58,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 11285320
+            },
+            {
+                "type": 4,
+                "value": 564266
+            },
+            {
+                "type": 6,
+                "value": 705332
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 36800
+            }
+        ]
+    },
+    "59": {
+        "level": 59,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 11668040
+            },
+            {
+                "type": 4,
+                "value": 583402
+            },
+            {
+                "type": 6,
+                "value": 729252
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 38800
+            }
+        ]
+    },
+    "60": {
+        "level": 60,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 12063800
+            },
+            {
+                "type": 4,
+                "value": 603190
+            },
+            {
+                "type": 6,
+                "value": 753987
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 40800
+            }
+        ]
+    },
+    "61": {
+        "level": 61,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 12471800
+            },
+            {
+                "type": 4,
+                "value": 623590
+            },
+            {
+                "type": 6,
+                "value": 779487
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 42800
+            }
+        ]
+    },
+    "62": {
+        "level": 62,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 12891240
+            },
+            {
+                "type": 4,
+                "value": 644562
+            },
+            {
+                "type": 6,
+                "value": 805702
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 44800
+            }
+        ]
+    },
+    "63": {
+        "level": 63,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 13321320
+            },
+            {
+                "type": 4,
+                "value": 666066
+            },
+            {
+                "type": 6,
+                "value": 832582
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 46800
+            }
+        ]
+    },
+    "64": {
+        "level": 64,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 13761240
+            },
+            {
+                "type": 4,
+                "value": 688062
+            },
+            {
+                "type": 6,
+                "value": 860077
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 48800
+            }
+        ]
+    },
+    "65": {
+        "level": 65,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 14210200
+            },
+            {
+                "type": 4,
+                "value": 710510
+            },
+            {
+                "type": 6,
+                "value": 888137
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 50800
+            }
+        ]
+    },
+    "66": {
+        "level": 66,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 14667400
+            },
+            {
+                "type": 4,
+                "value": 733370
+            },
+            {
+                "type": 6,
+                "value": 916712
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 101000
+            }
+        ]
+    },
+    "67": {
+        "level": 67,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 15556200
+            },
+            {
+                "type": 4,
+                "value": 777810
+            },
+            {
+                "type": 6,
+                "value": 972262
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 53800
+            }
+        ]
+    },
+    "68": {
+        "level": 68,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16018880
+            },
+            {
+                "type": 4,
+                "value": 800944
+            },
+            {
+                "type": 6,
+                "value": 1001180
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 56800
+            }
+        ]
+    },
+    "69": {
+        "level": 69,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16496000
+            },
+            {
+                "type": 4,
+                "value": 824800
+            },
+            {
+                "type": 6,
+                "value": 1031000
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 59800
+            }
+        ]
+    },
+    "70": {
+        "level": 70,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16986360
+            },
+            {
+                "type": 4,
+                "value": 849318
+            },
+            {
+                "type": 6,
+                "value": 1061647
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 62800
+            }
+        ]
+    },
+    "71": {
+        "level": 71,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 17488760
+            },
+            {
+                "type": 4,
+                "value": 874438
+            },
+            {
+                "type": 6,
+                "value": 1093047
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 65800
+            }
+        ]
+    },
+    "72": {
+        "level": 72,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 18002000
+            },
+            {
+                "type": 4,
+                "value": 900100
+            },
+            {
+                "type": 6,
+                "value": 1125125
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 68800
+            }
+        ]
+    },
+    "73": {
+        "level": 73,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 18524880
+            },
+            {
+                "type": 4,
+                "value": 926244
+            },
+            {
+                "type": 6,
+                "value": 1157805
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 71800
+            }
+        ]
+    },
+    "74": {
+        "level": 74,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 19056200
+            },
+            {
+                "type": 4,
+                "value": 952810
+            },
+            {
+                "type": 6,
+                "value": 1191012
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 74800
+            }
+        ]
+    },
+    "75": {
+        "level": 75,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 19594760
+            },
+            {
+                "type": 4,
+                "value": 979738
+            },
+            {
+                "type": 6,
+                "value": 1224672
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 77800
+            }
+        ]
+    },
+    "76": {
+        "level": 76,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 20139360
+            },
+            {
+                "type": 4,
+                "value": 1006968
+            },
+            {
+                "type": 6,
+                "value": 1258710
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 80800
+            }
+        ]
+    },
+    "77": {
+        "level": 77,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 20688800
+            },
+            {
+                "type": 4,
+                "value": 1034440
+            },
+            {
+                "type": 6,
+                "value": 1293050
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 161000
+            }
+        ]
+    },
+    "78": {
+        "level": 78,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 21767500
+            },
+            {
+                "type": 4,
+                "value": 1088375
+            },
+            {
+                "type": 6,
+                "value": 1360468
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 84800
+            }
+        ]
+    },
+    "79": {
+        "level": 79,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 22327180
+            },
+            {
+                "type": 4,
+                "value": 1116359
+            },
+            {
+                "type": 6,
+                "value": 1395448
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 88800
+            }
+        ]
+    },
+    "80": {
+        "level": 80,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 22904380
+            },
+            {
+                "type": 4,
+                "value": 1145219
+            },
+            {
+                "type": 6,
+                "value": 1431523
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 92800
+            }
+        ]
+    },
+    "81": {
+        "level": 81,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 23498300
+            },
+            {
+                "type": 4,
+                "value": 1174915
+            },
+            {
+                "type": 6,
+                "value": 1468643
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 96800
+            }
+        ]
+    },
+    "82": {
+        "level": 82,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 24108140
+            },
+            {
+                "type": 4,
+                "value": 1205407
+            },
+            {
+                "type": 6,
+                "value": 1506758
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 100800
+            }
+        ]
+    },
+    "83": {
+        "level": 83,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 24733100
+            },
+            {
+                "type": 4,
+                "value": 1236655
+            },
+            {
+                "type": 6,
+                "value": 1545818
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 104800
+            }
+        ]
+    },
+    "84": {
+        "level": 84,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 25372380
+            },
+            {
+                "type": 4,
+                "value": 1268619
+            },
+            {
+                "type": 6,
+                "value": 1585773
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 108800
+            }
+        ]
+    },
+    "85": {
+        "level": 85,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 26025180
+            },
+            {
+                "type": 4,
+                "value": 1301259
+            },
+            {
+                "type": 6,
+                "value": 1626573
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 112800
+            }
+        ]
+    },
+    "86": {
+        "level": 86,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 26690700
+            },
+            {
+                "type": 4,
+                "value": 1334535
+            },
+            {
+                "type": 6,
+                "value": 1668168
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 116800
+            }
+        ]
+    },
+    "87": {
+        "level": 87,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 27368140
+            },
+            {
+                "type": 4,
+                "value": 1368407
+            },
+            {
+                "type": 6,
+                "value": 1710508
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 120800
+            }
+        ]
+    },
+    "88": {
+        "level": 88,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 28056700
+            },
+            {
+                "type": 4,
+                "value": 1402835
+            },
+            {
+                "type": 6,
+                "value": 1753543
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 241000
+            }
+        ]
+    },
+    "89": {
+        "level": 89,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 29415940
+            },
+            {
+                "type": 4,
+                "value": 1470797
+            },
+            {
+                "type": 6,
+                "value": 1838496
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 125800
+            }
+        ]
+    },
+    "90": {
+        "level": 90,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 30117904
+            },
+            {
+                "type": 4,
+                "value": 1505895
+            },
+            {
+                "type": 6,
+                "value": 1882369
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 130800
+            }
+        ]
+    },
+    "91": {
+        "level": 91,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 30839920
+            },
+            {
+                "type": 4,
+                "value": 1541996
+            },
+            {
+                "type": 6,
+                "value": 1927495
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 135800
+            }
+        ]
+    },
+    "92": {
+        "level": 92,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 31581388
+            },
+            {
+                "type": 4,
+                "value": 1579069
+            },
+            {
+                "type": 6,
+                "value": 1973836
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 140800
+            }
+        ]
+    },
+    "93": {
+        "level": 93,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 32341708
+            },
+            {
+                "type": 4,
+                "value": 1617085
+            },
+            {
+                "type": 6,
+                "value": 2021356
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 145800
+            }
+        ]
+    },
+    "94": {
+        "level": 94,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 33120280
+            },
+            {
+                "type": 4,
+                "value": 1656014
+            },
+            {
+                "type": 6,
+                "value": 2070017
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 150800
+            }
+        ]
+    },
+    "95": {
+        "level": 95,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 33916504
+            },
+            {
+                "type": 4,
+                "value": 1695825
+            },
+            {
+                "type": 6,
+                "value": 2119781
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 155800
+            }
+        ]
+    },
+    "96": {
+        "level": 96,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 34729780
+            },
+            {
+                "type": 4,
+                "value": 1736489
+            },
+            {
+                "type": 6,
+                "value": 2170611
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 160800
+            }
+        ]
+    },
+    "97": {
+        "level": 97,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 35559508
+            },
+            {
+                "type": 4,
+                "value": 1777975
+            },
+            {
+                "type": 6,
+                "value": 2222469
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 165800
+            }
+        ]
+    },
+    "98": {
+        "level": 98,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 36405088
+            },
+            {
+                "type": 4,
+                "value": 1820254
+            },
+            {
+                "type": 6,
+                "value": 2275318
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 170800
+            }
+        ]
+    },
+    "99": {
+        "level": 99,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 37265920
+            },
+            {
+                "type": 4,
+                "value": 1863296
+            },
+            {
+                "type": 6,
+                "value": 2329120
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 341000
+            }
+        ]
+    },
+    "100": {
+        "level": 100,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 38970920
+            },
+            {
+                "type": 4,
+                "value": 1948546
+            },
+            {
+                "type": 6,
+                "value": 2435682
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 176800
+            }
+        ]
+    },
+    "101": {
+        "level": 101,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 39847848
+            },
+            {
+                "type": 4,
+                "value": 1992392
+            },
+            {
+                "type": 6,
+                "value": 2490490
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 182800
+            }
+        ]
+    },
+    "102": {
+        "level": 102,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 40747224
+            },
+            {
+                "type": 4,
+                "value": 2037361
+            },
+            {
+                "type": 6,
+                "value": 2546701
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 188800
+            }
+        ]
+    },
+    "103": {
+        "level": 103,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 41668568
+            },
+            {
+                "type": 4,
+                "value": 2083428
+            },
+            {
+                "type": 6,
+                "value": 2604285
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 194800
+            }
+        ]
+    },
+    "104": {
+        "level": 104,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 42611400
+            },
+            {
+                "type": 4,
+                "value": 2130570
+            },
+            {
+                "type": 6,
+                "value": 2663212
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 200800
+            }
+        ]
+    },
+    "105": {
+        "level": 105,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 43575240
+            },
+            {
+                "type": 4,
+                "value": 2178762
+            },
+            {
+                "type": 6,
+                "value": 2723452
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 206800
+            }
+        ]
+    },
+    "106": {
+        "level": 106,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 44559608
+            },
+            {
+                "type": 4,
+                "value": 2227980
+            },
+            {
+                "type": 6,
+                "value": 2784975
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 212800
+            }
+        ]
+    },
+    "107": {
+        "level": 107,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 45564024
+            },
+            {
+                "type": 4,
+                "value": 2278201
+            },
+            {
+                "type": 6,
+                "value": 2847751
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 218800
+            }
+        ]
+    },
+    "108": {
+        "level": 108,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 46588008
+            },
+            {
+                "type": 4,
+                "value": 2329400
+            },
+            {
+                "type": 6,
+                "value": 2911750
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 224800
+            }
+        ]
+    },
+    "109": {
+        "level": 109,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 47631080
+            },
+            {
+                "type": 4,
+                "value": 2381554
+            },
+            {
+                "type": 6,
+                "value": 2976942
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 230800
+            }
+        ]
+    },
+    "110": {
+        "level": 110,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 48692760
+            },
+            {
+                "type": 4,
+                "value": 2434638
+            },
+            {
+                "type": 6,
+                "value": 3043297
+            }
+        ],
+        "costItems": [
+            {
+                "type": 1,
+                "id": 600001,
+                "count": 0
+            }
+        ]
+    }
+}

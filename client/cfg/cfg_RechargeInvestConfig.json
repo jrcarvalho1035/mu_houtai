@@ -1,0 +1,1328 @@
+{
+    "1": {
+        "1": {
+            "round": 1,
+            "index": 1,
+            "rechargeNum": 100,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "2": {
+            "round": 1,
+            "index": 2,
+            "rechargeNum": 200,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "3": {
+            "round": 1,
+            "index": 3,
+            "rechargeNum": 300,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "4": {
+            "round": 1,
+            "index": 4,
+            "rechargeNum": 400,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "5": {
+            "round": 1,
+            "index": 5,
+            "rechargeNum": 500,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "6": {
+            "round": 1,
+            "index": 6,
+            "rechargeNum": 600,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "7": {
+            "round": 1,
+            "index": 7,
+            "rechargeNum": 700,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "8": {
+            "round": 1,
+            "index": 8,
+            "rechargeNum": 800,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "9": {
+            "round": 1,
+            "index": 9,
+            "rechargeNum": 900,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "10": {
+            "round": 1,
+            "index": 10,
+            "rechargeNum": 1000,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "11": {
+            "round": 1,
+            "index": 11,
+            "rechargeNum": 1200,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "12": {
+            "round": 1,
+            "index": 12,
+            "rechargeNum": 1400,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "13": {
+            "round": 1,
+            "index": 13,
+            "rechargeNum": 1600,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "14": {
+            "round": 1,
+            "index": 14,
+            "rechargeNum": 1800,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "15": {
+            "round": 1,
+            "index": 15,
+            "rechargeNum": 2000,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "16": {
+            "round": 1,
+            "index": 16,
+            "rechargeNum": 2400,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "17": {
+            "round": 1,
+            "index": 17,
+            "rechargeNum": 2800,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "18": {
+            "round": 1,
+            "index": 18,
+            "rechargeNum": 3200,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "19": {
+            "round": 1,
+            "index": 19,
+            "rechargeNum": 3600,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        },
+        "20": {
+            "round": 1,
+            "index": 20,
+            "rechargeNum": 4000,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 150
+                }
+            ]
+        }
+    },
+    "2": {
+        "1": {
+            "round": 2,
+            "index": 1,
+            "rechargeNum": 200,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 200
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 200
+                }
+            ]
+        },
+        "2": {
+            "round": 2,
+            "index": 2,
+            "rechargeNum": 400,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 200
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 200
+                }
+            ]
+        },
+        "3": {
+            "round": 2,
+            "index": 3,
+            "rechargeNum": 600,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 200
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 200
+                }
+            ]
+        },
+        "4": {
+            "round": 2,
+            "index": 4,
+            "rechargeNum": 800,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 200
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 200
+                }
+            ]
+        },
+        "5": {
+            "round": 2,
+            "index": 5,
+            "rechargeNum": 1000,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 200
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 200
+                }
+            ]
+        },
+        "6": {
+            "round": 2,
+            "index": 6,
+            "rechargeNum": 1200,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2400
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 240
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 240
+                }
+            ]
+        },
+        "7": {
+            "round": 2,
+            "index": 7,
+            "rechargeNum": 1400,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2400
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 240
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 240
+                }
+            ]
+        },
+        "8": {
+            "round": 2,
+            "index": 8,
+            "rechargeNum": 1600,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2400
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 240
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 240
+                }
+            ]
+        },
+        "9": {
+            "round": 2,
+            "index": 9,
+            "rechargeNum": 1800,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2400
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 240
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 240
+                }
+            ]
+        },
+        "10": {
+            "round": 2,
+            "index": 10,
+            "rechargeNum": 2000,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2400
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 240
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 240
+                }
+            ]
+        },
+        "11": {
+            "round": 2,
+            "index": 11,
+            "rechargeNum": 2400,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2800
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 280
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 280
+                }
+            ]
+        },
+        "12": {
+            "round": 2,
+            "index": 12,
+            "rechargeNum": 2800,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2800
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 280
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 280
+                }
+            ]
+        },
+        "13": {
+            "round": 2,
+            "index": 13,
+            "rechargeNum": 3200,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2800
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 280
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 280
+                }
+            ]
+        },
+        "14": {
+            "round": 2,
+            "index": 14,
+            "rechargeNum": 3600,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2800
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 280
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 280
+                }
+            ]
+        },
+        "15": {
+            "round": 2,
+            "index": 15,
+            "rechargeNum": 4000,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2800
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 280
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 280
+                }
+            ]
+        },
+        "16": {
+            "round": 2,
+            "index": 16,
+            "rechargeNum": 4400,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                }
+            ]
+        },
+        "17": {
+            "round": 2,
+            "index": 17,
+            "rechargeNum": 4800,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                }
+            ]
+        },
+        "18": {
+            "round": 2,
+            "index": 18,
+            "rechargeNum": 5200,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                }
+            ]
+        },
+        "19": {
+            "round": 2,
+            "index": 19,
+            "rechargeNum": 5600,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                }
+            ]
+        },
+        "20": {
+            "round": 2,
+            "index": 20,
+            "rechargeNum": 6000,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                }
+            ]
+        }
+    },
+    "3": {
+        "1": {
+            "round": 3,
+            "index": 1,
+            "rechargeNum": 300,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                }
+            ]
+        },
+        "2": {
+            "round": 3,
+            "index": 2,
+            "rechargeNum": 600,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                }
+            ]
+        },
+        "3": {
+            "round": 3,
+            "index": 3,
+            "rechargeNum": 900,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                }
+            ]
+        },
+        "4": {
+            "round": 3,
+            "index": 4,
+            "rechargeNum": 1200,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                }
+            ]
+        },
+        "5": {
+            "round": 3,
+            "index": 5,
+            "rechargeNum": 1500,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                }
+            ]
+        },
+        "6": {
+            "round": 3,
+            "index": 6,
+            "rechargeNum": 1800,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3200
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 320
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 320
+                }
+            ]
+        },
+        "7": {
+            "round": 3,
+            "index": 7,
+            "rechargeNum": 2100,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3200
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 320
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 320
+                }
+            ]
+        },
+        "8": {
+            "round": 3,
+            "index": 8,
+            "rechargeNum": 2400,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3200
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 320
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 320
+                }
+            ]
+        },
+        "9": {
+            "round": 3,
+            "index": 9,
+            "rechargeNum": 2700,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3200
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 320
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 320
+                }
+            ]
+        },
+        "10": {
+            "round": 3,
+            "index": 10,
+            "rechargeNum": 3000,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3200
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 320
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 320
+                }
+            ]
+        },
+        "11": {
+            "round": 3,
+            "index": 11,
+            "rechargeNum": 3300,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3400
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 340
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 340
+                }
+            ]
+        },
+        "12": {
+            "round": 3,
+            "index": 12,
+            "rechargeNum": 3600,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3400
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 340
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 340
+                }
+            ]
+        },
+        "13": {
+            "round": 3,
+            "index": 13,
+            "rechargeNum": 3900,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3400
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 340
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 340
+                }
+            ]
+        },
+        "14": {
+            "round": 3,
+            "index": 14,
+            "rechargeNum": 4200,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3400
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 340
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 340
+                }
+            ]
+        },
+        "15": {
+            "round": 3,
+            "index": 15,
+            "rechargeNum": 4500,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3400
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 340
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 340
+                }
+            ]
+        },
+        "16": {
+            "round": 3,
+            "index": 16,
+            "rechargeNum": 4800,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3600
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 360
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 360
+                }
+            ]
+        },
+        "17": {
+            "round": 3,
+            "index": 17,
+            "rechargeNum": 5100,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3600
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 360
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 360
+                }
+            ]
+        },
+        "18": {
+            "round": 3,
+            "index": 18,
+            "rechargeNum": 5400,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3600
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 360
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 360
+                }
+            ]
+        },
+        "19": {
+            "round": 3,
+            "index": 19,
+            "rechargeNum": 5700,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3600
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 360
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 360
+                }
+            ]
+        },
+        "20": {
+            "round": 3,
+            "index": 20,
+            "rechargeNum": 6000,
+            "reward": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3600
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 360
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 360
+                }
+            ]
+        }
+    }
+}

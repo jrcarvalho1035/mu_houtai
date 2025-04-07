@@ -1,0 +1,58 @@
+{
+    "autochallenge": 10,
+    "moneyCount": [
+        0,
+        200,
+        300,
+        300,
+        400,
+        400,
+        500,
+        600,
+        700
+    ],
+    "quickCount": 3,
+    "buyCount": [
+        200,
+        300,
+        300,
+        400,
+        500,
+        600
+    ],
+    "firstTime": 8,
+    "doubleRewardPrice": 40,
+    "reward": [
+        {
+            "type": 0,
+            "id": 0,
+            "count": 1
+        },
+        {
+            "type": 0,
+            "id": 1,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1010000,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 1010000,
+            "count": 1
+        }
+    ],
+    "dailyhelpcount": 10,
+    "dailyreqcount": 3,
+    "shead": "successfully cleared floor %s!",
+    "scontent": "With the assistance of the player |C:0x13ee22&T:%s|, you have successfully clear the |C:0x13ee22&T:%s| floor, gaining higher AFK yield! Please claim the Ethereal Realm rewards in time!",
+    "hhead": "Assisted successfully!",
+    "hcontent": "You have successfully helped the player |C:0x13ee22&T:%s| clear |C:0x13ee22&T:%s| floor! There is an Assistance Rewards available. Pleas claim the Ethereal Realm rewards in time!",
+    "reqcdtime": 2,
+    "ksgjRp": 30,
+    "isShow": 10,
+    "maxGuanId": 9999,
+    "maxMinute": 1200
+}

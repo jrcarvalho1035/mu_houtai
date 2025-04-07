@@ -1,0 +1,2599 @@
+{
+    "1": {
+        "id": 1,
+        "payId": 20001,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010107,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1082007,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081007,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 1000
+            },
+            {
+                "type": 1,
+                "id": 310011,
+                "count": 100
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 12000
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 7,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 7,
+            "y": -150
+        },
+        "payType": 1,
+        "power": 2000000
+    },
+    "2": {
+        "id": 2,
+        "payId": 20001,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1051006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1061006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1071006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310811,
+                "count": 800
+            },
+            {
+                "type": 1,
+                "id": 310810,
+                "count": 1000
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 12000
+            }
+        ],
+        "mcIcon": {
+            "type": 9,
+            "param": 19,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 9,
+            "param": 19,
+            "y": -150
+        },
+        "payType": 1,
+        "power": 2000000
+    },
+    "3": {
+        "id": 3,
+        "payId": 20001,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082008,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081008,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081503,
+                "count": 8
+            },
+            {
+                "type": 1,
+                "id": 1081403,
+                "count": 8
+            },
+            {
+                "type": 1,
+                "id": 310001,
+                "count": 5000
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 12000
+            }
+        ],
+        "mcIcon": {
+            "type": 4,
+            "param": 8,
+            "y": 70,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 4,
+            "param": 8,
+            "y": -20
+        },
+        "payType": 1,
+        "power": 2000000
+    },
+    "4": {
+        "id": 4,
+        "payId": 20004,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010110,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083010,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1010403,
+                "count": 30
+            },
+            {
+                "type": 1,
+                "id": 1081603,
+                "count": 30
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 100
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 10,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 10,
+            "y": -150
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "5": {
+        "id": 5,
+        "payId": 20004,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 341703,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310194,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 310194,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 310194,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 340401,
+                "count": 8000
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 9,
+            "param": 19,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 9,
+            "param": 19,
+            "y": -150
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "6": {
+        "id": 6,
+        "payId": 20004,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1072012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1071006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1071005,
+                "count": 5
+            },
+            {
+                "type": 1,
+                "id": 1071004,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 6,
+            "param": 12,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 6,
+            "param": 12,
+            "y": -150
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "7": {
+        "id": 7,
+        "payId": 20004,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010111,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1010404,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 1010403,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 1010402,
+                "count": 30
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 11,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 11,
+            "y": -150
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "8": {
+        "id": 8,
+        "payId": 20004,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1083011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081604,
+                "count": 4
+            },
+            {
+                "type": 1,
+                "id": 1081603,
+                "count": 5
+            },
+            {
+                "type": 1,
+                "id": 1081602,
+                "count": 5
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 5,
+            "param": 11,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 5,
+            "param": 11,
+            "y": -170
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "9": {
+        "id": 9,
+        "payId": 20007,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1060012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1070018,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1061006,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 1071006,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 482044,
+                "count": 10
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 131200
+            }
+        ],
+        "mcIcon": {
+            "type": 11,
+            "param": 112,
+            "y": 75,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 11,
+            "param": 112,
+            "y": -25
+        },
+        "payType": 3,
+        "power": 18500000
+    },
+    "10": {
+        "id": 10,
+        "payId": 20007,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010131,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1070030,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1010404,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 1071006,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 482044,
+                "count": 10
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 131200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 31,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 31,
+            "y": -150
+        },
+        "payType": 3,
+        "power": 18500000
+    },
+    "11": {
+        "id": 11,
+        "payId": 20007,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010116,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081014,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1010404,
+                "count": 5
+            },
+            {
+                "type": 1,
+                "id": 1081404,
+                "count": 5
+            },
+            {
+                "type": 1,
+                "id": 482044,
+                "count": 20
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 131200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 16,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 16,
+            "y": -150
+        },
+        "payType": 3,
+        "power": 18500000
+    },
+    "12": {
+        "id": 12,
+        "payId": 20010,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010137,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1070010,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083027,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 500015,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 482045,
+                "count": 20
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 37,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 37,
+            "y": -150
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "13": {
+        "id": 13,
+        "payId": 20010,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1060013,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1082024,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083028,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084200,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 482045,
+                "count": 5
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 11,
+            "param": 113,
+            "y": 75,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 11,
+            "param": 113,
+            "y": -25
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "14": {
+        "id": 14,
+        "payId": 20010,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010132,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081016,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420151,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420146,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 482045,
+                "count": 5
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 32,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 32,
+            "y": -150
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "15": {
+        "id": 15,
+        "payId": 20010,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082030,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1070005,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 500020,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420149,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 482045,
+                "count": 5
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 4,
+            "param": 30,
+            "y": 70,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 4,
+            "param": 30,
+            "y": -20
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "16": {
+        "id": 16,
+        "payId": 20010,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010133,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083039,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420151,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084200,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 310812,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 33,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 33,
+            "y": -150
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "17": {
+        "id": 17,
+        "payId": 20010,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081031,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083044,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 500020,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084200,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 310812,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 3,
+            "param": 31,
+            "y": 100,
+            "scale": 0.4
+        },
+        "mcItemId": {
+            "type": 3,
+            "param": 31,
+            "y": 100
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "18": {
+        "id": 18,
+        "payId": 20010,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010120,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1082019,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 600116,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 100
+            },
+            {
+                "type": 1,
+                "id": 310812,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 20,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 20,
+            "y": -150
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "19": {
+        "id": 19,
+        "payId": 20002,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010404,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081404,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081504,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310811,
+                "count": 800
+            },
+            {
+                "type": 1,
+                "id": 310810,
+                "count": 1000
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 12000
+            }
+        ],
+        "mcIcon": {
+            "type": 9,
+            "param": 19,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 9,
+            "param": 19,
+            "y": -150
+        },
+        "payType": 1,
+        "power": 2000000
+    },
+    "20": {
+        "id": 20,
+        "payId": 20002,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010106,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1082006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 200
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 12000
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 6,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 6,
+            "y": -150
+        },
+        "payType": 1,
+        "power": 2000000
+    },
+    "21": {
+        "id": 21,
+        "payId": 20002,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1089004,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1087006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 20
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 100
+            },
+            {
+                "type": 1,
+                "id": 390024,
+                "count": 200
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 12000
+            }
+        ],
+        "mcIcon": {
+            "type": 16,
+            "param": 4,
+            "y": 40,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 16,
+            "param": 4,
+            "y": -100
+        },
+        "payType": 1,
+        "power": 2000000
+    },
+    "22": {
+        "id": 22,
+        "payId": 20005,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082010,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081010,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081503,
+                "count": 25
+            },
+            {
+                "type": 1,
+                "id": 1081403,
+                "count": 25
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 100
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 4,
+            "param": 10,
+            "y": 70,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 4,
+            "param": 10,
+            "y": -20
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "23": {
+        "id": 23,
+        "payId": 20005,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1052011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1051006,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 1051005,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 1051004,
+                "count": 30
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 12,
+            "param": 11,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 12,
+            "param": 11,
+            "y": -150
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "24": {
+        "id": 24,
+        "payId": 20005,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1089006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1093002,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 1093001,
+                "count": 5
+            },
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 60
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 16,
+            "param": 6,
+            "y": 40,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 16,
+            "param": 6,
+            "y": -100
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "25": {
+        "id": 25,
+        "payId": 20005,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081504,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 1081503,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 1081502,
+                "count": 30
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 4,
+            "param": 11,
+            "y": 70,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 4,
+            "param": 11,
+            "y": -20
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "26": {
+        "id": 26,
+        "payId": 20008,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010123,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083033,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1010404,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 1081604,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 482044,
+                "count": 10
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 131200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 23,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 23,
+            "y": -150
+        },
+        "payType": 3,
+        "power": 18500000
+    },
+    "27": {
+        "id": 27,
+        "payId": 20008,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1087010,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 186004,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 185003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 185001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 185002,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 131200
+            }
+        ],
+        "mcIcon": {
+            "type": 19,
+            "param": 10,
+            "y": 50,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 19,
+            "param": 10,
+            "y": -50
+        },
+        "payType": 3,
+        "power": 18500000
+    },
+    "28": {
+        "id": 28,
+        "payId": 20008,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082038,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083043,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081504,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 1081604,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 482044,
+                "count": 10
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 131200
+            }
+        ],
+        "mcIcon": {
+            "type": 4,
+            "param": 38,
+            "y": 70,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 4,
+            "param": 38,
+            "y": -20
+        },
+        "payType": 3,
+        "power": 18500000
+    },
+    "29": {
+        "id": 29,
+        "payId": 20008,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082014,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1070008,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081504,
+                "count": 5
+            },
+            {
+                "type": 1,
+                "id": 1071006,
+                "count": 5
+            },
+            {
+                "type": 1,
+                "id": 482044,
+                "count": 20
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 131200
+            }
+        ],
+        "mcIcon": {
+            "type": 4,
+            "param": 14,
+            "y": 70,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 4,
+            "param": 14,
+            "y": -20
+        },
+        "payType": 3,
+        "power": 18500000
+    },
+    "30": {
+        "id": 30,
+        "payId": 20011,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081035,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1082020,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 500020,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 500011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 482045,
+                "count": 20
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 3,
+            "param": 35,
+            "y": 100,
+            "scale": 0.4
+        },
+        "mcItemId": {
+            "type": 3,
+            "param": 35,
+            "y": 100
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "31": {
+        "id": 31,
+        "payId": 20011,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010121,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1060009,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083022,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420143,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 482045,
+                "count": 20
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 21,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 21,
+            "y": -150
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "32": {
+        "id": 32,
+        "payId": 20011,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082017,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083038,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1060006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420142,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 482045,
+                "count": 5
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 4,
+            "param": 17,
+            "y": 70,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 4,
+            "param": 17,
+            "y": -20
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "33": {
+        "id": 33,
+        "payId": 20011,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010129,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083036,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1070040,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084200,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 310812,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 29,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 29,
+            "y": -150
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "34": {
+        "id": 34,
+        "payId": 20011,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082031,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1070025,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420150,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084200,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 310812,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 4,
+            "param": 31,
+            "y": 70,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 4,
+            "param": 31,
+            "y": -20
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "35": {
+        "id": 35,
+        "payId": 20011,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010130,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083037,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 600116,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 100
+            },
+            {
+                "type": 1,
+                "id": 310812,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 30,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 30,
+            "y": -150
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "36": {
+        "id": 36,
+        "payId": 20011,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1060014,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1070023,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 600216,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 100
+            },
+            {
+                "type": 1,
+                "id": 310812,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 11,
+            "param": 114,
+            "y": 75,
+            "scale": 0.4
+        },
+        "mcItemId": {
+            "type": 11,
+            "param": 114,
+            "y": -25
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "37": {
+        "id": 37,
+        "payId": 20003,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081604,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390027,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310905,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310811,
+                "count": 800
+            },
+            {
+                "type": 1,
+                "id": 310810,
+                "count": 1000
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 12000
+            }
+        ],
+        "mcIcon": {
+            "type": 9,
+            "param": 19,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 9,
+            "param": 19,
+            "y": -150
+        },
+        "payType": 1,
+        "power": 2000000
+    },
+    "38": {
+        "id": 38,
+        "payId": 20003,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010108,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083008,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1010403,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 1081603,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 12000
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 8,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 8,
+            "y": -150
+        },
+        "payType": 1,
+        "power": 2000000
+    },
+    "39": {
+        "id": 39,
+        "payId": 20003,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 341702,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310193,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310193,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310193,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340401,
+                "count": 3000
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 12000
+            }
+        ],
+        "mcIcon": {
+            "type": 9,
+            "param": 19,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 9,
+            "param": 19,
+            "y": -150
+        },
+        "payType": 1,
+        "power": 2000000
+    },
+    "40": {
+        "id": 40,
+        "payId": 20006,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010109,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1082009,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081009,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083009,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220013,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 9,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 9,
+            "y": -150
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "41": {
+        "id": 41,
+        "payId": 20006,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1062011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1061006,
+                "count": 4
+            },
+            {
+                "type": 1,
+                "id": 1061005,
+                "count": 15
+            },
+            {
+                "type": 1,
+                "id": 1061004,
+                "count": 40
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 7,
+            "param": 11,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 7,
+            "param": 11,
+            "y": -150
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "42": {
+        "id": 42,
+        "payId": 20006,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1087009,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 184005,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 184003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 184002,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1085000,
+                "count": 100
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 19,
+            "param": 9,
+            "y": 50,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 19,
+            "param": 9,
+            "y": -50
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "43": {
+        "id": 43,
+        "payId": 20006,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1081011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081404,
+                "count": 3
+            },
+            {
+                "type": 1,
+                "id": 1081403,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 1081402,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 43200
+            }
+        ],
+        "mcIcon": {
+            "type": 3,
+            "param": 11,
+            "y": 80,
+            "scale": 0.4
+        },
+        "mcItemId": {
+            "type": 3,
+            "param": 11,
+            "y": 100
+        },
+        "payType": 2,
+        "power": 6500000
+    },
+    "44": {
+        "id": 44,
+        "payId": 20009,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082028,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081024,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081504,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 1081404,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 482044,
+                "count": 10
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 131200
+            }
+        ],
+        "mcIcon": {
+            "type": 4,
+            "param": 28,
+            "y": 70,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 4,
+            "param": 28,
+            "y": -20
+        },
+        "payType": 3,
+        "power": 18500000
+    },
+    "45": {
+        "id": 45,
+        "payId": 20009,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1089007,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420149,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420144,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420135,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420136,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 131200
+            }
+        ],
+        "mcIcon": {
+            "type": 16,
+            "param": 7,
+            "y": 20,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 16,
+            "param": 7,
+            "y": -100
+        },
+        "payType": 3,
+        "power": 18500000
+    },
+    "46": {
+        "id": 46,
+        "payId": 20009,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1060019,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081032,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1061006,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 1081404,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 482044,
+                "count": 10
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 131200
+            }
+        ],
+        "mcIcon": {
+            "type": 11,
+            "param": 119,
+            "y": 75,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 11,
+            "param": 119,
+            "y": -25
+        },
+        "payType": 3,
+        "power": 18500000
+    },
+    "47": {
+        "id": 47,
+        "payId": 20009,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1060005,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083015,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1061006,
+                "count": 4
+            },
+            {
+                "type": 1,
+                "id": 1081604,
+                "count": 3
+            },
+            {
+                "type": 1,
+                "id": 482044,
+                "count": 10
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 131200
+            }
+        ],
+        "mcIcon": {
+            "type": 11,
+            "param": 105,
+            "y": 75,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 11,
+            "param": 105,
+            "y": -25
+        },
+        "payType": 3,
+        "power": 18500000
+    },
+    "48": {
+        "id": 48,
+        "payId": 20012,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010125,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081023,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1070021,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084200,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 482045,
+                "count": 5
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 25,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 25,
+            "y": -150
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "49": {
+        "id": 49,
+        "payId": 20012,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082022,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081020,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1070015,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084200,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 482045,
+                "count": 5
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 4,
+            "param": 22,
+            "y": 70,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 4,
+            "param": 22,
+            "y": -20
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "50": {
+        "id": 50,
+        "payId": 20012,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010128,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1060020,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083042,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084200,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 482045,
+                "count": 5
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 28,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 28,
+            "y": -150
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "51": {
+        "id": 51,
+        "payId": 20012,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082039,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1060021,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420150,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084200,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 310812,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 4,
+            "param": 39,
+            "y": 70,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 4,
+            "param": 39,
+            "y": -20
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "52": {
+        "id": 52,
+        "payId": 20012,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1010135,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1070038,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 500020,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084200,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 310812,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 2,
+            "param": 35,
+            "y": 1,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 2,
+            "param": 35,
+            "y": -150
+        },
+        "payType": 4,
+        "power": 30000000
+    },
+    "53": {
+        "id": 53,
+        "payId": 20012,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 1082035,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1070037,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 600316,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 100
+            },
+            {
+                "type": 1,
+                "id": 310812,
+                "count": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 259200
+            }
+        ],
+        "mcIcon": {
+            "type": 4,
+            "param": 35,
+            "y": 70,
+            "scale": 0.5
+        },
+        "mcItemId": {
+            "type": 4,
+            "param": 35,
+            "y": -20
+        },
+        "payType": 4,
+        "power": 30000000
+    }
+}

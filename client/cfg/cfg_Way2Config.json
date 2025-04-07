@@ -1,0 +1,1079 @@
+{
+    "1": {
+        "idx": 1,
+        "id": 314,
+        "zslevel": 10102,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 300
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 1084000,
+                "count": 10
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 1087006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1087003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084200,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084100,
+                "count": 1
+            }
+        ],
+        "desc": "Challenge the dragon Dungeon to gather |C:0x13ee22&T:Glamorous Footprints|, which can greatly boost ATK and DEF stats! \nTeam up with other players to get even more rewards!"
+    },
+    "2": {
+        "idx": 2,
+        "id": 342,
+        "zslevel": 10104,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 400
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 20
+            },
+            {
+                "type": 1,
+                "id": 310610,
+                "count": 5
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 195001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 195002,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 195003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 195004,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310611,
+                "count": 1
+            }
+        ],
+        "desc": "Fight for the world boss to gain |C:0x13ee22&T:Fallen Vestment| gear. The gear comes with Excellent Stats itself|C:0x13ee22&T:lethal DMG Reinforce|\nYou no longer need to worry about grinding, PvP, and Boss challenge!"
+    },
+    "3": {
+        "idx": 3,
+        "id": 330,
+        "zslevel": 10201,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 400
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 20
+            },
+            {
+                "type": 1,
+                "id": 310191,
+                "count": 1
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 310018,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310191,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310190,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310012,
+                "count": 1
+            }
+        ],
+        "desc": "Seize the raining chests. Unlock the chest to gain |C:0x13ee22&T:Soulgear|\nAmple Stats buff, increased skill level limit, and powerful CP await!"
+    },
+    "4": {
+        "idx": 4,
+        "id": 417,
+        "zslevel": 10201,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 400
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 20
+            },
+            {
+                "type": 0,
+                "id": 4,
+                "count": 1500
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1
+            }
+        ],
+        "desc": "Collect Appearance Sets to Gain Attribute Bonuses and CP Boost!"
+    },
+    "5": {
+        "idx": 5,
+        "id": 318,
+        "zslevel": 10102,
+        "openDay": 1,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 300
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 10
+            },
+            {
+                "type": 0,
+                "id": 32,
+                "count": 1000
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 380030,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1083014,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310170,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 187001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 187003,
+                "count": 1
+            }
+        ],
+        "desc": "Guild Treasure Loot. Fight for your honor and seize Poseidon's Merlin Book|C:0x13ee22&T:Dragon's Secret|\nGreatly Boost your CP!"
+    },
+    "6": {
+        "idx": 6,
+        "id": 340,
+        "zslevel": 10201,
+        "openDay": 1,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 400
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 20
+            },
+            {
+                "type": 0,
+                "id": 4,
+                "count": 1500
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 1085000,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1084200,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 4,
+                "count": 1
+            }
+        ],
+        "desc": "Mysterious Golden Boss is coming. Challenge the Demon Lord to gain surprise rewards\n Ample |C:0x13ee22&T:Training Materials| await!"
+    },
+    "7": {
+        "idx": 7,
+        "id": 351,
+        "zslevel": 10202,
+        "openDay": 2,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1000
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 30
+            },
+            {
+                "type": 1,
+                "id": 420200,
+                "count": 1
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 420144,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420142,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420202,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 420203,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 36,
+                "count": 1
+            }
+        ],
+        "desc": "Defeat the incoming monsters and gather |C:0x13ee22&T:Monster Tome| to gain ample CP and stats\nThe full set of Tome even allows you to activate extra stats!"
+    },
+    "8": {
+        "idx": 8,
+        "id": 339,
+        "zslevel": 10203,
+        "openDay": 3,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1200
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 40
+            },
+            {
+                "type": 1,
+                "id": 340007,
+                "count": 3
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 310702,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310703,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310704,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310600,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310804,
+                "count": 1
+            }
+        ],
+        "desc": "The secret temple is available. The long lost |C:0x13ee22&T:Judgement Vestment| has returned to the world\nGather full set of Vestment Gear to activate |C:0x13ee22&T:Enchantment| Feature and enhance vestment stats!"
+    },
+    "9": {
+        "idx": 9,
+        "id": 341,
+        "zslevel": 10204,
+        "openDay": 4,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 50
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 15
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 1
+            }
+        ],
+        "desc": "Angel Reward unlocks Warrior Temple. Challenge the Boss to win |C:0x13ee22&T:Angelic Shield|\nIt is the essential artifact for the strongest warrior of the Excelllent Land!"
+    },
+    "10": {
+        "idx": 10,
+        "id": 355,
+        "zslevel": 10204,
+        "openDay": 5,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 50
+            },
+            {
+                "type": 1,
+                "id": 423100,
+                "count": 200
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 423100,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 423100,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 423100,
+                "count": 1
+            }
+        ],
+        "desc": "The ancient Ivory Tower has been discovered. It contains ample magic energy\nChallenge the tower guarding Boss to gain the mysterious |C:0x13ee22&T:Whisper| and activate ample DMG Reinforce stats!"
+    },
+    "11": {
+        "idx": 11,
+        "id": 349,
+        "zslevel": 10204,
+        "openDay": 7,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 50
+            },
+            {
+                "type": 0,
+                "id": 37,
+                "count": 200
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 380040,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1081016,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1082010,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 37,
+                "count": 1
+            }
+        ],
+        "desc": "It's the contest between the Avatars. Team up and fight against each other to seize the title of the strongest Avatar\nThere are also many |C:0x13ee22&T:Titles|, |C:0x13ee22&T:Wings| awaiting for you!"
+    },
+    "12": {
+        "idx": 12,
+        "id": 360,
+        "zslevel": 10204,
+        "openDay": 9,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 50
+            },
+            {
+                "type": 1,
+                "id": 600002,
+                "count": 1
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 500020,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 500019,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 601005,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 601003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 600003,
+                "count": 1
+            }
+        ],
+        "desc": "The Excellent Cryptid is here. Tame |C:0x13ee22&T:Cryptid| to gain ample stats\nYou can also send the cryptid out for |C:0x13ee22&T:Exploration| to gain ample rewards!"
+    },
+    "13": {
+        "idx": 13,
+        "id": 363,
+        "zslevel": 10204,
+        "openDay": 11,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 50
+            },
+            {
+                "type": 1,
+                "id": 610000,
+                "count": 300
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 611001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 611006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 610000,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 610002,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 610001,
+                "count": 1
+            }
+        ],
+        "desc": "Loch Temple is available and here comes the Loch Feather. Gather |C:0x13ee22&T:Feather Gear| and |C:0x13ee22&T:Feather Materials |\n to build the strongest Loch Feather!"
+    },
+    "14": {
+        "idx": 14,
+        "id": 324,
+        "zslevel": 10301,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2500
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 70
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 150
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 1089003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1089001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1093003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 1089000,
+                "count": 1
+            }
+        ],
+        "desc": "Rescue the trapped angel and gain |C:0x13ee22&T:Protection Item| to activate |C:0x13ee22&T:Godhood Skill|\n They will greatly boost your combat effectiveness!"
+    },
+    "15": {
+        "idx": 15,
+        "id": 323,
+        "zslevel": 10302,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2700
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 80
+            },
+            {
+                "type": 1,
+                "id": 340401,
+                "count": 300
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 341301,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 341201,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 341703,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 340401,
+                "count": 1
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1
+            }
+        ],
+        "desc": "Challenge the Extreme Tower. The more you cleared, the more rewards you can gain \nGather of |C:0x13ee22&T:Spirit Items| and greatly boost stats. Activate |C:0x13ee22&T:Spirit Set| to get extra stats bonus!"
+    },
+    "16": {
+        "idx": 16,
+        "id": 344,
+        "zslevel": 10303,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 100
+            },
+            {
+                "type": 1,
+                "id": 310810,
+                "count": 300
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 380038,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 380039,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310812,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310811,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310810,
+                "count": 1
+            }
+        ],
+        "desc": "Ancient Coloseum, PvP, PvE Slugfest\n Only one may win the title of the strongest |C:0x13ee22&T:Ancient Warlord|!"
+    },
+    "17": {
+        "idx": 17,
+        "id": 347,
+        "zslevel": 10304,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3400
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 120
+            },
+            {
+                "type": 1,
+                "id": 390023,
+                "count": 1
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 390930,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390932,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390026,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390025,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 390024,
+                "count": 1
+            }
+        ],
+        "desc": "Dark Boss is coming. Defeating Boss grants brand new set |C:0x13ee22&T:Dark Gear|\n It provides powerful PvP stats, greatly boosting your CP in the arena ranking!"
+    },
+    "18": {
+        "idx": 18,
+        "id": 370,
+        "zslevel": 10401,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4500
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 170
+            },
+            {
+                "type": 1,
+                "id": 711101,
+                "count": 2
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 701006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 711320,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 731001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 721003,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 726001,
+                "count": 1
+            }
+        ],
+        "desc": "Element Ethereal Realm is available. Gather |C:0x13ee22&T:Element Gear| to activate Element Set\n Powerful Stats explosive DMG output!"
+    },
+    "19": {
+        "idx": 19,
+        "id": 373,
+        "zslevel": 10402,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4750
+            },
+            {
+                "type": 1,
+                "id": 650000,
+                "count": 10
+            },
+            {
+                "type": 1,
+                "id": 650002,
+                "count": 1
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 651001,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 651002,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 651009,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 651010,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 650001,
+                "count": 1
+            }
+        ],
+        "desc": "Explore Scarlet Realm and defeat Scarlet Boss to collect |C:0x13ee22&T:Scarlet gear| and activate scarlet Stats\n Strong stats and powerful DMG!"
+    },
+    "20": {
+        "idx": 20,
+        "id": 371,
+        "zslevel": 10402,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 5000
+            },
+            {
+                "type": 1,
+                "id": 770201,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 770101,
+                "count": 1
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 770905,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 770805,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 770705,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 770605,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 770505,
+                "count": 1
+            }
+        ],
+        "desc": "Scarlet Glyph unlocked. Participate in the Championship to collect |C:0x13ee22&T:rare Glyphs| and activate powerful set stats."
+    },
+    "21": {
+        "idx": 21,
+        "id": 381,
+        "zslevel": 10403,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 5000
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 200
+            },
+            {
+                "type": 1,
+                "id": 550102,
+                "count": 10
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 550012,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 550011,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 550010,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 550009,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 550104,
+                "count": 1
+            }
+        ],
+        "desc": "Explore Spirit Gear Realm and collect legendary |C:0x13ee22&T:Spirit Gear| to activate exclusive skills"
+    },
+    "22": {
+        "idx": 22,
+        "id": 395,
+        "zslevel": 10404,
+        "openDay": 0,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 5000
+            },
+            {
+                "type": 1,
+                "id": 310005,
+                "count": 300
+            },
+            {
+                "type": 1,
+                "id": 310111,
+                "count": 1000
+            }
+        ],
+        "sysRewards": [
+            {
+                "type": 1,
+                "id": 2144000,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 2244000,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 2344000,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 2444000,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 2544000,
+                "count": 1
+            }
+        ],
+        "desc": "Adventure in Eudemon Island to tame the mysterious |C:0x13ee22&T:Eudemon| and activate exclusive Eudemon Stats\n Eudemon Stats provides you high DMG!"
+    }
+}

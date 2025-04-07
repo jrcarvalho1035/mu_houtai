@@ -1,0 +1,6778 @@
+{
+    "1": {
+        "id": 1,
+        "junxian": 1,
+        "level": 1,
+        "renown": 100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 200
+            },
+            {
+                "type": 1,
+                "id": 220002,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 100
+            },
+            {
+                "type": 1,
+                "value": 2000
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "junxian": 1,
+        "level": 2,
+        "renown": 200,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 200
+            },
+            {
+                "type": 1,
+                "id": 220002,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 500
+            },
+            {
+                "type": 1,
+                "value": 10000
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "junxian": 1,
+        "level": 3,
+        "renown": 200,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 200
+            },
+            {
+                "type": 1,
+                "id": 310015,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1050
+            },
+            {
+                "type": 1,
+                "value": 21000
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "junxian": 1,
+        "level": 4,
+        "renown": 200,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 200
+            },
+            {
+                "type": 1,
+                "id": 220002,
+                "count": 3
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1800
+            },
+            {
+                "type": 1,
+                "value": 36000
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "junxian": 1,
+        "level": 5,
+        "renown": 200,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 200
+            },
+            {
+                "type": 1,
+                "id": 220002,
+                "count": 3
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2750
+            },
+            {
+                "type": 1,
+                "value": 55000
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "junxian": 2,
+        "level": 1,
+        "renown": 250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 300
+            },
+            {
+                "type": 1,
+                "id": 310015,
+                "count": 3
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3900
+            },
+            {
+                "type": 1,
+                "value": 78000
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "junxian": 2,
+        "level": 2,
+        "renown": 250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 300
+            },
+            {
+                "type": 1,
+                "id": 220003,
+                "count": 3
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5250
+            },
+            {
+                "type": 1,
+                "value": 105000
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "junxian": 2,
+        "level": 3,
+        "renown": 250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 300
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 6800
+            },
+            {
+                "type": 1,
+                "value": 136000
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "junxian": 2,
+        "level": 4,
+        "renown": 250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 300
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 8550
+            },
+            {
+                "type": 1,
+                "value": 171000
+            }
+        ]
+    },
+    "10": {
+        "id": 10,
+        "junxian": 2,
+        "level": 5,
+        "renown": 250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 300
+            },
+            {
+                "type": 1,
+                "id": 220004,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 10500
+            },
+            {
+                "type": 1,
+                "value": 210000
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "junxian": 3,
+        "level": 1,
+        "renown": 300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 400
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 12650
+            },
+            {
+                "type": 1,
+                "value": 253000
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "junxian": 3,
+        "level": 2,
+        "renown": 300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 400
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 1
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 15000
+            },
+            {
+                "type": 1,
+                "value": 300000
+            }
+        ]
+    },
+    "13": {
+        "id": 13,
+        "junxian": 3,
+        "level": 3,
+        "renown": 300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 400
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 10
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 17550
+            },
+            {
+                "type": 1,
+                "value": 351000
+            }
+        ]
+    },
+    "14": {
+        "id": 14,
+        "junxian": 3,
+        "level": 4,
+        "renown": 300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 400
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 10
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 20300
+            },
+            {
+                "type": 1,
+                "value": 406000
+            }
+        ]
+    },
+    "15": {
+        "id": 15,
+        "junxian": 3,
+        "level": 5,
+        "renown": 300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 400
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 10
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 23250
+            },
+            {
+                "type": 1,
+                "value": 465000
+            }
+        ]
+    },
+    "16": {
+        "id": 16,
+        "junxian": 3,
+        "level": 6,
+        "renown": 350,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 400
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 10
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 26400
+            },
+            {
+                "type": 1,
+                "value": 528000
+            }
+        ]
+    },
+    "17": {
+        "id": 17,
+        "junxian": 3,
+        "level": 7,
+        "renown": 350,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 400
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 29750
+            },
+            {
+                "type": 1,
+                "value": 595000
+            }
+        ]
+    },
+    "18": {
+        "id": 18,
+        "junxian": 3,
+        "level": 8,
+        "renown": 350,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 400
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 33300
+            },
+            {
+                "type": 1,
+                "value": 666000
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "junxian": 4,
+        "level": 1,
+        "renown": 350,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 37050
+            },
+            {
+                "type": 1,
+                "value": 741000
+            }
+        ]
+    },
+    "20": {
+        "id": 20,
+        "junxian": 4,
+        "level": 2,
+        "renown": 350,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 41000
+            },
+            {
+                "type": 1,
+                "value": 820000
+            }
+        ]
+    },
+    "21": {
+        "id": 21,
+        "junxian": 4,
+        "level": 3,
+        "renown": 400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 45150
+            },
+            {
+                "type": 1,
+                "value": 903000
+            }
+        ]
+    },
+    "22": {
+        "id": 22,
+        "junxian": 4,
+        "level": 4,
+        "renown": 400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 49500
+            },
+            {
+                "type": 1,
+                "value": 990000
+            }
+        ]
+    },
+    "23": {
+        "id": 23,
+        "junxian": 4,
+        "level": 5,
+        "renown": 400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 54050
+            },
+            {
+                "type": 1,
+                "value": 1081000
+            }
+        ]
+    },
+    "24": {
+        "id": 24,
+        "junxian": 4,
+        "level": 6,
+        "renown": 400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 58800
+            },
+            {
+                "type": 1,
+                "value": 1176000
+            }
+        ]
+    },
+    "25": {
+        "id": 25,
+        "junxian": 4,
+        "level": 7,
+        "renown": 400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 63750
+            },
+            {
+                "type": 1,
+                "value": 1275000
+            }
+        ]
+    },
+    "26": {
+        "id": 26,
+        "junxian": 4,
+        "level": 8,
+        "renown": 450,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 68900
+            },
+            {
+                "type": 1,
+                "value": 1378000
+            }
+        ]
+    },
+    "27": {
+        "id": 27,
+        "junxian": 5,
+        "level": 1,
+        "renown": 450,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 74250
+            },
+            {
+                "type": 1,
+                "value": 1485000
+            }
+        ]
+    },
+    "28": {
+        "id": 28,
+        "junxian": 5,
+        "level": 2,
+        "renown": 450,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 79800
+            },
+            {
+                "type": 1,
+                "value": 1596000
+            }
+        ]
+    },
+    "29": {
+        "id": 29,
+        "junxian": 5,
+        "level": 3,
+        "renown": 450,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 85550
+            },
+            {
+                "type": 1,
+                "value": 1711000
+            }
+        ]
+    },
+    "30": {
+        "id": 30,
+        "junxian": 5,
+        "level": 4,
+        "renown": 450,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 91500
+            },
+            {
+                "type": 1,
+                "value": 1830000
+            }
+        ]
+    },
+    "31": {
+        "id": 31,
+        "junxian": 5,
+        "level": 5,
+        "renown": 500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 97650
+            },
+            {
+                "type": 1,
+                "value": 1953000
+            }
+        ]
+    },
+    "32": {
+        "id": 32,
+        "junxian": 5,
+        "level": 6,
+        "renown": 500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 104000
+            },
+            {
+                "type": 1,
+                "value": 2080000
+            }
+        ]
+    },
+    "33": {
+        "id": 33,
+        "junxian": 5,
+        "level": 7,
+        "renown": 500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 110550
+            },
+            {
+                "type": 1,
+                "value": 2211000
+            }
+        ]
+    },
+    "34": {
+        "id": 34,
+        "junxian": 5,
+        "level": 8,
+        "renown": 500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 600
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 117300
+            },
+            {
+                "type": 1,
+                "value": 2346000
+            }
+        ]
+    },
+    "35": {
+        "id": 35,
+        "junxian": 6,
+        "level": 1,
+        "renown": 500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 124250
+            },
+            {
+                "type": 1,
+                "value": 2485000
+            }
+        ]
+    },
+    "36": {
+        "id": 36,
+        "junxian": 6,
+        "level": 2,
+        "renown": 550,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 131400
+            },
+            {
+                "type": 1,
+                "value": 2628000
+            }
+        ]
+    },
+    "37": {
+        "id": 37,
+        "junxian": 6,
+        "level": 3,
+        "renown": 550,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 138750
+            },
+            {
+                "type": 1,
+                "value": 2775000
+            }
+        ]
+    },
+    "38": {
+        "id": 38,
+        "junxian": 6,
+        "level": 4,
+        "renown": 550,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 146300
+            },
+            {
+                "type": 1,
+                "value": 2926000
+            }
+        ]
+    },
+    "39": {
+        "id": 39,
+        "junxian": 6,
+        "level": 5,
+        "renown": 550,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 154050
+            },
+            {
+                "type": 1,
+                "value": 3081000
+            }
+        ]
+    },
+    "40": {
+        "id": 40,
+        "junxian": 6,
+        "level": 6,
+        "renown": 550,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 162000
+            },
+            {
+                "type": 1,
+                "value": 3240000
+            }
+        ]
+    },
+    "41": {
+        "id": 41,
+        "junxian": 6,
+        "level": 7,
+        "renown": 600,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 170150
+            },
+            {
+                "type": 1,
+                "value": 3403000
+            }
+        ]
+    },
+    "42": {
+        "id": 42,
+        "junxian": 6,
+        "level": 8,
+        "renown": 600,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 700
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 178500
+            },
+            {
+                "type": 1,
+                "value": 3570000
+            }
+        ]
+    },
+    "43": {
+        "id": 43,
+        "junxian": 7,
+        "level": 1,
+        "renown": 600,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 187050
+            },
+            {
+                "type": 1,
+                "value": 3741000
+            }
+        ]
+    },
+    "44": {
+        "id": 44,
+        "junxian": 7,
+        "level": 2,
+        "renown": 600,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 195800
+            },
+            {
+                "type": 1,
+                "value": 3916000
+            }
+        ]
+    },
+    "45": {
+        "id": 45,
+        "junxian": 7,
+        "level": 3,
+        "renown": 600,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 204750
+            },
+            {
+                "type": 1,
+                "value": 4095000
+            }
+        ]
+    },
+    "46": {
+        "id": 46,
+        "junxian": 7,
+        "level": 4,
+        "renown": 650,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 213900
+            },
+            {
+                "type": 1,
+                "value": 4278000
+            }
+        ]
+    },
+    "47": {
+        "id": 47,
+        "junxian": 7,
+        "level": 5,
+        "renown": 650,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 223250
+            },
+            {
+                "type": 1,
+                "value": 4465000
+            }
+        ]
+    },
+    "48": {
+        "id": 48,
+        "junxian": 7,
+        "level": 6,
+        "renown": 650,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 232800
+            },
+            {
+                "type": 1,
+                "value": 4656000
+            }
+        ]
+    },
+    "49": {
+        "id": 49,
+        "junxian": 7,
+        "level": 7,
+        "renown": 650,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 242550
+            },
+            {
+                "type": 1,
+                "value": 4851000
+            }
+        ]
+    },
+    "50": {
+        "id": 50,
+        "junxian": 7,
+        "level": 8,
+        "renown": 650,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 252500
+            },
+            {
+                "type": 1,
+                "value": 5050000
+            }
+        ]
+    },
+    "51": {
+        "id": 51,
+        "junxian": 8,
+        "level": 1,
+        "renown": 700,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 262650
+            },
+            {
+                "type": 1,
+                "value": 5253000
+            }
+        ]
+    },
+    "52": {
+        "id": 52,
+        "junxian": 8,
+        "level": 2,
+        "renown": 700,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 273000
+            },
+            {
+                "type": 1,
+                "value": 5460000
+            }
+        ]
+    },
+    "53": {
+        "id": 53,
+        "junxian": 8,
+        "level": 3,
+        "renown": 700,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 283550
+            },
+            {
+                "type": 1,
+                "value": 5671000
+            }
+        ]
+    },
+    "54": {
+        "id": 54,
+        "junxian": 8,
+        "level": 4,
+        "renown": 700,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 294300
+            },
+            {
+                "type": 1,
+                "value": 5886000
+            }
+        ]
+    },
+    "55": {
+        "id": 55,
+        "junxian": 8,
+        "level": 5,
+        "renown": 700,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 305250
+            },
+            {
+                "type": 1,
+                "value": 6105000
+            }
+        ]
+    },
+    "56": {
+        "id": 56,
+        "junxian": 8,
+        "level": 6,
+        "renown": 750,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 316400
+            },
+            {
+                "type": 1,
+                "value": 6328000
+            }
+        ]
+    },
+    "57": {
+        "id": 57,
+        "junxian": 8,
+        "level": 7,
+        "renown": 750,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 327750
+            },
+            {
+                "type": 1,
+                "value": 6555000
+            }
+        ]
+    },
+    "58": {
+        "id": 58,
+        "junxian": 8,
+        "level": 8,
+        "renown": 750,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 900
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 339300
+            },
+            {
+                "type": 1,
+                "value": 6786000
+            }
+        ]
+    },
+    "59": {
+        "id": 59,
+        "junxian": 9,
+        "level": 1,
+        "renown": 750,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1000
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 351050
+            },
+            {
+                "type": 1,
+                "value": 7021000
+            }
+        ]
+    },
+    "60": {
+        "id": 60,
+        "junxian": 9,
+        "level": 2,
+        "renown": 750,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1000
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 363000
+            },
+            {
+                "type": 1,
+                "value": 7260000
+            }
+        ]
+    },
+    "61": {
+        "id": 61,
+        "junxian": 9,
+        "level": 3,
+        "renown": 800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1000
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 375150
+            },
+            {
+                "type": 1,
+                "value": 7503000
+            }
+        ]
+    },
+    "62": {
+        "id": 62,
+        "junxian": 9,
+        "level": 4,
+        "renown": 800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1000
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 387500
+            },
+            {
+                "type": 1,
+                "value": 7750000
+            }
+        ]
+    },
+    "63": {
+        "id": 63,
+        "junxian": 9,
+        "level": 5,
+        "renown": 800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1000
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 400050
+            },
+            {
+                "type": 1,
+                "value": 8001000
+            }
+        ]
+    },
+    "64": {
+        "id": 64,
+        "junxian": 9,
+        "level": 6,
+        "renown": 800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1000
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 412800
+            },
+            {
+                "type": 1,
+                "value": 8256000
+            }
+        ]
+    },
+    "65": {
+        "id": 65,
+        "junxian": 9,
+        "level": 7,
+        "renown": 800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1000
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 425750
+            },
+            {
+                "type": 1,
+                "value": 8515000
+            }
+        ]
+    },
+    "66": {
+        "id": 66,
+        "junxian": 9,
+        "level": 8,
+        "renown": 850,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1000
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 438900
+            },
+            {
+                "type": 1,
+                "value": 8778000
+            }
+        ]
+    },
+    "67": {
+        "id": 67,
+        "junxian": 10,
+        "level": 1,
+        "renown": 850,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1100
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 452250
+            },
+            {
+                "type": 1,
+                "value": 9045000
+            }
+        ]
+    },
+    "68": {
+        "id": 68,
+        "junxian": 10,
+        "level": 2,
+        "renown": 850,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1100
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 465800
+            },
+            {
+                "type": 1,
+                "value": 9316000
+            }
+        ]
+    },
+    "69": {
+        "id": 69,
+        "junxian": 10,
+        "level": 3,
+        "renown": 850,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1100
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 479550
+            },
+            {
+                "type": 1,
+                "value": 9591000
+            }
+        ]
+    },
+    "70": {
+        "id": 70,
+        "junxian": 10,
+        "level": 4,
+        "renown": 850,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1100
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 493500
+            },
+            {
+                "type": 1,
+                "value": 9870000
+            }
+        ]
+    },
+    "71": {
+        "id": 71,
+        "junxian": 10,
+        "level": 5,
+        "renown": 900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1100
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 507650
+            },
+            {
+                "type": 1,
+                "value": 10153000
+            }
+        ]
+    },
+    "72": {
+        "id": 72,
+        "junxian": 10,
+        "level": 6,
+        "renown": 900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1100
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 522000
+            },
+            {
+                "type": 1,
+                "value": 10440000
+            }
+        ]
+    },
+    "73": {
+        "id": 73,
+        "junxian": 10,
+        "level": 7,
+        "renown": 900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1100
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 536550
+            },
+            {
+                "type": 1,
+                "value": 10731000
+            }
+        ]
+    },
+    "74": {
+        "id": 74,
+        "junxian": 10,
+        "level": 8,
+        "renown": 900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1100
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 551300
+            },
+            {
+                "type": 1,
+                "value": 11026000
+            }
+        ]
+    },
+    "75": {
+        "id": 75,
+        "junxian": 11,
+        "level": 1,
+        "renown": 900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1200
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 566250
+            },
+            {
+                "type": 1,
+                "value": 11325000
+            }
+        ]
+    },
+    "76": {
+        "id": 76,
+        "junxian": 11,
+        "level": 2,
+        "renown": 950,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1200
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 581400
+            },
+            {
+                "type": 1,
+                "value": 11628000
+            }
+        ]
+    },
+    "77": {
+        "id": 77,
+        "junxian": 11,
+        "level": 3,
+        "renown": 950,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1200
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 596750
+            },
+            {
+                "type": 1,
+                "value": 11935000
+            }
+        ]
+    },
+    "78": {
+        "id": 78,
+        "junxian": 11,
+        "level": 4,
+        "renown": 950,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1200
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 612300
+            },
+            {
+                "type": 1,
+                "value": 12246000
+            }
+        ]
+    },
+    "79": {
+        "id": 79,
+        "junxian": 11,
+        "level": 5,
+        "renown": 950,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1200
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 628050
+            },
+            {
+                "type": 1,
+                "value": 12561000
+            }
+        ]
+    },
+    "80": {
+        "id": 80,
+        "junxian": 11,
+        "level": 6,
+        "renown": 950,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1200
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 644000
+            },
+            {
+                "type": 1,
+                "value": 12880000
+            }
+        ]
+    },
+    "81": {
+        "id": 81,
+        "junxian": 11,
+        "level": 7,
+        "renown": 1000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1200
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 660150
+            },
+            {
+                "type": 1,
+                "value": 13203000
+            }
+        ]
+    },
+    "82": {
+        "id": 82,
+        "junxian": 11,
+        "level": 8,
+        "renown": 1000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1200
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 676500
+            },
+            {
+                "type": 1,
+                "value": 13530000
+            }
+        ]
+    },
+    "83": {
+        "id": 83,
+        "junxian": 12,
+        "level": 1,
+        "renown": 1000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 693050
+            },
+            {
+                "type": 1,
+                "value": 13861000
+            }
+        ]
+    },
+    "84": {
+        "id": 84,
+        "junxian": 12,
+        "level": 2,
+        "renown": 1000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 709800
+            },
+            {
+                "type": 1,
+                "value": 14196000
+            }
+        ]
+    },
+    "85": {
+        "id": 85,
+        "junxian": 12,
+        "level": 3,
+        "renown": 1000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 726750
+            },
+            {
+                "type": 1,
+                "value": 14535000
+            }
+        ]
+    },
+    "86": {
+        "id": 86,
+        "junxian": 12,
+        "level": 4,
+        "renown": 1050,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 743900
+            },
+            {
+                "type": 1,
+                "value": 14878000
+            }
+        ]
+    },
+    "87": {
+        "id": 87,
+        "junxian": 12,
+        "level": 5,
+        "renown": 1050,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 761250
+            },
+            {
+                "type": 1,
+                "value": 15225000
+            }
+        ]
+    },
+    "88": {
+        "id": 88,
+        "junxian": 12,
+        "level": 6,
+        "renown": 1050,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 778800
+            },
+            {
+                "type": 1,
+                "value": 15576000
+            }
+        ]
+    },
+    "89": {
+        "id": 89,
+        "junxian": 12,
+        "level": 7,
+        "renown": 1050,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 796550
+            },
+            {
+                "type": 1,
+                "value": 15931000
+            }
+        ]
+    },
+    "90": {
+        "id": 90,
+        "junxian": 12,
+        "level": 8,
+        "renown": 1050,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1300
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 814500
+            },
+            {
+                "type": 1,
+                "value": 16290000
+            }
+        ]
+    },
+    "91": {
+        "id": 91,
+        "junxian": 13,
+        "level": 1,
+        "renown": 1100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1400
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 832650
+            },
+            {
+                "type": 1,
+                "value": 16653000
+            }
+        ]
+    },
+    "92": {
+        "id": 92,
+        "junxian": 13,
+        "level": 2,
+        "renown": 1100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1400
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 851000
+            },
+            {
+                "type": 1,
+                "value": 17020000
+            }
+        ]
+    },
+    "93": {
+        "id": 93,
+        "junxian": 13,
+        "level": 3,
+        "renown": 1100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1400
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 869550
+            },
+            {
+                "type": 1,
+                "value": 17391000
+            }
+        ]
+    },
+    "94": {
+        "id": 94,
+        "junxian": 13,
+        "level": 4,
+        "renown": 1100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1400
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 888300
+            },
+            {
+                "type": 1,
+                "value": 17766000
+            }
+        ]
+    },
+    "95": {
+        "id": 95,
+        "junxian": 13,
+        "level": 5,
+        "renown": 1100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1400
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 907250
+            },
+            {
+                "type": 1,
+                "value": 18145000
+            }
+        ]
+    },
+    "96": {
+        "id": 96,
+        "junxian": 13,
+        "level": 6,
+        "renown": 1150,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1400
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 926400
+            },
+            {
+                "type": 1,
+                "value": 18528000
+            }
+        ]
+    },
+    "97": {
+        "id": 97,
+        "junxian": 13,
+        "level": 7,
+        "renown": 1150,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1400
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 945750
+            },
+            {
+                "type": 1,
+                "value": 18915000
+            }
+        ]
+    },
+    "98": {
+        "id": 98,
+        "junxian": 13,
+        "level": 8,
+        "renown": 1150,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1400
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 965300
+            },
+            {
+                "type": 1,
+                "value": 19306000
+            }
+        ]
+    },
+    "99": {
+        "id": 99,
+        "junxian": 14,
+        "level": 1,
+        "renown": 1150,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1500
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 985050
+            },
+            {
+                "type": 1,
+                "value": 19701000
+            }
+        ]
+    },
+    "100": {
+        "id": 100,
+        "junxian": 14,
+        "level": 2,
+        "renown": 1150,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1500
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1005000
+            },
+            {
+                "type": 1,
+                "value": 20100000
+            }
+        ]
+    },
+    "101": {
+        "id": 101,
+        "junxian": 14,
+        "level": 3,
+        "renown": 1200,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1500
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1025150
+            },
+            {
+                "type": 1,
+                "value": 20503000
+            }
+        ]
+    },
+    "102": {
+        "id": 102,
+        "junxian": 14,
+        "level": 4,
+        "renown": 1200,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1500
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1045500
+            },
+            {
+                "type": 1,
+                "value": 20910000
+            }
+        ]
+    },
+    "103": {
+        "id": 103,
+        "junxian": 14,
+        "level": 5,
+        "renown": 1200,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1500
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1066050
+            },
+            {
+                "type": 1,
+                "value": 21321000
+            }
+        ]
+    },
+    "104": {
+        "id": 104,
+        "junxian": 14,
+        "level": 6,
+        "renown": 1200,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1500
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1086800
+            },
+            {
+                "type": 1,
+                "value": 21736000
+            }
+        ]
+    },
+    "105": {
+        "id": 105,
+        "junxian": 14,
+        "level": 7,
+        "renown": 1200,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1500
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1107750
+            },
+            {
+                "type": 1,
+                "value": 22155000
+            }
+        ]
+    },
+    "106": {
+        "id": 106,
+        "junxian": 14,
+        "level": 8,
+        "renown": 1250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1500
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1128900
+            },
+            {
+                "type": 1,
+                "value": 22578000
+            }
+        ]
+    },
+    "107": {
+        "id": 107,
+        "junxian": 15,
+        "level": 1,
+        "renown": 1250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1600
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1150250
+            },
+            {
+                "type": 1,
+                "value": 23005000
+            }
+        ]
+    },
+    "108": {
+        "id": 108,
+        "junxian": 15,
+        "level": 2,
+        "renown": 1250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1600
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1171800
+            },
+            {
+                "type": 1,
+                "value": 23436000
+            }
+        ]
+    },
+    "109": {
+        "id": 109,
+        "junxian": 15,
+        "level": 3,
+        "renown": 1250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1600
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1193550
+            },
+            {
+                "type": 1,
+                "value": 23871000
+            }
+        ]
+    },
+    "110": {
+        "id": 110,
+        "junxian": 15,
+        "level": 4,
+        "renown": 1250,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1600
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1215500
+            },
+            {
+                "type": 1,
+                "value": 24310000
+            }
+        ]
+    },
+    "111": {
+        "id": 111,
+        "junxian": 15,
+        "level": 5,
+        "renown": 1300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1600
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1237650
+            },
+            {
+                "type": 1,
+                "value": 24753000
+            }
+        ]
+    },
+    "112": {
+        "id": 112,
+        "junxian": 15,
+        "level": 6,
+        "renown": 1300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1600
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1260000
+            },
+            {
+                "type": 1,
+                "value": 25200000
+            }
+        ]
+    },
+    "113": {
+        "id": 113,
+        "junxian": 15,
+        "level": 7,
+        "renown": 1300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1600
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1282550
+            },
+            {
+                "type": 1,
+                "value": 25651000
+            }
+        ]
+    },
+    "114": {
+        "id": 114,
+        "junxian": 15,
+        "level": 8,
+        "renown": 1300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1600
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1305300
+            },
+            {
+                "type": 1,
+                "value": 26106000
+            }
+        ]
+    },
+    "115": {
+        "id": 115,
+        "junxian": 16,
+        "level": 1,
+        "renown": 1300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1700
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1328250
+            },
+            {
+                "type": 1,
+                "value": 26565000
+            }
+        ]
+    },
+    "116": {
+        "id": 116,
+        "junxian": 16,
+        "level": 2,
+        "renown": 1350,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1700
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1351400
+            },
+            {
+                "type": 1,
+                "value": 27028000
+            }
+        ]
+    },
+    "117": {
+        "id": 117,
+        "junxian": 16,
+        "level": 3,
+        "renown": 1350,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1700
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1374750
+            },
+            {
+                "type": 1,
+                "value": 27495000
+            }
+        ]
+    },
+    "118": {
+        "id": 118,
+        "junxian": 16,
+        "level": 4,
+        "renown": 1350,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1700
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1398300
+            },
+            {
+                "type": 1,
+                "value": 27966000
+            }
+        ]
+    },
+    "119": {
+        "id": 119,
+        "junxian": 16,
+        "level": 5,
+        "renown": 1350,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1700
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1422050
+            },
+            {
+                "type": 1,
+                "value": 28441000
+            }
+        ]
+    },
+    "120": {
+        "id": 120,
+        "junxian": 16,
+        "level": 6,
+        "renown": 1350,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1700
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1446000
+            },
+            {
+                "type": 1,
+                "value": 28920000
+            }
+        ]
+    },
+    "121": {
+        "id": 121,
+        "junxian": 16,
+        "level": 7,
+        "renown": 1400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1700
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1470150
+            },
+            {
+                "type": 1,
+                "value": 29403000
+            }
+        ]
+    },
+    "122": {
+        "id": 122,
+        "junxian": 16,
+        "level": 8,
+        "renown": 1400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1700
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1494500
+            },
+            {
+                "type": 1,
+                "value": 29890000
+            }
+        ]
+    },
+    "123": {
+        "id": 123,
+        "junxian": 17,
+        "level": 1,
+        "renown": 1400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1800
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1519050
+            },
+            {
+                "type": 1,
+                "value": 30381000
+            }
+        ]
+    },
+    "124": {
+        "id": 124,
+        "junxian": 17,
+        "level": 2,
+        "renown": 1400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1800
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1543800
+            },
+            {
+                "type": 1,
+                "value": 30876000
+            }
+        ]
+    },
+    "125": {
+        "id": 125,
+        "junxian": 17,
+        "level": 3,
+        "renown": 1400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1800
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1568750
+            },
+            {
+                "type": 1,
+                "value": 31375000
+            }
+        ]
+    },
+    "126": {
+        "id": 126,
+        "junxian": 17,
+        "level": 4,
+        "renown": 1450,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1800
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1593900
+            },
+            {
+                "type": 1,
+                "value": 31878000
+            }
+        ]
+    },
+    "127": {
+        "id": 127,
+        "junxian": 17,
+        "level": 5,
+        "renown": 1450,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1800
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1619250
+            },
+            {
+                "type": 1,
+                "value": 32385000
+            }
+        ]
+    },
+    "128": {
+        "id": 128,
+        "junxian": 17,
+        "level": 6,
+        "renown": 1450,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1800
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1644800
+            },
+            {
+                "type": 1,
+                "value": 32896000
+            }
+        ]
+    },
+    "129": {
+        "id": 129,
+        "junxian": 17,
+        "level": 7,
+        "renown": 1450,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1800
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1670550
+            },
+            {
+                "type": 1,
+                "value": 33411000
+            }
+        ]
+    },
+    "130": {
+        "id": 130,
+        "junxian": 17,
+        "level": 8,
+        "renown": 1450,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1800
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1696500
+            },
+            {
+                "type": 1,
+                "value": 33930000
+            }
+        ]
+    },
+    "131": {
+        "id": 131,
+        "junxian": 18,
+        "level": 1,
+        "renown": 1500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1900
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1722650
+            },
+            {
+                "type": 1,
+                "value": 34453000
+            }
+        ]
+    },
+    "132": {
+        "id": 132,
+        "junxian": 18,
+        "level": 2,
+        "renown": 1500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1900
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1749000
+            },
+            {
+                "type": 1,
+                "value": 34980000
+            }
+        ]
+    },
+    "133": {
+        "id": 133,
+        "junxian": 18,
+        "level": 3,
+        "renown": 1500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1900
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1775550
+            },
+            {
+                "type": 1,
+                "value": 35511000
+            }
+        ]
+    },
+    "134": {
+        "id": 134,
+        "junxian": 18,
+        "level": 4,
+        "renown": 1500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1900
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1802300
+            },
+            {
+                "type": 1,
+                "value": 36046000
+            }
+        ]
+    },
+    "135": {
+        "id": 135,
+        "junxian": 18,
+        "level": 5,
+        "renown": 1500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1900
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1829250
+            },
+            {
+                "type": 1,
+                "value": 36585000
+            }
+        ]
+    },
+    "136": {
+        "id": 136,
+        "junxian": 18,
+        "level": 6,
+        "renown": 1550,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1900
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1856400
+            },
+            {
+                "type": 1,
+                "value": 37128000
+            }
+        ]
+    },
+    "137": {
+        "id": 137,
+        "junxian": 18,
+        "level": 7,
+        "renown": 1550,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1900
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1883750
+            },
+            {
+                "type": 1,
+                "value": 37675000
+            }
+        ]
+    },
+    "138": {
+        "id": 138,
+        "junxian": 18,
+        "level": 8,
+        "renown": 1550,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1900
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1911300
+            },
+            {
+                "type": 1,
+                "value": 38226000
+            }
+        ]
+    },
+    "139": {
+        "id": 139,
+        "junxian": 19,
+        "level": 1,
+        "renown": 1550,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2000
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1939050
+            },
+            {
+                "type": 1,
+                "value": 38781000
+            }
+        ]
+    },
+    "140": {
+        "id": 140,
+        "junxian": 19,
+        "level": 2,
+        "renown": 1550,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2000
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1967000
+            },
+            {
+                "type": 1,
+                "value": 39340000
+            }
+        ]
+    },
+    "141": {
+        "id": 141,
+        "junxian": 19,
+        "level": 3,
+        "renown": 1600,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2000
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 1995150
+            },
+            {
+                "type": 1,
+                "value": 39903000
+            }
+        ]
+    },
+    "142": {
+        "id": 142,
+        "junxian": 19,
+        "level": 4,
+        "renown": 1600,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2000
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2023500
+            },
+            {
+                "type": 1,
+                "value": 40470000
+            }
+        ]
+    },
+    "143": {
+        "id": 143,
+        "junxian": 19,
+        "level": 5,
+        "renown": 1600,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2000
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2052050
+            },
+            {
+                "type": 1,
+                "value": 41041000
+            }
+        ]
+    },
+    "144": {
+        "id": 144,
+        "junxian": 19,
+        "level": 6,
+        "renown": 1600,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2000
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2080800
+            },
+            {
+                "type": 1,
+                "value": 41616000
+            }
+        ]
+    },
+    "145": {
+        "id": 145,
+        "junxian": 19,
+        "level": 7,
+        "renown": 1600,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2000
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2109750
+            },
+            {
+                "type": 1,
+                "value": 42195000
+            }
+        ]
+    },
+    "146": {
+        "id": 146,
+        "junxian": 19,
+        "level": 8,
+        "renown": 1650,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2000
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2138900
+            },
+            {
+                "type": 1,
+                "value": 42778000
+            }
+        ]
+    },
+    "147": {
+        "id": 147,
+        "junxian": 20,
+        "level": 1,
+        "renown": 1650,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2100
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2168250
+            },
+            {
+                "type": 1,
+                "value": 43365000
+            }
+        ]
+    },
+    "148": {
+        "id": 148,
+        "junxian": 20,
+        "level": 2,
+        "renown": 1650,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2100
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2197800
+            },
+            {
+                "type": 1,
+                "value": 43956000
+            }
+        ]
+    },
+    "149": {
+        "id": 149,
+        "junxian": 20,
+        "level": 3,
+        "renown": 1650,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2100
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2227550
+            },
+            {
+                "type": 1,
+                "value": 44551000
+            }
+        ]
+    },
+    "150": {
+        "id": 150,
+        "junxian": 20,
+        "level": 4,
+        "renown": 1650,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2100
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2257500
+            },
+            {
+                "type": 1,
+                "value": 45150000
+            }
+        ]
+    },
+    "151": {
+        "id": 151,
+        "junxian": 20,
+        "level": 5,
+        "renown": 1700,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2100
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2287650
+            },
+            {
+                "type": 1,
+                "value": 45753000
+            }
+        ]
+    },
+    "152": {
+        "id": 152,
+        "junxian": 20,
+        "level": 6,
+        "renown": 1700,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2100
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2318000
+            },
+            {
+                "type": 1,
+                "value": 46360000
+            }
+        ]
+    },
+    "153": {
+        "id": 153,
+        "junxian": 20,
+        "level": 7,
+        "renown": 1700,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2100
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2348550
+            },
+            {
+                "type": 1,
+                "value": 46971000
+            }
+        ]
+    },
+    "154": {
+        "id": 154,
+        "junxian": 20,
+        "level": 8,
+        "renown": 1700,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2100
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2379300
+            },
+            {
+                "type": 1,
+                "value": 47586000
+            }
+        ]
+    },
+    "155": {
+        "id": 155,
+        "junxian": 21,
+        "level": 1,
+        "renown": 1700,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2200
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2410250
+            },
+            {
+                "type": 1,
+                "value": 48205000
+            }
+        ]
+    },
+    "156": {
+        "id": 156,
+        "junxian": 21,
+        "level": 2,
+        "renown": 1750,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2200
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2441400
+            },
+            {
+                "type": 1,
+                "value": 48828000
+            }
+        ]
+    },
+    "157": {
+        "id": 157,
+        "junxian": 21,
+        "level": 3,
+        "renown": 1750,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2200
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2472750
+            },
+            {
+                "type": 1,
+                "value": 49455000
+            }
+        ]
+    },
+    "158": {
+        "id": 158,
+        "junxian": 21,
+        "level": 4,
+        "renown": 1750,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2200
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2504300
+            },
+            {
+                "type": 1,
+                "value": 50086000
+            }
+        ]
+    },
+    "159": {
+        "id": 159,
+        "junxian": 21,
+        "level": 5,
+        "renown": 1750,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2200
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2536050
+            },
+            {
+                "type": 1,
+                "value": 50721000
+            }
+        ]
+    },
+    "160": {
+        "id": 160,
+        "junxian": 21,
+        "level": 6,
+        "renown": 1750,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2200
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2568000
+            },
+            {
+                "type": 1,
+                "value": 51360000
+            }
+        ]
+    },
+    "161": {
+        "id": 161,
+        "junxian": 21,
+        "level": 7,
+        "renown": 1800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2200
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2600150
+            },
+            {
+                "type": 1,
+                "value": 52003000
+            }
+        ]
+    },
+    "162": {
+        "id": 162,
+        "junxian": 21,
+        "level": 8,
+        "renown": 1800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2200
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2632500
+            },
+            {
+                "type": 1,
+                "value": 52650000
+            }
+        ]
+    },
+    "163": {
+        "id": 163,
+        "junxian": 22,
+        "level": 1,
+        "renown": 1800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2300
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2665050
+            },
+            {
+                "type": 1,
+                "value": 53301000
+            }
+        ]
+    },
+    "164": {
+        "id": 164,
+        "junxian": 22,
+        "level": 2,
+        "renown": 1800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2300
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2697800
+            },
+            {
+                "type": 1,
+                "value": 53956000
+            }
+        ]
+    },
+    "165": {
+        "id": 165,
+        "junxian": 22,
+        "level": 3,
+        "renown": 1800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2300
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2730750
+            },
+            {
+                "type": 1,
+                "value": 54615000
+            }
+        ]
+    },
+    "166": {
+        "id": 166,
+        "junxian": 22,
+        "level": 4,
+        "renown": 1850,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2300
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2763900
+            },
+            {
+                "type": 1,
+                "value": 55278000
+            }
+        ]
+    },
+    "167": {
+        "id": 167,
+        "junxian": 22,
+        "level": 5,
+        "renown": 1850,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2300
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2797250
+            },
+            {
+                "type": 1,
+                "value": 55945000
+            }
+        ]
+    },
+    "168": {
+        "id": 168,
+        "junxian": 22,
+        "level": 6,
+        "renown": 1850,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2300
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2830800
+            },
+            {
+                "type": 1,
+                "value": 56616000
+            }
+        ]
+    },
+    "169": {
+        "id": 169,
+        "junxian": 22,
+        "level": 7,
+        "renown": 1850,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2300
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2864550
+            },
+            {
+                "type": 1,
+                "value": 57291000
+            }
+        ]
+    },
+    "170": {
+        "id": 170,
+        "junxian": 22,
+        "level": 8,
+        "renown": 1850,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2300
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2898500
+            },
+            {
+                "type": 1,
+                "value": 57970000
+            }
+        ]
+    },
+    "171": {
+        "id": 171,
+        "junxian": 23,
+        "level": 1,
+        "renown": 1900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2400
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2932650
+            },
+            {
+                "type": 1,
+                "value": 58653000
+            }
+        ]
+    },
+    "172": {
+        "id": 172,
+        "junxian": 23,
+        "level": 2,
+        "renown": 1900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2400
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 2967000
+            },
+            {
+                "type": 1,
+                "value": 59340000
+            }
+        ]
+    },
+    "173": {
+        "id": 173,
+        "junxian": 23,
+        "level": 3,
+        "renown": 1900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2400
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3001550
+            },
+            {
+                "type": 1,
+                "value": 60031000
+            }
+        ]
+    },
+    "174": {
+        "id": 174,
+        "junxian": 23,
+        "level": 4,
+        "renown": 1900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2400
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3036300
+            },
+            {
+                "type": 1,
+                "value": 60726000
+            }
+        ]
+    },
+    "175": {
+        "id": 175,
+        "junxian": 23,
+        "level": 5,
+        "renown": 1900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2400
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3071250
+            },
+            {
+                "type": 1,
+                "value": 61425000
+            }
+        ]
+    },
+    "176": {
+        "id": 176,
+        "junxian": 23,
+        "level": 6,
+        "renown": 1950,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2400
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3106400
+            },
+            {
+                "type": 1,
+                "value": 62128000
+            }
+        ]
+    },
+    "177": {
+        "id": 177,
+        "junxian": 23,
+        "level": 7,
+        "renown": 1950,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2400
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3141750
+            },
+            {
+                "type": 1,
+                "value": 62835000
+            }
+        ]
+    },
+    "178": {
+        "id": 178,
+        "junxian": 23,
+        "level": 8,
+        "renown": 1950,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2400
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3177300
+            },
+            {
+                "type": 1,
+                "value": 63546000
+            }
+        ]
+    },
+    "179": {
+        "id": 179,
+        "junxian": 24,
+        "level": 1,
+        "renown": 2000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2500
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3213050
+            },
+            {
+                "type": 1,
+                "value": 64261000
+            }
+        ]
+    },
+    "180": {
+        "id": 180,
+        "junxian": 24,
+        "level": 2,
+        "renown": 2000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2500
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3249000
+            },
+            {
+                "type": 1,
+                "value": 64980000
+            }
+        ]
+    },
+    "181": {
+        "id": 181,
+        "junxian": 24,
+        "level": 3,
+        "renown": 2000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2500
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3285150
+            },
+            {
+                "type": 1,
+                "value": 65703000
+            }
+        ]
+    },
+    "182": {
+        "id": 182,
+        "junxian": 24,
+        "level": 4,
+        "renown": 2000,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2500
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3321500
+            },
+            {
+                "type": 1,
+                "value": 66430000
+            }
+        ]
+    },
+    "183": {
+        "id": 183,
+        "junxian": 24,
+        "level": 5,
+        "renown": 2100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2500
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3358050
+            },
+            {
+                "type": 1,
+                "value": 67161000
+            }
+        ]
+    },
+    "184": {
+        "id": 184,
+        "junxian": 24,
+        "level": 6,
+        "renown": 2100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2500
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3394800
+            },
+            {
+                "type": 1,
+                "value": 67896000
+            }
+        ]
+    },
+    "185": {
+        "id": 185,
+        "junxian": 24,
+        "level": 7,
+        "renown": 2100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2500
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3431750
+            },
+            {
+                "type": 1,
+                "value": 68635000
+            }
+        ]
+    },
+    "186": {
+        "id": 186,
+        "junxian": 24,
+        "level": 8,
+        "renown": 2100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2500
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3468900
+            },
+            {
+                "type": 1,
+                "value": 69378000
+            }
+        ]
+    },
+    "187": {
+        "id": 187,
+        "junxian": 25,
+        "level": 1,
+        "renown": 2300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2600
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3506250
+            },
+            {
+                "type": 1,
+                "value": 70125000
+            }
+        ]
+    },
+    "188": {
+        "id": 188,
+        "junxian": 25,
+        "level": 2,
+        "renown": 2300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2600
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3543800
+            },
+            {
+                "type": 1,
+                "value": 70876000
+            }
+        ]
+    },
+    "189": {
+        "id": 189,
+        "junxian": 25,
+        "level": 3,
+        "renown": 2300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2600
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3581550
+            },
+            {
+                "type": 1,
+                "value": 71631000
+            }
+        ]
+    },
+    "190": {
+        "id": 190,
+        "junxian": 25,
+        "level": 4,
+        "renown": 2300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2600
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3619500
+            },
+            {
+                "type": 1,
+                "value": 72390000
+            }
+        ]
+    },
+    "191": {
+        "id": 191,
+        "junxian": 25,
+        "level": 5,
+        "renown": 2500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2600
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3657650
+            },
+            {
+                "type": 1,
+                "value": 73153000
+            }
+        ]
+    },
+    "192": {
+        "id": 192,
+        "junxian": 25,
+        "level": 6,
+        "renown": 2500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2600
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3696000
+            },
+            {
+                "type": 1,
+                "value": 73920000
+            }
+        ]
+    },
+    "193": {
+        "id": 193,
+        "junxian": 25,
+        "level": 7,
+        "renown": 2500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2600
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3734550
+            },
+            {
+                "type": 1,
+                "value": 74691000
+            }
+        ]
+    },
+    "194": {
+        "id": 194,
+        "junxian": 25,
+        "level": 8,
+        "renown": 2500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2600
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3773300
+            },
+            {
+                "type": 1,
+                "value": 75466000
+            }
+        ]
+    },
+    "195": {
+        "id": 195,
+        "junxian": 26,
+        "level": 1,
+        "renown": 2800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2700
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3812250
+            },
+            {
+                "type": 1,
+                "value": 76245000
+            }
+        ]
+    },
+    "196": {
+        "id": 196,
+        "junxian": 26,
+        "level": 2,
+        "renown": 2800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2700
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3851400
+            },
+            {
+                "type": 1,
+                "value": 77028000
+            }
+        ]
+    },
+    "197": {
+        "id": 197,
+        "junxian": 26,
+        "level": 3,
+        "renown": 2800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2700
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3890750
+            },
+            {
+                "type": 1,
+                "value": 77815000
+            }
+        ]
+    },
+    "198": {
+        "id": 198,
+        "junxian": 26,
+        "level": 4,
+        "renown": 2800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2700
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3930300
+            },
+            {
+                "type": 1,
+                "value": 78606000
+            }
+        ]
+    },
+    "199": {
+        "id": 199,
+        "junxian": 26,
+        "level": 5,
+        "renown": 3100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2700
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 3970050
+            },
+            {
+                "type": 1,
+                "value": 79401000
+            }
+        ]
+    },
+    "200": {
+        "id": 200,
+        "junxian": 26,
+        "level": 6,
+        "renown": 3100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2700
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4010000
+            },
+            {
+                "type": 1,
+                "value": 80200000
+            }
+        ]
+    },
+    "201": {
+        "id": 201,
+        "junxian": 26,
+        "level": 7,
+        "renown": 3100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2700
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4050150
+            },
+            {
+                "type": 1,
+                "value": 81003000
+            }
+        ]
+    },
+    "202": {
+        "id": 202,
+        "junxian": 26,
+        "level": 8,
+        "renown": 3100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2700
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4090500
+            },
+            {
+                "type": 1,
+                "value": 81810000
+            }
+        ]
+    },
+    "203": {
+        "id": 203,
+        "junxian": 27,
+        "level": 1,
+        "renown": 3500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2800
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4131050
+            },
+            {
+                "type": 1,
+                "value": 82621000
+            }
+        ]
+    },
+    "204": {
+        "id": 204,
+        "junxian": 27,
+        "level": 2,
+        "renown": 3500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2800
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4171800
+            },
+            {
+                "type": 1,
+                "value": 83436000
+            }
+        ]
+    },
+    "205": {
+        "id": 205,
+        "junxian": 27,
+        "level": 3,
+        "renown": 3500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2800
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4212750
+            },
+            {
+                "type": 1,
+                "value": 84255000
+            }
+        ]
+    },
+    "206": {
+        "id": 206,
+        "junxian": 27,
+        "level": 4,
+        "renown": 3500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2800
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4253900
+            },
+            {
+                "type": 1,
+                "value": 85078000
+            }
+        ]
+    },
+    "207": {
+        "id": 207,
+        "junxian": 27,
+        "level": 5,
+        "renown": 3900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2800
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4295250
+            },
+            {
+                "type": 1,
+                "value": 85905000
+            }
+        ]
+    },
+    "208": {
+        "id": 208,
+        "junxian": 27,
+        "level": 6,
+        "renown": 3900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2800
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4336800
+            },
+            {
+                "type": 1,
+                "value": 86736000
+            }
+        ]
+    },
+    "209": {
+        "id": 209,
+        "junxian": 27,
+        "level": 7,
+        "renown": 3900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2800
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4378550
+            },
+            {
+                "type": 1,
+                "value": 87571000
+            }
+        ]
+    },
+    "210": {
+        "id": 210,
+        "junxian": 27,
+        "level": 8,
+        "renown": 3900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2800
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4420500
+            },
+            {
+                "type": 1,
+                "value": 88410000
+            }
+        ]
+    },
+    "211": {
+        "id": 211,
+        "junxian": 28,
+        "level": 1,
+        "renown": 4400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2900
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4462650
+            },
+            {
+                "type": 1,
+                "value": 89253000
+            }
+        ]
+    },
+    "212": {
+        "id": 212,
+        "junxian": 28,
+        "level": 2,
+        "renown": 4400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2900
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4505000
+            },
+            {
+                "type": 1,
+                "value": 90100000
+            }
+        ]
+    },
+    "213": {
+        "id": 213,
+        "junxian": 28,
+        "level": 3,
+        "renown": 4400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2900
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4547550
+            },
+            {
+                "type": 1,
+                "value": 90951000
+            }
+        ]
+    },
+    "214": {
+        "id": 214,
+        "junxian": 28,
+        "level": 4,
+        "renown": 4400,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2900
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4590300
+            },
+            {
+                "type": 1,
+                "value": 91806000
+            }
+        ]
+    },
+    "215": {
+        "id": 215,
+        "junxian": 28,
+        "level": 5,
+        "renown": 4900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2900
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4633250
+            },
+            {
+                "type": 1,
+                "value": 92665000
+            }
+        ]
+    },
+    "216": {
+        "id": 216,
+        "junxian": 28,
+        "level": 6,
+        "renown": 4900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2900
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4676400
+            },
+            {
+                "type": 1,
+                "value": 93528000
+            }
+        ]
+    },
+    "217": {
+        "id": 217,
+        "junxian": 28,
+        "level": 7,
+        "renown": 4900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2900
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4719750
+            },
+            {
+                "type": 1,
+                "value": 94395000
+            }
+        ]
+    },
+    "218": {
+        "id": 218,
+        "junxian": 28,
+        "level": 8,
+        "renown": 4900,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2900
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4763300
+            },
+            {
+                "type": 1,
+                "value": 95266000
+            }
+        ]
+    },
+    "219": {
+        "id": 219,
+        "junxian": 29,
+        "level": 1,
+        "renown": 5500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4807050
+            },
+            {
+                "type": 1,
+                "value": 96141000
+            }
+        ]
+    },
+    "220": {
+        "id": 220,
+        "junxian": 29,
+        "level": 2,
+        "renown": 5500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4851000
+            },
+            {
+                "type": 1,
+                "value": 97020000
+            }
+        ]
+    },
+    "221": {
+        "id": 221,
+        "junxian": 29,
+        "level": 3,
+        "renown": 5500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4895150
+            },
+            {
+                "type": 1,
+                "value": 97903000
+            }
+        ]
+    },
+    "222": {
+        "id": 222,
+        "junxian": 29,
+        "level": 4,
+        "renown": 5500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4939500
+            },
+            {
+                "type": 1,
+                "value": 98790000
+            }
+        ]
+    },
+    "223": {
+        "id": 223,
+        "junxian": 29,
+        "level": 5,
+        "renown": 6100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 4984050
+            },
+            {
+                "type": 1,
+                "value": 99681000
+            }
+        ]
+    },
+    "224": {
+        "id": 224,
+        "junxian": 29,
+        "level": 6,
+        "renown": 6100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5028800
+            },
+            {
+                "type": 1,
+                "value": 100576000
+            }
+        ]
+    },
+    "225": {
+        "id": 225,
+        "junxian": 29,
+        "level": 7,
+        "renown": 6100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5073750
+            },
+            {
+                "type": 1,
+                "value": 101475000
+            }
+        ]
+    },
+    "226": {
+        "id": 226,
+        "junxian": 29,
+        "level": 8,
+        "renown": 6100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5118900
+            },
+            {
+                "type": 1,
+                "value": 102378000
+            }
+        ]
+    },
+    "227": {
+        "id": 227,
+        "junxian": 30,
+        "level": 1,
+        "renown": 6800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3100
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5164250
+            },
+            {
+                "type": 1,
+                "value": 103285000
+            }
+        ]
+    },
+    "228": {
+        "id": 228,
+        "junxian": 30,
+        "level": 2,
+        "renown": 6800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3100
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5209800
+            },
+            {
+                "type": 1,
+                "value": 104196000
+            }
+        ]
+    },
+    "229": {
+        "id": 229,
+        "junxian": 30,
+        "level": 3,
+        "renown": 6800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3100
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5255550
+            },
+            {
+                "type": 1,
+                "value": 105111000
+            }
+        ]
+    },
+    "230": {
+        "id": 230,
+        "junxian": 30,
+        "level": 4,
+        "renown": 6800,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3100
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5301500
+            },
+            {
+                "type": 1,
+                "value": 106030000
+            }
+        ]
+    },
+    "231": {
+        "id": 231,
+        "junxian": 30,
+        "level": 5,
+        "renown": 7500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3100
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5347650
+            },
+            {
+                "type": 1,
+                "value": 106953000
+            }
+        ]
+    },
+    "232": {
+        "id": 232,
+        "junxian": 30,
+        "level": 6,
+        "renown": 7500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3100
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5394000
+            },
+            {
+                "type": 1,
+                "value": 107880000
+            }
+        ]
+    },
+    "233": {
+        "id": 233,
+        "junxian": 30,
+        "level": 7,
+        "renown": 7500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3100
+            },
+            {
+                "type": 1,
+                "id": 1010000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5440550
+            },
+            {
+                "type": 1,
+                "value": 108811000
+            }
+        ]
+    },
+    "234": {
+        "id": 234,
+        "junxian": 30,
+        "level": 8,
+        "renown": 7500,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3100
+            },
+            {
+                "type": 1,
+                "id": 1081000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5487300
+            },
+            {
+                "type": 1,
+                "value": 109746000
+            }
+        ]
+    },
+    "235": {
+        "id": 235,
+        "junxian": 31,
+        "level": 1,
+        "renown": 8300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3200
+            },
+            {
+                "type": 1,
+                "id": 1082000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5534250
+            },
+            {
+                "type": 1,
+                "value": 110685000
+            }
+        ]
+    },
+    "236": {
+        "id": 236,
+        "junxian": 31,
+        "level": 2,
+        "renown": 8300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3200
+            },
+            {
+                "type": 1,
+                "id": 1083000,
+                "count": 20
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5581400
+            },
+            {
+                "type": 1,
+                "value": 111628000
+            }
+        ]
+    },
+    "237": {
+        "id": 237,
+        "junxian": 31,
+        "level": 3,
+        "renown": 8300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3200
+            },
+            {
+                "type": 1,
+                "id": 1071001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5628750
+            },
+            {
+                "type": 1,
+                "value": 112575000
+            }
+        ]
+    },
+    "238": {
+        "id": 238,
+        "junxian": 31,
+        "level": 4,
+        "renown": 8300,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3200
+            },
+            {
+                "type": 1,
+                "id": 1061001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5676300
+            },
+            {
+                "type": 1,
+                "value": 113526000
+            }
+        ]
+    },
+    "239": {
+        "id": 239,
+        "junxian": 31,
+        "level": 5,
+        "renown": 9100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3200
+            },
+            {
+                "type": 1,
+                "id": 1051001,
+                "count": 30
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5724050
+            },
+            {
+                "type": 1,
+                "value": 114481000
+            }
+        ]
+    },
+    "240": {
+        "id": 240,
+        "junxian": 31,
+        "level": 6,
+        "renown": 9100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3200
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5772000
+            },
+            {
+                "type": 1,
+                "value": 115440000
+            }
+        ]
+    },
+    "241": {
+        "id": 241,
+        "junxian": 31,
+        "level": 7,
+        "renown": 9100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3200
+            },
+            {
+                "type": 1,
+                "id": 310016,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5820150
+            },
+            {
+                "type": 1,
+                "value": 116403000
+            }
+        ]
+    },
+    "242": {
+        "id": 242,
+        "junxian": 31,
+        "level": 8,
+        "renown": 9100,
+        "rewards": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3200
+            },
+            {
+                "type": 1,
+                "id": 310013,
+                "count": 2
+            }
+        ],
+        "attr": [
+            {
+                "type": 32,
+                "value": 5868500
+            },
+            {
+                "type": 1,
+                "value": 117370000
+            }
+        ]
+    }
+}

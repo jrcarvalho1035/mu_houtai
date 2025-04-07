@@ -1,0 +1,170 @@
+{
+    "1": {
+        "id": 1,
+        "type": 1,
+        "head": "Deity Libationer",
+        "content": "Party King|C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 1
+    },
+    "2": {
+        "id": 2,
+        "type": 1,
+        "head": "God Libationer",
+        "content": "Party Master|C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 2
+    },
+    "3": {
+        "id": 3,
+        "type": 1,
+        "head": "Succession Libationer",
+        "content": "Party Expert|C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 3
+    },
+    "17": {
+        "id": 17,
+        "type": 2,
+        "head": "Ritual Rotation",
+        "content": "Congrats to |C:0x00ff00&T:$name$| for gaining the party rewards \nThe whole server has now entered a new round of party\n|S:16&T:(Basic Rewards will be issued via mails)|",
+        "effId": 0
+    },
+    "21": {
+        "id": 21,
+        "type": 3,
+        "head": "Guild Territory",
+        "content": "|S:32&C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 4
+    },
+    "22": {
+        "id": 22,
+        "type": 3,
+        "head": "Guild Territory",
+        "content": "|S:32&C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 3
+    },
+    "23": {
+        "id": 23,
+        "type": 3,
+        "head": "Guild Territory",
+        "content": "|S:32&C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 2
+    },
+    "24": {
+        "id": 24,
+        "type": 3,
+        "head": "Guild Territory",
+        "content": "|S:32&C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 1
+    },
+    "30": {
+        "id": 30,
+        "type": 1,
+        "head": "Deity Libationer",
+        "content": "Party King|C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 5
+    },
+    "31": {
+        "id": 31,
+        "type": 1,
+        "head": "God Libationer",
+        "content": "Party Master|C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 6
+    },
+    "32": {
+        "id": 32,
+        "type": 1,
+        "head": "Succession Libationer",
+        "content": "Party Expert|C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 7
+    },
+    "33": {
+        "id": 33,
+        "type": 2,
+        "head": "Ritual Rotation",
+        "content": "Congrats to |C:0x00ff00&T:$name$| for gaining the party rewards \nThe whole server has now entered a new round of party\n|S:16&T:(Basic Rewards will be issued via mails)|",
+        "effId": 8
+    },
+    "40": {
+        "id": 40,
+        "type": 4,
+        "head": "Strongest Lord",
+        "content": "Strongest Lord|C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 1
+    },
+    "41": {
+        "id": 41,
+        "type": 4,
+        "head": "The Only Prime",
+        "content": "The Only Prime|C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 2
+    },
+    "42": {
+        "id": 42,
+        "type": 4,
+        "head": "Overlord King",
+        "content": "Overlord King|C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 3
+    },
+    "43": {
+        "id": 43,
+        "type": 4,
+        "head": "Excellent Ace",
+        "content": "Excellent Ace|C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 4
+    },
+    "50": {
+        "id": 50,
+        "type": 1,
+        "head": "Ancestor Worship",
+        "content": "Ancestor Worship |C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 1
+    },
+    "51": {
+        "id": 51,
+        "type": 1,
+        "head": "Qingming Hiking",
+        "content": "Qingming Hiking |C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 2
+    },
+    "52": {
+        "id": 52,
+        "type": 1,
+        "head": "Respect Ancestor",
+        "content": "Respect Ancestor |C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 3
+    },
+    "53": {
+        "id": 53,
+        "type": 2,
+        "head": "Qingming Rotation",
+        "content": "Congrats to |C:0x00ff00&T:$name$| on getting the Hiking Gift\nThe server now enters a new round of Qingming Banquet\n|(Rewards will be issued via mail)|",
+        "effId": 0
+    },
+    "54": {
+        "id": 54,
+        "type": 1,
+        "head": "Love Forever",
+        "content": "Love Forever |C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 5
+    },
+    "55": {
+        "id": 55,
+        "type": 1,
+        "head": "Rosy Love",
+        "content": "Rosy Love |C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 6
+    },
+    "56": {
+        "id": 56,
+        "type": 1,
+        "head": "Intimate Love",
+        "content": "Intimate Love |C:0x00ff00&T:$name$|\n visits the Excelllent Land",
+        "effId": 7
+    },
+    "57": {
+        "id": 57,
+        "type": 2,
+        "head": "Love Rotation",
+        "content": "Congrats to |C:0x00ff00&T:$name$| on getting the Love Gift\nThe server now enters a new round of Love Story\n|(Rewards will be issued via mail)|",
+        "effId": 8
+    }
+}

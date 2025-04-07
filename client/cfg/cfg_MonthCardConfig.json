@@ -1,0 +1,32 @@
+{
+    "money": 2800,
+    "buyDay": 30,
+    "mailHead": "Month Pass Reward Diamond",
+    "mailContext": "Dear Month Pass User, please claim your daily diamond benefit from the attachment!",
+    "mailAward": [
+        {
+            "type": 0,
+            "id": 2,
+            "count": 3000
+        }
+    ],
+    "endMailHead": "Month Pass End",
+    "endMailContext": "Dear Month Pass User, your month pass has expired!",
+    "attr": [
+        {
+            "type": 18,
+            "value": 500
+        },
+        {
+            "type": 25,
+            "value": 1000
+        },
+        {
+            "type": 33,
+            "value": 1000
+        }
+    ],
+    "multiple": 2,
+    "quickFightPlus": 1000,
+    "diamond": 280
+}

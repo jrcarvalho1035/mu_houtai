@@ -1,0 +1,2164 @@
+{
+    "1": {
+        "id": 1,
+        "zslevel": 10204,
+        "endzslevel": 10204,
+        "fbId": 84001,
+        "bossId": 84001,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "zslevel": 10204,
+        "endzslevel": 10204,
+        "fbId": 84002,
+        "bossId": 84002,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "zslevel": 10301,
+        "endzslevel": 10301,
+        "fbId": 84003,
+        "bossId": 84003,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "zslevel": 10301,
+        "endzslevel": 10301,
+        "fbId": 84004,
+        "bossId": 84004,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "zslevel": 10401,
+        "endzslevel": 10401,
+        "fbId": 84005,
+        "bossId": 84005,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "zslevel": 10401,
+        "endzslevel": 10401,
+        "fbId": 84006,
+        "bossId": 84006,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "7": {
+        "id": 7,
+        "zslevel": 10501,
+        "endzslevel": 10501,
+        "fbId": 84007,
+        "bossId": 84007,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "8": {
+        "id": 8,
+        "zslevel": 10501,
+        "endzslevel": 10501,
+        "fbId": 84008,
+        "bossId": 84008,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "9": {
+        "id": 9,
+        "zslevel": 10601,
+        "endzslevel": 10601,
+        "fbId": 84009,
+        "bossId": 84009,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "10": {
+        "id": 10,
+        "zslevel": 10601,
+        "endzslevel": 10601,
+        "fbId": 84010,
+        "bossId": 84010,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "11": {
+        "id": 11,
+        "zslevel": 10701,
+        "endzslevel": 10701,
+        "fbId": 84011,
+        "bossId": 84011,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "12": {
+        "id": 12,
+        "zslevel": 10701,
+        "endzslevel": 10701,
+        "fbId": 84012,
+        "bossId": 84012,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "13": {
+        "id": 13,
+        "zslevel": 10801,
+        "endzslevel": 10801,
+        "fbId": 84013,
+        "bossId": 84013,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "14": {
+        "id": 14,
+        "zslevel": 10801,
+        "endzslevel": 10801,
+        "fbId": 84014,
+        "bossId": 84014,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "15": {
+        "id": 15,
+        "zslevel": 10901,
+        "endzslevel": 10901,
+        "fbId": 84015,
+        "bossId": 84015,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "16": {
+        "id": 16,
+        "zslevel": 10901,
+        "endzslevel": 10901,
+        "fbId": 84016,
+        "bossId": 84016,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "17": {
+        "id": 17,
+        "zslevel": 11001,
+        "endzslevel": 11001,
+        "fbId": 84017,
+        "bossId": 84017,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "18": {
+        "id": 18,
+        "zslevel": 11001,
+        "endzslevel": 11001,
+        "fbId": 84018,
+        "bossId": 84018,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "19": {
+        "id": 19,
+        "zslevel": 11101,
+        "endzslevel": 11101,
+        "fbId": 84019,
+        "bossId": 84019,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "20": {
+        "id": 20,
+        "zslevel": 11101,
+        "endzslevel": 11101,
+        "fbId": 84020,
+        "bossId": 84020,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "21": {
+        "id": 21,
+        "zslevel": 11201,
+        "endzslevel": 11201,
+        "fbId": 84021,
+        "bossId": 84021,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "22": {
+        "id": 22,
+        "zslevel": 11201,
+        "endzslevel": 11201,
+        "fbId": 84022,
+        "bossId": 84022,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "23": {
+        "id": 23,
+        "zslevel": 11301,
+        "endzslevel": 11301,
+        "fbId": 84023,
+        "bossId": 84023,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "24": {
+        "id": 24,
+        "zslevel": 11301,
+        "endzslevel": 11301,
+        "fbId": 84024,
+        "bossId": 84024,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "25": {
+        "id": 25,
+        "zslevel": 11401,
+        "endzslevel": 11401,
+        "fbId": 84025,
+        "bossId": 84025,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "26": {
+        "id": 26,
+        "zslevel": 11401,
+        "endzslevel": 11401,
+        "fbId": 84026,
+        "bossId": 84026,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "27": {
+        "id": 27,
+        "zslevel": 11501,
+        "endzslevel": 11501,
+        "fbId": 84027,
+        "bossId": 84027,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    },
+    "28": {
+        "id": 28,
+        "zslevel": 11501,
+        "endzslevel": 11501,
+        "fbId": 84028,
+        "bossId": 84028,
+        "desc": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310903,
+                "count": 0
+            }
+        ],
+        "rewardDesc": "1. The first player who dealt damage to the boss will gain the ownership\n2. The ownership will be handed over if the player with the ownership is defeated by other player. \n3. Upon the death of boss, the player who has the final ownership will have the ownership rewards",
+        "firstReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ],
+        "otherReward": [
+            {
+                "type": 1,
+                "id": 310902,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310901,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310900,
+                "count": 0
+            },
+            {
+                "type": 1,
+                "id": 310904,
+                "count": 0
+            }
+        ]
+    }
+}

@@ -1,0 +1,242 @@
+{
+    "1": {
+        "id": 1,
+        "skillname": "Protection Power",
+        "maxLevel": 5000,
+        "power": 0,
+        "cost": {
+            "id": 1093001,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 1,
+                "value": 12000
+            },
+            {
+                "type": 4,
+                "value": 400
+            }
+        ],
+        "quality": 2,
+        "desc": "Character Base Stats increases"
+    },
+    "2": {
+        "id": 2,
+        "skillname": "Sacred Light Protection",
+        "maxLevel": 3000,
+        "power": 0,
+        "cost": {
+            "id": 1093002,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 1,
+                "value": 30000
+            },
+            {
+                "type": 4,
+                "value": 500
+            },
+            {
+                "type": 6,
+                "value": 2500
+            }
+        ],
+        "quality": 3,
+        "desc": "Character Base Stats increases"
+    },
+    "3": {
+        "id": 3,
+        "skillname": "Lava Shield",
+        "maxLevel": 2000,
+        "power": 0,
+        "cost": {
+            "id": 1093003,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 1,
+                "value": 90000
+            },
+            {
+                "type": 4,
+                "value": 1500
+            },
+            {
+                "type": 6,
+                "value": 7500
+            },
+            {
+                "type": 87,
+                "value": 160000
+            }
+        ],
+        "quality": 4,
+        "desc": "Character Base Stats increases"
+    },
+    "4": {
+        "id": 4,
+        "skillname": "Psychic Shock",
+        "maxLevel": 1000,
+        "power": 0,
+        "cost": {
+            "id": 1093004,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 1,
+                "value": 750000
+            },
+            {
+                "type": 4,
+                "value": 12500
+            },
+            {
+                "type": 6,
+                "value": 62500
+            },
+            {
+                "type": 87,
+                "value": 2000000
+            }
+        ],
+        "quality": 5,
+        "desc": "Character Base Stats increases"
+    },
+    "5": {
+        "id": 5,
+        "skillname": "Karma Realm",
+        "maxLevel": 300,
+        "power": 500000,
+        "cost": {
+            "id": 1093005,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 1,
+                "value": 750000
+            },
+            {
+                "type": 4,
+                "value": 12500
+            },
+            {
+                "type": 6,
+                "value": 62500
+            },
+            {
+                "type": 87,
+                "value": 2000000
+            },
+            {
+                "type": 91,
+                "value": 200
+            }
+        ],
+        "quality": 5,
+        "desc": "Character Base Stats increases, all skill book basic stats |C:0x13ee22&T:+{91}|"
+    },
+    "6": {
+        "id": 6,
+        "skillname": "Defense Mastery",
+        "maxLevel": 300,
+        "power": 0,
+        "cost": {
+            "id": 1093006,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 1,
+                "value": 30000
+            },
+            {
+                "type": 4,
+                "value": 500
+            },
+            {
+                "type": 6,
+                "value": 2500
+            },
+            {
+                "type": 87,
+                "value": 80000
+            }
+        ],
+        "quality": 3,
+        "desc": "Character Base Stats increases, shield point |C:0x13ee22&T:+{87}| points"
+    },
+    "7": {
+        "id": 7,
+        "skillname": "God's Grace",
+        "maxLevel": 300,
+        "power": 50000,
+        "cost": {
+            "id": 1093007,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 1,
+                "value": 90000
+            },
+            {
+                "type": 4,
+                "value": 1500
+            },
+            {
+                "type": 6,
+                "value": 7500
+            },
+            {
+                "type": 87,
+                "value": 160000
+            },
+            {
+                "type": 93,
+                "value": 100
+            }
+        ],
+        "quality": 4,
+        "desc": "Character Base Stats increases, restoring |C:0x13ee22&T:{93}| shields points every 5s"
+    },
+    "8": {
+        "id": 8,
+        "skillname": "Perfect Guardian",
+        "maxLevel": 300,
+        "power": 500000,
+        "cost": {
+            "id": 1093008,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 1,
+                "value": 750000
+            },
+            {
+                "type": 4,
+                "value": 12500
+            },
+            {
+                "type": 6,
+                "value": 62500
+            },
+            {
+                "type": 87,
+                "value": 2000000
+            },
+            {
+                "type": 92,
+                "value": 50
+            }
+        ],
+        "quality": 5,
+        "desc": "Character Base Stats increases, damage reduces by |C:0x13ee22&T:{92}| in shield status"
+    }
+}

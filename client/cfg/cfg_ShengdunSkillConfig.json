@@ -1,0 +1,67 @@
+{
+    "1": {
+        "id": 1,
+        "stage": 2,
+        "name": "Sacred Light Shield",
+        "attr": [
+            {
+                "type": 27,
+                "value": 20000
+            }
+        ],
+        "power": 0,
+        "desc": "Unlockable when Sacred Shield is activated to T2"
+    },
+    "2": {
+        "id": 2,
+        "stage": 4,
+        "name": "Death Resistance",
+        "attr": [
+            {
+                "type": 64,
+                "value": 200
+            }
+        ],
+        "power": 500000,
+        "desc": "Unlockable when Sacred Shield is activated to T4"
+    },
+    "3": {
+        "id": 3,
+        "stage": 6,
+        "name": "Pious Faith",
+        "attr": [
+            {
+                "type": 60,
+                "value": 300
+            }
+        ],
+        "power": 1500000,
+        "desc": "Unlockable when Sacred Shield is activated to T6"
+    },
+    "4": {
+        "id": 4,
+        "stage": 8,
+        "name": "Sacred Light Shinning",
+        "attr": [
+            {
+                "type": 44,
+                "value": 400
+            }
+        ],
+        "power": 3000000,
+        "desc": "Unlockable when Sacred Shield is activated to T8"
+    },
+    "5": {
+        "id": 5,
+        "stage": 10,
+        "name": "Extreme Defense",
+        "attr": [
+            {
+                "type": 23,
+                "value": 500
+            }
+        ],
+        "power": 5000000,
+        "desc": "Unlockable when Sacred Shield is activated to T10"
+    }
+}

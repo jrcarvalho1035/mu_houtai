@@ -1,0 +1,35 @@
+{
+    "1": {
+        "index": 1,
+        "needyuanbao": 2000,
+        "reward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 4000
+            }
+        ]
+    },
+    "2": {
+        "index": 2,
+        "needyuanbao": 3000,
+        "reward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 6000
+            }
+        ]
+    },
+    "3": {
+        "index": 3,
+        "needyuanbao": 5000,
+        "reward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 10000
+            }
+        ]
+    }
+}

@@ -1,0 +1,962 @@
+{
+    "0": {
+        "id": 0,
+        "baseAttrs": [],
+        "needitem": [],
+        "maxLevel": 0,
+        "power": 0,
+        "shieldPer": 0,
+        "desc": "Event",
+        "quality": 3,
+        "bodyId": 100
+    },
+    "1": {
+        "id": 1,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 180000
+            },
+            {
+                "type": 6,
+                "value": 20000
+            },
+            {
+                "type": 87,
+                "value": 300000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089001,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "power": 200000,
+        "shieldPer": 200,
+        "desc": "Event",
+        "quality": 3,
+        "bodyId": 101
+    },
+    "2": {
+        "id": 2,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 360000
+            },
+            {
+                "type": 43,
+                "value": 20000
+            },
+            {
+                "type": 87,
+                "value": 600000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089002,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "power": 300000,
+        "shieldPer": 200,
+        "desc": "Event",
+        "quality": 3,
+        "bodyId": 102
+    },
+    "3": {
+        "id": 3,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 400000
+            },
+            {
+                "type": 4,
+                "value": 10000
+            },
+            {
+                "type": 6,
+                "value": 40000
+            },
+            {
+                "type": 87,
+                "value": 760000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089003,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "power": 500000,
+        "shieldPer": 500,
+        "desc": "Event",
+        "quality": 4,
+        "bodyId": 103
+    },
+    "4": {
+        "id": 4,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 800000
+            },
+            {
+                "type": 4,
+                "value": 20000
+            },
+            {
+                "type": 43,
+                "value": 100000
+            },
+            {
+                "type": 87,
+                "value": 1600000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089004,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1500,
+        "power": 1000000,
+        "shieldPer": 500,
+        "desc": "Event",
+        "quality": 4,
+        "bodyId": 104
+    },
+    "5": {
+        "id": 5,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 1600000
+            },
+            {
+                "type": 4,
+                "value": 40000
+            },
+            {
+                "type": 6,
+                "value": 160000
+            },
+            {
+                "type": 87,
+                "value": 3040000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089005,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1500,
+        "power": 2000000,
+        "shieldPer": 500,
+        "desc": "Event",
+        "quality": 4,
+        "bodyId": 105
+    },
+    "6": {
+        "id": 6,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 4000000
+            },
+            {
+                "type": 4,
+                "value": 100000
+            },
+            {
+                "type": 43,
+                "value": 500000
+            },
+            {
+                "type": 87,
+                "value": 8000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089006,
+                "count": 1
+            }
+        ],
+        "maxLevel": 1500,
+        "power": 5000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 5,
+        "bodyId": 106
+    },
+    "7": {
+        "id": 7,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 8000000
+            },
+            {
+                "type": 4,
+                "value": 200000
+            },
+            {
+                "type": 6,
+                "value": 800000
+            },
+            {
+                "type": 87,
+                "value": 15200000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089007,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 10000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 5,
+        "bodyId": 107
+    },
+    "8": {
+        "id": 8,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 12000000
+            },
+            {
+                "type": 4,
+                "value": 300000
+            },
+            {
+                "type": 43,
+                "value": 1500000
+            },
+            {
+                "type": 87,
+                "value": 24000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089008,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 15000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 5,
+        "bodyId": 108
+    },
+    "9": {
+        "id": 9,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 43,
+                "value": 2000000
+            },
+            {
+                "type": 87,
+                "value": 32000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089009,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 109
+    },
+    "10": {
+        "id": 10,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 17600000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 87,
+                "value": 30400000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089010,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 110
+    },
+    "11": {
+        "id": 11,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 480000
+            },
+            {
+                "type": 6,
+                "value": 1400000
+            },
+            {
+                "type": 87,
+                "value": 32000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089011,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 111
+    },
+    "12": {
+        "id": 12,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 87,
+                "value": 28000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089012,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 112
+    },
+    "13": {
+        "id": 13,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 480000
+            },
+            {
+                "type": 43,
+                "value": 2000000
+            },
+            {
+                "type": 87,
+                "value": 32000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089013,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 113
+    },
+    "14": {
+        "id": 14,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 496000
+            },
+            {
+                "type": 43,
+                "value": 1840000
+            },
+            {
+                "type": 87,
+                "value": 32000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089014,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 114
+    },
+    "15": {
+        "id": 15,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 496000
+            },
+            {
+                "type": 6,
+                "value": 1380000
+            },
+            {
+                "type": 87,
+                "value": 32000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089015,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 115
+    },
+    "16": {
+        "id": 16,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 480000
+            },
+            {
+                "type": 6,
+                "value": 1400000
+            },
+            {
+                "type": 87,
+                "value": 32000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089016,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 116
+    },
+    "17": {
+        "id": 17,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 17600000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 87,
+                "value": 30400000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089017,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 117
+    },
+    "18": {
+        "id": 18,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 480000
+            },
+            {
+                "type": 43,
+                "value": 2000000
+            },
+            {
+                "type": 87,
+                "value": 32000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089018,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 118
+    },
+    "19": {
+        "id": 19,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 496000
+            },
+            {
+                "type": 43,
+                "value": 1840000
+            },
+            {
+                "type": 87,
+                "value": 32000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089019,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 119
+    },
+    "20": {
+        "id": 20,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 17600000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 87,
+                "value": 30400000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089020,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 120
+    },
+    "21": {
+        "id": 21,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 480000
+            },
+            {
+                "type": 43,
+                "value": 2000000
+            },
+            {
+                "type": 87,
+                "value": 32000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089021,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 121
+    },
+    "22": {
+        "id": 22,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 496000
+            },
+            {
+                "type": 43,
+                "value": 1840000
+            },
+            {
+                "type": 87,
+                "value": 32000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089022,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 122
+    },
+    "23": {
+        "id": 23,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 17600000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 87,
+                "value": 30400000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089023,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 123
+    },
+    "24": {
+        "id": 24,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 87,
+                "value": 28000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089024,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 124
+    },
+    "25": {
+        "id": 25,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 480000
+            },
+            {
+                "type": 43,
+                "value": 2000000
+            },
+            {
+                "type": 87,
+                "value": 32000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089025,
+                "count": 1
+            }
+        ],
+        "maxLevel": 3000,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 125
+    },
+    "26": {
+        "id": 26,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 17600000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 87,
+                "value": 30400000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089026,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 126
+    },
+    "27": {
+        "id": 27,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 16000000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 87,
+                "value": 28000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089027,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 127
+    },
+    "28": {
+        "id": 28,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 480000
+            },
+            {
+                "type": 43,
+                "value": 2000000
+            },
+            {
+                "type": 87,
+                "value": 32000000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089028,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 128
+    },
+    "29": {
+        "id": 29,
+        "baseAttrs": [
+            {
+                "type": 1,
+                "value": 17600000
+            },
+            {
+                "type": 4,
+                "value": 400000
+            },
+            {
+                "type": 6,
+                "value": 1500000
+            },
+            {
+                "type": 87,
+                "value": 30400000
+            }
+        ],
+        "needitem": [
+            {
+                "id": 1089029,
+                "count": 1
+            }
+        ],
+        "maxLevel": 600,
+        "power": 20000000,
+        "shieldPer": 800,
+        "desc": "Event",
+        "quality": 7,
+        "bodyId": 129
+    }
+}

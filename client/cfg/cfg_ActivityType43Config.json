@@ -1,0 +1,4671 @@
+{
+    "21110": {
+        "id": 21110,
+        "subType": 1,
+        "refresh": 2,
+        "maxFreeCount": 5,
+        "costItemId": 450099,
+        "costDiamondId": 30,
+        "maxDiamondCount": 350,
+        "addscore": 10,
+        "costCount": {
+            "item": {
+                "1": 1,
+                "10": 9
+            },
+            "diamond": {
+                "1": 100,
+                "10": 900
+            }
+        },
+        "maxShowCount": 60,
+        "superRewards": [
+            {
+                "id": 1050009,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060023,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070039,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081036,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010138,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083031,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083048,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060005,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070010,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081016,
+                "maxtimes": 300,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1050004,
+                "maxtimes": 250,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010109,
+                "maxtimes": 80,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082008,
+                "maxtimes": 20,
+                "count": 1,
+                "rate": 0,
+                "show": 0
+            }
+        ],
+        "commonRewardPool": [
+            {
+                "id": 1070058,
+                "count": 1,
+                "rate": 2,
+                "show": 1
+            },
+            {
+                "id": 1050009,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070038,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083044,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010136,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081035,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1060023,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010137,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083045,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081036,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010138,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1052012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1087010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083014,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010115,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060005,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081015,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083017,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1070010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010119,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060006,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1072012,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1070008,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1010116,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1082014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1083015,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081016,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1050003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1050004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1052011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010111,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1082011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1081013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070005,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1083013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010109,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1082009,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1081009,
+                "count": 1,
+                "rate": 10.3,
+                "show": 0
+            },
+            {
+                "id": 1083009,
+                "count": 1,
+                "rate": 14,
+                "show": 0
+            },
+            {
+                "id": 1010108,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1081008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1082008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1083008,
+                "count": 1,
+                "rate": 19.6,
+                "show": 0
+            },
+            {
+                "id": 1010402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081502,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081602,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1051004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1061004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1071004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1084200,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310301,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310401,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310014,
+                "count": 1,
+                "rate": 305,
+                "show": 0
+            },
+            {
+                "id": 1010000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1082000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1083000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1081000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1061001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1051001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1071001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            }
+        ]
+    },
+    "21112": {
+        "id": 21112,
+        "subType": 1,
+        "refresh": 2,
+        "maxFreeCount": 5,
+        "costItemId": 450099,
+        "costDiamondId": 30,
+        "maxDiamondCount": 350,
+        "addscore": 10,
+        "costCount": {
+            "item": {
+                "1": 1,
+                "10": 9
+            },
+            "diamond": {
+                "1": 100,
+                "10": 900
+            }
+        },
+        "maxShowCount": 60,
+        "superRewards": [
+            {
+                "id": 1082039,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010136,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083041,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070040,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060013,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070045,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070050,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070036,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081012,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060006,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081014,
+                "maxtimes": 300,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010111,
+                "maxtimes": 250,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081009,
+                "maxtimes": 80,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083008,
+                "maxtimes": 20,
+                "count": 1,
+                "rate": 0,
+                "show": 0
+            }
+        ],
+        "commonRewardPool": [
+            {
+                "id": 1070058,
+                "count": 1,
+                "rate": 2,
+                "show": 1
+            },
+            {
+                "id": 1050009,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070038,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083044,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010136,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081035,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1060023,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010137,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083045,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081036,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010138,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1052012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1087010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083014,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010115,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060005,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081015,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083017,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1070010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010119,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060006,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1072012,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1070008,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1010116,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1082014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1083015,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081016,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1050003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1050004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1052011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010111,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1082011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1081013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070005,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1083013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010109,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1082009,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1081009,
+                "count": 1,
+                "rate": 10.3,
+                "show": 0
+            },
+            {
+                "id": 1083009,
+                "count": 1,
+                "rate": 14,
+                "show": 0
+            },
+            {
+                "id": 1010108,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1081008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1082008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1083008,
+                "count": 1,
+                "rate": 19.6,
+                "show": 0
+            },
+            {
+                "id": 1010402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081502,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081602,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1051004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1061004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1071004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1084200,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310301,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310401,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310014,
+                "count": 1,
+                "rate": 305,
+                "show": 0
+            },
+            {
+                "id": 1010000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1082000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1083000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1081000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1061001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1051001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1071001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            }
+        ]
+    },
+    "97110": {
+        "id": 97110,
+        "subType": 1,
+        "refresh": 2,
+        "maxFreeCount": 5,
+        "costItemId": 450099,
+        "costDiamondId": 30,
+        "maxDiamondCount": 350,
+        "addscore": 10,
+        "costCount": {
+            "item": {
+                "1": 1,
+                "10": 9
+            },
+            "diamond": {
+                "1": 100,
+                "10": 900
+            }
+        },
+        "maxShowCount": 60,
+        "superRewards": [
+            {
+                "id": 1050009,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1050007,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060020,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010133,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081031,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082024,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070041,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060023,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070039,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081036,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010138,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060005,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070010,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081016,
+                "maxtimes": 300,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1050004,
+                "maxtimes": 250,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010109,
+                "maxtimes": 80,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082008,
+                "maxtimes": 20,
+                "count": 1,
+                "rate": 0,
+                "show": 0
+            }
+        ],
+        "commonRewardPool": [
+            {
+                "id": 1082078,
+                "count": 1,
+                "rate": 2,
+                "show": 1
+            },
+            {
+                "id": 1082018,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070038,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083044,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010136,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081035,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1060023,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010137,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083045,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081036,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010138,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1052012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1087010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083014,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010115,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060005,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081015,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083017,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1070010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010119,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060006,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1072012,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1070008,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1010116,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1082014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1083015,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081016,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1050003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1050004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1052011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010111,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1082011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1081013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070005,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1083013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010109,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1082009,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1081009,
+                "count": 1,
+                "rate": 10.3,
+                "show": 0
+            },
+            {
+                "id": 1083009,
+                "count": 1,
+                "rate": 14,
+                "show": 0
+            },
+            {
+                "id": 1010108,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1081008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1082008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1083008,
+                "count": 1,
+                "rate": 19.6,
+                "show": 0
+            },
+            {
+                "id": 1010402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081502,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081602,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1051004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1061004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1071004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1084200,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310301,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310401,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310014,
+                "count": 1,
+                "rate": 305,
+                "show": 0
+            },
+            {
+                "id": 1010000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1082000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1083000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1081000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1061001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1051001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1071001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            }
+        ]
+    },
+    "97112": {
+        "id": 97112,
+        "subType": 1,
+        "refresh": 2,
+        "maxFreeCount": 5,
+        "costItemId": 450099,
+        "costDiamondId": 30,
+        "maxDiamondCount": 350,
+        "addscore": 10,
+        "costCount": {
+            "item": {
+                "1": 1,
+                "10": 9
+            },
+            "diamond": {
+                "1": 100,
+                "10": 900
+            }
+        },
+        "maxShowCount": 60,
+        "superRewards": [
+            {
+                "id": 1082039,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083023,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060016,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082032,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060015,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083020,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070020,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010136,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083041,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070040,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081014,
+                "maxtimes": 300,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081012,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060006,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010111,
+                "maxtimes": 250,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081009,
+                "maxtimes": 80,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083008,
+                "maxtimes": 20,
+                "count": 1,
+                "rate": 0,
+                "show": 0
+            }
+        ],
+        "commonRewardPool": [
+            {
+                "id": 1082078,
+                "count": 1,
+                "rate": 2,
+                "show": 1
+            },
+            {
+                "id": 1082018,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070038,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083044,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010136,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081035,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1060023,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010137,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083045,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081036,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010138,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1052012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1087010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083014,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010115,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060005,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081015,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083017,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1070010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010119,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060006,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1072012,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1070008,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1010116,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1082014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1083015,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081016,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1050003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1050004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1052011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010111,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1082011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1081013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070005,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1083013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010109,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1082009,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1081009,
+                "count": 1,
+                "rate": 10.3,
+                "show": 0
+            },
+            {
+                "id": 1083009,
+                "count": 1,
+                "rate": 14,
+                "show": 0
+            },
+            {
+                "id": 1010108,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1081008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1082008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1083008,
+                "count": 1,
+                "rate": 19.6,
+                "show": 0
+            },
+            {
+                "id": 1010402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081502,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081602,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1051004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1061004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1071004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1084200,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310301,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310401,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310014,
+                "count": 1,
+                "rate": 305,
+                "show": 0
+            },
+            {
+                "id": 1010000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1082000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1083000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1081000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1061001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1051001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1071001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            }
+        ]
+    },
+    "98110": {
+        "id": 98110,
+        "subType": 1,
+        "refresh": 2,
+        "maxFreeCount": 5,
+        "costItemId": 450099,
+        "costDiamondId": 30,
+        "maxDiamondCount": 350,
+        "addscore": 10,
+        "costCount": {
+            "item": {
+                "1": 1,
+                "10": 9
+            },
+            "diamond": {
+                "1": 100,
+                "10": 900
+            }
+        },
+        "maxShowCount": 60,
+        "superRewards": [
+            {
+                "id": 1050009,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1050007,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060020,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010133,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081031,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082024,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070041,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060023,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070039,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081036,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010138,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060005,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070010,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081016,
+                "maxtimes": 300,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1050004,
+                "maxtimes": 250,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010109,
+                "maxtimes": 80,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082008,
+                "maxtimes": 20,
+                "count": 1,
+                "rate": 0,
+                "show": 0
+            }
+        ],
+        "commonRewardPool": [
+            {
+                "id": 1089029,
+                "count": 1,
+                "rate": 2,
+                "show": 1
+            },
+            {
+                "id": 1082018,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070038,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083044,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010136,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081035,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1060023,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010137,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083045,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081036,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010138,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1052012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1087010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083014,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010115,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060005,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081015,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083017,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1070010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010119,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060006,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1072012,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1070008,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1010116,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1082014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1083015,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081016,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1050003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1050004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1052011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010111,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1082011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1081013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070005,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1083013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010109,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1082009,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1081009,
+                "count": 1,
+                "rate": 10.3,
+                "show": 0
+            },
+            {
+                "id": 1083009,
+                "count": 1,
+                "rate": 14,
+                "show": 0
+            },
+            {
+                "id": 1010108,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1081008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1082008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1083008,
+                "count": 1,
+                "rate": 19.6,
+                "show": 0
+            },
+            {
+                "id": 1010402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081502,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081602,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1051004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1061004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1071004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1084200,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310301,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310401,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310014,
+                "count": 1,
+                "rate": 305,
+                "show": 0
+            },
+            {
+                "id": 1010000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1082000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1083000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1081000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1061001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1051001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1071001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            }
+        ]
+    },
+    "98112": {
+        "id": 98112,
+        "subType": 1,
+        "refresh": 2,
+        "maxFreeCount": 5,
+        "costItemId": 450099,
+        "costDiamondId": 30,
+        "maxDiamondCount": 350,
+        "addscore": 10,
+        "costCount": {
+            "item": {
+                "1": 1,
+                "10": 9
+            },
+            "diamond": {
+                "1": 100,
+                "10": 900
+            }
+        },
+        "maxShowCount": 60,
+        "superRewards": [
+            {
+                "id": 1082039,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083023,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060016,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082032,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060015,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083020,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070020,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010136,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083041,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070040,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081014,
+                "maxtimes": 300,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081012,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060006,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010111,
+                "maxtimes": 250,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081009,
+                "maxtimes": 80,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083008,
+                "maxtimes": 20,
+                "count": 1,
+                "rate": 0,
+                "show": 0
+            }
+        ],
+        "commonRewardPool": [
+            {
+                "id": 1089029,
+                "count": 1,
+                "rate": 2,
+                "show": 1
+            },
+            {
+                "id": 1082018,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070038,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083044,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010136,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081035,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1060023,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010137,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083045,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081036,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010138,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1052012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1087010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083014,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010115,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060005,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081015,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083017,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1070010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010119,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060006,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1072012,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1070008,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1010116,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1082014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1083015,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081016,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1050003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1050004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1052011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010111,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1082011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1081013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070005,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1083013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010109,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1082009,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1081009,
+                "count": 1,
+                "rate": 10.3,
+                "show": 0
+            },
+            {
+                "id": 1083009,
+                "count": 1,
+                "rate": 14,
+                "show": 0
+            },
+            {
+                "id": 1010108,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1081008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1082008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1083008,
+                "count": 1,
+                "rate": 19.6,
+                "show": 0
+            },
+            {
+                "id": 1010402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081502,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081602,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1051004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1061004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1071004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1084200,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310301,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310401,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310014,
+                "count": 1,
+                "rate": 305,
+                "show": 0
+            },
+            {
+                "id": 1010000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1082000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1083000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1081000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1061001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1051001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1071001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            }
+        ]
+    },
+    "98710": {
+        "id": 98710,
+        "subType": 1,
+        "refresh": 2,
+        "maxFreeCount": 5,
+        "costItemId": 450099,
+        "costDiamondId": 30,
+        "maxDiamondCount": 350,
+        "addscore": 10,
+        "costCount": {
+            "item": {
+                "1": 1,
+                "10": 9
+            },
+            "diamond": {
+                "1": 100,
+                "10": 900
+            }
+        },
+        "maxShowCount": 60,
+        "superRewards": [
+            {
+                "id": 1050009,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1050007,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060020,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010133,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081031,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082024,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070041,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060023,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070039,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081036,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010138,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060005,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070010,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081016,
+                "maxtimes": 300,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1050004,
+                "maxtimes": 250,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010109,
+                "maxtimes": 80,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082008,
+                "maxtimes": 20,
+                "count": 1,
+                "rate": 0,
+                "show": 0
+            }
+        ],
+        "commonRewardPool": [
+            {
+                "id": 1070078,
+                "count": 1,
+                "rate": 2,
+                "show": 1
+            },
+            {
+                "id": 1082018,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070038,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083044,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010136,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081035,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1060023,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010137,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083045,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081036,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010138,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1052012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1087010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083014,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010115,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060005,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081015,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083017,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1070010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010119,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060006,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1072012,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1070008,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1010116,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1082014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1083015,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081016,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1050003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1050004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1052011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010111,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1082011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1081013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070005,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1083013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010109,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1082009,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1081009,
+                "count": 1,
+                "rate": 10.3,
+                "show": 0
+            },
+            {
+                "id": 1083009,
+                "count": 1,
+                "rate": 14,
+                "show": 0
+            },
+            {
+                "id": 1010108,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1081008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1082008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1083008,
+                "count": 1,
+                "rate": 19.6,
+                "show": 0
+            },
+            {
+                "id": 1010402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081502,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081602,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1051004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1061004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1071004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1084200,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310301,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310401,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310014,
+                "count": 1,
+                "rate": 305,
+                "show": 0
+            },
+            {
+                "id": 1010000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1082000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1083000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1081000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1061001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1051001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1071001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            }
+        ]
+    },
+    "98712": {
+        "id": 98712,
+        "subType": 1,
+        "refresh": 2,
+        "maxFreeCount": 5,
+        "costItemId": 450099,
+        "costDiamondId": 30,
+        "maxDiamondCount": 350,
+        "addscore": 10,
+        "costCount": {
+            "item": {
+                "1": 1,
+                "10": 9
+            },
+            "diamond": {
+                "1": 100,
+                "10": 900
+            }
+        },
+        "maxShowCount": 60,
+        "superRewards": [
+            {
+                "id": 1082039,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083023,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060016,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082032,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060015,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083020,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070020,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010136,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083041,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1070040,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "maxtimes": 500,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081014,
+                "maxtimes": 300,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081012,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1060006,
+                "maxtimes": 400,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1010111,
+                "maxtimes": 250,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1081009,
+                "maxtimes": 80,
+                "count": 1,
+                "rate": 0,
+                "show": 1
+            },
+            {
+                "id": 1083008,
+                "maxtimes": 20,
+                "count": 1,
+                "rate": 0,
+                "show": 0
+            }
+        ],
+        "commonRewardPool": [
+            {
+                "id": 1070078,
+                "count": 1,
+                "rate": 2,
+                "show": 1
+            },
+            {
+                "id": 1082018,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070038,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070039,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083044,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010136,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081035,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082040,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1060023,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010137,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1083045,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1081036,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1070037,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1082041,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1010138,
+                "count": 1,
+                "rate": 1.45,
+                "show": 1
+            },
+            {
+                "id": 1052012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081012,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1087010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083014,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010115,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060005,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1081015,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1083017,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1070010,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1010119,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1060006,
+                "count": 1,
+                "rate": 1.85,
+                "show": 1
+            },
+            {
+                "id": 1072012,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1070008,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1010116,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1082014,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1083015,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1081016,
+                "count": 1,
+                "rate": 2.25,
+                "show": 1
+            },
+            {
+                "id": 1050003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1050004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1052011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060003,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1060004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070004,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010111,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1082011,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1081013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1070005,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1083013,
+                "count": 1,
+                "rate": 2.4,
+                "show": 1
+            },
+            {
+                "id": 1010109,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1082009,
+                "count": 1,
+                "rate": 9,
+                "show": 0
+            },
+            {
+                "id": 1081009,
+                "count": 1,
+                "rate": 10.3,
+                "show": 0
+            },
+            {
+                "id": 1083009,
+                "count": 1,
+                "rate": 14,
+                "show": 0
+            },
+            {
+                "id": 1010108,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1081008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1082008,
+                "count": 1,
+                "rate": 17.5,
+                "show": 0
+            },
+            {
+                "id": 1083008,
+                "count": 1,
+                "rate": 19.6,
+                "show": 0
+            },
+            {
+                "id": 1010402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081402,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081502,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1081602,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1051004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1061004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1071004,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 1084200,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310301,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310401,
+                "count": 1,
+                "rate": 445,
+                "show": 0
+            },
+            {
+                "id": 310014,
+                "count": 1,
+                "rate": 305,
+                "show": 0
+            },
+            {
+                "id": 1010000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1082000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1083000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1081000,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1061001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1051001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            },
+            {
+                "id": 1071001,
+                "count": 5,
+                "rate": 720,
+                "show": 0
+            }
+        ]
+    }
+}

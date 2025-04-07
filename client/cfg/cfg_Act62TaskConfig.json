@@ -1,0 +1,302 @@
+{
+    "1": {
+        "id": 1,
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 20,
+        "desc": "Partake in killing Server Boss |C:0x13ee22&T:20| times",
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "2": {
+        "id": 2,
+        "type": 68,
+        "param": [
+            10023
+        ],
+        "target": 10,
+        "desc": "Partake in killing Boss Homestead |C:0x13ee22&T:10| times ",
+        "controlTarget": [
+            5,
+            16,
+            0,
+            2
+        ]
+    },
+    "3": {
+        "id": 3,
+        "type": 160,
+        "param": [
+            -1
+        ],
+        "target": 15,
+        "desc": "Partake in killing Boss Temple |C:0x13ee22&T:15| times",
+        "controlTarget": [
+            5,
+            16,
+            1,
+            1
+        ]
+    },
+    "4": {
+        "id": 4,
+        "type": 69,
+        "param": [
+            10028
+        ],
+        "target": 5,
+        "desc": "Partake in killing World Boss |C:0x13ee22&T:5| times",
+        "controlTarget": [
+            5,
+            16,
+            2,
+            0
+        ]
+    },
+    "5": {
+        "id": 5,
+        "type": 68,
+        "param": [
+            10024
+        ],
+        "target": 5,
+        "desc": "Partake in killing Temple Boss |C:0x13ee22&T:5| times",
+        "controlTarget": [
+            5,
+            16,
+            2,
+            1
+        ]
+    },
+    "6": {
+        "id": 6,
+        "type": 161,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "desc": "Complete |C:0x13ee22&T:50| Exploration Quests",
+        "controlTarget": [
+            5,
+            48,
+            0,
+            0
+        ]
+    },
+    "7": {
+        "id": 7,
+        "type": 163,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "desc": "Log in |C:0x13ee22&T:3 days| in total",
+        "controlTarget": [
+            5,
+            18,
+            0,
+            0
+        ]
+    },
+    "8": {
+        "id": 8,
+        "type": 68,
+        "param": [
+            10031
+        ],
+        "target": 15,
+        "desc": "Participate in |C:0x13ee22&T:15| King of Peaks",
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "9": {
+        "id": 9,
+        "type": 117,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "desc": "Mine in Crystal Valley for |C:0x13ee22&T:10 times| ",
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "10": {
+        "id": 10,
+        "type": 68,
+        "param": [
+            10057
+        ],
+        "target": 10,
+        "desc": "Loot Poseidon's Treasure for |C:0x13ee22&T:10| times",
+        "controlTarget": [
+            5,
+            13,
+            2,
+            0
+        ]
+    },
+    "11": {
+        "id": 11,
+        "type": 158,
+        "param": [
+            -1
+        ],
+        "target": 3000,
+        "desc": "Top up |C:0x13ee22&T:3000 Diamonds| in total",
+        "controlTarget": [
+            5,
+            31,
+            0,
+            0
+        ]
+    },
+    "12": {
+        "id": 12,
+        "type": 177,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "desc": "Purchase $1 Deal in bulk for |C:0x13ee22&T:3 times|",
+        "controlTarget": [
+            5,
+            40,
+            0,
+            0
+        ]
+    },
+    "13": {
+        "id": 13,
+        "type": 4,
+        "param": [
+            -1
+        ],
+        "target": 50000,
+        "desc": "Spend |C:0x13ee22&T:50000 Diamonds| in total",
+        "controlTarget": [
+            5,
+            39,
+            0,
+            0
+        ]
+    },
+    "14": {
+        "id": 14,
+        "type": 206,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "desc": "Spend |C:0x13ee22&T:500 Vouchers| in total",
+        "controlTarget": [
+            5,
+            69,
+            1,
+            0
+        ]
+    },
+    "15": {
+        "id": 15,
+        "type": 207,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "desc": "Do Treasure Hunt for |C:0x13ee22&T:200 times|",
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "16": {
+        "id": 16,
+        "type": 68,
+        "param": [
+            10062
+        ],
+        "target": 10,
+        "desc": "Participate in |C:0x13ee22&T:10| Avatar War",
+        "controlTarget": [
+            5,
+            13,
+            3,
+            0
+        ]
+    },
+    "17": {
+        "id": 17,
+        "type": 68,
+        "param": [
+            10061
+        ],
+        "target": 10,
+        "desc": "Participate in |C:0x13ee22&T:10| Monster Siege",
+        "controlTarget": [
+            5,
+            16,
+            2,
+            2
+        ]
+    },
+    "18": {
+        "id": 18,
+        "type": 175,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "desc": "Collect |C:0x13ee22&T:50| raining chests",
+        "controlTarget": [
+            5,
+            48,
+            1,
+            0
+        ]
+    },
+    "19": {
+        "id": 19,
+        "type": 68,
+        "param": [
+            10059
+        ],
+        "target": 1,
+        "desc": "Participate in |C:0x13ee22&T:1| Territory War",
+        "controlTarget": [
+            5,
+            58,
+            0,
+            0
+        ]
+    },
+    "20": {
+        "id": 20,
+        "type": 134,
+        "param": [
+            -1
+        ],
+        "target": 2,
+        "desc": "Participate in |C:0x13ee22&T:2| Red Fortress",
+        "controlTarget": [
+            5,
+            13,
+            1,
+            0
+        ]
+    }
+}

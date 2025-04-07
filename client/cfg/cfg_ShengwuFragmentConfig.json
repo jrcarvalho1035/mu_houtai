@@ -1,0 +1,5238 @@
+{
+    "1": {
+        "id": 1,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091001,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 30
+            },
+            {
+                "type": 1,
+                "value": 600
+            }
+        ],
+        "name": "Bloodfume Badge Shard 1",
+        "desc": "Obtain at F5"
+    },
+    "2": {
+        "id": 2,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091002,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 60
+            },
+            {
+                "type": 1,
+                "value": 1200
+            }
+        ],
+        "name": "Bloodfume Badge Shard 2",
+        "desc": "Obtain at F10"
+    },
+    "3": {
+        "id": 3,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091003,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 80
+            },
+            {
+                "type": 1,
+                "value": 1600
+            }
+        ],
+        "name": "Binding Necklace Shard 1",
+        "desc": "Obtain at F15"
+    },
+    "4": {
+        "id": 4,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091004,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 100
+            },
+            {
+                "type": 1,
+                "value": 2000
+            }
+        ],
+        "name": "Binding Necklace Shard 2",
+        "desc": "Obtain at F20"
+    },
+    "5": {
+        "id": 5,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091005,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 120
+            },
+            {
+                "type": 1,
+                "value": 2400
+            }
+        ],
+        "name": "Binding Necklace Shard 3",
+        "desc": "Obtain at F25"
+    },
+    "6": {
+        "id": 6,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091006,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 140
+            },
+            {
+                "type": 1,
+                "value": 2800
+            }
+        ],
+        "name": "Binding Necklace Shard 4",
+        "desc": "Obtain at F30"
+    },
+    "7": {
+        "id": 7,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091007,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 160
+            },
+            {
+                "type": 1,
+                "value": 3200
+            }
+        ],
+        "name": "Dualmoon Pendant Shard 1",
+        "desc": "Obtain at F40"
+    },
+    "8": {
+        "id": 8,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091008,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 180
+            },
+            {
+                "type": 1,
+                "value": 3600
+            }
+        ],
+        "name": "Dualmoon Pendant Shard 2",
+        "desc": "Obtain at F50"
+    },
+    "9": {
+        "id": 9,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091009,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 200
+            },
+            {
+                "type": 1,
+                "value": 4000
+            }
+        ],
+        "name": "Dualmoon Pendant Shard 3",
+        "desc": "Obtain at F60"
+    },
+    "10": {
+        "id": 10,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091010,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 220
+            },
+            {
+                "type": 1,
+                "value": 4400
+            }
+        ],
+        "name": "Dualmoon Pendant Shard 4",
+        "desc": "Obtain at F70"
+    },
+    "11": {
+        "id": 11,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091011,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 240
+            },
+            {
+                "type": 1,
+                "value": 4800
+            }
+        ],
+        "name": "Doomsday Ring Shard 1",
+        "desc": "Obtain at F80"
+    },
+    "12": {
+        "id": 12,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091012,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 315
+            },
+            {
+                "type": 1,
+                "value": 6300
+            }
+        ],
+        "name": "Doomsday Ring Shard 2",
+        "desc": "Obtain at F90"
+    },
+    "13": {
+        "id": 13,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091013,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 405
+            },
+            {
+                "type": 1,
+                "value": 8100
+            }
+        ],
+        "name": "Doomsday Ring Shard 3",
+        "desc": "Obtain at F100"
+    },
+    "14": {
+        "id": 14,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091014,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 500
+            },
+            {
+                "type": 1,
+                "value": 10000
+            }
+        ],
+        "name": "Doomsday Ring Shard 4",
+        "desc": "Obtain at F110"
+    },
+    "15": {
+        "id": 15,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091015,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 635
+            },
+            {
+                "type": 1,
+                "value": 12700
+            }
+        ],
+        "name": "Graceful Hoop Shard 1",
+        "desc": "Obtain at F125"
+    },
+    "16": {
+        "id": 16,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091016,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 790
+            },
+            {
+                "type": 1,
+                "value": 15800
+            }
+        ],
+        "name": "Graceful Hoop Shard 2",
+        "desc": "Obtain at F140"
+    },
+    "17": {
+        "id": 17,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091017,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 955
+            },
+            {
+                "type": 1,
+                "value": 19100
+            }
+        ],
+        "name": "Graceful Hoop Shard 3",
+        "desc": "Obtain at F155"
+    },
+    "18": {
+        "id": 18,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091018,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 1140
+            },
+            {
+                "type": 1,
+                "value": 22800
+            }
+        ],
+        "name": "Graceful Hoop Shard 4",
+        "desc": "Obtain at F170"
+    },
+    "19": {
+        "id": 19,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091019,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 1335
+            },
+            {
+                "type": 1,
+                "value": 26700
+            }
+        ],
+        "name": "Memory Chain Shard 1",
+        "desc": "Obtain at F185"
+    },
+    "20": {
+        "id": 20,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091020,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 1550
+            },
+            {
+                "type": 1,
+                "value": 31000
+            }
+        ],
+        "name": "Memory Chain Shard 2",
+        "desc": "Obtain at F200"
+    },
+    "21": {
+        "id": 21,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091021,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 1780
+            },
+            {
+                "type": 1,
+                "value": 35600
+            }
+        ],
+        "name": "Memory Chain Shard 3",
+        "desc": "Obtain at F215"
+    },
+    "22": {
+        "id": 22,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091022,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 2025
+            },
+            {
+                "type": 1,
+                "value": 40500
+            }
+        ],
+        "name": "Memory Chain Shard 4",
+        "desc": "Obtain at F230"
+    },
+    "23": {
+        "id": 23,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091023,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 2285
+            },
+            {
+                "type": 1,
+                "value": 45700
+            }
+        ],
+        "name": "Dream Earrings Shard 1",
+        "desc": "Obtain at F250"
+    },
+    "24": {
+        "id": 24,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091024,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 2565
+            },
+            {
+                "type": 1,
+                "value": 51300
+            }
+        ],
+        "name": "Dream Earrings Shard 2",
+        "desc": "Obtain at F270"
+    },
+    "25": {
+        "id": 25,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091025,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 2855
+            },
+            {
+                "type": 1,
+                "value": 57100
+            }
+        ],
+        "name": "Dream Earrings Shard 3",
+        "desc": "Obtain at F290"
+    },
+    "26": {
+        "id": 26,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091026,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 3165
+            },
+            {
+                "type": 1,
+                "value": 63300
+            }
+        ],
+        "name": "Dream Earrings Shard 4",
+        "desc": "Obtain at F310"
+    },
+    "27": {
+        "id": 27,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091027,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 3485
+            },
+            {
+                "type": 1,
+                "value": 69700
+            }
+        ],
+        "name": "Edict Earrings Shard 1",
+        "desc": "Obtain at F330"
+    },
+    "28": {
+        "id": 28,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091028,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 3825
+            },
+            {
+                "type": 1,
+                "value": 76500
+            }
+        ],
+        "name": "Edict Earrings Shard 2",
+        "desc": "Obtain at F350"
+    },
+    "29": {
+        "id": 29,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091029,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 4205
+            },
+            {
+                "type": 1,
+                "value": 84100
+            }
+        ],
+        "name": "Edict Earrings Shard 3",
+        "desc": "Obtain at F370"
+    },
+    "30": {
+        "id": 30,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091030,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 4730
+            },
+            {
+                "type": 1,
+                "value": 94600
+            }
+        ],
+        "name": "Edict Earrings Shard 4",
+        "desc": "Obtain at F390"
+    },
+    "31": {
+        "id": 31,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091031,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 5195
+            },
+            {
+                "type": 1,
+                "value": 103900
+            }
+        ],
+        "name": "Chaotic Chain Shard 1",
+        "desc": "Obtain at F410"
+    },
+    "32": {
+        "id": 32,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091032,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 6000
+            },
+            {
+                "type": 1,
+                "value": 120000
+            }
+        ],
+        "name": "Chaotic Chain Shard 2",
+        "desc": "Obtain at F430"
+    },
+    "33": {
+        "id": 33,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091033,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 6955
+            },
+            {
+                "type": 1,
+                "value": 139100
+            }
+        ],
+        "name": "Chaotic Chain Shard 3",
+        "desc": "Obtain at F450"
+    },
+    "34": {
+        "id": 34,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091034,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 7915
+            },
+            {
+                "type": 1,
+                "value": 158300
+            }
+        ],
+        "name": "Chaotic Chain Shard 4",
+        "desc": "Obtain at F470"
+    },
+    "35": {
+        "id": 35,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091035,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 8880
+            },
+            {
+                "type": 1,
+                "value": 177600
+            }
+        ],
+        "name": "Godbane Kiss Shard 1",
+        "desc": "Obtain at F490"
+    },
+    "36": {
+        "id": 36,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091036,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 9850
+            },
+            {
+                "type": 1,
+                "value": 197000
+            }
+        ],
+        "name": "Godbane Kiss Shard 2",
+        "desc": "Obtain at F510"
+    },
+    "37": {
+        "id": 37,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091037,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 10825
+            },
+            {
+                "type": 1,
+                "value": 216500
+            }
+        ],
+        "name": "Godbane Kiss Shard 3",
+        "desc": "Obtain at F530"
+    },
+    "38": {
+        "id": 38,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091038,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 11805
+            },
+            {
+                "type": 1,
+                "value": 236100
+            }
+        ],
+        "name": "Godbane Kiss Shard 4",
+        "desc": "Obtain at F550"
+    },
+    "39": {
+        "id": 39,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091039,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 12790
+            },
+            {
+                "type": 1,
+                "value": 255800
+            }
+        ],
+        "name": "Starry Pendant Shard 1",
+        "desc": "Obtain at F570"
+    },
+    "40": {
+        "id": 40,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091040,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 13780
+            },
+            {
+                "type": 1,
+                "value": 275600
+            }
+        ],
+        "name": "Starry Pendant Shard 2",
+        "desc": "Obtain at F590"
+    },
+    "41": {
+        "id": 41,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091041,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 14775
+            },
+            {
+                "type": 1,
+                "value": 295500
+            }
+        ],
+        "name": "Starry Pendant Shard 3",
+        "desc": "Obtain at F610"
+    },
+    "42": {
+        "id": 42,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091042,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 15775
+            },
+            {
+                "type": 1,
+                "value": 315500
+            }
+        ],
+        "name": "Starry Pendant Shard 4",
+        "desc": "Obtain at F630"
+    },
+    "43": {
+        "id": 43,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091043,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 16780
+            },
+            {
+                "type": 1,
+                "value": 335600
+            }
+        ],
+        "name": "Divine Blessing Shard 1",
+        "desc": "Obtain at F655"
+    },
+    "44": {
+        "id": 44,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091044,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 17790
+            },
+            {
+                "type": 1,
+                "value": 355800
+            }
+        ],
+        "name": "Divine Blessing Shard 2",
+        "desc": "Obtain at F680"
+    },
+    "45": {
+        "id": 45,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091045,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 18805
+            },
+            {
+                "type": 1,
+                "value": 376100
+            }
+        ],
+        "name": "Divine Blessing Shard 3",
+        "desc": "Obtain at F705"
+    },
+    "46": {
+        "id": 46,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091046,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 19825
+            },
+            {
+                "type": 1,
+                "value": 396500
+            }
+        ],
+        "name": "Divine Blessing Shard 4",
+        "desc": "Obtain at F730"
+    },
+    "47": {
+        "id": 47,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091047,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 20850
+            },
+            {
+                "type": 1,
+                "value": 417000
+            }
+        ],
+        "name": "Demon Codex Shard 1",
+        "desc": "Obtain at F755"
+    },
+    "48": {
+        "id": 48,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091048,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 21880
+            },
+            {
+                "type": 1,
+                "value": 437600
+            }
+        ],
+        "name": "Demon Codex Shard 2",
+        "desc": "Obtain at F780"
+    },
+    "49": {
+        "id": 49,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091049,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 22915
+            },
+            {
+                "type": 1,
+                "value": 458300
+            }
+        ],
+        "name": "Demon Codex Shard 3",
+        "desc": "Obtain at F805"
+    },
+    "50": {
+        "id": 50,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091050,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 23955
+            },
+            {
+                "type": 1,
+                "value": 479100
+            }
+        ],
+        "name": "Demon Codex Shard 4",
+        "desc": "Obtain at F830"
+    },
+    "51": {
+        "id": 51,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091051,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 25000
+            },
+            {
+                "type": 1,
+                "value": 500000
+            }
+        ],
+        "name": "Golden Helm Shard 1",
+        "desc": "Obtain at F855"
+    },
+    "52": {
+        "id": 52,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091052,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 26050
+            },
+            {
+                "type": 1,
+                "value": 521000
+            }
+        ],
+        "name": "Golden Helm Shard 2",
+        "desc": "Obtain at F880"
+    },
+    "53": {
+        "id": 53,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091053,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 27105
+            },
+            {
+                "type": 1,
+                "value": 542100
+            }
+        ],
+        "name": "Golden Helm Shard 3",
+        "desc": "Obtain at F905"
+    },
+    "54": {
+        "id": 54,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091054,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 28165
+            },
+            {
+                "type": 1,
+                "value": 563300
+            }
+        ],
+        "name": "Golden Helm Shard 4",
+        "desc": "Obtain at F930"
+    },
+    "55": {
+        "id": 55,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091055,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 29225
+            },
+            {
+                "type": 1,
+                "value": 584500
+            }
+        ],
+        "name": "Oracle Sacred Blade Shard 1",
+        "desc": "Obtain at F955"
+    },
+    "56": {
+        "id": 56,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091056,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 30285
+            },
+            {
+                "type": 1,
+                "value": 605700
+            }
+        ],
+        "name": "Oracle Sacred Blade Shard 2",
+        "desc": "Obtain at F980"
+    },
+    "57": {
+        "id": 57,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091057,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 31345
+            },
+            {
+                "type": 1,
+                "value": 626900
+            }
+        ],
+        "name": "Oracle Sacred Blade Shard 3",
+        "desc": "Obtain at F1005"
+    },
+    "58": {
+        "id": 58,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091058,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 32405
+            },
+            {
+                "type": 1,
+                "value": 648100
+            }
+        ],
+        "name": "Oracle Sacred Blade Shard 4",
+        "desc": "Obtain at F1030"
+    },
+    "59": {
+        "id": 59,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091059,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 33465
+            },
+            {
+                "type": 1,
+                "value": 669300
+            }
+        ],
+        "name": "Tear's Grace Shard 1",
+        "desc": "Obtain at F1055"
+    },
+    "60": {
+        "id": 60,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091060,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 34525
+            },
+            {
+                "type": 1,
+                "value": 690500
+            }
+        ],
+        "name": "Tear's Grace Shard 2",
+        "desc": "Obtain at F1080"
+    },
+    "61": {
+        "id": 61,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091061,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 35585
+            },
+            {
+                "type": 1,
+                "value": 711700
+            }
+        ],
+        "name": "Tear's Grace Shard 3",
+        "desc": "Obtain at F1105"
+    },
+    "62": {
+        "id": 62,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091062,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 36645
+            },
+            {
+                "type": 1,
+                "value": 732900
+            }
+        ],
+        "name": "Tear's Grace Shard 4",
+        "desc": "Obtain at F1130"
+    },
+    "63": {
+        "id": 63,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091063,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 37705
+            },
+            {
+                "type": 1,
+                "value": 754100
+            }
+        ],
+        "name": "Age Mirror Shard 1",
+        "desc": "Obtain at F1160"
+    },
+    "64": {
+        "id": 64,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091064,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 38765
+            },
+            {
+                "type": 1,
+                "value": 775300
+            }
+        ],
+        "name": "Age Mirror Shard 2",
+        "desc": "Obtain at F1190"
+    },
+    "65": {
+        "id": 65,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091065,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 39825
+            },
+            {
+                "type": 1,
+                "value": 796500
+            }
+        ],
+        "name": "Age Mirror Shard 3",
+        "desc": "Obtain at F1220"
+    },
+    "66": {
+        "id": 66,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091066,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 40885
+            },
+            {
+                "type": 1,
+                "value": 817700
+            }
+        ],
+        "name": "Age Mirror Shard 4",
+        "desc": "Obtain at F1250"
+    },
+    "67": {
+        "id": 67,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091067,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 41945
+            },
+            {
+                "type": 1,
+                "value": 838900
+            }
+        ],
+        "name": "Chrono Wheel Shard 1",
+        "desc": "Obtain at F1280"
+    },
+    "68": {
+        "id": 68,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091068,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 43005
+            },
+            {
+                "type": 1,
+                "value": 860100
+            }
+        ],
+        "name": "Chrono Wheel Shard 2",
+        "desc": "Obtain at F1310"
+    },
+    "69": {
+        "id": 69,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091069,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 44065
+            },
+            {
+                "type": 1,
+                "value": 881300
+            }
+        ],
+        "name": "Chrono Wheel Shard 3",
+        "desc": "Obtain at F1340"
+    },
+    "70": {
+        "id": 70,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091070,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 45125
+            },
+            {
+                "type": 1,
+                "value": 902500
+            }
+        ],
+        "name": "Chrono Wheel Shard 4",
+        "desc": "Obtain at F1370"
+    },
+    "71": {
+        "id": 71,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091071,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 46185
+            },
+            {
+                "type": 1,
+                "value": 923700
+            }
+        ],
+        "name": "Thunder Revelation Shard 1",
+        "desc": "Obtain at F1400"
+    },
+    "72": {
+        "id": 72,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091072,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 47245
+            },
+            {
+                "type": 1,
+                "value": 944900
+            }
+        ],
+        "name": "Thunder Revelation Shard 2",
+        "desc": "Obtain at F1430"
+    },
+    "73": {
+        "id": 73,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091073,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 48305
+            },
+            {
+                "type": 1,
+                "value": 966100
+            }
+        ],
+        "name": "Thunder Revelation Shard 3",
+        "desc": "Obtain at F1460"
+    },
+    "74": {
+        "id": 74,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091074,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 49365
+            },
+            {
+                "type": 1,
+                "value": 987300
+            }
+        ],
+        "name": "Thunder Revelation Shard 4",
+        "desc": "Obtain at F1490"
+    },
+    "75": {
+        "id": 75,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091075,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 50425
+            },
+            {
+                "type": 1,
+                "value": 1008500
+            }
+        ],
+        "name": "Wing's Spar Shard 1",
+        "desc": "Obtain at F1520"
+    },
+    "76": {
+        "id": 76,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091076,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 51485
+            },
+            {
+                "type": 1,
+                "value": 1029700
+            }
+        ],
+        "name": "Wing's Spar Shard 2",
+        "desc": "Obtain at F1550"
+    },
+    "77": {
+        "id": 77,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091077,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 52545
+            },
+            {
+                "type": 1,
+                "value": 1050900
+            }
+        ],
+        "name": "Wing's Spar Shard 3",
+        "desc": "Obtain at F1580"
+    },
+    "78": {
+        "id": 78,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091078,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 53605
+            },
+            {
+                "type": 1,
+                "value": 1072100
+            }
+        ],
+        "name": "Wing's Spar Shard 4",
+        "desc": "Obtain at F1610"
+    },
+    "79": {
+        "id": 79,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091079,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 54665
+            },
+            {
+                "type": 1,
+                "value": 1093300
+            }
+        ],
+        "name": "Firerune Boots Shard 1",
+        "desc": "Obtain at F1640"
+    },
+    "80": {
+        "id": 80,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091080,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 55725
+            },
+            {
+                "type": 1,
+                "value": 1114500
+            }
+        ],
+        "name": "Firerune Boots Shard 2",
+        "desc": "Obtain at F1670"
+    },
+    "81": {
+        "id": 81,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091081,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 56785
+            },
+            {
+                "type": 1,
+                "value": 1135700
+            }
+        ],
+        "name": "Firerune Boots Shard 3",
+        "desc": "Obtain at F1700"
+    },
+    "82": {
+        "id": 82,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091082,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 57845
+            },
+            {
+                "type": 1,
+                "value": 1156900
+            }
+        ],
+        "name": "Firerune Boots Shard 4",
+        "desc": "Obtain at F1730"
+    },
+    "83": {
+        "id": 83,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091083,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 58905
+            },
+            {
+                "type": 1,
+                "value": 1178100
+            }
+        ],
+        "name": "Poesidon's Protection Shard 1",
+        "desc": "Obtain at F1765"
+    },
+    "84": {
+        "id": 84,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091084,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 59965
+            },
+            {
+                "type": 1,
+                "value": 1199300
+            }
+        ],
+        "name": "Poesidon's Protection Shard 2",
+        "desc": "Obtain at F1800"
+    },
+    "85": {
+        "id": 85,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091085,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 61025
+            },
+            {
+                "type": 1,
+                "value": 1220500
+            }
+        ],
+        "name": "Poesidon's Protection Shard 3",
+        "desc": "Obtain at F1835"
+    },
+    "86": {
+        "id": 86,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091086,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 62085
+            },
+            {
+                "type": 1,
+                "value": 1241700
+            }
+        ],
+        "name": "Poesidon's Protection Shard 4",
+        "desc": "Obtain at F1870"
+    },
+    "87": {
+        "id": 87,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091087,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 63145
+            },
+            {
+                "type": 1,
+                "value": 1262900
+            }
+        ],
+        "name": "Sacredmark Armor Shard 1",
+        "desc": "Obtain at F1905"
+    },
+    "88": {
+        "id": 88,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091088,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 64205
+            },
+            {
+                "type": 1,
+                "value": 1284100
+            }
+        ],
+        "name": "Sacredmark Armor Shard 2",
+        "desc": "Obtain at F1940"
+    },
+    "89": {
+        "id": 89,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091089,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 65265
+            },
+            {
+                "type": 1,
+                "value": 1305300
+            }
+        ],
+        "name": "Sacredmark Armor Shard 3",
+        "desc": "Obtain at F1975"
+    },
+    "90": {
+        "id": 90,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091090,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 66325
+            },
+            {
+                "type": 1,
+                "value": 1326500
+            }
+        ],
+        "name": "Sacredmark Armor Shard 4",
+        "desc": "Obtain at F2010"
+    },
+    "91": {
+        "id": 91,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091091,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 67385
+            },
+            {
+                "type": 1,
+                "value": 1347700
+            }
+        ],
+        "name": "Fiery Armor Shard 1",
+        "desc": "Obtain at F2045"
+    },
+    "92": {
+        "id": 92,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091092,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 68445
+            },
+            {
+                "type": 1,
+                "value": 1368900
+            }
+        ],
+        "name": "Fiery Armor Shard 2",
+        "desc": "Obtain at F2080"
+    },
+    "93": {
+        "id": 93,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091093,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 69505
+            },
+            {
+                "type": 1,
+                "value": 1390100
+            }
+        ],
+        "name": "Fiery Armor Shard 3",
+        "desc": "Obtain at F2115"
+    },
+    "94": {
+        "id": 94,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091094,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 70565
+            },
+            {
+                "type": 1,
+                "value": 1411300
+            }
+        ],
+        "name": "Fiery Armor Shard 4",
+        "desc": "Obtain at F2150"
+    },
+    "95": {
+        "id": 95,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091095,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 71625
+            },
+            {
+                "type": 1,
+                "value": 1432500
+            }
+        ],
+        "name": "Glory Boots Shard 1",
+        "desc": "Obtain at F2185"
+    },
+    "96": {
+        "id": 96,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091096,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 72685
+            },
+            {
+                "type": 1,
+                "value": 1453700
+            }
+        ],
+        "name": "Glory Boots Shard 2",
+        "desc": "Obtain at F2220"
+    },
+    "97": {
+        "id": 97,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091097,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 73745
+            },
+            {
+                "type": 1,
+                "value": 1474900
+            }
+        ],
+        "name": "Glory Boots Shard 3",
+        "desc": "Obtain at F2255"
+    },
+    "98": {
+        "id": 98,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091098,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 74805
+            },
+            {
+                "type": 1,
+                "value": 1496100
+            }
+        ],
+        "name": "Glory Boots Shard 4",
+        "desc": "Obtain at F2290"
+    },
+    "99": {
+        "id": 99,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091099,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 75865
+            },
+            {
+                "type": 1,
+                "value": 1517300
+            }
+        ],
+        "name": "Netherite Protection Shard 1",
+        "desc": "Obtain at F2325"
+    },
+    "100": {
+        "id": 100,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091100,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 76925
+            },
+            {
+                "type": 1,
+                "value": 1538500
+            }
+        ],
+        "name": "Netherite Protection Shard 2",
+        "desc": "Obtain at F2360"
+    },
+    "101": {
+        "id": 101,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091101,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 77985
+            },
+            {
+                "type": 1,
+                "value": 1559700
+            }
+        ],
+        "name": "Netherite Protection Shard 3",
+        "desc": "Obtain at F2395"
+    },
+    "102": {
+        "id": 102,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091102,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 79045
+            },
+            {
+                "type": 1,
+                "value": 1580900
+            }
+        ],
+        "name": "Netherite Protection Shard 4",
+        "desc": "Obtain at F2430"
+    },
+    "103": {
+        "id": 103,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091103,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 80105
+            },
+            {
+                "type": 1,
+                "value": 1602100
+            }
+        ],
+        "name": "Silver Bracer Shard 1",
+        "desc": "Obtain at F2470"
+    },
+    "104": {
+        "id": 104,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091104,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 81165
+            },
+            {
+                "type": 1,
+                "value": 1623300
+            }
+        ],
+        "name": "Silver Bracer Shard 2",
+        "desc": "Obtain at F2510"
+    },
+    "105": {
+        "id": 105,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091105,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 82225
+            },
+            {
+                "type": 1,
+                "value": 1644500
+            }
+        ],
+        "name": "Silver Bracer Shard 3",
+        "desc": "Obtain at F2550"
+    },
+    "106": {
+        "id": 106,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091106,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 83285
+            },
+            {
+                "type": 1,
+                "value": 1665700
+            }
+        ],
+        "name": "Silver Bracer Shard 4",
+        "desc": "Obtain at F2590"
+    },
+    "107": {
+        "id": 107,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091107,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 84345
+            },
+            {
+                "type": 1,
+                "value": 1686900
+            }
+        ],
+        "name": "Spirit Badge Shard 1",
+        "desc": "Obtain at F2630"
+    },
+    "108": {
+        "id": 108,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091108,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 85405
+            },
+            {
+                "type": 1,
+                "value": 1708100
+            }
+        ],
+        "name": "Spirit Badge Shard 2",
+        "desc": "Obtain at F2670"
+    },
+    "109": {
+        "id": 109,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091109,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 86465
+            },
+            {
+                "type": 1,
+                "value": 1729300
+            }
+        ],
+        "name": "Spirit Badge Shard 3",
+        "desc": "Obtain at F2710"
+    },
+    "110": {
+        "id": 110,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091110,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 87525
+            },
+            {
+                "type": 1,
+                "value": 1750500
+            }
+        ],
+        "name": "Spirit Badge Shard 4",
+        "desc": "Obtain at F2750"
+    },
+    "111": {
+        "id": 111,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091111,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 88585
+            },
+            {
+                "type": 1,
+                "value": 1771700
+            }
+        ],
+        "name": "King's Imprint Shard 1",
+        "desc": "Obtain at F2790"
+    },
+    "112": {
+        "id": 112,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091112,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 89645
+            },
+            {
+                "type": 1,
+                "value": 1792900
+            }
+        ],
+        "name": "King's Imprint Shard 2",
+        "desc": "Obtain at F2830"
+    },
+    "113": {
+        "id": 113,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091113,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 90705
+            },
+            {
+                "type": 1,
+                "value": 1814100
+            }
+        ],
+        "name": "King's Imprint Shard 3",
+        "desc": "Obtain at F2870"
+    },
+    "114": {
+        "id": 114,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091114,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 91765
+            },
+            {
+                "type": 1,
+                "value": 1835300
+            }
+        ],
+        "name": "King's Imprint Shard 4",
+        "desc": "Obtain at F2910"
+    },
+    "115": {
+        "id": 115,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091115,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 92825
+            },
+            {
+                "type": 1,
+                "value": 1856500
+            }
+        ],
+        "name": "Eternal Stone Shard 1",
+        "desc": "Obtain at F2950"
+    },
+    "116": {
+        "id": 116,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091116,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 93885
+            },
+            {
+                "type": 1,
+                "value": 1877700
+            }
+        ],
+        "name": "Eternal Stone Shard 2",
+        "desc": "Obtain at F2990"
+    },
+    "117": {
+        "id": 117,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091117,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 94945
+            },
+            {
+                "type": 1,
+                "value": 1898900
+            }
+        ],
+        "name": "Eternal Stone Shard 3",
+        "desc": "Obtain at F3030"
+    },
+    "118": {
+        "id": 118,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091118,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 96005
+            },
+            {
+                "type": 1,
+                "value": 1920100
+            }
+        ],
+        "name": "Eternal Stone Shard 4",
+        "desc": "Obtain at F3070"
+    },
+    "119": {
+        "id": 119,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091119,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 97065
+            },
+            {
+                "type": 1,
+                "value": 1941300
+            }
+        ],
+        "name": "Deity Armor Shard 1",
+        "desc": "Obtain at F3110"
+    },
+    "120": {
+        "id": 120,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091120,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 98125
+            },
+            {
+                "type": 1,
+                "value": 1962500
+            }
+        ],
+        "name": "Deity Armor Shard 2",
+        "desc": "Obtain at F3150"
+    },
+    "121": {
+        "id": 121,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091121,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 99185
+            },
+            {
+                "type": 1,
+                "value": 1983700
+            }
+        ],
+        "name": "Deity Armor Shard 3",
+        "desc": "Obtain at F3190"
+    },
+    "122": {
+        "id": 122,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091122,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 100245
+            },
+            {
+                "type": 1,
+                "value": 2004900
+            }
+        ],
+        "name": "Deity Armor Shard 4",
+        "desc": "Obtain at F3230"
+    },
+    "123": {
+        "id": 123,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091123,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 101305
+            },
+            {
+                "type": 1,
+                "value": 2026100
+            }
+        ],
+        "name": "Light of Lunar God Shard 1",
+        "desc": "Obtain at F3275"
+    },
+    "124": {
+        "id": 124,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091124,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 102365
+            },
+            {
+                "type": 1,
+                "value": 2047300
+            }
+        ],
+        "name": "Light of Lunar God Shard 2",
+        "desc": "Obtain at F3320"
+    },
+    "125": {
+        "id": 125,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091125,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 103425
+            },
+            {
+                "type": 1,
+                "value": 2068500
+            }
+        ],
+        "name": "Light of Lunar God Shard 3",
+        "desc": "Obtain at F3365"
+    },
+    "126": {
+        "id": 126,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091126,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 104485
+            },
+            {
+                "type": 1,
+                "value": 2089700
+            }
+        ],
+        "name": "Light of Lunar God Shard 4",
+        "desc": "Obtain at F3410"
+    },
+    "127": {
+        "id": 127,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091127,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 105545
+            },
+            {
+                "type": 1,
+                "value": 2110900
+            }
+        ],
+        "name": "Thunder Revelation Shard 1",
+        "desc": "Obtain at F3455"
+    },
+    "128": {
+        "id": 128,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091128,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 106605
+            },
+            {
+                "type": 1,
+                "value": 2132100
+            }
+        ],
+        "name": "Thunder Revelation Shard 2",
+        "desc": "Obtain at F3500"
+    },
+    "129": {
+        "id": 129,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091129,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 107665
+            },
+            {
+                "type": 1,
+                "value": 2153300
+            }
+        ],
+        "name": "Thunder Revelation Shard 3",
+        "desc": "Obtain at F3545"
+    },
+    "130": {
+        "id": 130,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091130,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 108725
+            },
+            {
+                "type": 1,
+                "value": 2174500
+            }
+        ],
+        "name": "Thunder Revelation Shard 4",
+        "desc": "Obtain at F3590"
+    },
+    "131": {
+        "id": 131,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091131,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 109785
+            },
+            {
+                "type": 1,
+                "value": 2195700
+            }
+        ],
+        "name": "Justice Blade Shard 1",
+        "desc": "Obtain at F3635"
+    },
+    "132": {
+        "id": 132,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091132,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 110845
+            },
+            {
+                "type": 1,
+                "value": 2216900
+            }
+        ],
+        "name": "Justice Blade Shard 2",
+        "desc": "Obtain at F3680"
+    },
+    "133": {
+        "id": 133,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091133,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 111905
+            },
+            {
+                "type": 1,
+                "value": 2238100
+            }
+        ],
+        "name": "Justice Blade Shard 3",
+        "desc": "Obtain at F3725"
+    },
+    "134": {
+        "id": 134,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091134,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 112965
+            },
+            {
+                "type": 1,
+                "value": 2259300
+            }
+        ],
+        "name": "Justice Blade Shard 4",
+        "desc": "Obtain at F3770"
+    },
+    "135": {
+        "id": 135,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091135,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 114025
+            },
+            {
+                "type": 1,
+                "value": 2280500
+            }
+        ],
+        "name": "Pauldrons of Bloodomen Shard 1",
+        "desc": "Obtain at F3815"
+    },
+    "136": {
+        "id": 136,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091136,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 115085
+            },
+            {
+                "type": 1,
+                "value": 2301700
+            }
+        ],
+        "name": "Pauldrons of Bloodomen Shard 2",
+        "desc": "Obtain at F3860"
+    },
+    "137": {
+        "id": 137,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091137,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 116145
+            },
+            {
+                "type": 1,
+                "value": 2322900
+            }
+        ],
+        "name": "Pauldrons of Bloodomen Shard 3",
+        "desc": "Obtain at F3905"
+    },
+    "138": {
+        "id": 138,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091138,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 117205
+            },
+            {
+                "type": 1,
+                "value": 2344100
+            }
+        ],
+        "name": "Pauldrons of Bloodomen Shard 4",
+        "desc": "Obtain at F3950"
+    },
+    "139": {
+        "id": 139,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091139,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 118265
+            },
+            {
+                "type": 1,
+                "value": 2365300
+            }
+        ],
+        "name": "Frigid Breath Shard 1",
+        "desc": "Obtain at F3995"
+    },
+    "140": {
+        "id": 140,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091140,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 119325
+            },
+            {
+                "type": 1,
+                "value": 2386500
+            }
+        ],
+        "name": "Frigid Breath Shard 2",
+        "desc": "Obtain at F4040"
+    },
+    "141": {
+        "id": 141,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091141,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 120385
+            },
+            {
+                "type": 1,
+                "value": 2407700
+            }
+        ],
+        "name": "Frigid Breath Shard 3",
+        "desc": "Obtain at F4085"
+    },
+    "142": {
+        "id": 142,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091142,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 121445
+            },
+            {
+                "type": 1,
+                "value": 2428900
+            }
+        ],
+        "name": "Frigid Breath Shard 4",
+        "desc": "Obtain at F4130"
+    },
+    "143": {
+        "id": 143,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091143,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 122505
+            },
+            {
+                "type": 1,
+                "value": 2450100
+            }
+        ],
+        "name": "Dusk Hymn Shard 1",
+        "desc": "Obtain at F4180"
+    },
+    "144": {
+        "id": 144,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091144,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 123565
+            },
+            {
+                "type": 1,
+                "value": 2471300
+            }
+        ],
+        "name": "Dusk Hymn Shard 2",
+        "desc": "Obtain at F4230"
+    },
+    "145": {
+        "id": 145,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091145,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 124625
+            },
+            {
+                "type": 1,
+                "value": 2492500
+            }
+        ],
+        "name": "Dusk Hymn Shard 3",
+        "desc": "Obtain at F4280"
+    },
+    "146": {
+        "id": 146,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091146,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 125685
+            },
+            {
+                "type": 1,
+                "value": 2513700
+            }
+        ],
+        "name": "Dusk Hymn Shard 4",
+        "desc": "Obtain at F4330"
+    },
+    "147": {
+        "id": 147,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091147,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 126745
+            },
+            {
+                "type": 1,
+                "value": 2534900
+            }
+        ],
+        "name": "Silent Dead Star Shard 1",
+        "desc": "Obtain at F4380"
+    },
+    "148": {
+        "id": 148,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091148,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 127805
+            },
+            {
+                "type": 1,
+                "value": 2556100
+            }
+        ],
+        "name": "Silent Dead Star Shard 2",
+        "desc": "Obtain at F4430"
+    },
+    "149": {
+        "id": 149,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091149,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 128865
+            },
+            {
+                "type": 1,
+                "value": 2577300
+            }
+        ],
+        "name": "Silent Dead Star Shard 3",
+        "desc": "Obtain at F4480"
+    },
+    "150": {
+        "id": 150,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091150,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 129925
+            },
+            {
+                "type": 1,
+                "value": 2598500
+            }
+        ],
+        "name": "Silent Dead Star Shard 4",
+        "desc": "Obtain at F4530"
+    },
+    "151": {
+        "id": 151,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091151,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 130985
+            },
+            {
+                "type": 1,
+                "value": 2619700
+            }
+        ],
+        "name": "Leodict's Sword Shard 1",
+        "desc": "Obtain at F4580"
+    },
+    "152": {
+        "id": 152,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091152,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 132045
+            },
+            {
+                "type": 1,
+                "value": 2640900
+            }
+        ],
+        "name": "Leodict's Sword Shard 2",
+        "desc": "Obtain at F4630"
+    },
+    "153": {
+        "id": 153,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091153,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 133105
+            },
+            {
+                "type": 1,
+                "value": 2662100
+            }
+        ],
+        "name": "Leodict's Sword Shard 3",
+        "desc": "Obtain at F4680"
+    },
+    "154": {
+        "id": 154,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091154,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 134165
+            },
+            {
+                "type": 1,
+                "value": 2683300
+            }
+        ],
+        "name": "Leodict's Sword Shard 4",
+        "desc": "Obtain at F4730"
+    },
+    "155": {
+        "id": 155,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091155,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 135225
+            },
+            {
+                "type": 1,
+                "value": 2704500
+            }
+        ],
+        "name": "Ancient Oath Shard 1",
+        "desc": "Obtain at F4780"
+    },
+    "156": {
+        "id": 156,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091156,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 136285
+            },
+            {
+                "type": 1,
+                "value": 2725700
+            }
+        ],
+        "name": "Ancient Oath Shard 2",
+        "desc": "Obtain at F4830"
+    },
+    "157": {
+        "id": 157,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091157,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 137345
+            },
+            {
+                "type": 1,
+                "value": 2746900
+            }
+        ],
+        "name": "Ancient Oath Shard 3",
+        "desc": "Obtain at F4880"
+    },
+    "158": {
+        "id": 158,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091158,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 138405
+            },
+            {
+                "type": 1,
+                "value": 2768100
+            }
+        ],
+        "name": "Ancient Oath Shard 4",
+        "desc": "Obtain at F4930"
+    },
+    "159": {
+        "id": 159,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091159,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 139465
+            },
+            {
+                "type": 1,
+                "value": 2789300
+            }
+        ],
+        "name": "Thorn Hoop Shard 1",
+        "desc": "Obtain at F4980"
+    },
+    "160": {
+        "id": 160,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091160,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 140525
+            },
+            {
+                "type": 1,
+                "value": 2810500
+            }
+        ],
+        "name": "Thorn Hoop Shard 2",
+        "desc": "Obtain at F5030"
+    },
+    "161": {
+        "id": 161,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091161,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 141585
+            },
+            {
+                "type": 1,
+                "value": 2831700
+            }
+        ],
+        "name": "Thorn Hoop Shard 3",
+        "desc": "Obtain at F5080"
+    },
+    "162": {
+        "id": 162,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091162,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 142645
+            },
+            {
+                "type": 1,
+                "value": 2852900
+            }
+        ],
+        "name": "Thorn Hoop Shard 4",
+        "desc": "Obtain at F5130"
+    },
+    "163": {
+        "id": 163,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091163,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 143705
+            },
+            {
+                "type": 1,
+                "value": 2874100
+            }
+        ],
+        "name": "Mericful Arm Shard 1",
+        "desc": "Obtain at F5185"
+    },
+    "164": {
+        "id": 164,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091164,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 144765
+            },
+            {
+                "type": 1,
+                "value": 2895300
+            }
+        ],
+        "name": "Mericful Arm Shard 2",
+        "desc": "Obtain at F5240"
+    },
+    "165": {
+        "id": 165,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091165,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 145825
+            },
+            {
+                "type": 1,
+                "value": 2916500
+            }
+        ],
+        "name": "Mericful Arm Shard 3",
+        "desc": "Obtain at F5295"
+    },
+    "166": {
+        "id": 166,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091166,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 146885
+            },
+            {
+                "type": 1,
+                "value": 2937700
+            }
+        ],
+        "name": "Mericful Arm Shard 4",
+        "desc": "Obtain at F5350"
+    },
+    "167": {
+        "id": 167,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091167,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 147945
+            },
+            {
+                "type": 1,
+                "value": 2958900
+            }
+        ],
+        "name": "Dark Badge Shard 1",
+        "desc": "Obtain at F5405"
+    },
+    "168": {
+        "id": 168,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091168,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 149005
+            },
+            {
+                "type": 1,
+                "value": 2980100
+            }
+        ],
+        "name": "Dark Badge Shard 2",
+        "desc": "Obtain at F5460"
+    },
+    "169": {
+        "id": 169,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091169,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 150065
+            },
+            {
+                "type": 1,
+                "value": 3001300
+            }
+        ],
+        "name": "Dark Badge Shard 3",
+        "desc": "Obtain at F5515"
+    },
+    "170": {
+        "id": 170,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091170,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 151125
+            },
+            {
+                "type": 1,
+                "value": 3022500
+            }
+        ],
+        "name": "Dark Badge Shard 4",
+        "desc": "Obtain at F5570"
+    },
+    "171": {
+        "id": 171,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091171,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 152185
+            },
+            {
+                "type": 1,
+                "value": 3043700
+            }
+        ],
+        "name": "Sharp Claw Shard 1",
+        "desc": "Obtain at F5625"
+    },
+    "172": {
+        "id": 172,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091172,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 153245
+            },
+            {
+                "type": 1,
+                "value": 3064900
+            }
+        ],
+        "name": "Sharp Claw Shard 2",
+        "desc": "Obtain at F5680"
+    },
+    "173": {
+        "id": 173,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091173,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 154305
+            },
+            {
+                "type": 1,
+                "value": 3086100
+            }
+        ],
+        "name": "Sharp Claw Shard 3",
+        "desc": "Obtain at F5735"
+    },
+    "174": {
+        "id": 174,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091174,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 155365
+            },
+            {
+                "type": 1,
+                "value": 3107300
+            }
+        ],
+        "name": "Sharp Claw Shard 4",
+        "desc": "Obtain at F5790"
+    },
+    "175": {
+        "id": 175,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091175,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 156425
+            },
+            {
+                "type": 1,
+                "value": 3128500
+            }
+        ],
+        "name": "Pauldron of Frost Shard 1",
+        "desc": "Obtain at F5845"
+    },
+    "176": {
+        "id": 176,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091176,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 157485
+            },
+            {
+                "type": 1,
+                "value": 3149700
+            }
+        ],
+        "name": "Pauldron of Frost Shard 2",
+        "desc": "Obtain at F5900"
+    },
+    "177": {
+        "id": 177,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091177,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 158545
+            },
+            {
+                "type": 1,
+                "value": 3170900
+            }
+        ],
+        "name": "Pauldron of Frost Shard 3",
+        "desc": "Obtain at F5955"
+    },
+    "178": {
+        "id": 178,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091178,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 159605
+            },
+            {
+                "type": 1,
+                "value": 3192100
+            }
+        ],
+        "name": "Pauldron of Frost Shard 4",
+        "desc": "Obtain at F6010"
+    },
+    "179": {
+        "id": 179,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091179,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 160665
+            },
+            {
+                "type": 1,
+                "value": 3213300
+            }
+        ],
+        "name": "Annihilation Heart Shard 1",
+        "desc": "Obtain at F6065"
+    },
+    "180": {
+        "id": 180,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091180,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 161725
+            },
+            {
+                "type": 1,
+                "value": 3234500
+            }
+        ],
+        "name": "Annihilation Heart Shard 2",
+        "desc": "Obtain at F6120"
+    },
+    "181": {
+        "id": 181,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091181,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 162785
+            },
+            {
+                "type": 1,
+                "value": 3255700
+            }
+        ],
+        "name": "Annihilation Heart Shard 3",
+        "desc": "Obtain at F6175"
+    },
+    "182": {
+        "id": 182,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091182,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 163845
+            },
+            {
+                "type": 1,
+                "value": 3276900
+            }
+        ],
+        "name": "Annihilation Heart Shard 4",
+        "desc": "Obtain at F6230"
+    },
+    "183": {
+        "id": 183,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091183,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 164905
+            },
+            {
+                "type": 1,
+                "value": 3298100
+            }
+        ],
+        "name": "Church of Apocalypse Shard 1",
+        "desc": "Obtain at F6290"
+    },
+    "184": {
+        "id": 184,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091184,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 165965
+            },
+            {
+                "type": 1,
+                "value": 3319300
+            }
+        ],
+        "name": "Church of Apocalypse Shard 2",
+        "desc": "Obtain at F6350"
+    },
+    "185": {
+        "id": 185,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091185,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 167025
+            },
+            {
+                "type": 1,
+                "value": 3340500
+            }
+        ],
+        "name": "Church of Apocalypse Shard 3",
+        "desc": "Obtain at F6410"
+    },
+    "186": {
+        "id": 186,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091186,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 168085
+            },
+            {
+                "type": 1,
+                "value": 3361700
+            }
+        ],
+        "name": "Church of Apocalypse Shard 4",
+        "desc": "Obtain at F6470"
+    },
+    "187": {
+        "id": 187,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091187,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 169145
+            },
+            {
+                "type": 1,
+                "value": 3382900
+            }
+        ],
+        "name": "Light Faith Shard 1",
+        "desc": "Obtain at F6530"
+    },
+    "188": {
+        "id": 188,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091188,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 170205
+            },
+            {
+                "type": 1,
+                "value": 3404100
+            }
+        ],
+        "name": "Light Faith Shard 2",
+        "desc": "Obtain at F6590"
+    },
+    "189": {
+        "id": 189,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091189,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 171265
+            },
+            {
+                "type": 1,
+                "value": 3425300
+            }
+        ],
+        "name": "Light Faith Shard 3",
+        "desc": "Obtain at F6650"
+    },
+    "190": {
+        "id": 190,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091190,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 172325
+            },
+            {
+                "type": 1,
+                "value": 3446500
+            }
+        ],
+        "name": "Light Faith Shard 4",
+        "desc": "Obtain at F6710"
+    },
+    "191": {
+        "id": 191,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091191,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 173385
+            },
+            {
+                "type": 1,
+                "value": 3467700
+            }
+        ],
+        "name": "Exocist's Chantbook Shard 1",
+        "desc": "Obtain at F6770"
+    },
+    "192": {
+        "id": 192,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091192,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 174445
+            },
+            {
+                "type": 1,
+                "value": 3488900
+            }
+        ],
+        "name": "Exocist's Chantbook Shard 2",
+        "desc": "Obtain at F6830"
+    },
+    "193": {
+        "id": 193,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091193,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 175505
+            },
+            {
+                "type": 1,
+                "value": 3510100
+            }
+        ],
+        "name": "Exocist's Chantbook Shard 3",
+        "desc": "Obtain at F6890"
+    },
+    "194": {
+        "id": 194,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091194,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 176565
+            },
+            {
+                "type": 1,
+                "value": 3531300
+            }
+        ],
+        "name": "Exocist's Chantbook Shard 4",
+        "desc": "Obtain at F6950"
+    },
+    "195": {
+        "id": 195,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091195,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 177625
+            },
+            {
+                "type": 1,
+                "value": 3552500
+            }
+        ],
+        "name": "Apostle Follower Shard 1",
+        "desc": "Obtain at F7010"
+    },
+    "196": {
+        "id": 196,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091196,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 178685
+            },
+            {
+                "type": 1,
+                "value": 3573700
+            }
+        ],
+        "name": "Apostle Follower Shard 2",
+        "desc": "Obtain at F7070"
+    },
+    "197": {
+        "id": 197,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091197,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 179745
+            },
+            {
+                "type": 1,
+                "value": 3594900
+            }
+        ],
+        "name": "Apostle Follower Shard 3",
+        "desc": "Obtain at F7130"
+    },
+    "198": {
+        "id": 198,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091198,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 180805
+            },
+            {
+                "type": 1,
+                "value": 3616100
+            }
+        ],
+        "name": "Apostle Follower Shard 4",
+        "desc": "Obtain at F7190"
+    },
+    "199": {
+        "id": 199,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091199,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 181865
+            },
+            {
+                "type": 1,
+                "value": 3637300
+            }
+        ],
+        "name": "Dora's Vessel Shard 1",
+        "desc": "Obtain at F7250"
+    },
+    "200": {
+        "id": 200,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091200,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 182925
+            },
+            {
+                "type": 1,
+                "value": 3658500
+            }
+        ],
+        "name": "Dora's Vessel Shard 2",
+        "desc": "Obtain at F7310"
+    },
+    "201": {
+        "id": 201,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091201,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 183985
+            },
+            {
+                "type": 1,
+                "value": 3679700
+            }
+        ],
+        "name": "Dora's Vessel Shard 3",
+        "desc": "Obtain at F7370"
+    },
+    "202": {
+        "id": 202,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091202,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 185045
+            },
+            {
+                "type": 1,
+                "value": 3700900
+            }
+        ],
+        "name": "Dora's Vessel Shard 4",
+        "desc": "Obtain at F7430"
+    },
+    "203": {
+        "id": 203,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091203,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 186105
+            },
+            {
+                "type": 1,
+                "value": 3722100
+            }
+        ],
+        "name": "Reaper Shard 1",
+        "desc": "Obtain at F7495"
+    },
+    "204": {
+        "id": 204,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091204,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 187165
+            },
+            {
+                "type": 1,
+                "value": 3743300
+            }
+        ],
+        "name": "Reaper Shard 2",
+        "desc": "Obtain at F7560"
+    },
+    "205": {
+        "id": 205,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091205,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 188225
+            },
+            {
+                "type": 1,
+                "value": 3764500
+            }
+        ],
+        "name": "Reaper Shard 3",
+        "desc": "Obtain at F7625"
+    },
+    "206": {
+        "id": 206,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091206,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 189285
+            },
+            {
+                "type": 1,
+                "value": 3785700
+            }
+        ],
+        "name": "Reaper Shard 4",
+        "desc": "Obtain at F7690"
+    },
+    "207": {
+        "id": 207,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091207,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 190345
+            },
+            {
+                "type": 1,
+                "value": 3806900
+            }
+        ],
+        "name": "Bloodsoul Necklace Shard 1",
+        "desc": "Obtain at F7755"
+    },
+    "208": {
+        "id": 208,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091208,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 191405
+            },
+            {
+                "type": 1,
+                "value": 3828100
+            }
+        ],
+        "name": "Bloodsoul Necklace Shard 2",
+        "desc": "Obtain at F7820"
+    },
+    "209": {
+        "id": 209,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091209,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 192465
+            },
+            {
+                "type": 1,
+                "value": 3849300
+            }
+        ],
+        "name": "Bloodsoul Necklace Shard 3",
+        "desc": "Obtain at F7885"
+    },
+    "210": {
+        "id": 210,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091210,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 193525
+            },
+            {
+                "type": 1,
+                "value": 3870500
+            }
+        ],
+        "name": "Bloodsoul Necklace Shard 4",
+        "desc": "Obtain at F7950"
+    },
+    "211": {
+        "id": 211,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091211,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 194585
+            },
+            {
+                "type": 1,
+                "value": 3891700
+            }
+        ],
+        "name": "Gemini of Light and Shadow Shard 1",
+        "desc": "Obtain at F8015"
+    },
+    "212": {
+        "id": 212,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091212,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 195645
+            },
+            {
+                "type": 1,
+                "value": 3912900
+            }
+        ],
+        "name": "Gemini of Light and Shadow Shard 2",
+        "desc": "Obtain at F8080"
+    },
+    "213": {
+        "id": 213,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091213,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 196705
+            },
+            {
+                "type": 1,
+                "value": 3934100
+            }
+        ],
+        "name": "Gemini of Light and Shadow Shard 3",
+        "desc": "Obtain at F8145"
+    },
+    "214": {
+        "id": 214,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091214,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 197765
+            },
+            {
+                "type": 1,
+                "value": 3955300
+            }
+        ],
+        "name": "Gemini of Light and Shadow Shard 4",
+        "desc": "Obtain at F8210"
+    },
+    "215": {
+        "id": 215,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091215,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 198825
+            },
+            {
+                "type": 1,
+                "value": 3976500
+            }
+        ],
+        "name": "Pauldrons of Cruelty Shard 1",
+        "desc": "Obtain at F8275"
+    },
+    "216": {
+        "id": 216,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091216,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 199885
+            },
+            {
+                "type": 1,
+                "value": 3997700
+            }
+        ],
+        "name": "Pauldrons of Cruelty Shard 2",
+        "desc": "Obtain at F8340"
+    },
+    "217": {
+        "id": 217,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091217,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 200945
+            },
+            {
+                "type": 1,
+                "value": 4018900
+            }
+        ],
+        "name": "Pauldrons of Cruelty Shard 3",
+        "desc": "Obtain at F8405"
+    },
+    "218": {
+        "id": 218,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091218,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 202005
+            },
+            {
+                "type": 1,
+                "value": 4040100
+            }
+        ],
+        "name": "Pauldrons of Cruelty Shard 4",
+        "desc": "Obtain at F8470"
+    },
+    "219": {
+        "id": 219,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091219,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 203065
+            },
+            {
+                "type": 1,
+                "value": 4061300
+            }
+        ],
+        "name": "Blade of Steelwall Shard 1",
+        "desc": "Obtain at F8535"
+    },
+    "220": {
+        "id": 220,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091220,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 204125
+            },
+            {
+                "type": 1,
+                "value": 4082500
+            }
+        ],
+        "name": "Blade of Steelwall Shard 2",
+        "desc": "Obtain at F8600"
+    },
+    "221": {
+        "id": 221,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091221,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 205185
+            },
+            {
+                "type": 1,
+                "value": 4103700
+            }
+        ],
+        "name": "Blade of Steelwall Shard 3",
+        "desc": "Obtain at F8665"
+    },
+    "222": {
+        "id": 222,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091222,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 206245
+            },
+            {
+                "type": 1,
+                "value": 4124900
+            }
+        ],
+        "name": "Blade of Steelwall Shard 4",
+        "desc": "Obtain at F8730"
+    },
+    "223": {
+        "id": 223,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091223,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 207305
+            },
+            {
+                "type": 1,
+                "value": 4146100
+            }
+        ],
+        "name": "Regicide Shard 1",
+        "desc": "Obtain at F8800"
+    },
+    "224": {
+        "id": 224,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091224,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 208365
+            },
+            {
+                "type": 1,
+                "value": 4167300
+            }
+        ],
+        "name": "Regicide Shard 2",
+        "desc": "Obtain at F8870"
+    },
+    "225": {
+        "id": 225,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091225,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 209425
+            },
+            {
+                "type": 1,
+                "value": 4188500
+            }
+        ],
+        "name": "Regicide Shard 3",
+        "desc": "Obtain at F8940"
+    },
+    "226": {
+        "id": 226,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091226,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 210485
+            },
+            {
+                "type": 1,
+                "value": 4209700
+            }
+        ],
+        "name": "Regicide Shard 4",
+        "desc": "Obtain at F9010"
+    },
+    "227": {
+        "id": 227,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091227,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 211545
+            },
+            {
+                "type": 1,
+                "value": 4230900
+            }
+        ],
+        "name": "Void Blade Shard 1",
+        "desc": "Obtain at F9080"
+    },
+    "228": {
+        "id": 228,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091228,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 212605
+            },
+            {
+                "type": 1,
+                "value": 4252100
+            }
+        ],
+        "name": "Void Blade Shard 2",
+        "desc": "Obtain at F9150"
+    },
+    "229": {
+        "id": 229,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091229,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 213665
+            },
+            {
+                "type": 1,
+                "value": 4273300
+            }
+        ],
+        "name": "Void Blade Shard 3",
+        "desc": "Obtain at F9220"
+    },
+    "230": {
+        "id": 230,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091230,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 214725
+            },
+            {
+                "type": 1,
+                "value": 4294500
+            }
+        ],
+        "name": "Void Blade Shard 4",
+        "desc": "Obtain at F9290"
+    },
+    "231": {
+        "id": 231,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091231,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 215785
+            },
+            {
+                "type": 1,
+                "value": 4315700
+            }
+        ],
+        "name": "Hopful Prayer Shard 1",
+        "desc": "Obtain at F9360"
+    },
+    "232": {
+        "id": 232,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091232,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 216845
+            },
+            {
+                "type": 1,
+                "value": 4336900
+            }
+        ],
+        "name": "Hopful Prayer Shard 2",
+        "desc": "Obtain at F9430"
+    },
+    "233": {
+        "id": 233,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091233,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 217905
+            },
+            {
+                "type": 1,
+                "value": 4358100
+            }
+        ],
+        "name": "Hopful Prayer Shard 3",
+        "desc": "Obtain at F9500"
+    },
+    "234": {
+        "id": 234,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091234,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 218965
+            },
+            {
+                "type": 1,
+                "value": 4379300
+            }
+        ],
+        "name": "Hopful Prayer Shard 4",
+        "desc": "Obtain at F9570"
+    },
+    "235": {
+        "id": 235,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091235,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 220025
+            },
+            {
+                "type": 1,
+                "value": 4400500
+            }
+        ],
+        "name": "Apolyon Shard 1",
+        "desc": "Obtain at F9640"
+    },
+    "236": {
+        "id": 236,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091236,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 221085
+            },
+            {
+                "type": 1,
+                "value": 4421700
+            }
+        ],
+        "name": "Apolyon Shard 2",
+        "desc": "Obtain at F9710"
+    },
+    "237": {
+        "id": 237,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091237,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 222145
+            },
+            {
+                "type": 1,
+                "value": 4442900
+            }
+        ],
+        "name": "Apolyon Shard 3",
+        "desc": "Obtain at F9780"
+    },
+    "238": {
+        "id": 238,
+        "needitem": [
+            {
+                "type": 1,
+                "id": 1091238,
+                "count": 1
+            }
+        ],
+        "attrs": [
+            {
+                "type": 32,
+                "value": 223205
+            },
+            {
+                "type": 1,
+                "value": 4464100
+            }
+        ],
+        "name": "Apolyon Shard 4",
+        "desc": "Obtain at F9850"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "1": {
+        "id": 1,
+        "price": 50,
+        "name": "Bloody Land",
+        "group": 10007,
+        "head": "npc10000",
+        "sysid": 7
+    },
+    "2": {
+        "id": 2,
+        "price": 50,
+        "name": "Demon Fortress",
+        "group": 10004,
+        "head": "npc10011",
+        "sysid": 6
+    },
+    "3": {
+        "id": 3,
+        "price": 50,
+        "name": "EXP Dungeon",
+        "group": 10002,
+        "head": "npc10003",
+        "sysid": 4
+    }
+}

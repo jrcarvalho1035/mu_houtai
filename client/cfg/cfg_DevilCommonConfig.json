@@ -1,0 +1,22 @@
+{
+    "1": {
+        "id": 1,
+        "count": 3,
+        "number": 10,
+        "cost": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 200
+            }
+        ],
+        "pos": [
+            {
+                "x": 18,
+                "y": 8
+            }
+        ],
+        "levelLimit": 1,
+        "secFight": 180
+    }
+}

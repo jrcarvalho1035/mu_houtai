@@ -1,0 +1,1372 @@
+{
+    "1": {
+        "2": {
+            "1": {
+                "id": 1,
+                "needCount": 2,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 2000
+                    }
+                ]
+            },
+            "2": {
+                "id": 1,
+                "needCount": 2,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 6000
+                    }
+                ]
+            },
+            "3": {
+                "id": 1,
+                "needCount": 2,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 18000
+                    }
+                ]
+            },
+            "4": {
+                "id": 1,
+                "needCount": 2,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 54000
+                    }
+                ]
+            },
+            "5": {
+                "id": 1,
+                "needCount": 2,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 162000
+                    }
+                ]
+            },
+            "6": {
+                "id": 1,
+                "needCount": 2,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 486000
+                    }
+                ]
+            }
+        },
+        "4": {
+            "1": {
+                "id": 1,
+                "needCount": 4,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 3000
+                    }
+                ]
+            },
+            "2": {
+                "id": 1,
+                "needCount": 4,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 9000
+                    }
+                ]
+            },
+            "3": {
+                "id": 1,
+                "needCount": 4,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 27000
+                    }
+                ]
+            },
+            "4": {
+                "id": 1,
+                "needCount": 4,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 81000
+                    }
+                ]
+            },
+            "5": {
+                "id": 1,
+                "needCount": 4,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 243000
+                    }
+                ]
+            },
+            "6": {
+                "id": 1,
+                "needCount": 4,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 729000
+                    }
+                ]
+            }
+        },
+        "6": {
+            "1": {
+                "id": 1,
+                "needCount": 6,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 4000
+                    }
+                ]
+            },
+            "2": {
+                "id": 1,
+                "needCount": 6,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 12000
+                    }
+                ]
+            },
+            "3": {
+                "id": 1,
+                "needCount": 6,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 36000
+                    }
+                ]
+            },
+            "4": {
+                "id": 1,
+                "needCount": 6,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 108000
+                    }
+                ]
+            },
+            "5": {
+                "id": 1,
+                "needCount": 6,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 324000
+                    }
+                ]
+            },
+            "6": {
+                "id": 1,
+                "needCount": 6,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 972000
+                    }
+                ]
+            }
+        },
+        "8": {
+            "1": {
+                "id": 1,
+                "needCount": 8,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 5000
+                    }
+                ]
+            },
+            "2": {
+                "id": 1,
+                "needCount": 8,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 15000
+                    }
+                ]
+            },
+            "3": {
+                "id": 1,
+                "needCount": 8,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 45000
+                    }
+                ]
+            },
+            "4": {
+                "id": 1,
+                "needCount": 8,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 135000
+                    }
+                ]
+            },
+            "5": {
+                "id": 1,
+                "needCount": 8,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 405000
+                    }
+                ]
+            },
+            "6": {
+                "id": 1,
+                "needCount": 8,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 1215000
+                    }
+                ]
+            }
+        }
+    },
+    "2": {
+        "2": {
+            "1": {
+                "id": 2,
+                "needCount": 2,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 2000
+                    }
+                ]
+            },
+            "2": {
+                "id": 2,
+                "needCount": 2,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 6000
+                    }
+                ]
+            },
+            "3": {
+                "id": 2,
+                "needCount": 2,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 18000
+                    }
+                ]
+            },
+            "4": {
+                "id": 2,
+                "needCount": 2,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 54000
+                    }
+                ]
+            },
+            "5": {
+                "id": 2,
+                "needCount": 2,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 162000
+                    }
+                ]
+            },
+            "6": {
+                "id": 2,
+                "needCount": 2,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 486000
+                    }
+                ]
+            }
+        },
+        "4": {
+            "1": {
+                "id": 2,
+                "needCount": 4,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 3000
+                    }
+                ]
+            },
+            "2": {
+                "id": 2,
+                "needCount": 4,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 9000
+                    }
+                ]
+            },
+            "3": {
+                "id": 2,
+                "needCount": 4,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 27000
+                    }
+                ]
+            },
+            "4": {
+                "id": 2,
+                "needCount": 4,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 81000
+                    }
+                ]
+            },
+            "5": {
+                "id": 2,
+                "needCount": 4,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 243000
+                    }
+                ]
+            },
+            "6": {
+                "id": 2,
+                "needCount": 4,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 729000
+                    }
+                ]
+            }
+        },
+        "6": {
+            "1": {
+                "id": 2,
+                "needCount": 6,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 4000
+                    }
+                ]
+            },
+            "2": {
+                "id": 2,
+                "needCount": 6,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 12000
+                    }
+                ]
+            },
+            "3": {
+                "id": 2,
+                "needCount": 6,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 36000
+                    }
+                ]
+            },
+            "4": {
+                "id": 2,
+                "needCount": 6,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 108000
+                    }
+                ]
+            },
+            "5": {
+                "id": 2,
+                "needCount": 6,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 324000
+                    }
+                ]
+            },
+            "6": {
+                "id": 2,
+                "needCount": 6,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 972000
+                    }
+                ]
+            }
+        },
+        "8": {
+            "1": {
+                "id": 2,
+                "needCount": 8,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 5000
+                    }
+                ]
+            },
+            "2": {
+                "id": 2,
+                "needCount": 8,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 15000
+                    }
+                ]
+            },
+            "3": {
+                "id": 2,
+                "needCount": 8,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 45000
+                    }
+                ]
+            },
+            "4": {
+                "id": 2,
+                "needCount": 8,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 135000
+                    }
+                ]
+            },
+            "5": {
+                "id": 2,
+                "needCount": 8,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 405000
+                    }
+                ]
+            },
+            "6": {
+                "id": 2,
+                "needCount": 8,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 1215000
+                    }
+                ]
+            }
+        }
+    },
+    "3": {
+        "2": {
+            "1": {
+                "id": 3,
+                "needCount": 2,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 2000
+                    }
+                ]
+            },
+            "2": {
+                "id": 3,
+                "needCount": 2,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 6000
+                    }
+                ]
+            },
+            "3": {
+                "id": 3,
+                "needCount": 2,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 18000
+                    }
+                ]
+            },
+            "4": {
+                "id": 3,
+                "needCount": 2,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 54000
+                    }
+                ]
+            },
+            "5": {
+                "id": 3,
+                "needCount": 2,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 162000
+                    }
+                ]
+            },
+            "6": {
+                "id": 3,
+                "needCount": 2,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 486000
+                    }
+                ]
+            }
+        },
+        "4": {
+            "1": {
+                "id": 3,
+                "needCount": 4,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 3000
+                    }
+                ]
+            },
+            "2": {
+                "id": 3,
+                "needCount": 4,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 9000
+                    }
+                ]
+            },
+            "3": {
+                "id": 3,
+                "needCount": 4,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 27000
+                    }
+                ]
+            },
+            "4": {
+                "id": 3,
+                "needCount": 4,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 81000
+                    }
+                ]
+            },
+            "5": {
+                "id": 3,
+                "needCount": 4,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 243000
+                    }
+                ]
+            },
+            "6": {
+                "id": 3,
+                "needCount": 4,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 729000
+                    }
+                ]
+            }
+        },
+        "6": {
+            "1": {
+                "id": 3,
+                "needCount": 6,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 4000
+                    }
+                ]
+            },
+            "2": {
+                "id": 3,
+                "needCount": 6,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 12000
+                    }
+                ]
+            },
+            "3": {
+                "id": 3,
+                "needCount": 6,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 36000
+                    }
+                ]
+            },
+            "4": {
+                "id": 3,
+                "needCount": 6,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 108000
+                    }
+                ]
+            },
+            "5": {
+                "id": 3,
+                "needCount": 6,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 324000
+                    }
+                ]
+            },
+            "6": {
+                "id": 3,
+                "needCount": 6,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 972000
+                    }
+                ]
+            }
+        },
+        "8": {
+            "1": {
+                "id": 3,
+                "needCount": 8,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 5000
+                    }
+                ]
+            },
+            "2": {
+                "id": 3,
+                "needCount": 8,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 15000
+                    }
+                ]
+            },
+            "3": {
+                "id": 3,
+                "needCount": 8,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 45000
+                    }
+                ]
+            },
+            "4": {
+                "id": 3,
+                "needCount": 8,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 135000
+                    }
+                ]
+            },
+            "5": {
+                "id": 3,
+                "needCount": 8,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 405000
+                    }
+                ]
+            },
+            "6": {
+                "id": 3,
+                "needCount": 8,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 1215000
+                    }
+                ]
+            }
+        }
+    },
+    "4": {
+        "2": {
+            "1": {
+                "id": 4,
+                "needCount": 2,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 2000
+                    }
+                ]
+            },
+            "2": {
+                "id": 4,
+                "needCount": 2,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 6000
+                    }
+                ]
+            },
+            "3": {
+                "id": 4,
+                "needCount": 2,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 18000
+                    }
+                ]
+            },
+            "4": {
+                "id": 4,
+                "needCount": 2,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 54000
+                    }
+                ]
+            },
+            "5": {
+                "id": 4,
+                "needCount": 2,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 162000
+                    }
+                ]
+            },
+            "6": {
+                "id": 4,
+                "needCount": 2,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 486000
+                    }
+                ]
+            }
+        },
+        "4": {
+            "1": {
+                "id": 4,
+                "needCount": 4,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 3000
+                    }
+                ]
+            },
+            "2": {
+                "id": 4,
+                "needCount": 4,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 9000
+                    }
+                ]
+            },
+            "3": {
+                "id": 4,
+                "needCount": 4,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 27000
+                    }
+                ]
+            },
+            "4": {
+                "id": 4,
+                "needCount": 4,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 81000
+                    }
+                ]
+            },
+            "5": {
+                "id": 4,
+                "needCount": 4,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 243000
+                    }
+                ]
+            },
+            "6": {
+                "id": 4,
+                "needCount": 4,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 729000
+                    }
+                ]
+            }
+        },
+        "6": {
+            "1": {
+                "id": 4,
+                "needCount": 6,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 4000
+                    }
+                ]
+            },
+            "2": {
+                "id": 4,
+                "needCount": 6,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 12000
+                    }
+                ]
+            },
+            "3": {
+                "id": 4,
+                "needCount": 6,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 36000
+                    }
+                ]
+            },
+            "4": {
+                "id": 4,
+                "needCount": 6,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 108000
+                    }
+                ]
+            },
+            "5": {
+                "id": 4,
+                "needCount": 6,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 324000
+                    }
+                ]
+            },
+            "6": {
+                "id": 4,
+                "needCount": 6,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 972000
+                    }
+                ]
+            }
+        },
+        "8": {
+            "1": {
+                "id": 4,
+                "needCount": 8,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 5000
+                    }
+                ]
+            },
+            "2": {
+                "id": 4,
+                "needCount": 8,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 15000
+                    }
+                ]
+            },
+            "3": {
+                "id": 4,
+                "needCount": 8,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 45000
+                    }
+                ]
+            },
+            "4": {
+                "id": 4,
+                "needCount": 8,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 135000
+                    }
+                ]
+            },
+            "5": {
+                "id": 4,
+                "needCount": 8,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 405000
+                    }
+                ]
+            },
+            "6": {
+                "id": 4,
+                "needCount": 8,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 1215000
+                    }
+                ]
+            }
+        }
+    },
+    "5": {
+        "2": {
+            "1": {
+                "id": 5,
+                "needCount": 2,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 2000
+                    }
+                ]
+            },
+            "2": {
+                "id": 5,
+                "needCount": 2,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 6000
+                    }
+                ]
+            },
+            "3": {
+                "id": 5,
+                "needCount": 2,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 18000
+                    }
+                ]
+            },
+            "4": {
+                "id": 5,
+                "needCount": 2,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 54000
+                    }
+                ]
+            },
+            "5": {
+                "id": 5,
+                "needCount": 2,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 162000
+                    }
+                ]
+            },
+            "6": {
+                "id": 5,
+                "needCount": 2,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 486000
+                    }
+                ]
+            }
+        },
+        "4": {
+            "1": {
+                "id": 5,
+                "needCount": 4,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 3000
+                    }
+                ]
+            },
+            "2": {
+                "id": 5,
+                "needCount": 4,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 9000
+                    }
+                ]
+            },
+            "3": {
+                "id": 5,
+                "needCount": 4,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 27000
+                    }
+                ]
+            },
+            "4": {
+                "id": 5,
+                "needCount": 4,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 81000
+                    }
+                ]
+            },
+            "5": {
+                "id": 5,
+                "needCount": 4,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 243000
+                    }
+                ]
+            },
+            "6": {
+                "id": 5,
+                "needCount": 4,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 729000
+                    }
+                ]
+            }
+        },
+        "6": {
+            "1": {
+                "id": 5,
+                "needCount": 6,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 4000
+                    }
+                ]
+            },
+            "2": {
+                "id": 5,
+                "needCount": 6,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 12000
+                    }
+                ]
+            },
+            "3": {
+                "id": 5,
+                "needCount": 6,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 36000
+                    }
+                ]
+            },
+            "4": {
+                "id": 5,
+                "needCount": 6,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 108000
+                    }
+                ]
+            },
+            "5": {
+                "id": 5,
+                "needCount": 6,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 324000
+                    }
+                ]
+            },
+            "6": {
+                "id": 5,
+                "needCount": 6,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 972000
+                    }
+                ]
+            }
+        },
+        "8": {
+            "1": {
+                "id": 5,
+                "needCount": 8,
+                "star": 1,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 5000
+                    }
+                ]
+            },
+            "2": {
+                "id": 5,
+                "needCount": 8,
+                "star": 2,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 15000
+                    }
+                ]
+            },
+            "3": {
+                "id": 5,
+                "needCount": 8,
+                "star": 3,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 45000
+                    }
+                ]
+            },
+            "4": {
+                "id": 5,
+                "needCount": 8,
+                "star": 4,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 135000
+                    }
+                ]
+            },
+            "5": {
+                "id": 5,
+                "needCount": 8,
+                "star": 5,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 405000
+                    }
+                ]
+            },
+            "6": {
+                "id": 5,
+                "needCount": 8,
+                "star": 6,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 1215000
+                    }
+                ]
+            }
+        }
+    }
+}

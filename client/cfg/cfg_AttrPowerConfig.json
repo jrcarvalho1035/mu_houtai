@@ -1,0 +1,1649 @@
+{
+    "0": {
+        "type": 0,
+        "powerC": 0,
+        "name": "Current HP",
+        "minname": "Current HP",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "1": {
+        "type": 1,
+        "powerC": 25,
+        "name": "HP",
+        "minname": "HP",
+        "isShowChang": 1,
+        "ishighattr": 0,
+        "viewType": 1
+    },
+    "2": {
+        "type": 2,
+        "powerC": 250,
+        "name": "Min ATK",
+        "minname": "Min ATK",
+        "isShowChang": 1,
+        "ishighattr": 0,
+        "viewType": 1
+    },
+    "3": {
+        "type": 3,
+        "powerC": 250,
+        "name": "Max ATK",
+        "minname": "Max ATK",
+        "isShowChang": 1,
+        "ishighattr": 0,
+        "viewType": 1
+    },
+    "4": {
+        "type": 4,
+        "powerC": 500,
+        "name": "DEF",
+        "minname": "DEF",
+        "isShowChang": 1,
+        "ishighattr": 0,
+        "viewType": 1
+    },
+    "5": {
+        "type": 5,
+        "powerC": 400,
+        "name": "ATK Success",
+        "minname": "ATK Success",
+        "isShowChang": 1,
+        "ishighattr": 0,
+        "viewType": 1
+    },
+    "6": {
+        "type": 6,
+        "powerC": 400,
+        "name": "DEF Success",
+        "minname": "DEF Success",
+        "isShowChang": 1,
+        "ishighattr": 0,
+        "viewType": 1
+    },
+    "7": {
+        "type": 7,
+        "powerC": 0,
+        "name": "MOV SPD",
+        "minname": "MOV SPD",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "8": {
+        "type": 8,
+        "powerC": 0,
+        "name": "ATK SPD",
+        "minname": "ATK SPD",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "9": {
+        "type": 9,
+        "powerC": 0,
+        "name": "Strong Hit",
+        "minname": "Strong Hit",
+        "isShowChang": 1,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "10": {
+        "type": 10,
+        "powerC": 0,
+        "name": "Critical Hit",
+        "minname": "Critical Hit",
+        "isShowChang": 1,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "11": {
+        "type": 11,
+        "powerC": 300,
+        "name": "Deadly",
+        "minname": "Deadly",
+        "isShowChang": 1,
+        "ishighattr": 0,
+        "viewType": 1
+    },
+    "12": {
+        "type": 12,
+        "powerC": 0,
+        "name": "Fierce Hit",
+        "minname": "Fierce Hit",
+        "isShowChang": 1,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "13": {
+        "type": 13,
+        "powerC": 0,
+        "name": "Might",
+        "minname": "Might",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "14": {
+        "type": 14,
+        "powerC": 0,
+        "name": "Agility",
+        "minname": "Agility",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "15": {
+        "type": 15,
+        "powerC": 0,
+        "name": "Stamina",
+        "minname": "Stamina",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "16": {
+        "type": 16,
+        "powerC": 0,
+        "name": "Intelligence",
+        "minname": "Intelligence",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "17": {
+        "type": 17,
+        "powerC": 0,
+        "name": "HP Bonus",
+        "minname": "HP Bonus",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "18": {
+        "type": 18,
+        "powerC": 0,
+        "name": "ATK",
+        "minname": "ATK",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "19": {
+        "type": 19,
+        "powerC": 0,
+        "name": "DEF",
+        "minname": "DEF",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "20": {
+        "type": 20,
+        "powerC": 0,
+        "name": "ATK Success",
+        "minname": "ATK Success",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "21": {
+        "type": 21,
+        "powerC": 0,
+        "name": "DEF Success",
+        "minname": "DEF Success",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "22": {
+        "type": 22,
+        "powerC": 0,
+        "name": "DMG INC",
+        "minname": "DMG INC",
+        "isShowChang": 1,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "23": {
+        "type": 23,
+        "powerC": 0,
+        "name": "DMG taken DEC",
+        "minname": "DMG taken DEC",
+        "isShowChang": 1,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "24": {
+        "type": 24,
+        "powerC": 0,
+        "name": "DMG Reflection",
+        "minname": "DMG Reflection",
+        "isShowChang": 1,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "25": {
+        "type": 25,
+        "powerC": 0,
+        "name": "Gold Drop",
+        "minname": "Gold Drop",
+        "isShowChang": 1,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "26": {
+        "type": 26,
+        "powerC": 500,
+        "name": "Extra DMG",
+        "minname": "Extra DMG",
+        "isShowChang": 1,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "27": {
+        "type": 27,
+        "powerC": 500,
+        "name": "DMG taken DEC",
+        "minname": "DMG taken DEC",
+        "isShowChang": 1,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "28": {
+        "type": 28,
+        "powerC": 0,
+        "name": "Heal after Kill",
+        "minname": "Heal after Kill",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "29": {
+        "type": 29,
+        "powerC": 0,
+        "name": "Heal after Kill",
+        "minname": "Heal after Kill",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "30": {
+        "type": 30,
+        "powerC": 0,
+        "name": "ATK",
+        "minname": "ATK",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "31": {
+        "type": 31,
+        "powerC": 0,
+        "name": "DEF",
+        "minname": "DEF",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "32": {
+        "type": 32,
+        "powerC": 0,
+        "name": "ATK",
+        "minname": "ATK",
+        "isShowChang": 1,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "33": {
+        "type": 33,
+        "powerC": 0,
+        "name": "EXP Bonus Permyriad",
+        "minname": "EXP Bonus Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "34": {
+        "type": 34,
+        "powerC": 0,
+        "name": "Rebirth Chance",
+        "minname": "Rebirth Chance",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "35": {
+        "type": 35,
+        "powerC": 0,
+        "name": "Vulnerable Chance",
+        "minname": "Vulnerable Chance",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "36": {
+        "type": 36,
+        "powerC": 0,
+        "name": "Piercing Chance",
+        "minname": "Piercing Chance",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "37": {
+        "type": 37,
+        "powerC": 0,
+        "name": "Slow Chance",
+        "minname": "Slow Chance",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "38": {
+        "type": 38,
+        "powerC": 0,
+        "name": "Poison Chance",
+        "minname": "Poison Chance",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "39": {
+        "type": 39,
+        "powerC": 0,
+        "name": "Angelic Hit",
+        "minname": "Angelic Hit",
+        "isShowChang": 1,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "40": {
+        "type": 40,
+        "powerC": 0,
+        "name": "Sacred Hit",
+        "minname": "Sacred Hit",
+        "isShowChang": 1,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "41": {
+        "type": 41,
+        "powerC": 0,
+        "name": "Strong Hit Res.",
+        "minname": "Strong Hit Res.",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "42": {
+        "type": 42,
+        "powerC": 0,
+        "name": "Critical Hit Res.",
+        "minname": "Critical Hit Res.",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "43": {
+        "type": 43,
+        "powerC": 300,
+        "name": "Res.",
+        "minname": "Res.",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 1
+    },
+    "44": {
+        "type": 44,
+        "powerC": 0,
+        "name": "Fierce Hit Res.",
+        "minname": "Fierce Hit Res.",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "45": {
+        "type": 45,
+        "powerC": 0,
+        "name": "Strong Hit DMG Bonus",
+        "minname": "Strong Hit DMG Bonus",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "46": {
+        "type": 46,
+        "powerC": 0,
+        "name": "Critical Hit DMG Bonus",
+        "minname": "Critical Hit DMG Bonus",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "47": {
+        "type": 47,
+        "powerC": 0,
+        "name": "Deadly Hit DMG Bonus",
+        "minname": "Deadly Hit DMG Bonus",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "48": {
+        "type": 48,
+        "powerC": 0,
+        "name": "Fierce Hit DMG Bonus",
+        "minname": "Fierce Hit DMG Bonus",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "49": {
+        "type": 49,
+        "powerC": 0,
+        "name": "Angelic Hit DMG Bonus",
+        "minname": "Angelic Hit DMG Bonus",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "50": {
+        "type": 50,
+        "powerC": 0,
+        "name": "Sacred Hit DMG Bonus",
+        "minname": "Sacred Hit DMG Bonus",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "51": {
+        "type": 51,
+        "powerC": 0,
+        "name": "Corrosion",
+        "minname": "Corrosion",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "52": {
+        "type": 52,
+        "powerC": 0,
+        "name": "Deadly",
+        "minname": "Deadly",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "53": {
+        "type": 53,
+        "powerC": 0,
+        "name": "Bloodthirst",
+        "minname": "Bloodthirst",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "54": {
+        "type": 54,
+        "powerC": 0,
+        "name": "Freeze",
+        "minname": "Freeze",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "55": {
+        "type": 55,
+        "powerC": 0,
+        "name": "Bash",
+        "minname": "Bash",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "56": {
+        "type": 56,
+        "powerC": 0,
+        "name": "DMG to Boss INC",
+        "minname": "DMG to Boss INC",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "57": {
+        "type": 57,
+        "powerC": 0,
+        "name": "Avatar Skill's DMG to monsters increases",
+        "minname": "Avatar Skill's DMG to monsters increases",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "58": {
+        "type": 58,
+        "powerC": 0,
+        "name": "Avatar Skill's DMG to players increases",
+        "minname": "Avatar Skill's DMG to players increases",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "59": {
+        "type": 59,
+        "powerC": 0,
+        "name": "PVP DMG INC",
+        "minname": "PVP DMG INC",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "60": {
+        "type": 60,
+        "powerC": 0,
+        "name": "PVP DMG DEC",
+        "minname": "PVP DMG DEC",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "61": {
+        "type": 61,
+        "powerC": 0,
+        "name": "Avatar HP Percentage Bonus",
+        "minname": "Avatar HP Percentage Bonus",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "62": {
+        "type": 62,
+        "powerC": 1000,
+        "name": "Piercing",
+        "minname": "Piercing",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 1
+    },
+    "63": {
+        "type": 63,
+        "powerC": 0,
+        "name": "Deadly DMG INC",
+        "minname": "Deadly DMG INC",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "64": {
+        "type": 64,
+        "powerC": 0,
+        "name": "Deadly DMG taken DEC",
+        "minname": "Deadly DMG taken DEC",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 2
+    },
+    "65": {
+        "type": 65,
+        "powerC": 0,
+        "name": "Artifact Total Stats",
+        "minname": "Artifact Total Stats",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "66": {
+        "type": 66,
+        "powerC": 0,
+        "name": "Wings Total Stats",
+        "minname": "Wings Total Stats",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "67": {
+        "type": 67,
+        "powerC": 0,
+        "name": "Divine Gear Total Stats",
+        "minname": "Divine Gear Total Stats",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "68": {
+        "type": 68,
+        "powerC": 0,
+        "name": "Merlin Book Total Stats",
+        "minname": "Merlin Book Total Stats",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "69": {
+        "type": 69,
+        "powerC": 0,
+        "name": "Fairy Total Stats",
+        "minname": "Fairy Total Stats",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "70": {
+        "type": 70,
+        "powerC": 0,
+        "name": "Mercenary Total Stats",
+        "minname": "Mercenary Total Stats",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "71": {
+        "type": 71,
+        "powerC": 0,
+        "name": "Avatar Total Stats",
+        "minname": "Avatar Total Stats",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "72": {
+        "type": 72,
+        "powerC": 0,
+        "name": "Piercing",
+        "minname": "Piercing",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "73": {
+        "type": 73,
+        "powerC": 0,
+        "name": "Gear ATK",
+        "minname": "Gear ATK",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "74": {
+        "type": 74,
+        "powerC": 0,
+        "name": "Gear HP",
+        "minname": "Gear HP",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "75": {
+        "type": 75,
+        "powerC": 0,
+        "name": "Gear Piercing",
+        "minname": "Gear Piercing",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "76": {
+        "type": 76,
+        "powerC": 0,
+        "name": "Gear DEF",
+        "minname": "Gear DEF",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "77": {
+        "type": 77,
+        "powerC": 0,
+        "name": "Gear Deadly",
+        "minname": "Gear Deadly",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "78": {
+        "type": 78,
+        "powerC": 0,
+        "name": "Gear Resist",
+        "minname": "Gear Resist",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "79": {
+        "type": 79,
+        "powerC": 0,
+        "name": "Gear ATK Success Rate",
+        "minname": "Gear ATK Success Rate",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "80": {
+        "type": 80,
+        "powerC": 0,
+        "name": "Gear DEF Success Rate",
+        "minname": "Gear DEF Success Rate",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "81": {
+        "type": 81,
+        "powerC": 0,
+        "name": "Reinforced Stats Amp.",
+        "minname": "Reinforced Stats Amp.",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "82": {
+        "type": 82,
+        "powerC": 0,
+        "name": "Footprint HP",
+        "minname": "Footprint HP",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "83": {
+        "type": 83,
+        "powerC": 0,
+        "name": "Footprint DEF",
+        "minname": "Footprint DEF",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "84": {
+        "type": 84,
+        "powerC": 0,
+        "name": "Footprint DEF Success Rate Bonus",
+        "minname": "Footprint DEF Success Rate Bonus",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "85": {
+        "type": 85,
+        "powerC": 0,
+        "name": "Footprint Total Stats",
+        "minname": "Footprint Total Stats",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "86": {
+        "type": 86,
+        "powerC": 0,
+        "name": "Protection Current Point",
+        "minname": "Protection Current Point",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "87": {
+        "type": 87,
+        "powerC": 25,
+        "name": "Protection Point",
+        "minname": "Protection Point",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "88": {
+        "type": 88,
+        "powerC": 0,
+        "name": "Protection Stats Bonus",
+        "minname": "Protection Stats Bonus",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "89": {
+        "type": 89,
+        "powerC": 500,
+        "name": "Godhood ATK",
+        "minname": "Godhood ATK",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "90": {
+        "type": 90,
+        "powerC": 0,
+        "name": "Protection Reduction",
+        "minname": "Protection Reduction",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "91": {
+        "type": 91,
+        "powerC": 0,
+        "name": "Protection Skill Book Total Stats Bonus",
+        "minname": "Protection Skill Book Total Stats Bonus",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "92": {
+        "type": 92,
+        "powerC": 0,
+        "name": "DMG Reduction when Protection exists",
+        "minname": "DMG Reduction when Protection exists",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "93": {
+        "type": 93,
+        "powerC": 0,
+        "name": "Protection Auto Recovery",
+        "minname": "Protection Auto Recovery",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "94": {
+        "type": 94,
+        "powerC": 0,
+        "name": "Protection Imprint Amount",
+        "minname": "Protection Imprint Amount",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "95": {
+        "type": 95,
+        "powerC": 0,
+        "name": "Protection Imprint Charge Speed Up",
+        "minname": "Protection Imprint Charge Speed Up",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "96": {
+        "type": 96,
+        "powerC": 0,
+        "name": "Protection Imprint DMG Bonus",
+        "minname": "Protection Imprint DMG Bonus",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "97": {
+        "type": 97,
+        "powerC": 0,
+        "name": "Protection Imprint",
+        "minname": "Protection Imprint",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "98": {
+        "type": 98,
+        "powerC": 0,
+        "name": "Spirit Imprint Total Stats",
+        "minname": "Spirit Imprint Total Stats",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "99": {
+        "type": 99,
+        "powerC": 500,
+        "name": "PVP DMG INC",
+        "minname": "PVP DMG INC",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "100": {
+        "type": 100,
+        "powerC": 500,
+        "name": "PVP DMG DEC",
+        "minname": "PVP DMG DEC",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "101": {
+        "type": 101,
+        "powerC": 0,
+        "name": "Cryptid Total Stats",
+        "minname": "Cryptid Total Stats",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "102": {
+        "type": 102,
+        "powerC": 0,
+        "name": "Feather Total Stats",
+        "minname": "Feather Total Stats",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "103": {
+        "type": 103,
+        "powerC": 500,
+        "name": "Water ATK",
+        "minname": "Water ATK",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "104": {
+        "type": 104,
+        "powerC": 500,
+        "name": "Fire ATK",
+        "minname": "Fire ATK",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "105": {
+        "type": 105,
+        "powerC": 500,
+        "name": "Earth ATK",
+        "minname": "Earth ATK",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "106": {
+        "type": 106,
+        "powerC": 500,
+        "name": "Wind ATK",
+        "minname": "Wind ATK",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "107": {
+        "type": 107,
+        "powerC": 500,
+        "name": "Thunder ATK",
+        "minname": "Thunder ATK",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "108": {
+        "type": 108,
+        "powerC": 500,
+        "name": "Water DEF",
+        "minname": "Water DEF",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "109": {
+        "type": 109,
+        "powerC": 500,
+        "name": "Fire DEF",
+        "minname": "Fire DEF",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "110": {
+        "type": 110,
+        "powerC": 500,
+        "name": "Earth DEF",
+        "minname": "Earth DEF",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "111": {
+        "type": 111,
+        "powerC": 500,
+        "name": "Wind DEF",
+        "minname": "Wind DEF",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "112": {
+        "type": 112,
+        "powerC": 500,
+        "name": "Thunder DEF",
+        "minname": "Thunder DEF",
+        "isShowChang": 0,
+        "ishighattr": 1,
+        "viewType": 0
+    },
+    "113": {
+        "type": 113,
+        "powerC": 0,
+        "name": "Water DMG INC",
+        "minname": "Water DMG INC",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "114": {
+        "type": 114,
+        "powerC": 0,
+        "name": "Fire DMG INC",
+        "minname": "Fire DMG INC",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "115": {
+        "type": 115,
+        "powerC": 0,
+        "name": "Earth DMG INC",
+        "minname": "Earth DMG INC",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "116": {
+        "type": 116,
+        "powerC": 0,
+        "name": "Wind DMG INC",
+        "minname": "Wind DMG INC",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "117": {
+        "type": 117,
+        "powerC": 0,
+        "name": "Thunder DMG INC",
+        "minname": "Thunder DMG INC",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "118": {
+        "type": 118,
+        "powerC": 0,
+        "name": "Water DMG taken DEC",
+        "minname": "Water DMG taken DEC",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "119": {
+        "type": 119,
+        "powerC": 0,
+        "name": "Fire DMG taken DEC",
+        "minname": "Fire DMG taken DEC",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "120": {
+        "type": 120,
+        "powerC": 0,
+        "name": "Earth DMG taken DEC",
+        "minname": "Earth DMG taken DEC",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "121": {
+        "type": 121,
+        "powerC": 0,
+        "name": "Wind DMG taken DEC",
+        "minname": "Wind DMG taken DEC",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "122": {
+        "type": 122,
+        "powerC": 0,
+        "name": "Thunder DMG taken DEC",
+        "minname": "Thunder DMG taken DEC",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "123": {
+        "type": 123,
+        "powerC": 0,
+        "name": "Element DMG INC",
+        "minname": "Element DMG INC",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "124": {
+        "type": 124,
+        "powerC": 0,
+        "name": "Element DMG taken DEC",
+        "minname": "Element DMG taken DEC",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "125": {
+        "type": 125,
+        "powerC": 0,
+        "name": "Weapon stats increase",
+        "minname": "Weapon stats increase",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "126": {
+        "type": 126,
+        "powerC": 0,
+        "name": "Helmet stats increase",
+        "minname": "Helmet stats increase",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "127": {
+        "type": 127,
+        "powerC": 0,
+        "name": "Armor stats increase",
+        "minname": "Armor stats increase",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "128": {
+        "type": 128,
+        "powerC": 0,
+        "name": "Bracers stats increase",
+        "minname": "Bracers stats increase",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "129": {
+        "type": 129,
+        "powerC": 0,
+        "name": "Leggings stats increase",
+        "minname": "Leggings stats increase",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "130": {
+        "type": 130,
+        "powerC": 0,
+        "name": "Boots stats increase",
+        "minname": "Boots stats increase",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "131": {
+        "type": 131,
+        "powerC": 0,
+        "name": "Necklace stats increase",
+        "minname": "Necklace stats increase",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "132": {
+        "type": 132,
+        "powerC": 0,
+        "name": "Badge stats increase",
+        "minname": "Badge stats increase",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "133": {
+        "type": 133,
+        "powerC": 0,
+        "name": "Deity Ring stats increase",
+        "minname": "Deity Ring stats increase",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "134": {
+        "type": 134,
+        "powerC": 0,
+        "name": "Demon Ring stats increase",
+        "minname": "Demon Ring stats increase",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "135": {
+        "type": 135,
+        "powerC": 0,
+        "name": "Scarlet Set Stats",
+        "minname": "Scarlet Set Stats",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "136": {
+        "type": 136,
+        "powerC": 0,
+        "name": "Epic Spirit Gear Stats",
+        "minname": "Epic Spirit Gear Stats",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "137": {
+        "type": 137,
+        "powerC": 0,
+        "name": "Legendary Spirit Gear Stats",
+        "minname": "Legendary Spirit Gear Stats",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "138": {
+        "type": 138,
+        "powerC": 0,
+        "name": "Sacred Spirit Gear Stats",
+        "minname": "Sacred Spirit Gear Stats",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "139": {
+        "type": 139,
+        "powerC": 0,
+        "name": "Demon Spirit Upgrade Stats",
+        "minname": "Demon Spirit Upgrade Stats",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "140": {
+        "type": 140,
+        "powerC": 0,
+        "name": "Dark Gear Stats",
+        "minname": "Dark Gear Stats",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "141": {
+        "type": 141,
+        "powerC": 0,
+        "name": "Water ATK Permyriad",
+        "minname": "Water ATK Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "142": {
+        "type": 142,
+        "powerC": 0,
+        "name": "Fire ATK Permyriad",
+        "minname": "Fire ATK Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "143": {
+        "type": 143,
+        "powerC": 0,
+        "name": "Earth ATK Permyriad",
+        "minname": "Earth ATK Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "144": {
+        "type": 144,
+        "powerC": 0,
+        "name": "Wind ATK Permyriad",
+        "minname": "Wind ATK Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "145": {
+        "type": 145,
+        "powerC": 0,
+        "name": "Thunder ATK Permyriad",
+        "minname": "Thunder ATK Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "146": {
+        "type": 146,
+        "powerC": 0,
+        "name": "Water DEF Permyriad",
+        "minname": "Water DEF Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "147": {
+        "type": 147,
+        "powerC": 0,
+        "name": "Fire DEF Permyriad",
+        "minname": "Fire DEF Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "148": {
+        "type": 148,
+        "powerC": 0,
+        "name": "Earth DEF Permyriad",
+        "minname": "Earth DEF Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "149": {
+        "type": 149,
+        "powerC": 0,
+        "name": "Wind DEF Permyriad",
+        "minname": "Wind DEF Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "150": {
+        "type": 150,
+        "powerC": 0,
+        "name": "Thunder DEF Permyriad",
+        "minname": "Thunder DEF Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "151": {
+        "type": 151,
+        "powerC": 25,
+        "name": "Eudemon HP",
+        "minname": "HP",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "152": {
+        "type": 152,
+        "powerC": 500,
+        "name": "Eudemon ATK",
+        "minname": "ATK",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "153": {
+        "type": 153,
+        "powerC": 500,
+        "name": "Eudemon DEF",
+        "minname": "DEF",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "154": {
+        "type": 154,
+        "powerC": 400,
+        "name": "Eudemon ATK Success Rate",
+        "minname": "ATK Success",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "155": {
+        "type": 155,
+        "powerC": 400,
+        "name": "Eudemon DEF Success Rate",
+        "minname": "DEF Success",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "156": {
+        "type": 156,
+        "powerC": 300,
+        "name": "Eudemon Deadly",
+        "minname": "Deadly",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "157": {
+        "type": 157,
+        "powerC": 300,
+        "name": "Eudemon Res",
+        "minname": "Res.",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "158": {
+        "type": 158,
+        "powerC": 1000,
+        "name": "Eudemon Piercing",
+        "minname": "Piercing",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "159": {
+        "type": 159,
+        "powerC": 0,
+        "name": "Eudemon HP",
+        "minname": "Eudemon HP",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "160": {
+        "type": 160,
+        "powerC": 0,
+        "name": "Eudemon ATK",
+        "minname": "Eudemon ATK",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "161": {
+        "type": 161,
+        "powerC": 0,
+        "name": "Eudemon DEF",
+        "minname": "Eudemon DEF",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "162": {
+        "type": 162,
+        "powerC": 0,
+        "name": "Eudemon Piercing",
+        "minname": "Eudemon Piercing",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "163": {
+        "type": 163,
+        "powerC": 0,
+        "name": "Self Eudemon Gear ATK Permyriad",
+        "minname": "Self Eudemon Gear ATK Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "164": {
+        "type": 164,
+        "powerC": 0,
+        "name": "Self Eudemon Gear HP Permyriad",
+        "minname": "Self Eudemon Gear HP Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "165": {
+        "type": 165,
+        "powerC": 0,
+        "name": "Self Eudemon Gear DEF Permyriad",
+        "minname": "Self Eudemon Gear DEF Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "166": {
+        "type": 166,
+        "powerC": 0,
+        "name": "Self Eudemon Gear All Stats Permyriad",
+        "minname": "Self Eudemon Gear All Stats Permyriad",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "167": {
+        "type": 167,
+        "powerC": 0,
+        "name": "All stats permyriad of the Gear on the 3 highest quality Eudemons deployed",
+        "minname": "All stats permyriad of the Gear on the 3 highest quality Eudemons deployed",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "168": {
+        "type": 168,
+        "powerC": 0,
+        "name": "All stats permyriad of the Gear on the 4 highest quality Eudemons deployed",
+        "minname": "All stats permyriad of the Gear on the 4 highest quality Eudemons deployed",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "169": {
+        "type": 169,
+        "powerC": 0,
+        "name": "All stats permyriad of the Gear on all Eudemons deployed",
+        "minname": "All stats permyriad of the Gear on all Eudemons deployed",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "170": {
+        "type": 170,
+        "powerC": 0,
+        "name": "All stats permyriad of the Eudemon's Horn",
+        "minname": "All stats permyriad of the Eudemon's Horn",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "171": {
+        "type": 171,
+        "powerC": 0,
+        "name": "All stats permyriad of the Eudemon's Body",
+        "minname": "All stats permyriad of the Eudemon's Body",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "172": {
+        "type": 172,
+        "powerC": 0,
+        "name": "All stats permyriad of the Eudemon's Eye",
+        "minname": "All stats permyriad of the Eudemon's Eye",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "173": {
+        "type": 173,
+        "powerC": 0,
+        "name": "All stats permyriad of the Eudemon's Claw",
+        "minname": "All stats permyriad of the Eudemon's Claw",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "174": {
+        "type": 174,
+        "powerC": 0,
+        "name": "All stats permyriad of the Eudemon's Tail",
+        "minname": "All stats permyriad of the Eudemon's Tail",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "175": {
+        "type": 175,
+        "powerC": 0,
+        "name": "Scarlet Sword Glyph Stats",
+        "minname": "Scarlet Sword Glyph Stats",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "176": {
+        "type": 176,
+        "powerC": 0,
+        "name": "Scarlet Armor Glyph Stats",
+        "minname": "Scarlet Armor Glyph Stats",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "177": {
+        "type": 177,
+        "powerC": 0,
+        "name": "Scarlet Ring Glyph Stats",
+        "minname": "Scarlet Ring Glyph Stats",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "178": {
+        "type": 178,
+        "powerC": 0,
+        "name": "Scarlet Imprint Glyph Stats",
+        "minname": "Scarlet Imprint Glyph Stats",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "179": {
+        "type": 179,
+        "powerC": 0,
+        "name": "Scarlet Set ATK",
+        "minname": "Scarlet Set ATK",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "180": {
+        "type": 180,
+        "powerC": 0,
+        "name": "Scarlet Set HP",
+        "minname": "Scarlet Set HP",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "181": {
+        "type": 181,
+        "powerC": 0,
+        "name": "Scarlet Set Deadly",
+        "minname": "Scarlet Set Deadly",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    },
+    "182": {
+        "type": 182,
+        "powerC": 0,
+        "name": "Scarlet Set Res.",
+        "minname": "Scarlet Set Res.",
+        "isShowChang": 0,
+        "ishighattr": 0,
+        "viewType": 0
+    }
+}

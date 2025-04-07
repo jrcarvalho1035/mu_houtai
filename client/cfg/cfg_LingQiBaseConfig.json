@@ -1,0 +1,668 @@
+{
+    "1": {
+        "id": 1,
+        "quality": 3,
+        "srQuality": 0,
+        "name": "Tyrant Blade",
+        "dec": "Diamond Activate",
+        "lvNeedItem": [
+            550102
+        ],
+        "baseSkills": [
+            23101,
+            23102,
+            23103,
+            23104
+        ],
+        "activeItem": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000
+            }
+        ],
+        "needItem": [
+            {
+                "type": 1,
+                "id": 550001,
+                "count": 1
+            }
+        ],
+        "maxStage": 15000,
+        "stageAttrs": [
+            {
+                "type": 32,
+                "value": 18000
+            },
+            {
+                "type": 5,
+                "value": 18750
+            },
+            {
+                "type": 11,
+                "value": 30000
+            },
+            {
+                "type": 62,
+                "value": 4500
+            }
+        ],
+        "stageSkills": [
+            25101
+        ],
+        "power": 300000
+    },
+    "2": {
+        "id": 2,
+        "quality": 3,
+        "srQuality": 0,
+        "name": "Glory Guard",
+        "dec": "Diamond Activate",
+        "lvNeedItem": [
+            550102
+        ],
+        "baseSkills": [
+            23201,
+            23202,
+            23203,
+            23204
+        ],
+        "activeItem": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 9000
+            }
+        ],
+        "needItem": [
+            {
+                "type": 1,
+                "id": 550002,
+                "count": 1
+            }
+        ],
+        "maxStage": 15000,
+        "stageAttrs": [
+            {
+                "type": 1,
+                "value": 1440000
+            },
+            {
+                "type": 4,
+                "value": 36000
+            },
+            {
+                "type": 6,
+                "value": 36000
+            },
+            {
+                "type": 43,
+                "value": 72000
+            }
+        ],
+        "stageSkills": [
+            25201
+        ],
+        "power": 900000
+    },
+    "3": {
+        "id": 3,
+        "quality": 4,
+        "srQuality": 0,
+        "name": "Godslayer Spear",
+        "dec": "Spirit Gear Realm",
+        "lvNeedItem": [
+            550103
+        ],
+        "baseSkills": [
+            23301,
+            23302,
+            23303,
+            23304
+        ],
+        "activeItem": [
+            {
+                "type": 1,
+                "id": 550003,
+                "count": 1
+            }
+        ],
+        "needItem": [
+            {
+                "type": 1,
+                "id": 550003,
+                "count": 1
+            }
+        ],
+        "maxStage": 7500,
+        "stageAttrs": [
+            {
+                "type": 32,
+                "value": 72000
+            },
+            {
+                "type": 5,
+                "value": 75000
+            },
+            {
+                "type": 11,
+                "value": 120000
+            },
+            {
+                "type": 62,
+                "value": 18000
+            }
+        ],
+        "stageSkills": [
+            25301
+        ],
+        "power": 1200000
+    },
+    "4": {
+        "id": 4,
+        "quality": 4,
+        "srQuality": 0,
+        "name": "Element Rampart",
+        "dec": "Spirit Gear Realm",
+        "lvNeedItem": [
+            550103
+        ],
+        "baseSkills": [
+            23401,
+            23402,
+            23403,
+            23404
+        ],
+        "activeItem": [
+            {
+                "type": 1,
+                "id": 550004,
+                "count": 1
+            }
+        ],
+        "needItem": [
+            {
+                "type": 1,
+                "id": 550004,
+                "count": 1
+            }
+        ],
+        "maxStage": 7500,
+        "stageAttrs": [
+            {
+                "type": 1,
+                "value": 1920000
+            },
+            {
+                "type": 4,
+                "value": 48000
+            },
+            {
+                "type": 6,
+                "value": 48000
+            },
+            {
+                "type": 43,
+                "value": 96000
+            }
+        ],
+        "stageSkills": [
+            25401
+        ],
+        "power": 1200000
+    },
+    "5": {
+        "id": 5,
+        "quality": 4,
+        "srQuality": 0,
+        "name": "Sacred Sun Axe",
+        "dec": "Spirit Gear Hunt",
+        "lvNeedItem": [
+            550103
+        ],
+        "baseSkills": [
+            23501,
+            23502,
+            23503,
+            23504
+        ],
+        "activeItem": [
+            {
+                "type": 1,
+                "id": 550005,
+                "count": 1
+            }
+        ],
+        "needItem": [
+            {
+                "type": 1,
+                "id": 550005,
+                "count": 1
+            }
+        ],
+        "maxStage": 7500,
+        "stageAttrs": [
+            {
+                "type": 32,
+                "value": 180000
+            },
+            {
+                "type": 5,
+                "value": 187500
+            },
+            {
+                "type": 11,
+                "value": 300000
+            },
+            {
+                "type": 62,
+                "value": 45000
+            }
+        ],
+        "stageSkills": [
+            25501
+        ],
+        "power": 3000000
+    },
+    "6": {
+        "id": 6,
+        "quality": 4,
+        "srQuality": 0,
+        "name": "Shield of Hope",
+        "dec": "Spirit Gear Hunt",
+        "lvNeedItem": [
+            550103
+        ],
+        "baseSkills": [
+            23601,
+            23602,
+            23603,
+            23604
+        ],
+        "activeItem": [
+            {
+                "type": 1,
+                "id": 550006,
+                "count": 1
+            }
+        ],
+        "needItem": [
+            {
+                "type": 1,
+                "id": 550006,
+                "count": 1
+            }
+        ],
+        "maxStage": 7500,
+        "stageAttrs": [
+            {
+                "type": 1,
+                "value": 4800000
+            },
+            {
+                "type": 4,
+                "value": 120000
+            },
+            {
+                "type": 6,
+                "value": 120000
+            },
+            {
+                "type": 43,
+                "value": 240000
+            }
+        ],
+        "stageSkills": [
+            25601
+        ],
+        "power": 3000000
+    },
+    "7": {
+        "id": 7,
+        "quality": 5,
+        "srQuality": 0,
+        "name": "Frostmourne",
+        "dec": "Spirit Gear Hunt",
+        "lvNeedItem": [
+            550104
+        ],
+        "baseSkills": [
+            23701,
+            23702,
+            23703,
+            23704
+        ],
+        "activeItem": [
+            {
+                "type": 1,
+                "id": 550007,
+                "count": 1
+            }
+        ],
+        "needItem": [
+            {
+                "type": 1,
+                "id": 550007,
+                "count": 1
+            }
+        ],
+        "maxStage": 3000,
+        "stageAttrs": [
+            {
+                "type": 32,
+                "value": 480000
+            },
+            {
+                "type": 5,
+                "value": 500000
+            },
+            {
+                "type": 11,
+                "value": 800000
+            },
+            {
+                "type": 62,
+                "value": 120000
+            },
+            {
+                "type": 136,
+                "value": 50
+            }
+        ],
+        "stageSkills": [
+            25701,
+            25801
+        ],
+        "power": 8000000
+    },
+    "8": {
+        "id": 8,
+        "quality": 5,
+        "srQuality": 0,
+        "name": "Fate Reverser",
+        "dec": "Spirit Gear Hunt",
+        "lvNeedItem": [
+            550104
+        ],
+        "baseSkills": [
+            23801,
+            23802,
+            23803,
+            23804
+        ],
+        "activeItem": [
+            {
+                "type": 1,
+                "id": 550008,
+                "count": 1
+            }
+        ],
+        "needItem": [
+            {
+                "type": 1,
+                "id": 550008,
+                "count": 1
+            }
+        ],
+        "maxStage": 3000,
+        "stageAttrs": [
+            {
+                "type": 1,
+                "value": 12800000
+            },
+            {
+                "type": 4,
+                "value": 320000
+            },
+            {
+                "type": 6,
+                "value": 320000
+            },
+            {
+                "type": 43,
+                "value": 640000
+            },
+            {
+                "type": 136,
+                "value": 50
+            }
+        ],
+        "stageSkills": [
+            25901,
+            26101
+        ],
+        "power": 8000000
+    },
+    "9": {
+        "id": 9,
+        "quality": 5,
+        "srQuality": 0,
+        "name": "Fusion Blade",
+        "dec": "Spirit Gear Hunt",
+        "lvNeedItem": [
+            550104
+        ],
+        "baseSkills": [
+            23901,
+            23902,
+            23903,
+            23904
+        ],
+        "activeItem": [
+            {
+                "type": 1,
+                "id": 550009,
+                "count": 1
+            }
+        ],
+        "needItem": [
+            {
+                "type": 1,
+                "id": 550009,
+                "count": 1
+            }
+        ],
+        "maxStage": 3000,
+        "stageAttrs": [
+            {
+                "type": 32,
+                "value": 500000
+            },
+            {
+                "type": 5,
+                "value": 750000
+            },
+            {
+                "type": 11,
+                "value": 900000
+            },
+            {
+                "type": 62,
+                "value": 180000
+            },
+            {
+                "type": 137,
+                "value": 50
+            }
+        ],
+        "stageSkills": [
+            26201,
+            26301
+        ],
+        "power": 10000000
+    },
+    "10": {
+        "id": 10,
+        "quality": 5,
+        "srQuality": 0,
+        "name": "Purgatory Dragon",
+        "dec": "Spirit Gear Hunt",
+        "lvNeedItem": [
+            550104
+        ],
+        "baseSkills": [
+            24001,
+            24002,
+            24003,
+            24004
+        ],
+        "activeItem": [
+            {
+                "type": 1,
+                "id": 550010,
+                "count": 1
+            }
+        ],
+        "needItem": [
+            {
+                "type": 1,
+                "id": 550010,
+                "count": 1
+            }
+        ],
+        "maxStage": 3000,
+        "stageAttrs": [
+            {
+                "type": 1,
+                "value": 14400000
+            },
+            {
+                "type": 4,
+                "value": 500000
+            },
+            {
+                "type": 6,
+                "value": 450000
+            },
+            {
+                "type": 43,
+                "value": 700000
+            },
+            {
+                "type": 137,
+                "value": 50
+            }
+        ],
+        "stageSkills": [
+            26401,
+            26501
+        ],
+        "power": 10000000
+    },
+    "11": {
+        "id": 11,
+        "quality": 5,
+        "srQuality": 0,
+        "name": "Crimson Sword",
+        "dec": "Brilliant Event",
+        "lvNeedItem": [
+            550104
+        ],
+        "baseSkills": [
+            24101,
+            24102,
+            24103,
+            24104
+        ],
+        "activeItem": [
+            {
+                "type": 1,
+                "id": 550011,
+                "count": 1
+            }
+        ],
+        "needItem": [
+            {
+                "type": 1,
+                "id": 550011,
+                "count": 1
+            }
+        ],
+        "maxStage": 3000,
+        "stageAttrs": [
+            {
+                "type": 32,
+                "value": 900000
+            },
+            {
+                "type": 5,
+                "value": 937500
+            },
+            {
+                "type": 11,
+                "value": 1500000
+            },
+            {
+                "type": 62,
+                "value": 225000
+            },
+            {
+                "type": 138,
+                "value": 50
+            }
+        ],
+        "stageSkills": [
+            26601,
+            26701
+        ],
+        "power": 15000000
+    },
+    "12": {
+        "id": 12,
+        "quality": 5,
+        "srQuality": 0,
+        "name": "Divine Will",
+        "dec": "Brilliant Event",
+        "lvNeedItem": [
+            550104
+        ],
+        "baseSkills": [
+            24201,
+            24202,
+            24203,
+            24204
+        ],
+        "activeItem": [
+            {
+                "type": 1,
+                "id": 550012,
+                "count": 1
+            }
+        ],
+        "needItem": [
+            {
+                "type": 1,
+                "id": 550012,
+                "count": 1
+            }
+        ],
+        "maxStage": 3000,
+        "stageAttrs": [
+            {
+                "type": 1,
+                "value": 24000000
+            },
+            {
+                "type": 4,
+                "value": 600000
+            },
+            {
+                "type": 6,
+                "value": 600000
+            },
+            {
+                "type": 43,
+                "value": 1200000
+            },
+            {
+                "type": 138,
+                "value": 50
+            }
+        ],
+        "stageSkills": [
+            26801,
+            26901
+        ],
+        "power": 15000000
+    }
+}

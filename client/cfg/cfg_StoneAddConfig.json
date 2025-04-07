@@ -1,0 +1,302 @@
+{
+    "0": {
+        "stage": 0,
+        "atkper": 0,
+        "hpper": 0,
+        "needstar": 20
+    },
+    "1": {
+        "stage": 1,
+        "atkper": 500,
+        "hpper": 500,
+        "needstar": 40
+    },
+    "2": {
+        "stage": 2,
+        "atkper": 800,
+        "hpper": 800,
+        "needstar": 60
+    },
+    "3": {
+        "stage": 3,
+        "atkper": 1100,
+        "hpper": 1100,
+        "needstar": 80
+    },
+    "4": {
+        "stage": 4,
+        "atkper": 1400,
+        "hpper": 1400,
+        "needstar": 100
+    },
+    "5": {
+        "stage": 5,
+        "atkper": 1700,
+        "hpper": 1700,
+        "needstar": 120
+    },
+    "6": {
+        "stage": 6,
+        "atkper": 2000,
+        "hpper": 2000,
+        "needstar": 140
+    },
+    "7": {
+        "stage": 7,
+        "atkper": 2300,
+        "hpper": 2300,
+        "needstar": 160
+    },
+    "8": {
+        "stage": 8,
+        "atkper": 2600,
+        "hpper": 2600,
+        "needstar": 180
+    },
+    "9": {
+        "stage": 9,
+        "atkper": 2900,
+        "hpper": 2900,
+        "needstar": 200
+    },
+    "10": {
+        "stage": 10,
+        "atkper": 3200,
+        "hpper": 3200,
+        "needstar": 220
+    },
+    "11": {
+        "stage": 11,
+        "atkper": 3500,
+        "hpper": 3500,
+        "needstar": 230
+    },
+    "12": {
+        "stage": 12,
+        "atkper": 3800,
+        "hpper": 3800,
+        "needstar": 240
+    },
+    "13": {
+        "stage": 13,
+        "atkper": 4100,
+        "hpper": 4100,
+        "needstar": 250
+    },
+    "14": {
+        "stage": 14,
+        "atkper": 4400,
+        "hpper": 4400,
+        "needstar": 260
+    },
+    "15": {
+        "stage": 15,
+        "atkper": 4700,
+        "hpper": 4700,
+        "needstar": 270
+    },
+    "16": {
+        "stage": 16,
+        "atkper": 5000,
+        "hpper": 5000,
+        "needstar": 280
+    },
+    "17": {
+        "stage": 17,
+        "atkper": 5300,
+        "hpper": 5300,
+        "needstar": 290
+    },
+    "18": {
+        "stage": 18,
+        "atkper": 5600,
+        "hpper": 5600,
+        "needstar": 300
+    },
+    "19": {
+        "stage": 19,
+        "atkper": 5900,
+        "hpper": 5900,
+        "needstar": 310
+    },
+    "20": {
+        "stage": 20,
+        "atkper": 6200,
+        "hpper": 6200,
+        "needstar": 320
+    },
+    "21": {
+        "stage": 21,
+        "atkper": 6500,
+        "hpper": 6500,
+        "needstar": 330
+    },
+    "22": {
+        "stage": 22,
+        "atkper": 6800,
+        "hpper": 6800,
+        "needstar": 340
+    },
+    "23": {
+        "stage": 23,
+        "atkper": 7100,
+        "hpper": 7100,
+        "needstar": 350
+    },
+    "24": {
+        "stage": 24,
+        "atkper": 7400,
+        "hpper": 7400,
+        "needstar": 360
+    },
+    "25": {
+        "stage": 25,
+        "atkper": 7700,
+        "hpper": 7700,
+        "needstar": 370
+    },
+    "26": {
+        "stage": 26,
+        "atkper": 8000,
+        "hpper": 8000,
+        "needstar": 380
+    },
+    "27": {
+        "stage": 27,
+        "atkper": 8300,
+        "hpper": 8300,
+        "needstar": 390
+    },
+    "28": {
+        "stage": 28,
+        "atkper": 8600,
+        "hpper": 8600,
+        "needstar": 400
+    },
+    "29": {
+        "stage": 29,
+        "atkper": 8900,
+        "hpper": 8900,
+        "needstar": 410
+    },
+    "30": {
+        "stage": 30,
+        "atkper": 9200,
+        "hpper": 9200,
+        "needstar": 420
+    },
+    "31": {
+        "stage": 31,
+        "atkper": 9500,
+        "hpper": 9500,
+        "needstar": 430
+    },
+    "32": {
+        "stage": 32,
+        "atkper": 9800,
+        "hpper": 9800,
+        "needstar": 440
+    },
+    "33": {
+        "stage": 33,
+        "atkper": 10100,
+        "hpper": 10100,
+        "needstar": 450
+    },
+    "34": {
+        "stage": 34,
+        "atkper": 10400,
+        "hpper": 10400,
+        "needstar": 460
+    },
+    "35": {
+        "stage": 35,
+        "atkper": 10700,
+        "hpper": 10700,
+        "needstar": 470
+    },
+    "36": {
+        "stage": 36,
+        "atkper": 11000,
+        "hpper": 11000,
+        "needstar": 480
+    },
+    "37": {
+        "stage": 37,
+        "atkper": 11300,
+        "hpper": 11300,
+        "needstar": 490
+    },
+    "38": {
+        "stage": 38,
+        "atkper": 11600,
+        "hpper": 11600,
+        "needstar": 500
+    },
+    "39": {
+        "stage": 39,
+        "atkper": 11900,
+        "hpper": 11900,
+        "needstar": 510
+    },
+    "40": {
+        "stage": 40,
+        "atkper": 12200,
+        "hpper": 12200,
+        "needstar": 520
+    },
+    "41": {
+        "stage": 41,
+        "atkper": 12500,
+        "hpper": 12500,
+        "needstar": 530
+    },
+    "42": {
+        "stage": 42,
+        "atkper": 12800,
+        "hpper": 12800,
+        "needstar": 540
+    },
+    "43": {
+        "stage": 43,
+        "atkper": 13100,
+        "hpper": 13100,
+        "needstar": 550
+    },
+    "44": {
+        "stage": 44,
+        "atkper": 13400,
+        "hpper": 13400,
+        "needstar": 560
+    },
+    "45": {
+        "stage": 45,
+        "atkper": 13700,
+        "hpper": 13700,
+        "needstar": 570
+    },
+    "46": {
+        "stage": 46,
+        "atkper": 14000,
+        "hpper": 14000,
+        "needstar": 580
+    },
+    "47": {
+        "stage": 47,
+        "atkper": 14300,
+        "hpper": 14300,
+        "needstar": 590
+    },
+    "48": {
+        "stage": 48,
+        "atkper": 14600,
+        "hpper": 14600,
+        "needstar": 600
+    },
+    "49": {
+        "stage": 49,
+        "atkper": 14900,
+        "hpper": 14900,
+        "needstar": 0
+    }
+}

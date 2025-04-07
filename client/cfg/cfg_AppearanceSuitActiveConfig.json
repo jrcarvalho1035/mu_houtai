@@ -1,0 +1,2070 @@
+{
+    "1": {
+        "1": {
+            "id": 1,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 264000
+                },
+                {
+                    "type": 1,
+                    "value": 4320000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 1,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 528000
+                },
+                {
+                    "type": 1,
+                    "value": 8640000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 1,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 792000
+                },
+                {
+                    "type": 1,
+                    "value": 12960000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    },
+    "2": {
+        "1": {
+            "id": 2,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 81600
+                },
+                {
+                    "type": 43,
+                    "value": 528000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 2,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 163200
+                },
+                {
+                    "type": 43,
+                    "value": 1056000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 2,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 244800
+                },
+                {
+                    "type": 43,
+                    "value": 1584000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    },
+    "3": {
+        "1": {
+            "id": 3,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 323000
+                },
+                {
+                    "type": 4,
+                    "value": 186200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 3,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 646000
+                },
+                {
+                    "type": 4,
+                    "value": 372400
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 3,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 969000
+                },
+                {
+                    "type": 4,
+                    "value": 558600
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    },
+    "4": {
+        "1": {
+            "id": 4,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 480000
+                },
+                {
+                    "type": 43,
+                    "value": 360000
+                },
+                {
+                    "type": 59,
+                    "value": 100
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 4,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 960000
+                },
+                {
+                    "type": 43,
+                    "value": 720000
+                },
+                {
+                    "type": 59,
+                    "value": 100
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 4,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 1440000
+                },
+                {
+                    "type": 43,
+                    "value": 1080000
+                },
+                {
+                    "type": 59,
+                    "value": 100
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    },
+    "5": {
+        "1": {
+            "id": 5,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 522000
+                },
+                {
+                    "type": 6,
+                    "value": 333500
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 5,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 1044000
+                },
+                {
+                    "type": 6,
+                    "value": 667000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 5,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 1566000
+                },
+                {
+                    "type": 6,
+                    "value": 1000500
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    },
+    "6": {
+        "1": {
+            "id": 6,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 213500
+                },
+                {
+                    "type": 43,
+                    "value": 227500
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 6,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 320250
+                },
+                {
+                    "type": 43,
+                    "value": 341250
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 6,
+            "index": 3,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 427000
+                },
+                {
+                    "type": 43,
+                    "value": 455000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 5000
+                }
+            ]
+        }
+    },
+    "7": {
+        "1": {
+            "id": 7,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 168400
+                },
+                {
+                    "type": 1,
+                    "value": 4632000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 7,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 252600
+                },
+                {
+                    "type": 1,
+                    "value": 6948000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 7,
+            "index": 3,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 336800
+                },
+                {
+                    "type": 1,
+                    "value": 9264000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 5000
+                }
+            ]
+        }
+    },
+    "8": {
+        "1": {
+            "id": 8,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 348000
+                },
+                {
+                    "type": 4,
+                    "value": 191200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 8,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 522000
+                },
+                {
+                    "type": 4,
+                    "value": 286800
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 8,
+            "index": 3,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 696000
+                },
+                {
+                    "type": 4,
+                    "value": 382400
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 5000
+                }
+            ]
+        }
+    },
+    "9": {
+        "1": {
+            "id": 9,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 116000
+                },
+                {
+                    "type": 6,
+                    "value": 210000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 9,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 174000
+                },
+                {
+                    "type": 6,
+                    "value": 315000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 9,
+            "index": 3,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 232000
+                },
+                {
+                    "type": 6,
+                    "value": 420000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 5000
+                }
+            ]
+        }
+    },
+    "10": {
+        "1": {
+            "id": 10,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 214500
+                },
+                {
+                    "type": 4,
+                    "value": 228400
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 10,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 321750
+                },
+                {
+                    "type": 4,
+                    "value": 342600
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                }
+            ]
+        },
+        "3": {
+            "id": 10,
+            "index": 3,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 429000
+                },
+                {
+                    "type": 4,
+                    "value": 456800
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        }
+    },
+    "11": {
+        "1": {
+            "id": 11,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 1,
+                    "value": 4840000
+                },
+                {
+                    "type": 4,
+                    "value": 198000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 11,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 1,
+                    "value": 7260000
+                },
+                {
+                    "type": 4,
+                    "value": 297000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                }
+            ]
+        },
+        "3": {
+            "id": 11,
+            "index": 3,
+            "count": 5,
+            "attrs": [
+                {
+                    "type": 1,
+                    "value": 12100000
+                },
+                {
+                    "type": 4,
+                    "value": 495000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        }
+    },
+    "12": {
+        "1": {
+            "id": 12,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 264000
+                },
+                {
+                    "type": 62,
+                    "value": 88000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 12,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 396000
+                },
+                {
+                    "type": 62,
+                    "value": 132000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                }
+            ]
+        },
+        "3": {
+            "id": 12,
+            "index": 3,
+            "count": 5,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 660000
+                },
+                {
+                    "type": 62,
+                    "value": 220000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        }
+    },
+    "13": {
+        "1": {
+            "id": 13,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 281250
+                },
+                {
+                    "type": 1,
+                    "value": 4500000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 13,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 421875
+                },
+                {
+                    "type": 1,
+                    "value": 6750000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                }
+            ]
+        },
+        "3": {
+            "id": 13,
+            "index": 3,
+            "count": 5,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 703125
+                },
+                {
+                    "type": 1,
+                    "value": 11250000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        }
+    },
+    "14": {
+        "1": {
+            "id": 14,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 130000
+                },
+                {
+                    "type": 6,
+                    "value": 300000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1000
+                }
+            ]
+        },
+        "2": {
+            "id": 14,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 195000
+                },
+                {
+                    "type": 6,
+                    "value": 450000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                }
+            ]
+        },
+        "3": {
+            "id": 14,
+            "index": 3,
+            "count": 5,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 325000
+                },
+                {
+                    "type": 6,
+                    "value": 750000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        }
+    },
+    "15": {
+        "1": {
+            "id": 15,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 5850
+                },
+                {
+                    "type": 43,
+                    "value": 11700
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 500
+                }
+            ]
+        },
+        "2": {
+            "id": 15,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 8775
+                },
+                {
+                    "type": 43,
+                    "value": 17550
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 750
+                }
+            ]
+        },
+        "3": {
+            "id": 15,
+            "index": 3,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 11700
+                },
+                {
+                    "type": 43,
+                    "value": 23400
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1000
+                }
+            ]
+        }
+    },
+    "16": {
+        "1": {
+            "id": 16,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 19200
+                },
+                {
+                    "type": 6,
+                    "value": 9600
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 500
+                }
+            ]
+        },
+        "2": {
+            "id": 16,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 28800
+                },
+                {
+                    "type": 6,
+                    "value": 14400
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 750
+                }
+            ]
+        },
+        "3": {
+            "id": 16,
+            "index": 3,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 38400
+                },
+                {
+                    "type": 6,
+                    "value": 19200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1000
+                }
+            ]
+        }
+    },
+    "17": {
+        "1": {
+            "id": 17,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 24800
+                },
+                {
+                    "type": 1,
+                    "value": 223200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 500
+                }
+            ]
+        },
+        "2": {
+            "id": 17,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 37200
+                },
+                {
+                    "type": 1,
+                    "value": 334800
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 750
+                }
+            ]
+        },
+        "3": {
+            "id": 17,
+            "index": 3,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 49600
+                },
+                {
+                    "type": 1,
+                    "value": 446400
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1000
+                }
+            ]
+        }
+    },
+    "18": {
+        "1": {
+            "id": 18,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 38850
+                },
+                {
+                    "type": 4,
+                    "value": 32190
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1000
+                }
+            ]
+        },
+        "2": {
+            "id": 18,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 58275
+                },
+                {
+                    "type": 4,
+                    "value": 48285
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                }
+            ]
+        },
+        "3": {
+            "id": 18,
+            "index": 3,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 77700
+                },
+                {
+                    "type": 4,
+                    "value": 64380
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        }
+    },
+    "19": {
+        "1": {
+            "id": 19,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 58860
+                },
+                {
+                    "type": 43,
+                    "value": 81900
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1000
+                }
+            ]
+        },
+        "2": {
+            "id": 19,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 88290
+                },
+                {
+                    "type": 43,
+                    "value": 122850
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                }
+            ]
+        },
+        "3": {
+            "id": 19,
+            "index": 3,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 117720
+                },
+                {
+                    "type": 43,
+                    "value": 163800
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        }
+    },
+    "20": {
+        "1": {
+            "id": 20,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 51800
+                },
+                {
+                    "type": 6,
+                    "value": 101750
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1000
+                }
+            ]
+        },
+        "2": {
+            "id": 20,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 77700
+                },
+                {
+                    "type": 6,
+                    "value": 152625
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 1500
+                }
+            ]
+        },
+        "3": {
+            "id": 20,
+            "index": 3,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 103600
+                },
+                {
+                    "type": 6,
+                    "value": 203500
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        }
+    },
+    "21": {
+        "1": {
+            "id": 21,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 74250
+                },
+                {
+                    "type": 1,
+                    "value": 1815000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 21,
+            "index": 2,
+            "count": 3,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 111375
+                },
+                {
+                    "type": 1,
+                    "value": 2722500
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 3000
+                }
+            ]
+        },
+        "3": {
+            "id": 21,
+            "index": 3,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 148500
+                },
+                {
+                    "type": 1,
+                    "value": 3630000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        }
+    },
+    "22": {
+        "1": {
+            "id": 22,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 252000
+                },
+                {
+                    "type": 6,
+                    "value": 348000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 22,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 504000
+                },
+                {
+                    "type": 6,
+                    "value": 696000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 22,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 756000
+                },
+                {
+                    "type": 6,
+                    "value": 1044000
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    },
+    "23": {
+        "1": {
+            "id": 23,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 450000
+                },
+                {
+                    "type": 62,
+                    "value": 165000
+                },
+                {
+                    "type": 60,
+                    "value": 100
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 23,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 900000
+                },
+                {
+                    "type": 62,
+                    "value": 330000
+                },
+                {
+                    "type": 60,
+                    "value": 100
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 23,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 1350000
+                },
+                {
+                    "type": 62,
+                    "value": 495000
+                },
+                {
+                    "type": 60,
+                    "value": 100
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    },
+    "24": {
+        "1": {
+            "id": 24,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 300000
+                },
+                {
+                    "type": 43,
+                    "value": 600000
+                },
+                {
+                    "type": 60,
+                    "value": 100
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 24,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 600000
+                },
+                {
+                    "type": 43,
+                    "value": 1200000
+                },
+                {
+                    "type": 60,
+                    "value": 100
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 24,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 900000
+                },
+                {
+                    "type": 43,
+                    "value": 1800000
+                },
+                {
+                    "type": 60,
+                    "value": 100
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    },
+    "25": {
+        "1": {
+            "id": 25,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 840000
+                },
+                {
+                    "type": 4,
+                    "value": 696000
+                },
+                {
+                    "type": 60,
+                    "value": 200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 25,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 1680000
+                },
+                {
+                    "type": 4,
+                    "value": 1392000
+                },
+                {
+                    "type": 60,
+                    "value": 200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 25,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 11,
+                    "value": 2520000
+                },
+                {
+                    "type": 4,
+                    "value": 2088000
+                },
+                {
+                    "type": 60,
+                    "value": 200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    },
+    "26": {
+        "1": {
+            "id": 26,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 165000
+                },
+                {
+                    "type": 6,
+                    "value": 337500
+                },
+                {
+                    "type": 59,
+                    "value": 100
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 26,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 330000
+                },
+                {
+                    "type": 6,
+                    "value": 675000
+                },
+                {
+                    "type": 59,
+                    "value": 100
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 26,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 62,
+                    "value": 495000
+                },
+                {
+                    "type": 6,
+                    "value": 1012500
+                },
+                {
+                    "type": 59,
+                    "value": 100
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    },
+    "27": {
+        "1": {
+            "id": 27,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 480000
+                },
+                {
+                    "type": 1,
+                    "value": 14400000
+                },
+                {
+                    "type": 59,
+                    "value": 200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 27,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 960000
+                },
+                {
+                    "type": 1,
+                    "value": 28800000
+                },
+                {
+                    "type": 59,
+                    "value": 200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 27,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 32,
+                    "value": 1440000
+                },
+                {
+                    "type": 1,
+                    "value": 43200000
+                },
+                {
+                    "type": 59,
+                    "value": 200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    },
+    "28": {
+        "1": {
+            "id": 28,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 750000
+                },
+                {
+                    "type": 43,
+                    "value": 1000000
+                },
+                {
+                    "type": 60,
+                    "value": 200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 28,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 1500000
+                },
+                {
+                    "type": 43,
+                    "value": 2000000
+                },
+                {
+                    "type": 60,
+                    "value": 200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 28,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 5,
+                    "value": 2250000
+                },
+                {
+                    "type": 43,
+                    "value": 3000000
+                },
+                {
+                    "type": 60,
+                    "value": 200
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    },
+    "29": {
+        "1": {
+            "id": 29,
+            "index": 1,
+            "count": 2,
+            "attrs": [
+                {
+                    "type": 1,
+                    "value": 11000000
+                },
+                {
+                    "type": 4,
+                    "value": 450000
+                },
+                {
+                    "type": 59,
+                    "value": 150
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 2000
+                }
+            ]
+        },
+        "2": {
+            "id": 29,
+            "index": 2,
+            "count": 4,
+            "attrs": [
+                {
+                    "type": 1,
+                    "value": 22000000
+                },
+                {
+                    "type": 4,
+                    "value": 900000
+                },
+                {
+                    "type": 59,
+                    "value": 150
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 4000
+                }
+            ]
+        },
+        "3": {
+            "id": 29,
+            "index": 3,
+            "count": 6,
+            "attrs": [
+                {
+                    "type": 1,
+                    "value": 33000000
+                },
+                {
+                    "type": 4,
+                    "value": 1350000
+                },
+                {
+                    "type": 59,
+                    "value": 150
+                }
+            ],
+            "rewards": [
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 6000
+                }
+            ]
+        }
+    }
+}

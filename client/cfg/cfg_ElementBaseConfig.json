@@ -1,0 +1,322 @@
+{
+    "400001": {
+        "id": 400001,
+        "quality": 1,
+        "name": "Fatal Rune",
+        "icon": 400001,
+        "type": 1,
+        "soleid": 400001001
+    },
+    "400002": {
+        "id": 400002,
+        "quality": 2,
+        "name": "Fatal Rune",
+        "icon": 400002,
+        "type": 1,
+        "soleid": 400002001
+    },
+    "400003": {
+        "id": 400003,
+        "quality": 3,
+        "name": "Fatal Rune",
+        "icon": 400003,
+        "type": 1,
+        "soleid": 400003001
+    },
+    "400004": {
+        "id": 400004,
+        "quality": 4,
+        "name": "Fatal Rune",
+        "icon": 400004,
+        "type": 1,
+        "soleid": 400004001
+    },
+    "400005": {
+        "id": 400005,
+        "quality": 5,
+        "name": "Fatal Rune",
+        "icon": 400005,
+        "type": 1,
+        "soleid": 400005001
+    },
+    "400101": {
+        "id": 400101,
+        "quality": 1,
+        "name": "Tough Rune",
+        "icon": 400101,
+        "type": 2,
+        "soleid": 400101001
+    },
+    "400102": {
+        "id": 400102,
+        "quality": 2,
+        "name": "Tough Rune",
+        "icon": 400102,
+        "type": 2,
+        "soleid": 400102001
+    },
+    "400103": {
+        "id": 400103,
+        "quality": 3,
+        "name": "Tough Rune",
+        "icon": 400103,
+        "type": 2,
+        "soleid": 400103001
+    },
+    "400104": {
+        "id": 400104,
+        "quality": 4,
+        "name": "Tough Rune",
+        "icon": 400104,
+        "type": 2,
+        "soleid": 400104001
+    },
+    "400105": {
+        "id": 400105,
+        "quality": 5,
+        "name": "Tough Rune",
+        "icon": 400105,
+        "type": 2,
+        "soleid": 400105001
+    },
+    "400201": {
+        "id": 400201,
+        "quality": 1,
+        "name": "Robust Rune",
+        "icon": 400201,
+        "type": 3,
+        "soleid": 400201001
+    },
+    "400202": {
+        "id": 400202,
+        "quality": 2,
+        "name": "Robust Rune",
+        "icon": 400202,
+        "type": 3,
+        "soleid": 400202001
+    },
+    "400203": {
+        "id": 400203,
+        "quality": 3,
+        "name": "Robust Rune",
+        "icon": 400203,
+        "type": 3,
+        "soleid": 400203001
+    },
+    "400204": {
+        "id": 400204,
+        "quality": 4,
+        "name": "Robust Rune",
+        "icon": 400204,
+        "type": 3,
+        "soleid": 400204001
+    },
+    "400205": {
+        "id": 400205,
+        "quality": 5,
+        "name": "Robust Rune",
+        "icon": 400205,
+        "type": 3,
+        "soleid": 400205001
+    },
+    "400301": {
+        "id": 400301,
+        "quality": 1,
+        "name": "Quiet Rune",
+        "icon": 400301,
+        "type": 4,
+        "soleid": 400301001
+    },
+    "400302": {
+        "id": 400302,
+        "quality": 2,
+        "name": "Quiet Rune",
+        "icon": 400302,
+        "type": 4,
+        "soleid": 400302001
+    },
+    "400303": {
+        "id": 400303,
+        "quality": 3,
+        "name": "Quiet Rune",
+        "icon": 400303,
+        "type": 4,
+        "soleid": 400303001
+    },
+    "400304": {
+        "id": 400304,
+        "quality": 4,
+        "name": "Quiet Rune",
+        "icon": 400304,
+        "type": 4,
+        "soleid": 400304001
+    },
+    "400305": {
+        "id": 400305,
+        "quality": 5,
+        "name": "Quiet Rune",
+        "icon": 400305,
+        "type": 4,
+        "soleid": 400305001
+    },
+    "400401": {
+        "id": 400401,
+        "quality": 1,
+        "name": "Alert Rune",
+        "icon": 400401,
+        "type": 5,
+        "soleid": 400401001
+    },
+    "400402": {
+        "id": 400402,
+        "quality": 2,
+        "name": "Alert Rune",
+        "icon": 400402,
+        "type": 5,
+        "soleid": 400402001
+    },
+    "400403": {
+        "id": 400403,
+        "quality": 3,
+        "name": "Alert Rune",
+        "icon": 400403,
+        "type": 5,
+        "soleid": 400403001
+    },
+    "400404": {
+        "id": 400404,
+        "quality": 4,
+        "name": "Alert Rune",
+        "icon": 400404,
+        "type": 5,
+        "soleid": 400404001
+    },
+    "400405": {
+        "id": 400405,
+        "quality": 5,
+        "name": "Alert Rune",
+        "icon": 400405,
+        "type": 5,
+        "soleid": 400405001
+    },
+    "400501": {
+        "id": 400501,
+        "quality": 1,
+        "name": "Storm Rune",
+        "icon": 400501,
+        "type": 6,
+        "soleid": 400501001
+    },
+    "400502": {
+        "id": 400502,
+        "quality": 2,
+        "name": "Storm Rune",
+        "icon": 400502,
+        "type": 6,
+        "soleid": 400502001
+    },
+    "400503": {
+        "id": 400503,
+        "quality": 3,
+        "name": "Storm Rune",
+        "icon": 400503,
+        "type": 6,
+        "soleid": 400503001
+    },
+    "400504": {
+        "id": 400504,
+        "quality": 4,
+        "name": "Storm Rune",
+        "icon": 400504,
+        "type": 6,
+        "soleid": 400504001
+    },
+    "400505": {
+        "id": 400505,
+        "quality": 5,
+        "name": "Storm Rune",
+        "icon": 400505,
+        "type": 6,
+        "soleid": 400505001
+    },
+    "400601": {
+        "id": 400601,
+        "quality": 1,
+        "name": "Strong Rune",
+        "icon": 400601,
+        "type": 7,
+        "soleid": 400601001
+    },
+    "400602": {
+        "id": 400602,
+        "quality": 2,
+        "name": "Strong Rune",
+        "icon": 400602,
+        "type": 7,
+        "soleid": 400602001
+    },
+    "400603": {
+        "id": 400603,
+        "quality": 3,
+        "name": "Strong Rune",
+        "icon": 400603,
+        "type": 7,
+        "soleid": 400603001
+    },
+    "400604": {
+        "id": 400604,
+        "quality": 4,
+        "name": "Strong Rune",
+        "icon": 400604,
+        "type": 7,
+        "soleid": 400604001
+    },
+    "400605": {
+        "id": 400605,
+        "quality": 5,
+        "name": "Strong Rune",
+        "icon": 400605,
+        "type": 7,
+        "soleid": 400605001
+    },
+    "400701": {
+        "id": 400701,
+        "quality": 1,
+        "name": "Deadly Rune",
+        "icon": 400701,
+        "type": 8,
+        "soleid": 400701001
+    },
+    "400702": {
+        "id": 400702,
+        "quality": 2,
+        "name": "Deadly Rune",
+        "icon": 400702,
+        "type": 8,
+        "soleid": 400702001
+    },
+    "400703": {
+        "id": 400703,
+        "quality": 3,
+        "name": "Deadly Rune",
+        "icon": 400703,
+        "type": 8,
+        "soleid": 400703001
+    },
+    "400704": {
+        "id": 400704,
+        "quality": 4,
+        "name": "Deadly Rune",
+        "icon": 400704,
+        "type": 8,
+        "soleid": 400704001
+    },
+    "400705": {
+        "id": 400705,
+        "quality": 5,
+        "name": "Deadly Rune",
+        "icon": 400705,
+        "type": 8,
+        "soleid": 400705001
+    }
+}

@@ -1,0 +1,6502 @@
+{
+    "711101": {
+        "id": 711101,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 2000
+            }
+        ],
+        "power": 0,
+        "name": "T1 ATK"
+    },
+    "711102": {
+        "id": 711102,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 4000
+            }
+        ],
+        "power": 0,
+        "name": "T2 ATK"
+    },
+    "711103": {
+        "id": 711103,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 8000
+            }
+        ],
+        "power": 0,
+        "name": "T3 ATK"
+    },
+    "711104": {
+        "id": 711104,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 16000
+            }
+        ],
+        "power": 0,
+        "name": "T4 ATK"
+    },
+    "711105": {
+        "id": 711105,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 32000
+            }
+        ],
+        "power": 0,
+        "name": "T5 ATK"
+    },
+    "711106": {
+        "id": 711106,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 48000
+            }
+        ],
+        "power": 0,
+        "name": "T6 ATK"
+    },
+    "711107": {
+        "id": 711107,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 69600
+            }
+        ],
+        "power": 0,
+        "name": "T7 ATK"
+    },
+    "711108": {
+        "id": 711108,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 100920
+            }
+        ],
+        "power": 0,
+        "name": "T8 ATK"
+    },
+    "711109": {
+        "id": 711109,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 141288
+            }
+        ],
+        "power": 0,
+        "name": "T9 ATK"
+    },
+    "711110": {
+        "id": 711110,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 197804
+            }
+        ],
+        "power": 0,
+        "name": "T10 ATK"
+    },
+    "711111": {
+        "id": 711111,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 267036
+            }
+        ],
+        "power": 0,
+        "name": "T11 ATK"
+    },
+    "711112": {
+        "id": 711112,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 360499
+            }
+        ],
+        "power": 0,
+        "name": "T12 ATK"
+    },
+    "711113": {
+        "id": 711113,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 468649
+            }
+        ],
+        "power": 0,
+        "name": "T13 ATK"
+    },
+    "711114": {
+        "id": 711114,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 585812
+            }
+        ],
+        "power": 0,
+        "name": "T14 ATK"
+    },
+    "711115": {
+        "id": 711115,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 732265
+            }
+        ],
+        "power": 0,
+        "name": "T15 ATK"
+    },
+    "711116": {
+        "id": 711116,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 878718
+            }
+        ],
+        "power": 0,
+        "name": "T16 ATK"
+    },
+    "711117": {
+        "id": 711117,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 1054462
+            }
+        ],
+        "power": 0,
+        "name": "T17 ATK"
+    },
+    "711118": {
+        "id": 711118,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 1212632
+            }
+        ],
+        "power": 0,
+        "name": "T18 ATK"
+    },
+    "711119": {
+        "id": 711119,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 1358148
+            }
+        ],
+        "power": 0,
+        "name": "T19 ATK"
+    },
+    "711120": {
+        "id": 711120,
+        "ysId": 1,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 103,
+                "value": 1507545
+            }
+        ],
+        "power": 0,
+        "name": "T20 ATK"
+    },
+    "711201": {
+        "id": 711201,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 2000
+            }
+        ],
+        "power": 0,
+        "name": "T1 DEF"
+    },
+    "711202": {
+        "id": 711202,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 4000
+            }
+        ],
+        "power": 0,
+        "name": "T2 DEF"
+    },
+    "711203": {
+        "id": 711203,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 8000
+            }
+        ],
+        "power": 0,
+        "name": "T3 DEF"
+    },
+    "711204": {
+        "id": 711204,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 16000
+            }
+        ],
+        "power": 0,
+        "name": "T4 DEF"
+    },
+    "711205": {
+        "id": 711205,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 32000
+            }
+        ],
+        "power": 0,
+        "name": "T5 DEF"
+    },
+    "711206": {
+        "id": 711206,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 48000
+            }
+        ],
+        "power": 0,
+        "name": "T6 DEF"
+    },
+    "711207": {
+        "id": 711207,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 69600
+            }
+        ],
+        "power": 0,
+        "name": "T7 DEF"
+    },
+    "711208": {
+        "id": 711208,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 100920
+            }
+        ],
+        "power": 0,
+        "name": "T8 DEF"
+    },
+    "711209": {
+        "id": 711209,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 141288
+            }
+        ],
+        "power": 0,
+        "name": "T9 DEF"
+    },
+    "711210": {
+        "id": 711210,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 197804
+            }
+        ],
+        "power": 0,
+        "name": "T10 DEF"
+    },
+    "711211": {
+        "id": 711211,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 267036
+            }
+        ],
+        "power": 0,
+        "name": "T11 DEF"
+    },
+    "711212": {
+        "id": 711212,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 360499
+            }
+        ],
+        "power": 0,
+        "name": "T12 DEF"
+    },
+    "711213": {
+        "id": 711213,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 468649
+            }
+        ],
+        "power": 0,
+        "name": "T13 DEF"
+    },
+    "711214": {
+        "id": 711214,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 585812
+            }
+        ],
+        "power": 0,
+        "name": "T14 DEF"
+    },
+    "711215": {
+        "id": 711215,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 732265
+            }
+        ],
+        "power": 0,
+        "name": "T15 DEF"
+    },
+    "711216": {
+        "id": 711216,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 878718
+            }
+        ],
+        "power": 0,
+        "name": "T16 DEF"
+    },
+    "711217": {
+        "id": 711217,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 1054462
+            }
+        ],
+        "power": 0,
+        "name": "T17 DEF"
+    },
+    "711218": {
+        "id": 711218,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 1212632
+            }
+        ],
+        "power": 0,
+        "name": "T18 DEF"
+    },
+    "711219": {
+        "id": 711219,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 1358148
+            }
+        ],
+        "power": 0,
+        "name": "T19 DEF"
+    },
+    "711220": {
+        "id": 711220,
+        "ysId": 1,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 108,
+                "value": 1507545
+            }
+        ],
+        "power": 0,
+        "name": "T20 DEF"
+    },
+    "711301": {
+        "id": 711301,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 15
+            }
+        ],
+        "power": 10000,
+        "name": "T1 DMG Bonus"
+    },
+    "711302": {
+        "id": 711302,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 23
+            }
+        ],
+        "power": 20000,
+        "name": "T2 DMG Bonus"
+    },
+    "711303": {
+        "id": 711303,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 30
+            }
+        ],
+        "power": 40000,
+        "name": "T3 DMG Bonus"
+    },
+    "711304": {
+        "id": 711304,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 38
+            }
+        ],
+        "power": 80000,
+        "name": "T4 DMG Bonus"
+    },
+    "711305": {
+        "id": 711305,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 45
+            }
+        ],
+        "power": 160000,
+        "name": "T5 DMG Bonus"
+    },
+    "711306": {
+        "id": 711306,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 53
+            }
+        ],
+        "power": 240000,
+        "name": "T6 DMG Bonus"
+    },
+    "711307": {
+        "id": 711307,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 60
+            }
+        ],
+        "power": 348000,
+        "name": "T7 DMG Bonus"
+    },
+    "711308": {
+        "id": 711308,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 68
+            }
+        ],
+        "power": 504600,
+        "name": "T8 DMG Bonus"
+    },
+    "711309": {
+        "id": 711309,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 75
+            }
+        ],
+        "power": 706440,
+        "name": "T9 DMG Bonus"
+    },
+    "711310": {
+        "id": 711310,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 83
+            }
+        ],
+        "power": 989020,
+        "name": "T10 DMG Bonus"
+    },
+    "711311": {
+        "id": 711311,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 90
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 DMG Bonus"
+    },
+    "711312": {
+        "id": 711312,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 98
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 DMG Bonus"
+    },
+    "711313": {
+        "id": 711313,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 105
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 DMG Bonus"
+    },
+    "711314": {
+        "id": 711314,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 113
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 DMG Bonus"
+    },
+    "711315": {
+        "id": 711315,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 120
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 DMG Bonus"
+    },
+    "711316": {
+        "id": 711316,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 128
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 DMG Bonus"
+    },
+    "711317": {
+        "id": 711317,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 135
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 DMG Bonus"
+    },
+    "711318": {
+        "id": 711318,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 143
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 DMG Bonus"
+    },
+    "711319": {
+        "id": 711319,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 150
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 DMG Bonus"
+    },
+    "711320": {
+        "id": 711320,
+        "ysId": 1,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 113,
+                "value": 158
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 DMG Bonus"
+    },
+    "711401": {
+        "id": 711401,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 15
+            }
+        ],
+        "power": 10000,
+        "name": "T1 DMG Reduction"
+    },
+    "711402": {
+        "id": 711402,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 23
+            }
+        ],
+        "power": 20000,
+        "name": "T2 DMG Reduction"
+    },
+    "711403": {
+        "id": 711403,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 30
+            }
+        ],
+        "power": 40000,
+        "name": "T3 DMG Reduction"
+    },
+    "711404": {
+        "id": 711404,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 38
+            }
+        ],
+        "power": 80000,
+        "name": "T4 DMG Reduction"
+    },
+    "711405": {
+        "id": 711405,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 45
+            }
+        ],
+        "power": 160000,
+        "name": "T5 DMG Reduction"
+    },
+    "711406": {
+        "id": 711406,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 53
+            }
+        ],
+        "power": 240000,
+        "name": "T6 DMG Reduction"
+    },
+    "711407": {
+        "id": 711407,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 60
+            }
+        ],
+        "power": 348000,
+        "name": "T7 DMG Reduction"
+    },
+    "711408": {
+        "id": 711408,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 68
+            }
+        ],
+        "power": 504600,
+        "name": "T8 DMG Reduction"
+    },
+    "711409": {
+        "id": 711409,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 75
+            }
+        ],
+        "power": 706440,
+        "name": "T9 DMG Reduction"
+    },
+    "711410": {
+        "id": 711410,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 83
+            }
+        ],
+        "power": 989020,
+        "name": "T10 DMG Reduction"
+    },
+    "711411": {
+        "id": 711411,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 90
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 DMG Reduction"
+    },
+    "711412": {
+        "id": 711412,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 98
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 DMG Reduction"
+    },
+    "711413": {
+        "id": 711413,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 105
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 DMG Reduction"
+    },
+    "711414": {
+        "id": 711414,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 113
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 DMG Reduction"
+    },
+    "711415": {
+        "id": 711415,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 120
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 DMG Reduction"
+    },
+    "711416": {
+        "id": 711416,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 128
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 DMG Reduction"
+    },
+    "711417": {
+        "id": 711417,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 135
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 DMG Reduction"
+    },
+    "711418": {
+        "id": 711418,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 143
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 DMG Reduction"
+    },
+    "711419": {
+        "id": 711419,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 150
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 DMG Reduction"
+    },
+    "711420": {
+        "id": 711420,
+        "ysId": 1,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 118,
+                "value": 158
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 DMG Reduction"
+    },
+    "711501": {
+        "id": 711501,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 10
+            }
+        ],
+        "power": 10000,
+        "name": "T1 All-rounder"
+    },
+    "711502": {
+        "id": 711502,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 15
+            }
+        ],
+        "power": 20000,
+        "name": "T2 All-rounder"
+    },
+    "711503": {
+        "id": 711503,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 20
+            }
+        ],
+        "power": 40000,
+        "name": "T3 All-rounder"
+    },
+    "711504": {
+        "id": 711504,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 25
+            }
+        ],
+        "power": 80000,
+        "name": "T4 All-rounder"
+    },
+    "711505": {
+        "id": 711505,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 30
+            }
+        ],
+        "power": 160000,
+        "name": "T5 All-rounder"
+    },
+    "711506": {
+        "id": 711506,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 35
+            }
+        ],
+        "power": 240000,
+        "name": "T6 All-rounder"
+    },
+    "711507": {
+        "id": 711507,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 40
+            }
+        ],
+        "power": 348000,
+        "name": "T7 All-rounder"
+    },
+    "711508": {
+        "id": 711508,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 45
+            }
+        ],
+        "power": 504600,
+        "name": "T8 All-rounder"
+    },
+    "711509": {
+        "id": 711509,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 50
+            }
+        ],
+        "power": 706440,
+        "name": "T9 All-rounder"
+    },
+    "711510": {
+        "id": 711510,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 55
+            }
+        ],
+        "power": 989020,
+        "name": "T10 All-rounder"
+    },
+    "711511": {
+        "id": 711511,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 60
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 All-rounder"
+    },
+    "711512": {
+        "id": 711512,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 65
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 All-rounder"
+    },
+    "711513": {
+        "id": 711513,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 70
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 All-rounder"
+    },
+    "711514": {
+        "id": 711514,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 75
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 All-rounder"
+    },
+    "711515": {
+        "id": 711515,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 80
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 All-rounder"
+    },
+    "711516": {
+        "id": 711516,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 85
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 All-rounder"
+    },
+    "711517": {
+        "id": 711517,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 90
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 All-rounder"
+    },
+    "711518": {
+        "id": 711518,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 95
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 All-rounder"
+    },
+    "711519": {
+        "id": 711519,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 100
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 All-rounder"
+    },
+    "711520": {
+        "id": 711520,
+        "ysId": 1,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 105
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 All-rounder"
+    },
+    "712101": {
+        "id": 712101,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 2000
+            }
+        ],
+        "power": 0,
+        "name": "T1 ATK"
+    },
+    "712102": {
+        "id": 712102,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 4000
+            }
+        ],
+        "power": 0,
+        "name": "T2 ATK"
+    },
+    "712103": {
+        "id": 712103,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 8000
+            }
+        ],
+        "power": 0,
+        "name": "T3 ATK"
+    },
+    "712104": {
+        "id": 712104,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 16000
+            }
+        ],
+        "power": 0,
+        "name": "T4 ATK"
+    },
+    "712105": {
+        "id": 712105,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 32000
+            }
+        ],
+        "power": 0,
+        "name": "T5 ATK"
+    },
+    "712106": {
+        "id": 712106,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 48000
+            }
+        ],
+        "power": 0,
+        "name": "T6 ATK"
+    },
+    "712107": {
+        "id": 712107,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 69600
+            }
+        ],
+        "power": 0,
+        "name": "T7 ATK"
+    },
+    "712108": {
+        "id": 712108,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 100920
+            }
+        ],
+        "power": 0,
+        "name": "T8 ATK"
+    },
+    "712109": {
+        "id": 712109,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 141288
+            }
+        ],
+        "power": 0,
+        "name": "T9 ATK"
+    },
+    "712110": {
+        "id": 712110,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 197804
+            }
+        ],
+        "power": 0,
+        "name": "T10 ATK"
+    },
+    "712111": {
+        "id": 712111,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 267036
+            }
+        ],
+        "power": 0,
+        "name": "T11 ATK"
+    },
+    "712112": {
+        "id": 712112,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 360499
+            }
+        ],
+        "power": 0,
+        "name": "T12 ATK"
+    },
+    "712113": {
+        "id": 712113,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 468649
+            }
+        ],
+        "power": 0,
+        "name": "T13 ATK"
+    },
+    "712114": {
+        "id": 712114,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 585812
+            }
+        ],
+        "power": 0,
+        "name": "T14 ATK"
+    },
+    "712115": {
+        "id": 712115,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 732265
+            }
+        ],
+        "power": 0,
+        "name": "T15 ATK"
+    },
+    "712116": {
+        "id": 712116,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 878718
+            }
+        ],
+        "power": 0,
+        "name": "T16 ATK"
+    },
+    "712117": {
+        "id": 712117,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 1054462
+            }
+        ],
+        "power": 0,
+        "name": "T17 ATK"
+    },
+    "712118": {
+        "id": 712118,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 1212632
+            }
+        ],
+        "power": 0,
+        "name": "T18 ATK"
+    },
+    "712119": {
+        "id": 712119,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 1358148
+            }
+        ],
+        "power": 0,
+        "name": "T19 ATK"
+    },
+    "712120": {
+        "id": 712120,
+        "ysId": 2,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 104,
+                "value": 1507545
+            }
+        ],
+        "power": 0,
+        "name": "T20 ATK"
+    },
+    "712201": {
+        "id": 712201,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 2000
+            }
+        ],
+        "power": 0,
+        "name": "T1 DEF"
+    },
+    "712202": {
+        "id": 712202,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 4000
+            }
+        ],
+        "power": 0,
+        "name": "T2 DEF"
+    },
+    "712203": {
+        "id": 712203,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 8000
+            }
+        ],
+        "power": 0,
+        "name": "T3 DEF"
+    },
+    "712204": {
+        "id": 712204,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 16000
+            }
+        ],
+        "power": 0,
+        "name": "T4 DEF"
+    },
+    "712205": {
+        "id": 712205,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 32000
+            }
+        ],
+        "power": 0,
+        "name": "T5 DEF"
+    },
+    "712206": {
+        "id": 712206,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 48000
+            }
+        ],
+        "power": 0,
+        "name": "T6 DEF"
+    },
+    "712207": {
+        "id": 712207,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 69600
+            }
+        ],
+        "power": 0,
+        "name": "T7 DEF"
+    },
+    "712208": {
+        "id": 712208,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 100920
+            }
+        ],
+        "power": 0,
+        "name": "T8 DEF"
+    },
+    "712209": {
+        "id": 712209,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 141288
+            }
+        ],
+        "power": 0,
+        "name": "T9 DEF"
+    },
+    "712210": {
+        "id": 712210,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 197804
+            }
+        ],
+        "power": 0,
+        "name": "T10 DEF"
+    },
+    "712211": {
+        "id": 712211,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 267036
+            }
+        ],
+        "power": 0,
+        "name": "T11 DEF"
+    },
+    "712212": {
+        "id": 712212,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 360499
+            }
+        ],
+        "power": 0,
+        "name": "T12 DEF"
+    },
+    "712213": {
+        "id": 712213,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 468649
+            }
+        ],
+        "power": 0,
+        "name": "T13 DEF"
+    },
+    "712214": {
+        "id": 712214,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 585812
+            }
+        ],
+        "power": 0,
+        "name": "T14 DEF"
+    },
+    "712215": {
+        "id": 712215,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 732265
+            }
+        ],
+        "power": 0,
+        "name": "T15 DEF"
+    },
+    "712216": {
+        "id": 712216,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 878718
+            }
+        ],
+        "power": 0,
+        "name": "T16 DEF"
+    },
+    "712217": {
+        "id": 712217,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 1054462
+            }
+        ],
+        "power": 0,
+        "name": "T17 DEF"
+    },
+    "712218": {
+        "id": 712218,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 1212632
+            }
+        ],
+        "power": 0,
+        "name": "T18 DEF"
+    },
+    "712219": {
+        "id": 712219,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 1358148
+            }
+        ],
+        "power": 0,
+        "name": "T19 DEF"
+    },
+    "712220": {
+        "id": 712220,
+        "ysId": 2,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 109,
+                "value": 1507545
+            }
+        ],
+        "power": 0,
+        "name": "T20 DEF"
+    },
+    "712301": {
+        "id": 712301,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 15
+            }
+        ],
+        "power": 10000,
+        "name": "T1 DMG Bonus"
+    },
+    "712302": {
+        "id": 712302,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 23
+            }
+        ],
+        "power": 20000,
+        "name": "T2 DMG Bonus"
+    },
+    "712303": {
+        "id": 712303,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 30
+            }
+        ],
+        "power": 40000,
+        "name": "T3 DMG Bonus"
+    },
+    "712304": {
+        "id": 712304,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 38
+            }
+        ],
+        "power": 80000,
+        "name": "T4 DMG Bonus"
+    },
+    "712305": {
+        "id": 712305,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 45
+            }
+        ],
+        "power": 160000,
+        "name": "T5 DMG Bonus"
+    },
+    "712306": {
+        "id": 712306,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 53
+            }
+        ],
+        "power": 240000,
+        "name": "T6 DMG Bonus"
+    },
+    "712307": {
+        "id": 712307,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 60
+            }
+        ],
+        "power": 348000,
+        "name": "T7 DMG Bonus"
+    },
+    "712308": {
+        "id": 712308,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 68
+            }
+        ],
+        "power": 504600,
+        "name": "T8 DMG Bonus"
+    },
+    "712309": {
+        "id": 712309,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 75
+            }
+        ],
+        "power": 706440,
+        "name": "T9 DMG Bonus"
+    },
+    "712310": {
+        "id": 712310,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 83
+            }
+        ],
+        "power": 989020,
+        "name": "T10 DMG Bonus"
+    },
+    "712311": {
+        "id": 712311,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 90
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 DMG Bonus"
+    },
+    "712312": {
+        "id": 712312,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 98
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 DMG Bonus"
+    },
+    "712313": {
+        "id": 712313,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 105
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 DMG Bonus"
+    },
+    "712314": {
+        "id": 712314,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 113
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 DMG Bonus"
+    },
+    "712315": {
+        "id": 712315,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 120
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 DMG Bonus"
+    },
+    "712316": {
+        "id": 712316,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 128
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 DMG Bonus"
+    },
+    "712317": {
+        "id": 712317,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 135
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 DMG Bonus"
+    },
+    "712318": {
+        "id": 712318,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 143
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 DMG Bonus"
+    },
+    "712319": {
+        "id": 712319,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 150
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 DMG Bonus"
+    },
+    "712320": {
+        "id": 712320,
+        "ysId": 2,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 114,
+                "value": 158
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 DMG Bonus"
+    },
+    "712401": {
+        "id": 712401,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 15
+            }
+        ],
+        "power": 10000,
+        "name": "T1 DMG Reduction"
+    },
+    "712402": {
+        "id": 712402,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 23
+            }
+        ],
+        "power": 20000,
+        "name": "T2 DMG Reduction"
+    },
+    "712403": {
+        "id": 712403,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 30
+            }
+        ],
+        "power": 40000,
+        "name": "T3 DMG Reduction"
+    },
+    "712404": {
+        "id": 712404,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 38
+            }
+        ],
+        "power": 80000,
+        "name": "T4 DMG Reduction"
+    },
+    "712405": {
+        "id": 712405,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 45
+            }
+        ],
+        "power": 160000,
+        "name": "T5 DMG Reduction"
+    },
+    "712406": {
+        "id": 712406,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 53
+            }
+        ],
+        "power": 240000,
+        "name": "T6 DMG Reduction"
+    },
+    "712407": {
+        "id": 712407,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 60
+            }
+        ],
+        "power": 348000,
+        "name": "T7 DMG Reduction"
+    },
+    "712408": {
+        "id": 712408,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 68
+            }
+        ],
+        "power": 504600,
+        "name": "T8 DMG Reduction"
+    },
+    "712409": {
+        "id": 712409,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 75
+            }
+        ],
+        "power": 706440,
+        "name": "T9 DMG Reduction"
+    },
+    "712410": {
+        "id": 712410,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 83
+            }
+        ],
+        "power": 989020,
+        "name": "T10 DMG Reduction"
+    },
+    "712411": {
+        "id": 712411,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 90
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 DMG Reduction"
+    },
+    "712412": {
+        "id": 712412,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 98
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 DMG Reduction"
+    },
+    "712413": {
+        "id": 712413,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 105
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 DMG Reduction"
+    },
+    "712414": {
+        "id": 712414,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 113
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 DMG Reduction"
+    },
+    "712415": {
+        "id": 712415,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 120
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 DMG Reduction"
+    },
+    "712416": {
+        "id": 712416,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 128
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 DMG Reduction"
+    },
+    "712417": {
+        "id": 712417,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 135
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 DMG Reduction"
+    },
+    "712418": {
+        "id": 712418,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 143
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 DMG Reduction"
+    },
+    "712419": {
+        "id": 712419,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 150
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 DMG Reduction"
+    },
+    "712420": {
+        "id": 712420,
+        "ysId": 2,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 119,
+                "value": 158
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 DMG Reduction"
+    },
+    "712501": {
+        "id": 712501,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 10
+            }
+        ],
+        "power": 10000,
+        "name": "T1 All-rounder"
+    },
+    "712502": {
+        "id": 712502,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 15
+            }
+        ],
+        "power": 20000,
+        "name": "T2 All-rounder"
+    },
+    "712503": {
+        "id": 712503,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 20
+            }
+        ],
+        "power": 40000,
+        "name": "T3 All-rounder"
+    },
+    "712504": {
+        "id": 712504,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 25
+            }
+        ],
+        "power": 80000,
+        "name": "T4 All-rounder"
+    },
+    "712505": {
+        "id": 712505,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 30
+            }
+        ],
+        "power": 160000,
+        "name": "T5 All-rounder"
+    },
+    "712506": {
+        "id": 712506,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 35
+            }
+        ],
+        "power": 240000,
+        "name": "T6 All-rounder"
+    },
+    "712507": {
+        "id": 712507,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 40
+            }
+        ],
+        "power": 348000,
+        "name": "T7 All-rounder"
+    },
+    "712508": {
+        "id": 712508,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 45
+            }
+        ],
+        "power": 504600,
+        "name": "T8 All-rounder"
+    },
+    "712509": {
+        "id": 712509,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 50
+            }
+        ],
+        "power": 706440,
+        "name": "T9 All-rounder"
+    },
+    "712510": {
+        "id": 712510,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 55
+            }
+        ],
+        "power": 989020,
+        "name": "T10 All-rounder"
+    },
+    "712511": {
+        "id": 712511,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 60
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 All-rounder"
+    },
+    "712512": {
+        "id": 712512,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 65
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 All-rounder"
+    },
+    "712513": {
+        "id": 712513,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 70
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 All-rounder"
+    },
+    "712514": {
+        "id": 712514,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 75
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 All-rounder"
+    },
+    "712515": {
+        "id": 712515,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 80
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 All-rounder"
+    },
+    "712516": {
+        "id": 712516,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 85
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 All-rounder"
+    },
+    "712517": {
+        "id": 712517,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 90
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 All-rounder"
+    },
+    "712518": {
+        "id": 712518,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 95
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 All-rounder"
+    },
+    "712519": {
+        "id": 712519,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 100
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 All-rounder"
+    },
+    "712520": {
+        "id": 712520,
+        "ysId": 2,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 105
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 All-rounder"
+    },
+    "713101": {
+        "id": 713101,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 2000
+            }
+        ],
+        "power": 0,
+        "name": "T1 ATK"
+    },
+    "713102": {
+        "id": 713102,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 4000
+            }
+        ],
+        "power": 0,
+        "name": "T2 ATK"
+    },
+    "713103": {
+        "id": 713103,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 8000
+            }
+        ],
+        "power": 0,
+        "name": "T3 ATK"
+    },
+    "713104": {
+        "id": 713104,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 16000
+            }
+        ],
+        "power": 0,
+        "name": "T4 ATK"
+    },
+    "713105": {
+        "id": 713105,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 32000
+            }
+        ],
+        "power": 0,
+        "name": "T5 ATK"
+    },
+    "713106": {
+        "id": 713106,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 48000
+            }
+        ],
+        "power": 0,
+        "name": "T6 ATK"
+    },
+    "713107": {
+        "id": 713107,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 69600
+            }
+        ],
+        "power": 0,
+        "name": "T7 ATK"
+    },
+    "713108": {
+        "id": 713108,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 100920
+            }
+        ],
+        "power": 0,
+        "name": "T8 ATK"
+    },
+    "713109": {
+        "id": 713109,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 141288
+            }
+        ],
+        "power": 0,
+        "name": "T9 ATK"
+    },
+    "713110": {
+        "id": 713110,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 197804
+            }
+        ],
+        "power": 0,
+        "name": "T10 ATK"
+    },
+    "713111": {
+        "id": 713111,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 267036
+            }
+        ],
+        "power": 0,
+        "name": "T11 ATK"
+    },
+    "713112": {
+        "id": 713112,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 360499
+            }
+        ],
+        "power": 0,
+        "name": "T12 ATK"
+    },
+    "713113": {
+        "id": 713113,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 468649
+            }
+        ],
+        "power": 0,
+        "name": "T13 ATK"
+    },
+    "713114": {
+        "id": 713114,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 585812
+            }
+        ],
+        "power": 0,
+        "name": "T14 ATK"
+    },
+    "713115": {
+        "id": 713115,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 732265
+            }
+        ],
+        "power": 0,
+        "name": "T15 ATK"
+    },
+    "713116": {
+        "id": 713116,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 878718
+            }
+        ],
+        "power": 0,
+        "name": "T16 ATK"
+    },
+    "713117": {
+        "id": 713117,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 1054462
+            }
+        ],
+        "power": 0,
+        "name": "T17 ATK"
+    },
+    "713118": {
+        "id": 713118,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 1212632
+            }
+        ],
+        "power": 0,
+        "name": "T18 ATK"
+    },
+    "713119": {
+        "id": 713119,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 1358148
+            }
+        ],
+        "power": 0,
+        "name": "T19 ATK"
+    },
+    "713120": {
+        "id": 713120,
+        "ysId": 3,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 105,
+                "value": 1507545
+            }
+        ],
+        "power": 0,
+        "name": "T20 ATK"
+    },
+    "713201": {
+        "id": 713201,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 2000
+            }
+        ],
+        "power": 0,
+        "name": "T1 DEF"
+    },
+    "713202": {
+        "id": 713202,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 4000
+            }
+        ],
+        "power": 0,
+        "name": "T2 DEF"
+    },
+    "713203": {
+        "id": 713203,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 8000
+            }
+        ],
+        "power": 0,
+        "name": "T3 DEF"
+    },
+    "713204": {
+        "id": 713204,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 16000
+            }
+        ],
+        "power": 0,
+        "name": "T4 DEF"
+    },
+    "713205": {
+        "id": 713205,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 32000
+            }
+        ],
+        "power": 0,
+        "name": "T5 DEF"
+    },
+    "713206": {
+        "id": 713206,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 48000
+            }
+        ],
+        "power": 0,
+        "name": "T6 DEF"
+    },
+    "713207": {
+        "id": 713207,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 69600
+            }
+        ],
+        "power": 0,
+        "name": "T7 DEF"
+    },
+    "713208": {
+        "id": 713208,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 100920
+            }
+        ],
+        "power": 0,
+        "name": "T8 DEF"
+    },
+    "713209": {
+        "id": 713209,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 141288
+            }
+        ],
+        "power": 0,
+        "name": "T9 DEF"
+    },
+    "713210": {
+        "id": 713210,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 197804
+            }
+        ],
+        "power": 0,
+        "name": "T10 DEF"
+    },
+    "713211": {
+        "id": 713211,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 267036
+            }
+        ],
+        "power": 0,
+        "name": "T11 DEF"
+    },
+    "713212": {
+        "id": 713212,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 360499
+            }
+        ],
+        "power": 0,
+        "name": "T12 DEF"
+    },
+    "713213": {
+        "id": 713213,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 468649
+            }
+        ],
+        "power": 0,
+        "name": "T13 DEF"
+    },
+    "713214": {
+        "id": 713214,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 585812
+            }
+        ],
+        "power": 0,
+        "name": "T14 DEF"
+    },
+    "713215": {
+        "id": 713215,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 732265
+            }
+        ],
+        "power": 0,
+        "name": "T15 DEF"
+    },
+    "713216": {
+        "id": 713216,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 878718
+            }
+        ],
+        "power": 0,
+        "name": "T16 DEF"
+    },
+    "713217": {
+        "id": 713217,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 1054462
+            }
+        ],
+        "power": 0,
+        "name": "T17 DEF"
+    },
+    "713218": {
+        "id": 713218,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 1212632
+            }
+        ],
+        "power": 0,
+        "name": "T18 DEF"
+    },
+    "713219": {
+        "id": 713219,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 1358148
+            }
+        ],
+        "power": 0,
+        "name": "T19 DEF"
+    },
+    "713220": {
+        "id": 713220,
+        "ysId": 3,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 110,
+                "value": 1507545
+            }
+        ],
+        "power": 0,
+        "name": "T20 DEF"
+    },
+    "713301": {
+        "id": 713301,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 15
+            }
+        ],
+        "power": 10000,
+        "name": "T1 DMG Bonus"
+    },
+    "713302": {
+        "id": 713302,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 23
+            }
+        ],
+        "power": 20000,
+        "name": "T2 DMG Bonus"
+    },
+    "713303": {
+        "id": 713303,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 30
+            }
+        ],
+        "power": 40000,
+        "name": "T3 DMG Bonus"
+    },
+    "713304": {
+        "id": 713304,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 38
+            }
+        ],
+        "power": 80000,
+        "name": "T4 DMG Bonus"
+    },
+    "713305": {
+        "id": 713305,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 45
+            }
+        ],
+        "power": 160000,
+        "name": "T5 DMG Bonus"
+    },
+    "713306": {
+        "id": 713306,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 53
+            }
+        ],
+        "power": 240000,
+        "name": "T6 DMG Bonus"
+    },
+    "713307": {
+        "id": 713307,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 60
+            }
+        ],
+        "power": 348000,
+        "name": "T7 DMG Bonus"
+    },
+    "713308": {
+        "id": 713308,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 68
+            }
+        ],
+        "power": 504600,
+        "name": "T8 DMG Bonus"
+    },
+    "713309": {
+        "id": 713309,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 75
+            }
+        ],
+        "power": 706440,
+        "name": "T9 DMG Bonus"
+    },
+    "713310": {
+        "id": 713310,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 83
+            }
+        ],
+        "power": 989020,
+        "name": "T10 DMG Bonus"
+    },
+    "713311": {
+        "id": 713311,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 90
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 DMG Bonus"
+    },
+    "713312": {
+        "id": 713312,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 98
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 DMG Bonus"
+    },
+    "713313": {
+        "id": 713313,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 105
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 DMG Bonus"
+    },
+    "713314": {
+        "id": 713314,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 113
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 DMG Bonus"
+    },
+    "713315": {
+        "id": 713315,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 120
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 DMG Bonus"
+    },
+    "713316": {
+        "id": 713316,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 128
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 DMG Bonus"
+    },
+    "713317": {
+        "id": 713317,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 135
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 DMG Bonus"
+    },
+    "713318": {
+        "id": 713318,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 143
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 DMG Bonus"
+    },
+    "713319": {
+        "id": 713319,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 150
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 DMG Bonus"
+    },
+    "713320": {
+        "id": 713320,
+        "ysId": 3,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 115,
+                "value": 158
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 DMG Bonus"
+    },
+    "713401": {
+        "id": 713401,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 15
+            }
+        ],
+        "power": 10000,
+        "name": "T1 DMG Reduction"
+    },
+    "713402": {
+        "id": 713402,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 23
+            }
+        ],
+        "power": 20000,
+        "name": "T2 DMG Reduction"
+    },
+    "713403": {
+        "id": 713403,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 30
+            }
+        ],
+        "power": 40000,
+        "name": "T3 DMG Reduction"
+    },
+    "713404": {
+        "id": 713404,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 38
+            }
+        ],
+        "power": 80000,
+        "name": "T4 DMG Reduction"
+    },
+    "713405": {
+        "id": 713405,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 45
+            }
+        ],
+        "power": 160000,
+        "name": "T5 DMG Reduction"
+    },
+    "713406": {
+        "id": 713406,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 53
+            }
+        ],
+        "power": 240000,
+        "name": "T6 DMG Reduction"
+    },
+    "713407": {
+        "id": 713407,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 60
+            }
+        ],
+        "power": 348000,
+        "name": "T7 DMG Reduction"
+    },
+    "713408": {
+        "id": 713408,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 68
+            }
+        ],
+        "power": 504600,
+        "name": "T8 DMG Reduction"
+    },
+    "713409": {
+        "id": 713409,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 75
+            }
+        ],
+        "power": 706440,
+        "name": "T9 DMG Reduction"
+    },
+    "713410": {
+        "id": 713410,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 83
+            }
+        ],
+        "power": 989020,
+        "name": "T10 DMG Reduction"
+    },
+    "713411": {
+        "id": 713411,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 90
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 DMG Reduction"
+    },
+    "713412": {
+        "id": 713412,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 98
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 DMG Reduction"
+    },
+    "713413": {
+        "id": 713413,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 105
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 DMG Reduction"
+    },
+    "713414": {
+        "id": 713414,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 113
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 DMG Reduction"
+    },
+    "713415": {
+        "id": 713415,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 120
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 DMG Reduction"
+    },
+    "713416": {
+        "id": 713416,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 128
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 DMG Reduction"
+    },
+    "713417": {
+        "id": 713417,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 135
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 DMG Reduction"
+    },
+    "713418": {
+        "id": 713418,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 143
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 DMG Reduction"
+    },
+    "713419": {
+        "id": 713419,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 150
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 DMG Reduction"
+    },
+    "713420": {
+        "id": 713420,
+        "ysId": 3,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 120,
+                "value": 158
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 DMG Reduction"
+    },
+    "713501": {
+        "id": 713501,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 10
+            }
+        ],
+        "power": 10000,
+        "name": "T1 All-rounder"
+    },
+    "713502": {
+        "id": 713502,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 15
+            }
+        ],
+        "power": 20000,
+        "name": "T2 All-rounder"
+    },
+    "713503": {
+        "id": 713503,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 20
+            }
+        ],
+        "power": 40000,
+        "name": "T3 All-rounder"
+    },
+    "713504": {
+        "id": 713504,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 25
+            }
+        ],
+        "power": 80000,
+        "name": "T4 All-rounder"
+    },
+    "713505": {
+        "id": 713505,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 30
+            }
+        ],
+        "power": 160000,
+        "name": "T5 All-rounder"
+    },
+    "713506": {
+        "id": 713506,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 35
+            }
+        ],
+        "power": 240000,
+        "name": "T6 All-rounder"
+    },
+    "713507": {
+        "id": 713507,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 40
+            }
+        ],
+        "power": 348000,
+        "name": "T7 All-rounder"
+    },
+    "713508": {
+        "id": 713508,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 45
+            }
+        ],
+        "power": 504600,
+        "name": "T8 All-rounder"
+    },
+    "713509": {
+        "id": 713509,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 50
+            }
+        ],
+        "power": 706440,
+        "name": "T9 All-rounder"
+    },
+    "713510": {
+        "id": 713510,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 55
+            }
+        ],
+        "power": 989020,
+        "name": "T10 All-rounder"
+    },
+    "713511": {
+        "id": 713511,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 60
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 All-rounder"
+    },
+    "713512": {
+        "id": 713512,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 65
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 All-rounder"
+    },
+    "713513": {
+        "id": 713513,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 70
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 All-rounder"
+    },
+    "713514": {
+        "id": 713514,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 75
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 All-rounder"
+    },
+    "713515": {
+        "id": 713515,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 80
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 All-rounder"
+    },
+    "713516": {
+        "id": 713516,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 85
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 All-rounder"
+    },
+    "713517": {
+        "id": 713517,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 90
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 All-rounder"
+    },
+    "713518": {
+        "id": 713518,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 95
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 All-rounder"
+    },
+    "713519": {
+        "id": 713519,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 100
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 All-rounder"
+    },
+    "713520": {
+        "id": 713520,
+        "ysId": 3,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 105
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 All-rounder"
+    },
+    "714101": {
+        "id": 714101,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 2000
+            }
+        ],
+        "power": 0,
+        "name": "T1 ATK"
+    },
+    "714102": {
+        "id": 714102,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 4000
+            }
+        ],
+        "power": 0,
+        "name": "T2 ATK"
+    },
+    "714103": {
+        "id": 714103,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 8000
+            }
+        ],
+        "power": 0,
+        "name": "T3 ATK"
+    },
+    "714104": {
+        "id": 714104,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 16000
+            }
+        ],
+        "power": 0,
+        "name": "T4 ATK"
+    },
+    "714105": {
+        "id": 714105,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 32000
+            }
+        ],
+        "power": 0,
+        "name": "T5 ATK"
+    },
+    "714106": {
+        "id": 714106,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 48000
+            }
+        ],
+        "power": 0,
+        "name": "T6 ATK"
+    },
+    "714107": {
+        "id": 714107,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 69600
+            }
+        ],
+        "power": 0,
+        "name": "T7 ATK"
+    },
+    "714108": {
+        "id": 714108,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 100920
+            }
+        ],
+        "power": 0,
+        "name": "T8 ATK"
+    },
+    "714109": {
+        "id": 714109,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 141288
+            }
+        ],
+        "power": 0,
+        "name": "T9 ATK"
+    },
+    "714110": {
+        "id": 714110,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 197804
+            }
+        ],
+        "power": 0,
+        "name": "T10 ATK"
+    },
+    "714111": {
+        "id": 714111,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 267036
+            }
+        ],
+        "power": 0,
+        "name": "T11 ATK"
+    },
+    "714112": {
+        "id": 714112,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 360499
+            }
+        ],
+        "power": 0,
+        "name": "T12 ATK"
+    },
+    "714113": {
+        "id": 714113,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 468649
+            }
+        ],
+        "power": 0,
+        "name": "T13 ATK"
+    },
+    "714114": {
+        "id": 714114,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 585812
+            }
+        ],
+        "power": 0,
+        "name": "T14 ATK"
+    },
+    "714115": {
+        "id": 714115,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 732265
+            }
+        ],
+        "power": 0,
+        "name": "T15 ATK"
+    },
+    "714116": {
+        "id": 714116,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 878718
+            }
+        ],
+        "power": 0,
+        "name": "T16 ATK"
+    },
+    "714117": {
+        "id": 714117,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 1054462
+            }
+        ],
+        "power": 0,
+        "name": "T17 ATK"
+    },
+    "714118": {
+        "id": 714118,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 1212632
+            }
+        ],
+        "power": 0,
+        "name": "T18 ATK"
+    },
+    "714119": {
+        "id": 714119,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 1358148
+            }
+        ],
+        "power": 0,
+        "name": "T19 ATK"
+    },
+    "714120": {
+        "id": 714120,
+        "ysId": 4,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 106,
+                "value": 1507545
+            }
+        ],
+        "power": 0,
+        "name": "T20 ATK"
+    },
+    "714201": {
+        "id": 714201,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 2000
+            }
+        ],
+        "power": 0,
+        "name": "T1 DEF"
+    },
+    "714202": {
+        "id": 714202,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 4000
+            }
+        ],
+        "power": 0,
+        "name": "T2 DEF"
+    },
+    "714203": {
+        "id": 714203,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 8000
+            }
+        ],
+        "power": 0,
+        "name": "T3 DEF"
+    },
+    "714204": {
+        "id": 714204,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 16000
+            }
+        ],
+        "power": 0,
+        "name": "T4 DEF"
+    },
+    "714205": {
+        "id": 714205,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 32000
+            }
+        ],
+        "power": 0,
+        "name": "T5 DEF"
+    },
+    "714206": {
+        "id": 714206,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 48000
+            }
+        ],
+        "power": 0,
+        "name": "T6 DEF"
+    },
+    "714207": {
+        "id": 714207,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 69600
+            }
+        ],
+        "power": 0,
+        "name": "T7 DEF"
+    },
+    "714208": {
+        "id": 714208,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 100920
+            }
+        ],
+        "power": 0,
+        "name": "T8 DEF"
+    },
+    "714209": {
+        "id": 714209,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 141288
+            }
+        ],
+        "power": 0,
+        "name": "T9 DEF"
+    },
+    "714210": {
+        "id": 714210,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 197804
+            }
+        ],
+        "power": 0,
+        "name": "T10 DEF"
+    },
+    "714211": {
+        "id": 714211,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 267036
+            }
+        ],
+        "power": 0,
+        "name": "T11 DEF"
+    },
+    "714212": {
+        "id": 714212,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 360499
+            }
+        ],
+        "power": 0,
+        "name": "T12 DEF"
+    },
+    "714213": {
+        "id": 714213,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 468649
+            }
+        ],
+        "power": 0,
+        "name": "T13 DEF"
+    },
+    "714214": {
+        "id": 714214,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 585812
+            }
+        ],
+        "power": 0,
+        "name": "T14 DEF"
+    },
+    "714215": {
+        "id": 714215,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 732265
+            }
+        ],
+        "power": 0,
+        "name": "T15 DEF"
+    },
+    "714216": {
+        "id": 714216,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 878718
+            }
+        ],
+        "power": 0,
+        "name": "T16 DEF"
+    },
+    "714217": {
+        "id": 714217,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 1054462
+            }
+        ],
+        "power": 0,
+        "name": "T17 DEF"
+    },
+    "714218": {
+        "id": 714218,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 1212632
+            }
+        ],
+        "power": 0,
+        "name": "T18 DEF"
+    },
+    "714219": {
+        "id": 714219,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 1358148
+            }
+        ],
+        "power": 0,
+        "name": "T19 DEF"
+    },
+    "714220": {
+        "id": 714220,
+        "ysId": 4,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 111,
+                "value": 1507545
+            }
+        ],
+        "power": 0,
+        "name": "T20 DEF"
+    },
+    "714301": {
+        "id": 714301,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 15
+            }
+        ],
+        "power": 10000,
+        "name": "T1 DMG Bonus"
+    },
+    "714302": {
+        "id": 714302,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 23
+            }
+        ],
+        "power": 20000,
+        "name": "T2 DMG Bonus"
+    },
+    "714303": {
+        "id": 714303,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 30
+            }
+        ],
+        "power": 40000,
+        "name": "T3 DMG Bonus"
+    },
+    "714304": {
+        "id": 714304,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 38
+            }
+        ],
+        "power": 80000,
+        "name": "T4 DMG Bonus"
+    },
+    "714305": {
+        "id": 714305,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 45
+            }
+        ],
+        "power": 160000,
+        "name": "T5 DMG Bonus"
+    },
+    "714306": {
+        "id": 714306,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 53
+            }
+        ],
+        "power": 240000,
+        "name": "T6 DMG Bonus"
+    },
+    "714307": {
+        "id": 714307,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 60
+            }
+        ],
+        "power": 348000,
+        "name": "T7 DMG Bonus"
+    },
+    "714308": {
+        "id": 714308,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 68
+            }
+        ],
+        "power": 504600,
+        "name": "T8 DMG Bonus"
+    },
+    "714309": {
+        "id": 714309,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 75
+            }
+        ],
+        "power": 706440,
+        "name": "T9 DMG Bonus"
+    },
+    "714310": {
+        "id": 714310,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 83
+            }
+        ],
+        "power": 989020,
+        "name": "T10 DMG Bonus"
+    },
+    "714311": {
+        "id": 714311,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 90
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 DMG Bonus"
+    },
+    "714312": {
+        "id": 714312,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 98
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 DMG Bonus"
+    },
+    "714313": {
+        "id": 714313,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 105
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 DMG Bonus"
+    },
+    "714314": {
+        "id": 714314,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 113
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 DMG Bonus"
+    },
+    "714315": {
+        "id": 714315,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 120
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 DMG Bonus"
+    },
+    "714316": {
+        "id": 714316,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 128
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 DMG Bonus"
+    },
+    "714317": {
+        "id": 714317,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 135
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 DMG Bonus"
+    },
+    "714318": {
+        "id": 714318,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 143
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 DMG Bonus"
+    },
+    "714319": {
+        "id": 714319,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 150
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 DMG Bonus"
+    },
+    "714320": {
+        "id": 714320,
+        "ysId": 4,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 116,
+                "value": 158
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 DMG Bonus"
+    },
+    "714401": {
+        "id": 714401,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 15
+            }
+        ],
+        "power": 10000,
+        "name": "T1 DMG Reduction"
+    },
+    "714402": {
+        "id": 714402,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 23
+            }
+        ],
+        "power": 20000,
+        "name": "T2 DMG Reduction"
+    },
+    "714403": {
+        "id": 714403,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 30
+            }
+        ],
+        "power": 40000,
+        "name": "T3 DMG Reduction"
+    },
+    "714404": {
+        "id": 714404,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 38
+            }
+        ],
+        "power": 80000,
+        "name": "T4 DMG Reduction"
+    },
+    "714405": {
+        "id": 714405,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 45
+            }
+        ],
+        "power": 160000,
+        "name": "T5 DMG Reduction"
+    },
+    "714406": {
+        "id": 714406,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 53
+            }
+        ],
+        "power": 240000,
+        "name": "T6 DMG Reduction"
+    },
+    "714407": {
+        "id": 714407,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 60
+            }
+        ],
+        "power": 348000,
+        "name": "T7 DMG Reduction"
+    },
+    "714408": {
+        "id": 714408,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 68
+            }
+        ],
+        "power": 504600,
+        "name": "T8 DMG Reduction"
+    },
+    "714409": {
+        "id": 714409,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 75
+            }
+        ],
+        "power": 706440,
+        "name": "T9 DMG Reduction"
+    },
+    "714410": {
+        "id": 714410,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 83
+            }
+        ],
+        "power": 989020,
+        "name": "T10 DMG Reduction"
+    },
+    "714411": {
+        "id": 714411,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 90
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 DMG Reduction"
+    },
+    "714412": {
+        "id": 714412,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 98
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 DMG Reduction"
+    },
+    "714413": {
+        "id": 714413,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 105
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 DMG Reduction"
+    },
+    "714414": {
+        "id": 714414,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 113
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 DMG Reduction"
+    },
+    "714415": {
+        "id": 714415,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 120
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 DMG Reduction"
+    },
+    "714416": {
+        "id": 714416,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 128
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 DMG Reduction"
+    },
+    "714417": {
+        "id": 714417,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 135
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 DMG Reduction"
+    },
+    "714418": {
+        "id": 714418,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 143
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 DMG Reduction"
+    },
+    "714419": {
+        "id": 714419,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 150
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 DMG Reduction"
+    },
+    "714420": {
+        "id": 714420,
+        "ysId": 4,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 121,
+                "value": 158
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 DMG Reduction"
+    },
+    "714501": {
+        "id": 714501,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 10
+            }
+        ],
+        "power": 10000,
+        "name": "T1 All-rounder"
+    },
+    "714502": {
+        "id": 714502,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 15
+            }
+        ],
+        "power": 20000,
+        "name": "T2 All-rounder"
+    },
+    "714503": {
+        "id": 714503,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 20
+            }
+        ],
+        "power": 40000,
+        "name": "T3 All-rounder"
+    },
+    "714504": {
+        "id": 714504,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 25
+            }
+        ],
+        "power": 80000,
+        "name": "T4 All-rounder"
+    },
+    "714505": {
+        "id": 714505,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 30
+            }
+        ],
+        "power": 160000,
+        "name": "T5 All-rounder"
+    },
+    "714506": {
+        "id": 714506,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 35
+            }
+        ],
+        "power": 240000,
+        "name": "T6 All-rounder"
+    },
+    "714507": {
+        "id": 714507,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 40
+            }
+        ],
+        "power": 348000,
+        "name": "T7 All-rounder"
+    },
+    "714508": {
+        "id": 714508,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 45
+            }
+        ],
+        "power": 504600,
+        "name": "T8 All-rounder"
+    },
+    "714509": {
+        "id": 714509,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 50
+            }
+        ],
+        "power": 706440,
+        "name": "T9 All-rounder"
+    },
+    "714510": {
+        "id": 714510,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 55
+            }
+        ],
+        "power": 989020,
+        "name": "T10 All-rounder"
+    },
+    "714511": {
+        "id": 714511,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 60
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 All-rounder"
+    },
+    "714512": {
+        "id": 714512,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 65
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 All-rounder"
+    },
+    "714513": {
+        "id": 714513,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 70
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 All-rounder"
+    },
+    "714514": {
+        "id": 714514,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 75
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 All-rounder"
+    },
+    "714515": {
+        "id": 714515,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 80
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 All-rounder"
+    },
+    "714516": {
+        "id": 714516,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 85
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 All-rounder"
+    },
+    "714517": {
+        "id": 714517,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 90
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 All-rounder"
+    },
+    "714518": {
+        "id": 714518,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 95
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 All-rounder"
+    },
+    "714519": {
+        "id": 714519,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 100
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 All-rounder"
+    },
+    "714520": {
+        "id": 714520,
+        "ysId": 4,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 105
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 All-rounder"
+    },
+    "715101": {
+        "id": 715101,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 2000
+            }
+        ],
+        "power": 0,
+        "name": "T1 ATK"
+    },
+    "715102": {
+        "id": 715102,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 4000
+            }
+        ],
+        "power": 0,
+        "name": "T2 ATK"
+    },
+    "715103": {
+        "id": 715103,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 8000
+            }
+        ],
+        "power": 0,
+        "name": "T3 ATK"
+    },
+    "715104": {
+        "id": 715104,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 16000
+            }
+        ],
+        "power": 0,
+        "name": "T4 ATK"
+    },
+    "715105": {
+        "id": 715105,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 32000
+            }
+        ],
+        "power": 0,
+        "name": "T5 ATK"
+    },
+    "715106": {
+        "id": 715106,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 48000
+            }
+        ],
+        "power": 0,
+        "name": "T6 ATK"
+    },
+    "715107": {
+        "id": 715107,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 69600
+            }
+        ],
+        "power": 0,
+        "name": "T7 ATK"
+    },
+    "715108": {
+        "id": 715108,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 100920
+            }
+        ],
+        "power": 0,
+        "name": "T8 ATK"
+    },
+    "715109": {
+        "id": 715109,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 141288
+            }
+        ],
+        "power": 0,
+        "name": "T9 ATK"
+    },
+    "715110": {
+        "id": 715110,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 197804
+            }
+        ],
+        "power": 0,
+        "name": "T10 ATK"
+    },
+    "715111": {
+        "id": 715111,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 267036
+            }
+        ],
+        "power": 0,
+        "name": "T11 ATK"
+    },
+    "715112": {
+        "id": 715112,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 360499
+            }
+        ],
+        "power": 0,
+        "name": "T12 ATK"
+    },
+    "715113": {
+        "id": 715113,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 468649
+            }
+        ],
+        "power": 0,
+        "name": "T13 ATK"
+    },
+    "715114": {
+        "id": 715114,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 585812
+            }
+        ],
+        "power": 0,
+        "name": "T14 ATK"
+    },
+    "715115": {
+        "id": 715115,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 732265
+            }
+        ],
+        "power": 0,
+        "name": "T15 ATK"
+    },
+    "715116": {
+        "id": 715116,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 878718
+            }
+        ],
+        "power": 0,
+        "name": "T16 ATK"
+    },
+    "715117": {
+        "id": 715117,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 1054462
+            }
+        ],
+        "power": 0,
+        "name": "T17 ATK"
+    },
+    "715118": {
+        "id": 715118,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 1212632
+            }
+        ],
+        "power": 0,
+        "name": "T18 ATK"
+    },
+    "715119": {
+        "id": 715119,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 1358148
+            }
+        ],
+        "power": 0,
+        "name": "T19 ATK"
+    },
+    "715120": {
+        "id": 715120,
+        "ysId": 5,
+        "type": 4,
+        "attrs": [
+            {
+                "type": 107,
+                "value": 1507545
+            }
+        ],
+        "power": 0,
+        "name": "T20 ATK"
+    },
+    "715201": {
+        "id": 715201,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 2000
+            }
+        ],
+        "power": 0,
+        "name": "T1 DEF"
+    },
+    "715202": {
+        "id": 715202,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 4000
+            }
+        ],
+        "power": 0,
+        "name": "T2 DEF"
+    },
+    "715203": {
+        "id": 715203,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 8000
+            }
+        ],
+        "power": 0,
+        "name": "T3 DEF"
+    },
+    "715204": {
+        "id": 715204,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 16000
+            }
+        ],
+        "power": 0,
+        "name": "T4 DEF"
+    },
+    "715205": {
+        "id": 715205,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 32000
+            }
+        ],
+        "power": 0,
+        "name": "T5 DEF"
+    },
+    "715206": {
+        "id": 715206,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 48000
+            }
+        ],
+        "power": 0,
+        "name": "T6 DEF"
+    },
+    "715207": {
+        "id": 715207,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 69600
+            }
+        ],
+        "power": 0,
+        "name": "T7 DEF"
+    },
+    "715208": {
+        "id": 715208,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 100920
+            }
+        ],
+        "power": 0,
+        "name": "T8 DEF"
+    },
+    "715209": {
+        "id": 715209,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 141288
+            }
+        ],
+        "power": 0,
+        "name": "T9 DEF"
+    },
+    "715210": {
+        "id": 715210,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 197804
+            }
+        ],
+        "power": 0,
+        "name": "T10 DEF"
+    },
+    "715211": {
+        "id": 715211,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 267036
+            }
+        ],
+        "power": 0,
+        "name": "T11 DEF"
+    },
+    "715212": {
+        "id": 715212,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 360499
+            }
+        ],
+        "power": 0,
+        "name": "T12 DEF"
+    },
+    "715213": {
+        "id": 715213,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 468649
+            }
+        ],
+        "power": 0,
+        "name": "T13 DEF"
+    },
+    "715214": {
+        "id": 715214,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 585812
+            }
+        ],
+        "power": 0,
+        "name": "T14 DEF"
+    },
+    "715215": {
+        "id": 715215,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 732265
+            }
+        ],
+        "power": 0,
+        "name": "T15 DEF"
+    },
+    "715216": {
+        "id": 715216,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 878718
+            }
+        ],
+        "power": 0,
+        "name": "T16 DEF"
+    },
+    "715217": {
+        "id": 715217,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 1054462
+            }
+        ],
+        "power": 0,
+        "name": "T17 DEF"
+    },
+    "715218": {
+        "id": 715218,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 1212632
+            }
+        ],
+        "power": 0,
+        "name": "T18 DEF"
+    },
+    "715219": {
+        "id": 715219,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 1358148
+            }
+        ],
+        "power": 0,
+        "name": "T19 DEF"
+    },
+    "715220": {
+        "id": 715220,
+        "ysId": 5,
+        "type": 5,
+        "attrs": [
+            {
+                "type": 112,
+                "value": 1507545
+            }
+        ],
+        "power": 0,
+        "name": "T20 DEF"
+    },
+    "715301": {
+        "id": 715301,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 15
+            }
+        ],
+        "power": 10000,
+        "name": "T1 DMG Bonus"
+    },
+    "715302": {
+        "id": 715302,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 23
+            }
+        ],
+        "power": 20000,
+        "name": "T2 DMG Bonus"
+    },
+    "715303": {
+        "id": 715303,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 30
+            }
+        ],
+        "power": 40000,
+        "name": "T3 DMG Bonus"
+    },
+    "715304": {
+        "id": 715304,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 38
+            }
+        ],
+        "power": 80000,
+        "name": "T4 DMG Bonus"
+    },
+    "715305": {
+        "id": 715305,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 45
+            }
+        ],
+        "power": 160000,
+        "name": "T5 DMG Bonus"
+    },
+    "715306": {
+        "id": 715306,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 53
+            }
+        ],
+        "power": 240000,
+        "name": "T6 DMG Bonus"
+    },
+    "715307": {
+        "id": 715307,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 60
+            }
+        ],
+        "power": 348000,
+        "name": "T7 DMG Bonus"
+    },
+    "715308": {
+        "id": 715308,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 68
+            }
+        ],
+        "power": 504600,
+        "name": "T8 DMG Bonus"
+    },
+    "715309": {
+        "id": 715309,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 75
+            }
+        ],
+        "power": 706440,
+        "name": "T9 DMG Bonus"
+    },
+    "715310": {
+        "id": 715310,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 83
+            }
+        ],
+        "power": 989020,
+        "name": "T10 DMG Bonus"
+    },
+    "715311": {
+        "id": 715311,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 90
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 DMG Bonus"
+    },
+    "715312": {
+        "id": 715312,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 98
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 DMG Bonus"
+    },
+    "715313": {
+        "id": 715313,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 105
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 DMG Bonus"
+    },
+    "715314": {
+        "id": 715314,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 113
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 DMG Bonus"
+    },
+    "715315": {
+        "id": 715315,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 120
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 DMG Bonus"
+    },
+    "715316": {
+        "id": 715316,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 128
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 DMG Bonus"
+    },
+    "715317": {
+        "id": 715317,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 135
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 DMG Bonus"
+    },
+    "715318": {
+        "id": 715318,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 143
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 DMG Bonus"
+    },
+    "715319": {
+        "id": 715319,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 150
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 DMG Bonus"
+    },
+    "715320": {
+        "id": 715320,
+        "ysId": 5,
+        "type": 2,
+        "attrs": [
+            {
+                "type": 117,
+                "value": 158
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 DMG Bonus"
+    },
+    "715401": {
+        "id": 715401,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 15
+            }
+        ],
+        "power": 10000,
+        "name": "T1 DMG Reduction"
+    },
+    "715402": {
+        "id": 715402,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 23
+            }
+        ],
+        "power": 20000,
+        "name": "T2 DMG Reduction"
+    },
+    "715403": {
+        "id": 715403,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 30
+            }
+        ],
+        "power": 40000,
+        "name": "T3 DMG Reduction"
+    },
+    "715404": {
+        "id": 715404,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 38
+            }
+        ],
+        "power": 80000,
+        "name": "T4 DMG Reduction"
+    },
+    "715405": {
+        "id": 715405,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 45
+            }
+        ],
+        "power": 160000,
+        "name": "T5 DMG Reduction"
+    },
+    "715406": {
+        "id": 715406,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 53
+            }
+        ],
+        "power": 240000,
+        "name": "T6 DMG Reduction"
+    },
+    "715407": {
+        "id": 715407,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 60
+            }
+        ],
+        "power": 348000,
+        "name": "T7 DMG Reduction"
+    },
+    "715408": {
+        "id": 715408,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 68
+            }
+        ],
+        "power": 504600,
+        "name": "T8 DMG Reduction"
+    },
+    "715409": {
+        "id": 715409,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 75
+            }
+        ],
+        "power": 706440,
+        "name": "T9 DMG Reduction"
+    },
+    "715410": {
+        "id": 715410,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 83
+            }
+        ],
+        "power": 989020,
+        "name": "T10 DMG Reduction"
+    },
+    "715411": {
+        "id": 715411,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 90
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 DMG Reduction"
+    },
+    "715412": {
+        "id": 715412,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 98
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 DMG Reduction"
+    },
+    "715413": {
+        "id": 715413,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 105
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 DMG Reduction"
+    },
+    "715414": {
+        "id": 715414,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 113
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 DMG Reduction"
+    },
+    "715415": {
+        "id": 715415,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 120
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 DMG Reduction"
+    },
+    "715416": {
+        "id": 715416,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 128
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 DMG Reduction"
+    },
+    "715417": {
+        "id": 715417,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 135
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 DMG Reduction"
+    },
+    "715418": {
+        "id": 715418,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 143
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 DMG Reduction"
+    },
+    "715419": {
+        "id": 715419,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 150
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 DMG Reduction"
+    },
+    "715420": {
+        "id": 715420,
+        "ysId": 5,
+        "type": 3,
+        "attrs": [
+            {
+                "type": 122,
+                "value": 158
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 DMG Reduction"
+    },
+    "715501": {
+        "id": 715501,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 10
+            }
+        ],
+        "power": 10000,
+        "name": "T1 All-rounder"
+    },
+    "715502": {
+        "id": 715502,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 15
+            }
+        ],
+        "power": 20000,
+        "name": "T2 All-rounder"
+    },
+    "715503": {
+        "id": 715503,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 20
+            }
+        ],
+        "power": 40000,
+        "name": "T3 All-rounder"
+    },
+    "715504": {
+        "id": 715504,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 25
+            }
+        ],
+        "power": 80000,
+        "name": "T4 All-rounder"
+    },
+    "715505": {
+        "id": 715505,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 30
+            }
+        ],
+        "power": 160000,
+        "name": "T5 All-rounder"
+    },
+    "715506": {
+        "id": 715506,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 35
+            }
+        ],
+        "power": 240000,
+        "name": "T6 All-rounder"
+    },
+    "715507": {
+        "id": 715507,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 40
+            }
+        ],
+        "power": 348000,
+        "name": "T7 All-rounder"
+    },
+    "715508": {
+        "id": 715508,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 45
+            }
+        ],
+        "power": 504600,
+        "name": "T8 All-rounder"
+    },
+    "715509": {
+        "id": 715509,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 50
+            }
+        ],
+        "power": 706440,
+        "name": "T9 All-rounder"
+    },
+    "715510": {
+        "id": 715510,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 55
+            }
+        ],
+        "power": 989020,
+        "name": "T10 All-rounder"
+    },
+    "715511": {
+        "id": 715511,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 60
+            }
+        ],
+        "power": 1335180,
+        "name": "T11 All-rounder"
+    },
+    "715512": {
+        "id": 715512,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 65
+            }
+        ],
+        "power": 1802495,
+        "name": "T12 All-rounder"
+    },
+    "715513": {
+        "id": 715513,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 70
+            }
+        ],
+        "power": 2343245,
+        "name": "T13 All-rounder"
+    },
+    "715514": {
+        "id": 715514,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 75
+            }
+        ],
+        "power": 2929060,
+        "name": "T14 All-rounder"
+    },
+    "715515": {
+        "id": 715515,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 80
+            }
+        ],
+        "power": 3661325,
+        "name": "T15 All-rounder"
+    },
+    "715516": {
+        "id": 715516,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 85
+            }
+        ],
+        "power": 4393590,
+        "name": "T16 All-rounder"
+    },
+    "715517": {
+        "id": 715517,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 90
+            }
+        ],
+        "power": 5272310,
+        "name": "T17 All-rounder"
+    },
+    "715518": {
+        "id": 715518,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 95
+            }
+        ],
+        "power": 6063160,
+        "name": "T18 All-rounder"
+    },
+    "715519": {
+        "id": 715519,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 100
+            }
+        ],
+        "power": 6790740,
+        "name": "T19 All-rounder"
+    },
+    "715520": {
+        "id": 715520,
+        "ysId": 5,
+        "type": 1,
+        "attrs": [
+            {
+                "type": 123,
+                "value": 105
+            }
+        ],
+        "power": 7537725,
+        "name": "T20 All-rounder"
+    }
+}

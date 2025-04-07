@@ -1,0 +1,63 @@
+{
+    "fightcount": 3,
+    "helpcount": 5,
+    "mailtitle": "Dragon Castle Rewards",
+    "mailcontent": "You have unclaimed rewards from Dragon Castle. We have issued them via mail, please claim your attachment.",
+    "minname": "C",
+    "buffer": 25000,
+    "teamcd": 40,
+    "startcd": 10,
+    "desc": "The place where the great dragon is put in slumber. It holds countless spirits of the dead - Dragon Castle\nMany people hope to find it. Dear warriors! Rally up your men\nWake up the dragon from its slumber and defeat it, earn ample rewards. \n|C:0xf5e65a&T:Tips: After joining the Dungeon, call your friends to challenge together for more rewards! |",
+    "needdiamond": [
+        500,
+        500,
+        500
+    ],
+    "pos": [
+        [
+            [
+                8,
+                44
+            ],
+            [
+                9,
+                45
+            ],
+            [
+                10,
+                46
+            ]
+        ],
+        [
+            [
+                4,
+                43
+            ],
+            [
+                5,
+                44
+            ],
+            [
+                6,
+                45
+            ]
+        ],
+        [
+            [
+                7,
+                47
+            ],
+            [
+                8,
+                48
+            ],
+            [
+                9,
+                49
+            ]
+        ]
+    ],
+    "tiaozhancd": 300,
+    "monstermaxcount": 17,
+    "yaoqingdesc": "The monster is coming, rally up your teammates and prepare for battle! \nWe have now extended our invitations to the whole server. Time to earn higher rewards"
+}

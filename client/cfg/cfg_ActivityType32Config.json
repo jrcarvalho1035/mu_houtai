@@ -1,0 +1,7706 @@
+{
+    "332": {
+        "1": {
+            "id": 332,
+            "index": 1,
+            "subType": 1,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 1000004,
+                    "count": 3
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 332,
+            "index": 2,
+            "subType": 1,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 1000004,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 332,
+            "index": 3,
+            "subType": 1,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 1000004,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 332,
+            "index": 4,
+            "subType": 1,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 332,
+            "index": 5,
+            "subType": 1,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 332,
+            "index": 6,
+            "subType": 1,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 332,
+            "index": 7,
+            "subType": 1,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 332,
+            "index": 8,
+            "subType": 1,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 332,
+            "index": 9,
+            "subType": 1,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 332,
+            "index": 10,
+            "subType": 1,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "339": {
+        "1": {
+            "id": 339,
+            "index": 1,
+            "subType": 2,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 1000004,
+                    "count": 3
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 339,
+            "index": 2,
+            "subType": 2,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 1000004,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 339,
+            "index": 3,
+            "subType": 2,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 1000004,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 339,
+            "index": 4,
+            "subType": 2,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 339,
+            "index": 5,
+            "subType": 2,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 339,
+            "index": 6,
+            "subType": 2,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 339,
+            "index": 7,
+            "subType": 2,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 339,
+            "index": 8,
+            "subType": 2,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 339,
+            "index": 9,
+            "subType": 2,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 339,
+            "index": 10,
+            "subType": 2,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "343": {
+        "1": {
+            "id": 343,
+            "index": 1,
+            "subType": 3,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 1000004,
+                    "count": 3
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 343,
+            "index": 2,
+            "subType": 3,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 1000004,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 343,
+            "index": 3,
+            "subType": 3,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 1000004,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 343,
+            "index": 4,
+            "subType": 3,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 343,
+            "index": 5,
+            "subType": 3,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 343,
+            "index": 6,
+            "subType": 3,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 343,
+            "index": 7,
+            "subType": 3,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 343,
+            "index": 8,
+            "subType": 3,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 343,
+            "index": 9,
+            "subType": 3,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 343,
+            "index": 10,
+            "subType": 3,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "347": {
+        "1": {
+            "id": 347,
+            "index": 1,
+            "subType": 4,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 1000004,
+                    "count": 3
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 347,
+            "index": 2,
+            "subType": 4,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 1000004,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 347,
+            "index": 3,
+            "subType": 4,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 1000004,
+                    "count": 1
+                },
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 347,
+            "index": 4,
+            "subType": 4,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 347,
+            "index": 5,
+            "subType": 4,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 347,
+            "index": 6,
+            "subType": 4,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 347,
+            "index": 7,
+            "subType": 4,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 347,
+            "index": 8,
+            "subType": 4,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 347,
+            "index": 9,
+            "subType": 4,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 347,
+            "index": 10,
+            "subType": 4,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "401": {
+        "1": {
+            "id": 401,
+            "index": 1,
+            "subType": 5,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 401,
+            "index": 2,
+            "subType": 5,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 401,
+            "index": 3,
+            "subType": 5,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 401,
+            "index": 4,
+            "subType": 5,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 401,
+            "index": 5,
+            "subType": 5,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 401,
+            "index": 6,
+            "subType": 5,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 401,
+            "index": 7,
+            "subType": 5,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 401,
+            "index": 8,
+            "subType": 5,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 401,
+            "index": 9,
+            "subType": 5,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 401,
+            "index": 10,
+            "subType": 5,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "402": {
+        "1": {
+            "id": 402,
+            "index": 1,
+            "subType": 6,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 402,
+            "index": 2,
+            "subType": 6,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 402,
+            "index": 3,
+            "subType": 6,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 402,
+            "index": 4,
+            "subType": 6,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 402,
+            "index": 5,
+            "subType": 6,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 402,
+            "index": 6,
+            "subType": 6,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 402,
+            "index": 7,
+            "subType": 6,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 402,
+            "index": 8,
+            "subType": 6,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 402,
+            "index": 9,
+            "subType": 6,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 402,
+            "index": 10,
+            "subType": 6,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "403": {
+        "1": {
+            "id": 403,
+            "index": 1,
+            "subType": 7,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 403,
+            "index": 2,
+            "subType": 7,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 403,
+            "index": 3,
+            "subType": 7,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 403,
+            "index": 4,
+            "subType": 7,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 403,
+            "index": 5,
+            "subType": 7,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 403,
+            "index": 6,
+            "subType": 7,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 403,
+            "index": 7,
+            "subType": 7,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 403,
+            "index": 8,
+            "subType": 7,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 403,
+            "index": 9,
+            "subType": 7,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 403,
+            "index": 10,
+            "subType": 7,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "404": {
+        "1": {
+            "id": 404,
+            "index": 1,
+            "subType": 8,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 404,
+            "index": 2,
+            "subType": 8,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 404,
+            "index": 3,
+            "subType": 8,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 404,
+            "index": 4,
+            "subType": 8,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 404,
+            "index": 5,
+            "subType": 8,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 404,
+            "index": 6,
+            "subType": 8,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 404,
+            "index": 7,
+            "subType": 8,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 404,
+            "index": 8,
+            "subType": 8,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 404,
+            "index": 9,
+            "subType": 8,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 404,
+            "index": 10,
+            "subType": 8,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "405": {
+        "1": {
+            "id": 405,
+            "index": 1,
+            "subType": 9,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 405,
+            "index": 2,
+            "subType": 9,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 405,
+            "index": 3,
+            "subType": 9,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 405,
+            "index": 4,
+            "subType": 9,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 405,
+            "index": 5,
+            "subType": 9,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 405,
+            "index": 6,
+            "subType": 9,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 405,
+            "index": 7,
+            "subType": 9,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 405,
+            "index": 8,
+            "subType": 9,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 405,
+            "index": 9,
+            "subType": 9,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 405,
+            "index": 10,
+            "subType": 9,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "406": {
+        "1": {
+            "id": 406,
+            "index": 1,
+            "subType": 10,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 406,
+            "index": 2,
+            "subType": 10,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 406,
+            "index": 3,
+            "subType": 10,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 406,
+            "index": 4,
+            "subType": 10,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 406,
+            "index": 5,
+            "subType": 10,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 406,
+            "index": 6,
+            "subType": 10,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 406,
+            "index": 7,
+            "subType": 10,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 406,
+            "index": 8,
+            "subType": 10,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 406,
+            "index": 9,
+            "subType": 10,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 406,
+            "index": 10,
+            "subType": 10,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "407": {
+        "1": {
+            "id": 407,
+            "index": 1,
+            "subType": 11,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 407,
+            "index": 2,
+            "subType": 11,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 407,
+            "index": 3,
+            "subType": 11,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 407,
+            "index": 4,
+            "subType": 11,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 407,
+            "index": 5,
+            "subType": 11,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 407,
+            "index": 6,
+            "subType": 11,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 407,
+            "index": 7,
+            "subType": 11,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 407,
+            "index": 8,
+            "subType": 11,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 407,
+            "index": 9,
+            "subType": 11,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 407,
+            "index": 10,
+            "subType": 11,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "820": {
+        "1": {
+            "id": 820,
+            "index": 1,
+            "subType": 12,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 820,
+            "index": 2,
+            "subType": 12,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 820,
+            "index": 3,
+            "subType": 12,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 820,
+            "index": 4,
+            "subType": 12,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 820,
+            "index": 5,
+            "subType": 12,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 820,
+            "index": 6,
+            "subType": 12,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 820,
+            "index": 7,
+            "subType": 12,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 820,
+            "index": 8,
+            "subType": 12,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 820,
+            "index": 9,
+            "subType": 12,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 820,
+            "index": 10,
+            "subType": 12,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "821": {
+        "1": {
+            "id": 821,
+            "index": 1,
+            "subType": 13,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 821,
+            "index": 2,
+            "subType": 13,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 821,
+            "index": 3,
+            "subType": 13,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 821,
+            "index": 4,
+            "subType": 13,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 821,
+            "index": 5,
+            "subType": 13,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 821,
+            "index": 6,
+            "subType": 13,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 821,
+            "index": 7,
+            "subType": 13,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 821,
+            "index": 8,
+            "subType": 13,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 821,
+            "index": 9,
+            "subType": 13,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 821,
+            "index": 10,
+            "subType": 13,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "822": {
+        "1": {
+            "id": 822,
+            "index": 1,
+            "subType": 14,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 822,
+            "index": 2,
+            "subType": 14,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 822,
+            "index": 3,
+            "subType": 14,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 822,
+            "index": 4,
+            "subType": 14,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 822,
+            "index": 5,
+            "subType": 14,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 822,
+            "index": 6,
+            "subType": 14,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 822,
+            "index": 7,
+            "subType": 14,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 822,
+            "index": 8,
+            "subType": 14,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 822,
+            "index": 9,
+            "subType": 14,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 822,
+            "index": 10,
+            "subType": 14,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "823": {
+        "1": {
+            "id": 823,
+            "index": 1,
+            "subType": 15,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 823,
+            "index": 2,
+            "subType": 15,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 823,
+            "index": 3,
+            "subType": 15,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 823,
+            "index": 4,
+            "subType": 15,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 823,
+            "index": 5,
+            "subType": 15,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 823,
+            "index": 6,
+            "subType": 15,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 823,
+            "index": 7,
+            "subType": 15,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 823,
+            "index": 8,
+            "subType": 15,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 823,
+            "index": 9,
+            "subType": 15,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 823,
+            "index": 10,
+            "subType": 15,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "824": {
+        "1": {
+            "id": 824,
+            "index": 1,
+            "subType": 16,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 824,
+            "index": 2,
+            "subType": 16,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 824,
+            "index": 3,
+            "subType": 16,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 824,
+            "index": 4,
+            "subType": 16,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 824,
+            "index": 5,
+            "subType": 16,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 824,
+            "index": 6,
+            "subType": 16,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 824,
+            "index": 7,
+            "subType": 16,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 824,
+            "index": 8,
+            "subType": 16,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 824,
+            "index": 9,
+            "subType": 16,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 824,
+            "index": 10,
+            "subType": 16,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "825": {
+        "1": {
+            "id": 825,
+            "index": 1,
+            "subType": 17,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 825,
+            "index": 2,
+            "subType": 17,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 825,
+            "index": 3,
+            "subType": 17,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 825,
+            "index": 4,
+            "subType": 17,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 825,
+            "index": 5,
+            "subType": 17,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 825,
+            "index": 6,
+            "subType": 17,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 825,
+            "index": 7,
+            "subType": 17,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 825,
+            "index": 8,
+            "subType": 17,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 825,
+            "index": 9,
+            "subType": 17,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 825,
+            "index": 10,
+            "subType": 17,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "826": {
+        "1": {
+            "id": 826,
+            "index": 1,
+            "subType": 18,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 826,
+            "index": 2,
+            "subType": 18,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 826,
+            "index": 3,
+            "subType": 18,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 826,
+            "index": 4,
+            "subType": 18,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 826,
+            "index": 5,
+            "subType": 18,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 826,
+            "index": 6,
+            "subType": 18,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 826,
+            "index": 7,
+            "subType": 18,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 826,
+            "index": 8,
+            "subType": 18,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 826,
+            "index": 9,
+            "subType": 18,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 826,
+            "index": 10,
+            "subType": 18,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "827": {
+        "1": {
+            "id": 827,
+            "index": 1,
+            "subType": 19,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 827,
+            "index": 2,
+            "subType": 19,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 827,
+            "index": 3,
+            "subType": 19,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 827,
+            "index": 4,
+            "subType": 19,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 827,
+            "index": 5,
+            "subType": 19,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 827,
+            "index": 6,
+            "subType": 19,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 827,
+            "index": 7,
+            "subType": 19,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 827,
+            "index": 8,
+            "subType": 19,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 827,
+            "index": 9,
+            "subType": 19,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 827,
+            "index": 10,
+            "subType": 19,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "828": {
+        "1": {
+            "id": 828,
+            "index": 1,
+            "subType": 20,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 828,
+            "index": 2,
+            "subType": 20,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 828,
+            "index": 3,
+            "subType": 20,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 828,
+            "index": 4,
+            "subType": 20,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 828,
+            "index": 5,
+            "subType": 20,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 828,
+            "index": 6,
+            "subType": 20,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 828,
+            "index": 7,
+            "subType": 20,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 828,
+            "index": 8,
+            "subType": 20,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 828,
+            "index": 9,
+            "subType": 20,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 828,
+            "index": 10,
+            "subType": 20,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "829": {
+        "1": {
+            "id": 829,
+            "index": 1,
+            "subType": 21,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 829,
+            "index": 2,
+            "subType": 21,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 829,
+            "index": 3,
+            "subType": 21,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 829,
+            "index": 4,
+            "subType": 21,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 829,
+            "index": 5,
+            "subType": 21,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 829,
+            "index": 6,
+            "subType": 21,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 829,
+            "index": 7,
+            "subType": 21,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 829,
+            "index": 8,
+            "subType": 21,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 829,
+            "index": 9,
+            "subType": 21,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 829,
+            "index": 10,
+            "subType": 21,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "830": {
+        "1": {
+            "id": 830,
+            "index": 1,
+            "subType": 22,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 830,
+            "index": 2,
+            "subType": 22,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 830,
+            "index": 3,
+            "subType": 22,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 830,
+            "index": 4,
+            "subType": 22,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 830,
+            "index": 5,
+            "subType": 22,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 830,
+            "index": 6,
+            "subType": 22,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 830,
+            "index": 7,
+            "subType": 22,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 830,
+            "index": 8,
+            "subType": 22,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 830,
+            "index": 9,
+            "subType": 22,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 830,
+            "index": 10,
+            "subType": 22,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "831": {
+        "1": {
+            "id": 831,
+            "index": 1,
+            "subType": 23,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 831,
+            "index": 2,
+            "subType": 23,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 831,
+            "index": 3,
+            "subType": 23,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 831,
+            "index": 4,
+            "subType": 23,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 831,
+            "index": 5,
+            "subType": 23,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 831,
+            "index": 6,
+            "subType": 23,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 831,
+            "index": 7,
+            "subType": 23,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 831,
+            "index": 8,
+            "subType": 23,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 831,
+            "index": 9,
+            "subType": 23,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 831,
+            "index": 10,
+            "subType": 23,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "832": {
+        "1": {
+            "id": 832,
+            "index": 1,
+            "subType": 24,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 832,
+            "index": 2,
+            "subType": 24,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 832,
+            "index": 3,
+            "subType": 24,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 832,
+            "index": 4,
+            "subType": 24,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 832,
+            "index": 5,
+            "subType": 24,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 832,
+            "index": 6,
+            "subType": 24,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 832,
+            "index": 7,
+            "subType": 24,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 832,
+            "index": 8,
+            "subType": 24,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 832,
+            "index": 9,
+            "subType": 24,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 832,
+            "index": 10,
+            "subType": 24,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "833": {
+        "1": {
+            "id": 833,
+            "index": 1,
+            "subType": 25,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 833,
+            "index": 2,
+            "subType": 25,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 833,
+            "index": 3,
+            "subType": 25,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 833,
+            "index": 4,
+            "subType": 25,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 833,
+            "index": 5,
+            "subType": 25,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 833,
+            "index": 6,
+            "subType": 25,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 833,
+            "index": 7,
+            "subType": 25,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 833,
+            "index": 8,
+            "subType": 25,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 833,
+            "index": 9,
+            "subType": 25,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 833,
+            "index": 10,
+            "subType": 25,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "834": {
+        "1": {
+            "id": 834,
+            "index": 1,
+            "subType": 26,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 834,
+            "index": 2,
+            "subType": 26,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 834,
+            "index": 3,
+            "subType": 26,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 834,
+            "index": 4,
+            "subType": 26,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 834,
+            "index": 5,
+            "subType": 26,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 834,
+            "index": 6,
+            "subType": 26,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 834,
+            "index": 7,
+            "subType": 26,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 834,
+            "index": 8,
+            "subType": 26,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 834,
+            "index": 9,
+            "subType": 26,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 834,
+            "index": 10,
+            "subType": 26,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "835": {
+        "1": {
+            "id": 835,
+            "index": 1,
+            "subType": 27,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 835,
+            "index": 2,
+            "subType": 27,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 835,
+            "index": 3,
+            "subType": 27,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 835,
+            "index": 4,
+            "subType": 27,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 835,
+            "index": 5,
+            "subType": 27,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 835,
+            "index": 6,
+            "subType": 27,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 835,
+            "index": 7,
+            "subType": 27,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 835,
+            "index": 8,
+            "subType": 27,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 835,
+            "index": 9,
+            "subType": 27,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 835,
+            "index": 10,
+            "subType": 27,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "836": {
+        "1": {
+            "id": 836,
+            "index": 1,
+            "subType": 28,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 836,
+            "index": 2,
+            "subType": 28,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 836,
+            "index": 3,
+            "subType": 28,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 836,
+            "index": 4,
+            "subType": 28,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 836,
+            "index": 5,
+            "subType": 28,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 836,
+            "index": 6,
+            "subType": 28,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 836,
+            "index": 7,
+            "subType": 28,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 836,
+            "index": 8,
+            "subType": 28,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 836,
+            "index": 9,
+            "subType": 28,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 836,
+            "index": 10,
+            "subType": 28,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "837": {
+        "1": {
+            "id": 837,
+            "index": 1,
+            "subType": 29,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 837,
+            "index": 2,
+            "subType": 29,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 837,
+            "index": 3,
+            "subType": 29,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 837,
+            "index": 4,
+            "subType": 29,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 837,
+            "index": 5,
+            "subType": 29,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 837,
+            "index": 6,
+            "subType": 29,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 837,
+            "index": 7,
+            "subType": 29,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 837,
+            "index": 8,
+            "subType": 29,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 837,
+            "index": 9,
+            "subType": 29,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 837,
+            "index": 10,
+            "subType": 29,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "838": {
+        "1": {
+            "id": 838,
+            "index": 1,
+            "subType": 30,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 838,
+            "index": 2,
+            "subType": 30,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 838,
+            "index": 3,
+            "subType": 30,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 838,
+            "index": 4,
+            "subType": 30,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 838,
+            "index": 5,
+            "subType": 30,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 838,
+            "index": 6,
+            "subType": 30,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 838,
+            "index": 7,
+            "subType": 30,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 838,
+            "index": 8,
+            "subType": 30,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 838,
+            "index": 9,
+            "subType": 30,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 838,
+            "index": 10,
+            "subType": 30,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "839": {
+        "1": {
+            "id": 839,
+            "index": 1,
+            "subType": 31,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 839,
+            "index": 2,
+            "subType": 31,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 839,
+            "index": 3,
+            "subType": 31,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 839,
+            "index": 4,
+            "subType": 31,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 839,
+            "index": 5,
+            "subType": 31,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 839,
+            "index": 6,
+            "subType": 31,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 839,
+            "index": 7,
+            "subType": 31,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 839,
+            "index": 8,
+            "subType": 31,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 839,
+            "index": 9,
+            "subType": 31,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 839,
+            "index": 10,
+            "subType": 31,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "840": {
+        "1": {
+            "id": 840,
+            "index": 1,
+            "subType": 32,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 840,
+            "index": 2,
+            "subType": 32,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 840,
+            "index": 3,
+            "subType": 32,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 840,
+            "index": 4,
+            "subType": 32,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 840,
+            "index": 5,
+            "subType": 32,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 840,
+            "index": 6,
+            "subType": 32,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 840,
+            "index": 7,
+            "subType": 32,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 840,
+            "index": 8,
+            "subType": 32,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 840,
+            "index": 9,
+            "subType": 32,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 840,
+            "index": 10,
+            "subType": 32,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "841": {
+        "1": {
+            "id": 841,
+            "index": 1,
+            "subType": 33,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 841,
+            "index": 2,
+            "subType": 33,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 841,
+            "index": 3,
+            "subType": 33,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 841,
+            "index": 4,
+            "subType": 33,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 841,
+            "index": 5,
+            "subType": 33,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 841,
+            "index": 6,
+            "subType": 33,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 841,
+            "index": 7,
+            "subType": 33,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 841,
+            "index": 8,
+            "subType": 33,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 841,
+            "index": 9,
+            "subType": 33,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 841,
+            "index": 10,
+            "subType": 33,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "842": {
+        "1": {
+            "id": 842,
+            "index": 1,
+            "subType": 34,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 842,
+            "index": 2,
+            "subType": 34,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 842,
+            "index": 3,
+            "subType": 34,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 842,
+            "index": 4,
+            "subType": 34,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 842,
+            "index": 5,
+            "subType": 34,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 842,
+            "index": 6,
+            "subType": 34,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 842,
+            "index": 7,
+            "subType": 34,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 842,
+            "index": 8,
+            "subType": 34,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 842,
+            "index": 9,
+            "subType": 34,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 842,
+            "index": 10,
+            "subType": 34,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "843": {
+        "1": {
+            "id": 843,
+            "index": 1,
+            "subType": 35,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 843,
+            "index": 2,
+            "subType": 35,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 843,
+            "index": 3,
+            "subType": 35,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 843,
+            "index": 4,
+            "subType": 35,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 843,
+            "index": 5,
+            "subType": 35,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 843,
+            "index": 6,
+            "subType": 35,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 843,
+            "index": 7,
+            "subType": 35,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 843,
+            "index": 8,
+            "subType": 35,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 843,
+            "index": 9,
+            "subType": 35,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 843,
+            "index": 10,
+            "subType": 35,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "844": {
+        "1": {
+            "id": 844,
+            "index": 1,
+            "subType": 36,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 844,
+            "index": 2,
+            "subType": 36,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 844,
+            "index": 3,
+            "subType": 36,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 844,
+            "index": 4,
+            "subType": 36,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 844,
+            "index": 5,
+            "subType": 36,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 844,
+            "index": 6,
+            "subType": 36,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 844,
+            "index": 7,
+            "subType": 36,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 844,
+            "index": 8,
+            "subType": 36,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 844,
+            "index": 9,
+            "subType": 36,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 844,
+            "index": 10,
+            "subType": 36,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "845": {
+        "1": {
+            "id": 845,
+            "index": 1,
+            "subType": 37,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 845,
+            "index": 2,
+            "subType": 37,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 845,
+            "index": 3,
+            "subType": 37,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 845,
+            "index": 4,
+            "subType": 37,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 845,
+            "index": 5,
+            "subType": 37,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 845,
+            "index": 6,
+            "subType": 37,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 845,
+            "index": 7,
+            "subType": 37,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 845,
+            "index": 8,
+            "subType": 37,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 845,
+            "index": 9,
+            "subType": 37,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 845,
+            "index": 10,
+            "subType": 37,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "846": {
+        "1": {
+            "id": 846,
+            "index": 1,
+            "subType": 38,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 846,
+            "index": 2,
+            "subType": 38,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 846,
+            "index": 3,
+            "subType": 38,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 846,
+            "index": 4,
+            "subType": 38,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 846,
+            "index": 5,
+            "subType": 38,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 846,
+            "index": 6,
+            "subType": 38,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 846,
+            "index": 7,
+            "subType": 38,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 846,
+            "index": 8,
+            "subType": 38,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 846,
+            "index": 9,
+            "subType": 38,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 846,
+            "index": 10,
+            "subType": 38,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "847": {
+        "1": {
+            "id": 847,
+            "index": 1,
+            "subType": 39,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 847,
+            "index": 2,
+            "subType": 39,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 847,
+            "index": 3,
+            "subType": 39,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 847,
+            "index": 4,
+            "subType": 39,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 847,
+            "index": 5,
+            "subType": 39,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 847,
+            "index": 6,
+            "subType": 39,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 847,
+            "index": 7,
+            "subType": 39,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 847,
+            "index": 8,
+            "subType": 39,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 847,
+            "index": 9,
+            "subType": 39,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 847,
+            "index": 10,
+            "subType": 39,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "848": {
+        "1": {
+            "id": 848,
+            "index": 1,
+            "subType": 40,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 848,
+            "index": 2,
+            "subType": 40,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 848,
+            "index": 3,
+            "subType": 40,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 848,
+            "index": 4,
+            "subType": 40,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 848,
+            "index": 5,
+            "subType": 40,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 848,
+            "index": 6,
+            "subType": 40,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 848,
+            "index": 7,
+            "subType": 40,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 848,
+            "index": 8,
+            "subType": 40,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 848,
+            "index": 9,
+            "subType": 40,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 848,
+            "index": 10,
+            "subType": 40,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "849": {
+        "1": {
+            "id": 849,
+            "index": 1,
+            "subType": 41,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 849,
+            "index": 2,
+            "subType": 41,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 849,
+            "index": 3,
+            "subType": 41,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 849,
+            "index": 4,
+            "subType": 41,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 849,
+            "index": 5,
+            "subType": 41,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 849,
+            "index": 6,
+            "subType": 41,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 849,
+            "index": 7,
+            "subType": 41,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 849,
+            "index": 8,
+            "subType": 41,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 849,
+            "index": 9,
+            "subType": 41,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 849,
+            "index": 10,
+            "subType": 41,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    },
+    "850": {
+        "1": {
+            "id": 850,
+            "index": 1,
+            "subType": 42,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 60
+                }
+            ],
+            "score": 1000
+        },
+        "2": {
+            "id": 850,
+            "index": 2,
+            "subType": 42,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 20
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 50
+                }
+            ],
+            "score": 1000
+        },
+        "3": {
+            "id": 850,
+            "index": 3,
+            "subType": 42,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 40
+                }
+            ],
+            "score": 1000
+        },
+        "4": {
+            "id": 850,
+            "index": 4,
+            "subType": 42,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 30
+                }
+            ],
+            "score": 1000
+        },
+        "5": {
+            "id": 850,
+            "index": 5,
+            "subType": 42,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 4
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 20
+                }
+            ],
+            "score": 1000
+        },
+        "6": {
+            "id": 850,
+            "index": 6,
+            "subType": 42,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "7": {
+            "id": 850,
+            "index": 7,
+            "subType": 42,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "8": {
+            "id": 850,
+            "index": 8,
+            "subType": 42,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "9": {
+            "id": 850,
+            "index": 9,
+            "subType": 42,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        },
+        "10": {
+            "id": 850,
+            "index": 10,
+            "subType": 42,
+            "consume": [
+                {
+                    "type": 1,
+                    "id": 310006,
+                    "count": 2
+                },
+                {
+                    "type": 1,
+                    "id": 310005,
+                    "count": 10
+                }
+            ],
+            "score": 1000
+        }
+    }
+}

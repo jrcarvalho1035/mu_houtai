@@ -1,0 +1,92 @@
+{
+    "0": {
+        "id": 0,
+        "desc": "Normal Login",
+        "todo": 0
+    },
+    "1": {
+        "id": 1,
+        "desc": "sql error",
+        "todo": 1
+    },
+    "2": {
+        "id": 2,
+        "desc": "User has not logged in",
+        "todo": 1
+    },
+    "3": {
+        "id": 3,
+        "desc": "Game server is not ready",
+        "todo": 1
+    },
+    "4": {
+        "id": 4,
+        "desc": "Error occurred at the previous saving of character's data",
+        "todo": 1
+    },
+    "5": {
+        "id": 5,
+        "desc": "Regular error at selecting character from client",
+        "todo": 1
+    },
+    "6": {
+        "id": 6,
+        "desc": "Duplicated Character Name",
+        "todo": 2
+    },
+    "7": {
+        "id": 7,
+        "desc": "Character doesn't exist",
+        "todo": 2
+    },
+    "8": {
+        "id": 8,
+        "desc": "Incorrect Gender",
+        "todo": 2
+    },
+    "9": {
+        "id": 9,
+        "desc": "Randomly Generated Names are all assigned",
+        "todo": 2
+    },
+    "10": {
+        "id": 10,
+        "desc": "Parameters error at the character faction uploaded from client",
+        "todo": 2
+    },
+    "11": {
+        "id": 11,
+        "desc": "Parameters error at the character class uploaded from client",
+        "todo": 2
+    },
+    "12": {
+        "id": 12,
+        "desc": "The text you entered contains inappropriate words, please edit again!",
+        "todo": 2
+    },
+    "13": {
+        "id": 13,
+        "desc": "Character cannot be deleted if the player is guild leader. The player needs to quit the guild first",
+        "todo": 0
+    },
+    "14": {
+        "id": 14,
+        "desc": "Already logged in to another server",
+        "todo": 0
+    },
+    "15": {
+        "id": 15,
+        "desc": "Reached maximum number of created characters",
+        "todo": 0
+    },
+    "16": {
+        "id": 16,
+        "desc": "Anti-addiction expired",
+        "todo": 0
+    },
+    "17": {
+        "id": 17,
+        "desc": "Character owned by this server",
+        "todo": 1
+    }
+}

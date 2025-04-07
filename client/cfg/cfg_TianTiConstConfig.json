@@ -1,0 +1,140 @@
+{
+    "openLevel": 80,
+    "challengesCountCd": 7200,
+    "buyChallengesCountYuanBao": 50,
+    "maxRestoreChallengesCount": 6,
+    "diamond": {
+        "level": 4,
+        "id": 0
+    },
+    "danAward": [
+        [
+            {
+                "type": 0,
+                "id": 15,
+                "count": 4000
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 10
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 500000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 300000
+            },
+            {
+                "type": 1,
+                "id": 310001,
+                "count": 300
+            }
+        ],
+        [
+            {
+                "type": 0,
+                "id": 15,
+                "count": 8000
+            },
+            {
+                "type": 1,
+                "id": 220006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 15
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 1000000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 600000
+            },
+            {
+                "type": 1,
+                "id": 310001,
+                "count": 600
+            }
+        ],
+        [
+            {
+                "type": 0,
+                "id": 15,
+                "count": 12000
+            },
+            {
+                "type": 1,
+                "id": 220007,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 20
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 1500000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 900000
+            },
+            {
+                "type": 1,
+                "id": 310001,
+                "count": 1000
+            }
+        ],
+        [
+            {
+                "type": 0,
+                "id": 15,
+                "count": 16000
+            },
+            {
+                "type": 1,
+                "id": 220008,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310006,
+                "count": 30
+            },
+            {
+                "type": 0,
+                "id": 1,
+                "count": 3000000
+            },
+            {
+                "type": 0,
+                "id": 27,
+                "count": 1800000
+            },
+            {
+                "type": 1,
+                "id": 310001,
+                "count": 1500
+            }
+        ]
+    ]
+}

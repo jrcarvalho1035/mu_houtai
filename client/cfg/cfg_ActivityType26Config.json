@@ -1,0 +1,4790 @@
+{
+    "1210": {
+        "1": {
+            "id": 1210,
+            "index": 1,
+            "subType": 1,
+            "itemid": 1089007,
+            "count": 1,
+            "needitem": 340307,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "2": {
+            "id": 1210,
+            "index": 2,
+            "subType": 1,
+            "itemid": 341705,
+            "count": 1,
+            "needitem": 340307,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "3": {
+            "id": 1210,
+            "index": 3,
+            "subType": 1,
+            "itemid": 1089006,
+            "count": 1,
+            "needitem": 340307,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "4": {
+            "id": 1210,
+            "index": 4,
+            "subType": 1,
+            "itemid": 1093004,
+            "count": 1,
+            "needitem": 340307,
+            "needcount": 25,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "5": {
+            "id": 1210,
+            "index": 5,
+            "subType": 1,
+            "itemid": 185004,
+            "count": 1,
+            "needitem": 340307,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "6": {
+            "id": 1210,
+            "index": 6,
+            "subType": 1,
+            "itemid": 185002,
+            "count": 1,
+            "needitem": 340307,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "7": {
+            "id": 1210,
+            "index": 7,
+            "subType": 1,
+            "itemid": 340401,
+            "count": 2000,
+            "needitem": 340307,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "8": {
+            "id": 1210,
+            "index": 8,
+            "subType": 1,
+            "itemid": 310035,
+            "count": 1,
+            "needitem": 340307,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "9": {
+            "id": 1210,
+            "index": 9,
+            "subType": 1,
+            "itemid": 310033,
+            "count": 1,
+            "needitem": 340307,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "10": {
+            "id": 1210,
+            "index": 10,
+            "subType": 1,
+            "itemid": 310014,
+            "count": 1,
+            "needitem": 340307,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "11": {
+            "id": 1210,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1089004,
+            "count": 1,
+            "needitem": 340306,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "12": {
+            "id": 1210,
+            "index": 12,
+            "subType": 1,
+            "itemid": 341702,
+            "count": 1,
+            "needitem": 340306,
+            "needcount": 300,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "13": {
+            "id": 1210,
+            "index": 13,
+            "subType": 1,
+            "itemid": 1052005,
+            "count": 1,
+            "needitem": 340306,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "14": {
+            "id": 1210,
+            "index": 14,
+            "subType": 1,
+            "itemid": 1089000,
+            "count": 50,
+            "needitem": 340306,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "15": {
+            "id": 1210,
+            "index": 15,
+            "subType": 1,
+            "itemid": 340401,
+            "count": 75,
+            "needitem": 340306,
+            "needcount": 15,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "16": {
+            "id": 1210,
+            "index": 16,
+            "subType": 1,
+            "itemid": 1001103,
+            "count": 1,
+            "needitem": 340306,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "17": {
+            "id": 1210,
+            "index": 17,
+            "subType": 1,
+            "itemid": 1001003,
+            "count": 1,
+            "needitem": 340306,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "18": {
+            "id": 1210,
+            "index": 18,
+            "subType": 1,
+            "itemid": 32,
+            "count": 50,
+            "needitem": 340306,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "96315": {
+        "1": {
+            "id": 96315,
+            "index": 1,
+            "subType": 1,
+            "itemid": 1082051,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 650,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "2": {
+            "id": 96315,
+            "index": 2,
+            "subType": 1,
+            "itemid": 480006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 600,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "3": {
+            "id": 96315,
+            "index": 3,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 480,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 96315,
+            "index": 4,
+            "subType": 1,
+            "itemid": 741003,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "5": {
+            "id": 96315,
+            "index": 5,
+            "subType": 1,
+            "itemid": 741002,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 5,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "6": {
+            "id": 96315,
+            "index": 6,
+            "subType": 1,
+            "itemid": 420146,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "7": {
+            "id": 96315,
+            "index": 7,
+            "subType": 1,
+            "itemid": 420147,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "8": {
+            "id": 96315,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1082009,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "9": {
+            "id": 96315,
+            "index": 9,
+            "subType": 1,
+            "itemid": 1082010,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "10": {
+            "id": 96315,
+            "index": 10,
+            "subType": 1,
+            "itemid": 1087006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "11": {
+            "id": 96315,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1087007,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 133,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "12": {
+            "id": 96315,
+            "index": 12,
+            "subType": 1,
+            "itemid": 410005,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 15,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "13": {
+            "id": 96315,
+            "index": 13,
+            "subType": 1,
+            "itemid": 420202,
+            "count": 5,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "14": {
+            "id": 96315,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310810,
+            "count": 1000,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "15": {
+            "id": 96315,
+            "index": 15,
+            "subType": 1,
+            "itemid": 310811,
+            "count": 200,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "16": {
+            "id": 96315,
+            "index": 16,
+            "subType": 1,
+            "itemid": 1010109,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "17": {
+            "id": 96315,
+            "index": 17,
+            "subType": 1,
+            "itemid": 1010110,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 96315,
+            "index": 18,
+            "subType": 1,
+            "itemid": 220012,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 35,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "19": {
+            "id": 96315,
+            "index": 19,
+            "subType": 1,
+            "itemid": 220013,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 70,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "20": {
+            "id": 96315,
+            "index": 20,
+            "subType": 1,
+            "itemid": 310303,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "21": {
+            "id": 96315,
+            "index": 21,
+            "subType": 1,
+            "itemid": 310403,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 96315,
+            "index": 22,
+            "subType": 1,
+            "itemid": 390024,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 4,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "23": {
+            "id": 96315,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 10,
+            "needitem": 430100,
+            "needcount": 2,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "24": {
+            "id": 96315,
+            "index": 24,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "96345": {
+        "1": {
+            "id": 96345,
+            "index": 1,
+            "subType": 1,
+            "itemid": 1082051,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 650,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "2": {
+            "id": 96345,
+            "index": 2,
+            "subType": 1,
+            "itemid": 480006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 600,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "3": {
+            "id": 96345,
+            "index": 3,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 480,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 96345,
+            "index": 4,
+            "subType": 1,
+            "itemid": 741003,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "5": {
+            "id": 96345,
+            "index": 5,
+            "subType": 1,
+            "itemid": 741002,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 5,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "6": {
+            "id": 96345,
+            "index": 6,
+            "subType": 1,
+            "itemid": 420146,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "7": {
+            "id": 96345,
+            "index": 7,
+            "subType": 1,
+            "itemid": 420147,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "8": {
+            "id": 96345,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1082009,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "9": {
+            "id": 96345,
+            "index": 9,
+            "subType": 1,
+            "itemid": 1082010,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "10": {
+            "id": 96345,
+            "index": 10,
+            "subType": 1,
+            "itemid": 1087006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "11": {
+            "id": 96345,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1087007,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 133,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "12": {
+            "id": 96345,
+            "index": 12,
+            "subType": 1,
+            "itemid": 410005,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 15,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "13": {
+            "id": 96345,
+            "index": 13,
+            "subType": 1,
+            "itemid": 420202,
+            "count": 5,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "14": {
+            "id": 96345,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310810,
+            "count": 1000,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "15": {
+            "id": 96345,
+            "index": 15,
+            "subType": 1,
+            "itemid": 310811,
+            "count": 200,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "16": {
+            "id": 96345,
+            "index": 16,
+            "subType": 1,
+            "itemid": 1010109,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "17": {
+            "id": 96345,
+            "index": 17,
+            "subType": 1,
+            "itemid": 1010110,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 96345,
+            "index": 18,
+            "subType": 1,
+            "itemid": 220012,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 35,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "19": {
+            "id": 96345,
+            "index": 19,
+            "subType": 1,
+            "itemid": 220013,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 70,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "20": {
+            "id": 96345,
+            "index": 20,
+            "subType": 1,
+            "itemid": 310303,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "21": {
+            "id": 96345,
+            "index": 21,
+            "subType": 1,
+            "itemid": 310403,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 96345,
+            "index": 22,
+            "subType": 1,
+            "itemid": 390024,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 4,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "23": {
+            "id": 96345,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 10,
+            "needitem": 430100,
+            "needcount": 2,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "24": {
+            "id": 96345,
+            "index": 24,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "96920": {
+        "1": {
+            "id": 96920,
+            "index": 1,
+            "subType": 1,
+            "itemid": 420151,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "2": {
+            "id": 96920,
+            "index": 2,
+            "subType": 1,
+            "itemid": 420150,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "3": {
+            "id": 96920,
+            "index": 3,
+            "subType": 1,
+            "itemid": 500020,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 96920,
+            "index": 4,
+            "subType": 1,
+            "itemid": 500019,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 160,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "5": {
+            "id": 96920,
+            "index": 5,
+            "subType": 1,
+            "itemid": 480003,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "6": {
+            "id": 96920,
+            "index": 6,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 160,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "7": {
+            "id": 96920,
+            "index": 7,
+            "subType": 1,
+            "itemid": 652001,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "8": {
+            "id": 96920,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1085000,
+            "count": 100,
+            "needitem": 640347,
+            "needcount": 25,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "9": {
+            "id": 96920,
+            "index": 9,
+            "subType": 1,
+            "itemid": 185001,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "10": {
+            "id": 96920,
+            "index": 10,
+            "subType": 1,
+            "itemid": 185005,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "11": {
+            "id": 96920,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1084200,
+            "count": 15,
+            "needitem": 640347,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "12": {
+            "id": 96920,
+            "index": 12,
+            "subType": 1,
+            "itemid": 310037,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "13": {
+            "id": 96920,
+            "index": 13,
+            "subType": 1,
+            "itemid": 310032,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "14": {
+            "id": 96920,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310014,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "15": {
+            "id": 96920,
+            "index": 15,
+            "subType": 1,
+            "itemid": 420145,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 800,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "16": {
+            "id": 96920,
+            "index": 16,
+            "subType": 1,
+            "itemid": 420144,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 800,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "17": {
+            "id": 96920,
+            "index": 17,
+            "subType": 1,
+            "itemid": 500009,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 96920,
+            "index": 18,
+            "subType": 1,
+            "itemid": 500010,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "19": {
+            "id": 96920,
+            "index": 19,
+            "subType": 1,
+            "itemid": 1081009,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "20": {
+            "id": 96920,
+            "index": 20,
+            "subType": 1,
+            "itemid": 1083008,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 300,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "21": {
+            "id": 96920,
+            "index": 21,
+            "subType": 1,
+            "itemid": 1072005,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 96920,
+            "index": 22,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 5,
+            "needitem": 640346,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "23": {
+            "id": 96920,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 15,
+            "needitem": 640346,
+            "needcount": 15,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "24": {
+            "id": 96920,
+            "index": 24,
+            "subType": 1,
+            "itemid": 1001103,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "25": {
+            "id": 96920,
+            "index": 25,
+            "subType": 1,
+            "itemid": 1001003,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "26": {
+            "id": 96920,
+            "index": 26,
+            "subType": 1,
+            "itemid": 32,
+            "count": 50,
+            "needitem": 640346,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "96921": {
+        "1": {
+            "id": 96921,
+            "index": 1,
+            "subType": 1,
+            "itemid": 420151,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "2": {
+            "id": 96921,
+            "index": 2,
+            "subType": 1,
+            "itemid": 420150,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "3": {
+            "id": 96921,
+            "index": 3,
+            "subType": 1,
+            "itemid": 500020,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 96921,
+            "index": 4,
+            "subType": 1,
+            "itemid": 500019,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 160,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "5": {
+            "id": 96921,
+            "index": 5,
+            "subType": 1,
+            "itemid": 480003,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "6": {
+            "id": 96921,
+            "index": 6,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 160,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "7": {
+            "id": 96921,
+            "index": 7,
+            "subType": 1,
+            "itemid": 652001,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "8": {
+            "id": 96921,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1085000,
+            "count": 100,
+            "needitem": 640347,
+            "needcount": 25,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "9": {
+            "id": 96921,
+            "index": 9,
+            "subType": 1,
+            "itemid": 185001,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "10": {
+            "id": 96921,
+            "index": 10,
+            "subType": 1,
+            "itemid": 185005,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "11": {
+            "id": 96921,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1084200,
+            "count": 15,
+            "needitem": 640347,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "12": {
+            "id": 96921,
+            "index": 12,
+            "subType": 1,
+            "itemid": 310037,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "13": {
+            "id": 96921,
+            "index": 13,
+            "subType": 1,
+            "itemid": 310032,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "14": {
+            "id": 96921,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310014,
+            "count": 1,
+            "needitem": 640347,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "15": {
+            "id": 96921,
+            "index": 15,
+            "subType": 1,
+            "itemid": 420145,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 800,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "16": {
+            "id": 96921,
+            "index": 16,
+            "subType": 1,
+            "itemid": 420144,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 800,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "17": {
+            "id": 96921,
+            "index": 17,
+            "subType": 1,
+            "itemid": 500009,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 96921,
+            "index": 18,
+            "subType": 1,
+            "itemid": 500010,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "19": {
+            "id": 96921,
+            "index": 19,
+            "subType": 1,
+            "itemid": 1081009,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "20": {
+            "id": 96921,
+            "index": 20,
+            "subType": 1,
+            "itemid": 1083008,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 300,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "21": {
+            "id": 96921,
+            "index": 21,
+            "subType": 1,
+            "itemid": 1072005,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 96921,
+            "index": 22,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 5,
+            "needitem": 640346,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "23": {
+            "id": 96921,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 15,
+            "needitem": 640346,
+            "needcount": 15,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "24": {
+            "id": 96921,
+            "index": 24,
+            "subType": 1,
+            "itemid": 1001103,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "25": {
+            "id": 96921,
+            "index": 25,
+            "subType": 1,
+            "itemid": 1001003,
+            "count": 1,
+            "needitem": 640346,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "26": {
+            "id": 96921,
+            "index": 26,
+            "subType": 1,
+            "itemid": 32,
+            "count": 50,
+            "needitem": 640346,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "97315": {
+        "1": {
+            "id": 97315,
+            "index": 1,
+            "subType": 1,
+            "itemid": 1010159,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 650,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "2": {
+            "id": 97315,
+            "index": 2,
+            "subType": 1,
+            "itemid": 480006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 600,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "3": {
+            "id": 97315,
+            "index": 3,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 480,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 97315,
+            "index": 4,
+            "subType": 1,
+            "itemid": 741003,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "5": {
+            "id": 97315,
+            "index": 5,
+            "subType": 1,
+            "itemid": 741002,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 5,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "6": {
+            "id": 97315,
+            "index": 6,
+            "subType": 1,
+            "itemid": 420146,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "7": {
+            "id": 97315,
+            "index": 7,
+            "subType": 1,
+            "itemid": 420147,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "8": {
+            "id": 97315,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1082009,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "9": {
+            "id": 97315,
+            "index": 9,
+            "subType": 1,
+            "itemid": 1082010,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "10": {
+            "id": 97315,
+            "index": 10,
+            "subType": 1,
+            "itemid": 1087006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "11": {
+            "id": 97315,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1087007,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 133,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "12": {
+            "id": 97315,
+            "index": 12,
+            "subType": 1,
+            "itemid": 410005,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 15,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "13": {
+            "id": 97315,
+            "index": 13,
+            "subType": 1,
+            "itemid": 420202,
+            "count": 5,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "14": {
+            "id": 97315,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310810,
+            "count": 1000,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "15": {
+            "id": 97315,
+            "index": 15,
+            "subType": 1,
+            "itemid": 310811,
+            "count": 200,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "16": {
+            "id": 97315,
+            "index": 16,
+            "subType": 1,
+            "itemid": 1010109,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "17": {
+            "id": 97315,
+            "index": 17,
+            "subType": 1,
+            "itemid": 1010110,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 97315,
+            "index": 18,
+            "subType": 1,
+            "itemid": 220012,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 35,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "19": {
+            "id": 97315,
+            "index": 19,
+            "subType": 1,
+            "itemid": 220013,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 70,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "20": {
+            "id": 97315,
+            "index": 20,
+            "subType": 1,
+            "itemid": 310303,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "21": {
+            "id": 97315,
+            "index": 21,
+            "subType": 1,
+            "itemid": 310403,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 97315,
+            "index": 22,
+            "subType": 1,
+            "itemid": 390024,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 4,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "23": {
+            "id": 97315,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 10,
+            "needitem": 430100,
+            "needcount": 2,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "24": {
+            "id": 97315,
+            "index": 24,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "97345": {
+        "1": {
+            "id": 97345,
+            "index": 1,
+            "subType": 1,
+            "itemid": 1010159,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 650,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "2": {
+            "id": 97345,
+            "index": 2,
+            "subType": 1,
+            "itemid": 480006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 600,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "3": {
+            "id": 97345,
+            "index": 3,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 480,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 97345,
+            "index": 4,
+            "subType": 1,
+            "itemid": 741003,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "5": {
+            "id": 97345,
+            "index": 5,
+            "subType": 1,
+            "itemid": 741002,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 5,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "6": {
+            "id": 97345,
+            "index": 6,
+            "subType": 1,
+            "itemid": 420146,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "7": {
+            "id": 97345,
+            "index": 7,
+            "subType": 1,
+            "itemid": 420147,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "8": {
+            "id": 97345,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1082009,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "9": {
+            "id": 97345,
+            "index": 9,
+            "subType": 1,
+            "itemid": 1082010,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "10": {
+            "id": 97345,
+            "index": 10,
+            "subType": 1,
+            "itemid": 1087006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "11": {
+            "id": 97345,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1087007,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 133,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "12": {
+            "id": 97345,
+            "index": 12,
+            "subType": 1,
+            "itemid": 410005,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 15,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "13": {
+            "id": 97345,
+            "index": 13,
+            "subType": 1,
+            "itemid": 420202,
+            "count": 5,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "14": {
+            "id": 97345,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310810,
+            "count": 1000,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "15": {
+            "id": 97345,
+            "index": 15,
+            "subType": 1,
+            "itemid": 310811,
+            "count": 200,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "16": {
+            "id": 97345,
+            "index": 16,
+            "subType": 1,
+            "itemid": 1010109,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "17": {
+            "id": 97345,
+            "index": 17,
+            "subType": 1,
+            "itemid": 1010110,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 97345,
+            "index": 18,
+            "subType": 1,
+            "itemid": 220012,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 35,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "19": {
+            "id": 97345,
+            "index": 19,
+            "subType": 1,
+            "itemid": 220013,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 70,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "20": {
+            "id": 97345,
+            "index": 20,
+            "subType": 1,
+            "itemid": 310303,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "21": {
+            "id": 97345,
+            "index": 21,
+            "subType": 1,
+            "itemid": 310403,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 97345,
+            "index": 22,
+            "subType": 1,
+            "itemid": 390024,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 4,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "23": {
+            "id": 97345,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 10,
+            "needitem": 430100,
+            "needcount": 2,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "24": {
+            "id": 97345,
+            "index": 24,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "97920": {
+        "1": {
+            "id": 97920,
+            "index": 1,
+            "subType": 1,
+            "itemid": 420151,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "2": {
+            "id": 97920,
+            "index": 2,
+            "subType": 1,
+            "itemid": 420150,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "3": {
+            "id": 97920,
+            "index": 3,
+            "subType": 1,
+            "itemid": 500020,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 97920,
+            "index": 4,
+            "subType": 1,
+            "itemid": 500019,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 160,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "5": {
+            "id": 97920,
+            "index": 5,
+            "subType": 1,
+            "itemid": 480003,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "6": {
+            "id": 97920,
+            "index": 6,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 160,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "7": {
+            "id": 97920,
+            "index": 7,
+            "subType": 1,
+            "itemid": 652001,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "8": {
+            "id": 97920,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1085000,
+            "count": 100,
+            "needitem": 640352,
+            "needcount": 25,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "9": {
+            "id": 97920,
+            "index": 9,
+            "subType": 1,
+            "itemid": 185001,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "10": {
+            "id": 97920,
+            "index": 10,
+            "subType": 1,
+            "itemid": 185005,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "11": {
+            "id": 97920,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1084200,
+            "count": 15,
+            "needitem": 640352,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "12": {
+            "id": 97920,
+            "index": 12,
+            "subType": 1,
+            "itemid": 310037,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "13": {
+            "id": 97920,
+            "index": 13,
+            "subType": 1,
+            "itemid": 310032,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "14": {
+            "id": 97920,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310014,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "15": {
+            "id": 97920,
+            "index": 15,
+            "subType": 1,
+            "itemid": 420145,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 800,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "16": {
+            "id": 97920,
+            "index": 16,
+            "subType": 1,
+            "itemid": 420144,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 800,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "17": {
+            "id": 97920,
+            "index": 17,
+            "subType": 1,
+            "itemid": 500009,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 97920,
+            "index": 18,
+            "subType": 1,
+            "itemid": 500010,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "19": {
+            "id": 97920,
+            "index": 19,
+            "subType": 1,
+            "itemid": 1081009,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "20": {
+            "id": 97920,
+            "index": 20,
+            "subType": 1,
+            "itemid": 1083008,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 300,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "21": {
+            "id": 97920,
+            "index": 21,
+            "subType": 1,
+            "itemid": 1072005,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 97920,
+            "index": 22,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 5,
+            "needitem": 640351,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "23": {
+            "id": 97920,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 15,
+            "needitem": 640351,
+            "needcount": 15,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "24": {
+            "id": 97920,
+            "index": 24,
+            "subType": 1,
+            "itemid": 1001103,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "25": {
+            "id": 97920,
+            "index": 25,
+            "subType": 1,
+            "itemid": 1001003,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "26": {
+            "id": 97920,
+            "index": 26,
+            "subType": 1,
+            "itemid": 32,
+            "count": 50,
+            "needitem": 640351,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "97921": {
+        "1": {
+            "id": 97921,
+            "index": 1,
+            "subType": 1,
+            "itemid": 420151,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "2": {
+            "id": 97921,
+            "index": 2,
+            "subType": 1,
+            "itemid": 420150,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "3": {
+            "id": 97921,
+            "index": 3,
+            "subType": 1,
+            "itemid": 500020,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 97921,
+            "index": 4,
+            "subType": 1,
+            "itemid": 500019,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 160,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "5": {
+            "id": 97921,
+            "index": 5,
+            "subType": 1,
+            "itemid": 480003,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "6": {
+            "id": 97921,
+            "index": 6,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 160,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "7": {
+            "id": 97921,
+            "index": 7,
+            "subType": 1,
+            "itemid": 652001,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "8": {
+            "id": 97921,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1085000,
+            "count": 100,
+            "needitem": 640352,
+            "needcount": 25,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "9": {
+            "id": 97921,
+            "index": 9,
+            "subType": 1,
+            "itemid": 185001,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "10": {
+            "id": 97921,
+            "index": 10,
+            "subType": 1,
+            "itemid": 185005,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "11": {
+            "id": 97921,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1084200,
+            "count": 15,
+            "needitem": 640352,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "12": {
+            "id": 97921,
+            "index": 12,
+            "subType": 1,
+            "itemid": 310037,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "13": {
+            "id": 97921,
+            "index": 13,
+            "subType": 1,
+            "itemid": 310032,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "14": {
+            "id": 97921,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310014,
+            "count": 1,
+            "needitem": 640352,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "15": {
+            "id": 97921,
+            "index": 15,
+            "subType": 1,
+            "itemid": 420145,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 800,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "16": {
+            "id": 97921,
+            "index": 16,
+            "subType": 1,
+            "itemid": 420144,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 800,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "17": {
+            "id": 97921,
+            "index": 17,
+            "subType": 1,
+            "itemid": 500009,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 97921,
+            "index": 18,
+            "subType": 1,
+            "itemid": 500010,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "19": {
+            "id": 97921,
+            "index": 19,
+            "subType": 1,
+            "itemid": 1081009,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "20": {
+            "id": 97921,
+            "index": 20,
+            "subType": 1,
+            "itemid": 1083008,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 300,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "21": {
+            "id": 97921,
+            "index": 21,
+            "subType": 1,
+            "itemid": 1072005,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 97921,
+            "index": 22,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 5,
+            "needitem": 640351,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "23": {
+            "id": 97921,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 15,
+            "needitem": 640351,
+            "needcount": 15,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "24": {
+            "id": 97921,
+            "index": 24,
+            "subType": 1,
+            "itemid": 1001103,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "25": {
+            "id": 97921,
+            "index": 25,
+            "subType": 1,
+            "itemid": 1001003,
+            "count": 1,
+            "needitem": 640351,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "26": {
+            "id": 97921,
+            "index": 26,
+            "subType": 1,
+            "itemid": 32,
+            "count": 50,
+            "needitem": 640351,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "98415": {
+        "1": {
+            "id": 98415,
+            "index": 1,
+            "subType": 1,
+            "itemid": 1010150,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 650,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "2": {
+            "id": 98415,
+            "index": 2,
+            "subType": 1,
+            "itemid": 480006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 600,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "3": {
+            "id": 98415,
+            "index": 3,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 480,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 98415,
+            "index": 4,
+            "subType": 1,
+            "itemid": 741003,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "5": {
+            "id": 98415,
+            "index": 5,
+            "subType": 1,
+            "itemid": 741002,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 5,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "6": {
+            "id": 98415,
+            "index": 6,
+            "subType": 1,
+            "itemid": 420146,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "7": {
+            "id": 98415,
+            "index": 7,
+            "subType": 1,
+            "itemid": 420147,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "8": {
+            "id": 98415,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1082009,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "9": {
+            "id": 98415,
+            "index": 9,
+            "subType": 1,
+            "itemid": 1082010,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "10": {
+            "id": 98415,
+            "index": 10,
+            "subType": 1,
+            "itemid": 1087006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "11": {
+            "id": 98415,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1087007,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 133,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "12": {
+            "id": 98415,
+            "index": 12,
+            "subType": 1,
+            "itemid": 410005,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 15,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "13": {
+            "id": 98415,
+            "index": 13,
+            "subType": 1,
+            "itemid": 420202,
+            "count": 5,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "14": {
+            "id": 98415,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310810,
+            "count": 1000,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "15": {
+            "id": 98415,
+            "index": 15,
+            "subType": 1,
+            "itemid": 310811,
+            "count": 200,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "16": {
+            "id": 98415,
+            "index": 16,
+            "subType": 1,
+            "itemid": 1010109,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "17": {
+            "id": 98415,
+            "index": 17,
+            "subType": 1,
+            "itemid": 1010110,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 98415,
+            "index": 18,
+            "subType": 1,
+            "itemid": 220012,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 35,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "19": {
+            "id": 98415,
+            "index": 19,
+            "subType": 1,
+            "itemid": 220013,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 70,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "20": {
+            "id": 98415,
+            "index": 20,
+            "subType": 1,
+            "itemid": 310303,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "21": {
+            "id": 98415,
+            "index": 21,
+            "subType": 1,
+            "itemid": 310403,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 98415,
+            "index": 22,
+            "subType": 1,
+            "itemid": 390024,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 4,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "23": {
+            "id": 98415,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 10,
+            "needitem": 430100,
+            "needcount": 2,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "24": {
+            "id": 98415,
+            "index": 24,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "98445": {
+        "1": {
+            "id": 98445,
+            "index": 1,
+            "subType": 1,
+            "itemid": 1010150,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 650,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "2": {
+            "id": 98445,
+            "index": 2,
+            "subType": 1,
+            "itemid": 480006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 600,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "3": {
+            "id": 98445,
+            "index": 3,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 480,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 98445,
+            "index": 4,
+            "subType": 1,
+            "itemid": 741003,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "5": {
+            "id": 98445,
+            "index": 5,
+            "subType": 1,
+            "itemid": 741002,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 5,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "6": {
+            "id": 98445,
+            "index": 6,
+            "subType": 1,
+            "itemid": 420146,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "7": {
+            "id": 98445,
+            "index": 7,
+            "subType": 1,
+            "itemid": 420147,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "8": {
+            "id": 98445,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1082009,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "9": {
+            "id": 98445,
+            "index": 9,
+            "subType": 1,
+            "itemid": 1082010,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "10": {
+            "id": 98445,
+            "index": 10,
+            "subType": 1,
+            "itemid": 1087006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "11": {
+            "id": 98445,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1087007,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 133,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "12": {
+            "id": 98445,
+            "index": 12,
+            "subType": 1,
+            "itemid": 410005,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 15,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "13": {
+            "id": 98445,
+            "index": 13,
+            "subType": 1,
+            "itemid": 420202,
+            "count": 5,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "14": {
+            "id": 98445,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310810,
+            "count": 1000,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "15": {
+            "id": 98445,
+            "index": 15,
+            "subType": 1,
+            "itemid": 310811,
+            "count": 200,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "16": {
+            "id": 98445,
+            "index": 16,
+            "subType": 1,
+            "itemid": 1010109,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "17": {
+            "id": 98445,
+            "index": 17,
+            "subType": 1,
+            "itemid": 1010110,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 98445,
+            "index": 18,
+            "subType": 1,
+            "itemid": 220012,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 35,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "19": {
+            "id": 98445,
+            "index": 19,
+            "subType": 1,
+            "itemid": 220013,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 70,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "20": {
+            "id": 98445,
+            "index": 20,
+            "subType": 1,
+            "itemid": 310303,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "21": {
+            "id": 98445,
+            "index": 21,
+            "subType": 1,
+            "itemid": 310403,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 98445,
+            "index": 22,
+            "subType": 1,
+            "itemid": 390024,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 4,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "23": {
+            "id": 98445,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 10,
+            "needitem": 430100,
+            "needcount": 2,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "24": {
+            "id": 98445,
+            "index": 24,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "99220": {
+        "1": {
+            "id": 99220,
+            "index": 1,
+            "subType": 1,
+            "itemid": 420151,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "2": {
+            "id": 99220,
+            "index": 2,
+            "subType": 1,
+            "itemid": 420150,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "3": {
+            "id": 99220,
+            "index": 3,
+            "subType": 1,
+            "itemid": 500020,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 99220,
+            "index": 4,
+            "subType": 1,
+            "itemid": 500019,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 160,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "5": {
+            "id": 99220,
+            "index": 5,
+            "subType": 1,
+            "itemid": 480003,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "6": {
+            "id": 99220,
+            "index": 6,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 160,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "7": {
+            "id": 99220,
+            "index": 7,
+            "subType": 1,
+            "itemid": 652001,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "8": {
+            "id": 99220,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1085000,
+            "count": 100,
+            "needitem": 640357,
+            "needcount": 25,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "9": {
+            "id": 99220,
+            "index": 9,
+            "subType": 1,
+            "itemid": 185001,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "10": {
+            "id": 99220,
+            "index": 10,
+            "subType": 1,
+            "itemid": 185005,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "11": {
+            "id": 99220,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1084200,
+            "count": 15,
+            "needitem": 640357,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "12": {
+            "id": 99220,
+            "index": 12,
+            "subType": 1,
+            "itemid": 310037,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "13": {
+            "id": 99220,
+            "index": 13,
+            "subType": 1,
+            "itemid": 310032,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "14": {
+            "id": 99220,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310014,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "15": {
+            "id": 99220,
+            "index": 15,
+            "subType": 1,
+            "itemid": 420145,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 800,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "16": {
+            "id": 99220,
+            "index": 16,
+            "subType": 1,
+            "itemid": 420144,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 800,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "17": {
+            "id": 99220,
+            "index": 17,
+            "subType": 1,
+            "itemid": 500009,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 99220,
+            "index": 18,
+            "subType": 1,
+            "itemid": 500010,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "19": {
+            "id": 99220,
+            "index": 19,
+            "subType": 1,
+            "itemid": 1081009,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "20": {
+            "id": 99220,
+            "index": 20,
+            "subType": 1,
+            "itemid": 1083008,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 300,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "21": {
+            "id": 99220,
+            "index": 21,
+            "subType": 1,
+            "itemid": 1072005,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 99220,
+            "index": 22,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 5,
+            "needitem": 640356,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "23": {
+            "id": 99220,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 15,
+            "needitem": 640356,
+            "needcount": 15,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "24": {
+            "id": 99220,
+            "index": 24,
+            "subType": 1,
+            "itemid": 1001103,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "25": {
+            "id": 99220,
+            "index": 25,
+            "subType": 1,
+            "itemid": 1001003,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "26": {
+            "id": 99220,
+            "index": 26,
+            "subType": 1,
+            "itemid": 32,
+            "count": 50,
+            "needitem": 640356,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "99221": {
+        "1": {
+            "id": 99221,
+            "index": 1,
+            "subType": 1,
+            "itemid": 420151,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "2": {
+            "id": 99221,
+            "index": 2,
+            "subType": 1,
+            "itemid": 420150,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "3": {
+            "id": 99221,
+            "index": 3,
+            "subType": 1,
+            "itemid": 500020,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 99221,
+            "index": 4,
+            "subType": 1,
+            "itemid": 500019,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 160,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "5": {
+            "id": 99221,
+            "index": 5,
+            "subType": 1,
+            "itemid": 480003,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 200,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "6": {
+            "id": 99221,
+            "index": 6,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 160,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "7": {
+            "id": 99221,
+            "index": 7,
+            "subType": 1,
+            "itemid": 652001,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 3
+            }
+        },
+        "8": {
+            "id": 99221,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1085000,
+            "count": 100,
+            "needitem": 640357,
+            "needcount": 25,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "9": {
+            "id": 99221,
+            "index": 9,
+            "subType": 1,
+            "itemid": 185001,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "10": {
+            "id": 99221,
+            "index": 10,
+            "subType": 1,
+            "itemid": 185005,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 10
+            }
+        },
+        "11": {
+            "id": 99221,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1084200,
+            "count": 15,
+            "needitem": 640357,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "12": {
+            "id": 99221,
+            "index": 12,
+            "subType": 1,
+            "itemid": 310037,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "13": {
+            "id": 99221,
+            "index": 13,
+            "subType": 1,
+            "itemid": 310032,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 5,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "14": {
+            "id": 99221,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310014,
+            "count": 1,
+            "needitem": 640357,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "15": {
+            "id": 99221,
+            "index": 15,
+            "subType": 1,
+            "itemid": 420145,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 800,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "16": {
+            "id": 99221,
+            "index": 16,
+            "subType": 1,
+            "itemid": 420144,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 800,
+            "daycount": {
+                "type": 3,
+                "count": 2
+            }
+        },
+        "17": {
+            "id": 99221,
+            "index": 17,
+            "subType": 1,
+            "itemid": 500009,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 99221,
+            "index": 18,
+            "subType": 1,
+            "itemid": 500010,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "19": {
+            "id": 99221,
+            "index": 19,
+            "subType": 1,
+            "itemid": 1081009,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 400,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "20": {
+            "id": 99221,
+            "index": 20,
+            "subType": 1,
+            "itemid": 1083008,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 300,
+            "daycount": {
+                "type": 3,
+                "count": 4
+            }
+        },
+        "21": {
+            "id": 99221,
+            "index": 21,
+            "subType": 1,
+            "itemid": 1072005,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 100,
+            "daycount": {
+                "type": 3,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 99221,
+            "index": 22,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 5,
+            "needitem": 640356,
+            "needcount": 20,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "23": {
+            "id": 99221,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 15,
+            "needitem": 640356,
+            "needcount": 15,
+            "daycount": {
+                "type": 3,
+                "count": 20
+            }
+        },
+        "24": {
+            "id": 99221,
+            "index": 24,
+            "subType": 1,
+            "itemid": 1001103,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "25": {
+            "id": 99221,
+            "index": 25,
+            "subType": 1,
+            "itemid": 1001003,
+            "count": 1,
+            "needitem": 640356,
+            "needcount": 10,
+            "daycount": {
+                "type": 3,
+                "count": 100
+            }
+        },
+        "26": {
+            "id": 99221,
+            "index": 26,
+            "subType": 1,
+            "itemid": 32,
+            "count": 50,
+            "needitem": 640356,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "99415": {
+        "1": {
+            "id": 99415,
+            "index": 1,
+            "subType": 1,
+            "itemid": 1081060,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 650,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "2": {
+            "id": 99415,
+            "index": 2,
+            "subType": 1,
+            "itemid": 480006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 600,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "3": {
+            "id": 99415,
+            "index": 3,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 480,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 99415,
+            "index": 4,
+            "subType": 1,
+            "itemid": 741003,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "5": {
+            "id": 99415,
+            "index": 5,
+            "subType": 1,
+            "itemid": 741002,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 5,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "6": {
+            "id": 99415,
+            "index": 6,
+            "subType": 1,
+            "itemid": 420146,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "7": {
+            "id": 99415,
+            "index": 7,
+            "subType": 1,
+            "itemid": 420147,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "8": {
+            "id": 99415,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1082009,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "9": {
+            "id": 99415,
+            "index": 9,
+            "subType": 1,
+            "itemid": 1082010,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "10": {
+            "id": 99415,
+            "index": 10,
+            "subType": 1,
+            "itemid": 1087006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "11": {
+            "id": 99415,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1087007,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 133,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "12": {
+            "id": 99415,
+            "index": 12,
+            "subType": 1,
+            "itemid": 410005,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 15,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "13": {
+            "id": 99415,
+            "index": 13,
+            "subType": 1,
+            "itemid": 420202,
+            "count": 5,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "14": {
+            "id": 99415,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310810,
+            "count": 1000,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "15": {
+            "id": 99415,
+            "index": 15,
+            "subType": 1,
+            "itemid": 310811,
+            "count": 200,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "16": {
+            "id": 99415,
+            "index": 16,
+            "subType": 1,
+            "itemid": 1010109,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "17": {
+            "id": 99415,
+            "index": 17,
+            "subType": 1,
+            "itemid": 1010110,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 99415,
+            "index": 18,
+            "subType": 1,
+            "itemid": 220012,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 35,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "19": {
+            "id": 99415,
+            "index": 19,
+            "subType": 1,
+            "itemid": 220013,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 70,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "20": {
+            "id": 99415,
+            "index": 20,
+            "subType": 1,
+            "itemid": 310303,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "21": {
+            "id": 99415,
+            "index": 21,
+            "subType": 1,
+            "itemid": 310403,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 99415,
+            "index": 22,
+            "subType": 1,
+            "itemid": 390024,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 4,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "23": {
+            "id": 99415,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 10,
+            "needitem": 430100,
+            "needcount": 2,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "24": {
+            "id": 99415,
+            "index": 24,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    },
+    "99445": {
+        "1": {
+            "id": 99445,
+            "index": 1,
+            "subType": 1,
+            "itemid": 1081060,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 650,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "2": {
+            "id": 99445,
+            "index": 2,
+            "subType": 1,
+            "itemid": 480006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 600,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "3": {
+            "id": 99445,
+            "index": 3,
+            "subType": 1,
+            "itemid": 480200,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 480,
+            "daycount": {
+                "type": 3,
+                "count": 1
+            }
+        },
+        "4": {
+            "id": 99445,
+            "index": 4,
+            "subType": 1,
+            "itemid": 741003,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "5": {
+            "id": 99445,
+            "index": 5,
+            "subType": 1,
+            "itemid": 741002,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 5,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "6": {
+            "id": 99445,
+            "index": 6,
+            "subType": 1,
+            "itemid": 420146,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "7": {
+            "id": 99445,
+            "index": 7,
+            "subType": 1,
+            "itemid": 420147,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "8": {
+            "id": 99445,
+            "index": 8,
+            "subType": 1,
+            "itemid": 1082009,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "9": {
+            "id": 99445,
+            "index": 9,
+            "subType": 1,
+            "itemid": 1082010,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "10": {
+            "id": 99445,
+            "index": 10,
+            "subType": 1,
+            "itemid": 1087006,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "11": {
+            "id": 99445,
+            "index": 11,
+            "subType": 1,
+            "itemid": 1087007,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 133,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "12": {
+            "id": 99445,
+            "index": 12,
+            "subType": 1,
+            "itemid": 410005,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 15,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "13": {
+            "id": 99445,
+            "index": 13,
+            "subType": 1,
+            "itemid": 420202,
+            "count": 5,
+            "needitem": 430100,
+            "needcount": 10,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "14": {
+            "id": 99445,
+            "index": 14,
+            "subType": 1,
+            "itemid": 310810,
+            "count": 1000,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "15": {
+            "id": 99445,
+            "index": 15,
+            "subType": 1,
+            "itemid": 310811,
+            "count": 200,
+            "needitem": 430100,
+            "needcount": 20,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "16": {
+            "id": 99445,
+            "index": 16,
+            "subType": 1,
+            "itemid": 1010109,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 100,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "17": {
+            "id": 99445,
+            "index": 17,
+            "subType": 1,
+            "itemid": 1010110,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 200,
+            "daycount": {
+                "type": 1,
+                "count": 1
+            }
+        },
+        "18": {
+            "id": 99445,
+            "index": 18,
+            "subType": 1,
+            "itemid": 220012,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 35,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "19": {
+            "id": 99445,
+            "index": 19,
+            "subType": 1,
+            "itemid": 220013,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 70,
+            "daycount": {
+                "type": 1,
+                "count": 2
+            }
+        },
+        "20": {
+            "id": 99445,
+            "index": 20,
+            "subType": 1,
+            "itemid": 310303,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "21": {
+            "id": 99445,
+            "index": 21,
+            "subType": 1,
+            "itemid": 310403,
+            "count": 1,
+            "needitem": 430100,
+            "needcount": 40,
+            "daycount": {
+                "type": 1,
+                "count": 5
+            }
+        },
+        "22": {
+            "id": 99445,
+            "index": 22,
+            "subType": 1,
+            "itemid": 390024,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 4,
+            "daycount": {
+                "type": 1,
+                "count": 3
+            }
+        },
+        "23": {
+            "id": 99445,
+            "index": 23,
+            "subType": 1,
+            "itemid": 310006,
+            "count": 10,
+            "needitem": 430100,
+            "needcount": 2,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        },
+        "24": {
+            "id": 99445,
+            "index": 24,
+            "subType": 1,
+            "itemid": 310005,
+            "count": 20,
+            "needitem": 430100,
+            "needcount": 1,
+            "daycount": {
+                "type": 3,
+                "count": 9999
+            }
+        }
+    }
+}

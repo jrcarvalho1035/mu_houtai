@@ -1,0 +1,398 @@
+{
+    "1": {
+        "1": {
+            "type1": 1,
+            "type2": 1,
+            "typeName2": "Merge Artifact",
+            "sort": 1,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "2": {
+            "type1": 1,
+            "type2": 2,
+            "typeName2": "Merge Wings",
+            "sort": 2,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "3": {
+            "type1": 1,
+            "type2": 3,
+            "typeName2": "Merge Divine Gear",
+            "sort": 3,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "4": {
+            "type1": 1,
+            "type2": 4,
+            "typeName2": "Merge Merlin",
+            "sort": 4,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "5": {
+            "type1": 1,
+            "type2": 5,
+            "typeName2": "Merge Mercenary's Circle",
+            "sort": 9,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "6": {
+            "type1": 1,
+            "type2": 6,
+            "typeName2": "Merge Fairy's Circle",
+            "sort": 10,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "7": {
+            "type1": 1,
+            "type2": 7,
+            "typeName2": "Merge Avatar's Circle",
+            "sort": 11,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "8": {
+            "type1": 1,
+            "type2": 8,
+            "typeName2": "Merge Chest",
+            "sort": 12,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "9": {
+            "type1": 1,
+            "type2": 9,
+            "typeName2": "Merge Fruit",
+            "sort": 13,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "10": {
+            "type1": 1,
+            "type2": 10,
+            "typeName2": "Merge Ticket",
+            "sort": 14,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "11": {
+            "type1": 1,
+            "type2": 11,
+            "typeName2": "Merge Footprint",
+            "sort": 15,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "12": {
+            "type1": 1,
+            "type2": 12,
+            "typeName2": "Merge Spirit Stone",
+            "sort": 16,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "13": {
+            "type1": 1,
+            "type2": 13,
+            "typeName2": "Merge Protection Item",
+            "sort": 17,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "14": {
+            "type1": 1,
+            "type2": 14,
+            "typeName2": "Merge Godhood Item",
+            "sort": 18,
+            "typeName1": "General Merge",
+            "group": 2
+        },
+        "15": {
+            "type1": 1,
+            "type2": 15,
+            "typeName2": "Merge Fairy",
+            "sort": 19,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "41": {
+            "type1": 1,
+            "type2": 41,
+            "typeName2": "Merge Egg Smash Hammer",
+            "sort": 20,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "42": {
+            "type1": 1,
+            "type2": 42,
+            "typeName2": "Spirit Gear Combine",
+            "sort": 21,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "43": {
+            "type1": 1,
+            "type2": 43,
+            "typeName2": "Merge Eudemon Pill",
+            "sort": 22,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "44": {
+            "type1": 1,
+            "type2": 44,
+            "typeName2": "Power Pill Merge",
+            "sort": 23,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "45": {
+            "type1": 1,
+            "type2": 45,
+            "typeName2": "Feather Merge",
+            "sort": 24,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "46": {
+            "type1": 1,
+            "type2": 46,
+            "typeName2": "Merge Fairy",
+            "sort": 5,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "47": {
+            "type1": 1,
+            "type2": 47,
+            "typeName2": "Mercenary Combine",
+            "sort": 6,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "48": {
+            "type1": 1,
+            "type2": 48,
+            "typeName2": "Merge Footprint",
+            "sort": 7,
+            "typeName1": "General Merge",
+            "group": 1
+        },
+        "49": {
+            "type1": 1,
+            "type2": 49,
+            "typeName2": "Protection Combine",
+            "sort": 8,
+            "typeName1": "General Merge",
+            "group": 1
+        }
+    },
+    "2": {
+        "16": {
+            "type1": 2,
+            "type2": 16,
+            "typeName2": "ATK Scroll·Water",
+            "sort": 1,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "17": {
+            "type1": 2,
+            "type2": 17,
+            "typeName2": "DEF Scroll·Water",
+            "sort": 2,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "18": {
+            "type1": 2,
+            "type2": 18,
+            "typeName2": "DMG Bonus Scroll·Water",
+            "sort": 3,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "19": {
+            "type1": 2,
+            "type2": 19,
+            "typeName2": "DMG Red. Scroll·Water",
+            "sort": 4,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "20": {
+            "type1": 2,
+            "type2": 20,
+            "typeName2": "All-rounder Scroll·Water",
+            "sort": 5,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "21": {
+            "type1": 2,
+            "type2": 21,
+            "typeName2": "ATK Scroll·Fire",
+            "sort": 6,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "22": {
+            "type1": 2,
+            "type2": 22,
+            "typeName2": "DEF Scroll·Fire",
+            "sort": 7,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "23": {
+            "type1": 2,
+            "type2": 23,
+            "typeName2": "DMG Bonus Scroll·Fire",
+            "sort": 8,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "24": {
+            "type1": 2,
+            "type2": 24,
+            "typeName2": "DMG Red. Scroll·Fire",
+            "sort": 9,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "25": {
+            "type1": 2,
+            "type2": 25,
+            "typeName2": "All-rounder Scroll·Fire",
+            "sort": 10,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "26": {
+            "type1": 2,
+            "type2": 26,
+            "typeName2": "ATK Scroll·Earth",
+            "sort": 11,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "27": {
+            "type1": 2,
+            "type2": 27,
+            "typeName2": "DEF Scroll·Earth",
+            "sort": 12,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "28": {
+            "type1": 2,
+            "type2": 28,
+            "typeName2": "DMG Bonus Scroll·Earth",
+            "sort": 13,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "29": {
+            "type1": 2,
+            "type2": 29,
+            "typeName2": "DMG Red. Scroll·Earth",
+            "sort": 14,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "30": {
+            "type1": 2,
+            "type2": 30,
+            "typeName2": "All-rounder Scroll·Earth",
+            "sort": 15,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "31": {
+            "type1": 2,
+            "type2": 31,
+            "typeName2": "ATK Scroll·Wind",
+            "sort": 16,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "32": {
+            "type1": 2,
+            "type2": 32,
+            "typeName2": "DEF Scroll·Wind",
+            "sort": 17,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "33": {
+            "type1": 2,
+            "type2": 33,
+            "typeName2": "DMG Bonus Scroll·Wind",
+            "sort": 18,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "34": {
+            "type1": 2,
+            "type2": 34,
+            "typeName2": "DMG Red. Scroll·Wind",
+            "sort": 19,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "35": {
+            "type1": 2,
+            "type2": 35,
+            "typeName2": "All-rounder Scroll·Wind",
+            "sort": 20,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "36": {
+            "type1": 2,
+            "type2": 36,
+            "typeName2": "ATK Scroll·Thunder",
+            "sort": 21,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "37": {
+            "type1": 2,
+            "type2": 37,
+            "typeName2": "DEF Scroll·Thunder",
+            "sort": 22,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "38": {
+            "type1": 2,
+            "type2": 38,
+            "typeName2": "DMG Bonus Scroll·Thunder",
+            "sort": 23,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "39": {
+            "type1": 2,
+            "type2": 39,
+            "typeName2": "DMG Red. Scroll·Thunder",
+            "sort": 24,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        },
+        "40": {
+            "type1": 2,
+            "type2": 40,
+            "typeName2": "All-rounder Scroll·Thunder",
+            "sort": 25,
+            "typeName1": "Element Soulbind",
+            "group": 1
+        }
+    }
+}

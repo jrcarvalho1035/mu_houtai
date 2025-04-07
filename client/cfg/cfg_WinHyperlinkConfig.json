@@ -1,0 +1,312 @@
+{
+    "1": {
+        "id": 1,
+        "desc": "Character Window",
+        "kuafuClose": 0
+    },
+    "2": {
+        "id": 2,
+        "desc": "Artifact, Outfit, Wings, Merlin Book Window",
+        "kuafuClose": 0
+    },
+    "3": {
+        "id": 3,
+        "desc": "Fairy, Mercenary Avatar Window",
+        "kuafuClose": 0
+    },
+    "4": {
+        "id": 4,
+        "desc": "Skill, Soulgear Window",
+        "kuafuClose": 0
+    },
+    "5": {
+        "id": 5,
+        "desc": "Forge Window",
+        "kuafuClose": 0
+    },
+    "6": {
+        "id": 6,
+        "desc": "Bag Window",
+        "kuafuClose": 0
+    },
+    "7": {
+        "id": 7,
+        "desc": "Golden Dragon Window",
+        "kuafuClose": 0
+    },
+    "8": {
+        "id": 8,
+        "desc": "Undying Grail Window",
+        "kuafuClose": 0
+    },
+    "9": {
+        "id": 9,
+        "desc": "CP Medal Window",
+        "kuafuClose": 0
+    },
+    "10": {
+        "id": 10,
+        "desc": "Store Window",
+        "kuafuClose": 0
+    },
+    "11": {
+        "id": 11,
+        "desc": "Ranking Window",
+        "kuafuClose": 0
+    },
+    "12": {
+        "id": 12,
+        "desc": "Angel Title, Rebirth Window",
+        "kuafuClose": 0
+    },
+    "13": {
+        "id": 13,
+        "desc": "Solo Contest, PvP Contest Window",
+        "kuafuClose": 0
+    },
+    "14": {
+        "id": 14,
+        "desc": "Trial Window",
+        "kuafuClose": 0
+    },
+    "15": {
+        "id": 15,
+        "desc": "Solo Dungeon, EXP Dungeon Window",
+        "kuafuClose": 0
+    },
+    "16": {
+        "id": 16,
+        "desc": "Server Boss, Cross-server Boss Window",
+        "kuafuClose": 0
+    },
+    "17": {
+        "id": 17,
+        "desc": "Guild Window",
+        "kuafuClose": 0
+    },
+    "18": {
+        "id": 18,
+        "desc": "Benefits Hall Window",
+        "kuafuClose": 0
+    },
+    "19": {
+        "id": 19,
+        "desc": "Month Pass Window",
+        "kuafuClose": 0
+    },
+    "20": {
+        "id": 20,
+        "desc": "Premium Privilege Window",
+        "kuafuClose": 0
+    },
+    "22": {
+        "id": 22,
+        "desc": "Event Hall Window",
+        "kuafuClose": 0
+    },
+    "23": {
+        "id": 23,
+        "desc": "Treasure Hunt Window",
+        "kuafuClose": 0
+    },
+    "24": {
+        "id": 24,
+        "desc": "Sacred Ring Window",
+        "kuafuClose": 0
+    },
+    "25": {
+        "id": 25,
+        "desc": "Title Window",
+        "kuafuClose": 0
+    },
+    "26": {
+        "id": 26,
+        "desc": "Fruit Window",
+        "kuafuClose": 0
+    },
+    "27": {
+        "id": 27,
+        "desc": "Rune Window",
+        "kuafuClose": 0
+    },
+    "28": {
+        "id": 28,
+        "desc": "Set Window",
+        "kuafuClose": 0
+    },
+    "29": {
+        "id": 29,
+        "desc": "VIP, SVIP Window",
+        "kuafuClose": 0
+    },
+    "30": {
+        "id": 30,
+        "desc": "Buff Window",
+        "kuafuClose": 0
+    },
+    "31": {
+        "id": 31,
+        "desc": "Top-up Window",
+        "kuafuClose": 0
+    },
+    "32": {
+        "id": 32,
+        "desc": "Excellent Road Window",
+        "kuafuClose": 0
+    },
+    "33": {
+        "id": 33,
+        "desc": "Stage Window",
+        "kuafuClose": 0
+    },
+    "34": {
+        "id": 34,
+        "desc": "Guild Boss Window",
+        "kuafuClose": 0
+    },
+    "35": {
+        "id": 35,
+        "desc": "Chat Window",
+        "kuafuClose": 0
+    },
+    "36": {
+        "id": 36,
+        "desc": "Fast AFK",
+        "kuafuClose": 0
+    },
+    "37": {
+        "id": 37,
+        "desc": "Roland Castle War Window",
+        "kuafuClose": 0
+    },
+    "38": {
+        "id": 38,
+        "desc": "SVIP Deal Window",
+        "kuafuClose": 0
+    },
+    "39": {
+        "id": 39,
+        "desc": "Store Window",
+        "kuafuClose": 0
+    },
+    "40": {
+        "id": 40,
+        "desc": "$1 Deal Window",
+        "kuafuClose": 0
+    },
+    "41": {
+        "id": 41,
+        "desc": "Guild Store Window",
+        "kuafuClose": 0
+    },
+    "42": {
+        "id": 42,
+        "desc": "EXP Level-up Window",
+        "kuafuClose": 0
+    },
+    "43": {
+        "id": 43,
+        "desc": "Miner Window",
+        "kuafuClose": 0
+    },
+    "44": {
+        "id": 44,
+        "desc": "1st Top-up",
+        "kuafuClose": 0
+    },
+    "48": {
+        "id": 48,
+        "desc": "Explore Page",
+        "kuafuClose": 0
+    },
+    "49": {
+        "id": 49,
+        "desc": "Warrior Badge",
+        "kuafuClose": 0
+    },
+    "57": {
+        "id": 57,
+        "desc": "Territory War Worship Window",
+        "kuafuClose": 1
+    },
+    "58": {
+        "id": 58,
+        "desc": "Guild Navigation Window",
+        "kuafuClose": 1
+    },
+    "59": {
+        "id": 59,
+        "desc": "WeChat Invitation Gift Window",
+        "kuafuClose": 1
+    },
+    "60": {
+        "id": 60,
+        "desc": "Dark Ethereal Realm",
+        "kuafuClose": 1
+    },
+    "61": {
+        "id": 61,
+        "desc": "Avatar (Faction War) Window",
+        "kuafuClose": 1
+    },
+    "63": {
+        "id": 63,
+        "desc": "Rebirth Deal Window",
+        "kuafuClose": 1
+    },
+    "64": {
+        "id": 64,
+        "desc": "合服巅峰赛膜拜主窗口",
+        "kuafuClose": 1
+    },
+    "65": {
+        "id": 65,
+        "desc": "一元豪礼窗口",
+        "kuafuClose": 1
+    },
+    "66": {
+        "id": 66,
+        "desc": "堕落圣衣",
+        "kuafuClose": 0
+    },
+    "67": {
+        "id": 67,
+        "desc": "擂台赛",
+        "kuafuClose": 0
+    },
+    "68": {
+        "id": 68,
+        "desc": "狼魂争夺",
+        "kuafuClose": 0
+    },
+    "69": {
+        "id": 69,
+        "desc": "点券窗口",
+        "kuafuClose": 0
+    },
+    "70": {
+        "id": 70,
+        "desc": "真红圣装",
+        "kuafuClose": 0
+    },
+    "71": {
+        "id": 71,
+        "desc": "灵器系统",
+        "kuafuClose": 0
+    },
+    "72": {
+        "id": 72,
+        "desc": "招财龙-黄金圣龙 -购买界面",
+        "kuafuClose": 0
+    },
+    "73": {
+        "id": 73,
+        "desc": "冠军赛膜拜主窗口",
+        "kuafuClose": 1
+    },
+    "74": {
+        "id": 74,
+        "desc": "充值界面",
+        "kuafuClose": 1
+    }
+}

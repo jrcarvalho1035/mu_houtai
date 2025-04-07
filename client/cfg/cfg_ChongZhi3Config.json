@@ -1,0 +1,358 @@
+{
+    "1": {
+        "1": {
+            "day": 1,
+            "id": 1,
+            "payId": 3003,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1062008,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                },
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 9000
+                },
+                {
+                    "type": 1,
+                    "id": 1061004,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 1061002,
+                    "count": 30
+                },
+                {
+                    "type": 1,
+                    "id": 1061001,
+                    "count": 50
+                }
+            ],
+            "sviplv": 0,
+            "mcIcon": {
+                "type": 9,
+                "param": 19
+            },
+            "btnStr": "Material Pack",
+            "power": 600000
+        },
+        "2": {
+            "day": 1,
+            "id": 2,
+            "payId": 10800,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1060022,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 1080
+                },
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 32400
+                },
+                {
+                    "type": 1,
+                    "id": 1061005,
+                    "count": 5
+                },
+                {
+                    "type": 1,
+                    "id": 1061002,
+                    "count": 100
+                },
+                {
+                    "type": 1,
+                    "id": 1061001,
+                    "count": 150
+                }
+            ],
+            "sviplv": 0,
+            "mcIcon": {
+                "type": 11,
+                "param": 122
+            },
+            "btnStr": "Rare Mercenary",
+            "power": 3000000
+        },
+        "3": {
+            "day": 1,
+            "id": 3,
+            "payId": 64807,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1060005,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 6480
+                },
+                {
+                    "type": 1,
+                    "id": 1061006,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 194400
+                },
+                {
+                    "type": 1,
+                    "id": 1061002,
+                    "count": 650
+                },
+                {
+                    "type": 1,
+                    "id": 1061001,
+                    "count": 750
+                }
+            ],
+            "sviplv": 0,
+            "mcIcon": {
+                "type": 11,
+                "param": 105
+            },
+            "btnStr": "Advanced Mercenary",
+            "power": 9000000
+        },
+        "4": {
+            "day": 1,
+            "id": 4,
+            "payId": 128800,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1060010,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 12880
+                },
+                {
+                    "type": 1,
+                    "id": 1061006,
+                    "count": 2
+                },
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 386400
+                },
+                {
+                    "type": 1,
+                    "id": 1061002,
+                    "count": 1300
+                },
+                {
+                    "type": 1,
+                    "id": 1061001,
+                    "count": 1500
+                }
+            ],
+            "sviplv": 5,
+            "mcIcon": {
+                "type": 11,
+                "param": 110
+            },
+            "btnStr": "Advanced Mercenary",
+            "power": 12000000
+        }
+    },
+    "2": {
+        "1": {
+            "day": 2,
+            "id": 1,
+            "payId": 3003,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010107,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 300
+                },
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 9000
+                },
+                {
+                    "type": 1,
+                    "id": 1010402,
+                    "count": 10
+                },
+                {
+                    "type": 1,
+                    "id": 310012,
+                    "count": 8
+                },
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 50
+                }
+            ],
+            "sviplv": 0,
+            "mcIcon": {
+                "type": 9,
+                "param": 19
+            },
+            "btnStr": "Material Pack",
+            "power": 560000
+        },
+        "2": {
+            "day": 2,
+            "id": 2,
+            "payId": 10800,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010139,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 1080
+                },
+                {
+                    "type": 1,
+                    "id": 1010403,
+                    "count": 5
+                },
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 32400
+                },
+                {
+                    "type": 1,
+                    "id": 310012,
+                    "count": 15
+                },
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 150
+                }
+            ],
+            "sviplv": 0,
+            "mcIcon": {
+                "type": 2,
+                "param": 39
+            },
+            "btnStr": "Rare Artifact",
+            "power": 3000000
+        },
+        "3": {
+            "day": 2,
+            "id": 3,
+            "payId": 64807,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010123,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 6480
+                },
+                {
+                    "type": 1,
+                    "id": 1010404,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 194400
+                },
+                {
+                    "type": 1,
+                    "id": 310012,
+                    "count": 90
+                },
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 750
+                }
+            ],
+            "sviplv": 0,
+            "mcIcon": {
+                "type": 2,
+                "param": 23
+            },
+            "btnStr": "Advanced Artifact",
+            "power": 9000000
+        },
+        "4": {
+            "day": 2,
+            "id": 4,
+            "payId": 128800,
+            "rewards": [
+                {
+                    "type": 1,
+                    "id": 1010128,
+                    "count": 1
+                },
+                {
+                    "type": 0,
+                    "id": 30,
+                    "count": 12880
+                },
+                {
+                    "type": 1,
+                    "id": 1010404,
+                    "count": 2
+                },
+                {
+                    "type": 0,
+                    "id": 2,
+                    "count": 386400
+                },
+                {
+                    "type": 1,
+                    "id": 310012,
+                    "count": 180
+                },
+                {
+                    "type": 1,
+                    "id": 1010000,
+                    "count": 1500
+                }
+            ],
+            "sviplv": 5,
+            "mcIcon": {
+                "type": 2,
+                "param": 28
+            },
+            "btnStr": "Advanced Artifact",
+            "power": 12000000
+        }
+    }
+}

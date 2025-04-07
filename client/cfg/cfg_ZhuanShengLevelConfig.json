@@ -1,0 +1,1949 @@
+{
+    "10000": {
+        "id": 10000,
+        "nextId": 10101,
+        "cslevel": 0,
+        "zslevel": 0,
+        "needitem": {
+            "type": 1,
+            "id": 310201,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 0
+            },
+            {
+                "type": 1,
+                "value": 0
+            },
+            {
+                "type": 4,
+                "value": 0
+            }
+        ],
+        "name": "No Rebirth",
+        "taskids": [
+            1,
+            2,
+            3,
+            4
+        ]
+    },
+    "10101": {
+        "id": 10101,
+        "nextId": 10102,
+        "cslevel": 1,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310201,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1200
+            },
+            {
+                "type": 1,
+                "value": 24000
+            },
+            {
+                "type": 4,
+                "value": 600
+            }
+        ],
+        "name": "M1 R1",
+        "taskids": [
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    "10102": {
+        "id": 10102,
+        "nextId": 10103,
+        "cslevel": 1,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310201,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 3040
+            },
+            {
+                "type": 1,
+                "value": 60800
+            },
+            {
+                "type": 4,
+                "value": 1520
+            }
+        ],
+        "name": "M1 R2",
+        "taskids": [
+            9,
+            10,
+            11,
+            12
+        ]
+    },
+    "10103": {
+        "id": 10103,
+        "nextId": 10104,
+        "cslevel": 1,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310201,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 5480
+            },
+            {
+                "type": 1,
+                "value": 109600
+            },
+            {
+                "type": 4,
+                "value": 2740
+            }
+        ],
+        "name": "M1 R3",
+        "taskids": [
+            13,
+            14,
+            15,
+            16
+        ]
+    },
+    "10104": {
+        "id": 10104,
+        "nextId": 10201,
+        "cslevel": 1,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310201,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 8600
+            },
+            {
+                "type": 1,
+                "value": 172000
+            },
+            {
+                "type": 4,
+                "value": 4300
+            }
+        ],
+        "name": "M1 R4",
+        "taskids": [
+            17,
+            18,
+            19,
+            20
+        ]
+    },
+    "10201": {
+        "id": 10201,
+        "nextId": 10202,
+        "cslevel": 2,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310201,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 12480
+            },
+            {
+                "type": 1,
+                "value": 249600
+            },
+            {
+                "type": 4,
+                "value": 6240
+            }
+        ],
+        "name": "M2 R1",
+        "taskids": [
+            21,
+            22,
+            23,
+            24
+        ]
+    },
+    "10202": {
+        "id": 10202,
+        "nextId": 10203,
+        "cslevel": 2,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310201,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 17200
+            },
+            {
+                "type": 1,
+                "value": 344000
+            },
+            {
+                "type": 4,
+                "value": 8600
+            }
+        ],
+        "name": "M2 R2",
+        "taskids": [
+            25,
+            26,
+            27,
+            28
+        ]
+    },
+    "10203": {
+        "id": 10203,
+        "nextId": 10204,
+        "cslevel": 2,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310201,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 22840
+            },
+            {
+                "type": 1,
+                "value": 456800
+            },
+            {
+                "type": 4,
+                "value": 11420
+            }
+        ],
+        "name": "M2 R3",
+        "taskids": [
+            29,
+            30,
+            31,
+            32
+        ]
+    },
+    "10204": {
+        "id": 10204,
+        "nextId": 10301,
+        "cslevel": 2,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310201,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 29440
+            },
+            {
+                "type": 1,
+                "value": 588800
+            },
+            {
+                "type": 4,
+                "value": 14720
+            }
+        ],
+        "name": "M2 R4",
+        "taskids": [
+            33,
+            34,
+            35,
+            36
+        ]
+    },
+    "10301": {
+        "id": 10301,
+        "nextId": 10302,
+        "cslevel": 3,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310202,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 37720
+            },
+            {
+                "type": 1,
+                "value": 754400
+            },
+            {
+                "type": 4,
+                "value": 18860
+            }
+        ],
+        "name": "M3 R1",
+        "taskids": [
+            37,
+            38,
+            39,
+            40
+        ]
+    },
+    "10302": {
+        "id": 10302,
+        "nextId": 10303,
+        "cslevel": 3,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310202,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 46920
+            },
+            {
+                "type": 1,
+                "value": 938400
+            },
+            {
+                "type": 4,
+                "value": 23460
+            }
+        ],
+        "name": "M3 R2",
+        "taskids": [
+            41,
+            42,
+            43,
+            44
+        ]
+    },
+    "10303": {
+        "id": 10303,
+        "nextId": 10304,
+        "cslevel": 3,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310202,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 57040
+            },
+            {
+                "type": 1,
+                "value": 1140800
+            },
+            {
+                "type": 4,
+                "value": 28520
+            }
+        ],
+        "name": "M3 R3",
+        "taskids": [
+            45,
+            46,
+            47,
+            48
+        ]
+    },
+    "10304": {
+        "id": 10304,
+        "nextId": 10401,
+        "cslevel": 3,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310202,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 68080
+            },
+            {
+                "type": 1,
+                "value": 1361600
+            },
+            {
+                "type": 4,
+                "value": 34040
+            }
+        ],
+        "name": "M3 R4",
+        "taskids": [
+            49,
+            50,
+            51,
+            52
+        ]
+    },
+    "10401": {
+        "id": 10401,
+        "nextId": 10402,
+        "cslevel": 4,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310202,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 80040
+            },
+            {
+                "type": 1,
+                "value": 1600800
+            },
+            {
+                "type": 4,
+                "value": 40020
+            }
+        ],
+        "name": "M4 R1",
+        "taskids": [
+            53,
+            54,
+            55,
+            56
+        ]
+    },
+    "10402": {
+        "id": 10402,
+        "nextId": 10403,
+        "cslevel": 4,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310202,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 92920
+            },
+            {
+                "type": 1,
+                "value": 1858400
+            },
+            {
+                "type": 4,
+                "value": 46460
+            }
+        ],
+        "name": "M4 R2",
+        "taskids": [
+            57,
+            58,
+            59,
+            60
+        ]
+    },
+    "10403": {
+        "id": 10403,
+        "nextId": 10404,
+        "cslevel": 4,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310202,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 106720
+            },
+            {
+                "type": 1,
+                "value": 2134400
+            },
+            {
+                "type": 4,
+                "value": 53360
+            }
+        ],
+        "name": "M4 R3",
+        "taskids": [
+            61,
+            62,
+            63,
+            64
+        ]
+    },
+    "10404": {
+        "id": 10404,
+        "nextId": 10501,
+        "cslevel": 4,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310202,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 121440
+            },
+            {
+                "type": 1,
+                "value": 2428800
+            },
+            {
+                "type": 4,
+                "value": 60720
+            }
+        ],
+        "name": "M4 R4",
+        "taskids": [
+            65,
+            66,
+            67,
+            68
+        ]
+    },
+    "10501": {
+        "id": 10501,
+        "nextId": 10502,
+        "cslevel": 5,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310203,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 137080
+            },
+            {
+                "type": 1,
+                "value": 2741600
+            },
+            {
+                "type": 4,
+                "value": 68540
+            }
+        ],
+        "name": "M5 R1",
+        "taskids": [
+            69,
+            70,
+            71,
+            72
+        ]
+    },
+    "10502": {
+        "id": 10502,
+        "nextId": 10503,
+        "cslevel": 5,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310203,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 153640
+            },
+            {
+                "type": 1,
+                "value": 3072800
+            },
+            {
+                "type": 4,
+                "value": 76820
+            }
+        ],
+        "name": "M5 R2",
+        "taskids": [
+            73,
+            74,
+            75,
+            76
+        ]
+    },
+    "10503": {
+        "id": 10503,
+        "nextId": 10504,
+        "cslevel": 5,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310203,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 171120
+            },
+            {
+                "type": 1,
+                "value": 3422400
+            },
+            {
+                "type": 4,
+                "value": 85560
+            }
+        ],
+        "name": "M5 R3",
+        "taskids": [
+            77,
+            78,
+            79,
+            80
+        ]
+    },
+    "10504": {
+        "id": 10504,
+        "nextId": 10601,
+        "cslevel": 5,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310203,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 189520
+            },
+            {
+                "type": 1,
+                "value": 3790400
+            },
+            {
+                "type": 4,
+                "value": 94760
+            }
+        ],
+        "name": "M5 R4",
+        "taskids": [
+            81,
+            82,
+            83,
+            84
+        ]
+    },
+    "10601": {
+        "id": 10601,
+        "nextId": 10602,
+        "cslevel": 6,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310203,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 208840
+            },
+            {
+                "type": 1,
+                "value": 4176800
+            },
+            {
+                "type": 4,
+                "value": 104420
+            }
+        ],
+        "name": "M6 R1",
+        "taskids": [
+            85,
+            86,
+            87,
+            88
+        ]
+    },
+    "10602": {
+        "id": 10602,
+        "nextId": 10603,
+        "cslevel": 6,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310203,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 229080
+            },
+            {
+                "type": 1,
+                "value": 4581600
+            },
+            {
+                "type": 4,
+                "value": 114540
+            }
+        ],
+        "name": "M6 R2",
+        "taskids": [
+            89,
+            90,
+            91,
+            92
+        ]
+    },
+    "10603": {
+        "id": 10603,
+        "nextId": 10604,
+        "cslevel": 6,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310203,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 250240
+            },
+            {
+                "type": 1,
+                "value": 5004800
+            },
+            {
+                "type": 4,
+                "value": 125120
+            }
+        ],
+        "name": "M6 R3",
+        "taskids": [
+            93,
+            94,
+            95,
+            96
+        ]
+    },
+    "10604": {
+        "id": 10604,
+        "nextId": 10701,
+        "cslevel": 6,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310203,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 272320
+            },
+            {
+                "type": 1,
+                "value": 5446400
+            },
+            {
+                "type": 4,
+                "value": 136160
+            }
+        ],
+        "name": "M6 R4",
+        "taskids": [
+            97,
+            98,
+            99,
+            100
+        ]
+    },
+    "10701": {
+        "id": 10701,
+        "nextId": 10702,
+        "cslevel": 7,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310204,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 295320
+            },
+            {
+                "type": 1,
+                "value": 5906400
+            },
+            {
+                "type": 4,
+                "value": 147660
+            }
+        ],
+        "name": "M7 R1",
+        "taskids": [
+            101,
+            102,
+            103,
+            104
+        ]
+    },
+    "10702": {
+        "id": 10702,
+        "nextId": 10703,
+        "cslevel": 7,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310204,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 319240
+            },
+            {
+                "type": 1,
+                "value": 6384800
+            },
+            {
+                "type": 4,
+                "value": 159620
+            }
+        ],
+        "name": "M7 R2",
+        "taskids": [
+            105,
+            106,
+            107,
+            108
+        ]
+    },
+    "10703": {
+        "id": 10703,
+        "nextId": 10704,
+        "cslevel": 7,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310204,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 344080
+            },
+            {
+                "type": 1,
+                "value": 6881600
+            },
+            {
+                "type": 4,
+                "value": 172040
+            }
+        ],
+        "name": "M7 R3",
+        "taskids": [
+            109,
+            110,
+            111,
+            112
+        ]
+    },
+    "10704": {
+        "id": 10704,
+        "nextId": 10801,
+        "cslevel": 7,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310204,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 369840
+            },
+            {
+                "type": 1,
+                "value": 7396800
+            },
+            {
+                "type": 4,
+                "value": 184920
+            }
+        ],
+        "name": "M7 R4",
+        "taskids": [
+            113,
+            114,
+            115,
+            116
+        ]
+    },
+    "10801": {
+        "id": 10801,
+        "nextId": 10802,
+        "cslevel": 8,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310204,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 396520
+            },
+            {
+                "type": 1,
+                "value": 7930400
+            },
+            {
+                "type": 4,
+                "value": 198260
+            }
+        ],
+        "name": "M8 R1",
+        "taskids": [
+            117,
+            118,
+            119,
+            120
+        ]
+    },
+    "10802": {
+        "id": 10802,
+        "nextId": 10803,
+        "cslevel": 8,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310204,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 424120
+            },
+            {
+                "type": 1,
+                "value": 8482400
+            },
+            {
+                "type": 4,
+                "value": 212060
+            }
+        ],
+        "name": "M8 R2",
+        "taskids": [
+            121,
+            122,
+            123,
+            124
+        ]
+    },
+    "10803": {
+        "id": 10803,
+        "nextId": 10804,
+        "cslevel": 8,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310204,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 452640
+            },
+            {
+                "type": 1,
+                "value": 9052800
+            },
+            {
+                "type": 4,
+                "value": 226320
+            }
+        ],
+        "name": "M8 R3",
+        "taskids": [
+            125,
+            126,
+            127,
+            128
+        ]
+    },
+    "10804": {
+        "id": 10804,
+        "nextId": 10901,
+        "cslevel": 8,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310204,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 482080
+            },
+            {
+                "type": 1,
+                "value": 9641600
+            },
+            {
+                "type": 4,
+                "value": 241040
+            }
+        ],
+        "name": "M8 R4",
+        "taskids": [
+            129,
+            130,
+            131,
+            132
+        ]
+    },
+    "10901": {
+        "id": 10901,
+        "nextId": 10902,
+        "cslevel": 9,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310205,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 512440
+            },
+            {
+                "type": 1,
+                "value": 10248800
+            },
+            {
+                "type": 4,
+                "value": 256220
+            }
+        ],
+        "name": "M9 R1",
+        "taskids": [
+            133,
+            134,
+            135,
+            136
+        ]
+    },
+    "10902": {
+        "id": 10902,
+        "nextId": 10903,
+        "cslevel": 9,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310205,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 543720
+            },
+            {
+                "type": 1,
+                "value": 10874400
+            },
+            {
+                "type": 4,
+                "value": 271860
+            }
+        ],
+        "name": "M9 R2",
+        "taskids": [
+            137,
+            138,
+            139,
+            140
+        ]
+    },
+    "10903": {
+        "id": 10903,
+        "nextId": 10904,
+        "cslevel": 9,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310205,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 575920
+            },
+            {
+                "type": 1,
+                "value": 11518400
+            },
+            {
+                "type": 4,
+                "value": 287960
+            }
+        ],
+        "name": "M9 R3",
+        "taskids": [
+            141,
+            142,
+            143,
+            144
+        ]
+    },
+    "10904": {
+        "id": 10904,
+        "nextId": 11001,
+        "cslevel": 9,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310205,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 609040
+            },
+            {
+                "type": 1,
+                "value": 12180800
+            },
+            {
+                "type": 4,
+                "value": 304520
+            }
+        ],
+        "name": "M9 R4",
+        "taskids": [
+            145,
+            146,
+            147,
+            148
+        ]
+    },
+    "11001": {
+        "id": 11001,
+        "nextId": 11002,
+        "cslevel": 10,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310205,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 643080
+            },
+            {
+                "type": 1,
+                "value": 12861600
+            },
+            {
+                "type": 4,
+                "value": 321540
+            }
+        ],
+        "name": "M10 R1",
+        "taskids": [
+            149,
+            150,
+            151,
+            152
+        ]
+    },
+    "11002": {
+        "id": 11002,
+        "nextId": 11003,
+        "cslevel": 10,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310205,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 678040
+            },
+            {
+                "type": 1,
+                "value": 13560800
+            },
+            {
+                "type": 4,
+                "value": 339020
+            }
+        ],
+        "name": "M10 R2",
+        "taskids": [
+            153,
+            154,
+            155,
+            156
+        ]
+    },
+    "11003": {
+        "id": 11003,
+        "nextId": 11004,
+        "cslevel": 10,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310205,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 713920
+            },
+            {
+                "type": 1,
+                "value": 14278400
+            },
+            {
+                "type": 4,
+                "value": 356960
+            }
+        ],
+        "name": "M10 R3",
+        "taskids": [
+            157,
+            158,
+            159,
+            160
+        ]
+    },
+    "11004": {
+        "id": 11004,
+        "nextId": 11101,
+        "cslevel": 10,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310205,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 750720
+            },
+            {
+                "type": 1,
+                "value": 15014400
+            },
+            {
+                "type": 4,
+                "value": 375360
+            }
+        ],
+        "name": "M10 R4",
+        "taskids": [
+            161,
+            162,
+            163,
+            164
+        ]
+    },
+    "11101": {
+        "id": 11101,
+        "nextId": 11102,
+        "cslevel": 11,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 788440
+            },
+            {
+                "type": 1,
+                "value": 15768800
+            },
+            {
+                "type": 4,
+                "value": 394220
+            }
+        ],
+        "name": "M11 R1",
+        "taskids": [
+            165,
+            166,
+            167,
+            168
+        ]
+    },
+    "11102": {
+        "id": 11102,
+        "nextId": 11103,
+        "cslevel": 11,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 827080
+            },
+            {
+                "type": 1,
+                "value": 16541600
+            },
+            {
+                "type": 4,
+                "value": 413540
+            }
+        ],
+        "name": "M11 R2",
+        "taskids": [
+            169,
+            170,
+            171,
+            172
+        ]
+    },
+    "11103": {
+        "id": 11103,
+        "nextId": 11104,
+        "cslevel": 11,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 866640
+            },
+            {
+                "type": 1,
+                "value": 17332800
+            },
+            {
+                "type": 4,
+                "value": 433320
+            }
+        ],
+        "name": "M11 R3",
+        "taskids": [
+            173,
+            174,
+            175,
+            176
+        ]
+    },
+    "11104": {
+        "id": 11104,
+        "nextId": 11201,
+        "cslevel": 11,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 907120
+            },
+            {
+                "type": 1,
+                "value": 18142400
+            },
+            {
+                "type": 4,
+                "value": 453560
+            }
+        ],
+        "name": "M11 R4",
+        "taskids": [
+            177,
+            178,
+            179,
+            180
+        ]
+    },
+    "11201": {
+        "id": 11201,
+        "nextId": 11202,
+        "cslevel": 12,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 948520
+            },
+            {
+                "type": 1,
+                "value": 18970400
+            },
+            {
+                "type": 4,
+                "value": 474260
+            }
+        ],
+        "name": "M12 R1",
+        "taskids": [
+            181,
+            182,
+            183,
+            184
+        ]
+    },
+    "11202": {
+        "id": 11202,
+        "nextId": 11203,
+        "cslevel": 12,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 990840
+            },
+            {
+                "type": 1,
+                "value": 19816800
+            },
+            {
+                "type": 4,
+                "value": 495420
+            }
+        ],
+        "name": "M12 R2",
+        "taskids": [
+            185,
+            186,
+            187,
+            188
+        ]
+    },
+    "11203": {
+        "id": 11203,
+        "nextId": 11204,
+        "cslevel": 12,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1034080
+            },
+            {
+                "type": 1,
+                "value": 20681600
+            },
+            {
+                "type": 4,
+                "value": 517040
+            }
+        ],
+        "name": "M12 R3",
+        "taskids": [
+            189,
+            190,
+            191,
+            192
+        ]
+    },
+    "11204": {
+        "id": 11204,
+        "nextId": 11301,
+        "cslevel": 12,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1078240
+            },
+            {
+                "type": 1,
+                "value": 21564800
+            },
+            {
+                "type": 4,
+                "value": 539120
+            }
+        ],
+        "name": "M12 R4",
+        "taskids": [
+            193,
+            194,
+            195,
+            196
+        ]
+    },
+    "11301": {
+        "id": 11301,
+        "nextId": 11302,
+        "cslevel": 13,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1123320
+            },
+            {
+                "type": 1,
+                "value": 22466400
+            },
+            {
+                "type": 4,
+                "value": 561660
+            }
+        ],
+        "name": "M13 R1",
+        "taskids": [
+            197,
+            198,
+            199,
+            200
+        ]
+    },
+    "11302": {
+        "id": 11302,
+        "nextId": 11303,
+        "cslevel": 13,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1169320
+            },
+            {
+                "type": 1,
+                "value": 23386400
+            },
+            {
+                "type": 4,
+                "value": 584660
+            }
+        ],
+        "name": "M13 R2",
+        "taskids": [
+            201,
+            202,
+            203,
+            204
+        ]
+    },
+    "11303": {
+        "id": 11303,
+        "nextId": 11304,
+        "cslevel": 13,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1216240
+            },
+            {
+                "type": 1,
+                "value": 24324800
+            },
+            {
+                "type": 4,
+                "value": 608120
+            }
+        ],
+        "name": "M13 R3",
+        "taskids": [
+            205,
+            206,
+            207,
+            208
+        ]
+    },
+    "11304": {
+        "id": 11304,
+        "nextId": 11401,
+        "cslevel": 13,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1264080
+            },
+            {
+                "type": 1,
+                "value": 25281600
+            },
+            {
+                "type": 4,
+                "value": 632040
+            }
+        ],
+        "name": "M13 R4",
+        "taskids": [
+            209,
+            210,
+            211,
+            212
+        ]
+    },
+    "11401": {
+        "id": 11401,
+        "nextId": 11402,
+        "cslevel": 14,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1312840
+            },
+            {
+                "type": 1,
+                "value": 26256800
+            },
+            {
+                "type": 4,
+                "value": 656420
+            }
+        ],
+        "name": "M14 R1",
+        "taskids": [
+            213,
+            214,
+            215,
+            216
+        ]
+    },
+    "11402": {
+        "id": 11402,
+        "nextId": 11403,
+        "cslevel": 14,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1362520
+            },
+            {
+                "type": 1,
+                "value": 27250400
+            },
+            {
+                "type": 4,
+                "value": 681260
+            }
+        ],
+        "name": "M14 R2",
+        "taskids": [
+            217,
+            218,
+            219,
+            220
+        ]
+    },
+    "11403": {
+        "id": 11403,
+        "nextId": 11404,
+        "cslevel": 14,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1413120
+            },
+            {
+                "type": 1,
+                "value": 28262400
+            },
+            {
+                "type": 4,
+                "value": 706560
+            }
+        ],
+        "name": "M14 R3",
+        "taskids": [
+            221,
+            222,
+            223,
+            224
+        ]
+    },
+    "11404": {
+        "id": 11404,
+        "nextId": 11501,
+        "cslevel": 14,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1464640
+            },
+            {
+                "type": 1,
+                "value": 29292800
+            },
+            {
+                "type": 4,
+                "value": 732320
+            }
+        ],
+        "name": "M14 R4",
+        "taskids": [
+            225,
+            226,
+            227,
+            228
+        ]
+    },
+    "11501": {
+        "id": 11501,
+        "nextId": 11502,
+        "cslevel": 15,
+        "zslevel": 1,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1517080
+            },
+            {
+                "type": 1,
+                "value": 30341600
+            },
+            {
+                "type": 4,
+                "value": 758540
+            }
+        ],
+        "name": "M15 R1",
+        "taskids": [
+            229,
+            230,
+            231,
+            232
+        ]
+    },
+    "11502": {
+        "id": 11502,
+        "nextId": 11503,
+        "cslevel": 15,
+        "zslevel": 2,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1570440
+            },
+            {
+                "type": 1,
+                "value": 31408800
+            },
+            {
+                "type": 4,
+                "value": 785220
+            }
+        ],
+        "name": "M15 R2",
+        "taskids": [
+            233,
+            234,
+            235,
+            236
+        ]
+    },
+    "11503": {
+        "id": 11503,
+        "nextId": 11504,
+        "cslevel": 15,
+        "zslevel": 3,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1624720
+            },
+            {
+                "type": 1,
+                "value": 32494400
+            },
+            {
+                "type": 4,
+                "value": 812360
+            }
+        ],
+        "name": "M15 R3",
+        "taskids": [
+            237,
+            238,
+            239,
+            240
+        ]
+    },
+    "11504": {
+        "id": 11504,
+        "nextId": 0,
+        "cslevel": 15,
+        "zslevel": 4,
+        "needitem": {
+            "type": 1,
+            "id": 310206,
+            "count": 1
+        },
+        "attr": [
+            {
+                "type": 32,
+                "value": 1679920
+            },
+            {
+                "type": 1,
+                "value": 33598400
+            },
+            {
+                "type": 4,
+                "value": 839960
+            }
+        ],
+        "name": "M15 R4",
+        "taskids": []
+    }
+}

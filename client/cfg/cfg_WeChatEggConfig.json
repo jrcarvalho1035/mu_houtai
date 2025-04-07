@@ -1,0 +1,520 @@
+{
+    "0": {
+        "1": {
+            "day": 0,
+            "times": 1,
+            "itemid": 1051001,
+            "count": 40,
+            "needNotice": 0,
+            "index": 6
+        },
+        "2": {
+            "day": 0,
+            "times": 2,
+            "itemid": 1051002,
+            "count": 20,
+            "needNotice": 0,
+            "index": 7
+        },
+        "3": {
+            "day": 0,
+            "times": 3,
+            "itemid": 310610,
+            "count": 10,
+            "needNotice": 0,
+            "index": 9
+        },
+        "4": {
+            "day": 0,
+            "times": 4,
+            "itemid": 1051001,
+            "count": 50,
+            "needNotice": 0,
+            "index": 2
+        },
+        "5": {
+            "day": 0,
+            "times": 5,
+            "itemid": 1051002,
+            "count": 30,
+            "needNotice": 0,
+            "index": 3
+        },
+        "6": {
+            "day": 0,
+            "times": 6,
+            "itemid": 1051005,
+            "count": 5,
+            "needNotice": 0,
+            "index": 4
+        },
+        "7": {
+            "day": 0,
+            "times": 7,
+            "itemid": 1051001,
+            "count": 60,
+            "needNotice": 0,
+            "index": 1
+        },
+        "8": {
+            "day": 0,
+            "times": 8,
+            "itemid": 310611,
+            "count": 1,
+            "needNotice": 0,
+            "index": 8
+        },
+        "9": {
+            "day": 0,
+            "times": 9,
+            "itemid": 1052006,
+            "count": 1,
+            "needNotice": 1,
+            "index": 5
+        }
+    },
+    "1": {
+        "1": {
+            "day": 1,
+            "times": 1,
+            "itemid": 1061001,
+            "count": 40,
+            "needNotice": 0,
+            "index": 3
+        },
+        "2": {
+            "day": 1,
+            "times": 2,
+            "itemid": 1061002,
+            "count": 20,
+            "needNotice": 0,
+            "index": 4
+        },
+        "3": {
+            "day": 1,
+            "times": 3,
+            "itemid": 1084100,
+            "count": 20,
+            "needNotice": 0,
+            "index": 1
+        },
+        "4": {
+            "day": 1,
+            "times": 4,
+            "itemid": 1061001,
+            "count": 50,
+            "needNotice": 0,
+            "index": 8
+        },
+        "5": {
+            "day": 1,
+            "times": 5,
+            "itemid": 1061002,
+            "count": 30,
+            "needNotice": 0,
+            "index": 6
+        },
+        "6": {
+            "day": 1,
+            "times": 6,
+            "itemid": 1061005,
+            "count": 5,
+            "needNotice": 0,
+            "index": 7
+        },
+        "7": {
+            "day": 1,
+            "times": 7,
+            "itemid": 1061001,
+            "count": 60,
+            "needNotice": 0,
+            "index": 9
+        },
+        "8": {
+            "day": 1,
+            "times": 8,
+            "itemid": 1084000,
+            "count": 100,
+            "needNotice": 0,
+            "index": 2
+        },
+        "9": {
+            "day": 1,
+            "times": 9,
+            "itemid": 1062006,
+            "count": 1,
+            "needNotice": 1,
+            "index": 5
+        }
+    },
+    "2": {
+        "1": {
+            "day": 2,
+            "times": 1,
+            "itemid": 1010000,
+            "count": 25,
+            "needNotice": 0,
+            "index": 6
+        },
+        "2": {
+            "day": 2,
+            "times": 2,
+            "itemid": 1010402,
+            "count": 2,
+            "needNotice": 0,
+            "index": 7
+        },
+        "3": {
+            "day": 2,
+            "times": 3,
+            "itemid": 310610,
+            "count": 10,
+            "needNotice": 0,
+            "index": 9
+        },
+        "4": {
+            "day": 2,
+            "times": 4,
+            "itemid": 1010000,
+            "count": 30,
+            "needNotice": 0,
+            "index": 2
+        },
+        "5": {
+            "day": 2,
+            "times": 5,
+            "itemid": 1010402,
+            "count": 3,
+            "needNotice": 0,
+            "index": 3
+        },
+        "6": {
+            "day": 2,
+            "times": 6,
+            "itemid": 1010403,
+            "count": 5,
+            "needNotice": 0,
+            "index": 4
+        },
+        "7": {
+            "day": 2,
+            "times": 7,
+            "itemid": 1010000,
+            "count": 35,
+            "needNotice": 0,
+            "index": 1
+        },
+        "8": {
+            "day": 2,
+            "times": 8,
+            "itemid": 310611,
+            "count": 1,
+            "needNotice": 0,
+            "index": 8
+        },
+        "9": {
+            "day": 2,
+            "times": 9,
+            "itemid": 1010106,
+            "count": 1,
+            "needNotice": 1,
+            "index": 5
+        }
+    },
+    "3": {
+        "1": {
+            "day": 3,
+            "times": 1,
+            "itemid": 1081000,
+            "count": 25,
+            "needNotice": 0,
+            "index": 3
+        },
+        "2": {
+            "day": 3,
+            "times": 2,
+            "itemid": 1081402,
+            "count": 2,
+            "needNotice": 0,
+            "index": 4
+        },
+        "3": {
+            "day": 3,
+            "times": 3,
+            "itemid": 310600,
+            "count": 50,
+            "needNotice": 0,
+            "index": 1
+        },
+        "4": {
+            "day": 3,
+            "times": 4,
+            "itemid": 1081000,
+            "count": 30,
+            "needNotice": 0,
+            "index": 8
+        },
+        "5": {
+            "day": 3,
+            "times": 5,
+            "itemid": 1081402,
+            "count": 3,
+            "needNotice": 0,
+            "index": 6
+        },
+        "6": {
+            "day": 3,
+            "times": 6,
+            "itemid": 1081403,
+            "count": 5,
+            "needNotice": 0,
+            "index": 7
+        },
+        "7": {
+            "day": 3,
+            "times": 7,
+            "itemid": 1081000,
+            "count": 35,
+            "needNotice": 0,
+            "index": 9
+        },
+        "8": {
+            "day": 3,
+            "times": 8,
+            "itemid": 310704,
+            "count": 1,
+            "needNotice": 0,
+            "index": 2
+        },
+        "9": {
+            "day": 3,
+            "times": 9,
+            "itemid": 1081006,
+            "count": 1,
+            "needNotice": 1,
+            "index": 5
+        }
+    },
+    "4": {
+        "1": {
+            "day": 4,
+            "times": 1,
+            "itemid": 1071001,
+            "count": 40,
+            "needNotice": 0,
+            "index": 6
+        },
+        "2": {
+            "day": 4,
+            "times": 2,
+            "itemid": 1071002,
+            "count": 20,
+            "needNotice": 0,
+            "index": 7
+        },
+        "3": {
+            "day": 4,
+            "times": 3,
+            "itemid": 310901,
+            "count": 10,
+            "needNotice": 0,
+            "index": 9
+        },
+        "4": {
+            "day": 4,
+            "times": 4,
+            "itemid": 1071001,
+            "count": 50,
+            "needNotice": 0,
+            "index": 2
+        },
+        "5": {
+            "day": 4,
+            "times": 5,
+            "itemid": 1071002,
+            "count": 30,
+            "needNotice": 0,
+            "index": 3
+        },
+        "6": {
+            "day": 4,
+            "times": 6,
+            "itemid": 1071005,
+            "count": 5,
+            "needNotice": 0,
+            "index": 4
+        },
+        "7": {
+            "day": 4,
+            "times": 7,
+            "itemid": 1071001,
+            "count": 60,
+            "needNotice": 0,
+            "index": 1
+        },
+        "8": {
+            "day": 4,
+            "times": 8,
+            "itemid": 310902,
+            "count": 2,
+            "needNotice": 0,
+            "index": 8
+        },
+        "9": {
+            "day": 4,
+            "times": 9,
+            "itemid": 1072006,
+            "count": 1,
+            "needNotice": 1,
+            "index": 5
+        }
+    },
+    "5": {
+        "1": {
+            "day": 5,
+            "times": 1,
+            "itemid": 1082000,
+            "count": 25,
+            "needNotice": 0,
+            "index": 3
+        },
+        "2": {
+            "day": 5,
+            "times": 2,
+            "itemid": 1081502,
+            "count": 2,
+            "needNotice": 0,
+            "index": 4
+        },
+        "3": {
+            "day": 5,
+            "times": 3,
+            "itemid": 1084100,
+            "count": 20,
+            "needNotice": 0,
+            "index": 1
+        },
+        "4": {
+            "day": 5,
+            "times": 4,
+            "itemid": 1082000,
+            "count": 30,
+            "needNotice": 0,
+            "index": 8
+        },
+        "5": {
+            "day": 5,
+            "times": 5,
+            "itemid": 1081502,
+            "count": 3,
+            "needNotice": 0,
+            "index": 6
+        },
+        "6": {
+            "day": 5,
+            "times": 6,
+            "itemid": 1081503,
+            "count": 5,
+            "needNotice": 0,
+            "index": 7
+        },
+        "7": {
+            "day": 5,
+            "times": 7,
+            "itemid": 1082000,
+            "count": 35,
+            "needNotice": 0,
+            "index": 9
+        },
+        "8": {
+            "day": 5,
+            "times": 8,
+            "itemid": 1084000,
+            "count": 100,
+            "needNotice": 0,
+            "index": 2
+        },
+        "9": {
+            "day": 5,
+            "times": 9,
+            "itemid": 1082006,
+            "count": 1,
+            "needNotice": 1,
+            "index": 5
+        }
+    },
+    "6": {
+        "1": {
+            "day": 6,
+            "times": 1,
+            "itemid": 1083000,
+            "count": 25,
+            "needNotice": 0,
+            "index": 6
+        },
+        "2": {
+            "day": 6,
+            "times": 2,
+            "itemid": 1081602,
+            "count": 2,
+            "needNotice": 0,
+            "index": 7
+        },
+        "3": {
+            "day": 6,
+            "times": 3,
+            "itemid": 310901,
+            "count": 10,
+            "needNotice": 0,
+            "index": 9
+        },
+        "4": {
+            "day": 6,
+            "times": 4,
+            "itemid": 1083000,
+            "count": 30,
+            "needNotice": 0,
+            "index": 2
+        },
+        "5": {
+            "day": 6,
+            "times": 5,
+            "itemid": 1081602,
+            "count": 3,
+            "needNotice": 0,
+            "index": 3
+        },
+        "6": {
+            "day": 6,
+            "times": 6,
+            "itemid": 1081603,
+            "count": 5,
+            "needNotice": 0,
+            "index": 4
+        },
+        "7": {
+            "day": 6,
+            "times": 7,
+            "itemid": 1083000,
+            "count": 35,
+            "needNotice": 0,
+            "index": 1
+        },
+        "8": {
+            "day": 6,
+            "times": 8,
+            "itemid": 310902,
+            "count": 2,
+            "needNotice": 0,
+            "index": 8
+        },
+        "9": {
+            "day": 6,
+            "times": 9,
+            "itemid": 1083006,
+            "count": 1,
+            "needNotice": 1,
+            "index": 5
+        }
+    }
+}

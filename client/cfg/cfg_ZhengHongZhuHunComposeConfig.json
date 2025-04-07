@@ -1,0 +1,662 @@
+{
+    "770001": {
+        "id": 770001,
+        "targetId": 770002,
+        "costBoxs": [
+            {
+                "quality": 1
+            },
+            {
+                "quality": 1
+            }
+        ]
+    },
+    "770002": {
+        "id": 770002,
+        "targetId": 770003,
+        "costBoxs": [
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            }
+        ]
+    },
+    "770003": {
+        "id": 770003,
+        "targetId": 770004,
+        "costBoxs": [
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            }
+        ]
+    },
+    "770004": {
+        "id": 770004,
+        "targetId": 770005,
+        "costBoxs": [
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            }
+        ]
+    },
+    "770101": {
+        "id": 770101,
+        "targetId": 770102,
+        "costBoxs": [
+            {
+                "quality": 1
+            },
+            {
+                "quality": 1
+            }
+        ]
+    },
+    "770102": {
+        "id": 770102,
+        "targetId": 770103,
+        "costBoxs": [
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            }
+        ]
+    },
+    "770103": {
+        "id": 770103,
+        "targetId": 770104,
+        "costBoxs": [
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            }
+        ]
+    },
+    "770104": {
+        "id": 770104,
+        "targetId": 770105,
+        "costBoxs": [
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            }
+        ]
+    },
+    "770201": {
+        "id": 770201,
+        "targetId": 770202,
+        "costBoxs": [
+            {
+                "quality": 1
+            },
+            {
+                "quality": 1
+            }
+        ]
+    },
+    "770202": {
+        "id": 770202,
+        "targetId": 770203,
+        "costBoxs": [
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            }
+        ]
+    },
+    "770203": {
+        "id": 770203,
+        "targetId": 770204,
+        "costBoxs": [
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            }
+        ]
+    },
+    "770204": {
+        "id": 770204,
+        "targetId": 770205,
+        "costBoxs": [
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            }
+        ]
+    },
+    "770301": {
+        "id": 770301,
+        "targetId": 770302,
+        "costBoxs": [
+            {
+                "quality": 1
+            },
+            {
+                "quality": 1
+            }
+        ]
+    },
+    "770302": {
+        "id": 770302,
+        "targetId": 770303,
+        "costBoxs": [
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            }
+        ]
+    },
+    "770303": {
+        "id": 770303,
+        "targetId": 770304,
+        "costBoxs": [
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            }
+        ]
+    },
+    "770304": {
+        "id": 770304,
+        "targetId": 770305,
+        "costBoxs": [
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            }
+        ]
+    },
+    "770401": {
+        "id": 770401,
+        "targetId": 770402,
+        "costBoxs": [
+            {
+                "quality": 1
+            },
+            {
+                "quality": 1
+            }
+        ]
+    },
+    "770402": {
+        "id": 770402,
+        "targetId": 770403,
+        "costBoxs": [
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            }
+        ]
+    },
+    "770403": {
+        "id": 770403,
+        "targetId": 770404,
+        "costBoxs": [
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            }
+        ]
+    },
+    "770404": {
+        "id": 770404,
+        "targetId": 770405,
+        "costBoxs": [
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            }
+        ]
+    },
+    "770501": {
+        "id": 770501,
+        "targetId": 770502,
+        "costBoxs": [
+            {
+                "quality": 1
+            },
+            {
+                "quality": 1
+            }
+        ]
+    },
+    "770502": {
+        "id": 770502,
+        "targetId": 770503,
+        "costBoxs": [
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            }
+        ]
+    },
+    "770503": {
+        "id": 770503,
+        "targetId": 770504,
+        "costBoxs": [
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            }
+        ]
+    },
+    "770504": {
+        "id": 770504,
+        "targetId": 770505,
+        "costBoxs": [
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            }
+        ]
+    },
+    "770601": {
+        "id": 770601,
+        "targetId": 770602,
+        "costBoxs": [
+            {
+                "quality": 1
+            },
+            {
+                "quality": 1
+            }
+        ]
+    },
+    "770602": {
+        "id": 770602,
+        "targetId": 770603,
+        "costBoxs": [
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            }
+        ]
+    },
+    "770603": {
+        "id": 770603,
+        "targetId": 770604,
+        "costBoxs": [
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            }
+        ]
+    },
+    "770604": {
+        "id": 770604,
+        "targetId": 770605,
+        "costBoxs": [
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            }
+        ]
+    },
+    "770701": {
+        "id": 770701,
+        "targetId": 770702,
+        "costBoxs": [
+            {
+                "quality": 1
+            },
+            {
+                "quality": 1
+            }
+        ]
+    },
+    "770702": {
+        "id": 770702,
+        "targetId": 770703,
+        "costBoxs": [
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            },
+            {
+                "quality": 2
+            }
+        ]
+    },
+    "770703": {
+        "id": 770703,
+        "targetId": 770704,
+        "costBoxs": [
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            }
+        ]
+    },
+    "770704": {
+        "id": 770704,
+        "targetId": 770705,
+        "costBoxs": [
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            }
+        ]
+    },
+    "770801": {
+        "id": 770801,
+        "targetId": 770802,
+        "costBoxs": [
+            {
+                "quality": 1
+            },
+            {
+                "id": 770801
+            }
+        ]
+    },
+    "770802": {
+        "id": 770802,
+        "targetId": 770803,
+        "costBoxs": [
+            {
+                "quality": 2
+            },
+            {
+                "id": 770802
+            },
+            {
+                "id": 770802
+            }
+        ]
+    },
+    "770803": {
+        "id": 770803,
+        "targetId": 770804,
+        "costBoxs": [
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "id": 770803
+            },
+            {
+                "id": 770803
+            }
+        ]
+    },
+    "770804": {
+        "id": 770804,
+        "targetId": 770805,
+        "costBoxs": [
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "id": 770804
+            },
+            {
+                "id": 770804
+            },
+            {
+                "id": 770804
+            }
+        ]
+    },
+    "770901": {
+        "id": 770901,
+        "targetId": 770902,
+        "costBoxs": [
+            {
+                "quality": 1
+            },
+            {
+                "id": 770901
+            }
+        ]
+    },
+    "770902": {
+        "id": 770902,
+        "targetId": 770903,
+        "costBoxs": [
+            {
+                "quality": 2
+            },
+            {
+                "id": 770902
+            },
+            {
+                "id": 770902
+            }
+        ]
+    },
+    "770903": {
+        "id": 770903,
+        "targetId": 770904,
+        "costBoxs": [
+            {
+                "quality": 3
+            },
+            {
+                "quality": 3
+            },
+            {
+                "id": 770903
+            },
+            {
+                "id": 770903
+            }
+        ]
+    },
+    "770904": {
+        "id": 770904,
+        "targetId": 770905,
+        "costBoxs": [
+            {
+                "quality": 4
+            },
+            {
+                "quality": 4
+            },
+            {
+                "id": 770904
+            },
+            {
+                "id": 770904
+            },
+            {
+                "id": 770904
+            }
+        ]
+    }
+}

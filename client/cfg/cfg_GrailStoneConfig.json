@@ -1,0 +1,6968 @@
+{
+    "1": {
+        "0": {
+            "id": 1,
+            "level": 0,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 0
+                }
+            ],
+            "percent": 0,
+            "power": 0
+        },
+        "1": {
+            "id": 1,
+            "level": 1,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 500
+                }
+            ],
+            "percent": 6000,
+            "power": 375000
+        },
+        "2": {
+            "id": 1,
+            "level": 2,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 800
+                }
+            ],
+            "percent": 12000,
+            "power": 600000
+        },
+        "3": {
+            "id": 1,
+            "level": 3,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 1100
+                }
+            ],
+            "percent": 18000,
+            "power": 825000
+        },
+        "4": {
+            "id": 1,
+            "level": 4,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 1400
+                }
+            ],
+            "percent": 24000,
+            "power": 1050000
+        },
+        "5": {
+            "id": 1,
+            "level": 5,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 1700
+                }
+            ],
+            "percent": 30000,
+            "power": 1275000
+        },
+        "6": {
+            "id": 1,
+            "level": 6,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 2000
+                }
+            ],
+            "percent": 36000,
+            "power": 1500000
+        },
+        "7": {
+            "id": 1,
+            "level": 7,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 2300
+                }
+            ],
+            "percent": 42000,
+            "power": 1725000
+        },
+        "8": {
+            "id": 1,
+            "level": 8,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 2600
+                }
+            ],
+            "percent": 48000,
+            "power": 1950000
+        },
+        "9": {
+            "id": 1,
+            "level": 9,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 2900
+                }
+            ],
+            "percent": 54000,
+            "power": 2175000
+        },
+        "10": {
+            "id": 1,
+            "level": 10,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 3200
+                }
+            ],
+            "percent": 60000,
+            "power": 2400000
+        },
+        "11": {
+            "id": 1,
+            "level": 11,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 3300
+                }
+            ],
+            "percent": 66000,
+            "power": 2625000
+        },
+        "12": {
+            "id": 1,
+            "level": 12,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 3400
+                }
+            ],
+            "percent": 72000,
+            "power": 2850000
+        },
+        "13": {
+            "id": 1,
+            "level": 13,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 3500
+                }
+            ],
+            "percent": 78000,
+            "power": 3075000
+        },
+        "14": {
+            "id": 1,
+            "level": 14,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 3600
+                }
+            ],
+            "percent": 84000,
+            "power": 3300000
+        },
+        "15": {
+            "id": 1,
+            "level": 15,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 3700
+                }
+            ],
+            "percent": 90000,
+            "power": 3525000
+        },
+        "16": {
+            "id": 1,
+            "level": 16,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 3800
+                }
+            ],
+            "percent": 96000,
+            "power": 3750000
+        },
+        "17": {
+            "id": 1,
+            "level": 17,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 3900
+                }
+            ],
+            "percent": 102000,
+            "power": 3975000
+        },
+        "18": {
+            "id": 1,
+            "level": 18,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4000
+                }
+            ],
+            "percent": 108000,
+            "power": 4200000
+        },
+        "19": {
+            "id": 1,
+            "level": 19,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4100
+                }
+            ],
+            "percent": 114000,
+            "power": 4425000
+        },
+        "20": {
+            "id": 1,
+            "level": 20,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4200
+                }
+            ],
+            "percent": 120000,
+            "power": 4650000
+        },
+        "21": {
+            "id": 1,
+            "level": 21,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4250
+                }
+            ],
+            "percent": 132000,
+            "power": 5100000
+        },
+        "22": {
+            "id": 1,
+            "level": 22,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4300
+                }
+            ],
+            "percent": 144000,
+            "power": 5550000
+        },
+        "23": {
+            "id": 1,
+            "level": 23,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4350
+                }
+            ],
+            "percent": 156000,
+            "power": 6000000
+        },
+        "24": {
+            "id": 1,
+            "level": 24,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4400
+                }
+            ],
+            "percent": 168000,
+            "power": 6450000
+        },
+        "25": {
+            "id": 1,
+            "level": 25,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4450
+                }
+            ],
+            "percent": 180000,
+            "power": 6900000
+        },
+        "26": {
+            "id": 1,
+            "level": 26,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4500
+                }
+            ],
+            "percent": 192000,
+            "power": 7350000
+        },
+        "27": {
+            "id": 1,
+            "level": 27,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4550
+                }
+            ],
+            "percent": 204000,
+            "power": 7800000
+        },
+        "28": {
+            "id": 1,
+            "level": 28,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4600
+                }
+            ],
+            "percent": 216000,
+            "power": 8250000
+        },
+        "29": {
+            "id": 1,
+            "level": 29,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4650
+                }
+            ],
+            "percent": 228000,
+            "power": 8700000
+        },
+        "30": {
+            "id": 1,
+            "level": 30,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4700
+                }
+            ],
+            "percent": 240000,
+            "power": 9150000
+        },
+        "31": {
+            "id": 1,
+            "level": 31,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4750
+                }
+            ],
+            "percent": 258000,
+            "power": 9825000
+        },
+        "32": {
+            "id": 1,
+            "level": 32,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4800
+                }
+            ],
+            "percent": 276000,
+            "power": 10500000
+        },
+        "33": {
+            "id": 1,
+            "level": 33,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4850
+                }
+            ],
+            "percent": 294000,
+            "power": 11175000
+        },
+        "34": {
+            "id": 1,
+            "level": 34,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4900
+                }
+            ],
+            "percent": 312000,
+            "power": 11850000
+        },
+        "35": {
+            "id": 1,
+            "level": 35,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 4950
+                }
+            ],
+            "percent": 330000,
+            "power": 12525000
+        },
+        "36": {
+            "id": 1,
+            "level": 36,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5000
+                }
+            ],
+            "percent": 348000,
+            "power": 13200000
+        },
+        "37": {
+            "id": 1,
+            "level": 37,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5050
+                }
+            ],
+            "percent": 366000,
+            "power": 13875000
+        },
+        "38": {
+            "id": 1,
+            "level": 38,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5100
+                }
+            ],
+            "percent": 384000,
+            "power": 14550000
+        },
+        "39": {
+            "id": 1,
+            "level": 39,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5150
+                }
+            ],
+            "percent": 402000,
+            "power": 15225000
+        },
+        "40": {
+            "id": 1,
+            "level": 40,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5200
+                }
+            ],
+            "percent": 420000,
+            "power": 15900000
+        },
+        "41": {
+            "id": 1,
+            "level": 41,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5250
+                }
+            ],
+            "percent": 444000,
+            "power": 16800000
+        },
+        "42": {
+            "id": 1,
+            "level": 42,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5300
+                }
+            ],
+            "percent": 468000,
+            "power": 17700000
+        },
+        "43": {
+            "id": 1,
+            "level": 43,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5350
+                }
+            ],
+            "percent": 492000,
+            "power": 18600000
+        },
+        "44": {
+            "id": 1,
+            "level": 44,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5400
+                }
+            ],
+            "percent": 516000,
+            "power": 19500000
+        },
+        "45": {
+            "id": 1,
+            "level": 45,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5450
+                }
+            ],
+            "percent": 540000,
+            "power": 20400000
+        },
+        "46": {
+            "id": 1,
+            "level": 46,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5500
+                }
+            ],
+            "percent": 564000,
+            "power": 21300000
+        },
+        "47": {
+            "id": 1,
+            "level": 47,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5550
+                }
+            ],
+            "percent": 588000,
+            "power": 22200000
+        },
+        "48": {
+            "id": 1,
+            "level": 48,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5600
+                }
+            ],
+            "percent": 612000,
+            "power": 23100000
+        },
+        "49": {
+            "id": 1,
+            "level": 49,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5650
+                }
+            ],
+            "percent": 636000,
+            "power": 24000000
+        },
+        "50": {
+            "id": 1,
+            "level": 50,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5700
+                }
+            ],
+            "percent": 660000,
+            "power": 24900000
+        },
+        "51": {
+            "id": 1,
+            "level": 51,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5750
+                }
+            ],
+            "percent": 690000,
+            "power": 26025000
+        },
+        "52": {
+            "id": 1,
+            "level": 52,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5800
+                }
+            ],
+            "percent": 720000,
+            "power": 27150000
+        },
+        "53": {
+            "id": 1,
+            "level": 53,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5850
+                }
+            ],
+            "percent": 750000,
+            "power": 28275000
+        },
+        "54": {
+            "id": 1,
+            "level": 54,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5900
+                }
+            ],
+            "percent": 780000,
+            "power": 29400000
+        },
+        "55": {
+            "id": 1,
+            "level": 55,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 5950
+                }
+            ],
+            "percent": 810000,
+            "power": 30525000
+        },
+        "56": {
+            "id": 1,
+            "level": 56,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 6000
+                }
+            ],
+            "percent": 840000,
+            "power": 31650000
+        },
+        "57": {
+            "id": 1,
+            "level": 57,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 6050
+                }
+            ],
+            "percent": 870000,
+            "power": 32775000
+        },
+        "58": {
+            "id": 1,
+            "level": 58,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 6100
+                }
+            ],
+            "percent": 900000,
+            "power": 33900000
+        },
+        "59": {
+            "id": 1,
+            "level": 59,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 6150
+                }
+            ],
+            "percent": 930000,
+            "power": 35025000
+        },
+        "60": {
+            "id": 1,
+            "level": 60,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321004,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 56,
+                    "value": 6200
+                }
+            ],
+            "percent": 960000,
+            "power": 36150000
+        }
+    },
+    "2": {
+        "0": {
+            "id": 2,
+            "level": 0,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 0
+                }
+            ],
+            "percent": 0,
+            "power": 0
+        },
+        "1": {
+            "id": 2,
+            "level": 1,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 500
+                }
+            ],
+            "percent": 6000,
+            "power": 375000
+        },
+        "2": {
+            "id": 2,
+            "level": 2,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 800
+                }
+            ],
+            "percent": 12000,
+            "power": 600000
+        },
+        "3": {
+            "id": 2,
+            "level": 3,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 1100
+                }
+            ],
+            "percent": 18000,
+            "power": 825000
+        },
+        "4": {
+            "id": 2,
+            "level": 4,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 1400
+                }
+            ],
+            "percent": 24000,
+            "power": 1050000
+        },
+        "5": {
+            "id": 2,
+            "level": 5,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 1700
+                }
+            ],
+            "percent": 30000,
+            "power": 1275000
+        },
+        "6": {
+            "id": 2,
+            "level": 6,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 2000
+                }
+            ],
+            "percent": 36000,
+            "power": 1500000
+        },
+        "7": {
+            "id": 2,
+            "level": 7,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 2300
+                }
+            ],
+            "percent": 42000,
+            "power": 1725000
+        },
+        "8": {
+            "id": 2,
+            "level": 8,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 2600
+                }
+            ],
+            "percent": 48000,
+            "power": 1950000
+        },
+        "9": {
+            "id": 2,
+            "level": 9,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 2900
+                }
+            ],
+            "percent": 54000,
+            "power": 2175000
+        },
+        "10": {
+            "id": 2,
+            "level": 10,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 3200
+                }
+            ],
+            "percent": 60000,
+            "power": 2400000
+        },
+        "11": {
+            "id": 2,
+            "level": 11,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 3300
+                }
+            ],
+            "percent": 66000,
+            "power": 2625000
+        },
+        "12": {
+            "id": 2,
+            "level": 12,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 3400
+                }
+            ],
+            "percent": 72000,
+            "power": 2850000
+        },
+        "13": {
+            "id": 2,
+            "level": 13,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 3500
+                }
+            ],
+            "percent": 78000,
+            "power": 3075000
+        },
+        "14": {
+            "id": 2,
+            "level": 14,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 3600
+                }
+            ],
+            "percent": 84000,
+            "power": 3300000
+        },
+        "15": {
+            "id": 2,
+            "level": 15,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 3700
+                }
+            ],
+            "percent": 90000,
+            "power": 3525000
+        },
+        "16": {
+            "id": 2,
+            "level": 16,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 3800
+                }
+            ],
+            "percent": 96000,
+            "power": 3750000
+        },
+        "17": {
+            "id": 2,
+            "level": 17,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 3900
+                }
+            ],
+            "percent": 102000,
+            "power": 3975000
+        },
+        "18": {
+            "id": 2,
+            "level": 18,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4000
+                }
+            ],
+            "percent": 108000,
+            "power": 4200000
+        },
+        "19": {
+            "id": 2,
+            "level": 19,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4100
+                }
+            ],
+            "percent": 114000,
+            "power": 4425000
+        },
+        "20": {
+            "id": 2,
+            "level": 20,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4200
+                }
+            ],
+            "percent": 120000,
+            "power": 4650000
+        },
+        "21": {
+            "id": 2,
+            "level": 21,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4250
+                }
+            ],
+            "percent": 132000,
+            "power": 5100000
+        },
+        "22": {
+            "id": 2,
+            "level": 22,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4300
+                }
+            ],
+            "percent": 144000,
+            "power": 5550000
+        },
+        "23": {
+            "id": 2,
+            "level": 23,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4350
+                }
+            ],
+            "percent": 156000,
+            "power": 6000000
+        },
+        "24": {
+            "id": 2,
+            "level": 24,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4400
+                }
+            ],
+            "percent": 168000,
+            "power": 6450000
+        },
+        "25": {
+            "id": 2,
+            "level": 25,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4450
+                }
+            ],
+            "percent": 180000,
+            "power": 6900000
+        },
+        "26": {
+            "id": 2,
+            "level": 26,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4500
+                }
+            ],
+            "percent": 192000,
+            "power": 7350000
+        },
+        "27": {
+            "id": 2,
+            "level": 27,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4550
+                }
+            ],
+            "percent": 204000,
+            "power": 7800000
+        },
+        "28": {
+            "id": 2,
+            "level": 28,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4600
+                }
+            ],
+            "percent": 216000,
+            "power": 8250000
+        },
+        "29": {
+            "id": 2,
+            "level": 29,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4650
+                }
+            ],
+            "percent": 228000,
+            "power": 8700000
+        },
+        "30": {
+            "id": 2,
+            "level": 30,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4700
+                }
+            ],
+            "percent": 240000,
+            "power": 9150000
+        },
+        "31": {
+            "id": 2,
+            "level": 31,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4750
+                }
+            ],
+            "percent": 258000,
+            "power": 9825000
+        },
+        "32": {
+            "id": 2,
+            "level": 32,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4800
+                }
+            ],
+            "percent": 276000,
+            "power": 10500000
+        },
+        "33": {
+            "id": 2,
+            "level": 33,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4850
+                }
+            ],
+            "percent": 294000,
+            "power": 11175000
+        },
+        "34": {
+            "id": 2,
+            "level": 34,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4900
+                }
+            ],
+            "percent": 312000,
+            "power": 11850000
+        },
+        "35": {
+            "id": 2,
+            "level": 35,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 4950
+                }
+            ],
+            "percent": 330000,
+            "power": 12525000
+        },
+        "36": {
+            "id": 2,
+            "level": 36,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5000
+                }
+            ],
+            "percent": 348000,
+            "power": 13200000
+        },
+        "37": {
+            "id": 2,
+            "level": 37,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5050
+                }
+            ],
+            "percent": 366000,
+            "power": 13875000
+        },
+        "38": {
+            "id": 2,
+            "level": 38,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5100
+                }
+            ],
+            "percent": 384000,
+            "power": 14550000
+        },
+        "39": {
+            "id": 2,
+            "level": 39,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5150
+                }
+            ],
+            "percent": 402000,
+            "power": 15225000
+        },
+        "40": {
+            "id": 2,
+            "level": 40,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5200
+                }
+            ],
+            "percent": 420000,
+            "power": 15900000
+        },
+        "41": {
+            "id": 2,
+            "level": 41,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5250
+                }
+            ],
+            "percent": 444000,
+            "power": 16800000
+        },
+        "42": {
+            "id": 2,
+            "level": 42,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5300
+                }
+            ],
+            "percent": 468000,
+            "power": 17700000
+        },
+        "43": {
+            "id": 2,
+            "level": 43,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5350
+                }
+            ],
+            "percent": 492000,
+            "power": 18600000
+        },
+        "44": {
+            "id": 2,
+            "level": 44,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5400
+                }
+            ],
+            "percent": 516000,
+            "power": 19500000
+        },
+        "45": {
+            "id": 2,
+            "level": 45,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5450
+                }
+            ],
+            "percent": 540000,
+            "power": 20400000
+        },
+        "46": {
+            "id": 2,
+            "level": 46,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5500
+                }
+            ],
+            "percent": 564000,
+            "power": 21300000
+        },
+        "47": {
+            "id": 2,
+            "level": 47,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5550
+                }
+            ],
+            "percent": 588000,
+            "power": 22200000
+        },
+        "48": {
+            "id": 2,
+            "level": 48,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5600
+                }
+            ],
+            "percent": 612000,
+            "power": 23100000
+        },
+        "49": {
+            "id": 2,
+            "level": 49,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5650
+                }
+            ],
+            "percent": 636000,
+            "power": 24000000
+        },
+        "50": {
+            "id": 2,
+            "level": 50,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5700
+                }
+            ],
+            "percent": 660000,
+            "power": 24900000
+        },
+        "51": {
+            "id": 2,
+            "level": 51,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5750
+                }
+            ],
+            "percent": 690000,
+            "power": 26025000
+        },
+        "52": {
+            "id": 2,
+            "level": 52,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5800
+                }
+            ],
+            "percent": 720000,
+            "power": 27150000
+        },
+        "53": {
+            "id": 2,
+            "level": 53,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5850
+                }
+            ],
+            "percent": 750000,
+            "power": 28275000
+        },
+        "54": {
+            "id": 2,
+            "level": 54,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5900
+                }
+            ],
+            "percent": 780000,
+            "power": 29400000
+        },
+        "55": {
+            "id": 2,
+            "level": 55,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 5950
+                }
+            ],
+            "percent": 810000,
+            "power": 30525000
+        },
+        "56": {
+            "id": 2,
+            "level": 56,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 6000
+                }
+            ],
+            "percent": 840000,
+            "power": 31650000
+        },
+        "57": {
+            "id": 2,
+            "level": 57,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 6050
+                }
+            ],
+            "percent": 870000,
+            "power": 32775000
+        },
+        "58": {
+            "id": 2,
+            "level": 58,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 6100
+                }
+            ],
+            "percent": 900000,
+            "power": 33900000
+        },
+        "59": {
+            "id": 2,
+            "level": 59,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 6150
+                }
+            ],
+            "percent": 930000,
+            "power": 35025000
+        },
+        "60": {
+            "id": 2,
+            "level": 60,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321005,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 60,
+                    "value": 6200
+                }
+            ],
+            "percent": 960000,
+            "power": 36150000
+        }
+    },
+    "3": {
+        "0": {
+            "id": 3,
+            "level": 0,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 0
+                }
+            ],
+            "percent": 0,
+            "power": 0
+        },
+        "1": {
+            "id": 3,
+            "level": 1,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 500
+                }
+            ],
+            "percent": 6000,
+            "power": 375000
+        },
+        "2": {
+            "id": 3,
+            "level": 2,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 800
+                }
+            ],
+            "percent": 12000,
+            "power": 600000
+        },
+        "3": {
+            "id": 3,
+            "level": 3,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 1100
+                }
+            ],
+            "percent": 18000,
+            "power": 825000
+        },
+        "4": {
+            "id": 3,
+            "level": 4,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 1400
+                }
+            ],
+            "percent": 24000,
+            "power": 1050000
+        },
+        "5": {
+            "id": 3,
+            "level": 5,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 1700
+                }
+            ],
+            "percent": 30000,
+            "power": 1275000
+        },
+        "6": {
+            "id": 3,
+            "level": 6,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 2000
+                }
+            ],
+            "percent": 36000,
+            "power": 1500000
+        },
+        "7": {
+            "id": 3,
+            "level": 7,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 2300
+                }
+            ],
+            "percent": 42000,
+            "power": 1725000
+        },
+        "8": {
+            "id": 3,
+            "level": 8,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 2600
+                }
+            ],
+            "percent": 48000,
+            "power": 1950000
+        },
+        "9": {
+            "id": 3,
+            "level": 9,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 2900
+                }
+            ],
+            "percent": 54000,
+            "power": 2175000
+        },
+        "10": {
+            "id": 3,
+            "level": 10,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 3200
+                }
+            ],
+            "percent": 60000,
+            "power": 2400000
+        },
+        "11": {
+            "id": 3,
+            "level": 11,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 3300
+                }
+            ],
+            "percent": 66000,
+            "power": 2625000
+        },
+        "12": {
+            "id": 3,
+            "level": 12,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 3400
+                }
+            ],
+            "percent": 72000,
+            "power": 2850000
+        },
+        "13": {
+            "id": 3,
+            "level": 13,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 3500
+                }
+            ],
+            "percent": 78000,
+            "power": 3075000
+        },
+        "14": {
+            "id": 3,
+            "level": 14,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 3600
+                }
+            ],
+            "percent": 84000,
+            "power": 3300000
+        },
+        "15": {
+            "id": 3,
+            "level": 15,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 3700
+                }
+            ],
+            "percent": 90000,
+            "power": 3525000
+        },
+        "16": {
+            "id": 3,
+            "level": 16,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 3800
+                }
+            ],
+            "percent": 96000,
+            "power": 3750000
+        },
+        "17": {
+            "id": 3,
+            "level": 17,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 3900
+                }
+            ],
+            "percent": 102000,
+            "power": 3975000
+        },
+        "18": {
+            "id": 3,
+            "level": 18,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4000
+                }
+            ],
+            "percent": 108000,
+            "power": 4200000
+        },
+        "19": {
+            "id": 3,
+            "level": 19,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4100
+                }
+            ],
+            "percent": 114000,
+            "power": 4425000
+        },
+        "20": {
+            "id": 3,
+            "level": 20,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4200
+                }
+            ],
+            "percent": 120000,
+            "power": 4650000
+        },
+        "21": {
+            "id": 3,
+            "level": 21,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4250
+                }
+            ],
+            "percent": 132000,
+            "power": 5100000
+        },
+        "22": {
+            "id": 3,
+            "level": 22,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4300
+                }
+            ],
+            "percent": 144000,
+            "power": 5550000
+        },
+        "23": {
+            "id": 3,
+            "level": 23,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4350
+                }
+            ],
+            "percent": 156000,
+            "power": 6000000
+        },
+        "24": {
+            "id": 3,
+            "level": 24,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4400
+                }
+            ],
+            "percent": 168000,
+            "power": 6450000
+        },
+        "25": {
+            "id": 3,
+            "level": 25,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4450
+                }
+            ],
+            "percent": 180000,
+            "power": 6900000
+        },
+        "26": {
+            "id": 3,
+            "level": 26,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4500
+                }
+            ],
+            "percent": 192000,
+            "power": 7350000
+        },
+        "27": {
+            "id": 3,
+            "level": 27,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4550
+                }
+            ],
+            "percent": 204000,
+            "power": 7800000
+        },
+        "28": {
+            "id": 3,
+            "level": 28,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4600
+                }
+            ],
+            "percent": 216000,
+            "power": 8250000
+        },
+        "29": {
+            "id": 3,
+            "level": 29,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4650
+                }
+            ],
+            "percent": 228000,
+            "power": 8700000
+        },
+        "30": {
+            "id": 3,
+            "level": 30,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4700
+                }
+            ],
+            "percent": 240000,
+            "power": 9150000
+        },
+        "31": {
+            "id": 3,
+            "level": 31,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4750
+                }
+            ],
+            "percent": 258000,
+            "power": 9825000
+        },
+        "32": {
+            "id": 3,
+            "level": 32,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4800
+                }
+            ],
+            "percent": 276000,
+            "power": 10500000
+        },
+        "33": {
+            "id": 3,
+            "level": 33,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4850
+                }
+            ],
+            "percent": 294000,
+            "power": 11175000
+        },
+        "34": {
+            "id": 3,
+            "level": 34,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4900
+                }
+            ],
+            "percent": 312000,
+            "power": 11850000
+        },
+        "35": {
+            "id": 3,
+            "level": 35,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 4950
+                }
+            ],
+            "percent": 330000,
+            "power": 12525000
+        },
+        "36": {
+            "id": 3,
+            "level": 36,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5000
+                }
+            ],
+            "percent": 348000,
+            "power": 13200000
+        },
+        "37": {
+            "id": 3,
+            "level": 37,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5050
+                }
+            ],
+            "percent": 366000,
+            "power": 13875000
+        },
+        "38": {
+            "id": 3,
+            "level": 38,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5100
+                }
+            ],
+            "percent": 384000,
+            "power": 14550000
+        },
+        "39": {
+            "id": 3,
+            "level": 39,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5150
+                }
+            ],
+            "percent": 402000,
+            "power": 15225000
+        },
+        "40": {
+            "id": 3,
+            "level": 40,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5200
+                }
+            ],
+            "percent": 420000,
+            "power": 15900000
+        },
+        "41": {
+            "id": 3,
+            "level": 41,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5250
+                }
+            ],
+            "percent": 444000,
+            "power": 16800000
+        },
+        "42": {
+            "id": 3,
+            "level": 42,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5300
+                }
+            ],
+            "percent": 468000,
+            "power": 17700000
+        },
+        "43": {
+            "id": 3,
+            "level": 43,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5350
+                }
+            ],
+            "percent": 492000,
+            "power": 18600000
+        },
+        "44": {
+            "id": 3,
+            "level": 44,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5400
+                }
+            ],
+            "percent": 516000,
+            "power": 19500000
+        },
+        "45": {
+            "id": 3,
+            "level": 45,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5450
+                }
+            ],
+            "percent": 540000,
+            "power": 20400000
+        },
+        "46": {
+            "id": 3,
+            "level": 46,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5500
+                }
+            ],
+            "percent": 564000,
+            "power": 21300000
+        },
+        "47": {
+            "id": 3,
+            "level": 47,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5550
+                }
+            ],
+            "percent": 588000,
+            "power": 22200000
+        },
+        "48": {
+            "id": 3,
+            "level": 48,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5600
+                }
+            ],
+            "percent": 612000,
+            "power": 23100000
+        },
+        "49": {
+            "id": 3,
+            "level": 49,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5650
+                }
+            ],
+            "percent": 636000,
+            "power": 24000000
+        },
+        "50": {
+            "id": 3,
+            "level": 50,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5700
+                }
+            ],
+            "percent": 660000,
+            "power": 24900000
+        },
+        "51": {
+            "id": 3,
+            "level": 51,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5750
+                }
+            ],
+            "percent": 690000,
+            "power": 26025000
+        },
+        "52": {
+            "id": 3,
+            "level": 52,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5800
+                }
+            ],
+            "percent": 720000,
+            "power": 27150000
+        },
+        "53": {
+            "id": 3,
+            "level": 53,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5850
+                }
+            ],
+            "percent": 750000,
+            "power": 28275000
+        },
+        "54": {
+            "id": 3,
+            "level": 54,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5900
+                }
+            ],
+            "percent": 780000,
+            "power": 29400000
+        },
+        "55": {
+            "id": 3,
+            "level": 55,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 5950
+                }
+            ],
+            "percent": 810000,
+            "power": 30525000
+        },
+        "56": {
+            "id": 3,
+            "level": 56,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 6000
+                }
+            ],
+            "percent": 840000,
+            "power": 31650000
+        },
+        "57": {
+            "id": 3,
+            "level": 57,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 6050
+                }
+            ],
+            "percent": 870000,
+            "power": 32775000
+        },
+        "58": {
+            "id": 3,
+            "level": 58,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 6100
+                }
+            ],
+            "percent": 900000,
+            "power": 33900000
+        },
+        "59": {
+            "id": 3,
+            "level": 59,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 6150
+                }
+            ],
+            "percent": 930000,
+            "power": 35025000
+        },
+        "60": {
+            "id": 3,
+            "level": 60,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321006,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 59,
+                    "value": 6200
+                }
+            ],
+            "percent": 960000,
+            "power": 36150000
+        }
+    },
+    "4": {
+        "0": {
+            "id": 4,
+            "level": 0,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 0
+                }
+            ],
+            "percent": 0,
+            "power": 0
+        },
+        "1": {
+            "id": 4,
+            "level": 1,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 1000
+                }
+            ],
+            "percent": 6000,
+            "power": 375000
+        },
+        "2": {
+            "id": 4,
+            "level": 2,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 1600
+                }
+            ],
+            "percent": 12000,
+            "power": 600000
+        },
+        "3": {
+            "id": 4,
+            "level": 3,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 2200
+                }
+            ],
+            "percent": 18000,
+            "power": 825000
+        },
+        "4": {
+            "id": 4,
+            "level": 4,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 2800
+                }
+            ],
+            "percent": 24000,
+            "power": 1050000
+        },
+        "5": {
+            "id": 4,
+            "level": 5,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 3400
+                }
+            ],
+            "percent": 30000,
+            "power": 1275000
+        },
+        "6": {
+            "id": 4,
+            "level": 6,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 4000
+                }
+            ],
+            "percent": 36000,
+            "power": 1500000
+        },
+        "7": {
+            "id": 4,
+            "level": 7,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 4600
+                }
+            ],
+            "percent": 42000,
+            "power": 1725000
+        },
+        "8": {
+            "id": 4,
+            "level": 8,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 5200
+                }
+            ],
+            "percent": 48000,
+            "power": 1950000
+        },
+        "9": {
+            "id": 4,
+            "level": 9,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 5800
+                }
+            ],
+            "percent": 54000,
+            "power": 2175000
+        },
+        "10": {
+            "id": 4,
+            "level": 10,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 6400
+                }
+            ],
+            "percent": 60000,
+            "power": 2400000
+        },
+        "11": {
+            "id": 4,
+            "level": 11,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 6600
+                }
+            ],
+            "percent": 66000,
+            "power": 2625000
+        },
+        "12": {
+            "id": 4,
+            "level": 12,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 6800
+                }
+            ],
+            "percent": 72000,
+            "power": 2850000
+        },
+        "13": {
+            "id": 4,
+            "level": 13,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 7000
+                }
+            ],
+            "percent": 78000,
+            "power": 3075000
+        },
+        "14": {
+            "id": 4,
+            "level": 14,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 7200
+                }
+            ],
+            "percent": 84000,
+            "power": 3300000
+        },
+        "15": {
+            "id": 4,
+            "level": 15,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 7400
+                }
+            ],
+            "percent": 90000,
+            "power": 3525000
+        },
+        "16": {
+            "id": 4,
+            "level": 16,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 7600
+                }
+            ],
+            "percent": 96000,
+            "power": 3750000
+        },
+        "17": {
+            "id": 4,
+            "level": 17,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 7800
+                }
+            ],
+            "percent": 102000,
+            "power": 3975000
+        },
+        "18": {
+            "id": 4,
+            "level": 18,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 8000
+                }
+            ],
+            "percent": 108000,
+            "power": 4200000
+        },
+        "19": {
+            "id": 4,
+            "level": 19,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 8200
+                }
+            ],
+            "percent": 114000,
+            "power": 4425000
+        },
+        "20": {
+            "id": 4,
+            "level": 20,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 8400
+                }
+            ],
+            "percent": 120000,
+            "power": 4650000
+        },
+        "21": {
+            "id": 4,
+            "level": 21,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 8500
+                }
+            ],
+            "percent": 132000,
+            "power": 5100000
+        },
+        "22": {
+            "id": 4,
+            "level": 22,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 8600
+                }
+            ],
+            "percent": 144000,
+            "power": 5550000
+        },
+        "23": {
+            "id": 4,
+            "level": 23,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 8700
+                }
+            ],
+            "percent": 156000,
+            "power": 6000000
+        },
+        "24": {
+            "id": 4,
+            "level": 24,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 8800
+                }
+            ],
+            "percent": 168000,
+            "power": 6450000
+        },
+        "25": {
+            "id": 4,
+            "level": 25,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 8900
+                }
+            ],
+            "percent": 180000,
+            "power": 6900000
+        },
+        "26": {
+            "id": 4,
+            "level": 26,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 9000
+                }
+            ],
+            "percent": 192000,
+            "power": 7350000
+        },
+        "27": {
+            "id": 4,
+            "level": 27,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 9100
+                }
+            ],
+            "percent": 204000,
+            "power": 7800000
+        },
+        "28": {
+            "id": 4,
+            "level": 28,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 9200
+                }
+            ],
+            "percent": 216000,
+            "power": 8250000
+        },
+        "29": {
+            "id": 4,
+            "level": 29,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 9300
+                }
+            ],
+            "percent": 228000,
+            "power": 8700000
+        },
+        "30": {
+            "id": 4,
+            "level": 30,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 9400
+                }
+            ],
+            "percent": 240000,
+            "power": 9150000
+        },
+        "31": {
+            "id": 4,
+            "level": 31,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 9500
+                }
+            ],
+            "percent": 258000,
+            "power": 9825000
+        },
+        "32": {
+            "id": 4,
+            "level": 32,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 9600
+                }
+            ],
+            "percent": 276000,
+            "power": 10500000
+        },
+        "33": {
+            "id": 4,
+            "level": 33,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 9700
+                }
+            ],
+            "percent": 294000,
+            "power": 11175000
+        },
+        "34": {
+            "id": 4,
+            "level": 34,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 9800
+                }
+            ],
+            "percent": 312000,
+            "power": 11850000
+        },
+        "35": {
+            "id": 4,
+            "level": 35,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 9900
+                }
+            ],
+            "percent": 330000,
+            "power": 12525000
+        },
+        "36": {
+            "id": 4,
+            "level": 36,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 10000
+                }
+            ],
+            "percent": 348000,
+            "power": 13200000
+        },
+        "37": {
+            "id": 4,
+            "level": 37,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 10100
+                }
+            ],
+            "percent": 366000,
+            "power": 13875000
+        },
+        "38": {
+            "id": 4,
+            "level": 38,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 10200
+                }
+            ],
+            "percent": 384000,
+            "power": 14550000
+        },
+        "39": {
+            "id": 4,
+            "level": 39,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 10300
+                }
+            ],
+            "percent": 402000,
+            "power": 15225000
+        },
+        "40": {
+            "id": 4,
+            "level": 40,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 10400
+                }
+            ],
+            "percent": 420000,
+            "power": 15900000
+        },
+        "41": {
+            "id": 4,
+            "level": 41,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 10500
+                }
+            ],
+            "percent": 444000,
+            "power": 16800000
+        },
+        "42": {
+            "id": 4,
+            "level": 42,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 10600
+                }
+            ],
+            "percent": 468000,
+            "power": 17700000
+        },
+        "43": {
+            "id": 4,
+            "level": 43,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 10700
+                }
+            ],
+            "percent": 492000,
+            "power": 18600000
+        },
+        "44": {
+            "id": 4,
+            "level": 44,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 10800
+                }
+            ],
+            "percent": 516000,
+            "power": 19500000
+        },
+        "45": {
+            "id": 4,
+            "level": 45,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 10900
+                }
+            ],
+            "percent": 540000,
+            "power": 20400000
+        },
+        "46": {
+            "id": 4,
+            "level": 46,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 11000
+                }
+            ],
+            "percent": 564000,
+            "power": 21300000
+        },
+        "47": {
+            "id": 4,
+            "level": 47,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 11100
+                }
+            ],
+            "percent": 588000,
+            "power": 22200000
+        },
+        "48": {
+            "id": 4,
+            "level": 48,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 11200
+                }
+            ],
+            "percent": 612000,
+            "power": 23100000
+        },
+        "49": {
+            "id": 4,
+            "level": 49,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 11300
+                }
+            ],
+            "percent": 636000,
+            "power": 24000000
+        },
+        "50": {
+            "id": 4,
+            "level": 50,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 11400
+                }
+            ],
+            "percent": 660000,
+            "power": 24900000
+        },
+        "51": {
+            "id": 4,
+            "level": 51,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 11500
+                }
+            ],
+            "percent": 690000,
+            "power": 26025000
+        },
+        "52": {
+            "id": 4,
+            "level": 52,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 11600
+                }
+            ],
+            "percent": 720000,
+            "power": 27150000
+        },
+        "53": {
+            "id": 4,
+            "level": 53,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 11700
+                }
+            ],
+            "percent": 750000,
+            "power": 28275000
+        },
+        "54": {
+            "id": 4,
+            "level": 54,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 11800
+                }
+            ],
+            "percent": 780000,
+            "power": 29400000
+        },
+        "55": {
+            "id": 4,
+            "level": 55,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 11900
+                }
+            ],
+            "percent": 810000,
+            "power": 30525000
+        },
+        "56": {
+            "id": 4,
+            "level": 56,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 12000
+                }
+            ],
+            "percent": 840000,
+            "power": 31650000
+        },
+        "57": {
+            "id": 4,
+            "level": 57,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 12100
+                }
+            ],
+            "percent": 870000,
+            "power": 32775000
+        },
+        "58": {
+            "id": 4,
+            "level": 58,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 12200
+                }
+            ],
+            "percent": 900000,
+            "power": 33900000
+        },
+        "59": {
+            "id": 4,
+            "level": 59,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 12300
+                }
+            ],
+            "percent": 930000,
+            "power": 35025000
+        },
+        "60": {
+            "id": 4,
+            "level": 60,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321007,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 64,
+                    "value": 12400
+                }
+            ],
+            "percent": 960000,
+            "power": 36150000
+        }
+    },
+    "5": {
+        "0": {
+            "id": 5,
+            "level": 0,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 0
+                }
+            ],
+            "percent": 0,
+            "power": 0
+        },
+        "1": {
+            "id": 5,
+            "level": 1,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 1000
+                }
+            ],
+            "percent": 6000,
+            "power": 375000
+        },
+        "2": {
+            "id": 5,
+            "level": 2,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 1600
+                }
+            ],
+            "percent": 12000,
+            "power": 600000
+        },
+        "3": {
+            "id": 5,
+            "level": 3,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 2200
+                }
+            ],
+            "percent": 18000,
+            "power": 825000
+        },
+        "4": {
+            "id": 5,
+            "level": 4,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 2800
+                }
+            ],
+            "percent": 24000,
+            "power": 1050000
+        },
+        "5": {
+            "id": 5,
+            "level": 5,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 3400
+                }
+            ],
+            "percent": 30000,
+            "power": 1275000
+        },
+        "6": {
+            "id": 5,
+            "level": 6,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 4000
+                }
+            ],
+            "percent": 36000,
+            "power": 1500000
+        },
+        "7": {
+            "id": 5,
+            "level": 7,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 4600
+                }
+            ],
+            "percent": 42000,
+            "power": 1725000
+        },
+        "8": {
+            "id": 5,
+            "level": 8,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 5200
+                }
+            ],
+            "percent": 48000,
+            "power": 1950000
+        },
+        "9": {
+            "id": 5,
+            "level": 9,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 5800
+                }
+            ],
+            "percent": 54000,
+            "power": 2175000
+        },
+        "10": {
+            "id": 5,
+            "level": 10,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 6400
+                }
+            ],
+            "percent": 60000,
+            "power": 2400000
+        },
+        "11": {
+            "id": 5,
+            "level": 11,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 6600
+                }
+            ],
+            "percent": 66000,
+            "power": 2625000
+        },
+        "12": {
+            "id": 5,
+            "level": 12,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 6800
+                }
+            ],
+            "percent": 72000,
+            "power": 2850000
+        },
+        "13": {
+            "id": 5,
+            "level": 13,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 7000
+                }
+            ],
+            "percent": 78000,
+            "power": 3075000
+        },
+        "14": {
+            "id": 5,
+            "level": 14,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 7200
+                }
+            ],
+            "percent": 84000,
+            "power": 3300000
+        },
+        "15": {
+            "id": 5,
+            "level": 15,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 7400
+                }
+            ],
+            "percent": 90000,
+            "power": 3525000
+        },
+        "16": {
+            "id": 5,
+            "level": 16,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 7600
+                }
+            ],
+            "percent": 96000,
+            "power": 3750000
+        },
+        "17": {
+            "id": 5,
+            "level": 17,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 7800
+                }
+            ],
+            "percent": 102000,
+            "power": 3975000
+        },
+        "18": {
+            "id": 5,
+            "level": 18,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 8000
+                }
+            ],
+            "percent": 108000,
+            "power": 4200000
+        },
+        "19": {
+            "id": 5,
+            "level": 19,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 8200
+                }
+            ],
+            "percent": 114000,
+            "power": 4425000
+        },
+        "20": {
+            "id": 5,
+            "level": 20,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 8400
+                }
+            ],
+            "percent": 120000,
+            "power": 4650000
+        },
+        "21": {
+            "id": 5,
+            "level": 21,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 8500
+                }
+            ],
+            "percent": 132000,
+            "power": 5100000
+        },
+        "22": {
+            "id": 5,
+            "level": 22,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 8600
+                }
+            ],
+            "percent": 144000,
+            "power": 5550000
+        },
+        "23": {
+            "id": 5,
+            "level": 23,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 8700
+                }
+            ],
+            "percent": 156000,
+            "power": 6000000
+        },
+        "24": {
+            "id": 5,
+            "level": 24,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 8800
+                }
+            ],
+            "percent": 168000,
+            "power": 6450000
+        },
+        "25": {
+            "id": 5,
+            "level": 25,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 8900
+                }
+            ],
+            "percent": 180000,
+            "power": 6900000
+        },
+        "26": {
+            "id": 5,
+            "level": 26,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 9000
+                }
+            ],
+            "percent": 192000,
+            "power": 7350000
+        },
+        "27": {
+            "id": 5,
+            "level": 27,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 9100
+                }
+            ],
+            "percent": 204000,
+            "power": 7800000
+        },
+        "28": {
+            "id": 5,
+            "level": 28,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 9200
+                }
+            ],
+            "percent": 216000,
+            "power": 8250000
+        },
+        "29": {
+            "id": 5,
+            "level": 29,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 9300
+                }
+            ],
+            "percent": 228000,
+            "power": 8700000
+        },
+        "30": {
+            "id": 5,
+            "level": 30,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 9400
+                }
+            ],
+            "percent": 240000,
+            "power": 9150000
+        },
+        "31": {
+            "id": 5,
+            "level": 31,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 9500
+                }
+            ],
+            "percent": 258000,
+            "power": 9825000
+        },
+        "32": {
+            "id": 5,
+            "level": 32,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 9600
+                }
+            ],
+            "percent": 276000,
+            "power": 10500000
+        },
+        "33": {
+            "id": 5,
+            "level": 33,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 9700
+                }
+            ],
+            "percent": 294000,
+            "power": 11175000
+        },
+        "34": {
+            "id": 5,
+            "level": 34,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 9800
+                }
+            ],
+            "percent": 312000,
+            "power": 11850000
+        },
+        "35": {
+            "id": 5,
+            "level": 35,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 9900
+                }
+            ],
+            "percent": 330000,
+            "power": 12525000
+        },
+        "36": {
+            "id": 5,
+            "level": 36,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 10000
+                }
+            ],
+            "percent": 348000,
+            "power": 13200000
+        },
+        "37": {
+            "id": 5,
+            "level": 37,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 10100
+                }
+            ],
+            "percent": 366000,
+            "power": 13875000
+        },
+        "38": {
+            "id": 5,
+            "level": 38,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 10200
+                }
+            ],
+            "percent": 384000,
+            "power": 14550000
+        },
+        "39": {
+            "id": 5,
+            "level": 39,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 10300
+                }
+            ],
+            "percent": 402000,
+            "power": 15225000
+        },
+        "40": {
+            "id": 5,
+            "level": 40,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 10400
+                }
+            ],
+            "percent": 420000,
+            "power": 15900000
+        },
+        "41": {
+            "id": 5,
+            "level": 41,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 10500
+                }
+            ],
+            "percent": 444000,
+            "power": 16800000
+        },
+        "42": {
+            "id": 5,
+            "level": 42,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 10600
+                }
+            ],
+            "percent": 468000,
+            "power": 17700000
+        },
+        "43": {
+            "id": 5,
+            "level": 43,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 10700
+                }
+            ],
+            "percent": 492000,
+            "power": 18600000
+        },
+        "44": {
+            "id": 5,
+            "level": 44,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 10800
+                }
+            ],
+            "percent": 516000,
+            "power": 19500000
+        },
+        "45": {
+            "id": 5,
+            "level": 45,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 10900
+                }
+            ],
+            "percent": 540000,
+            "power": 20400000
+        },
+        "46": {
+            "id": 5,
+            "level": 46,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 11000
+                }
+            ],
+            "percent": 564000,
+            "power": 21300000
+        },
+        "47": {
+            "id": 5,
+            "level": 47,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 11100
+                }
+            ],
+            "percent": 588000,
+            "power": 22200000
+        },
+        "48": {
+            "id": 5,
+            "level": 48,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 11200
+                }
+            ],
+            "percent": 612000,
+            "power": 23100000
+        },
+        "49": {
+            "id": 5,
+            "level": 49,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 11300
+                }
+            ],
+            "percent": 636000,
+            "power": 24000000
+        },
+        "50": {
+            "id": 5,
+            "level": 50,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 11400
+                }
+            ],
+            "percent": 660000,
+            "power": 24900000
+        },
+        "51": {
+            "id": 5,
+            "level": 51,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 11500
+                }
+            ],
+            "percent": 690000,
+            "power": 26025000
+        },
+        "52": {
+            "id": 5,
+            "level": 52,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 11600
+                }
+            ],
+            "percent": 720000,
+            "power": 27150000
+        },
+        "53": {
+            "id": 5,
+            "level": 53,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 11700
+                }
+            ],
+            "percent": 750000,
+            "power": 28275000
+        },
+        "54": {
+            "id": 5,
+            "level": 54,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 11800
+                }
+            ],
+            "percent": 780000,
+            "power": 29400000
+        },
+        "55": {
+            "id": 5,
+            "level": 55,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 11900
+                }
+            ],
+            "percent": 810000,
+            "power": 30525000
+        },
+        "56": {
+            "id": 5,
+            "level": 56,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 12000
+                }
+            ],
+            "percent": 840000,
+            "power": 31650000
+        },
+        "57": {
+            "id": 5,
+            "level": 57,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 12100
+                }
+            ],
+            "percent": 870000,
+            "power": 32775000
+        },
+        "58": {
+            "id": 5,
+            "level": 58,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 12200
+                }
+            ],
+            "percent": 900000,
+            "power": 33900000
+        },
+        "59": {
+            "id": 5,
+            "level": 59,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 12300
+                }
+            ],
+            "percent": 930000,
+            "power": 35025000
+        },
+        "60": {
+            "id": 5,
+            "level": 60,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321008,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 63,
+                    "value": 12400
+                }
+            ],
+            "percent": 960000,
+            "power": 36150000
+        }
+    },
+    "6": {
+        "0": {
+            "id": 6,
+            "level": 0,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 0
+                }
+            ],
+            "percent": 0,
+            "power": 0
+        },
+        "1": {
+            "id": 6,
+            "level": 1,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 75000
+                }
+            ],
+            "percent": 6000,
+            "power": 0
+        },
+        "2": {
+            "id": 6,
+            "level": 2,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 120000
+                }
+            ],
+            "percent": 12000,
+            "power": 0
+        },
+        "3": {
+            "id": 6,
+            "level": 3,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 165000
+                }
+            ],
+            "percent": 18000,
+            "power": 0
+        },
+        "4": {
+            "id": 6,
+            "level": 4,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 210000
+                }
+            ],
+            "percent": 24000,
+            "power": 0
+        },
+        "5": {
+            "id": 6,
+            "level": 5,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 255000
+                }
+            ],
+            "percent": 30000,
+            "power": 0
+        },
+        "6": {
+            "id": 6,
+            "level": 6,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 300000
+                }
+            ],
+            "percent": 36000,
+            "power": 0
+        },
+        "7": {
+            "id": 6,
+            "level": 7,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 345000
+                }
+            ],
+            "percent": 42000,
+            "power": 0
+        },
+        "8": {
+            "id": 6,
+            "level": 8,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 390000
+                }
+            ],
+            "percent": 48000,
+            "power": 0
+        },
+        "9": {
+            "id": 6,
+            "level": 9,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 435000
+                }
+            ],
+            "percent": 54000,
+            "power": 0
+        },
+        "10": {
+            "id": 6,
+            "level": 10,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 480000
+                }
+            ],
+            "percent": 60000,
+            "power": 0
+        },
+        "11": {
+            "id": 6,
+            "level": 11,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 525000
+                }
+            ],
+            "percent": 66000,
+            "power": 0
+        },
+        "12": {
+            "id": 6,
+            "level": 12,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 570000
+                }
+            ],
+            "percent": 72000,
+            "power": 0
+        },
+        "13": {
+            "id": 6,
+            "level": 13,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 615000
+                }
+            ],
+            "percent": 78000,
+            "power": 0
+        },
+        "14": {
+            "id": 6,
+            "level": 14,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 660000
+                }
+            ],
+            "percent": 84000,
+            "power": 0
+        },
+        "15": {
+            "id": 6,
+            "level": 15,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 705000
+                }
+            ],
+            "percent": 90000,
+            "power": 0
+        },
+        "16": {
+            "id": 6,
+            "level": 16,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 750000
+                }
+            ],
+            "percent": 96000,
+            "power": 0
+        },
+        "17": {
+            "id": 6,
+            "level": 17,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 795000
+                }
+            ],
+            "percent": 102000,
+            "power": 0
+        },
+        "18": {
+            "id": 6,
+            "level": 18,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 840000
+                }
+            ],
+            "percent": 108000,
+            "power": 0
+        },
+        "19": {
+            "id": 6,
+            "level": 19,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 1
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 885000
+                }
+            ],
+            "percent": 114000,
+            "power": 0
+        },
+        "20": {
+            "id": 6,
+            "level": 20,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 930000
+                }
+            ],
+            "percent": 120000,
+            "power": 0
+        },
+        "21": {
+            "id": 6,
+            "level": 21,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 1020000
+                }
+            ],
+            "percent": 132000,
+            "power": 0
+        },
+        "22": {
+            "id": 6,
+            "level": 22,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 1110000
+                }
+            ],
+            "percent": 144000,
+            "power": 0
+        },
+        "23": {
+            "id": 6,
+            "level": 23,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 1200000
+                }
+            ],
+            "percent": 156000,
+            "power": 0
+        },
+        "24": {
+            "id": 6,
+            "level": 24,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 1290000
+                }
+            ],
+            "percent": 168000,
+            "power": 0
+        },
+        "25": {
+            "id": 6,
+            "level": 25,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 1380000
+                }
+            ],
+            "percent": 180000,
+            "power": 0
+        },
+        "26": {
+            "id": 6,
+            "level": 26,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 1470000
+                }
+            ],
+            "percent": 192000,
+            "power": 0
+        },
+        "27": {
+            "id": 6,
+            "level": 27,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 1560000
+                }
+            ],
+            "percent": 204000,
+            "power": 0
+        },
+        "28": {
+            "id": 6,
+            "level": 28,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 1650000
+                }
+            ],
+            "percent": 216000,
+            "power": 0
+        },
+        "29": {
+            "id": 6,
+            "level": 29,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 2
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 1740000
+                }
+            ],
+            "percent": 228000,
+            "power": 0
+        },
+        "30": {
+            "id": 6,
+            "level": 30,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 1830000
+                }
+            ],
+            "percent": 240000,
+            "power": 0
+        },
+        "31": {
+            "id": 6,
+            "level": 31,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 1965000
+                }
+            ],
+            "percent": 258000,
+            "power": 0
+        },
+        "32": {
+            "id": 6,
+            "level": 32,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 2100000
+                }
+            ],
+            "percent": 276000,
+            "power": 0
+        },
+        "33": {
+            "id": 6,
+            "level": 33,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 2235000
+                }
+            ],
+            "percent": 294000,
+            "power": 0
+        },
+        "34": {
+            "id": 6,
+            "level": 34,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 2370000
+                }
+            ],
+            "percent": 312000,
+            "power": 0
+        },
+        "35": {
+            "id": 6,
+            "level": 35,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 2505000
+                }
+            ],
+            "percent": 330000,
+            "power": 0
+        },
+        "36": {
+            "id": 6,
+            "level": 36,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 2640000
+                }
+            ],
+            "percent": 348000,
+            "power": 0
+        },
+        "37": {
+            "id": 6,
+            "level": 37,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 2775000
+                }
+            ],
+            "percent": 366000,
+            "power": 0
+        },
+        "38": {
+            "id": 6,
+            "level": 38,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 2910000
+                }
+            ],
+            "percent": 384000,
+            "power": 0
+        },
+        "39": {
+            "id": 6,
+            "level": 39,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 3045000
+                }
+            ],
+            "percent": 402000,
+            "power": 0
+        },
+        "40": {
+            "id": 6,
+            "level": 40,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 3
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 3180000
+                }
+            ],
+            "percent": 420000,
+            "power": 0
+        },
+        "41": {
+            "id": 6,
+            "level": 41,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 3315000
+                }
+            ],
+            "percent": 444000,
+            "power": 0
+        },
+        "42": {
+            "id": 6,
+            "level": 42,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 3450000
+                }
+            ],
+            "percent": 468000,
+            "power": 0
+        },
+        "43": {
+            "id": 6,
+            "level": 43,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 3585000
+                }
+            ],
+            "percent": 492000,
+            "power": 0
+        },
+        "44": {
+            "id": 6,
+            "level": 44,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 3720000
+                }
+            ],
+            "percent": 516000,
+            "power": 0
+        },
+        "45": {
+            "id": 6,
+            "level": 45,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 3855000
+                }
+            ],
+            "percent": 540000,
+            "power": 0
+        },
+        "46": {
+            "id": 6,
+            "level": 46,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 3990000
+                }
+            ],
+            "percent": 564000,
+            "power": 0
+        },
+        "47": {
+            "id": 6,
+            "level": 47,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 4125000
+                }
+            ],
+            "percent": 588000,
+            "power": 0
+        },
+        "48": {
+            "id": 6,
+            "level": 48,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 4260000
+                }
+            ],
+            "percent": 612000,
+            "power": 0
+        },
+        "49": {
+            "id": 6,
+            "level": 49,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 4395000
+                }
+            ],
+            "percent": 636000,
+            "power": 0
+        },
+        "50": {
+            "id": 6,
+            "level": 50,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 4
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 4530000
+                }
+            ],
+            "percent": 660000,
+            "power": 0
+        },
+        "51": {
+            "id": 6,
+            "level": 51,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 4665000
+                }
+            ],
+            "percent": 690000,
+            "power": 0
+        },
+        "52": {
+            "id": 6,
+            "level": 52,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 4800000
+                }
+            ],
+            "percent": 720000,
+            "power": 0
+        },
+        "53": {
+            "id": 6,
+            "level": 53,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 4935000
+                }
+            ],
+            "percent": 750000,
+            "power": 0
+        },
+        "54": {
+            "id": 6,
+            "level": 54,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 5070000
+                }
+            ],
+            "percent": 780000,
+            "power": 0
+        },
+        "55": {
+            "id": 6,
+            "level": 55,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 5205000
+                }
+            ],
+            "percent": 810000,
+            "power": 0
+        },
+        "56": {
+            "id": 6,
+            "level": 56,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 5340000
+                }
+            ],
+            "percent": 840000,
+            "power": 0
+        },
+        "57": {
+            "id": 6,
+            "level": 57,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 5475000
+                }
+            ],
+            "percent": 870000,
+            "power": 0
+        },
+        "58": {
+            "id": 6,
+            "level": 58,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 5610000
+                }
+            ],
+            "percent": 900000,
+            "power": 0
+        },
+        "59": {
+            "id": 6,
+            "level": 59,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 5745000
+                }
+            ],
+            "percent": 930000,
+            "power": 0
+        },
+        "60": {
+            "id": 6,
+            "level": 60,
+            "items": [
+                {
+                    "type": 1,
+                    "id": 321009,
+                    "count": 5
+                }
+            ],
+            "attr": [
+                {
+                    "type": 26,
+                    "value": 5880000
+                }
+            ],
+            "percent": 960000,
+            "power": 0
+        }
+    }
+}

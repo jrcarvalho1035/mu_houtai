@@ -1,0 +1,4342 @@
+{
+    "1": {
+        "2": {
+            "1": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 50000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 150000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 300000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 500000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 750000
+                    }
+                ],
+                "power": 0
+            },
+            "6": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 1050000
+                    }
+                ],
+                "power": 0
+            },
+            "7": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 1400000
+                    }
+                ],
+                "power": 0
+            },
+            "8": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 1800000
+                    }
+                ],
+                "power": 0
+            },
+            "9": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 2250000
+                    }
+                ],
+                "power": 0
+            },
+            "10": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 2750000
+                    }
+                ],
+                "power": 0
+            },
+            "11": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 3300000
+                    }
+                ],
+                "power": 0
+            },
+            "12": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 3900000
+                    }
+                ],
+                "power": 0
+            },
+            "13": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 4550000
+                    }
+                ],
+                "power": 0
+            },
+            "14": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 5250000
+                    }
+                ],
+                "power": 0
+            },
+            "15": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 6000000
+                    }
+                ],
+                "power": 0
+            },
+            "16": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 6800000
+                    }
+                ],
+                "power": 0
+            },
+            "17": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 7650000
+                    }
+                ],
+                "power": 0
+            },
+            "18": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 8550000
+                    }
+                ],
+                "power": 0
+            },
+            "19": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 9500000
+                    }
+                ],
+                "power": 0
+            },
+            "20": {
+                "id": 1,
+                "needCount": 2,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 103,
+                        "value": 10500000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "4": {
+            "1": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 80000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 240000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 480000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 800000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 1200000
+                    }
+                ],
+                "power": 0
+            },
+            "6": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 1680000
+                    }
+                ],
+                "power": 0
+            },
+            "7": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 2240000
+                    }
+                ],
+                "power": 0
+            },
+            "8": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 2880000
+                    }
+                ],
+                "power": 0
+            },
+            "9": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 3600000
+                    }
+                ],
+                "power": 0
+            },
+            "10": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 4400000
+                    }
+                ],
+                "power": 0
+            },
+            "11": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 5280000
+                    }
+                ],
+                "power": 0
+            },
+            "12": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 6240000
+                    }
+                ],
+                "power": 0
+            },
+            "13": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 7280000
+                    }
+                ],
+                "power": 0
+            },
+            "14": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 8400000
+                    }
+                ],
+                "power": 0
+            },
+            "15": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 9600000
+                    }
+                ],
+                "power": 0
+            },
+            "16": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 10880000
+                    }
+                ],
+                "power": 0
+            },
+            "17": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 12240000
+                    }
+                ],
+                "power": 0
+            },
+            "18": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 13680000
+                    }
+                ],
+                "power": 0
+            },
+            "19": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 15200000
+                    }
+                ],
+                "power": 0
+            },
+            "20": {
+                "id": 1,
+                "needCount": 4,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 108,
+                        "value": 16800000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "5": {
+            "1": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 100
+                    },
+                    {
+                        "type": 118,
+                        "value": 100
+                    }
+                ],
+                "power": 480000
+            },
+            "2": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 200
+                    },
+                    {
+                        "type": 118,
+                        "value": 200
+                    }
+                ],
+                "power": 1440000
+            },
+            "3": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 300
+                    },
+                    {
+                        "type": 118,
+                        "value": 300
+                    }
+                ],
+                "power": 2880000
+            },
+            "4": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 400
+                    },
+                    {
+                        "type": 118,
+                        "value": 400
+                    }
+                ],
+                "power": 4800000
+            },
+            "5": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 500
+                    },
+                    {
+                        "type": 118,
+                        "value": 500
+                    }
+                ],
+                "power": 7200000
+            },
+            "6": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 600
+                    },
+                    {
+                        "type": 118,
+                        "value": 600
+                    }
+                ],
+                "power": 10080000
+            },
+            "7": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 700
+                    },
+                    {
+                        "type": 118,
+                        "value": 700
+                    }
+                ],
+                "power": 13440000
+            },
+            "8": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 800
+                    },
+                    {
+                        "type": 118,
+                        "value": 800
+                    }
+                ],
+                "power": 17280000
+            },
+            "9": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 900
+                    },
+                    {
+                        "type": 118,
+                        "value": 900
+                    }
+                ],
+                "power": 21600000
+            },
+            "10": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 1000
+                    },
+                    {
+                        "type": 118,
+                        "value": 1000
+                    }
+                ],
+                "power": 26400000
+            },
+            "11": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 1100
+                    },
+                    {
+                        "type": 118,
+                        "value": 1100
+                    }
+                ],
+                "power": 31680000
+            },
+            "12": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 1200
+                    },
+                    {
+                        "type": 118,
+                        "value": 1200
+                    }
+                ],
+                "power": 37440000
+            },
+            "13": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 1300
+                    },
+                    {
+                        "type": 118,
+                        "value": 1300
+                    }
+                ],
+                "power": 43680000
+            },
+            "14": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 1400
+                    },
+                    {
+                        "type": 118,
+                        "value": 1400
+                    }
+                ],
+                "power": 50400000
+            },
+            "15": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 1500
+                    },
+                    {
+                        "type": 118,
+                        "value": 1500
+                    }
+                ],
+                "power": 57600000
+            },
+            "16": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 1600
+                    },
+                    {
+                        "type": 118,
+                        "value": 1600
+                    }
+                ],
+                "power": 65280000
+            },
+            "17": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 1700
+                    },
+                    {
+                        "type": 118,
+                        "value": 1700
+                    }
+                ],
+                "power": 73440000
+            },
+            "18": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 1800
+                    },
+                    {
+                        "type": 118,
+                        "value": 1800
+                    }
+                ],
+                "power": 82080000
+            },
+            "19": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 1900
+                    },
+                    {
+                        "type": 118,
+                        "value": 1900
+                    }
+                ],
+                "power": 91200000
+            },
+            "20": {
+                "id": 1,
+                "needCount": 5,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 113,
+                        "value": 2000
+                    },
+                    {
+                        "type": 118,
+                        "value": 2000
+                    }
+                ],
+                "power": 100800000
+            }
+        }
+    },
+    "2": {
+        "2": {
+            "1": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 50000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 150000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 300000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 500000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 750000
+                    }
+                ],
+                "power": 0
+            },
+            "6": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 1050000
+                    }
+                ],
+                "power": 0
+            },
+            "7": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 1400000
+                    }
+                ],
+                "power": 0
+            },
+            "8": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 1800000
+                    }
+                ],
+                "power": 0
+            },
+            "9": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 2250000
+                    }
+                ],
+                "power": 0
+            },
+            "10": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 2750000
+                    }
+                ],
+                "power": 0
+            },
+            "11": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 3300000
+                    }
+                ],
+                "power": 0
+            },
+            "12": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 3900000
+                    }
+                ],
+                "power": 0
+            },
+            "13": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 4550000
+                    }
+                ],
+                "power": 0
+            },
+            "14": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 5250000
+                    }
+                ],
+                "power": 0
+            },
+            "15": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 6000000
+                    }
+                ],
+                "power": 0
+            },
+            "16": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 6800000
+                    }
+                ],
+                "power": 0
+            },
+            "17": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 7650000
+                    }
+                ],
+                "power": 0
+            },
+            "18": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 8550000
+                    }
+                ],
+                "power": 0
+            },
+            "19": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 9500000
+                    }
+                ],
+                "power": 0
+            },
+            "20": {
+                "id": 2,
+                "needCount": 2,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 104,
+                        "value": 10500000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "4": {
+            "1": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 80000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 240000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 480000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 800000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 1200000
+                    }
+                ],
+                "power": 0
+            },
+            "6": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 1680000
+                    }
+                ],
+                "power": 0
+            },
+            "7": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 2240000
+                    }
+                ],
+                "power": 0
+            },
+            "8": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 2880000
+                    }
+                ],
+                "power": 0
+            },
+            "9": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 3600000
+                    }
+                ],
+                "power": 0
+            },
+            "10": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 4400000
+                    }
+                ],
+                "power": 0
+            },
+            "11": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 5280000
+                    }
+                ],
+                "power": 0
+            },
+            "12": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 6240000
+                    }
+                ],
+                "power": 0
+            },
+            "13": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 7280000
+                    }
+                ],
+                "power": 0
+            },
+            "14": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 8400000
+                    }
+                ],
+                "power": 0
+            },
+            "15": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 9600000
+                    }
+                ],
+                "power": 0
+            },
+            "16": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 10880000
+                    }
+                ],
+                "power": 0
+            },
+            "17": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 12240000
+                    }
+                ],
+                "power": 0
+            },
+            "18": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 13680000
+                    }
+                ],
+                "power": 0
+            },
+            "19": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 15200000
+                    }
+                ],
+                "power": 0
+            },
+            "20": {
+                "id": 2,
+                "needCount": 4,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 109,
+                        "value": 16800000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "5": {
+            "1": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 100
+                    },
+                    {
+                        "type": 119,
+                        "value": 100
+                    }
+                ],
+                "power": 480000
+            },
+            "2": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 200
+                    },
+                    {
+                        "type": 119,
+                        "value": 200
+                    }
+                ],
+                "power": 1440000
+            },
+            "3": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 300
+                    },
+                    {
+                        "type": 119,
+                        "value": 300
+                    }
+                ],
+                "power": 2880000
+            },
+            "4": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 400
+                    },
+                    {
+                        "type": 119,
+                        "value": 400
+                    }
+                ],
+                "power": 4800000
+            },
+            "5": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 500
+                    },
+                    {
+                        "type": 119,
+                        "value": 500
+                    }
+                ],
+                "power": 7200000
+            },
+            "6": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 600
+                    },
+                    {
+                        "type": 119,
+                        "value": 600
+                    }
+                ],
+                "power": 10080000
+            },
+            "7": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 700
+                    },
+                    {
+                        "type": 119,
+                        "value": 700
+                    }
+                ],
+                "power": 13440000
+            },
+            "8": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 800
+                    },
+                    {
+                        "type": 119,
+                        "value": 800
+                    }
+                ],
+                "power": 17280000
+            },
+            "9": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 900
+                    },
+                    {
+                        "type": 119,
+                        "value": 900
+                    }
+                ],
+                "power": 21600000
+            },
+            "10": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 1000
+                    },
+                    {
+                        "type": 119,
+                        "value": 1000
+                    }
+                ],
+                "power": 26400000
+            },
+            "11": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 1100
+                    },
+                    {
+                        "type": 119,
+                        "value": 1100
+                    }
+                ],
+                "power": 31680000
+            },
+            "12": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 1200
+                    },
+                    {
+                        "type": 119,
+                        "value": 1200
+                    }
+                ],
+                "power": 37440000
+            },
+            "13": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 1300
+                    },
+                    {
+                        "type": 119,
+                        "value": 1300
+                    }
+                ],
+                "power": 43680000
+            },
+            "14": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 1400
+                    },
+                    {
+                        "type": 119,
+                        "value": 1400
+                    }
+                ],
+                "power": 50400000
+            },
+            "15": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 1500
+                    },
+                    {
+                        "type": 119,
+                        "value": 1500
+                    }
+                ],
+                "power": 57600000
+            },
+            "16": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 1600
+                    },
+                    {
+                        "type": 119,
+                        "value": 1600
+                    }
+                ],
+                "power": 65280000
+            },
+            "17": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 1700
+                    },
+                    {
+                        "type": 119,
+                        "value": 1700
+                    }
+                ],
+                "power": 73440000
+            },
+            "18": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 1800
+                    },
+                    {
+                        "type": 119,
+                        "value": 1800
+                    }
+                ],
+                "power": 82080000
+            },
+            "19": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 1900
+                    },
+                    {
+                        "type": 119,
+                        "value": 1900
+                    }
+                ],
+                "power": 91200000
+            },
+            "20": {
+                "id": 2,
+                "needCount": 5,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 114,
+                        "value": 2000
+                    },
+                    {
+                        "type": 119,
+                        "value": 2000
+                    }
+                ],
+                "power": 100800000
+            }
+        }
+    },
+    "3": {
+        "2": {
+            "1": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 50000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 150000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 300000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 500000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 750000
+                    }
+                ],
+                "power": 0
+            },
+            "6": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 1050000
+                    }
+                ],
+                "power": 0
+            },
+            "7": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 1400000
+                    }
+                ],
+                "power": 0
+            },
+            "8": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 1800000
+                    }
+                ],
+                "power": 0
+            },
+            "9": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 2250000
+                    }
+                ],
+                "power": 0
+            },
+            "10": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 2750000
+                    }
+                ],
+                "power": 0
+            },
+            "11": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 3300000
+                    }
+                ],
+                "power": 0
+            },
+            "12": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 3900000
+                    }
+                ],
+                "power": 0
+            },
+            "13": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 4550000
+                    }
+                ],
+                "power": 0
+            },
+            "14": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 5250000
+                    }
+                ],
+                "power": 0
+            },
+            "15": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 6000000
+                    }
+                ],
+                "power": 0
+            },
+            "16": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 6800000
+                    }
+                ],
+                "power": 0
+            },
+            "17": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 7650000
+                    }
+                ],
+                "power": 0
+            },
+            "18": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 8550000
+                    }
+                ],
+                "power": 0
+            },
+            "19": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 9500000
+                    }
+                ],
+                "power": 0
+            },
+            "20": {
+                "id": 3,
+                "needCount": 2,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 105,
+                        "value": 10500000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "4": {
+            "1": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 80000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 240000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 480000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 800000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 1200000
+                    }
+                ],
+                "power": 0
+            },
+            "6": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 1680000
+                    }
+                ],
+                "power": 0
+            },
+            "7": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 2240000
+                    }
+                ],
+                "power": 0
+            },
+            "8": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 2880000
+                    }
+                ],
+                "power": 0
+            },
+            "9": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 3600000
+                    }
+                ],
+                "power": 0
+            },
+            "10": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 4400000
+                    }
+                ],
+                "power": 0
+            },
+            "11": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 5280000
+                    }
+                ],
+                "power": 0
+            },
+            "12": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 6240000
+                    }
+                ],
+                "power": 0
+            },
+            "13": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 7280000
+                    }
+                ],
+                "power": 0
+            },
+            "14": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 8400000
+                    }
+                ],
+                "power": 0
+            },
+            "15": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 9600000
+                    }
+                ],
+                "power": 0
+            },
+            "16": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 10880000
+                    }
+                ],
+                "power": 0
+            },
+            "17": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 12240000
+                    }
+                ],
+                "power": 0
+            },
+            "18": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 13680000
+                    }
+                ],
+                "power": 0
+            },
+            "19": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 15200000
+                    }
+                ],
+                "power": 0
+            },
+            "20": {
+                "id": 3,
+                "needCount": 4,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 110,
+                        "value": 16800000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "5": {
+            "1": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 100
+                    },
+                    {
+                        "type": 120,
+                        "value": 100
+                    }
+                ],
+                "power": 480000
+            },
+            "2": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 200
+                    },
+                    {
+                        "type": 120,
+                        "value": 200
+                    }
+                ],
+                "power": 1440000
+            },
+            "3": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 300
+                    },
+                    {
+                        "type": 120,
+                        "value": 300
+                    }
+                ],
+                "power": 2880000
+            },
+            "4": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 400
+                    },
+                    {
+                        "type": 120,
+                        "value": 400
+                    }
+                ],
+                "power": 4800000
+            },
+            "5": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 500
+                    },
+                    {
+                        "type": 120,
+                        "value": 500
+                    }
+                ],
+                "power": 7200000
+            },
+            "6": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 600
+                    },
+                    {
+                        "type": 120,
+                        "value": 600
+                    }
+                ],
+                "power": 10080000
+            },
+            "7": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 700
+                    },
+                    {
+                        "type": 120,
+                        "value": 700
+                    }
+                ],
+                "power": 13440000
+            },
+            "8": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 800
+                    },
+                    {
+                        "type": 120,
+                        "value": 800
+                    }
+                ],
+                "power": 17280000
+            },
+            "9": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 900
+                    },
+                    {
+                        "type": 120,
+                        "value": 900
+                    }
+                ],
+                "power": 21600000
+            },
+            "10": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 1000
+                    },
+                    {
+                        "type": 120,
+                        "value": 1000
+                    }
+                ],
+                "power": 26400000
+            },
+            "11": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 1100
+                    },
+                    {
+                        "type": 120,
+                        "value": 1100
+                    }
+                ],
+                "power": 31680000
+            },
+            "12": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 1200
+                    },
+                    {
+                        "type": 120,
+                        "value": 1200
+                    }
+                ],
+                "power": 37440000
+            },
+            "13": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 1300
+                    },
+                    {
+                        "type": 120,
+                        "value": 1300
+                    }
+                ],
+                "power": 43680000
+            },
+            "14": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 1400
+                    },
+                    {
+                        "type": 120,
+                        "value": 1400
+                    }
+                ],
+                "power": 50400000
+            },
+            "15": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 1500
+                    },
+                    {
+                        "type": 120,
+                        "value": 1500
+                    }
+                ],
+                "power": 57600000
+            },
+            "16": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 1600
+                    },
+                    {
+                        "type": 120,
+                        "value": 1600
+                    }
+                ],
+                "power": 65280000
+            },
+            "17": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 1700
+                    },
+                    {
+                        "type": 120,
+                        "value": 1700
+                    }
+                ],
+                "power": 73440000
+            },
+            "18": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 1800
+                    },
+                    {
+                        "type": 120,
+                        "value": 1800
+                    }
+                ],
+                "power": 82080000
+            },
+            "19": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 1900
+                    },
+                    {
+                        "type": 120,
+                        "value": 1900
+                    }
+                ],
+                "power": 91200000
+            },
+            "20": {
+                "id": 3,
+                "needCount": 5,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 115,
+                        "value": 2000
+                    },
+                    {
+                        "type": 120,
+                        "value": 2000
+                    }
+                ],
+                "power": 100800000
+            }
+        }
+    },
+    "4": {
+        "2": {
+            "1": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 50000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 150000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 300000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 500000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 750000
+                    }
+                ],
+                "power": 0
+            },
+            "6": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 1050000
+                    }
+                ],
+                "power": 0
+            },
+            "7": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 1400000
+                    }
+                ],
+                "power": 0
+            },
+            "8": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 1800000
+                    }
+                ],
+                "power": 0
+            },
+            "9": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 2250000
+                    }
+                ],
+                "power": 0
+            },
+            "10": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 2750000
+                    }
+                ],
+                "power": 0
+            },
+            "11": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 3300000
+                    }
+                ],
+                "power": 0
+            },
+            "12": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 3900000
+                    }
+                ],
+                "power": 0
+            },
+            "13": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 4550000
+                    }
+                ],
+                "power": 0
+            },
+            "14": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 5250000
+                    }
+                ],
+                "power": 0
+            },
+            "15": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 6000000
+                    }
+                ],
+                "power": 0
+            },
+            "16": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 6800000
+                    }
+                ],
+                "power": 0
+            },
+            "17": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 7650000
+                    }
+                ],
+                "power": 0
+            },
+            "18": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 8550000
+                    }
+                ],
+                "power": 0
+            },
+            "19": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 9500000
+                    }
+                ],
+                "power": 0
+            },
+            "20": {
+                "id": 4,
+                "needCount": 2,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 106,
+                        "value": 10500000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "4": {
+            "1": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 80000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 240000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 480000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 800000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 1200000
+                    }
+                ],
+                "power": 0
+            },
+            "6": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 1680000
+                    }
+                ],
+                "power": 0
+            },
+            "7": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 2240000
+                    }
+                ],
+                "power": 0
+            },
+            "8": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 2880000
+                    }
+                ],
+                "power": 0
+            },
+            "9": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 3600000
+                    }
+                ],
+                "power": 0
+            },
+            "10": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 4400000
+                    }
+                ],
+                "power": 0
+            },
+            "11": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 5280000
+                    }
+                ],
+                "power": 0
+            },
+            "12": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 6240000
+                    }
+                ],
+                "power": 0
+            },
+            "13": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 7280000
+                    }
+                ],
+                "power": 0
+            },
+            "14": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 8400000
+                    }
+                ],
+                "power": 0
+            },
+            "15": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 9600000
+                    }
+                ],
+                "power": 0
+            },
+            "16": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 10880000
+                    }
+                ],
+                "power": 0
+            },
+            "17": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 12240000
+                    }
+                ],
+                "power": 0
+            },
+            "18": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 13680000
+                    }
+                ],
+                "power": 0
+            },
+            "19": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 15200000
+                    }
+                ],
+                "power": 0
+            },
+            "20": {
+                "id": 4,
+                "needCount": 4,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 111,
+                        "value": 16800000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "5": {
+            "1": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 100
+                    },
+                    {
+                        "type": 121,
+                        "value": 100
+                    }
+                ],
+                "power": 480000
+            },
+            "2": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 200
+                    },
+                    {
+                        "type": 121,
+                        "value": 200
+                    }
+                ],
+                "power": 1440000
+            },
+            "3": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 300
+                    },
+                    {
+                        "type": 121,
+                        "value": 300
+                    }
+                ],
+                "power": 2880000
+            },
+            "4": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 400
+                    },
+                    {
+                        "type": 121,
+                        "value": 400
+                    }
+                ],
+                "power": 4800000
+            },
+            "5": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 500
+                    },
+                    {
+                        "type": 121,
+                        "value": 500
+                    }
+                ],
+                "power": 7200000
+            },
+            "6": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 600
+                    },
+                    {
+                        "type": 121,
+                        "value": 600
+                    }
+                ],
+                "power": 10080000
+            },
+            "7": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 700
+                    },
+                    {
+                        "type": 121,
+                        "value": 700
+                    }
+                ],
+                "power": 13440000
+            },
+            "8": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 800
+                    },
+                    {
+                        "type": 121,
+                        "value": 800
+                    }
+                ],
+                "power": 17280000
+            },
+            "9": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 900
+                    },
+                    {
+                        "type": 121,
+                        "value": 900
+                    }
+                ],
+                "power": 21600000
+            },
+            "10": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 1000
+                    },
+                    {
+                        "type": 121,
+                        "value": 1000
+                    }
+                ],
+                "power": 26400000
+            },
+            "11": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 1100
+                    },
+                    {
+                        "type": 121,
+                        "value": 1100
+                    }
+                ],
+                "power": 31680000
+            },
+            "12": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 1200
+                    },
+                    {
+                        "type": 121,
+                        "value": 1200
+                    }
+                ],
+                "power": 37440000
+            },
+            "13": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 1300
+                    },
+                    {
+                        "type": 121,
+                        "value": 1300
+                    }
+                ],
+                "power": 43680000
+            },
+            "14": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 1400
+                    },
+                    {
+                        "type": 121,
+                        "value": 1400
+                    }
+                ],
+                "power": 50400000
+            },
+            "15": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 1500
+                    },
+                    {
+                        "type": 121,
+                        "value": 1500
+                    }
+                ],
+                "power": 57600000
+            },
+            "16": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 1600
+                    },
+                    {
+                        "type": 121,
+                        "value": 1600
+                    }
+                ],
+                "power": 65280000
+            },
+            "17": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 1700
+                    },
+                    {
+                        "type": 121,
+                        "value": 1700
+                    }
+                ],
+                "power": 73440000
+            },
+            "18": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 1800
+                    },
+                    {
+                        "type": 121,
+                        "value": 1800
+                    }
+                ],
+                "power": 82080000
+            },
+            "19": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 1900
+                    },
+                    {
+                        "type": 121,
+                        "value": 1900
+                    }
+                ],
+                "power": 91200000
+            },
+            "20": {
+                "id": 4,
+                "needCount": 5,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 116,
+                        "value": 2000
+                    },
+                    {
+                        "type": 121,
+                        "value": 2000
+                    }
+                ],
+                "power": 100800000
+            }
+        }
+    },
+    "5": {
+        "2": {
+            "1": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 50000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 150000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 300000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 500000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 750000
+                    }
+                ],
+                "power": 0
+            },
+            "6": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 1050000
+                    }
+                ],
+                "power": 0
+            },
+            "7": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 1400000
+                    }
+                ],
+                "power": 0
+            },
+            "8": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 1800000
+                    }
+                ],
+                "power": 0
+            },
+            "9": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 2250000
+                    }
+                ],
+                "power": 0
+            },
+            "10": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 2750000
+                    }
+                ],
+                "power": 0
+            },
+            "11": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 3300000
+                    }
+                ],
+                "power": 0
+            },
+            "12": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 3900000
+                    }
+                ],
+                "power": 0
+            },
+            "13": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 4550000
+                    }
+                ],
+                "power": 0
+            },
+            "14": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 5250000
+                    }
+                ],
+                "power": 0
+            },
+            "15": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 6000000
+                    }
+                ],
+                "power": 0
+            },
+            "16": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 6800000
+                    }
+                ],
+                "power": 0
+            },
+            "17": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 7650000
+                    }
+                ],
+                "power": 0
+            },
+            "18": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 8550000
+                    }
+                ],
+                "power": 0
+            },
+            "19": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 9500000
+                    }
+                ],
+                "power": 0
+            },
+            "20": {
+                "id": 5,
+                "needCount": 2,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 107,
+                        "value": 10500000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "4": {
+            "1": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 80000
+                    }
+                ],
+                "power": 0
+            },
+            "2": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 240000
+                    }
+                ],
+                "power": 0
+            },
+            "3": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 480000
+                    }
+                ],
+                "power": 0
+            },
+            "4": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 800000
+                    }
+                ],
+                "power": 0
+            },
+            "5": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 1200000
+                    }
+                ],
+                "power": 0
+            },
+            "6": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 1680000
+                    }
+                ],
+                "power": 0
+            },
+            "7": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 2240000
+                    }
+                ],
+                "power": 0
+            },
+            "8": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 2880000
+                    }
+                ],
+                "power": 0
+            },
+            "9": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 3600000
+                    }
+                ],
+                "power": 0
+            },
+            "10": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 4400000
+                    }
+                ],
+                "power": 0
+            },
+            "11": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 5280000
+                    }
+                ],
+                "power": 0
+            },
+            "12": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 6240000
+                    }
+                ],
+                "power": 0
+            },
+            "13": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 7280000
+                    }
+                ],
+                "power": 0
+            },
+            "14": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 8400000
+                    }
+                ],
+                "power": 0
+            },
+            "15": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 9600000
+                    }
+                ],
+                "power": 0
+            },
+            "16": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 10880000
+                    }
+                ],
+                "power": 0
+            },
+            "17": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 12240000
+                    }
+                ],
+                "power": 0
+            },
+            "18": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 13680000
+                    }
+                ],
+                "power": 0
+            },
+            "19": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 15200000
+                    }
+                ],
+                "power": 0
+            },
+            "20": {
+                "id": 5,
+                "needCount": 4,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 112,
+                        "value": 16800000
+                    }
+                ],
+                "power": 0
+            }
+        },
+        "5": {
+            "1": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 1,
+                "level": 1,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 100
+                    },
+                    {
+                        "type": 122,
+                        "value": 100
+                    }
+                ],
+                "power": 480000
+            },
+            "2": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 2,
+                "level": 2,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 200
+                    },
+                    {
+                        "type": 122,
+                        "value": 200
+                    }
+                ],
+                "power": 1440000
+            },
+            "3": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 3,
+                "level": 3,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 300
+                    },
+                    {
+                        "type": 122,
+                        "value": 300
+                    }
+                ],
+                "power": 2880000
+            },
+            "4": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 4,
+                "level": 4,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 400
+                    },
+                    {
+                        "type": 122,
+                        "value": 400
+                    }
+                ],
+                "power": 4800000
+            },
+            "5": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 5,
+                "level": 5,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 500
+                    },
+                    {
+                        "type": 122,
+                        "value": 500
+                    }
+                ],
+                "power": 7200000
+            },
+            "6": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 6,
+                "level": 6,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 600
+                    },
+                    {
+                        "type": 122,
+                        "value": 600
+                    }
+                ],
+                "power": 10080000
+            },
+            "7": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 7,
+                "level": 7,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 700
+                    },
+                    {
+                        "type": 122,
+                        "value": 700
+                    }
+                ],
+                "power": 13440000
+            },
+            "8": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 8,
+                "level": 8,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 800
+                    },
+                    {
+                        "type": 122,
+                        "value": 800
+                    }
+                ],
+                "power": 17280000
+            },
+            "9": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 9,
+                "level": 9,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 900
+                    },
+                    {
+                        "type": 122,
+                        "value": 900
+                    }
+                ],
+                "power": 21600000
+            },
+            "10": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 10,
+                "level": 10,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 1000
+                    },
+                    {
+                        "type": 122,
+                        "value": 1000
+                    }
+                ],
+                "power": 26400000
+            },
+            "11": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 11,
+                "level": 11,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 1100
+                    },
+                    {
+                        "type": 122,
+                        "value": 1100
+                    }
+                ],
+                "power": 31680000
+            },
+            "12": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 12,
+                "level": 12,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 1200
+                    },
+                    {
+                        "type": 122,
+                        "value": 1200
+                    }
+                ],
+                "power": 37440000
+            },
+            "13": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 13,
+                "level": 13,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 1300
+                    },
+                    {
+                        "type": 122,
+                        "value": 1300
+                    }
+                ],
+                "power": 43680000
+            },
+            "14": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 14,
+                "level": 14,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 1400
+                    },
+                    {
+                        "type": 122,
+                        "value": 1400
+                    }
+                ],
+                "power": 50400000
+            },
+            "15": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 15,
+                "level": 15,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 1500
+                    },
+                    {
+                        "type": 122,
+                        "value": 1500
+                    }
+                ],
+                "power": 57600000
+            },
+            "16": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 16,
+                "level": 16,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 1600
+                    },
+                    {
+                        "type": 122,
+                        "value": 1600
+                    }
+                ],
+                "power": 65280000
+            },
+            "17": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 17,
+                "level": 17,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 1700
+                    },
+                    {
+                        "type": 122,
+                        "value": 1700
+                    }
+                ],
+                "power": 73440000
+            },
+            "18": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 18,
+                "level": 18,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 1800
+                    },
+                    {
+                        "type": 122,
+                        "value": 1800
+                    }
+                ],
+                "power": 82080000
+            },
+            "19": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 19,
+                "level": 19,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 1900
+                    },
+                    {
+                        "type": 122,
+                        "value": 1900
+                    }
+                ],
+                "power": 91200000
+            },
+            "20": {
+                "id": 5,
+                "needCount": 5,
+                "needlevel": 20,
+                "level": 20,
+                "attrs": [
+                    {
+                        "type": 117,
+                        "value": 2000
+                    },
+                    {
+                        "type": 122,
+                        "value": 2000
+                    }
+                ],
+                "power": 100800000
+            }
+        }
+    }
+}

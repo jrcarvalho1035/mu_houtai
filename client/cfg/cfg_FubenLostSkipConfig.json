@@ -1,0 +1,41 @@
+{
+    "1": {
+        "id": 1,
+        "icon": "boss",
+        "controlTarget": [
+            5,
+            3,
+            0,
+            0
+        ]
+    },
+    "2": {
+        "id": 2,
+        "icon": "hunji",
+        "controlTarget": [
+            5,
+            4,
+            0,
+            0
+        ]
+    },
+    "3": {
+        "id": 3,
+        "icon": "baoshi",
+        "controlTarget": [
+            1,
+            5,
+            1
+        ]
+    },
+    "4": {
+        "id": 4,
+        "icon": "yongbing",
+        "controlTarget": [
+            5,
+            3,
+            1,
+            0
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "1": {
+        "id": 1,
+        "min": 1,
+        "max": 1,
+        "needScore": 150,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652000,
+                "count": 5
+            },
+            {
+                "type": 1,
+                "id": 220007,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 10
+            }
+        ]
+    },
+    "2": {
+        "id": 2,
+        "min": 2,
+        "max": 2,
+        "needScore": 130,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652000,
+                "count": 4
+            },
+            {
+                "type": 1,
+                "id": 220006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 9
+            }
+        ]
+    },
+    "3": {
+        "id": 3,
+        "min": 3,
+        "max": 3,
+        "needScore": 110,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652000,
+                "count": 3
+            },
+            {
+                "type": 1,
+                "id": 220006,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 9
+            }
+        ]
+    },
+    "4": {
+        "id": 4,
+        "min": 4,
+        "max": 5,
+        "needScore": 90,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652000,
+                "count": 2
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 8
+            }
+        ]
+    },
+    "5": {
+        "id": 5,
+        "min": 6,
+        "max": 10,
+        "needScore": 70,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652000,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220005,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 6
+            }
+        ]
+    },
+    "6": {
+        "id": 6,
+        "min": 11,
+        "max": 20,
+        "needScore": 50,
+        "rewards": [
+            {
+                "type": 1,
+                "id": 652000,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 220004,
+                "count": 1
+            },
+            {
+                "type": 1,
+                "id": 310014,
+                "count": 5
+            }
+        ]
+    }
+}

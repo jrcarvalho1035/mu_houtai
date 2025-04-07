@@ -1,0 +1,728 @@
+{
+    "0": {
+        "stage": 0,
+        "atkper": 0,
+        "hpper": 0,
+        "needstar": 36
+    },
+    "1": {
+        "stage": 1,
+        "atkper": 500,
+        "hpper": 500,
+        "needstar": 81
+    },
+    "2": {
+        "stage": 2,
+        "atkper": 1000,
+        "hpper": 1000,
+        "needstar": 126
+    },
+    "3": {
+        "stage": 3,
+        "atkper": 1500,
+        "hpper": 1500,
+        "needstar": 171
+    },
+    "4": {
+        "stage": 4,
+        "atkper": 2000,
+        "hpper": 2000,
+        "needstar": 216
+    },
+    "5": {
+        "stage": 5,
+        "atkper": 2500,
+        "hpper": 2500,
+        "needstar": 261
+    },
+    "6": {
+        "stage": 6,
+        "atkper": 3000,
+        "hpper": 3000,
+        "needstar": 306
+    },
+    "7": {
+        "stage": 7,
+        "atkper": 3500,
+        "hpper": 3500,
+        "needstar": 351
+    },
+    "8": {
+        "stage": 8,
+        "atkper": 4000,
+        "hpper": 4000,
+        "needstar": 396
+    },
+    "9": {
+        "stage": 9,
+        "atkper": 4500,
+        "hpper": 4500,
+        "needstar": 441
+    },
+    "10": {
+        "stage": 10,
+        "atkper": 5000,
+        "hpper": 5000,
+        "needstar": 486
+    },
+    "11": {
+        "stage": 11,
+        "atkper": 5300,
+        "hpper": 5300,
+        "needstar": 531
+    },
+    "12": {
+        "stage": 12,
+        "atkper": 5600,
+        "hpper": 5600,
+        "needstar": 576
+    },
+    "13": {
+        "stage": 13,
+        "atkper": 5900,
+        "hpper": 5900,
+        "needstar": 621
+    },
+    "14": {
+        "stage": 14,
+        "atkper": 6200,
+        "hpper": 6200,
+        "needstar": 666
+    },
+    "15": {
+        "stage": 15,
+        "atkper": 6500,
+        "hpper": 6500,
+        "needstar": 711
+    },
+    "16": {
+        "stage": 16,
+        "atkper": 6800,
+        "hpper": 6800,
+        "needstar": 756
+    },
+    "17": {
+        "stage": 17,
+        "atkper": 7100,
+        "hpper": 7100,
+        "needstar": 801
+    },
+    "18": {
+        "stage": 18,
+        "atkper": 7400,
+        "hpper": 7400,
+        "needstar": 846
+    },
+    "19": {
+        "stage": 19,
+        "atkper": 7700,
+        "hpper": 7700,
+        "needstar": 891
+    },
+    "20": {
+        "stage": 20,
+        "atkper": 8000,
+        "hpper": 8000,
+        "needstar": 936
+    },
+    "21": {
+        "stage": 21,
+        "atkper": 8300,
+        "hpper": 8300,
+        "needstar": 981
+    },
+    "22": {
+        "stage": 22,
+        "atkper": 8600,
+        "hpper": 8600,
+        "needstar": 1026
+    },
+    "23": {
+        "stage": 23,
+        "atkper": 8900,
+        "hpper": 8900,
+        "needstar": 1071
+    },
+    "24": {
+        "stage": 24,
+        "atkper": 9200,
+        "hpper": 9200,
+        "needstar": 1116
+    },
+    "25": {
+        "stage": 25,
+        "atkper": 9500,
+        "hpper": 9500,
+        "needstar": 1161
+    },
+    "26": {
+        "stage": 26,
+        "atkper": 9800,
+        "hpper": 9800,
+        "needstar": 1206
+    },
+    "27": {
+        "stage": 27,
+        "atkper": 10100,
+        "hpper": 10100,
+        "needstar": 1251
+    },
+    "28": {
+        "stage": 28,
+        "atkper": 10400,
+        "hpper": 10400,
+        "needstar": 1296
+    },
+    "29": {
+        "stage": 29,
+        "atkper": 10700,
+        "hpper": 10700,
+        "needstar": 1341
+    },
+    "30": {
+        "stage": 30,
+        "atkper": 11000,
+        "hpper": 11000,
+        "needstar": 1386
+    },
+    "31": {
+        "stage": 31,
+        "atkper": 11300,
+        "hpper": 11300,
+        "needstar": 1431
+    },
+    "32": {
+        "stage": 32,
+        "atkper": 11600,
+        "hpper": 11600,
+        "needstar": 1476
+    },
+    "33": {
+        "stage": 33,
+        "atkper": 11900,
+        "hpper": 11900,
+        "needstar": 1521
+    },
+    "34": {
+        "stage": 34,
+        "atkper": 12200,
+        "hpper": 12200,
+        "needstar": 1566
+    },
+    "35": {
+        "stage": 35,
+        "atkper": 12500,
+        "hpper": 12500,
+        "needstar": 1611
+    },
+    "36": {
+        "stage": 36,
+        "atkper": 12800,
+        "hpper": 12800,
+        "needstar": 1656
+    },
+    "37": {
+        "stage": 37,
+        "atkper": 13100,
+        "hpper": 13100,
+        "needstar": 1701
+    },
+    "38": {
+        "stage": 38,
+        "atkper": 13400,
+        "hpper": 13400,
+        "needstar": 1746
+    },
+    "39": {
+        "stage": 39,
+        "atkper": 13700,
+        "hpper": 13700,
+        "needstar": 1791
+    },
+    "40": {
+        "stage": 40,
+        "atkper": 14000,
+        "hpper": 14000,
+        "needstar": 1836
+    },
+    "41": {
+        "stage": 41,
+        "atkper": 14200,
+        "hpper": 14200,
+        "needstar": 1881
+    },
+    "42": {
+        "stage": 42,
+        "atkper": 14400,
+        "hpper": 14400,
+        "needstar": 1926
+    },
+    "43": {
+        "stage": 43,
+        "atkper": 14600,
+        "hpper": 14600,
+        "needstar": 1971
+    },
+    "44": {
+        "stage": 44,
+        "atkper": 14800,
+        "hpper": 14800,
+        "needstar": 2016
+    },
+    "45": {
+        "stage": 45,
+        "atkper": 15000,
+        "hpper": 15000,
+        "needstar": 2061
+    },
+    "46": {
+        "stage": 46,
+        "atkper": 15200,
+        "hpper": 15200,
+        "needstar": 2106
+    },
+    "47": {
+        "stage": 47,
+        "atkper": 15400,
+        "hpper": 15400,
+        "needstar": 2151
+    },
+    "48": {
+        "stage": 48,
+        "atkper": 15600,
+        "hpper": 15600,
+        "needstar": 2196
+    },
+    "49": {
+        "stage": 49,
+        "atkper": 15800,
+        "hpper": 15800,
+        "needstar": 2241
+    },
+    "50": {
+        "stage": 50,
+        "atkper": 16000,
+        "hpper": 16000,
+        "needstar": 2286
+    },
+    "51": {
+        "stage": 51,
+        "atkper": 16200,
+        "hpper": 16200,
+        "needstar": 2331
+    },
+    "52": {
+        "stage": 52,
+        "atkper": 16400,
+        "hpper": 16400,
+        "needstar": 2376
+    },
+    "53": {
+        "stage": 53,
+        "atkper": 16600,
+        "hpper": 16600,
+        "needstar": 2421
+    },
+    "54": {
+        "stage": 54,
+        "atkper": 16800,
+        "hpper": 16800,
+        "needstar": 2466
+    },
+    "55": {
+        "stage": 55,
+        "atkper": 17000,
+        "hpper": 17000,
+        "needstar": 2511
+    },
+    "56": {
+        "stage": 56,
+        "atkper": 17200,
+        "hpper": 17200,
+        "needstar": 2556
+    },
+    "57": {
+        "stage": 57,
+        "atkper": 17400,
+        "hpper": 17400,
+        "needstar": 2601
+    },
+    "58": {
+        "stage": 58,
+        "atkper": 17600,
+        "hpper": 17600,
+        "needstar": 2646
+    },
+    "59": {
+        "stage": 59,
+        "atkper": 17800,
+        "hpper": 17800,
+        "needstar": 2691
+    },
+    "60": {
+        "stage": 60,
+        "atkper": 18000,
+        "hpper": 18000,
+        "needstar": 2736
+    },
+    "61": {
+        "stage": 61,
+        "atkper": 18200,
+        "hpper": 18200,
+        "needstar": 2781
+    },
+    "62": {
+        "stage": 62,
+        "atkper": 18400,
+        "hpper": 18400,
+        "needstar": 2826
+    },
+    "63": {
+        "stage": 63,
+        "atkper": 18600,
+        "hpper": 18600,
+        "needstar": 2871
+    },
+    "64": {
+        "stage": 64,
+        "atkper": 18800,
+        "hpper": 18800,
+        "needstar": 2916
+    },
+    "65": {
+        "stage": 65,
+        "atkper": 19000,
+        "hpper": 19000,
+        "needstar": 2961
+    },
+    "66": {
+        "stage": 66,
+        "atkper": 19200,
+        "hpper": 19200,
+        "needstar": 3006
+    },
+    "67": {
+        "stage": 67,
+        "atkper": 19400,
+        "hpper": 19400,
+        "needstar": 3051
+    },
+    "68": {
+        "stage": 68,
+        "atkper": 19600,
+        "hpper": 19600,
+        "needstar": 3096
+    },
+    "69": {
+        "stage": 69,
+        "atkper": 19800,
+        "hpper": 19800,
+        "needstar": 3141
+    },
+    "70": {
+        "stage": 70,
+        "atkper": 20000,
+        "hpper": 20000,
+        "needstar": 3186
+    },
+    "71": {
+        "stage": 71,
+        "atkper": 20200,
+        "hpper": 20200,
+        "needstar": 3231
+    },
+    "72": {
+        "stage": 72,
+        "atkper": 20400,
+        "hpper": 20400,
+        "needstar": 3276
+    },
+    "73": {
+        "stage": 73,
+        "atkper": 20600,
+        "hpper": 20600,
+        "needstar": 3321
+    },
+    "74": {
+        "stage": 74,
+        "atkper": 20800,
+        "hpper": 20800,
+        "needstar": 3366
+    },
+    "75": {
+        "stage": 75,
+        "atkper": 21000,
+        "hpper": 21000,
+        "needstar": 3411
+    },
+    "76": {
+        "stage": 76,
+        "atkper": 21200,
+        "hpper": 21200,
+        "needstar": 3456
+    },
+    "77": {
+        "stage": 77,
+        "atkper": 21400,
+        "hpper": 21400,
+        "needstar": 3501
+    },
+    "78": {
+        "stage": 78,
+        "atkper": 21600,
+        "hpper": 21600,
+        "needstar": 3546
+    },
+    "79": {
+        "stage": 79,
+        "atkper": 21800,
+        "hpper": 21800,
+        "needstar": 3591
+    },
+    "80": {
+        "stage": 80,
+        "atkper": 22000,
+        "hpper": 22000,
+        "needstar": 3681
+    },
+    "81": {
+        "stage": 81,
+        "atkper": 22100,
+        "hpper": 22100,
+        "needstar": 3771
+    },
+    "82": {
+        "stage": 82,
+        "atkper": 22200,
+        "hpper": 22200,
+        "needstar": 3861
+    },
+    "83": {
+        "stage": 83,
+        "atkper": 22300,
+        "hpper": 22300,
+        "needstar": 3951
+    },
+    "84": {
+        "stage": 84,
+        "atkper": 22400,
+        "hpper": 22400,
+        "needstar": 4041
+    },
+    "85": {
+        "stage": 85,
+        "atkper": 22500,
+        "hpper": 22500,
+        "needstar": 4131
+    },
+    "86": {
+        "stage": 86,
+        "atkper": 22600,
+        "hpper": 22600,
+        "needstar": 4221
+    },
+    "87": {
+        "stage": 87,
+        "atkper": 22700,
+        "hpper": 22700,
+        "needstar": 4311
+    },
+    "88": {
+        "stage": 88,
+        "atkper": 22800,
+        "hpper": 22800,
+        "needstar": 4401
+    },
+    "89": {
+        "stage": 89,
+        "atkper": 22900,
+        "hpper": 22900,
+        "needstar": 4491
+    },
+    "90": {
+        "stage": 90,
+        "atkper": 23000,
+        "hpper": 23000,
+        "needstar": 4581
+    },
+    "91": {
+        "stage": 91,
+        "atkper": 23100,
+        "hpper": 23100,
+        "needstar": 4671
+    },
+    "92": {
+        "stage": 92,
+        "atkper": 23200,
+        "hpper": 23200,
+        "needstar": 4761
+    },
+    "93": {
+        "stage": 93,
+        "atkper": 23300,
+        "hpper": 23300,
+        "needstar": 4851
+    },
+    "94": {
+        "stage": 94,
+        "atkper": 23400,
+        "hpper": 23400,
+        "needstar": 4941
+    },
+    "95": {
+        "stage": 95,
+        "atkper": 23500,
+        "hpper": 23500,
+        "needstar": 5031
+    },
+    "96": {
+        "stage": 96,
+        "atkper": 23600,
+        "hpper": 23600,
+        "needstar": 5121
+    },
+    "97": {
+        "stage": 97,
+        "atkper": 23700,
+        "hpper": 23700,
+        "needstar": 5211
+    },
+    "98": {
+        "stage": 98,
+        "atkper": 23800,
+        "hpper": 23800,
+        "needstar": 5301
+    },
+    "99": {
+        "stage": 99,
+        "atkper": 23900,
+        "hpper": 23900,
+        "needstar": 5391
+    },
+    "100": {
+        "stage": 100,
+        "atkper": 24000,
+        "hpper": 24000,
+        "needstar": 5571
+    },
+    "101": {
+        "stage": 101,
+        "atkper": 24100,
+        "hpper": 24100,
+        "needstar": 5751
+    },
+    "102": {
+        "stage": 102,
+        "atkper": 24200,
+        "hpper": 24200,
+        "needstar": 5931
+    },
+    "103": {
+        "stage": 103,
+        "atkper": 24300,
+        "hpper": 24300,
+        "needstar": 6111
+    },
+    "104": {
+        "stage": 104,
+        "atkper": 24400,
+        "hpper": 24400,
+        "needstar": 6291
+    },
+    "105": {
+        "stage": 105,
+        "atkper": 24500,
+        "hpper": 24500,
+        "needstar": 6471
+    },
+    "106": {
+        "stage": 106,
+        "atkper": 24600,
+        "hpper": 24600,
+        "needstar": 6651
+    },
+    "107": {
+        "stage": 107,
+        "atkper": 24700,
+        "hpper": 24700,
+        "needstar": 6831
+    },
+    "108": {
+        "stage": 108,
+        "atkper": 24799.9999999999,
+        "hpper": 24799.9999999999,
+        "needstar": 7011
+    },
+    "109": {
+        "stage": 109,
+        "atkper": 24899.9999999999,
+        "hpper": 24899.9999999999,
+        "needstar": 7191
+    },
+    "110": {
+        "stage": 110,
+        "atkper": 24999.9999999999,
+        "hpper": 24999.9999999999,
+        "needstar": 7371
+    },
+    "111": {
+        "stage": 111,
+        "atkper": 25099.9999999999,
+        "hpper": 25099.9999999999,
+        "needstar": 7551
+    },
+    "112": {
+        "stage": 112,
+        "atkper": 25199.9999999999,
+        "hpper": 25199.9999999999,
+        "needstar": 7731
+    },
+    "113": {
+        "stage": 113,
+        "atkper": 25299.9999999999,
+        "hpper": 25299.9999999999,
+        "needstar": 7911
+    },
+    "114": {
+        "stage": 114,
+        "atkper": 25399.9999999999,
+        "hpper": 25399.9999999999,
+        "needstar": 8091
+    },
+    "115": {
+        "stage": 115,
+        "atkper": 25499.9999999999,
+        "hpper": 25499.9999999999,
+        "needstar": 8271
+    },
+    "116": {
+        "stage": 116,
+        "atkper": 25599.9999999999,
+        "hpper": 25599.9999999999,
+        "needstar": 8451
+    },
+    "117": {
+        "stage": 117,
+        "atkper": 25699.9999999999,
+        "hpper": 25699.9999999999,
+        "needstar": 8631
+    },
+    "118": {
+        "stage": 118,
+        "atkper": 25799.9999999999,
+        "hpper": 25799.9999999999,
+        "needstar": 8811
+    },
+    "119": {
+        "stage": 119,
+        "atkper": 25899.9999999999,
+        "hpper": 25899.9999999999,
+        "needstar": 8991
+    },
+    "120": {
+        "stage": 120,
+        "atkper": 25999.9999999999,
+        "hpper": 25999.9999999999,
+        "needstar": 0
+    }
+}

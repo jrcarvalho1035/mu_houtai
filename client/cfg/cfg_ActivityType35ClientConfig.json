@@ -1,0 +1,115 @@
+{
+    "1039": {
+        "id": 1039,
+        "subType": 1,
+        "reward": [
+            {
+                "type": 0,
+                "id": 2,
+                "count": 88800,
+                "rate": 100
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 500,
+                "rate": 1500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 8000,
+                "rate": 500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 12000,
+                "rate": 100
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1500,
+                "rate": 2000
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 3000,
+                "rate": 800
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 28000,
+                "rate": 100
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 800,
+                "rate": 1500
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 5000,
+                "rate": 600
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 18000,
+                "rate": 100
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 1000,
+                "rate": 2000
+            },
+            {
+                "type": 0,
+                "id": 2,
+                "count": 2000,
+                "rate": 800
+            }
+        ],
+        "itemIds": [
+            1,
+            7
+        ],
+        "robotNemas": [
+            "Foster Yvonne",
+            "Field Trister",
+            "Gold Weaving",
+            "Grace Vanda",
+            "Gray Iyetta"
+        ],
+        "rewardlogs": [
+            {
+                "id": 2,
+                "count": 88000
+            },
+            {
+                "id": 2,
+                "count": 28000
+            },
+            {
+                "id": 2,
+                "count": 88000
+            },
+            {
+                "id": 2,
+                "count": 28000
+            },
+            {
+                "id": 2,
+                "count": 88000
+            }
+        ],
+        "desc1": "6 Lucky Points for every $1 topped up (Lucky Points reset daily)",
+        "desc2": "One free Draw for every $4.99 topped up"
+    }
+}

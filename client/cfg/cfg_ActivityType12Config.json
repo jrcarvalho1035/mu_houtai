@@ -1,0 +1,3591 @@
+{
+    "1160": {
+        "1": {
+            "id": 1160,
+            "index": 1,
+            "subType": 4,
+            "sType": 3,
+            "desc": "During the Merging period, Gear Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 31
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 34
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 32
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 35
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 33
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 36
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 57
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 60
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 58
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 61
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 59
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 62
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "1161": {
+        "1": {
+            "id": 1161,
+            "index": 1,
+            "subType": 4,
+            "sType": 6,
+            "desc": "During the Merging period, Peak Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "1162": {
+        "1": {
+            "id": 1162,
+            "index": 1,
+            "subType": 4,
+            "sType": 7,
+            "desc": "During the Merging period, Deity Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 43
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 44
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 45
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 69
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 70
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 71
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "1220": {
+        "1": {
+            "id": 1220,
+            "index": 1,
+            "subType": 3,
+            "sType": 1,
+            "desc": "Drops from taking part in the mode during the event period|C:0xfef124&T:[Warrior Token] |\nGather enough |C:0xfef124&T:Warrior Tokens| to exchange for rare rewards in |C:0x00ff00&T:[Merging Exchange] |",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 1,
+            "group": "1"
+        }
+    },
+    "96175": {
+        "1": {
+            "id": 96175,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, participate in each gameplay to gain |C:0xfef124&T:【Glow Stick】|,|C:0xfef124&T:【Ballon】|\n|C:0xfef124&T:【Glow Stick】and【Ballon】| can be used in |C:0x13ee22&T:【Faction Competition】| event",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 10,
+            "group": "1"
+        }
+    },
+    "96395": {
+        "1": {
+            "id": 96395,
+            "index": 1,
+            "subType": 4,
+            "sType": 3,
+            "desc": "During the Treasure Hunt event, Gear Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 31
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 34
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 32
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 35
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 33
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 36
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 57
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 60
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 58
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 61
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 59
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 62
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "96396": {
+        "1": {
+            "id": 96396,
+            "index": 1,
+            "subType": 4,
+            "sType": 6,
+            "desc": "During the Treasure Hunt event, Peak Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "96397": {
+        "1": {
+            "id": 96397,
+            "index": 1,
+            "subType": 4,
+            "sType": 7,
+            "desc": "During the Treasure Hunt event, Deity Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 43
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 44
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 45
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 69
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 70
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 71
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "96398": {
+        "1": {
+            "id": 96398,
+            "index": 1,
+            "subType": 4,
+            "sType": 4,
+            "desc": "During the Treasure Hunt event, Soulgear Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 47
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 48
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 49
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 50
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 47
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 48
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 49
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 50
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 47
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 48
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 49
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 50
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 73
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 74
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 75
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 76
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 73
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 74
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 75
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 76
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 73
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 74
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 75
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 76
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "96399": {
+        "1": {
+            "id": 96399,
+            "index": 1,
+            "subType": 4,
+            "sType": 5,
+            "desc": "During the Treasure Hunt event, Rune Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 51
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 52
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 53
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 54
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 51
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 52
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 53
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 54
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 51
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 52
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 53
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 54
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 77
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 78
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 79
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 80
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 77
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 78
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 79
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 80
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 77
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 78
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 79
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 80
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "96410": {
+        "1": {
+            "id": 96410,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, |C:0xfef124&T:[Silver Hammer Shard]| and |C:0xfef124&T:[Holy Shield]| can be obtained from gameplays|\n|C:0xfef124&T:Silver Hammer Shard| can be used to merge Silver Hammer, which can be used in |C:0x13ee22&T:[Egg Smash]| to gain top rewards\n|C:0xfef124&T:Holy Shield| can be used to get draw ample rewards in |C:0x13ee22&T:[Treasure Hunt]|",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 8,
+            "group": "1"
+        }
+    },
+    "96775": {
+        "1": {
+            "id": 96775,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, participate in each gameplay to gain |C:0xfef124&T:【Glow Stick】|,|C:0xfef124&T:【Ballon】|\n|C:0xfef124&T:【Glow Stick】and【Ballon】| can be used in |C:0x13ee22&T:【Faction Competition】| event",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 10,
+            "group": "1"
+        }
+    },
+    "96935": {
+        "1": {
+            "id": 96935,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, |C:0xfef124&T:[Green Riceball]| and |C:0xfef124&T:[Kite]| can be obtained from gameplays|\n|C:0xfef124&T:[Green Riceball]| can be used in the |C:0x13ee22&T:[Qingming Banquet]| event to get Banquet\n|C:0xfef124&T:[Kite]| can be used in the |C:0x13ee22&T:[Exchange]| to get rare rewards",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 9,
+            "group": "1"
+        }
+    },
+    "97180": {
+        "1": {
+            "id": 97180,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, |C:0xfef124&T:[Common Dice]| can be obtained from these modes|\n|C:0xfef124&T:Common Dice| can be used in the |C:0x13ee22&T:[Dice Maze]| event to get rewards\n",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 5,
+            "group": "1"
+        }
+    },
+    "97395": {
+        "1": {
+            "id": 97395,
+            "index": 1,
+            "subType": 4,
+            "sType": 3,
+            "desc": "During the Treasure Hunt event, Gear Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 31
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 34
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 32
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 35
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 33
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 36
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 57
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 60
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 58
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 61
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 59
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 62
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "97396": {
+        "1": {
+            "id": 97396,
+            "index": 1,
+            "subType": 4,
+            "sType": 6,
+            "desc": "During the Treasure Hunt event, Peak Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "97397": {
+        "1": {
+            "id": 97397,
+            "index": 1,
+            "subType": 4,
+            "sType": 7,
+            "desc": "During the Treasure Hunt event, Deity Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 43
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 44
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 45
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 69
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 70
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 71
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "97398": {
+        "1": {
+            "id": 97398,
+            "index": 1,
+            "subType": 4,
+            "sType": 4,
+            "desc": "During the Treasure Hunt event, Soulgear Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 47
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 48
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 49
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 50
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 47
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 48
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 49
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 50
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 47
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 48
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 49
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 50
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 73
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 74
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 75
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 76
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 73
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 74
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 75
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 76
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 73
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 74
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 75
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 76
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "97399": {
+        "1": {
+            "id": 97399,
+            "index": 1,
+            "subType": 4,
+            "sType": 5,
+            "desc": "During the Treasure Hunt event, Rune Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 51
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 52
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 53
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 54
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 51
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 52
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 53
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 54
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 51
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 52
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 53
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 54
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 77
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 78
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 79
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 80
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 77
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 78
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 79
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 80
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 77
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 78
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 79
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 80
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "97410": {
+        "1": {
+            "id": 97410,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, |C:0xfef124&T:[Silver Hammer Shard]| and |C:0xfef124&T:[Holy Shield]| can be obtained from gameplays|\n|C:0xfef124&T:Silver Hammer Shard| can be used to merge Silver Hammer, which can be used in |C:0x13ee22&T:[Egg Smash]| to gain top rewards\n|C:0xfef124&T:Holy Shield| can be used to get draw ample rewards in |C:0x13ee22&T:[Treasure Hunt]|",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 8,
+            "group": "1"
+        }
+    },
+    "97650": {
+        "1": {
+            "id": 97650,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, some gameplays will drop |C:0xfef124&T:[Tanghulu]| and |C:0xfef124&T:[Sweet Dumplings].|\n |C:0xfef124&T:Tanghulu and Sweet Dumplings| can be presented to players in the |C:0x13ee22&T:Lantern Festival| event to gain Gift.",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 2,
+            "group": "1"
+        }
+    },
+    "97935": {
+        "1": {
+            "id": 97935,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, |C:0xfef124&T:[Green Riceball]| and |C:0xfef124&T:[Kite]| can be obtained from gameplays|\n|C:0xfef124&T:[Green Riceball]| can be used in the |C:0x13ee22&T:[Qingming Banquet]| event to get Banquet\n|C:0xfef124&T:[Kite]| can be used in the |C:0x13ee22&T:[Exchange]| to get rare rewards",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 9,
+            "group": "1"
+        }
+    },
+    "98180": {
+        "1": {
+            "id": 98180,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, |C:0xfef124&T:[Common Dice]| can be obtained from these modes|\n|C:0xfef124&T:Common Dice| can be used in the |C:0x13ee22&T:[Dice Maze]| event to get rewards\n",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 5,
+            "group": "1"
+        }
+    },
+    "98375": {
+        "1": {
+            "id": 98375,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, participate in each gameplay to gain |C:0xfef124&T:【Glow Stick】|,|C:0xfef124&T:【Ballon】|\n|C:0xfef124&T:【Glow Stick】and【Ballon】| can be used in |C:0x13ee22&T:【Faction Competition】| event",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 10,
+            "group": "1"
+        }
+    },
+    "98495": {
+        "1": {
+            "id": 98495,
+            "index": 1,
+            "subType": 4,
+            "sType": 3,
+            "desc": "During the Treasure Hunt event, Gear Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 31
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 34
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 32
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 35
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 33
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 36
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 57
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 60
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 58
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 61
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 59
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 62
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "98496": {
+        "1": {
+            "id": 98496,
+            "index": 1,
+            "subType": 4,
+            "sType": 6,
+            "desc": "During the Treasure Hunt event, Peak Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "98497": {
+        "1": {
+            "id": 98497,
+            "index": 1,
+            "subType": 4,
+            "sType": 7,
+            "desc": "During the Treasure Hunt event, Deity Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 43
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 44
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 45
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 69
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 70
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 71
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "98498": {
+        "1": {
+            "id": 98498,
+            "index": 1,
+            "subType": 4,
+            "sType": 4,
+            "desc": "During the Treasure Hunt event, Soulgear Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 47
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 48
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 49
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 50
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 47
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 48
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 49
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 50
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 47
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 48
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 49
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 50
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 73
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 74
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 75
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 76
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 73
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 74
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 75
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 76
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 73
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 74
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 75
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 76
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "98499": {
+        "1": {
+            "id": 98499,
+            "index": 1,
+            "subType": 4,
+            "sType": 5,
+            "desc": "During the Treasure Hunt event, Rune Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 51
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 52
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 53
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 54
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 51
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 52
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 53
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 54
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 51
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 52
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 53
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 54
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 77
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 78
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 79
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 80
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 77
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 78
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 79
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 80
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 77
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 78
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 79
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 80
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "98510": {
+        "1": {
+            "id": 98510,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, |C:0xfef124&T:[Silver Hammer Shard]| and |C:0xfef124&T:[Holy Shield]| can be obtained from gameplays|\n|C:0xfef124&T:Silver Hammer Shard| can be used to merge Silver Hammer, which can be used in |C:0x13ee22&T:[Egg Smash]| to gain top rewards\n|C:0xfef124&T:Holy Shield| can be used to get draw ample rewards in |C:0x13ee22&T:[Treasure Hunt]|",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 8,
+            "group": "1"
+        }
+    },
+    "98780": {
+        "1": {
+            "id": 98780,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, |C:0xfef124&T:[Common Dice]| can be obtained from these modes|\n|C:0xfef124&T:Common Dice| can be used in the |C:0x13ee22&T:[Dice Maze]| event to get rewards\n",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 5,
+            "group": "1"
+        }
+    },
+    "99075": {
+        "1": {
+            "id": 99075,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, participate in each gameplay to gain |C:0xfef124&T:【Glow Stick】|,|C:0xfef124&T:【Ballon】|\n|C:0xfef124&T:【Glow Stick】and【Ballon】| can be used in |C:0x13ee22&T:【Faction Competition】| event",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 10,
+            "group": "1"
+        }
+    },
+    "99235": {
+        "1": {
+            "id": 99235,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, |C:0xfef124&T:[Green Riceball]| and |C:0xfef124&T:[Kite]| can be obtained from gameplays|\n|C:0xfef124&T:[Green Riceball]| can be used in the |C:0x13ee22&T:[Qingming Banquet]| event to get Banquet\n|C:0xfef124&T:[Kite]| can be used in the |C:0x13ee22&T:[Exchange]| to get rare rewards",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 9,
+            "group": "1"
+        }
+    },
+    "99495": {
+        "1": {
+            "id": 99495,
+            "index": 1,
+            "subType": 4,
+            "sType": 3,
+            "desc": "During the Treasure Hunt event, Gear Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 31
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 34
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 32
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 35
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 29
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 30
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 33
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 36
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 57
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 60
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 58
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 61
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 55
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 56
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 59
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 62
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "99496": {
+        "1": {
+            "id": 99496,
+            "index": 1,
+            "subType": 4,
+            "sType": 6,
+            "desc": "During the Treasure Hunt event, Peak Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 37
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 38
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 39
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 40
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 63
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 64
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 65
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 66
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "99497": {
+        "1": {
+            "id": 99497,
+            "index": 1,
+            "subType": 4,
+            "sType": 7,
+            "desc": "During the Treasure Hunt event, Deity Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 43
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 44
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 41
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 42
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 45
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 46
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 69
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 70
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 67
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 68
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 71
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 72
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "99498": {
+        "1": {
+            "id": 99498,
+            "index": 1,
+            "subType": 4,
+            "sType": 4,
+            "desc": "During the Treasure Hunt event, Soulgear Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 47
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 48
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 49
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 50
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 47
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 48
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 49
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 50
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 47
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 48
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 49
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 50
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 73
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 74
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 75
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 76
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 73
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 74
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 75
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 76
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 73
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 74
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 75
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 76
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "99499": {
+        "1": {
+            "id": 99499,
+            "index": 1,
+            "subType": 4,
+            "sType": 5,
+            "desc": "During the Treasure Hunt event, Rune Hunt's prize gaining chance |C:0xfef124&T:X5|, don't miss out on this great opportunity!",
+            "mcIcon": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 51
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 52
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 53
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 54
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 51
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 52
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 53
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 54
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 51
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 52
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 53
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 54
+                    }
+                ]
+            ],
+            "mcIconName": [
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 77
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 78
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 79
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 80
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 77
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 78
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 79
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 80
+                    }
+                ],
+                [
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 77
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 78
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 79
+                    },
+                    {
+                        "type": 1,
+                        "isImgEff": 1,
+                        "param": 80
+                    }
+                ]
+            ],
+            "dropindex": 1,
+            "group": "2"
+        }
+    },
+    "99510": {
+        "1": {
+            "id": 99510,
+            "index": 1,
+            "subType": 2,
+            "sType": 1,
+            "desc": "During the event, |C:0xfef124&T:[Silver Hammer Shard]| and |C:0xfef124&T:[Holy Shield]| can be obtained from gameplays|\n|C:0xfef124&T:Silver Hammer Shard| can be used to merge Silver Hammer, which can be used in |C:0x13ee22&T:[Egg Smash]| to gain top rewards\n|C:0xfef124&T:Holy Shield| can be used to get draw ample rewards in |C:0x13ee22&T:[Treasure Hunt]|",
+            "mcIcon": [],
+            "mcIconName": [],
+            "dropindex": 8,
+            "group": "1"
+        }
+    }
+}

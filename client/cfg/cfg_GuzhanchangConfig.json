@@ -1,0 +1,93 @@
+{
+    "people": 5,
+    "maxKill": 100,
+    "fbId": 26001,
+    "pkDrop": 156003,
+    "dayReward": [
+        {
+            "type": 1,
+            "id": 310102,
+            "count": 1
+        }
+    ],
+    "extraReward": [
+        {
+            "type": 1,
+            "id": 310103,
+            "count": 1
+        }
+    ],
+    "price": 6000,
+    "cdTime": 15,
+    "desc": "1. You can only gain the dropped rewards when you are the last player who attacks and kills the monster or other player. \n2. There is a damage limit for attacking normal monsters, elite monsters, and Boss. \n3. Join the event and fight for the rank. You can take part in the event for multiple times to gain special title.",
+    "timedesc": "|C:0xf5e65a&T: Evening 19:10 - 19:30|",
+    "fbDrop": [
+        {
+            "type": 1,
+            "id": 380038,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 380039,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310812,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310811,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310810,
+            "count": 1
+        }
+    ],
+    "starTime": [
+        [
+            19,
+            10
+        ],
+        [
+            19,
+            30
+        ]
+    ],
+    "showRewards": [
+        {
+            "type": 1,
+            "id": 380038,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 380039,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310812,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310811,
+            "count": 1
+        },
+        {
+            "type": 1,
+            "id": 310810,
+            "count": 1
+        }
+    ],
+    "firsttimes": 5,
+    "jointimes": 10,
+    "firsttitle": 380038,
+    "jointtitle": 380039,
+    "phdesc": "(The ranking is refreshed upon the end of the daily event)"
+}
