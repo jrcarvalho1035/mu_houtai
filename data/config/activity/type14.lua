@@ -1,0 +1,87 @@
+-- from activity.xlsx 14登录豪礼 
+ActivityType14Config={
+	[8]={
+	[1]={
+	[1]={
+		id = 8,
+		day = 1,
+		index = 1,
+		subType = 1,
+		sviplevel = 0,
+		rewards = {{type=1,id=1010402,count=6},{type=0,id=2,count=1000},},
+	},
+	[2]={
+		id = 8,
+		day = 1,
+		index = 2,
+		subType = 1,
+		sviplevel = 1,
+		rewards = {{type=1,id=1010402,count=6},},
+	},
+	[3]={
+		id = 8,
+		day = 1,
+		index = 3,
+		subType = 1,
+		sviplevel = 6,
+		rewards = {{type=1,id=1010402,count=6},},
+	},
+	},
+	},
+	[9]={
+	[1]={
+	[1]={
+		id = 9,
+		day = 1,
+		index = 1,
+		subType = 1,
+		sviplevel = 0,
+		rewards = {{type=1,id=1081402,count=6},{type=0,id=2,count=1000},},
+	},
+	[2]={
+		id = 9,
+		day = 1,
+		index = 2,
+		subType = 1,
+		sviplevel = 1,
+		rewards = {{type=1,id=1081402,count=6},},
+	},
+	[3]={
+		id = 9,
+		day = 1,
+		index = 3,
+		subType = 1,
+		sviplevel = 6,
+		rewards = {{type=1,id=1081402,count=6},},
+	},
+	},
+	},
+	[10]={
+	[1]={
+	[1]={
+		id = 10,
+		day = 1,
+		index = 1,
+		subType = 1,
+		sviplevel = 0,
+		rewards = {{type=1,id=1081502,count=6},{type=0,id=2,count=1000},},
+	},
+	[2]={
+		id = 10,
+		day = 1,
+		index = 2,
+		subType = 1,
+		sviplevel = 1,
+		rewards = {{type=1,id=1081502,count=6},},
+	},
+	[3]={
+		id = 10,
+		day = 1,
+		index = 3,
+		subType = 1,
+		sviplevel = 6,
+		rewards = {{type=1,id=1081502,count=6},},
+	},
+	},
+	},
+}
