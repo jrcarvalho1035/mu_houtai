@@ -1,0 +1,7264 @@
+{
+    "1": {
+        "id": 1,
+        "desc": "Challenge Gear Boss 2 times",
+        "type": 68,
+        "param": [
+            10017
+        ],
+        "target": 2,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            0
+        ]
+    },
+    "2": {
+        "id": 2,
+        "desc": "Challenge Server Boss once",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 1,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "3": {
+        "id": 3,
+        "desc": "Challenge Bloody Land once",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "4": {
+        "id": 4,
+        "desc": "Challenge Coin Dungeon once",
+        "type": 68,
+        "param": [
+            10003
+        ],
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "5": {
+        "id": 5,
+        "desc": "Challenge Monster Invasion twice",
+        "type": 68,
+        "param": [
+            10019
+        ],
+        "target": 2,
+        "controlTarget": [
+            1,
+            34,
+            0
+        ]
+    },
+    "6": {
+        "id": 6,
+        "desc": "Challenge King of Peaks for 6 times",
+        "type": 68,
+        "param": [
+            10031
+        ],
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "7": {
+        "id": 7,
+        "desc": "Perform Quick Battle for 3 times",
+        "type": 55,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            1,
+            33,
+            0
+        ]
+    },
+    "8": {
+        "id": 8,
+        "desc": "Challenge Demon Fortress twice",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "9": {
+        "id": 9,
+        "desc": "Perform Crystal Realm Mining for 3 times",
+        "type": 117,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "10": {
+        "id": 10,
+        "desc": "Challenge Server Boss for 12 times",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "11": {
+        "id": 11,
+        "desc": "Challenge Demon Fortress for 3 times",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "12": {
+        "id": 12,
+        "desc": "Challenge Bloody Land for 4 times",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "13": {
+        "id": 13,
+        "desc": "Challenge Monster Invasion for 5 times",
+        "type": 68,
+        "param": [
+            10019
+        ],
+        "target": 5,
+        "controlTarget": [
+            1,
+            34,
+            0
+        ]
+    },
+    "14": {
+        "id": 14,
+        "desc": "Challenge Coin Dungeon for 4 times",
+        "type": 68,
+        "param": [
+            10003
+        ],
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "15": {
+        "id": 15,
+        "desc": "Perform Quick Battle for 5 times",
+        "type": 55,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            1,
+            33,
+            0
+        ]
+    },
+    "16": {
+        "id": 16,
+        "desc": "Challenge Server Boss for 20 times in total",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "17": {
+        "id": 17,
+        "desc": "Perform Crystal Realm for 6 times",
+        "type": 117,
+        "param": [
+            -1
+        ],
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "18": {
+        "id": 18,
+        "desc": "Challenge King of Peaks for 12 times",
+        "type": 68,
+        "param": [
+            10031
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "19": {
+        "id": 19,
+        "desc": "Challenge Server Boss for 30 times in total",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "20": {
+        "id": 20,
+        "desc": "Challenge Bloody Land for 9 times",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 9,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "21": {
+        "id": 21,
+        "desc": "Challenge Monster Invasion for 15 times",
+        "type": 68,
+        "param": [
+            10019
+        ],
+        "target": 15,
+        "controlTarget": [
+            1,
+            34,
+            0
+        ]
+    },
+    "22": {
+        "id": 22,
+        "desc": "Challenge Server Boss for 40 times",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 40,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "23": {
+        "id": 23,
+        "desc": "Challenge Bloody Land for 12 times",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "24": {
+        "id": 24,
+        "desc": "Challenge Demon Fortress for 12 times",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "101": {
+        "id": 101,
+        "desc": "Challenge Gear Boss 2 times",
+        "type": 68,
+        "param": [
+            10017
+        ],
+        "target": 2,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            0
+        ]
+    },
+    "102": {
+        "id": 102,
+        "desc": "Challenge Server Boss once",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 1,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "103": {
+        "id": 103,
+        "desc": "Challenge Bloody Land once",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "104": {
+        "id": 104,
+        "desc": "Challenge Coin Dungeon once",
+        "type": 68,
+        "param": [
+            10003
+        ],
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "105": {
+        "id": 105,
+        "desc": "Challenge Monster Invasion twice",
+        "type": 68,
+        "param": [
+            10019
+        ],
+        "target": 2,
+        "controlTarget": [
+            1,
+            34,
+            0
+        ]
+    },
+    "106": {
+        "id": 106,
+        "desc": "Challenge King of Peaks for 6 times",
+        "type": 68,
+        "param": [
+            10031
+        ],
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "107": {
+        "id": 107,
+        "desc": "Perform Quick Battle for 3 times",
+        "type": 55,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            1,
+            33,
+            0
+        ]
+    },
+    "108": {
+        "id": 108,
+        "desc": "Challenge Demon Fortress twice",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "109": {
+        "id": 109,
+        "desc": "Perform Crystal Realm Mining for 3 times",
+        "type": 117,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "110": {
+        "id": 110,
+        "desc": "Challenge Server Boss for 12 times",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "111": {
+        "id": 111,
+        "desc": "Challenge Demon Fortress for 3 times",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "112": {
+        "id": 112,
+        "desc": "Challenge Bloody Land for 4 times",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "113": {
+        "id": 113,
+        "desc": "Challenge Monster Invasion for 5 times",
+        "type": 68,
+        "param": [
+            10019
+        ],
+        "target": 5,
+        "controlTarget": [
+            1,
+            34,
+            0
+        ]
+    },
+    "114": {
+        "id": 114,
+        "desc": "Challenge Coin Dungeon for 4 times",
+        "type": 68,
+        "param": [
+            10003
+        ],
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "115": {
+        "id": 115,
+        "desc": "Perform Quick Battle for 5 times",
+        "type": 55,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            1,
+            33,
+            0
+        ]
+    },
+    "116": {
+        "id": 116,
+        "desc": "Challenge Server Boss for 20 times in total",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "117": {
+        "id": 117,
+        "desc": "Perform Crystal Realm for 6 times",
+        "type": 117,
+        "param": [
+            -1
+        ],
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "118": {
+        "id": 118,
+        "desc": "Challenge King of Peaks for 12 times",
+        "type": 68,
+        "param": [
+            10031
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "119": {
+        "id": 119,
+        "desc": "Challenge Server Boss for 30 times in total",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "120": {
+        "id": 120,
+        "desc": "Challenge Bloody Land for 9 times",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 9,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "121": {
+        "id": 121,
+        "desc": "Challenge Monster Invasion for 15 times",
+        "type": 68,
+        "param": [
+            10019
+        ],
+        "target": 15,
+        "controlTarget": [
+            1,
+            34,
+            0
+        ]
+    },
+    "122": {
+        "id": 122,
+        "desc": "Challenge Server Boss for 40 times",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 40,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "123": {
+        "id": 123,
+        "desc": "Challenge Bloody Land for 12 times",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "124": {
+        "id": 124,
+        "desc": "Challenge Demon Fortress for 12 times",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "125": {
+        "id": 125,
+        "desc": "Challenge Dragon Castle for 12 times",
+        "type": 68,
+        "param": [
+            10039
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            15,
+            2,
+            0
+        ]
+    },
+    "126": {
+        "id": 126,
+        "desc": "Loot Poseidon's Treasure for 16 times",
+        "type": 68,
+        "param": [
+            10057
+        ],
+        "target": 16,
+        "controlTarget": [
+            5,
+            13,
+            2,
+            0
+        ]
+    },
+    "127": {
+        "id": 127,
+        "desc": "Gain Cross-server Boss Ownership for 12 times",
+        "type": 128,
+        "param": [
+            -1
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            16,
+            1,
+            0
+        ]
+    },
+    "128": {
+        "id": 128,
+        "desc": "Challenge Bloody Land for 15 times",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "129": {
+        "id": 129,
+        "desc": "Challenge Coin Dungeon for 10 times",
+        "type": 68,
+        "param": [
+            10003
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "130": {
+        "id": 130,
+        "desc": "Challenge Server Boss for 50 times",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "131": {
+        "id": 131,
+        "desc": "Perform Crystal Realm mining for 15 times",
+        "type": 117,
+        "param": [
+            -1
+        ],
+        "target": 15,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "132": {
+        "id": 132,
+        "desc": "Challenge Demon Fortress for 18 times",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 18,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "133": {
+        "id": 133,
+        "desc": "Challenge King of Peaks for 36 times",
+        "type": 68,
+        "param": [
+            10031
+        ],
+        "target": 36,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "134": {
+        "id": 134,
+        "desc": "Challenge Server Boss for 70 times",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "135": {
+        "id": 135,
+        "desc": "Challenge Bloody Land for 2onces",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 21,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "136": {
+        "id": 136,
+        "desc": "Challenge Demon Fortress for 2onces",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 21,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "201": {
+        "id": 201,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "202": {
+        "id": 202,
+        "desc": "Perform Gear Hunt for 3 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "203": {
+        "id": 203,
+        "desc": "Perform Gear Hunt for 5 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "204": {
+        "id": 204,
+        "desc": "Perform Gear Hunt for 10 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "205": {
+        "id": 205,
+        "desc": "Perform Gear Hunt for 20 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "206": {
+        "id": 206,
+        "desc": "Perform Gear Hunt for 30 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "207": {
+        "id": 207,
+        "desc": "Perform Gear Hunt for 50 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "208": {
+        "id": 208,
+        "desc": "Perform Gear Hunt for 70 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "209": {
+        "id": 209,
+        "desc": "Perform Gear Hunt for 100 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "210": {
+        "id": 210,
+        "desc": "Perform Gear Hunt for 150 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "211": {
+        "id": 211,
+        "desc": "Perform Gear Hunt for 200 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "212": {
+        "id": 212,
+        "desc": "Perform Gear Hunt for 250 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "213": {
+        "id": 213,
+        "desc": "Perform Gear Hunt for 300 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "214": {
+        "id": 214,
+        "desc": "Perform Gear Hunt for 350 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "215": {
+        "id": 215,
+        "desc": "Perform Gear Hunt for 400 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "216": {
+        "id": 216,
+        "desc": "Perform Gear Hunt for 450 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "217": {
+        "id": 217,
+        "desc": "Perform Gear Hunt for 500 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "218": {
+        "id": 218,
+        "desc": "Perform Gear Hunt for 600 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "219": {
+        "id": 219,
+        "desc": "Perform Gear Hunt for 700 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "220": {
+        "id": 220,
+        "desc": "Perform Gear Hunt for 800 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "221": {
+        "id": 221,
+        "desc": "Perform Gear Hunt for 900 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "222": {
+        "id": 222,
+        "desc": "Perform Gear Hunt for 1000 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "223": {
+        "id": 223,
+        "desc": "Perform Gear Hunt for 1100 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "224": {
+        "id": 224,
+        "desc": "Perform Gear Hunt for 1200 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "225": {
+        "id": 225,
+        "desc": "Perform Gear Hunt for 1300 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "226": {
+        "id": 226,
+        "desc": "Perform Gear Hunt for 1400 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "227": {
+        "id": 227,
+        "desc": "Perform Gear Hunt for 1500 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "228": {
+        "id": 228,
+        "desc": "Perform Gear Hunt for 1600 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "229": {
+        "id": 229,
+        "desc": "Perform Gear Hunt for 1700 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "230": {
+        "id": 230,
+        "desc": "Perform Gear Hunt for 1800 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "231": {
+        "id": 231,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "232": {
+        "id": 232,
+        "desc": "Perform Peak Hunt for 3 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "233": {
+        "id": 233,
+        "desc": "Perform Peak Hunt for 5 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "234": {
+        "id": 234,
+        "desc": "Perform Peak Hunt for 10 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "235": {
+        "id": 235,
+        "desc": "Perform Peak Hunt for 20 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "236": {
+        "id": 236,
+        "desc": "Perform Peak Hunt for 30 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "237": {
+        "id": 237,
+        "desc": "Perform Peak Hunt for 50 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "238": {
+        "id": 238,
+        "desc": "Perform Peak Hunt for 70 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "239": {
+        "id": 239,
+        "desc": "Perform Peak Hunt for 100 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "240": {
+        "id": 240,
+        "desc": "Perform Peak Hunt for 150 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "241": {
+        "id": 241,
+        "desc": "Perform Peak Hunt for 200 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "242": {
+        "id": 242,
+        "desc": "Perform Peak Hunt for 250 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "243": {
+        "id": 243,
+        "desc": "Perform Peak Hunt for 300 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "244": {
+        "id": 244,
+        "desc": "Perform Peak Hunt for 350 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "245": {
+        "id": 245,
+        "desc": "Perform Peak Hunt for 400 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "246": {
+        "id": 246,
+        "desc": "Perform Peak Hunt for 450 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "247": {
+        "id": 247,
+        "desc": "Perform Peak Hunt for 500 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "248": {
+        "id": 248,
+        "desc": "Perform Peak Hunt for 600 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "249": {
+        "id": 249,
+        "desc": "Perform Peak Hunt for 700 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "250": {
+        "id": 250,
+        "desc": "Perform Peak Hunt for 800 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "251": {
+        "id": 251,
+        "desc": "Perform Peak Hunt for 900 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "252": {
+        "id": 252,
+        "desc": "Perform Peak Hunt for 1000 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "253": {
+        "id": 253,
+        "desc": "Perform Peak Hunt for 1100 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "254": {
+        "id": 254,
+        "desc": "Perform Peak Hunt for 1200 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "255": {
+        "id": 255,
+        "desc": "Perform Peak Hunt for 1300 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "256": {
+        "id": 256,
+        "desc": "Perform Peak Hunt for 1400 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "257": {
+        "id": 257,
+        "desc": "Perform Peak Hunt for 1500 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "258": {
+        "id": 258,
+        "desc": "Perform Peak Hunt for 1600 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "259": {
+        "id": 259,
+        "desc": "Perform Peak Hunt for 1700 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "260": {
+        "id": 260,
+        "desc": "Perform Peak Hunt for 1800 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "261": {
+        "id": 261,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "262": {
+        "id": 262,
+        "desc": "Perform Deity Hunt for 3 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "263": {
+        "id": 263,
+        "desc": "Perform Deity Hunt for 5 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "264": {
+        "id": 264,
+        "desc": "Perform Deity Hunt for 10 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "265": {
+        "id": 265,
+        "desc": "Perform Deity Hunt for 20 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "266": {
+        "id": 266,
+        "desc": "Perform Deity Hunt for 30 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "267": {
+        "id": 267,
+        "desc": "Perform Deity Hunt for 50 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "268": {
+        "id": 268,
+        "desc": "Perform Deity Hunt for 70 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "269": {
+        "id": 269,
+        "desc": "Perform Deity Hunt for 100 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "270": {
+        "id": 270,
+        "desc": "Perform Deity Hunt for 150 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "271": {
+        "id": 271,
+        "desc": "Perform Deity Hunt for 200 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "272": {
+        "id": 272,
+        "desc": "Perform Deity Hunt for 250 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "273": {
+        "id": 273,
+        "desc": "Perform Deity Hunt for 300 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "274": {
+        "id": 274,
+        "desc": "Perform Deity Hunt for 350 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "275": {
+        "id": 275,
+        "desc": "Perform Deity Hunt for 400 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "276": {
+        "id": 276,
+        "desc": "Perform Deity Hunt for 450 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "277": {
+        "id": 277,
+        "desc": "Perform Deity Hunt for 500 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "278": {
+        "id": 278,
+        "desc": "Perform Deity Hunt for 600 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "279": {
+        "id": 279,
+        "desc": "Perform Deity Hunt for 700 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "280": {
+        "id": 280,
+        "desc": "Perform Deity Hunt for 800 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "281": {
+        "id": 281,
+        "desc": "Perform Deity Hunt for 900 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "282": {
+        "id": 282,
+        "desc": "Perform Deity Hunt for 1000 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "283": {
+        "id": 283,
+        "desc": "Perform Deity Hunt for 1100 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "284": {
+        "id": 284,
+        "desc": "Perform Deity Hunt for 1200 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "285": {
+        "id": 285,
+        "desc": "Perform Deity Hunt for 1300 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "286": {
+        "id": 286,
+        "desc": "Perform Deity Hunt for 1400 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "287": {
+        "id": 287,
+        "desc": "Perform Deity Hunt for 1500 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "288": {
+        "id": 288,
+        "desc": "Perform Deity Hunt for 1600 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "289": {
+        "id": 289,
+        "desc": "Perform Deity Hunt for 1700 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "290": {
+        "id": 290,
+        "desc": "Perform Deity Hunt for 1800 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "301": {
+        "id": 301,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "302": {
+        "id": 302,
+        "desc": "Perform Gear Hunt for 3 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "303": {
+        "id": 303,
+        "desc": "Perform Gear Hunt for 5 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "304": {
+        "id": 304,
+        "desc": "Perform Gear Hunt for 10 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "305": {
+        "id": 305,
+        "desc": "Perform Gear Hunt for 20 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "306": {
+        "id": 306,
+        "desc": "Perform Gear Hunt for 30 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "307": {
+        "id": 307,
+        "desc": "Perform Gear Hunt for 50 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "308": {
+        "id": 308,
+        "desc": "Perform Gear Hunt for 70 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "309": {
+        "id": 309,
+        "desc": "Perform Gear Hunt for 100 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "310": {
+        "id": 310,
+        "desc": "Perform Gear Hunt for 150 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "311": {
+        "id": 311,
+        "desc": "Perform Gear Hunt for 200 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "312": {
+        "id": 312,
+        "desc": "Perform Gear Hunt for 250 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "313": {
+        "id": 313,
+        "desc": "Perform Gear Hunt for 300 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "314": {
+        "id": 314,
+        "desc": "Perform Gear Hunt for 350 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "315": {
+        "id": 315,
+        "desc": "Perform Gear Hunt for 400 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "316": {
+        "id": 316,
+        "desc": "Perform Gear Hunt for 450 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "317": {
+        "id": 317,
+        "desc": "Perform Gear Hunt for 500 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "318": {
+        "id": 318,
+        "desc": "Perform Gear Hunt for 600 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "319": {
+        "id": 319,
+        "desc": "Perform Gear Hunt for 700 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "320": {
+        "id": 320,
+        "desc": "Perform Gear Hunt for 800 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "321": {
+        "id": 321,
+        "desc": "Perform Gear Hunt for 900 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "322": {
+        "id": 322,
+        "desc": "Perform Gear Hunt for 1000 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "323": {
+        "id": 323,
+        "desc": "Perform Gear Hunt for 1100 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "324": {
+        "id": 324,
+        "desc": "Perform Gear Hunt for 1200 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "325": {
+        "id": 325,
+        "desc": "Perform Gear Hunt for 1300 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "326": {
+        "id": 326,
+        "desc": "Perform Gear Hunt for 1400 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "327": {
+        "id": 327,
+        "desc": "Perform Gear Hunt for 1500 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "328": {
+        "id": 328,
+        "desc": "Perform Gear Hunt for 1600 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "329": {
+        "id": 329,
+        "desc": "Perform Gear Hunt for 1700 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "330": {
+        "id": 330,
+        "desc": "Perform Gear Hunt for 1800 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "331": {
+        "id": 331,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "332": {
+        "id": 332,
+        "desc": "Perform Peak Hunt for 3 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "333": {
+        "id": 333,
+        "desc": "Perform Peak Hunt for 5 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "334": {
+        "id": 334,
+        "desc": "Perform Peak Hunt for 10 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "335": {
+        "id": 335,
+        "desc": "Perform Peak Hunt for 20 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "336": {
+        "id": 336,
+        "desc": "Perform Peak Hunt for 30 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "337": {
+        "id": 337,
+        "desc": "Perform Peak Hunt for 50 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "338": {
+        "id": 338,
+        "desc": "Perform Peak Hunt for 70 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "339": {
+        "id": 339,
+        "desc": "Perform Peak Hunt for 100 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "340": {
+        "id": 340,
+        "desc": "Perform Peak Hunt for 150 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "341": {
+        "id": 341,
+        "desc": "Perform Peak Hunt for 200 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "342": {
+        "id": 342,
+        "desc": "Perform Peak Hunt for 250 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "343": {
+        "id": 343,
+        "desc": "Perform Peak Hunt for 300 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "344": {
+        "id": 344,
+        "desc": "Perform Peak Hunt for 350 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "345": {
+        "id": 345,
+        "desc": "Perform Peak Hunt for 400 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "346": {
+        "id": 346,
+        "desc": "Perform Peak Hunt for 450 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "347": {
+        "id": 347,
+        "desc": "Perform Peak Hunt for 500 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "348": {
+        "id": 348,
+        "desc": "Perform Peak Hunt for 600 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "349": {
+        "id": 349,
+        "desc": "Perform Peak Hunt for 700 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "350": {
+        "id": 350,
+        "desc": "Perform Peak Hunt for 800 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "351": {
+        "id": 351,
+        "desc": "Perform Peak Hunt for 900 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "352": {
+        "id": 352,
+        "desc": "Perform Peak Hunt for 1000 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "353": {
+        "id": 353,
+        "desc": "Perform Peak Hunt for 1100 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "354": {
+        "id": 354,
+        "desc": "Perform Peak Hunt for 1200 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "355": {
+        "id": 355,
+        "desc": "Perform Peak Hunt for 1300 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "356": {
+        "id": 356,
+        "desc": "Perform Peak Hunt for 1400 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "357": {
+        "id": 357,
+        "desc": "Perform Peak Hunt for 1500 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "358": {
+        "id": 358,
+        "desc": "Perform Peak Hunt for 1600 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "359": {
+        "id": 359,
+        "desc": "Perform Peak Hunt for 1700 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "360": {
+        "id": 360,
+        "desc": "Perform Peak Hunt for 1800 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "361": {
+        "id": 361,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "362": {
+        "id": 362,
+        "desc": "Perform Deity Hunt for 3 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "363": {
+        "id": 363,
+        "desc": "Perform Deity Hunt for 5 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "364": {
+        "id": 364,
+        "desc": "Perform Deity Hunt for 10 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "365": {
+        "id": 365,
+        "desc": "Perform Deity Hunt for 20 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "366": {
+        "id": 366,
+        "desc": "Perform Deity Hunt for 30 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "367": {
+        "id": 367,
+        "desc": "Perform Deity Hunt for 50 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "368": {
+        "id": 368,
+        "desc": "Perform Deity Hunt for 70 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "369": {
+        "id": 369,
+        "desc": "Perform Deity Hunt for 100 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "370": {
+        "id": 370,
+        "desc": "Perform Deity Hunt for 150 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "371": {
+        "id": 371,
+        "desc": "Perform Deity Hunt for 200 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "372": {
+        "id": 372,
+        "desc": "Perform Deity Hunt for 250 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "373": {
+        "id": 373,
+        "desc": "Perform Deity Hunt for 300 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "374": {
+        "id": 374,
+        "desc": "Perform Deity Hunt for 350 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "375": {
+        "id": 375,
+        "desc": "Perform Deity Hunt for 400 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "376": {
+        "id": 376,
+        "desc": "Perform Deity Hunt for 450 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "377": {
+        "id": 377,
+        "desc": "Perform Deity Hunt for 500 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "378": {
+        "id": 378,
+        "desc": "Perform Deity Hunt for 600 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "379": {
+        "id": 379,
+        "desc": "Perform Deity Hunt for 700 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "380": {
+        "id": 380,
+        "desc": "Perform Deity Hunt for 800 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "381": {
+        "id": 381,
+        "desc": "Perform Deity Hunt for 900 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "382": {
+        "id": 382,
+        "desc": "Perform Deity Hunt for 1000 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "383": {
+        "id": 383,
+        "desc": "Perform Deity Hunt for 1100 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "384": {
+        "id": 384,
+        "desc": "Perform Deity Hunt for 1200 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "385": {
+        "id": 385,
+        "desc": "Perform Deity Hunt for 1300 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "386": {
+        "id": 386,
+        "desc": "Perform Deity Hunt for 1400 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "387": {
+        "id": 387,
+        "desc": "Perform Deity Hunt for 1500 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "388": {
+        "id": 388,
+        "desc": "Perform Deity Hunt for 1600 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "389": {
+        "id": 389,
+        "desc": "Perform Deity Hunt for 1700 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "390": {
+        "id": 390,
+        "desc": "Perform Deity Hunt for 1800 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "391": {
+        "id": 391,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "392": {
+        "id": 392,
+        "desc": "Perform Soulgear Hunt for 3 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "393": {
+        "id": 393,
+        "desc": "Perform Soulgear Hunt for 5 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "394": {
+        "id": 394,
+        "desc": "Perform Soulgear Hunt for 10 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "395": {
+        "id": 395,
+        "desc": "Perform Soulgear Hunt for 20 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "396": {
+        "id": 396,
+        "desc": "Perform Soulgear Hunt for 30 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "397": {
+        "id": 397,
+        "desc": "Perform Soulgear Hunt for 50 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "398": {
+        "id": 398,
+        "desc": "Perform Soulgear Hunt for 70 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "399": {
+        "id": 399,
+        "desc": "Perform Soulgear Hunt for 100 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "400": {
+        "id": 400,
+        "desc": "Perform Soulgear Hunt for 150 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "401": {
+        "id": 401,
+        "desc": "Perform Soulgear Hunt for 200 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "402": {
+        "id": 402,
+        "desc": "Perform Soulgear Hunt for 250 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "403": {
+        "id": 403,
+        "desc": "Perform Soulgear Hunt for 300 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "404": {
+        "id": 404,
+        "desc": "Perform Soulgear Hunt for 350 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "405": {
+        "id": 405,
+        "desc": "Perform Soulgear Hunt for 400 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "406": {
+        "id": 406,
+        "desc": "Perform Soulgear Hunt for 450 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "407": {
+        "id": 407,
+        "desc": "Perform Soulgear Hunt for 500 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "408": {
+        "id": 408,
+        "desc": "Perform Soulgear Hunt for 600 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "409": {
+        "id": 409,
+        "desc": "Perform Soulgear Hunt for 700 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "410": {
+        "id": 410,
+        "desc": "Perform Soulgear Hunt for 800 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "411": {
+        "id": 411,
+        "desc": "Perform Soulgear Hunt for 900 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "412": {
+        "id": 412,
+        "desc": "Perform Soulgear Hunt for 1000 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "413": {
+        "id": 413,
+        "desc": "Perform Soulgear Hunt for 1100 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "414": {
+        "id": 414,
+        "desc": "Perform Soulgear Hunt for 1200 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "415": {
+        "id": 415,
+        "desc": "Perform Soulgear Hunt for 1300 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "416": {
+        "id": 416,
+        "desc": "Perform Soulgear Hunt for 1400 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "417": {
+        "id": 417,
+        "desc": "Perform Soulgear Hunt for 1500 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "418": {
+        "id": 418,
+        "desc": "Perform Soulgear Hunt for 1600 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "419": {
+        "id": 419,
+        "desc": "Perform Soulgear Hunt for 1700 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "420": {
+        "id": 420,
+        "desc": "Perform Soulgear Hunt for 1800 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "421": {
+        "id": 421,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "422": {
+        "id": 422,
+        "desc": "Perform Rune Hunt for 3 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "423": {
+        "id": 423,
+        "desc": "Perform Rune Hunt for 5 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "424": {
+        "id": 424,
+        "desc": "Perform Rune Hunt for 10 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "425": {
+        "id": 425,
+        "desc": "Perform Rune Hunt for 20 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "426": {
+        "id": 426,
+        "desc": "Perform Rune Hunt for 30 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "427": {
+        "id": 427,
+        "desc": "Perform Rune Hunt for 50 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "428": {
+        "id": 428,
+        "desc": "Perform Rune Hunt for 70 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "429": {
+        "id": 429,
+        "desc": "Perform Rune Hunt for 100 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "430": {
+        "id": 430,
+        "desc": "Perform Rune Hunt for 150 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "431": {
+        "id": 431,
+        "desc": "Perform Rune Hunt for 200 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "432": {
+        "id": 432,
+        "desc": "Perform Rune Hunt for 250 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "433": {
+        "id": 433,
+        "desc": "Perform Rune Hunt for 300 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "434": {
+        "id": 434,
+        "desc": "Perform Rune Hunt for 350 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "435": {
+        "id": 435,
+        "desc": "Perform Rune Hunt for 400 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "436": {
+        "id": 436,
+        "desc": "Perform Rune Hunt for 450 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "437": {
+        "id": 437,
+        "desc": "Perform Rune Hunt for 500 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "438": {
+        "id": 438,
+        "desc": "Perform Rune Hunt for 600 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "439": {
+        "id": 439,
+        "desc": "Perform Rune Hunt for 700 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "440": {
+        "id": 440,
+        "desc": "Perform Rune Hunt for 800 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "441": {
+        "id": 441,
+        "desc": "Perform Rune Hunt for 900 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "442": {
+        "id": 442,
+        "desc": "Perform Rune Hunt for 1000 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "443": {
+        "id": 443,
+        "desc": "Perform Rune Hunt for 1100 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "444": {
+        "id": 444,
+        "desc": "Perform Rune Hunt for 1200 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "445": {
+        "id": 445,
+        "desc": "Perform Rune Hunt for 1300 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "446": {
+        "id": 446,
+        "desc": "Perform Rune Hunt for 1400 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "447": {
+        "id": 447,
+        "desc": "Perform Rune Hunt for 1500 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "448": {
+        "id": 448,
+        "desc": "Perform Rune Hunt for 1600 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "449": {
+        "id": 449,
+        "desc": "Perform Rune Hunt for 1700 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "450": {
+        "id": 450,
+        "desc": "Perform Rune Hunt for 1800 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "501": {
+        "id": 501,
+        "desc": "Challenge Gear Boss 2 times",
+        "type": 68,
+        "param": [
+            10017
+        ],
+        "target": 2,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            0
+        ]
+    },
+    "502": {
+        "id": 502,
+        "desc": "Challenge Server Boss once",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 1,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "503": {
+        "id": 503,
+        "desc": "Challenge Bloody Land once",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "504": {
+        "id": 504,
+        "desc": "Challenge Coin Dungeon once",
+        "type": 68,
+        "param": [
+            10003
+        ],
+        "target": 1,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "505": {
+        "id": 505,
+        "desc": "Challenge Monster Invasion twice",
+        "type": 68,
+        "param": [
+            10019
+        ],
+        "target": 2,
+        "controlTarget": [
+            1,
+            34,
+            0
+        ]
+    },
+    "506": {
+        "id": 506,
+        "desc": "Challenge King of Peaks for 6 times",
+        "type": 68,
+        "param": [
+            10031
+        ],
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "507": {
+        "id": 507,
+        "desc": "Perform Quick Battle for 3 times",
+        "type": 55,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            1,
+            33,
+            0
+        ]
+    },
+    "508": {
+        "id": 508,
+        "desc": "Challenge Demon Fortress twice",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 2,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "509": {
+        "id": 509,
+        "desc": "Perform Crystal Realm Mining for 3 times",
+        "type": 117,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "510": {
+        "id": 510,
+        "desc": "Challenge Server Boss for 12 times",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "511": {
+        "id": 511,
+        "desc": "Challenge Demon Fortress for 3 times",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "512": {
+        "id": 512,
+        "desc": "Challenge Bloody Land for 4 times",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "513": {
+        "id": 513,
+        "desc": "Challenge Monster Invasion for 5 times",
+        "type": 68,
+        "param": [
+            10019
+        ],
+        "target": 5,
+        "controlTarget": [
+            1,
+            34,
+            0
+        ]
+    },
+    "514": {
+        "id": 514,
+        "desc": "Challenge Coin Dungeon for 4 times",
+        "type": 68,
+        "param": [
+            10003
+        ],
+        "target": 4,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "515": {
+        "id": 515,
+        "desc": "Perform Quick Battle for 5 times",
+        "type": 55,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            1,
+            33,
+            0
+        ]
+    },
+    "516": {
+        "id": 516,
+        "desc": "Challenge Server Boss for 20 times in total",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "517": {
+        "id": 517,
+        "desc": "Perform Crystal Realm for 6 times",
+        "type": 117,
+        "param": [
+            -1
+        ],
+        "target": 6,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "518": {
+        "id": 518,
+        "desc": "Challenge King of Peaks for 12 times",
+        "type": 68,
+        "param": [
+            10031
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "519": {
+        "id": 519,
+        "desc": "Challenge Server Boss for 30 times in total",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "520": {
+        "id": 520,
+        "desc": "Challenge Bloody Land for 9 times",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 9,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "521": {
+        "id": 521,
+        "desc": "Challenge Monster Invasion for 15 times",
+        "type": 68,
+        "param": [
+            10019
+        ],
+        "target": 15,
+        "controlTarget": [
+            1,
+            34,
+            0
+        ]
+    },
+    "522": {
+        "id": 522,
+        "desc": "Challenge Server Boss for 40 times",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 40,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "523": {
+        "id": 523,
+        "desc": "Challenge Bloody Land for 12 times",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "524": {
+        "id": 524,
+        "desc": "Challenge Demon Fortress for 12 times",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "525": {
+        "id": 525,
+        "desc": "Challenge Dragon Castle for 12 times",
+        "type": 68,
+        "param": [
+            10039
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            15,
+            2,
+            0
+        ]
+    },
+    "526": {
+        "id": 526,
+        "desc": "Loot Poseidon's Treasure for 16 times",
+        "type": 68,
+        "param": [
+            10057
+        ],
+        "target": 16,
+        "controlTarget": [
+            5,
+            13,
+            2,
+            0
+        ]
+    },
+    "527": {
+        "id": 527,
+        "desc": "Gain Cross-server Boss Ownership for 12 times",
+        "type": 128,
+        "param": [
+            -1
+        ],
+        "target": 12,
+        "controlTarget": [
+            5,
+            16,
+            1,
+            0
+        ]
+    },
+    "528": {
+        "id": 528,
+        "desc": "Challenge Bloody Land for 15 times",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 15,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "529": {
+        "id": 529,
+        "desc": "Challenge Coin Dungeon for 10 times",
+        "type": 68,
+        "param": [
+            10003
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            15,
+            0,
+            1
+        ]
+    },
+    "530": {
+        "id": 530,
+        "desc": "Challenge Server Boss for 50 times",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "531": {
+        "id": 531,
+        "desc": "Perform Crystal Realm mining for 15 times",
+        "type": 117,
+        "param": [
+            -1
+        ],
+        "target": 15,
+        "controlTarget": [
+            5,
+            13,
+            1,
+            1
+        ]
+    },
+    "532": {
+        "id": 532,
+        "desc": "Challenge Demon Fortress for 18 times",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 18,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "533": {
+        "id": 533,
+        "desc": "Challenge King of Peaks for 36 times",
+        "type": 68,
+        "param": [
+            10031
+        ],
+        "target": 36,
+        "controlTarget": [
+            5,
+            13,
+            0,
+            1
+        ]
+    },
+    "534": {
+        "id": 534,
+        "desc": "Challenge Server Boss for 70 times",
+        "type": 68,
+        "param": [
+            10008
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            16,
+            0,
+            1
+        ]
+    },
+    "535": {
+        "id": 535,
+        "desc": "Challenge Bloody Land for 2onces",
+        "type": 68,
+        "param": [
+            10007
+        ],
+        "target": 21,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            0
+        ]
+    },
+    "536": {
+        "id": 536,
+        "desc": "Challenge Demon Fortress for 2onces",
+        "type": 68,
+        "param": [
+            10004
+        ],
+        "target": 21,
+        "controlTarget": [
+            5,
+            15,
+            1,
+            1
+        ]
+    },
+    "601": {
+        "id": 601,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "602": {
+        "id": 602,
+        "desc": "Perform Gear Hunt for 3 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "603": {
+        "id": 603,
+        "desc": "Perform Gear Hunt for 5 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "604": {
+        "id": 604,
+        "desc": "Perform Gear Hunt for 10 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "605": {
+        "id": 605,
+        "desc": "Perform Gear Hunt for 20 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "606": {
+        "id": 606,
+        "desc": "Perform Gear Hunt for 30 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "607": {
+        "id": 607,
+        "desc": "Perform Gear Hunt for 50 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "608": {
+        "id": 608,
+        "desc": "Perform Gear Hunt for 70 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "609": {
+        "id": 609,
+        "desc": "Perform Gear Hunt for 100 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "610": {
+        "id": 610,
+        "desc": "Perform Gear Hunt for 150 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "611": {
+        "id": 611,
+        "desc": "Perform Gear Hunt for 200 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "612": {
+        "id": 612,
+        "desc": "Perform Gear Hunt for 250 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "613": {
+        "id": 613,
+        "desc": "Perform Gear Hunt for 300 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "614": {
+        "id": 614,
+        "desc": "Perform Gear Hunt for 350 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "615": {
+        "id": 615,
+        "desc": "Perform Gear Hunt for 400 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "616": {
+        "id": 616,
+        "desc": "Perform Gear Hunt for 450 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "617": {
+        "id": 617,
+        "desc": "Perform Gear Hunt for 500 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "618": {
+        "id": 618,
+        "desc": "Perform Gear Hunt for 600 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "619": {
+        "id": 619,
+        "desc": "Perform Gear Hunt for 700 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "620": {
+        "id": 620,
+        "desc": "Perform Gear Hunt for 800 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "621": {
+        "id": 621,
+        "desc": "Perform Gear Hunt for 900 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "622": {
+        "id": 622,
+        "desc": "Perform Gear Hunt for 1000 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "623": {
+        "id": 623,
+        "desc": "Perform Gear Hunt for 1100 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "624": {
+        "id": 624,
+        "desc": "Perform Gear Hunt for 1200 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "625": {
+        "id": 625,
+        "desc": "Perform Gear Hunt for 1300 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "626": {
+        "id": 626,
+        "desc": "Perform Gear Hunt for 1400 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "627": {
+        "id": 627,
+        "desc": "Perform Gear Hunt for 1500 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "628": {
+        "id": 628,
+        "desc": "Perform Gear Hunt for 1600 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "629": {
+        "id": 629,
+        "desc": "Perform Gear Hunt for 1700 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "630": {
+        "id": 630,
+        "desc": "Perform Gear Hunt for 1800 times",
+        "type": 150,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            0
+        ]
+    },
+    "631": {
+        "id": 631,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "632": {
+        "id": 632,
+        "desc": "Perform Peak Hunt for 3 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "633": {
+        "id": 633,
+        "desc": "Perform Peak Hunt for 5 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "634": {
+        "id": 634,
+        "desc": "Perform Peak Hunt for 10 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "635": {
+        "id": 635,
+        "desc": "Perform Peak Hunt for 20 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "636": {
+        "id": 636,
+        "desc": "Perform Peak Hunt for 30 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "637": {
+        "id": 637,
+        "desc": "Perform Peak Hunt for 50 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "638": {
+        "id": 638,
+        "desc": "Perform Peak Hunt for 70 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "639": {
+        "id": 639,
+        "desc": "Perform Peak Hunt for 100 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "640": {
+        "id": 640,
+        "desc": "Perform Peak Hunt for 150 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "641": {
+        "id": 641,
+        "desc": "Perform Peak Hunt for 200 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "642": {
+        "id": 642,
+        "desc": "Perform Peak Hunt for 250 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "643": {
+        "id": 643,
+        "desc": "Perform Peak Hunt for 300 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "644": {
+        "id": 644,
+        "desc": "Perform Peak Hunt for 350 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "645": {
+        "id": 645,
+        "desc": "Perform Peak Hunt for 400 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "646": {
+        "id": 646,
+        "desc": "Perform Peak Hunt for 450 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "647": {
+        "id": 647,
+        "desc": "Perform Peak Hunt for 500 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "648": {
+        "id": 648,
+        "desc": "Perform Peak Hunt for 600 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "649": {
+        "id": 649,
+        "desc": "Perform Peak Hunt for 700 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "650": {
+        "id": 650,
+        "desc": "Perform Peak Hunt for 800 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "651": {
+        "id": 651,
+        "desc": "Perform Peak Hunt for 900 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "652": {
+        "id": 652,
+        "desc": "Perform Peak Hunt for 1000 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "653": {
+        "id": 653,
+        "desc": "Perform Peak Hunt for 1100 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "654": {
+        "id": 654,
+        "desc": "Perform Peak Hunt for 1200 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "655": {
+        "id": 655,
+        "desc": "Perform Peak Hunt for 1300 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "656": {
+        "id": 656,
+        "desc": "Perform Peak Hunt for 1400 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "657": {
+        "id": 657,
+        "desc": "Perform Peak Hunt for 1500 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "658": {
+        "id": 658,
+        "desc": "Perform Peak Hunt for 1600 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "659": {
+        "id": 659,
+        "desc": "Perform Peak Hunt for 1700 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "660": {
+        "id": 660,
+        "desc": "Perform Peak Hunt for 1800 times",
+        "type": 165,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            3
+        ]
+    },
+    "661": {
+        "id": 661,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "662": {
+        "id": 662,
+        "desc": "Perform Deity Hunt for 3 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "663": {
+        "id": 663,
+        "desc": "Perform Deity Hunt for 5 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "664": {
+        "id": 664,
+        "desc": "Perform Deity Hunt for 10 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "665": {
+        "id": 665,
+        "desc": "Perform Deity Hunt for 20 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "666": {
+        "id": 666,
+        "desc": "Perform Deity Hunt for 30 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "667": {
+        "id": 667,
+        "desc": "Perform Deity Hunt for 50 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "668": {
+        "id": 668,
+        "desc": "Perform Deity Hunt for 70 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "669": {
+        "id": 669,
+        "desc": "Perform Deity Hunt for 100 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "670": {
+        "id": 670,
+        "desc": "Perform Deity Hunt for 150 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "671": {
+        "id": 671,
+        "desc": "Perform Deity Hunt for 200 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "672": {
+        "id": 672,
+        "desc": "Perform Deity Hunt for 250 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "673": {
+        "id": 673,
+        "desc": "Perform Deity Hunt for 300 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "674": {
+        "id": 674,
+        "desc": "Perform Deity Hunt for 350 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "675": {
+        "id": 675,
+        "desc": "Perform Deity Hunt for 400 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "676": {
+        "id": 676,
+        "desc": "Perform Deity Hunt for 450 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "677": {
+        "id": 677,
+        "desc": "Perform Deity Hunt for 500 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "678": {
+        "id": 678,
+        "desc": "Perform Deity Hunt for 600 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "679": {
+        "id": 679,
+        "desc": "Perform Deity Hunt for 700 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "680": {
+        "id": 680,
+        "desc": "Perform Deity Hunt for 800 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "681": {
+        "id": 681,
+        "desc": "Perform Deity Hunt for 900 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "682": {
+        "id": 682,
+        "desc": "Perform Deity Hunt for 1000 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "683": {
+        "id": 683,
+        "desc": "Perform Deity Hunt for 1100 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "684": {
+        "id": 684,
+        "desc": "Perform Deity Hunt for 1200 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "685": {
+        "id": 685,
+        "desc": "Perform Deity Hunt for 1300 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "686": {
+        "id": 686,
+        "desc": "Perform Deity Hunt for 1400 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "687": {
+        "id": 687,
+        "desc": "Perform Deity Hunt for 1500 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "688": {
+        "id": 688,
+        "desc": "Perform Deity Hunt for 1600 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "689": {
+        "id": 689,
+        "desc": "Perform Deity Hunt for 1700 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "690": {
+        "id": 690,
+        "desc": "Perform Deity Hunt for 1800 times",
+        "type": 166,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            4
+        ]
+    },
+    "691": {
+        "id": 691,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "692": {
+        "id": 692,
+        "desc": "Perform Soulgear Hunt for 3 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "693": {
+        "id": 693,
+        "desc": "Perform Soulgear Hunt for 5 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "694": {
+        "id": 694,
+        "desc": "Perform Soulgear Hunt for 10 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "695": {
+        "id": 695,
+        "desc": "Perform Soulgear Hunt for 20 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "696": {
+        "id": 696,
+        "desc": "Perform Soulgear Hunt for 30 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "697": {
+        "id": 697,
+        "desc": "Perform Soulgear Hunt for 50 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "698": {
+        "id": 698,
+        "desc": "Perform Soulgear Hunt for 70 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "699": {
+        "id": 699,
+        "desc": "Perform Soulgear Hunt for 100 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "700": {
+        "id": 700,
+        "desc": "Perform Soulgear Hunt for 150 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "701": {
+        "id": 701,
+        "desc": "Perform Soulgear Hunt for 200 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "702": {
+        "id": 702,
+        "desc": "Perform Soulgear Hunt for 250 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "703": {
+        "id": 703,
+        "desc": "Perform Soulgear Hunt for 300 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "704": {
+        "id": 704,
+        "desc": "Perform Soulgear Hunt for 350 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "705": {
+        "id": 705,
+        "desc": "Perform Soulgear Hunt for 400 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "706": {
+        "id": 706,
+        "desc": "Perform Soulgear Hunt for 450 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "707": {
+        "id": 707,
+        "desc": "Perform Soulgear Hunt for 500 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "708": {
+        "id": 708,
+        "desc": "Perform Soulgear Hunt for 600 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "709": {
+        "id": 709,
+        "desc": "Perform Soulgear Hunt for 700 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "710": {
+        "id": 710,
+        "desc": "Perform Soulgear Hunt for 800 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "711": {
+        "id": 711,
+        "desc": "Perform Soulgear Hunt for 900 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "712": {
+        "id": 712,
+        "desc": "Perform Soulgear Hunt for 1000 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "713": {
+        "id": 713,
+        "desc": "Perform Soulgear Hunt for 1100 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "714": {
+        "id": 714,
+        "desc": "Perform Soulgear Hunt for 1200 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "715": {
+        "id": 715,
+        "desc": "Perform Soulgear Hunt for 1300 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "716": {
+        "id": 716,
+        "desc": "Perform Soulgear Hunt for 1400 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "717": {
+        "id": 717,
+        "desc": "Perform Soulgear Hunt for 1500 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "718": {
+        "id": 718,
+        "desc": "Perform Soulgear Hunt for 1600 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "719": {
+        "id": 719,
+        "desc": "Perform Soulgear Hunt for 1700 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "720": {
+        "id": 720,
+        "desc": "Perform Soulgear Hunt for 1800 times",
+        "type": 7,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            1
+        ]
+    },
+    "721": {
+        "id": 721,
+        "desc": "Perform Daily First Top-up once",
+        "type": 162,
+        "param": [
+            -1
+        ],
+        "target": 1,
+        "controlTarget": [
+            1,
+            31,
+            0
+        ]
+    },
+    "722": {
+        "id": 722,
+        "desc": "Perform Rune Hunt for 3 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 3,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "723": {
+        "id": 723,
+        "desc": "Perform Rune Hunt for 5 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 5,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "724": {
+        "id": 724,
+        "desc": "Perform Rune Hunt for 10 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 10,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "725": {
+        "id": 725,
+        "desc": "Perform Rune Hunt for 20 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 20,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "726": {
+        "id": 726,
+        "desc": "Perform Rune Hunt for 30 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 30,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "727": {
+        "id": 727,
+        "desc": "Perform Rune Hunt for 50 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 50,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "728": {
+        "id": 728,
+        "desc": "Perform Rune Hunt for 70 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 70,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "729": {
+        "id": 729,
+        "desc": "Perform Rune Hunt for 100 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "730": {
+        "id": 730,
+        "desc": "Perform Rune Hunt for 150 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 150,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "731": {
+        "id": 731,
+        "desc": "Perform Rune Hunt for 200 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "732": {
+        "id": 732,
+        "desc": "Perform Rune Hunt for 250 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 250,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "733": {
+        "id": 733,
+        "desc": "Perform Rune Hunt for 300 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "734": {
+        "id": 734,
+        "desc": "Perform Rune Hunt for 350 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 350,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "735": {
+        "id": 735,
+        "desc": "Perform Rune Hunt for 400 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "736": {
+        "id": 736,
+        "desc": "Perform Rune Hunt for 450 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 450,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "737": {
+        "id": 737,
+        "desc": "Perform Rune Hunt for 500 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "738": {
+        "id": 738,
+        "desc": "Perform Rune Hunt for 600 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "739": {
+        "id": 739,
+        "desc": "Perform Rune Hunt for 700 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "740": {
+        "id": 740,
+        "desc": "Perform Rune Hunt for 800 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "741": {
+        "id": 741,
+        "desc": "Perform Rune Hunt for 900 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 900,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "742": {
+        "id": 742,
+        "desc": "Perform Rune Hunt for 1000 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1000,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "743": {
+        "id": 743,
+        "desc": "Perform Rune Hunt for 1100 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1100,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "744": {
+        "id": 744,
+        "desc": "Perform Rune Hunt for 1200 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1200,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "745": {
+        "id": 745,
+        "desc": "Perform Rune Hunt for 1300 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1300,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "746": {
+        "id": 746,
+        "desc": "Perform Rune Hunt for 1400 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1400,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "747": {
+        "id": 747,
+        "desc": "Perform Rune Hunt for 1500 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1500,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "748": {
+        "id": 748,
+        "desc": "Perform Rune Hunt for 1600 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1600,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "749": {
+        "id": 749,
+        "desc": "Perform Rune Hunt for 1700 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1700,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    },
+    "750": {
+        "id": 750,
+        "desc": "Perform Rune Hunt for 1800 times",
+        "type": 101,
+        "param": [
+            -1
+        ],
+        "target": 1800,
+        "controlTarget": [
+            5,
+            23,
+            0,
+            2
+        ]
+    }
+}
