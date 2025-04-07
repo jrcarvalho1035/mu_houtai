@@ -1,0 +1,73 @@
+-- from campbattle.xlsx 积分达标奖励 
+CampBattleScoreRewardConfig={
+	[1]={
+		id = 1,
+		score = 200,
+		rewards = {{type=0,id=37,count=100},{type=1,id=1010401,count=2}},
+	},
+	[2]={
+		id = 2,
+		score = 500,
+		rewards = {{type=0,id=37,count=120},{type=1,id=1081401,count=2}},
+	},
+	[3]={
+		id = 3,
+		score = 1000,
+		rewards = {{type=0,id=37,count=140},{type=1,id=1081501,count=2}},
+	},
+	[4]={
+		id = 4,
+		score = 2000,
+		rewards = {{type=0,id=37,count=200},{type=1,id=1071004,count=2}},
+	},
+	[5]={
+		id = 5,
+		score = 3000,
+		rewards = {{type=0,id=37,count=240},{type=1,id=1010402,count=2}},
+	},
+	[6]={
+		id = 6,
+		score = 4000,
+		rewards = {{type=0,id=37,count=280},{type=1,id=1081402,count=2}},
+	},
+	[7]={
+		id = 7,
+		score = 5000,
+		rewards = {{type=0,id=37,count=320},{type=1,id=1081502,count=2}},
+	},
+	[8]={
+		id = 8,
+		score = 6000,
+		rewards = {{type=0,id=37,count=360},{type=1,id=1081602,count=2}},
+	},
+	[9]={
+		id = 9,
+		score = 8000,
+		rewards = {{type=0,id=37,count=600},{type=1,id=1010403,count=2}},
+	},
+	[10]={
+		id = 10,
+		score = 10000,
+		rewards = {{type=0,id=37,count=700},{type=1,id=1081403,count=2}},
+	},
+	[11]={
+		id = 11,
+		score = 15000,
+		rewards = {{type=0,id=37,count=800},{type=1,id=1081503,count=5}},
+	},
+	[12]={
+		id = 12,
+		score = 20000,
+		rewards = {{type=0,id=37,count=1000},{type=1,id=1081603,count=5}},
+	},
+	[13]={
+		id = 13,
+		score = 30000,
+		rewards = {{type=0,id=37,count=1200},{type=1,id=1081504,count=1}},
+	},
+	[14]={
+		id = 14,
+		score = 40000,
+		rewards = {{type=0,id=37,count=1400},{type=1,id=1081604,count=1}},
+	},
+}

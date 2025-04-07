@@ -1,0 +1,105 @@
+-- from damon.xlsx 精灵商店 
+DamonShopConfig={
+	[500001]={
+		id = 500001,
+		integral = 40,
+		limit = 10,
+		level = 1,
+	},
+	[500002]={
+		id = 500002,
+		integral = 40,
+		limit = 10,
+		level = 1,
+	},
+	[500003]={
+		id = 500003,
+		integral = 60,
+		limit = 10,
+		level = 1,
+	},
+	[500004]={
+		id = 500004,
+		integral = 60,
+		limit = 10,
+		level = 1,
+	},
+	[500005]={
+		id = 500005,
+		integral = 80,
+		limit = 10,
+		level = 1,
+	},
+	[500006]={
+		id = 500006,
+		integral = 80,
+		limit = 10,
+		level = 1,
+	},
+	[500007]={
+		id = 500007,
+		integral = 200,
+		limit = 10,
+		level = 1,
+	},
+	[500008]={
+		id = 500008,
+		integral = 200,
+		limit = 10,
+		level = 1,
+	},
+	[500009]={
+		id = 500009,
+		integral = 400,
+		limit = 10,
+		level = 1,
+	},
+	[500010]={
+		id = 500010,
+		integral = 800,
+		limit = 10,
+		level = 1,
+	},
+	[500011]={
+		id = 500011,
+		integral = 1200,
+		limit = 10,
+		level = 1,
+	},
+	[500012]={
+		id = 500012,
+		integral = 1600,
+		limit = 10,
+		level = 1,
+	},
+	[500013]={
+		id = 500013,
+		integral = 2400,
+		limit = 10,
+		level = 1,
+	},
+	[500014]={
+		id = 500014,
+		integral = 4000,
+		limit = 10,
+		level = 1,
+	},
+	[500015]={
+		id = 500015,
+		integral = 3200,
+		limit = 10,
+		level = 1,
+	},
+	[500016]={
+		id = 500016,
+		integral = 6000,
+		limit = 10,
+		level = 1,
+	},
+	[500017]={
+		id = 500017,
+		integral = 8000,
+		limit = 10,
+		level = 1,
+	},
+}

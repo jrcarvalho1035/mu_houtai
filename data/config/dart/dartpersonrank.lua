@@ -1,0 +1,66 @@
+-- from yunbiao.xlsx 个人排名奖奖励 
+DartPersonRankConfig={
+	[1]={
+		idx = 1,
+		range = {1,1},
+		head = Lang.DartPersonRankConfig_head_1,
+		context = Lang.DartPersonRankConfig_context_1,
+		award = {{type=1,id=310101,count=120000},{type=0,id=30,count=50000}},
+	},
+	[2]={
+		idx = 2,
+		range = {2,2},
+		head = Lang.DartPersonRankConfig_head_2,
+		context = Lang.DartPersonRankConfig_context_1,
+		award = {{type=1,id=310101,count=80000},{type=0,id=30,count=40000}},
+	},
+	[3]={
+		idx = 3,
+		range = {3,3},
+		head = Lang.DartPersonRankConfig_head_3,
+		context = Lang.DartPersonRankConfig_context_1,
+		award = {{type=1,id=310101,count=50000},{type=0,id=30,count=30000}},
+	},
+	[4]={
+		idx = 4,
+		range = {4,10},
+		head = Lang.DartPersonRankConfig_head_4,
+		context = Lang.DartPersonRankConfig_context_1,
+		award = {{type=1,id=310101,count=30000},{type=0,id=30,count=25000}},
+	},
+	[5]={
+		idx = 5,
+		range = {11,20},
+		head = Lang.DartPersonRankConfig_head_5,
+		context = Lang.DartPersonRankConfig_context_1,
+		award = {{type=1,id=310101,count=20000},{type=0,id=30,count=20000}},
+	},
+	[6]={
+		idx = 6,
+		range = {21,50},
+		head = Lang.DartPersonRankConfig_head_6,
+		context = Lang.DartPersonRankConfig_context_1,
+		award = {{type=1,id=310101,count=15000},{type=0,id=30,count=18000}},
+	},
+	[7]={
+		idx = 7,
+		range = {51,100},
+		head = Lang.DartPersonRankConfig_head_7,
+		context = Lang.DartPersonRankConfig_context_1,
+		award = {{type=1,id=310101,count=10000},{type=0,id=30,count=16000}},
+	},
+	[8]={
+		idx = 8,
+		range = {101,200},
+		head = Lang.DartPersonRankConfig_head_8,
+		context = Lang.DartPersonRankConfig_context_1,
+		award = {{type=1,id=310101,count=9000},{type=0,id=30,count=14000}},
+	},
+	[9]={
+		idx = 9,
+		range = {201,20000},
+		head = Lang.DartPersonRankConfig_head_9,
+		context = Lang.DartPersonRankConfig_context_1,
+		award = {{type=1,id=310101,count=8000},{type=0,id=30,count=10000}},
+	},
+}

@@ -1,0 +1,219 @@
+-- -- @version	1.0
+-- -- @author	qianmeng
+-- -- @date	2018-5-30 11:57:55.
+-- -- @system	威望系统
+
+-- module("deter", package.seeall)
+-- require("deter.deterexp")
+-- require("deter.deterobtain")
+-- require("deter.detercom")
+
+-- function getActorVar(actor)
+-- 	if not actor then return end
+-- 	local var = LActor.getStaticVar(actor)
+-- 	if not var then return end
+-- 	if not var.deterdata then 
+-- 		var.deterdata = {
+-- 			yesterdays = {}, 	--昨天有无追回
+-- 			todaycodition = {}, --今天条件是否满足
+-- 		} 
+-- 	end
+-- 	return var.deterdata
+-- end
+
+-- local function getDeterLevel(deter)
+-- 	local level = 1
+-- 	for k, v in ipairs(DeterExpConfig) do
+-- 		if deter >= v.value then
+-- 			level = k
+-- 		else
+-- 			break
+-- 		end
+-- 	end
+-- 	return level
+-- end
+
+-- --更新属性
+-- function updateAttr(actor, calc)
+-- 	if not actorexp.checkLevelCondition(actor, actorexp.LimitTp.deter) then return end
+-- 	local addAttrs = {}
+-- 	local deter = LActor.getDeter(actor)
+-- 	local lv = getDeterLevel(deter)
+-- 	for k, v in pairs(DeterExpConfig[lv].attr) do
+-- 		addAttrs[v.type] = (addAttrs[v.type] or 0) + v.value
+-- 	end
+
+-- 	local attr = LActor.getRoleSystemAttrs(actor, AttrRoleSysId_Deter)
+-- 	attr:Reset()
+-- 	for k, v in pairs(addAttrs) do
+-- 		attr:Set(k, v)
+-- 	end
+-- 	if calc then
+-- 		LActor.reCalcAttr(actor)
+-- 	end
+-- end
+
+-- -----------------------------------------------------------------------------
+-- function s2cDeterInfo(actor)
+-- 	local pack = LDataPack.allocPacket(actor, Protocol.CMD_Play, Protocol.sDeterCmd_Info)
+-- 	if pack == nil then return end
+-- 	local var = getActorVar(actor)
+-- 	local count = 0
+-- 	for k, v in pairs(DeterObtainConfig) do
+-- 		count = count + (var.yesterdays[k] or 0)
+-- 	end
+-- 	LDataPack.writeInt(pack, count)
+-- 	LDataPack.flush(pack)
+-- end
+
+-- --威望追回
+-- function c2sDeterRecover(actor, packet)
+-- 	local var = getActorVar(actor)
+-- 	if not var then return end
+-- 	local count = 0
+-- 	for k, v in pairs(DeterObtainConfig) do
+-- 		count = count + (var.yesterdays[k] or 0)
+-- 	end
+
+-- 	if count == 0 then print("#### 1") return end
+-- 	if not actoritem.checkItem(actor, NumericType_YuanBao, count*DeterComConfig.unitPrice) then
+-- 		print("#### 2")
+-- 		return
+-- 	end
+-- 	actoritem.reduceItem(actor, NumericType_YuanBao, count*DeterComConfig.unitPrice, "recover deter")
+-- 	var.yesterdays = {}
+-- 	actoritem.addItem(actor, NumericType_Deter, count, "recover deter")
+-- 	s2cDeterInfo(actor)
+-- end
+
+-- --返回威望UI的信息：自己名次与第一名的信息
+-- function cs2DeterRanking(actor, packet)
+-- 	local rank = Ranking.getStaticRank(RankingType_Deter)
+-- 	local ranking = Ranking.getSRIndexFromId(rank, LActor.getActorId(actor)) + 1
+
+-- 	local pack = LDataPack.allocPacket(actor, Protocol.CMD_Play, Protocol.sDeterCmd_Ranking)
+-- 	if pack == nil then return end
+-- 	LDataPack.writeInt(pack, ranking) --自己名次
+
+-- 	--第一名的信息
+-- 	local cache = Ranking.getRankingFirstCacheByType(RankingType_Deter)
+-- 	if cache ~= nil then 
+-- 		LDataPack.writePacket(pack, cache)
+-- 	else 
+-- 		LDataPack.writeInt(pack,0)
+-- 	end
+-- 	LDataPack.flush(pack)
+-- end
+
+-- function onInit(actor)
+-- 	updateAttr(actor, false)
+-- end
+
+-- function onLogin(actor)
+-- 	s2cDeterInfo(actor)
+-- end 
+
+-- function onNewDay(actor, login)
+-- 	local var = getActorVar(actor)
+-- 	--把条件值变为昨天的威望追回值
+-- 	for k, v in pairs(DeterObtainConfig) do
+-- 		if var.todaycodition[k] then
+-- 			var.yesterdays[k] = var.todaycodition[k]
+-- 		end
+-- 	end
+-- 	--取得今天的条件值
+-- 	if System.getDayOfWeek() == GuildBattleConst.open.week then
+-- 		if actorexp.checkLevelCondition(actor, actorexp.LimitTp.guild) then
+-- 			var.todaycodition[1] = DeterObtainConfig[1].recover
+-- 		end
+-- 	end
+-- 	if actorexp.checkLevelCondition(actor, actorexp.LimitTp.fort) then
+-- 		var.todaycodition[2] = DeterObtainConfig[2].recover
+-- 	elseif actorexp.checkLevelCondition(actor, actorexp.LimitTp.mine) then
+-- 		var.todaycodition[3] = DeterObtainConfig[3].recover
+-- 	elseif actorexp.checkLevelCondition(actor, actorexp.LimitTp.guzhanchang) then
+-- 		var.todaycodition[4] = DeterObtainConfig[4].recover
+-- 	elseif actorexp.checkLevelCondition(actor, actorexp.LimitTp.tianti) then
+-- 		var.todaycodition[5] = DeterObtainConfig[5].recover
+-- 	end
+
+-- 	--每天扣减威望值
+-- 	local deter = LActor.getDeter(actor)
+-- 	local lv = getDeterLevel(deter)
+-- 	actoritem.reduceItem(actor, NumericType_Deter, DeterExpConfig[lv].deduct, "newday reduce")
+-- end
+
+-- --升级时开启了系统，记录进今日条件
+-- function onLevelUp(actor, level, oldLevel)
+-- 	local var = getActorVar(actor)
+-- 	if System.getDayOfWeek() == GuildBattleConst.open.week then
+-- 		local lv = actorexp.getLimitLevel(actor,actorexp.LimitTp.guild)
+-- 		if lv > oldLevel and lv <= level then
+-- 			var.todaycodition[1] = DeterObtainConfig[1].recover
+-- 		end
+-- 	end
+-- 	local lv = actorexp.getLimitLevel(actor,actorexp.LimitTp.fort)
+-- 	if lv > oldLevel and lv <= level then
+-- 		var.todaycodition[2] = DeterObtainConfig[2].recover
+-- 	end
+-- 	local lv = actorexp.getLimitLevel(actor,actorexp.LimitTp.mine)
+-- 	if lv > oldLevel and lv <= level then
+-- 		var.todaycodition[3] = DeterObtainConfig[3].recover
+-- 	end
+-- 	local lv = actorexp.getLimitLevel(actor,actorexp.LimitTp.guzhanchang)
+-- 	if lv > oldLevel and lv <= level then
+-- 		var.todaycodition[4] = DeterObtainConfig[4].recover
+-- 	end
+-- 	local lv = actorexp.getLimitLevel(actor,actorexp.LimitTp.tianti)
+-- 	if lv > oldLevel and lv <= level then
+-- 		var.todaycodition[5] = DeterObtainConfig[5].recover
+-- 	end
+-- end
+
+-- --如果玩家进入了副本，就表示明天追不回，把今天条件设0
+-- function onEnterFuben(actor, fubenId, isLogin)
+-- 	if isLogin then return end --登录时进入挂机副本
+-- 	local var = getActorVar(actor)
+-- 	local conf = FubenConfig[fubenId]
+-- 	-- if conf.group == FubenGroupAlias.nolan then
+-- 	-- 	var.todaycodition[1] = 0
+-- 	-- elseif conf.group == FubenGroupAlias.fort then
+-- 	-- 	var.todaycodition[2] = 0
+-- 	-- elseif conf.group == FubenGroupAlias.minepk then
+-- 	-- 	var.todaycodition[3] = 0
+-- 	-- elseif conf.group == FubenGroupAlias.guzhan then
+-- 	-- 	var.todaycodition[4] = 0
+-- 	-- elseif conf.group == FubenGroupAlias.tianti then
+-- 	-- 	var.todaycodition[5] = 0
+-- 	-- end
+-- end
+
+-- --威值等级变更公告
+-- function onDeterUpdate(actor, oldDeter, newDeter)
+-- 	local oldLv = getDeterLevel(oldDeter)
+-- 	local newLv = getDeterLevel(newDeter)
+-- 	if newLv > oldLv then
+-- 		noticesystem.broadCastNotice(noticesystem.NTP.deter, LActor.getName(actor), DeterExpConfig[oldLv].name, DeterExpConfig[newLv].name)
+-- 	end
+-- end
+
+-- -- actorevent.reg(aeNewDayArrive, onNewDay)
+-- -- actorevent.reg(aeUserLogin, onLogin)
+-- -- actorevent.reg(aeInit, onInit)
+-- -- actorevent.reg(aeLevel, onLevelUp)
+-- -- actorevent.reg(aeEnterFuben, onEnterFuben)
+-- -- actorevent.reg(aeDeterUpdate, onDeterUpdate)
+-- -- netmsgdispatcher.reg(Protocol.CMD_Play, Protocol.cDeterCmd_Recover, c2sDeterRecover)
+-- -- netmsgdispatcher.reg(Protocol.CMD_Play, Protocol.cDeterCmd_Ranking, cs2DeterRanking)
+
+-- local gmCmdHandlers = gmsystem.gmCmdHandlers
+-- gmCmdHandlers.deterinfo = function (actor, args)
+-- 	print(LActor.getDeter(actor))
+-- 	local rank = Ranking.getStaticRank(RankingType_Deter)
+-- 	local ranking = Ranking.getSRIndexFromId(rank, LActor.getActorId(actor)) + 1
+-- 	print(ranking)
+-- end
+
+-- gmCmdHandlers.deterrecover = function (actor, args)
+-- 	c2sDeterRecover(actor)
+-- end

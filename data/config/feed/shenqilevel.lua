@@ -1,0 +1,15003 @@
+-- from shenqi.xlsx 神器等级表 
+ShenqiLevelConfig={
+	[1]={
+		star = 1,
+		needitem = {{type=1,id=1010000,count=10}},
+		attr = {{type=32,value=1654},{type=5,value=430},{type=11,value=516},},
+	},
+	[2]={
+		star = 2,
+		needitem = {{type=1,id=1010000,count=10}},
+		attr = {{type=32,value=3326},{type=5,value=866},{type=11,value=1039},},
+	},
+	[3]={
+		star = 3,
+		needitem = {{type=1,id=1010000,count=10}},
+		attr = {{type=32,value=5017},{type=5,value=1306},{type=11,value=1567},},
+	},
+	[4]={
+		star = 4,
+		needitem = {{type=1,id=1010000,count=10}},
+		attr = {{type=32,value=6726},{type=5,value=1751},{type=11,value=2101},},
+	},
+	[5]={
+		star = 5,
+		needitem = {{type=1,id=1010000,count=10}},
+		attr = {{type=32,value=8453},{type=5,value=2201},{type=11,value=2641},},
+	},
+	[6]={
+		star = 6,
+		needitem = {{type=1,id=1010000,count=10}},
+		attr = {{type=32,value=10198},{type=5,value=2655},{type=11,value=3187},},
+	},
+	[7]={
+		star = 7,
+		needitem = {{type=1,id=1010000,count=10}},
+		attr = {{type=32,value=11962},{type=5,value=3115},{type=11,value=3738},},
+	},
+	[8]={
+		star = 8,
+		needitem = {{type=1,id=1010000,count=10}},
+		attr = {{type=32,value=13744},{type=5,value=3579},{type=11,value=4295},},
+	},
+	[9]={
+		star = 9,
+		needitem = {{type=1,id=1010000,count=10}},
+		attr = {{type=32,value=15544},{type=5,value=4048},{type=11,value=4857},},
+	},
+	[10]={
+		star = 10,
+		needitem = {{type=1,id=1010000,count=11}},
+		attr = {{type=32,value=17363},{type=5,value=4521},{type=11,value=5425},},
+	},
+	[11]={
+		star = 11,
+		needitem = {{type=1,id=1010000,count=11}},
+		attr = {{type=32,value=19199},{type=5,value=4999},{type=11,value=5999},},
+	},
+	[12]={
+		star = 12,
+		needitem = {{type=1,id=1010000,count=11}},
+		attr = {{type=32,value=21054},{type=5,value=5482},{type=11,value=6579},},
+	},
+	[13]={
+		star = 13,
+		needitem = {{type=1,id=1010000,count=11}},
+		attr = {{type=32,value=22927},{type=5,value=5970},{type=11,value=7164},},
+	},
+	[14]={
+		star = 14,
+		needitem = {{type=1,id=1010000,count=11}},
+		attr = {{type=32,value=24818},{type=5,value=6463},{type=11,value=7755},},
+	},
+	[15]={
+		star = 15,
+		needitem = {{type=1,id=1010000,count=11}},
+		attr = {{type=32,value=26728},{type=5,value=6960},{type=11,value=8352},},
+	},
+	[16]={
+		star = 16,
+		needitem = {{type=1,id=1010000,count=11}},
+		attr = {{type=32,value=28656},{type=5,value=7462},{type=11,value=8955},},
+	},
+	[17]={
+		star = 17,
+		needitem = {{type=1,id=1010000,count=11}},
+		attr = {{type=32,value=30620},{type=5,value=7974},{type=11,value=9568},},
+	},
+	[18]={
+		star = 18,
+		needitem = {{type=1,id=1010000,count=11}},
+		attr = {{type=32,value=32621},{type=5,value=8495},{type=11,value=10194},},
+	},
+	[19]={
+		star = 19,
+		needitem = {{type=1,id=1010000,count=11}},
+		attr = {{type=32,value=34658},{type=5,value=9025},{type=11,value=10830},},
+	},
+	[20]={
+		star = 20,
+		needitem = {{type=1,id=1010000,count=12}},
+		attr = {{type=32,value=36732},{type=5,value=9565},{type=11,value=11478},},
+	},
+	[21]={
+		star = 21,
+		needitem = {{type=1,id=1010000,count=12}},
+		attr = {{type=32,value=38832},{type=5,value=10112},{type=11,value=12135},},
+	},
+	[22]={
+		star = 22,
+		needitem = {{type=1,id=1010000,count=12}},
+		attr = {{type=32,value=40968},{type=5,value=10668},{type=11,value=12802},},
+	},
+	[23]={
+		star = 23,
+		needitem = {{type=1,id=1010000,count=12}},
+		attr = {{type=32,value=43141},{type=5,value=11234},{type=11,value=13481},},
+	},
+	[24]={
+		star = 24,
+		needitem = {{type=1,id=1010000,count=12}},
+		attr = {{type=32,value=45350},{type=5,value=11810},{type=11,value=14172},},
+	},
+	[25]={
+		star = 25,
+		needitem = {{type=1,id=1010000,count=13}},
+		attr = {{type=32,value=47596},{type=5,value=12394},{type=11,value=14873},},
+	},
+	[26]={
+		star = 26,
+		needitem = {{type=1,id=1010000,count=13}},
+		attr = {{type=32,value=49867},{type=5,value=12986},{type=11,value=15583},},
+	},
+	[27]={
+		star = 27,
+		needitem = {{type=1,id=1010000,count=13}},
+		attr = {{type=32,value=52175},{type=5,value=13587},{type=11,value=16304},},
+	},
+	[28]={
+		star = 28,
+		needitem = {{type=1,id=1010000,count=13}},
+		attr = {{type=32,value=54520},{type=5,value=14198},{type=11,value=17037},},
+	},
+	[29]={
+		star = 29,
+		needitem = {{type=1,id=1010000,count=13}},
+		attr = {{type=32,value=56901},{type=5,value=14818},{type=11,value=17781},},
+	},
+	[30]={
+		star = 30,
+		needitem = {{type=1,id=1010000,count=14}},
+		attr = {{type=32,value=59319},{type=5,value=15447},{type=11,value=18537},},
+	},
+	[31]={
+		star = 31,
+		needitem = {{type=1,id=1010000,count=14}},
+		attr = {{type=32,value=61763},{type=5,value=16084},{type=11,value=19300},},
+	},
+	[32]={
+		star = 32,
+		needitem = {{type=1,id=1010000,count=14}},
+		attr = {{type=32,value=64243},{type=5,value=16729},{type=11,value=20075},},
+	},
+	[33]={
+		star = 33,
+		needitem = {{type=1,id=1010000,count=14}},
+		attr = {{type=32,value=66759},{type=5,value=17385},{type=11,value=20862},},
+	},
+	[34]={
+		star = 34,
+		needitem = {{type=1,id=1010000,count=14}},
+		attr = {{type=32,value=69312},{type=5,value=18050},{type=11,value=21660},},
+	},
+	[35]={
+		star = 35,
+		needitem = {{type=1,id=1010000,count=15}},
+		attr = {{type=32,value=71902},{type=5,value=18724},{type=11,value=22469},},
+	},
+	[36]={
+		star = 36,
+		needitem = {{type=1,id=1010000,count=15}},
+		attr = {{type=32,value=74518},{type=5,value=19405},{type=11,value=23286},},
+	},
+	[37]={
+		star = 37,
+		needitem = {{type=1,id=1010000,count=15}},
+		attr = {{type=32,value=77170},{type=5,value=20096},{type=11,value=24115},},
+	},
+	[38]={
+		star = 38,
+		needitem = {{type=1,id=1010000,count=15}},
+		attr = {{type=32,value=79858},{type=5,value=20796},{type=11,value=24955},},
+	},
+	[39]={
+		star = 39,
+		needitem = {{type=1,id=1010000,count=15}},
+		attr = {{type=32,value=82583},{type=5,value=21506},{type=11,value=25807},},
+	},
+	[40]={
+		star = 40,
+		needitem = {{type=1,id=1010000,count=16}},
+		attr = {{type=32,value=85345},{type=5,value=22225},{type=11,value=26670},},
+	},
+	[41]={
+		star = 41,
+		needitem = {{type=1,id=1010000,count=16}},
+		attr = {{type=32,value=88132},{type=5,value=22951},{type=11,value=27541},},
+	},
+	[42]={
+		star = 42,
+		needitem = {{type=1,id=1010000,count=16}},
+		attr = {{type=32,value=90956},{type=5,value=23686},{type=11,value=28423},},
+	},
+	[43]={
+		star = 43,
+		needitem = {{type=1,id=1010000,count=16}},
+		attr = {{type=32,value=93817},{type=5,value=24431},{type=11,value=29317},},
+	},
+	[44]={
+		star = 44,
+		needitem = {{type=1,id=1010000,count=16}},
+		attr = {{type=32,value=96714},{type=5,value=25185},{type=11,value=30223},},
+	},
+	[45]={
+		star = 45,
+		needitem = {{type=1,id=1010000,count=17}},
+		attr = {{type=32,value=99647},{type=5,value=25949},{type=11,value=31139},},
+	},
+	[46]={
+		star = 46,
+		needitem = {{type=1,id=1010000,count=17}},
+		attr = {{type=32,value=102607},{type=5,value=26720},{type=11,value=32064},},
+	},
+	[47]={
+		star = 47,
+		needitem = {{type=1,id=1010000,count=17}},
+		attr = {{type=32,value=105602},{type=5,value=27500},{type=11,value=33000},},
+	},
+	[48]={
+		star = 48,
+		needitem = {{type=1,id=1010000,count=17}},
+		attr = {{type=32,value=108635},{type=5,value=28290},{type=11,value=33948},},
+	},
+	[49]={
+		star = 49,
+		needitem = {{type=1,id=1010000,count=17}},
+		attr = {{type=32,value=111704},{type=5,value=29089},{type=11,value=34907},},
+	},
+	[50]={
+		star = 50,
+		needitem = {{type=1,id=1010000,count=18}},
+		attr = {{type=32,value=114809},{type=5,value=29898},{type=11,value=35878},},
+	},
+	[51]={
+		star = 51,
+		needitem = {{type=1,id=1010000,count=18}},
+		attr = {{type=32,value=117941},{type=5,value=30713},{type=11,value=36856},},
+	},
+	[52]={
+		star = 52,
+		needitem = {{type=1,id=1010000,count=18}},
+		attr = {{type=32,value=121108},{type=5,value=31538},{type=11,value=37846},},
+	},
+	[53]={
+		star = 53,
+		needitem = {{type=1,id=1010000,count=18}},
+		attr = {{type=32,value=124313},{type=5,value=32373},{type=11,value=38847},},
+	},
+	[54]={
+		star = 54,
+		needitem = {{type=1,id=1010000,count=18}},
+		attr = {{type=32,value=127554},{type=5,value=33217},{type=11,value=39860},},
+	},
+	[55]={
+		star = 55,
+		needitem = {{type=1,id=1010000,count=19}},
+		attr = {{type=32,value=130831},{type=5,value=34070},{type=11,value=40884},},
+	},
+	[56]={
+		star = 56,
+		needitem = {{type=1,id=1010000,count=19}},
+		attr = {{type=32,value=134134},{type=5,value=34930},{type=11,value=41917},},
+	},
+	[57]={
+		star = 57,
+		needitem = {{type=1,id=1010000,count=19}},
+		attr = {{type=32,value=137474},{type=5,value=35800},{type=11,value=42960},},
+	},
+	[58]={
+		star = 58,
+		needitem = {{type=1,id=1010000,count=19}},
+		attr = {{type=32,value=140850},{type=5,value=36679},{type=11,value=44015},},
+	},
+	[59]={
+		star = 59,
+		needitem = {{type=1,id=1010000,count=19}},
+		attr = {{type=32,value=144263},{type=5,value=37568},{type=11,value=45082},},
+	},
+	[60]={
+		star = 60,
+		needitem = {{type=1,id=1010000,count=20}},
+		attr = {{type=32,value=147713},{type=5,value=38466},{type=11,value=46160},},
+	},
+	[61]={
+		star = 61,
+		needitem = {{type=1,id=1010000,count=21}},
+		attr = {{type=32,value=151188},{type=5,value=39371},{type=11,value=47246},},
+	},
+	[62]={
+		star = 62,
+		needitem = {{type=1,id=1010000,count=22}},
+		attr = {{type=32,value=154872},{type=5,value=40331},{type=11,value=48397},},
+	},
+	[63]={
+		star = 63,
+		needitem = {{type=1,id=1010000,count=23}},
+		attr = {{type=32,value=158764},{type=5,value=41344},{type=11,value=49613},},
+	},
+	[64]={
+		star = 64,
+		needitem = {{type=1,id=1010000,count=24}},
+		attr = {{type=32,value=162864},{type=5,value=42412},{type=11,value=50895},},
+	},
+	[65]={
+		star = 65,
+		needitem = {{type=1,id=1010000,count=25}},
+		attr = {{type=32,value=167173},{type=5,value=43534},{type=11,value=52241},},
+	},
+	[66]={
+		star = 66,
+		needitem = {{type=1,id=1010000,count=26}},
+		attr = {{type=32,value=171508},{type=5,value=44663},{type=11,value=53596},},
+	},
+	[67]={
+		star = 67,
+		needitem = {{type=1,id=1010000,count=27}},
+		attr = {{type=32,value=176052},{type=5,value=45846},{type=11,value=55016},},
+	},
+	[68]={
+		star = 68,
+		needitem = {{type=1,id=1010000,count=28}},
+		attr = {{type=32,value=180803},{type=5,value=47084},{type=11,value=56501},},
+	},
+	[69]={
+		star = 69,
+		needitem = {{type=1,id=1010000,count=29}},
+		attr = {{type=32,value=185764},{type=5,value=48376},{type=11,value=58051},},
+	},
+	[70]={
+		star = 70,
+		needitem = {{type=1,id=1010000,count=30}},
+		attr = {{type=32,value=190932},{type=5,value=49722},{type=11,value=59666},},
+	},
+	[71]={
+		star = 71,
+		needitem = {{type=1,id=1010000,count=31}},
+		attr = {{type=32,value=196127},{type=5,value=51074},{type=11,value=61289},},
+	},
+	[72]={
+		star = 72,
+		needitem = {{type=1,id=1010000,count=32}},
+		attr = {{type=32,value=201530},{type=5,value=52481},{type=11,value=62978},},
+	},
+	[73]={
+		star = 73,
+		needitem = {{type=1,id=1010000,count=33}},
+		attr = {{type=32,value=207142},{type=5,value=53943},{type=11,value=64731},},
+	},
+	[74]={
+		star = 74,
+		needitem = {{type=1,id=1010000,count=34}},
+		attr = {{type=32,value=212962},{type=5,value=55458},{type=11,value=66550},},
+	},
+	[75]={
+		star = 75,
+		needitem = {{type=1,id=1010000,count=35}},
+		attr = {{type=32,value=218990},{type=5,value=57028},{type=11,value=68434},},
+	},
+	[76]={
+		star = 76,
+		needitem = {{type=1,id=1010000,count=36}},
+		attr = {{type=32,value=225044},{type=5,value=58605},{type=11,value=70326},},
+	},
+	[77]={
+		star = 77,
+		needitem = {{type=1,id=1010000,count=37}},
+		attr = {{type=32,value=231307},{type=5,value=60236},{type=11,value=72283},},
+	},
+	[78]={
+		star = 78,
+		needitem = {{type=1,id=1010000,count=38}},
+		attr = {{type=32,value=237778},{type=5,value=61921},{type=11,value=74305},},
+	},
+	[79]={
+		star = 79,
+		needitem = {{type=1,id=1010000,count=39}},
+		attr = {{type=32,value=244458},{type=5,value=63661},{type=11,value=76393},},
+	},
+	[80]={
+		star = 80,
+		needitem = {{type=1,id=1010000,count=40}},
+		attr = {{type=32,value=251346},{type=5,value=65454},{type=11,value=78545},},
+	},
+	[81]={
+		star = 81,
+		needitem = {{type=1,id=1010000,count=41}},
+		attr = {{type=32,value=258260},{type=5,value=67255},{type=11,value=80706},},
+	},
+	[82]={
+		star = 82,
+		needitem = {{type=1,id=1010000,count=42}},
+		attr = {{type=32,value=265383},{type=5,value=69110},{type=11,value=82932},},
+	},
+	[83]={
+		star = 83,
+		needitem = {{type=1,id=1010000,count=43}},
+		attr = {{type=32,value=272714},{type=5,value=71019},{type=11,value=85223},},
+	},
+	[84]={
+		star = 84,
+		needitem = {{type=1,id=1010000,count=44}},
+		attr = {{type=32,value=280253},{type=5,value=72982},{type=11,value=87579},},
+	},
+	[85]={
+		star = 85,
+		needitem = {{type=1,id=1010000,count=45}},
+		attr = {{type=32,value=288001},{type=5,value=75000},{type=11,value=90000},},
+	},
+	[86]={
+		star = 86,
+		needitem = {{type=1,id=1010000,count=46}},
+		attr = {{type=32,value=295775},{type=5,value=77024},{type=11,value=92429},},
+	},
+	[87]={
+		star = 87,
+		needitem = {{type=1,id=1010000,count=47}},
+		attr = {{type=32,value=303757},{type=5,value=79103},{type=11,value=94924},},
+	},
+	[88]={
+		star = 88,
+		needitem = {{type=1,id=1010000,count=48}},
+		attr = {{type=32,value=311947},{type=5,value=81236},{type=11,value=97483},},
+	},
+	[89]={
+		star = 89,
+		needitem = {{type=1,id=1010000,count=49}},
+		attr = {{type=32,value=320346},{type=5,value=83423},{type=11,value=100108},},
+	},
+	[90]={
+		star = 90,
+		needitem = {{type=1,id=1010000,count=50}},
+		attr = {{type=32,value=328954},{type=5,value=85665},{type=11,value=102798},},
+	},
+	[91]={
+		star = 91,
+		needitem = {{type=1,id=1010000,count=51}},
+		attr = {{type=32,value=337587},{type=5,value=87913},{type=11,value=105496},},
+	},
+	[92]={
+		star = 92,
+		needitem = {{type=1,id=1010000,count=52}},
+		attr = {{type=32,value=346429},{type=5,value=90216},{type=11,value=108259},},
+	},
+	[93]={
+		star = 93,
+		needitem = {{type=1,id=1010000,count=53}},
+		attr = {{type=32,value=355480},{type=5,value=92572},{type=11,value=111087},},
+	},
+	[94]={
+		star = 94,
+		needitem = {{type=1,id=1010000,count=54}},
+		attr = {{type=32,value=364738},{type=5,value=94984},{type=11,value=113980},},
+	},
+	[95]={
+		star = 95,
+		needitem = {{type=1,id=1010000,count=55}},
+		attr = {{type=32,value=374206},{type=5,value=97449},{type=11,value=116939},},
+	},
+	[96]={
+		star = 96,
+		needitem = {{type=1,id=1010000,count=56}},
+		attr = {{type=32,value=383699},{type=5,value=99921},{type=11,value=119906},},
+	},
+	[97]={
+		star = 97,
+		needitem = {{type=1,id=1010000,count=57}},
+		attr = {{type=32,value=393400},{type=5,value=102448},{type=11,value=122937},},
+	},
+	[98]={
+		star = 98,
+		needitem = {{type=1,id=1010000,count=58}},
+		attr = {{type=32,value=403310},{type=5,value=105028},{type=11,value=126034},},
+	},
+	[99]={
+		star = 99,
+		needitem = {{type=1,id=1010000,count=59}},
+		attr = {{type=32,value=413429},{type=5,value=107663},{type=11,value=129196},},
+	},
+	[100]={
+		star = 100,
+		needitem = {{type=1,id=1010000,count=60}},
+		attr = {{type=32,value=423756},{type=5,value=110353},{type=11,value=132423},},
+	},
+	[101]={
+		star = 101,
+		needitem = {{type=1,id=1010000,count=61}},
+		attr = {{type=32,value=434109},{type=5,value=113049},{type=11,value=135659},},
+	},
+	[102]={
+		star = 102,
+		needitem = {{type=1,id=1010000,count=62}},
+		attr = {{type=32,value=444670},{type=5,value=115799},{type=11,value=138959},},
+	},
+	[103]={
+		star = 103,
+		needitem = {{type=1,id=1010000,count=63}},
+		attr = {{type=32,value=455440},{type=5,value=118604},{type=11,value=142325},},
+	},
+	[104]={
+		star = 104,
+		needitem = {{type=1,id=1010000,count=64}},
+		attr = {{type=32,value=466418},{type=5,value=121463},{type=11,value=145755},},
+	},
+	[105]={
+		star = 105,
+		needitem = {{type=1,id=1010000,count=65}},
+		attr = {{type=32,value=477605},{type=5,value=124376},{type=11,value=149251},},
+	},
+	[106]={
+		star = 106,
+		needitem = {{type=1,id=1010000,count=66}},
+		attr = {{type=32,value=488817},{type=5,value=127296},{type=11,value=152755},},
+	},
+	[107]={
+		star = 107,
+		needitem = {{type=1,id=1010000,count=67}},
+		attr = {{type=32,value=500238},{type=5,value=130270},{type=11,value=156324},},
+	},
+	[108]={
+		star = 108,
+		needitem = {{type=1,id=1010000,count=68}},
+		attr = {{type=32,value=511868},{type=5,value=133298},{type=11,value=159958},},
+	},
+	[109]={
+		star = 109,
+		needitem = {{type=1,id=1010000,count=69}},
+		attr = {{type=32,value=523705},{type=5,value=136381},{type=11,value=163658},},
+	},
+	[110]={
+		star = 110,
+		needitem = {{type=1,id=1010000,count=70}},
+		attr = {{type=32,value=535752},{type=5,value=139518},{type=11,value=167422},},
+	},
+	[111]={
+		star = 111,
+		needitem = {{type=1,id=1010000,count=71}},
+		attr = {{type=32,value=547824},{type=5,value=142662},{type=11,value=171195},},
+	},
+	[112]={
+		star = 112,
+		needitem = {{type=1,id=1010000,count=72}},
+		attr = {{type=32,value=560105},{type=5,value=145860},{type=11,value=175032},},
+	},
+	[113]={
+		star = 113,
+		needitem = {{type=1,id=1010000,count=73}},
+		attr = {{type=32,value=572594},{type=5,value=149113},{type=11,value=178935},},
+	},
+	[114]={
+		star = 114,
+		needitem = {{type=1,id=1010000,count=74}},
+		attr = {{type=32,value=585291},{type=5,value=152419},{type=11,value=182903},},
+	},
+	[115]={
+		star = 115,
+		needitem = {{type=1,id=1010000,count=75}},
+		attr = {{type=32,value=598197},{type=5,value=155780},{type=11,value=186936},},
+	},
+	[116]={
+		star = 116,
+		needitem = {{type=1,id=1010000,count=76}},
+		attr = {{type=32,value=611129},{type=5,value=159148},{type=11,value=190978},},
+	},
+	[117]={
+		star = 117,
+		needitem = {{type=1,id=1010000,count=77}},
+		attr = {{type=32,value=624270},{type=5,value=162570},{type=11,value=195084},},
+	},
+	[118]={
+		star = 118,
+		needitem = {{type=1,id=1010000,count=78}},
+		attr = {{type=32,value=637619},{type=5,value=166046},{type=11,value=199255},},
+	},
+	[119]={
+		star = 119,
+		needitem = {{type=1,id=1010000,count=79}},
+		attr = {{type=32,value=651176},{type=5,value=169577},{type=11,value=203492},},
+	},
+	[120]={
+		star = 120,
+		needitem = {{type=1,id=1010000,count=80}},
+		attr = {{type=32,value=664942},{type=5,value=173162},{type=11,value=207794},},
+	},
+	[121]={
+		star = 121,
+		needitem = {{type=1,id=1010000,count=81}},
+		attr = {{type=32,value=678733},{type=5,value=176753},{type=11,value=212104},},
+	},
+	[122]={
+		star = 122,
+		needitem = {{type=1,id=1010000,count=82}},
+		attr = {{type=32,value=692733},{type=5,value=180399},{type=11,value=216479},},
+	},
+	[123]={
+		star = 123,
+		needitem = {{type=1,id=1010000,count=83}},
+		attr = {{type=32,value=706942},{type=5,value=184099},{type=11,value=220919},},
+	},
+	[124]={
+		star = 124,
+		needitem = {{type=1,id=1010000,count=84}},
+		attr = {{type=32,value=721359},{type=5,value=187854},{type=11,value=225424},},
+	},
+	[125]={
+		star = 125,
+		needitem = {{type=1,id=1010000,count=85}},
+		attr = {{type=32,value=735984},{type=5,value=191662},{type=11,value=229995},},
+	},
+	[126]={
+		star = 126,
+		needitem = {{type=1,id=1010000,count=86}},
+		attr = {{type=32,value=750636},{type=5,value=195478},{type=11,value=234573},},
+	},
+	[127]={
+		star = 127,
+		needitem = {{type=1,id=1010000,count=87}},
+		attr = {{type=32,value=765496},{type=5,value=199347},{type=11,value=239217},},
+	},
+	[128]={
+		star = 128,
+		needitem = {{type=1,id=1010000,count=88}},
+		attr = {{type=32,value=780564},{type=5,value=203271},{type=11,value=243926},},
+	},
+	[129]={
+		star = 129,
+		needitem = {{type=1,id=1010000,count=89}},
+		attr = {{type=32,value=795841},{type=5,value=207250},{type=11,value=248700},},
+	},
+	[130]={
+		star = 130,
+		needitem = {{type=1,id=1010000,count=90}},
+		attr = {{type=32,value=811326},{type=5,value=211282},{type=11,value=253539},},
+	},
+	[131]={
+		star = 131,
+		needitem = {{type=1,id=1010000,count=91}},
+		attr = {{type=32,value=826837},{type=5,value=215322},{type=11,value=258386},},
+	},
+	[132]={
+		star = 132,
+		needitem = {{type=1,id=1010000,count=92}},
+		attr = {{type=32,value=842556},{type=5,value=219415},{type=11,value=263298},},
+	},
+	[133]={
+		star = 133,
+		needitem = {{type=1,id=1010000,count=93}},
+		attr = {{type=32,value=858484},{type=5,value=223563},{type=11,value=268276},},
+	},
+	[134]={
+		star = 134,
+		needitem = {{type=1,id=1010000,count=94}},
+		attr = {{type=32,value=874621},{type=5,value=227765},{type=11,value=273319},},
+	},
+	[135]={
+		star = 135,
+		needitem = {{type=1,id=1010000,count=95}},
+		attr = {{type=32,value=890965},{type=5,value=232022},{type=11,value=278426},},
+	},
+	[136]={
+		star = 136,
+		needitem = {{type=1,id=1010000,count=96}},
+		attr = {{type=32,value=907336},{type=5,value=236285},{type=11,value=283542},},
+	},
+	[137]={
+		star = 137,
+		needitem = {{type=1,id=1010000,count=97}},
+		attr = {{type=32,value=923915},{type=5,value=240603},{type=11,value=288723},},
+	},
+	[138]={
+		star = 138,
+		needitem = {{type=1,id=1010000,count=98}},
+		attr = {{type=32,value=940703},{type=5,value=244974},{type=11,value=293969},},
+	},
+	[139]={
+		star = 139,
+		needitem = {{type=1,id=1010000,count=99}},
+		attr = {{type=32,value=957699},{type=5,value=249400},{type=11,value=299281},},
+	},
+	[140]={
+		star = 140,
+		needitem = {{type=1,id=1010000,count=100}},
+		attr = {{type=32,value=974904},{type=5,value=253881},{type=11,value=304657},},
+	},
+	[141]={
+		star = 141,
+		needitem = {{type=1,id=1010000,count=101}},
+		attr = {{type=32,value=992134},{type=5,value=258368},{type=11,value=310042},},
+	},
+	[142]={
+		star = 142,
+		needitem = {{type=1,id=1010000,count=102}},
+		attr = {{type=32,value=1009573},{type=5,value=262909},{type=11,value=315491},},
+	},
+	[143]={
+		star = 143,
+		needitem = {{type=1,id=1010000,count=103}},
+		attr = {{type=32,value=1027220},{type=5,value=267505},{type=11,value=321006},},
+	},
+	[144]={
+		star = 144,
+		needitem = {{type=1,id=1010000,count=104}},
+		attr = {{type=32,value=1045076},{type=5,value=272155},{type=11,value=326586},},
+	},
+	[145]={
+		star = 145,
+		needitem = {{type=1,id=1010000,count=105}},
+		attr = {{type=32,value=1063140},{type=5,value=276859},{type=11,value=332231},},
+	},
+	[146]={
+		star = 146,
+		needitem = {{type=1,id=1010000,count=106}},
+		attr = {{type=32,value=1081231},{type=5,value=281570},{type=11,value=337884},},
+	},
+	[147]={
+		star = 147,
+		needitem = {{type=1,id=1010000,count=107}},
+		attr = {{type=32,value=1099529},{type=5,value=286335},{type=11,value=343603},},
+	},
+	[148]={
+		star = 148,
+		needitem = {{type=1,id=1010000,count=108}},
+		attr = {{type=32,value=1118036},{type=5,value=291155},{type=11,value=349386},},
+	},
+	[149]={
+		star = 149,
+		needitem = {{type=1,id=1010000,count=109}},
+		attr = {{type=32,value=1136752},{type=5,value=296029},{type=11,value=355235},},
+	},
+	[150]={
+		star = 150,
+		needitem = {{type=1,id=1010000,count=110}},
+		attr = {{type=32,value=1155676},{type=5,value=300957},{type=11,value=361148},},
+	},
+	[151]={
+		star = 151,
+		needitem = {{type=1,id=1010000,count=111}},
+		attr = {{type=32,value=1174625},{type=5,value=305892},{type=11,value=367070},},
+	},
+	[152]={
+		star = 152,
+		needitem = {{type=1,id=1010000,count=112}},
+		attr = {{type=32,value=1193784},{type=5,value=310881},{type=11,value=373057},},
+	},
+	[153]={
+		star = 153,
+		needitem = {{type=1,id=1010000,count=113}},
+		attr = {{type=32,value=1213151},{type=5,value=315924},{type=11,value=379109},},
+	},
+	[154]={
+		star = 154,
+		needitem = {{type=1,id=1010000,count=114}},
+		attr = {{type=32,value=1232726},{type=5,value=321022},{type=11,value=385226},},
+	},
+	[155]={
+		star = 155,
+		needitem = {{type=1,id=1010000,count=115}},
+		attr = {{type=32,value=1252509},{type=5,value=326174},{type=11,value=391409},},
+	},
+	[156]={
+		star = 156,
+		needitem = {{type=1,id=1010000,count=116}},
+		attr = {{type=32,value=1272319},{type=5,value=331333},{type=11,value=397599},},
+	},
+	[157]={
+		star = 157,
+		needitem = {{type=1,id=1010000,count=117}},
+		attr = {{type=32,value=1292337},{type=5,value=336546},{type=11,value=403855},},
+	},
+	[158]={
+		star = 158,
+		needitem = {{type=1,id=1010000,count=118}},
+		attr = {{type=32,value=1312563},{type=5,value=341813},{type=11,value=410176},},
+	},
+	[159]={
+		star = 159,
+		needitem = {{type=1,id=1010000,count=119}},
+		attr = {{type=32,value=1332998},{type=5,value=347135},{type=11,value=416562},},
+	},
+	[160]={
+		star = 160,
+		needitem = {{type=1,id=1010000,count=120}},
+		attr = {{type=32,value=1353642},{type=5,value=352510},{type=11,value=423013},},
+	},
+	[161]={
+		star = 161,
+		needitem = {{type=1,id=1010000,count=121}},
+		attr = {{type=32,value=1374311},{type=5,value=357893},{type=11,value=429472},},
+	},
+	[162]={
+		star = 162,
+		needitem = {{type=1,id=1010000,count=122}},
+		attr = {{type=32,value=1395189},{type=5,value=363330},{type=11,value=435996},},
+	},
+	[163]={
+		star = 163,
+		needitem = {{type=1,id=1010000,count=123}},
+		attr = {{type=32,value=1416275},{type=5,value=368821},{type=11,value=442586},},
+	},
+	[164]={
+		star = 164,
+		needitem = {{type=1,id=1010000,count=124}},
+		attr = {{type=32,value=1437569},{type=5,value=374367},{type=11,value=449240},},
+	},
+	[165]={
+		star = 165,
+		needitem = {{type=1,id=1010000,count=125}},
+		attr = {{type=32,value=1459072},{type=5,value=379966},{type=11,value=455960},},
+	},
+	[166]={
+		star = 166,
+		needitem = {{type=1,id=1010000,count=126}},
+		attr = {{type=32,value=1480601},{type=5,value=385573},{type=11,value=462688},},
+	},
+	[167]={
+		star = 167,
+		needitem = {{type=1,id=1010000,count=127}},
+		attr = {{type=32,value=1502339},{type=5,value=391234},{type=11,value=469481},},
+	},
+	[168]={
+		star = 168,
+		needitem = {{type=1,id=1010000,count=128}},
+		attr = {{type=32,value=1524285},{type=5,value=396949},{type=11,value=476339},},
+	},
+	[169]={
+		star = 169,
+		needitem = {{type=1,id=1010000,count=129}},
+		attr = {{type=32,value=1546439},{type=5,value=402718},{type=11,value=483262},},
+	},
+	[170]={
+		star = 170,
+		needitem = {{type=1,id=1010000,count=130}},
+		attr = {{type=32,value=1568802},{type=5,value=408542},{type=11,value=490250},},
+	},
+	[171]={
+		star = 171,
+		needitem = {{type=1,id=1010000,count=131}},
+		attr = {{type=32,value=1591190},{type=5,value=414372},{type=11,value=497247},},
+	},
+	[172]={
+		star = 172,
+		needitem = {{type=1,id=1010000,count=132}},
+		attr = {{type=32,value=1613788},{type=5,value=420257},{type=11,value=504308},},
+	},
+	[173]={
+		star = 173,
+		needitem = {{type=1,id=1010000,count=133}},
+		attr = {{type=32,value=1636593},{type=5,value=426196},{type=11,value=511435},},
+	},
+	[174]={
+		star = 174,
+		needitem = {{type=1,id=1010000,count=134}},
+		attr = {{type=32,value=1659607},{type=5,value=432189},{type=11,value=518627},},
+	},
+	[175]={
+		star = 175,
+		needitem = {{type=1,id=1010000,count=135}},
+		attr = {{type=32,value=1682829},{type=5,value=438236},{type=11,value=525884},},
+	},
+	[176]={
+		star = 176,
+		needitem = {{type=1,id=1010000,count=136}},
+		attr = {{type=32,value=1706078},{type=5,value=444291},{type=11,value=533149},},
+	},
+	[177]={
+		star = 177,
+		needitem = {{type=1,id=1010000,count=137}},
+		attr = {{type=32,value=1729535},{type=5,value=450399},{type=11,value=540479},},
+	},
+	[178]={
+		star = 178,
+		needitem = {{type=1,id=1010000,count=138}},
+		attr = {{type=32,value=1753200},{type=5,value=456562},{type=11,value=547875},},
+	},
+	[179]={
+		star = 179,
+		needitem = {{type=1,id=1010000,count=139}},
+		attr = {{type=32,value=1777074},{type=5,value=462779},{type=11,value=555335},},
+	},
+	[180]={
+		star = 180,
+		needitem = {{type=1,id=1010000,count=140}},
+		attr = {{type=32,value=1801156},{type=5,value=469051},{type=11,value=562861},},
+	},
+	[181]={
+		star = 181,
+		needitem = {{type=1,id=1010000,count=141}},
+		attr = {{type=32,value=1825264},{type=5,value=475329},{type=11,value=570395},},
+	},
+	[182]={
+		star = 182,
+		needitem = {{type=1,id=1010000,count=142}},
+		attr = {{type=32,value=1849580},{type=5,value=481661},{type=11,value=577994},},
+	},
+	[183]={
+		star = 183,
+		needitem = {{type=1,id=1010000,count=143}},
+		attr = {{type=32,value=1874105},{type=5,value=488048},{type=11,value=585658},},
+	},
+	[184]={
+		star = 184,
+		needitem = {{type=1,id=1010000,count=144}},
+		attr = {{type=32,value=1898839},{type=5,value=494489},{type=11,value=593387},},
+	},
+	[185]={
+		star = 185,
+		needitem = {{type=1,id=1010000,count=145}},
+		attr = {{type=32,value=1923781},{type=5,value=500984},{type=11,value=601181},},
+	},
+	[186]={
+		star = 186,
+		needitem = {{type=1,id=1010000,count=146}},
+		attr = {{type=32,value=1948748},{type=5,value=507486},{type=11,value=608984},},
+	},
+	[187]={
+		star = 187,
+		needitem = {{type=1,id=1010000,count=147}},
+		attr = {{type=32,value=1973925},{type=5,value=514043},{type=11,value=616851},},
+	},
+	[188]={
+		star = 188,
+		needitem = {{type=1,id=1010000,count=148}},
+		attr = {{type=32,value=1999309},{type=5,value=520653},{type=11,value=624784},},
+	},
+	[189]={
+		star = 189,
+		needitem = {{type=1,id=1010000,count=149}},
+		attr = {{type=32,value=2024902},{type=5,value=527318},{type=11,value=632782},},
+	},
+	[190]={
+		star = 190,
+		needitem = {{type=1,id=1010000,count=150}},
+		attr = {{type=32,value=2050704},{type=5,value=534037},{type=11,value=640845},},
+	},
+	[191]={
+		star = 191,
+		needitem = {{type=1,id=1010000,count=151}},
+		attr = {{type=32,value=2076531},{type=5,value=540763},{type=11,value=648916},},
+	},
+	[192]={
+		star = 192,
+		needitem = {{type=1,id=1010000,count=152}},
+		attr = {{type=32,value=2102567},{type=5,value=547543},{type=11,value=657052},},
+	},
+	[193]={
+		star = 193,
+		needitem = {{type=1,id=1010000,count=153}},
+		attr = {{type=32,value=2128812},{type=5,value=554378},{type=11,value=665253},},
+	},
+	[194]={
+		star = 194,
+		needitem = {{type=1,id=1010000,count=154}},
+		attr = {{type=32,value=2155265},{type=5,value=561266},{type=11,value=673520},},
+	},
+	[195]={
+		star = 195,
+		needitem = {{type=1,id=1010000,count=155}},
+		attr = {{type=32,value=2181926},{type=5,value=568209},{type=11,value=681851},},
+	},
+	[196]={
+		star = 196,
+		needitem = {{type=1,id=1010000,count=156}},
+		attr = {{type=32,value=2208613},{type=5,value=575159},{type=11,value=690191},},
+	},
+	[197]={
+		star = 197,
+		needitem = {{type=1,id=1010000,count=157}},
+		attr = {{type=32,value=2235509},{type=5,value=582163},{type=11,value=698596},},
+	},
+	[198]={
+		star = 198,
+		needitem = {{type=1,id=1010000,count=158}},
+		attr = {{type=32,value=2262613},{type=5,value=589222},{type=11,value=707066},},
+	},
+	[199]={
+		star = 199,
+		needitem = {{type=1,id=1010000,count=159}},
+		attr = {{type=32,value=2289925},{type=5,value=596334},{type=11,value=715601},},
+	},
+	[200]={
+		star = 200,
+		needitem = {{type=1,id=1010000,count=160}},
+		attr = {{type=32,value=2317446},{type=5,value=603501},{type=11,value=724202},},
+	},
+	[201]={
+		star = 201,
+		needitem = {{type=1,id=1010000,count=161}},
+		attr = {{type=32,value=2344993},{type=5,value=610675},{type=11,value=732810},},
+	},
+	[202]={
+		star = 202,
+		needitem = {{type=1,id=1010000,count=162}},
+		attr = {{type=32,value=2372748},{type=5,value=617903},{type=11,value=741484},},
+	},
+	[203]={
+		star = 203,
+		needitem = {{type=1,id=1010000,count=163}},
+		attr = {{type=32,value=2400712},{type=5,value=625185},{type=11,value=750222},},
+	},
+	[204]={
+		star = 204,
+		needitem = {{type=1,id=1010000,count=164}},
+		attr = {{type=32,value=2428884},{type=5,value=632522},{type=11,value=759026},},
+	},
+	[205]={
+		star = 205,
+		needitem = {{type=1,id=1010000,count=165}},
+		attr = {{type=32,value=2457265},{type=5,value=639912},{type=11,value=767895},},
+	},
+	[206]={
+		star = 206,
+		needitem = {{type=1,id=1010000,count=166}},
+		attr = {{type=32,value=2485672},{type=5,value=647310},{type=11,value=776772},},
+	},
+	[207]={
+		star = 207,
+		needitem = {{type=1,id=1010000,count=167}},
+		attr = {{type=32,value=2514287},{type=5,value=654762},{type=11,value=785714},},
+	},
+	[208]={
+		star = 208,
+		needitem = {{type=1,id=1010000,count=168}},
+		attr = {{type=32,value=2543110},{type=5,value=662268},{type=11,value=794722},},
+	},
+	[209]={
+		star = 209,
+		needitem = {{type=1,id=1010000,count=169}},
+		attr = {{type=32,value=2572142},{type=5,value=669828},{type=11,value=803794},},
+	},
+	[210]={
+		star = 210,
+		needitem = {{type=1,id=1010000,count=170}},
+		attr = {{type=32,value=2601382},{type=5,value=677443},{type=11,value=812932},},
+	},
+	[211]={
+		star = 211,
+		needitem = {{type=1,id=1010000,count=171}},
+		attr = {{type=32,value=2630649},{type=5,value=685064},{type=11,value=822077},},
+	},
+	[212]={
+		star = 212,
+		needitem = {{type=1,id=1010000,count=172}},
+		attr = {{type=32,value=2660123},{type=5,value=692740},{type=11,value=831288},},
+	},
+	[213]={
+		star = 213,
+		needitem = {{type=1,id=1010000,count=173}},
+		attr = {{type=32,value=2689807},{type=5,value=700470},{type=11,value=840564},},
+	},
+	[214]={
+		star = 214,
+		needitem = {{type=1,id=1010000,count=174}},
+		attr = {{type=32,value=2719698},{type=5,value=708254},{type=11,value=849905},},
+	},
+	[215]={
+		star = 215,
+		needitem = {{type=1,id=1010000,count=175}},
+		attr = {{type=32,value=2749798},{type=5,value=716093},{type=11,value=859312},},
+	},
+	[216]={
+		star = 216,
+		needitem = {{type=1,id=1010000,count=176}},
+		attr = {{type=32,value=2779924},{type=5,value=723938},{type=11,value=868726},},
+	},
+	[217]={
+		star = 217,
+		needitem = {{type=1,id=1010000,count=177}},
+		attr = {{type=32,value=2810259},{type=5,value=731838},{type=11,value=878205},},
+	},
+	[218]={
+		star = 218,
+		needitem = {{type=1,id=1010000,count=178}},
+		attr = {{type=32,value=2840801},{type=5,value=739792},{type=11,value=887750},},
+	},
+	[219]={
+		star = 219,
+		needitem = {{type=1,id=1010000,count=179}},
+		attr = {{type=32,value=2871553},{type=5,value=747800},{type=11,value=897360},},
+	},
+	[220]={
+		star = 220,
+		needitem = {{type=1,id=1010000,count=180}},
+		attr = {{type=32,value=2902513},{type=5,value=755862},{type=11,value=907035},},
+	},
+	[221]={
+		star = 221,
+		needitem = {{type=1,id=1010000,count=181}},
+		attr = {{type=32,value=2933498},{type=5,value=763931},{type=11,value=916718},},
+	},
+	[222]={
+		star = 222,
+		needitem = {{type=1,id=1010000,count=182}},
+		attr = {{type=32,value=2964692},{type=5,value=772055},{type=11,value=926466},},
+	},
+	[223]={
+		star = 223,
+		needitem = {{type=1,id=1010000,count=183}},
+		attr = {{type=32,value=2996095},{type=5,value=780233},{type=11,value=936279},},
+	},
+	[224]={
+		star = 224,
+		needitem = {{type=1,id=1010000,count=184}},
+		attr = {{type=32,value=3027706},{type=5,value=788465},{type=11,value=946158},},
+	},
+	[225]={
+		star = 225,
+		needitem = {{type=1,id=1010000,count=185}},
+		attr = {{type=32,value=3059525},{type=5,value=796751},{type=11,value=956101},},
+	},
+	[226]={
+		star = 226,
+		needitem = {{type=1,id=1010000,count=186}},
+		attr = {{type=32,value=3091371},{type=5,value=805044},{type=11,value=966053},},
+	},
+	[227]={
+		star = 227,
+		needitem = {{type=1,id=1010000,count=187}},
+		attr = {{type=32,value=3123425},{type=5,value=813391},{type=11,value=976070},},
+	},
+	[228]={
+		star = 228,
+		needitem = {{type=1,id=1010000,count=188}},
+		attr = {{type=32,value=3155687},{type=5,value=821793},{type=11,value=986152},},
+	},
+	[229]={
+		star = 229,
+		needitem = {{type=1,id=1010000,count=189}},
+		attr = {{type=32,value=3188158},{type=5,value=830249},{type=11,value=996299},},
+	},
+	[230]={
+		star = 230,
+		needitem = {{type=1,id=1010000,count=190}},
+		attr = {{type=32,value=3220837},{type=5,value=838759},{type=11,value=1006511},},
+	},
+	[231]={
+		star = 231,
+		needitem = {{type=1,id=1010000,count=191}},
+		attr = {{type=32,value=3253542},{type=5,value=847276},{type=11,value=1016731},},
+	},
+	[232]={
+		star = 232,
+		needitem = {{type=1,id=1010000,count=192}},
+		attr = {{type=32,value=3286455},{type=5,value=855847},{type=11,value=1027017},},
+	},
+	[233]={
+		star = 233,
+		needitem = {{type=1,id=1010000,count=193}},
+		attr = {{type=32,value=3319577},{type=5,value=864473},{type=11,value=1037368},},
+	},
+	[234]={
+		star = 234,
+		needitem = {{type=1,id=1010000,count=194}},
+		attr = {{type=32,value=3352908},{type=5,value=873153},{type=11,value=1047783},},
+	},
+	[235]={
+		star = 235,
+		needitem = {{type=1,id=1010000,count=195}},
+		attr = {{type=32,value=3386447},{type=5,value=881887},{type=11,value=1058264},},
+	},
+	[236]={
+		star = 236,
+		needitem = {{type=1,id=1010000,count=196}},
+		attr = {{type=32,value=3420011},{type=5,value=890628},{type=11,value=1068753},},
+	},
+	[237]={
+		star = 237,
+		needitem = {{type=1,id=1010000,count=197}},
+		attr = {{type=32,value=3453785},{type=5,value=899423},{type=11,value=1079307},},
+	},
+	[238]={
+		star = 238,
+		needitem = {{type=1,id=1010000,count=198}},
+		attr = {{type=32,value=3487766},{type=5,value=908272},{type=11,value=1089927},},
+	},
+	[239]={
+		star = 239,
+		needitem = {{type=1,id=1010000,count=199}},
+		attr = {{type=32,value=3521957},{type=5,value=917176},{type=11,value=1100611},},
+	},
+	[240]={
+		star = 240,
+		needitem = {{type=1,id=1010000,count=200}},
+		attr = {{type=32,value=3556355},{type=5,value=926134},{type=11,value=1111361},},
+	},
+	[241]={
+		star = 241,
+		needitem = {{type=1,id=1010000,count=201}},
+		attr = {{type=32,value=3590780},{type=5,value=935098},{type=11,value=1122118},},
+	},
+	[242]={
+		star = 242,
+		needitem = {{type=1,id=1010000,count=202}},
+		attr = {{type=32,value=3625413},{type=5,value=944117},{type=11,value=1132941},},
+	},
+	[243]={
+		star = 243,
+		needitem = {{type=1,id=1010000,count=203}},
+		attr = {{type=32,value=3660254},{type=5,value=953191},{type=11,value=1143829},},
+	},
+	[244]={
+		star = 244,
+		needitem = {{type=1,id=1010000,count=204}},
+		attr = {{type=32,value=3695304},{type=5,value=962318},{type=11,value=1154782},},
+	},
+	[245]={
+		star = 245,
+		needitem = {{type=1,id=1010000,count=205}},
+		attr = {{type=32,value=3730562},{type=5,value=971500},{type=11,value=1165800},},
+	},
+	[246]={
+		star = 246,
+		needitem = {{type=1,id=1010000,count=206}},
+		attr = {{type=32,value=3765846},{type=5,value=980689},{type=11,value=1176827},},
+	},
+	[247]={
+		star = 247,
+		needitem = {{type=1,id=1010000,count=207}},
+		attr = {{type=32,value=3801339},{type=5,value=989932},{type=11,value=1187918},},
+	},
+	[248]={
+		star = 248,
+		needitem = {{type=1,id=1010000,count=208}},
+		attr = {{type=32,value=3837040},{type=5,value=999229},{type=11,value=1199075},},
+	},
+	[249]={
+		star = 249,
+		needitem = {{type=1,id=1010000,count=209}},
+		attr = {{type=32,value=3872949},{type=5,value=1008580},{type=11,value=1210296},},
+	},
+	[250]={
+		star = 250,
+		needitem = {{type=1,id=1010000,count=210}},
+		attr = {{type=32,value=3909067},{type=5,value=1017986},{type=11,value=1221583},},
+	},
+	[251]={
+		star = 251,
+		needitem = {{type=1,id=1010000,count=211}},
+		attr = {{type=32,value=3945211},{type=5,value=1027398},{type=11,value=1232878},},
+	},
+	[252]={
+		star = 252,
+		needitem = {{type=1,id=1010000,count=212}},
+		attr = {{type=32,value=3981564},{type=5,value=1036865},{type=11,value=1244238},},
+	},
+	[253]={
+		star = 253,
+		needitem = {{type=1,id=1010000,count=213}},
+		attr = {{type=32,value=4018124},{type=5,value=1046386},{type=11,value=1255664},},
+	},
+	[254]={
+		star = 254,
+		needitem = {{type=1,id=1010000,count=214}},
+		attr = {{type=32,value=4054894},{type=5,value=1055962},{type=11,value=1267154},},
+	},
+	[255]={
+		star = 255,
+		needitem = {{type=1,id=1010000,count=215}},
+		attr = {{type=32,value=4091871},{type=5,value=1065591},{type=11,value=1278709},},
+	},
+	[256]={
+		star = 256,
+		needitem = {{type=1,id=1010000,count=216}},
+		attr = {{type=32,value=4128875},{type=5,value=1075227},{type=11,value=1290273},},
+	},
+	[257]={
+		star = 257,
+		needitem = {{type=1,id=1010000,count=217}},
+		attr = {{type=32,value=4166087},{type=5,value=1084918},{type=11,value=1301902},},
+	},
+	[258]={
+		star = 258,
+		needitem = {{type=1,id=1010000,count=218}},
+		attr = {{type=32,value=4203507},{type=5,value=1094663},{type=11,value=1313596},},
+	},
+	[259]={
+		star = 259,
+		needitem = {{type=1,id=1010000,count=219}},
+		attr = {{type=32,value=4241136},{type=5,value=1104462},{type=11,value=1325355},},
+	},
+	[260]={
+		star = 260,
+		needitem = {{type=1,id=1010000,count=220}},
+		attr = {{type=32,value=4278974},{type=5,value=1114316},{type=11,value=1337179},},
+	},
+	[261]={
+		star = 261,
+		needitem = {{type=1,id=1010000,count=221}},
+		attr = {{type=32,value=4316837},{type=5,value=1124176},{type=11,value=1349011},},
+	},
+	[262]={
+		star = 262,
+		needitem = {{type=1,id=1010000,count=222}},
+		attr = {{type=32,value=4354909},{type=5,value=1134090},{type=11,value=1360909},},
+	},
+	[263]={
+		star = 263,
+		needitem = {{type=1,id=1010000,count=223}},
+		attr = {{type=32,value=4393189},{type=5,value=1144059},{type=11,value=1372871},},
+	},
+	[264]={
+		star = 264,
+		needitem = {{type=1,id=1010000,count=224}},
+		attr = {{type=32,value=4431678},{type=5,value=1154082},{type=11,value=1384899},},
+	},
+	[265]={
+		star = 265,
+		needitem = {{type=1,id=1010000,count=225}},
+		attr = {{type=32,value=4470375},{type=5,value=1164160},{type=11,value=1396992},},
+	},
+	[266]={
+		star = 266,
+		needitem = {{type=1,id=1010000,count=226}},
+		attr = {{type=32,value=4509098},{type=5,value=1174244},{type=11,value=1409093},},
+	},
+	[267]={
+		star = 267,
+		needitem = {{type=1,id=1010000,count=227}},
+		attr = {{type=32,value=4548029},{type=5,value=1184382},{type=11,value=1421259},},
+	},
+	[268]={
+		star = 268,
+		needitem = {{type=1,id=1010000,count=228}},
+		attr = {{type=32,value=4587169},{type=5,value=1194575},{type=11,value=1433490},},
+	},
+	[269]={
+		star = 269,
+		needitem = {{type=1,id=1010000,count=229}},
+		attr = {{type=32,value=4626517},{type=5,value=1204822},{type=11,value=1445786},},
+	},
+	[270]={
+		star = 270,
+		needitem = {{type=1,id=1010000,count=230}},
+		attr = {{type=32,value=4666074},{type=5,value=1215123},{type=11,value=1458148},},
+	},
+	[271]={
+		star = 271,
+		needitem = {{type=1,id=1010000,count=231}},
+		attr = {{type=32,value=4705657},{type=5,value=1225431},{type=11,value=1470517},},
+	},
+	[272]={
+		star = 272,
+		needitem = {{type=1,id=1010000,count=232}},
+		attr = {{type=32,value=4745448},{type=5,value=1235793},{type=11,value=1482952},},
+	},
+	[273]={
+		star = 273,
+		needitem = {{type=1,id=1010000,count=233}},
+		attr = {{type=32,value=4785448},{type=5,value=1246210},{type=11,value=1495452},},
+	},
+	[274]={
+		star = 274,
+		needitem = {{type=1,id=1010000,count=234}},
+		attr = {{type=32,value=4825656},{type=5,value=1256681},{type=11,value=1508017},},
+	},
+	[275]={
+		star = 275,
+		needitem = {{type=1,id=1010000,count=235}},
+		attr = {{type=32,value=4866072},{type=5,value=1267206},{type=11,value=1520647},},
+	},
+	[276]={
+		star = 276,
+		needitem = {{type=1,id=1010000,count=236}},
+		attr = {{type=32,value=4906514},{type=5,value=1277738},{type=11,value=1533285},},
+	},
+	[277]={
+		star = 277,
+		needitem = {{type=1,id=1010000,count=237}},
+		attr = {{type=32,value=4947165},{type=5,value=1288324},{type=11,value=1545989},},
+	},
+	[278]={
+		star = 278,
+		needitem = {{type=1,id=1010000,count=238}},
+		attr = {{type=32,value=4988025},{type=5,value=1298964},{type=11,value=1558757},},
+	},
+	[279]={
+		star = 279,
+		needitem = {{type=1,id=1010000,count=239}},
+		attr = {{type=32,value=5029092},{type=5,value=1309659},{type=11,value=1571591},},
+	},
+	[280]={
+		star = 280,
+		needitem = {{type=1,id=1010000,count=240}},
+		attr = {{type=32,value=5070368},{type=5,value=1320408},{type=11,value=1584490},},
+	},
+	[281]={
+		star = 281,
+		needitem = {{type=1,id=1010000,count=241}},
+		attr = {{type=32,value=5111671},{type=5,value=1331164},{type=11,value=1597397},},
+	},
+	[282]={
+		star = 282,
+		needitem = {{type=1,id=1010000,count=242}},
+		attr = {{type=32,value=5153181},{type=5,value=1341974},{type=11,value=1610369},},
+	},
+	[283]={
+		star = 283,
+		needitem = {{type=1,id=1010000,count=243}},
+		attr = {{type=32,value=5194900},{type=5,value=1352838},{type=11,value=1623406},},
+	},
+	[284]={
+		star = 284,
+		needitem = {{type=1,id=1010000,count=244}},
+		attr = {{type=32,value=5236828},{type=5,value=1363757},{type=11,value=1636508},},
+	},
+	[285]={
+		star = 285,
+		needitem = {{type=1,id=1010000,count=245}},
+		attr = {{type=32,value=5278963},{type=5,value=1374730},{type=11,value=1649676},},
+	},
+	[286]={
+		star = 286,
+		needitem = {{type=1,id=1010000,count=246}},
+		attr = {{type=32,value=5321125},{type=5,value=1385709},{type=11,value=1662851},},
+	},
+	[287]={
+		star = 287,
+		needitem = {{type=1,id=1010000,count=247}},
+		attr = {{type=32,value=5363496},{type=5,value=1396743},{type=11,value=1676092},},
+	},
+	[288]={
+		star = 288,
+		needitem = {{type=1,id=1010000,count=248}},
+		attr = {{type=32,value=5406074},{type=5,value=1407831},{type=11,value=1689398},},
+	},
+	[289]={
+		star = 289,
+		needitem = {{type=1,id=1010000,count=249}},
+		attr = {{type=32,value=5448861},{type=5,value=1418974},{type=11,value=1702769},},
+	},
+	[290]={
+		star = 290,
+		needitem = {{type=1,id=1010000,count=250}},
+		attr = {{type=32,value=5491857},{type=5,value=1430171},{type=11,value=1716205},},
+	},
+	[291]={
+		star = 291,
+		needitem = {{type=1,id=1010000,count=251}},
+		attr = {{type=32,value=5534878},{type=5,value=1441374},{type=11,value=1729649},},
+	},
+	[292]={
+		star = 292,
+		needitem = {{type=1,id=1010000,count=252}},
+		attr = {{type=32,value=5578108},{type=5,value=1452632},{type=11,value=1743159},},
+	},
+	[293]={
+		star = 293,
+		needitem = {{type=1,id=1010000,count=253}},
+		attr = {{type=32,value=5621547},{type=5,value=1463944},{type=11,value=1756733},},
+	},
+	[294]={
+		star = 294,
+		needitem = {{type=1,id=1010000,count=254}},
+		attr = {{type=32,value=5665194},{type=5,value=1475310},{type=11,value=1770373},},
+	},
+	[295]={
+		star = 295,
+		needitem = {{type=1,id=1010000,count=255}},
+		attr = {{type=32,value=5709049},{type=5,value=1486731},{type=11,value=1784077},},
+	},
+	[296]={
+		star = 296,
+		needitem = {{type=1,id=1010000,count=256}},
+		attr = {{type=32,value=5752930},{type=5,value=1498159},{type=11,value=1797790},},
+	},
+	[297]={
+		star = 297,
+		needitem = {{type=1,id=1010000,count=257}},
+		attr = {{type=32,value=5797020},{type=5,value=1509640},{type=11,value=1811568},},
+	},
+	[298]={
+		star = 298,
+		needitem = {{type=1,id=1010000,count=258}},
+		attr = {{type=32,value=5841318},{type=5,value=1521176},{type=11,value=1825411},},
+	},
+	[299]={
+		star = 299,
+		needitem = {{type=1,id=1010000,count=259}},
+		attr = {{type=32,value=5885824},{type=5,value=1532766},{type=11,value=1839320},},
+	},
+	[300]={
+		star = 300,
+		needitem = {{type=1,id=1010000,count=260}},
+		attr = {{type=32,value=5930539},{type=5,value=1544411},{type=11,value=1853293},},
+	},
+	[301]={
+		star = 301,
+		needitem = {{type=1,id=1010000,count=261}},
+		attr = {{type=32,value=5975280},{type=5,value=1556062},{type=11,value=1867275},},
+	},
+	[302]={
+		star = 302,
+		needitem = {{type=1,id=1010000,count=262}},
+		attr = {{type=32,value=6020230},{type=5,value=1567768},{type=11,value=1881321},},
+	},
+	[303]={
+		star = 303,
+		needitem = {{type=1,id=1010000,count=263}},
+		attr = {{type=32,value=6065387},{type=5,value=1579528},{type=11,value=1895433},},
+	},
+	[304]={
+		star = 304,
+		needitem = {{type=1,id=1010000,count=264}},
+		attr = {{type=32,value=6110754},{type=5,value=1591342},{type=11,value=1909610},},
+	},
+	[305]={
+		star = 305,
+		needitem = {{type=1,id=1010000,count=265}},
+		attr = {{type=32,value=6156328},{type=5,value=1603210},{type=11,value=1923852},},
+	},
+	[306]={
+		star = 306,
+		needitem = {{type=1,id=1010000,count=266}},
+		attr = {{type=32,value=6201929},{type=5,value=1615085},{type=11,value=1938102},},
+	},
+	[307]={
+		star = 307,
+		needitem = {{type=1,id=1010000,count=267}},
+		attr = {{type=32,value=6247738},{type=5,value=1627015},{type=11,value=1952418},},
+	},
+	[308]={
+		star = 308,
+		needitem = {{type=1,id=1010000,count=268}},
+		attr = {{type=32,value=6293756},{type=5,value=1638998},{type=11,value=1966798},},
+	},
+	[309]={
+		star = 309,
+		needitem = {{type=1,id=1010000,count=269}},
+		attr = {{type=32,value=6339981},{type=5,value=1651036},{type=11,value=1981244},},
+	},
+	[310]={
+		star = 310,
+		needitem = {{type=1,id=1010000,count=270}},
+		attr = {{type=32,value=6386416},{type=5,value=1663129},{type=11,value=1995755},},
+	},
+	[311]={
+		star = 311,
+		needitem = {{type=1,id=1010000,count=271}},
+		attr = {{type=32,value=6432876},{type=5,value=1675228},{type=11,value=2010273},},
+	},
+	[312]={
+		star = 312,
+		needitem = {{type=1,id=1010000,count=272}},
+		attr = {{type=32,value=6479545},{type=5,value=1687381},{type=11,value=2024857},},
+	},
+	[313]={
+		star = 313,
+		needitem = {{type=1,id=1010000,count=273}},
+		attr = {{type=32,value=6526422},{type=5,value=1699589},{type=11,value=2039507},},
+	},
+	[314]={
+		star = 314,
+		needitem = {{type=1,id=1010000,count=274}},
+		attr = {{type=32,value=6573508},{type=5,value=1711851},{type=11,value=2054221},},
+	},
+	[315]={
+		star = 315,
+		needitem = {{type=1,id=1010000,count=275}},
+		attr = {{type=32,value=6620802},{type=5,value=1724167},{type=11,value=2069000},},
+	},
+	[316]={
+		star = 316,
+		needitem = {{type=1,id=1010000,count=276}},
+		attr = {{type=32,value=6668122},{type=5,value=1736490},{type=11,value=2083788},},
+	},
+	[317]={
+		star = 317,
+		needitem = {{type=1,id=1010000,count=277}},
+		attr = {{type=32,value=6715650},{type=5,value=1748867},{type=11,value=2098640},},
+	},
+	[318]={
+		star = 318,
+		needitem = {{type=1,id=1010000,count=278}},
+		attr = {{type=32,value=6763387},{type=5,value=1761298},{type=11,value=2113558},},
+	},
+	[319]={
+		star = 319,
+		needitem = {{type=1,id=1010000,count=279}},
+		attr = {{type=32,value=6811333},{type=5,value=1773784},{type=11,value=2128541},},
+	},
+	[320]={
+		star = 320,
+		needitem = {{type=1,id=1010000,count=280}},
+		attr = {{type=32,value=6859486},{type=5,value=1786324},{type=11,value=2143589},},
+	},
+	[321]={
+		star = 321,
+		needitem = {{type=1,id=1010000,count=281}},
+		attr = {{type=32,value=6907666},{type=5,value=1798871},{type=11,value=2158645},},
+	},
+	[322]={
+		star = 322,
+		needitem = {{type=1,id=1010000,count=282}},
+		attr = {{type=32,value=6956054},{type=5,value=1811472},{type=11,value=2173767},},
+	},
+	[323]={
+		star = 323,
+		needitem = {{type=1,id=1010000,count=283}},
+		attr = {{type=32,value=7004651},{type=5,value=1824127},{type=11,value=2188953},},
+	},
+	[324]={
+		star = 324,
+		needitem = {{type=1,id=1010000,count=284}},
+		attr = {{type=32,value=7053456},{type=5,value=1836837},{type=11,value=2204205},},
+	},
+	[325]={
+		star = 325,
+		needitem = {{type=1,id=1010000,count=285}},
+		attr = {{type=32,value=7102469},{type=5,value=1849601},{type=11,value=2219521},},
+	},
+	[326]={
+		star = 326,
+		needitem = {{type=1,id=1010000,count=286}},
+		attr = {{type=32,value=7151509},{type=5,value=1862372},{type=11,value=2234846},},
+	},
+	[327]={
+		star = 327,
+		needitem = {{type=1,id=1010000,count=287}},
+		attr = {{type=32,value=7200757},{type=5,value=1875197},{type=11,value=2250236},},
+	},
+	[328]={
+		star = 328,
+		needitem = {{type=1,id=1010000,count=288}},
+		attr = {{type=32,value=7250213},{type=5,value=1888076},{type=11,value=2265691},},
+	},
+	[329]={
+		star = 329,
+		needitem = {{type=1,id=1010000,count=289}},
+		attr = {{type=32,value=7299878},{type=5,value=1901009},{type=11,value=2281211},},
+	},
+	[330]={
+		star = 330,
+		needitem = {{type=1,id=1010000,count=290}},
+		attr = {{type=32,value=7349751},{type=5,value=1913997},{type=11,value=2296797},},
+	},
+	[331]={
+		star = 331,
+		needitem = {{type=1,id=1010000,count=291}},
+		attr = {{type=32,value=7399650},{type=5,value=1926992},{type=11,value=2312390},},
+	},
+	[332]={
+		star = 332,
+		needitem = {{type=1,id=1010000,count=292}},
+		attr = {{type=32,value=7449758},{type=5,value=1940041},{type=11,value=2328049},},
+	},
+	[333]={
+		star = 333,
+		needitem = {{type=1,id=1010000,count=293}},
+		attr = {{type=32,value=7500074},{type=5,value=1953144},{type=11,value=2343773},},
+	},
+	[334]={
+		star = 334,
+		needitem = {{type=1,id=1010000,count=294}},
+		attr = {{type=32,value=7550598},{type=5,value=1966301},{type=11,value=2359562},},
+	},
+	[335]={
+		star = 335,
+		needitem = {{type=1,id=1010000,count=295}},
+		attr = {{type=32,value=7601331},{type=5,value=1979513},{type=11,value=2375416},},
+	},
+	[336]={
+		star = 336,
+		needitem = {{type=1,id=1010000,count=296}},
+		attr = {{type=32,value=7652090},{type=5,value=1992731},{type=11,value=2391278},},
+	},
+	[337]={
+		star = 337,
+		needitem = {{type=1,id=1010000,count=297}},
+		attr = {{type=32,value=7703057},{type=5,value=2006004},{type=11,value=2407205},},
+	},
+	[338]={
+		star = 338,
+		needitem = {{type=1,id=1010000,count=298}},
+		attr = {{type=32,value=7754233},{type=5,value=2019331},{type=11,value=2423197},},
+	},
+	[339]={
+		star = 339,
+		needitem = {{type=1,id=1010000,count=299}},
+		attr = {{type=32,value=7805617},{type=5,value=2032712},{type=11,value=2439255},},
+	},
+	[340]={
+		star = 340,
+		needitem = {{type=1,id=1010000,count=300}},
+		attr = {{type=32,value=7857209},{type=5,value=2046148},{type=11,value=2455378},},
+	},
+	[341]={
+		star = 341,
+		needitem = {{type=1,id=1010000,count=301}},
+		attr = {{type=32,value=7908828},{type=5,value=2059590},{type=11,value=2471508},},
+	},
+	[342]={
+		star = 342,
+		needitem = {{type=1,id=1010000,count=302}},
+		attr = {{type=32,value=7960655},{type=5,value=2073087},{type=11,value=2487704},},
+	},
+	[343]={
+		star = 343,
+		needitem = {{type=1,id=1010000,count=303}},
+		attr = {{type=32,value=8012690},{type=5,value=2086638},{type=11,value=2503965},},
+	},
+	[344]={
+		star = 344,
+		needitem = {{type=1,id=1010000,count=304}},
+		attr = {{type=32,value=8064934},{type=5,value=2100243},{type=11,value=2520292},},
+	},
+	[345]={
+		star = 345,
+		needitem = {{type=1,id=1010000,count=305}},
+		attr = {{type=32,value=8117387},{type=5,value=2113902},{type=11,value=2536683},},
+	},
+	[346]={
+		star = 346,
+		needitem = {{type=1,id=1010000,count=306}},
+		attr = {{type=32,value=8169865},{type=5,value=2127569},{type=11,value=2553082},},
+	},
+	[347]={
+		star = 347,
+		needitem = {{type=1,id=1010000,count=307}},
+		attr = {{type=32,value=8222551},{type=5,value=2141289},{type=11,value=2569547},},
+	},
+	[348]={
+		star = 348,
+		needitem = {{type=1,id=1010000,count=308}},
+		attr = {{type=32,value=8275447},{type=5,value=2155064},{type=11,value=2586077},},
+	},
+	[349]={
+		star = 349,
+		needitem = {{type=1,id=1010000,count=309}},
+		attr = {{type=32,value=8328550},{type=5,value=2168893},{type=11,value=2602672},},
+	},
+	[350]={
+		star = 350,
+		needitem = {{type=1,id=1010000,count=310}},
+		attr = {{type=32,value=8381862},{type=5,value=2182776},{type=11,value=2619332},},
+	},
+	[351]={
+		star = 351,
+		needitem = {{type=1,id=1010000,count=311}},
+		attr = {{type=32,value=8435200},{type=5,value=2196666},{type=11,value=2636000},},
+	},
+	[352]={
+		star = 352,
+		needitem = {{type=1,id=1010000,count=312}},
+		attr = {{type=32,value=8488746},{type=5,value=2210611},{type=11,value=2652733},},
+	},
+	[353]={
+		star = 353,
+		needitem = {{type=1,id=1010000,count=313}},
+		attr = {{type=32,value=8542501},{type=5,value=2224609},{type=11,value=2669531},},
+	},
+	[354]={
+		star = 354,
+		needitem = {{type=1,id=1010000,count=314}},
+		attr = {{type=32,value=8596465},{type=5,value=2238662},{type=11,value=2686395},},
+	},
+	[355]={
+		star = 355,
+		needitem = {{type=1,id=1010000,count=315}},
+		attr = {{type=32,value=8650636},{type=5,value=2252769},{type=11,value=2703323},},
+	},
+	[356]={
+		star = 356,
+		needitem = {{type=1,id=1010000,count=316}},
+		attr = {{type=32,value=8704834},{type=5,value=2266883},{type=11,value=2720260},},
+	},
+	[357]={
+		star = 357,
+		needitem = {{type=1,id=1010000,count=317}},
+		attr = {{type=32,value=8759240},{type=5,value=2281052},{type=11,value=2737262},},
+	},
+	[358]={
+		star = 358,
+		needitem = {{type=1,id=1010000,count=318}},
+		attr = {{type=32,value=8813854},{type=5,value=2295274},{type=11,value=2754329},},
+	},
+	[359]={
+		star = 359,
+		needitem = {{type=1,id=1010000,count=319}},
+		attr = {{type=32,value=8868677},{type=5,value=2309551},{type=11,value=2771461},},
+	},
+	[360]={
+		star = 360,
+		needitem = {{type=1,id=1010000,count=320}},
+		attr = {{type=32,value=8923709},{type=5,value=2323882},{type=11,value=2788659},},
+	},
+	[361]={
+		star = 361,
+		needitem = {{type=1,id=1010000,count=321}},
+		attr = {{type=32,value=8978766},{type=5,value=2338220},{type=11,value=2805864},},
+	},
+	[362]={
+		star = 362,
+		needitem = {{type=1,id=1010000,count=322}},
+		attr = {{type=32,value=9034032},{type=5,value=2352612},{type=11,value=2823135},},
+	},
+	[363]={
+		star = 363,
+		needitem = {{type=1,id=1010000,count=323}},
+		attr = {{type=32,value=9089506},{type=5,value=2367059},{type=11,value=2840470},},
+	},
+	[364]={
+		star = 364,
+		needitem = {{type=1,id=1010000,count=324}},
+		attr = {{type=32,value=9145189},{type=5,value=2381559},{type=11,value=2857871},},
+	},
+	[365]={
+		star = 365,
+		needitem = {{type=1,id=1010000,count=325}},
+		attr = {{type=32,value=9201080},{type=5,value=2396114},{type=11,value=2875337},},
+	},
+	[366]={
+		star = 366,
+		needitem = {{type=1,id=1010000,count=326}},
+		attr = {{type=32,value=9256997},{type=5,value=2410676},{type=11,value=2892811},},
+	},
+	[367]={
+		star = 367,
+		needitem = {{type=1,id=1010000,count=327}},
+		attr = {{type=32,value=9313122},{type=5,value=2425292},{type=11,value=2910350},},
+	},
+	[368]={
+		star = 368,
+		needitem = {{type=1,id=1010000,count=328}},
+		attr = {{type=32,value=9369456},{type=5,value=2439962},{type=11,value=2927955},},
+	},
+	[369]={
+		star = 369,
+		needitem = {{type=1,id=1010000,count=329}},
+		attr = {{type=32,value=9425999},{type=5,value=2454687},{type=11,value=2945624},},
+	},
+	[370]={
+		star = 370,
+		needitem = {{type=1,id=1010000,count=330}},
+		attr = {{type=32,value=9482749},{type=5,value=2469466},{type=11,value=2963359},},
+	},
+	[371]={
+		star = 371,
+		needitem = {{type=1,id=1010000,count=331}},
+		attr = {{type=32,value=9539526},{type=5,value=2484251},{type=11,value=2981102},},
+	},
+	[372]={
+		star = 372,
+		needitem = {{type=1,id=1010000,count=332}},
+		attr = {{type=32,value=9596511},{type=5,value=2499091},{type=11,value=2998909},},
+	},
+	[373]={
+		star = 373,
+		needitem = {{type=1,id=1010000,count=333}},
+		attr = {{type=32,value=9653705},{type=5,value=2513985},{type=11,value=3016782},},
+	},
+	[374]={
+		star = 374,
+		needitem = {{type=1,id=1010000,count=334}},
+		attr = {{type=32,value=9711107},{type=5,value=2528934},{type=11,value=3034721},},
+	},
+	[375]={
+		star = 375,
+		needitem = {{type=1,id=1010000,count=335}},
+		attr = {{type=32,value=9768717},{type=5,value=2543936},{type=11,value=3052724},},
+	},
+	[376]={
+		star = 376,
+		needitem = {{type=1,id=1010000,count=336}},
+		attr = {{type=32,value=9826354},{type=5,value=2558946},{type=11,value=3070735},},
+	},
+	[377]={
+		star = 377,
+		needitem = {{type=1,id=1010000,count=337}},
+		attr = {{type=32,value=9884199},{type=5,value=2574010},{type=11,value=3088812},},
+	},
+	[378]={
+		star = 378,
+		needitem = {{type=1,id=1010000,count=338}},
+		attr = {{type=32,value=9942252},{type=5,value=2589128},{type=11,value=3106953},},
+	},
+	[379]={
+		star = 379,
+		needitem = {{type=1,id=1010000,count=339}},
+		attr = {{type=32,value=10000514},{type=5,value=2604300},{type=11,value=3125160},},
+	},
+	[380]={
+		star = 380,
+		needitem = {{type=1,id=1010000,count=340}},
+		attr = {{type=32,value=10058984},{type=5,value=2619527},{type=11,value=3143432},},
+	},
+	[381]={
+		star = 381,
+		needitem = {{type=1,id=1010000,count=341}},
+		attr = {{type=32,value=10117480},{type=5,value=2634760},{type=11,value=3161712},},
+	},
+	[382]={
+		star = 382,
+		needitem = {{type=1,id=1010000,count=342}},
+		attr = {{type=32,value=10176185},{type=5,value=2650048},{type=11,value=3180057},},
+	},
+	[383]={
+		star = 383,
+		needitem = {{type=1,id=1010000,count=343}},
+		attr = {{type=32,value=10235098},{type=5,value=2665390},{type=11,value=3198468},},
+	},
+	[384]={
+		star = 384,
+		needitem = {{type=1,id=1010000,count=344}},
+		attr = {{type=32,value=10294219},{type=5,value=2680786},{type=11,value=3216943},},
+	},
+	[385]={
+		star = 385,
+		needitem = {{type=1,id=1010000,count=345}},
+		attr = {{type=32,value=10353549},{type=5,value=2696236},{type=11,value=3235484},},
+	},
+	[386]={
+		star = 386,
+		needitem = {{type=1,id=1010000,count=346}},
+		attr = {{type=32,value=10412905},{type=5,value=2711694},{type=11,value=3254032},},
+	},
+	[387]={
+		star = 387,
+		needitem = {{type=1,id=1010000,count=347}},
+		attr = {{type=32,value=10472469},{type=5,value=2727205},{type=11,value=3272646},},
+	},
+	[388]={
+		star = 388,
+		needitem = {{type=1,id=1010000,count=348}},
+		attr = {{type=32,value=10532242},{type=5,value=2742771},{type=11,value=3291325},},
+	},
+	[389]={
+		star = 389,
+		needitem = {{type=1,id=1010000,count=349}},
+		attr = {{type=32,value=10592223},{type=5,value=2758391},{type=11,value=3310069},},
+	},
+	[390]={
+		star = 390,
+		needitem = {{type=1,id=1010000,count=350}},
+		attr = {{type=32,value=10652413},{type=5,value=2774065},{type=11,value=3328879},},
+	},
+	[391]={
+		star = 391,
+		needitem = {{type=1,id=1010000,count=351}},
+		attr = {{type=32,value=10712628},{type=5,value=2789747},{type=11,value=3347696},},
+	},
+	[392]={
+		star = 392,
+		needitem = {{type=1,id=1010000,count=352}},
+		attr = {{type=32,value=10773052},{type=5,value=2805482},{type=11,value=3366579},},
+	},
+	[393]={
+		star = 393,
+		needitem = {{type=1,id=1010000,count=353}},
+		attr = {{type=32,value=10833685},{type=5,value=2821272},{type=11,value=3385526},},
+	},
+	[394]={
+		star = 394,
+		needitem = {{type=1,id=1010000,count=354}},
+		attr = {{type=32,value=10894526},{type=5,value=2837116},{type=11,value=3404539},},
+	},
+	[395]={
+		star = 395,
+		needitem = {{type=1,id=1010000,count=355}},
+		attr = {{type=32,value=10955575},{type=5,value=2853014},{type=11,value=3423617},},
+	},
+	[396]={
+		star = 396,
+		needitem = {{type=1,id=1010000,count=356}},
+		attr = {{type=32,value=11016650},{type=5,value=2868919},{type=11,value=3442703},},
+	},
+	[397]={
+		star = 397,
+		needitem = {{type=1,id=1010000,count=357}},
+		attr = {{type=32,value=11077934},{type=5,value=2884878},{type=11,value=3461854},},
+	},
+	[398]={
+		star = 398,
+		needitem = {{type=1,id=1010000,count=358}},
+		attr = {{type=32,value=11139426},{type=5,value=2900892},{type=11,value=3481070},},
+	},
+	[399]={
+		star = 399,
+		needitem = {{type=1,id=1010000,count=359}},
+		attr = {{type=32,value=11201127},{type=5,value=2916960},{type=11,value=3500352},},
+	},
+	[400]={
+		star = 400,
+		needitem = {{type=1,id=1010000,count=360}},
+		attr = {{type=32,value=11263036},{type=5,value=2933082},{type=11,value=3519698},},
+	},
+	[401]={
+		star = 401,
+		needitem = {{type=1,id=1010000,count=361}},
+		attr = {{type=32,value=11324971},{type=5,value=2949211},{type=11,value=3539053},},
+	},
+	[402]={
+		star = 402,
+		needitem = {{type=1,id=1010000,count=362}},
+		attr = {{type=32,value=11387114},{type=5,value=2965394},{type=11,value=3558473},},
+	},
+	[403]={
+		star = 403,
+		needitem = {{type=1,id=1010000,count=363}},
+		attr = {{type=32,value=11449466},{type=5,value=2981631},{type=11,value=3577958},},
+	},
+	[404]={
+		star = 404,
+		needitem = {{type=1,id=1010000,count=364}},
+		attr = {{type=32,value=11512026},{type=5,value=2997923},{type=11,value=3597508},},
+	},
+	[405]={
+		star = 405,
+		needitem = {{type=1,id=1010000,count=365}},
+		attr = {{type=32,value=11574795},{type=5,value=3014269},{type=11,value=3617123},},
+	},
+	[406]={
+		star = 406,
+		needitem = {{type=1,id=1010000,count=366}},
+		attr = {{type=32,value=11637589},{type=5,value=3030622},{type=11,value=3636746},},
+	},
+	[407]={
+		star = 407,
+		needitem = {{type=1,id=1010000,count=367}},
+		attr = {{type=32,value=11700593},{type=5,value=3047029},{type=11,value=3656435},},
+	},
+	[408]={
+		star = 408,
+		needitem = {{type=1,id=1010000,count=368}},
+		attr = {{type=32,value=11763804},{type=5,value=3063490},{type=11,value=3676188},},
+	},
+	[409]={
+		star = 409,
+		needitem = {{type=1,id=1010000,count=369}},
+		attr = {{type=32,value=11827224},{type=5,value=3080006},{type=11,value=3696007},},
+	},
+	[410]={
+		star = 410,
+		needitem = {{type=1,id=1010000,count=370}},
+		attr = {{type=32,value=11890852},{type=5,value=3096576},{type=11,value=3715891},},
+	},
+	[411]={
+		star = 411,
+		needitem = {{type=1,id=1010000,count=371}},
+		attr = {{type=32,value=11954507},{type=5,value=3113152},{type=11,value=3735783},},
+	},
+	[412]={
+		star = 412,
+		needitem = {{type=1,id=1010000,count=372}},
+		attr = {{type=32,value=12018370},{type=5,value=3129783},{type=11,value=3755740},},
+	},
+	[413]={
+		star = 413,
+		needitem = {{type=1,id=1010000,count=373}},
+		attr = {{type=32,value=12082441},{type=5,value=3146469},{type=11,value=3775762},},
+	},
+	[414]={
+		star = 414,
+		needitem = {{type=1,id=1010000,count=374}},
+		attr = {{type=32,value=12146720},{type=5,value=3163208},{type=11,value=3795850},},
+	},
+	[415]={
+		star = 415,
+		needitem = {{type=1,id=1010000,count=375}},
+		attr = {{type=32,value=12211209},{type=5,value=3180002},{type=11,value=3816002},},
+	},
+	[416]={
+		star = 416,
+		needitem = {{type=1,id=1010000,count=376}},
+		attr = {{type=32,value=12275723},{type=5,value=3196802},{type=11,value=3836163},},
+	},
+	[417]={
+		star = 417,
+		needitem = {{type=1,id=1010000,count=377}},
+		attr = {{type=32,value=12340445},{type=5,value=3213657},{type=11,value=3856389},},
+	},
+	[418]={
+		star = 418,
+		needitem = {{type=1,id=1010000,count=378}},
+		attr = {{type=32,value=12405376},{type=5,value=3230566},{type=11,value=3876680},},
+	},
+	[419]={
+		star = 419,
+		needitem = {{type=1,id=1010000,count=379}},
+		attr = {{type=32,value=12470515},{type=5,value=3247530},{type=11,value=3897036},},
+	},
+	[420]={
+		star = 420,
+		needitem = {{type=1,id=1010000,count=380}},
+		attr = {{type=32,value=12535863},{type=5,value=3264547},{type=11,value=3917457},},
+	},
+	[421]={
+		star = 421,
+		needitem = {{type=1,id=1010000,count=381}},
+		attr = {{type=32,value=12601237},{type=5,value=3281572},{type=11,value=3937886},},
+	},
+	[422]={
+		star = 422,
+		needitem = {{type=1,id=1010000,count=382}},
+		attr = {{type=32,value=12666819},{type=5,value=3298650},{type=11,value=3958381},},
+	},
+	[423]={
+		star = 423,
+		needitem = {{type=1,id=1010000,count=383}},
+		attr = {{type=32,value=12732610},{type=5,value=3315783},{type=11,value=3978940},},
+	},
+	[424]={
+		star = 424,
+		needitem = {{type=1,id=1010000,count=384}},
+		attr = {{type=32,value=12798609},{type=5,value=3332971},{type=11,value=3999565},},
+	},
+	[425]={
+		star = 425,
+		needitem = {{type=1,id=1010000,count=385}},
+		attr = {{type=32,value=12864816},{type=5,value=3350212},{type=11,value=4020255},},
+	},
+	[426]={
+		star = 426,
+		needitem = {{type=1,id=1010000,count=386}},
+		attr = {{type=32,value=12931050},{type=5,value=3367461},{type=11,value=4040953},},
+	},
+	[427]={
+		star = 427,
+		needitem = {{type=1,id=1010000,count=387}},
+		attr = {{type=32,value=12997492},{type=5,value=3384763},{type=11,value=4061716},},
+	},
+	[428]={
+		star = 428,
+		needitem = {{type=1,id=1010000,count=388}},
+		attr = {{type=32,value=13064142},{type=5,value=3402120},{type=11,value=4082544},},
+	},
+	[429]={
+		star = 429,
+		needitem = {{type=1,id=1010000,count=389}},
+		attr = {{type=32,value=13131001},{type=5,value=3419531},{type=11,value=4103437},},
+	},
+	[430]={
+		star = 430,
+		needitem = {{type=1,id=1010000,count=390}},
+		attr = {{type=32,value=13198068},{type=5,value=3436997},{type=11,value=4124396},},
+	},
+	[431]={
+		star = 431,
+		needitem = {{type=1,id=1010000,count=391}},
+		attr = {{type=32,value=13265161},{type=5,value=3454469},{type=11,value=4145363},},
+	},
+	[432]={
+		star = 432,
+		needitem = {{type=1,id=1010000,count=392}},
+		attr = {{type=32,value=13332463},{type=5,value=3471995},{type=11,value=4166394},},
+	},
+	[433]={
+		star = 433,
+		needitem = {{type=1,id=1010000,count=393}},
+		attr = {{type=32,value=13399973},{type=5,value=3489576},{type=11,value=4187491},},
+	},
+	[434]={
+		star = 434,
+		needitem = {{type=1,id=1010000,count=394}},
+		attr = {{type=32,value=13467691},{type=5,value=3507211},{type=11,value=4208653},},
+	},
+	[435]={
+		star = 435,
+		needitem = {{type=1,id=1010000,count=395}},
+		attr = {{type=32,value=13535618},{type=5,value=3524900},{type=11,value=4229880},},
+	},
+	[436]={
+		star = 436,
+		needitem = {{type=1,id=1010000,count=396}},
+		attr = {{type=32,value=13603571},{type=5,value=3542596},{type=11,value=4251116},},
+	},
+	[437]={
+		star = 437,
+		needitem = {{type=1,id=1010000,count=397}},
+		attr = {{type=32,value=13671732},{type=5,value=3560347},{type=11,value=4272416},},
+	},
+	[438]={
+		star = 438,
+		needitem = {{type=1,id=1010000,count=398}},
+		attr = {{type=32,value=13740102},{type=5,value=3578151},{type=11,value=4293782},},
+	},
+	[439]={
+		star = 439,
+		needitem = {{type=1,id=1010000,count=399}},
+		attr = {{type=32,value=13808680},{type=5,value=3596010},{type=11,value=4315212},},
+	},
+	[440]={
+		star = 440,
+		needitem = {{type=1,id=1010000,count=400}},
+		attr = {{type=32,value=13877467},{type=5,value=3613923},{type=11,value=4336708},},
+	},
+	[441]={
+		star = 441,
+		needitem = {{type=1,id=1010000,count=401}},
+		attr = {{type=32,value=13946280},{type=5,value=3631843},{type=11,value=4358212},},
+	},
+	[442]={
+		star = 442,
+		needitem = {{type=1,id=1010000,count=402}},
+		attr = {{type=32,value=14015301},{type=5,value=3649817},{type=11,value=4379781},},
+	},
+	[443]={
+		star = 443,
+		needitem = {{type=1,id=1010000,count=403}},
+		attr = {{type=32,value=14084530},{type=5,value=3667846},{type=11,value=4401415},},
+	},
+	[444]={
+		star = 444,
+		needitem = {{type=1,id=1010000,count=404}},
+		attr = {{type=32,value=14153968},{type=5,value=3685929},{type=11,value=4423115},},
+	},
+	[445]={
+		star = 445,
+		needitem = {{type=1,id=1010000,count=405}},
+		attr = {{type=32,value=14223614},{type=5,value=3704066},{type=11,value=4444879},},
+	},
+	[446]={
+		star = 446,
+		needitem = {{type=1,id=1010000,count=406}},
+		attr = {{type=32,value=14293286},{type=5,value=3722210},{type=11,value=4466652},},
+	},
+	[447]={
+		star = 447,
+		needitem = {{type=1,id=1010000,count=407}},
+		attr = {{type=32,value=14363167},{type=5,value=3740408},{type=11,value=4488489},},
+	},
+	[448]={
+		star = 448,
+		needitem = {{type=1,id=1010000,count=408}},
+		attr = {{type=32,value=14433256},{type=5,value=3758660},{type=11,value=4510392},},
+	},
+	[449]={
+		star = 449,
+		needitem = {{type=1,id=1010000,count=409}},
+		attr = {{type=32,value=14503554},{type=5,value=3776967},{type=11,value=4532360},},
+	},
+	[450]={
+		star = 450,
+		needitem = {{type=1,id=1010000,count=410}},
+		attr = {{type=32,value=14574060},{type=5,value=3795328},{type=11,value=4554393},},
+	},
+	[451]={
+		star = 451,
+		needitem = {{type=1,id=1010000,count=411}},
+		attr = {{type=32,value=14644592},{type=5,value=3813695},{type=11,value=4576435},},
+	},
+	[452]={
+		star = 452,
+		needitem = {{type=1,id=1010000,count=412}},
+		attr = {{type=32,value=14715332},{type=5,value=3832117},{type=11,value=4598541},},
+	},
+	[453]={
+		star = 453,
+		needitem = {{type=1,id=1010000,count=413}},
+		attr = {{type=32,value=14786281},{type=5,value=3850594},{type=11,value=4620712},},
+	},
+	[454]={
+		star = 454,
+		needitem = {{type=1,id=1010000,count=414}},
+		attr = {{type=32,value=14857438},{type=5,value=3869124},{type=11,value=4642949},},
+	},
+	[455]={
+		star = 455,
+		needitem = {{type=1,id=1010000,count=415}},
+		attr = {{type=32,value=14928804},{type=5,value=3887709},{type=11,value=4665251},},
+	},
+	[456]={
+		star = 456,
+		needitem = {{type=1,id=1010000,count=416}},
+		attr = {{type=32,value=15000196},{type=5,value=3906301},{type=11,value=4687561},},
+	},
+	[457]={
+		star = 457,
+		needitem = {{type=1,id=1010000,count=417}},
+		attr = {{type=32,value=15071796},{type=5,value=3924946},{type=11,value=4709936},},
+	},
+	[458]={
+		star = 458,
+		needitem = {{type=1,id=1010000,count=418}},
+		attr = {{type=32,value=15143604},{type=5,value=3943647},{type=11,value=4732376},},
+	},
+	[459]={
+		star = 459,
+		needitem = {{type=1,id=1010000,count=419}},
+		attr = {{type=32,value=15215621},{type=5,value=3962401},{type=11,value=4754881},},
+	},
+	[460]={
+		star = 460,
+		needitem = {{type=1,id=1010000,count=420}},
+		attr = {{type=32,value=15287847},{type=5,value=3981210},{type=11,value=4777452},},
+	},
+	[461]={
+		star = 461,
+		needitem = {{type=1,id=1010000,count=421}},
+		attr = {{type=32,value=15360098},{type=5,value=4000025},{type=11,value=4800030},},
+	},
+	[462]={
+		star = 462,
+		needitem = {{type=1,id=1010000,count=422}},
+		attr = {{type=32,value=15432558},{type=5,value=4018895},{type=11,value=4822674},},
+	},
+	[463]={
+		star = 463,
+		needitem = {{type=1,id=1010000,count=423}},
+		attr = {{type=32,value=15505226},{type=5,value=4037819},{type=11,value=4845383},},
+	},
+	[464]={
+		star = 464,
+		needitem = {{type=1,id=1010000,count=424}},
+		attr = {{type=32,value=15578103},{type=5,value=4056797},{type=11,value=4868157},},
+	},
+	[465]={
+		star = 465,
+		needitem = {{type=1,id=1010000,count=425}},
+		attr = {{type=32,value=15651188},{type=5,value=4075830},{type=11,value=4890996},},
+	},
+	[466]={
+		star = 466,
+		needitem = {{type=1,id=1010000,count=426}},
+		attr = {{type=32,value=15724299},{type=5,value=4094869},{type=11,value=4913843},},
+	},
+	[467]={
+		star = 467,
+		needitem = {{type=1,id=1010000,count=427}},
+		attr = {{type=32,value=15797619},{type=5,value=4113963},{type=11,value=4936755},},
+	},
+	[468]={
+		star = 468,
+		needitem = {{type=1,id=1010000,count=428}},
+		attr = {{type=32,value=15871147},{type=5,value=4133111},{type=11,value=4959733},},
+	},
+	[469]={
+		star = 469,
+		needitem = {{type=1,id=1010000,count=429}},
+		attr = {{type=32,value=15944883},{type=5,value=4152313},{type=11,value=4982776},},
+	},
+	[470]={
+		star = 470,
+		needitem = {{type=1,id=1010000,count=430}},
+		attr = {{type=32,value=16018828},{type=5,value=4171569},{type=11,value=5005883},},
+	},
+	[471]={
+		star = 471,
+		needitem = {{type=1,id=1010000,count=431}},
+		attr = {{type=32,value=16092799},{type=5,value=4190833},{type=11,value=5028999},},
+	},
+	[472]={
+		star = 472,
+		needitem = {{type=1,id=1010000,count=432}},
+		attr = {{type=32,value=16166978},{type=5,value=4210150},{type=11,value=5052180},},
+	},
+	[473]={
+		star = 473,
+		needitem = {{type=1,id=1010000,count=433}},
+		attr = {{type=32,value=16241365},{type=5,value=4229522},{type=11,value=5075426},},
+	},
+	[474]={
+		star = 474,
+		needitem = {{type=1,id=1010000,count=434}},
+		attr = {{type=32,value=16315961},{type=5,value=4248948},{type=11,value=5098738},},
+	},
+	[475]={
+		star = 475,
+		needitem = {{type=1,id=1010000,count=435}},
+		attr = {{type=32,value=16390766},{type=5,value=4268428},{type=11,value=5122114},},
+	},
+	[476]={
+		star = 476,
+		needitem = {{type=1,id=1010000,count=436}},
+		attr = {{type=32,value=16465596},{type=5,value=4287915},{type=11,value=5145499},},
+	},
+	[477]={
+		star = 477,
+		needitem = {{type=1,id=1010000,count=437}},
+		attr = {{type=32,value=16540635},{type=5,value=4307457},{type=11,value=5168948},},
+	},
+	[478]={
+		star = 478,
+		needitem = {{type=1,id=1010000,count=438}},
+		attr = {{type=32,value=16615883},{type=5,value=4327052},{type=11,value=5192463},},
+	},
+	[479]={
+		star = 479,
+		needitem = {{type=1,id=1010000,count=439}},
+		attr = {{type=32,value=16691339},{type=5,value=4346702},{type=11,value=5216043},},
+	},
+	[480]={
+		star = 480,
+		needitem = {{type=1,id=1010000,count=440}},
+		attr = {{type=32,value=16767003},{type=5,value=4366407},{type=11,value=5239688},},
+	},
+	[481]={
+		star = 481,
+		needitem = {{type=1,id=1010000,count=441}},
+		attr = {{type=32,value=16842693},{type=5,value=4386118},{type=11,value=5263341},},
+	},
+	[482]={
+		star = 482,
+		needitem = {{type=1,id=1010000,count=442}},
+		attr = {{type=32,value=16918592},{type=5,value=4405883},{type=11,value=5287060},},
+	},
+	[483]={
+		star = 483,
+		needitem = {{type=1,id=1010000,count=443}},
+		attr = {{type=32,value=16994699},{type=5,value=4425702},{type=11,value=5310843},},
+	},
+	[484]={
+		star = 484,
+		needitem = {{type=1,id=1010000,count=444}},
+		attr = {{type=32,value=17071014},{type=5,value=4445576},{type=11,value=5334692},},
+	},
+	[485]={
+		star = 485,
+		needitem = {{type=1,id=1010000,count=445}},
+		attr = {{type=32,value=17147538},{type=5,value=4465504},{type=11,value=5358605},},
+	},
+	[486]={
+		star = 486,
+		needitem = {{type=1,id=1010000,count=446}},
+		attr = {{type=32,value=17224088},{type=5,value=4485439},{type=11,value=5382527},},
+	},
+	[487]={
+		star = 487,
+		needitem = {{type=1,id=1010000,count=447}},
+		attr = {{type=32,value=17300846},{type=5,value=4505428},{type=11,value=5406514},},
+	},
+	[488]={
+		star = 488,
+		needitem = {{type=1,id=1010000,count=448}},
+		attr = {{type=32,value=17377813},{type=5,value=4525472},{type=11,value=5430566},},
+	},
+	[489]={
+		star = 489,
+		needitem = {{type=1,id=1010000,count=449}},
+		attr = {{type=32,value=17454988},{type=5,value=4545569},{type=11,value=5454683},},
+	},
+	[490]={
+		star = 490,
+		needitem = {{type=1,id=1010000,count=450}},
+		attr = {{type=32,value=17532372},{type=5,value=4565721},{type=11,value=5478866},},
+	},
+	[491]={
+		star = 491,
+		needitem = {{type=1,id=1010000,count=451}},
+		attr = {{type=32,value=17609781},{type=5,value=4585880},{type=11,value=5503056},},
+	},
+	[492]={
+		star = 492,
+		needitem = {{type=1,id=1010000,count=452}},
+		attr = {{type=32,value=17687399},{type=5,value=4606093},{type=11,value=5527312},},
+	},
+	[493]={
+		star = 493,
+		needitem = {{type=1,id=1010000,count=453}},
+		attr = {{type=32,value=17765226},{type=5,value=4626361},{type=11,value=5551633},},
+	},
+	[494]={
+		star = 494,
+		needitem = {{type=1,id=1010000,count=454}},
+		attr = {{type=32,value=17843261},{type=5,value=4646682},{type=11,value=5576019},},
+	},
+	[495]={
+		star = 495,
+		needitem = {{type=1,id=1010000,count=455}},
+		attr = {{type=32,value=17921504},{type=5,value=4667058},{type=11,value=5600470},},
+	},
+	[496]={
+		star = 496,
+		needitem = {{type=1,id=1010000,count=456}},
+		attr = {{type=32,value=17999773},{type=5,value=4687441},{type=11,value=5624929},},
+	},
+	[497]={
+		star = 497,
+		needitem = {{type=1,id=1010000,count=457}},
+		attr = {{type=32,value=18078251},{type=5,value=4707878},{type=11,value=5649453},},
+	},
+	[498]={
+		star = 498,
+		needitem = {{type=1,id=1010000,count=458}},
+		attr = {{type=32,value=18156937},{type=5,value=4728369},{type=11,value=5674043},},
+	},
+	[499]={
+		star = 499,
+		needitem = {{type=1,id=1010000,count=459}},
+		attr = {{type=32,value=18235832},{type=5,value=4748914},{type=11,value=5698697},},
+	},
+	[500]={
+		star = 500,
+		needitem = {{type=1,id=1010000,count=460}},
+		attr = {{type=32,value=18314935},{type=5,value=4769514},{type=11,value=5723417},},
+	},
+	[501]={
+		star = 501,
+		needitem = {{type=1,id=1010000,count=461}},
+		attr = {{type=32,value=18394064},{type=5,value=4790120},{type=11,value=5748145},},
+	},
+	[502]={
+		star = 502,
+		needitem = {{type=1,id=1010000,count=462}},
+		attr = {{type=32,value=18473401},{type=5,value=4810781},{type=11,value=5772938},},
+	},
+	[503]={
+		star = 503,
+		needitem = {{type=1,id=1010000,count=463}},
+		attr = {{type=32,value=18552947},{type=5,value=4831496},{type=11,value=5797796},},
+	},
+	[504]={
+		star = 504,
+		needitem = {{type=1,id=1010000,count=464}},
+		attr = {{type=32,value=18632701},{type=5,value=4852266},{type=11,value=5822719},},
+	},
+	[505]={
+		star = 505,
+		needitem = {{type=1,id=1010000,count=465}},
+		attr = {{type=32,value=18712664},{type=5,value=4873089},{type=11,value=5847707},},
+	},
+	[506]={
+		star = 506,
+		needitem = {{type=1,id=1010000,count=466}},
+		attr = {{type=32,value=18792653},{type=5,value=4893920},{type=11,value=5872704},},
+	},
+	[507]={
+		star = 507,
+		needitem = {{type=1,id=1010000,count=467}},
+		attr = {{type=32,value=18872850},{type=5,value=4914804},{type=11,value=5897765},},
+	},
+	[508]={
+		star = 508,
+		needitem = {{type=1,id=1010000,count=468}},
+		attr = {{type=32,value=18953256},{type=5,value=4935743},{type=11,value=5922892},},
+	},
+	[509]={
+		star = 509,
+		needitem = {{type=1,id=1010000,count=469}},
+		attr = {{type=32,value=19033869},{type=5,value=4956736},{type=11,value=5948084},},
+	},
+	[510]={
+		star = 510,
+		needitem = {{type=1,id=1010000,count=470}},
+		attr = {{type=32,value=19114692},{type=5,value=4977784},{type=11,value=5973341},},
+	},
+	[511]={
+		star = 511,
+		needitem = {{type=1,id=1010000,count=471}},
+		attr = {{type=32,value=19195540},{type=5,value=4998838},{type=11,value=5998606},},
+	},
+	[512]={
+		star = 512,
+		needitem = {{type=1,id=1010000,count=472}},
+		attr = {{type=32,value=19276597},{type=5,value=5019947},{type=11,value=6023936},},
+	},
+	[513]={
+		star = 513,
+		needitem = {{type=1,id=1010000,count=473}},
+		attr = {{type=32,value=19357862},{type=5,value=5041110},{type=11,value=6049332},},
+	},
+	[514]={
+		star = 514,
+		needitem = {{type=1,id=1010000,count=474}},
+		attr = {{type=32,value=19439336},{type=5,value=5062327},{type=11,value=6074792},},
+	},
+	[515]={
+		star = 515,
+		needitem = {{type=1,id=1010000,count=475}},
+		attr = {{type=32,value=19521018},{type=5,value=5083598},{type=11,value=6100318},},
+	},
+	[516]={
+		star = 516,
+		needitem = {{type=1,id=1010000,count=476}},
+		attr = {{type=32,value=19602726},{type=5,value=5104876},{type=11,value=6125852},},
+	},
+	[517]={
+		star = 517,
+		needitem = {{type=1,id=1010000,count=477}},
+		attr = {{type=32,value=19684643},{type=5,value=5126209},{type=11,value=6151451},},
+	},
+	[518]={
+		star = 518,
+		needitem = {{type=1,id=1010000,count=478}},
+		attr = {{type=32,value=19766768},{type=5,value=5147595},{type=11,value=6177115},},
+	},
+	[519]={
+		star = 519,
+		needitem = {{type=1,id=1010000,count=479}},
+		attr = {{type=32,value=19849101},{type=5,value=5169036},{type=11,value=6202844},},
+	},
+	[520]={
+		star = 520,
+		needitem = {{type=1,id=1010000,count=480}},
+		attr = {{type=32,value=19931643},{type=5,value=5190532},{type=11,value=6228638},},
+	},
+	[521]={
+		star = 521,
+		needitem = {{type=1,id=1010000,count=481}},
+		attr = {{type=32,value=20014211},{type=5,value=5212034},{type=11,value=6254441},},
+	},
+	[522]={
+		star = 522,
+		needitem = {{type=1,id=1010000,count=482}},
+		attr = {{type=32,value=20096987},{type=5,value=5233590},{type=11,value=6280308},},
+	},
+	[523]={
+		star = 523,
+		needitem = {{type=1,id=1010000,count=483}},
+		attr = {{type=32,value=20179972},{type=5,value=5255201},{type=11,value=6306241},},
+	},
+	[524]={
+		star = 524,
+		needitem = {{type=1,id=1010000,count=484}},
+		attr = {{type=32,value=20263165},{type=5,value=5276865},{type=11,value=6332239},},
+	},
+	[525]={
+		star = 525,
+		needitem = {{type=1,id=1010000,count=485}},
+		attr = {{type=32,value=20346566},{type=5,value=5298585},{type=11,value=6358302},},
+	},
+	[526]={
+		star = 526,
+		needitem = {{type=1,id=1010000,count=486}},
+		attr = {{type=32,value=20429994},{type=5,value=5320311},{type=11,value=6384373},},
+	},
+	[527]={
+		star = 527,
+		needitem = {{type=1,id=1010000,count=487}},
+		attr = {{type=32,value=20513630},{type=5,value=5342091},{type=11,value=6410509},},
+	},
+	[528]={
+		star = 528,
+		needitem = {{type=1,id=1010000,count=488}},
+		attr = {{type=32,value=20597474},{type=5,value=5363925},{type=11,value=6436710},},
+	},
+	[529]={
+		star = 529,
+		needitem = {{type=1,id=1010000,count=489}},
+		attr = {{type=32,value=20681527},{type=5,value=5385814},{type=11,value=6462977},},
+	},
+	[530]={
+		star = 530,
+		needitem = {{type=1,id=1010000,count=490}},
+		attr = {{type=32,value=20765788},{type=5,value=5407757},{type=11,value=6489308},},
+	},
+	[531]={
+		star = 531,
+		needitem = {{type=1,id=1010000,count=491}},
+		attr = {{type=32,value=20850075},{type=5,value=5429707},{type=11,value=6515648},},
+	},
+	[532]={
+		star = 532,
+		needitem = {{type=1,id=1010000,count=492}},
+		attr = {{type=32,value=20934571},{type=5,value=5451711},{type=11,value=6542053},},
+	},
+	[533]={
+		star = 533,
+		needitem = {{type=1,id=1010000,count=493}},
+		attr = {{type=32,value=21019275},{type=5,value=5473769},{type=11,value=6568523},},
+	},
+	[534]={
+		star = 534,
+		needitem = {{type=1,id=1010000,count=494}},
+		attr = {{type=32,value=21104188},{type=5,value=5495882},{type=11,value=6595058},},
+	},
+	[535]={
+		star = 535,
+		needitem = {{type=1,id=1010000,count=495}},
+		attr = {{type=32,value=21189308},{type=5,value=5518049},{type=11,value=6621659},},
+	},
+	[536]={
+		star = 536,
+		needitem = {{type=1,id=1010000,count=496}},
+		attr = {{type=32,value=21274455},{type=5,value=5540222},{type=11,value=6648267},},
+	},
+	[537]={
+		star = 537,
+		needitem = {{type=1,id=1010000,count=497}},
+		attr = {{type=32,value=21359811},{type=5,value=5562450},{type=11,value=6674941},},
+	},
+	[538]={
+		star = 538,
+		needitem = {{type=1,id=1010000,count=498}},
+		attr = {{type=32,value=21445375},{type=5,value=5584733},{type=11,value=6701679},},
+	},
+	[539]={
+		star = 539,
+		needitem = {{type=1,id=1010000,count=499}},
+		attr = {{type=32,value=21531147},{type=5,value=5607069},{type=11,value=6728483},},
+	},
+	[540]={
+		star = 540,
+		needitem = {{type=1,id=1010000,count=500}},
+		attr = {{type=32,value=21617127},{type=5,value=5629460},{type=11,value=6755352},},
+	},
+	[541]={
+		star = 541,
+		needitem = {{type=1,id=1010000,count=501}},
+		attr = {{type=32,value=21703134},{type=5,value=5651857},{type=11,value=6782229},},
+	},
+	[542]={
+		star = 542,
+		needitem = {{type=1,id=1010000,count=502}},
+		attr = {{type=32,value=21789349},{type=5,value=5674309},{type=11,value=6809171},},
+	},
+	[543]={
+		star = 543,
+		needitem = {{type=1,id=1010000,count=503}},
+		attr = {{type=32,value=21875772},{type=5,value=5696815},{type=11,value=6836179},},
+	},
+	[544]={
+		star = 544,
+		needitem = {{type=1,id=1010000,count=504}},
+		attr = {{type=32,value=21962404},{type=5,value=5719376},{type=11,value=6863251},},
+	},
+	[545]={
+		star = 545,
+		needitem = {{type=1,id=1010000,count=505}},
+		attr = {{type=32,value=22049245},{type=5,value=5741990},{type=11,value=6890389},},
+	},
+	[546]={
+		star = 546,
+		needitem = {{type=1,id=1010000,count=506}},
+		attr = {{type=32,value=22136111},{type=5,value=5764612},{type=11,value=6917534},},
+	},
+	[547]={
+		star = 547,
+		needitem = {{type=1,id=1010000,count=507}},
+		attr = {{type=32,value=22223186},{type=5,value=5787288},{type=11,value=6944745},},
+	},
+	[548]={
+		star = 548,
+		needitem = {{type=1,id=1010000,count=508}},
+		attr = {{type=32,value=22310469},{type=5,value=5810018},{type=11,value=6972021},},
+	},
+	[549]={
+		star = 549,
+		needitem = {{type=1,id=1010000,count=509}},
+		attr = {{type=32,value=22397961},{type=5,value=5832802},{type=11,value=6999362},},
+	},
+	[550]={
+		star = 550,
+		needitem = {{type=1,id=1010000,count=510}},
+		attr = {{type=32,value=22485661},{type=5,value=5855640},{type=11,value=7026769},},
+	},
+	[551]={
+		star = 551,
+		needitem = {{type=1,id=1010000,count=511}},
+		attr = {{type=32,value=22573387},{type=5,value=5878486},{type=11,value=7054183},},
+	},
+	[552]={
+		star = 552,
+		needitem = {{type=1,id=1010000,count=512}},
+		attr = {{type=32,value=22661321},{type=5,value=5901385},{type=11,value=7081662},},
+	},
+	[553]={
+		star = 553,
+		needitem = {{type=1,id=1010000,count=513}},
+		attr = {{type=32,value=22749464},{type=5,value=5924339},{type=11,value=7109207},},
+	},
+	[554]={
+		star = 554,
+		needitem = {{type=1,id=1010000,count=514}},
+		attr = {{type=32,value=22837815},{type=5,value=5947347},{type=11,value=7136817},},
+	},
+	[555]={
+		star = 555,
+		needitem = {{type=1,id=1010000,count=515}},
+		attr = {{type=32,value=22926375},{type=5,value=5970410},{type=11,value=7164492},},
+	},
+	[556]={
+		star = 556,
+		needitem = {{type=1,id=1010000,count=516}},
+		attr = {{type=32,value=23014961},{type=5,value=5993479},{type=11,value=7192175},},
+	},
+	[557]={
+		star = 557,
+		needitem = {{type=1,id=1010000,count=517}},
+		attr = {{type=32,value=23103755},{type=5,value=6016602},{type=11,value=7219923},},
+	},
+	[558]={
+		star = 558,
+		needitem = {{type=1,id=1010000,count=518}},
+		attr = {{type=32,value=23192757},{type=5,value=6039780},{type=11,value=7247736},},
+	},
+	[559]={
+		star = 559,
+		needitem = {{type=1,id=1010000,count=519}},
+		attr = {{type=32,value=23281968},{type=5,value=6063012},{type=11,value=7275615},},
+	},
+	[560]={
+		star = 560,
+		needitem = {{type=1,id=1010000,count=520}},
+		attr = {{type=32,value=23371388},{type=5,value=6086299},{type=11,value=7303558},},
+	},
+	[561]={
+		star = 561,
+		needitem = {{type=1,id=1010000,count=521}},
+		attr = {{type=32,value=23460833},{type=5,value=6109592},{type=11,value=7331510},},
+	},
+	[562]={
+		star = 562,
+		needitem = {{type=1,id=1010000,count=522}},
+		attr = {{type=32,value=23550487},{type=5,value=6132939},{type=11,value=7359527},},
+	},
+	[563]={
+		star = 563,
+		needitem = {{type=1,id=1010000,count=523}},
+		attr = {{type=32,value=23640349},{type=5,value=6156341},{type=11,value=7387609},},
+	},
+	[564]={
+		star = 564,
+		needitem = {{type=1,id=1010000,count=524}},
+		attr = {{type=32,value=23730420},{type=5,value=6179797},{type=11,value=7415756},},
+	},
+	[565]={
+		star = 565,
+		needitem = {{type=1,id=1010000,count=525}},
+		attr = {{type=32,value=23820699},{type=5,value=6203307},{type=11,value=7443968},},
+	},
+	[566]={
+		star = 566,
+		needitem = {{type=1,id=1010000,count=526}},
+		attr = {{type=32,value=23911004},{type=5,value=6226824},{type=11,value=7472188},},
+	},
+	[567]={
+		star = 567,
+		needitem = {{type=1,id=1010000,count=527}},
+		attr = {{type=32,value=24001518},{type=5,value=6250395},{type=11,value=7500474},},
+	},
+	[568]={
+		star = 568,
+		needitem = {{type=1,id=1010000,count=528}},
+		attr = {{type=32,value=24092240},{type=5,value=6274020},{type=11,value=7528825},},
+	},
+	[569]={
+		star = 569,
+		needitem = {{type=1,id=1010000,count=529}},
+		attr = {{type=32,value=24183170},{type=5,value=6297700},{type=11,value=7557240},},
+	},
+	[570]={
+		star = 570,
+		needitem = {{type=1,id=1010000,count=530}},
+		attr = {{type=32,value=24274309},{type=5,value=6321434},{type=11,value=7585721},},
+	},
+	[571]={
+		star = 571,
+		needitem = {{type=1,id=1010000,count=531}},
+		attr = {{type=32,value=24365474},{type=5,value=6345175},{type=11,value=7614210},},
+	},
+	[572]={
+		star = 572,
+		needitem = {{type=1,id=1010000,count=532}},
+		attr = {{type=32,value=24456847},{type=5,value=6368970},{type=11,value=7642764},},
+	},
+	[573]={
+		star = 573,
+		needitem = {{type=1,id=1010000,count=533}},
+		attr = {{type=32,value=24548429},{type=5,value=6392820},{type=11,value=7671384},},
+	},
+	[574]={
+		star = 574,
+		needitem = {{type=1,id=1010000,count=534}},
+		attr = {{type=32,value=24640219},{type=5,value=6416723},{type=11,value=7700068},},
+	},
+	[575]={
+		star = 575,
+		needitem = {{type=1,id=1010000,count=535}},
+		attr = {{type=32,value=24732217},{type=5,value=6440681},{type=11,value=7728818},},
+	},
+	[576]={
+		star = 576,
+		needitem = {{type=1,id=1010000,count=536}},
+		attr = {{type=32,value=24824242},{type=5,value=6464646},{type=11,value=7757575},},
+	},
+	[577]={
+		star = 577,
+		needitem = {{type=1,id=1010000,count=537}},
+		attr = {{type=32,value=24916475},{type=5,value=6488665},{type=11,value=7786398},},
+	},
+	[578]={
+		star = 578,
+		needitem = {{type=1,id=1010000,count=538}},
+		attr = {{type=32,value=25008916},{type=5,value=6512738},{type=11,value=7815286},},
+	},
+	[579]={
+		star = 579,
+		needitem = {{type=1,id=1010000,count=539}},
+		attr = {{type=32,value=25101566},{type=5,value=6536866},{type=11,value=7844239},},
+	},
+	[580]={
+		star = 580,
+		needitem = {{type=1,id=1010000,count=540}},
+		attr = {{type=32,value=25194424},{type=5,value=6561048},{type=11,value=7873257},},
+	},
+	[581]={
+		star = 581,
+		needitem = {{type=1,id=1010000,count=541}},
+		attr = {{type=32,value=25287309},{type=5,value=6585236},{type=11,value=7902284},},
+	},
+	[582]={
+		star = 582,
+		needitem = {{type=1,id=1010000,count=542}},
+		attr = {{type=32,value=25380401},{type=5,value=6609479},{type=11,value=7931375},},
+	},
+	[583]={
+		star = 583,
+		needitem = {{type=1,id=1010000,count=543}},
+		attr = {{type=32,value=25473702},{type=5,value=6633776},{type=11,value=7960532},},
+	},
+	[584]={
+		star = 584,
+		needitem = {{type=1,id=1010000,count=544}},
+		attr = {{type=32,value=25567212},{type=5,value=6658128},{type=11,value=7989753},},
+	},
+	[585]={
+		star = 585,
+		needitem = {{type=1,id=1010000,count=545}},
+		attr = {{type=32,value=25660930},{type=5,value=6682533},{type=11,value=8019040},},
+	},
+	[586]={
+		star = 586,
+		needitem = {{type=1,id=1010000,count=546}},
+		attr = {{type=32,value=25754674},{type=5,value=6706946},{type=11,value=8048335},},
+	},
+	[587]={
+		star = 587,
+		needitem = {{type=1,id=1010000,count=547}},
+		attr = {{type=32,value=25848626},{type=5,value=6731413},{type=11,value=8077695},},
+	},
+	[588]={
+		star = 588,
+		needitem = {{type=1,id=1010000,count=548}},
+		attr = {{type=32,value=25942787},{type=5,value=6755934},{type=11,value=8107121},},
+	},
+	[589]={
+		star = 589,
+		needitem = {{type=1,id=1010000,count=549}},
+		attr = {{type=32,value=26037156},{type=5,value=6780509},{type=11,value=8136611},},
+	},
+	[590]={
+		star = 590,
+		needitem = {{type=1,id=1010000,count=550}},
+		attr = {{type=32,value=26131734},{type=5,value=6805139},{type=11,value=8166166},},
+	},
+	[591]={
+		star = 591,
+		needitem = {{type=1,id=1010000,count=551}},
+		attr = {{type=32,value=26226337},{type=5,value=6829775},{type=11,value=8195730},},
+	},
+	[592]={
+		star = 592,
+		needitem = {{type=1,id=1010000,count=552}},
+		attr = {{type=32,value=26321149},{type=5,value=6854466},{type=11,value=8225359},},
+	},
+	[593]={
+		star = 593,
+		needitem = {{type=1,id=1010000,count=553}},
+		attr = {{type=32,value=26416170},{type=5,value=6879211},{type=11,value=8255053},},
+	},
+	[594]={
+		star = 594,
+		needitem = {{type=1,id=1010000,count=554}},
+		attr = {{type=32,value=26511399},{type=5,value=6904010},{type=11,value=8284812},},
+	},
+	[595]={
+		star = 595,
+		needitem = {{type=1,id=1010000,count=555}},
+		attr = {{type=32,value=26606836},{type=5,value=6928863},{type=11,value=8314636},},
+	},
+	[596]={
+		star = 596,
+		needitem = {{type=1,id=1010000,count=556}},
+		attr = {{type=32,value=26702299},{type=5,value=6953723},{type=11,value=8344468},},
+	},
+	[597]={
+		star = 597,
+		needitem = {{type=1,id=1010000,count=557}},
+		attr = {{type=32,value=26797971},{type=5,value=6978638},{type=11,value=8374366},},
+	},
+	[598]={
+		star = 598,
+		needitem = {{type=1,id=1010000,count=558}},
+		attr = {{type=32,value=26893851},{type=5,value=7003607},{type=11,value=8404328},},
+	},
+	[599]={
+		star = 599,
+		needitem = {{type=1,id=1010000,count=559}},
+		attr = {{type=32,value=26989940},{type=5,value=7028630},{type=11,value=8434356},},
+	},
+	[600]={
+		star = 600,
+		needitem = {{type=1,id=1010000,count=560}},
+		attr = {{type=32,value=27086237},{type=5,value=7053707},{type=11,value=8464449},},
+	},
+	[601]={
+		star = 601,
+		needitem = {{type=1,id=1010000,count=561}},
+		attr = {{type=32,value=27182560},{type=5,value=7078791},{type=11,value=8494550},},
+	},
+	[602]={
+		star = 602,
+		needitem = {{type=1,id=1010000,count=562}},
+		attr = {{type=32,value=27279092},{type=5,value=7103930},{type=11,value=8524716},},
+	},
+	[603]={
+		star = 603,
+		needitem = {{type=1,id=1010000,count=563}},
+		attr = {{type=32,value=27375831},{type=5,value=7129122},{type=11,value=8554947},},
+	},
+	[604]={
+		star = 604,
+		needitem = {{type=1,id=1010000,count=564}},
+		attr = {{type=32,value=27472780},{type=5,value=7154369},{type=11,value=8585243},},
+	},
+	[605]={
+		star = 605,
+		needitem = {{type=1,id=1010000,count=565}},
+		attr = {{type=32,value=27569936},{type=5,value=7179671},{type=11,value=8615605},},
+	},
+	[606]={
+		star = 606,
+		needitem = {{type=1,id=1010000,count=566}},
+		attr = {{type=32,value=27667119},{type=5,value=7204979},{type=11,value=8645974},},
+	},
+	[607]={
+		star = 607,
+		needitem = {{type=1,id=1010000,count=567}},
+		attr = {{type=32,value=27764510},{type=5,value=7230341},{type=11,value=8676409},},
+	},
+	[608]={
+		star = 608,
+		needitem = {{type=1,id=1010000,count=568}},
+		attr = {{type=32,value=27862110},{type=5,value=7255757},{type=11,value=8706909},},
+	},
+	[609]={
+		star = 609,
+		needitem = {{type=1,id=1010000,count=569}},
+		attr = {{type=32,value=27959918},{type=5,value=7281228},{type=11,value=8737474},},
+	},
+	[610]={
+		star = 610,
+		needitem = {{type=1,id=1010000,count=570}},
+		attr = {{type=32,value=28057934},{type=5,value=7306753},{type=11,value=8768104},},
+	},
+	[611]={
+		star = 611,
+		needitem = {{type=1,id=1010000,count=571}},
+		attr = {{type=32,value=28155977},{type=5,value=7332285},{type=11,value=8798742},},
+	},
+	[612]={
+		star = 612,
+		needitem = {{type=1,id=1010000,count=572}},
+		attr = {{type=32,value=28254228},{type=5,value=7357871},{type=11,value=8829446},},
+	},
+	[613]={
+		star = 613,
+		needitem = {{type=1,id=1010000,count=573}},
+		attr = {{type=32,value=28352687},{type=5,value=7383512},{type=11,value=8860214},},
+	},
+	[614]={
+		star = 614,
+		needitem = {{type=1,id=1010000,count=574}},
+		attr = {{type=32,value=28451355},{type=5,value=7409207},{type=11,value=8891048},},
+	},
+	[615]={
+		star = 615,
+		needitem = {{type=1,id=1010000,count=575}},
+		attr = {{type=32,value=28550231},{type=5,value=7434956},{type=11,value=8921947},},
+	},
+	[616]={
+		star = 616,
+		needitem = {{type=1,id=1010000,count=576}},
+		attr = {{type=32,value=28649133},{type=5,value=7460711},{type=11,value=8952854},},
+	},
+	[617]={
+		star = 617,
+		needitem = {{type=1,id=1010000,count=577}},
+		attr = {{type=32,value=28748244},{type=5,value=7486521},{type=11,value=8983826},},
+	},
+	[618]={
+		star = 618,
+		needitem = {{type=1,id=1010000,count=578}},
+		attr = {{type=32,value=28847563},{type=5,value=7512386},{type=11,value=9014863},},
+	},
+	[619]={
+		star = 619,
+		needitem = {{type=1,id=1010000,count=579}},
+		attr = {{type=32,value=28947090},{type=5,value=7538304},{type=11,value=9045965},},
+	},
+	[620]={
+		star = 620,
+		needitem = {{type=1,id=1010000,count=580}},
+		attr = {{type=32,value=29046826},{type=5,value=7564277},{type=11,value=9077133},},
+	},
+	[621]={
+		star = 621,
+		needitem = {{type=1,id=1010000,count=581}},
+		attr = {{type=32,value=29146588},{type=5,value=7590257},{type=11,value=9108308},},
+	},
+	[622]={
+		star = 622,
+		needitem = {{type=1,id=1010000,count=582}},
+		attr = {{type=32,value=29246558},{type=5,value=7616291},{type=11,value=9139549},},
+	},
+	[623]={
+		star = 623,
+		needitem = {{type=1,id=1010000,count=583}},
+		attr = {{type=32,value=29346737},{type=5,value=7642379},{type=11,value=9170855},},
+	},
+	[624]={
+		star = 624,
+		needitem = {{type=1,id=1010000,count=584}},
+		attr = {{type=32,value=29447124},{type=5,value=7668521},{type=11,value=9202226},},
+	},
+	[625]={
+		star = 625,
+		needitem = {{type=1,id=1010000,count=585}},
+		attr = {{type=32,value=29547719},{type=5,value=7694718},{type=11,value=9233662},},
+	},
+	[626]={
+		star = 626,
+		needitem = {{type=1,id=1010000,count=586}},
+		attr = {{type=32,value=29648341},{type=5,value=7720922},{type=11,value=9265106},},
+	},
+	[627]={
+		star = 627,
+		needitem = {{type=1,id=1010000,count=587}},
+		attr = {{type=32,value=29749171},{type=5,value=7747180},{type=11,value=9296616},},
+	},
+	[628]={
+		star = 628,
+		needitem = {{type=1,id=1010000,count=588}},
+		attr = {{type=32,value=29850209},{type=5,value=7773492},{type=11,value=9328190},},
+	},
+	[629]={
+		star = 629,
+		needitem = {{type=1,id=1010000,count=589}},
+		attr = {{type=32,value=29951456},{type=5,value=7799858},{type=11,value=9359830},},
+	},
+	[630]={
+		star = 630,
+		needitem = {{type=1,id=1010000,count=590}},
+		attr = {{type=32,value=30052911},{type=5,value=7826279},{type=11,value=9391534},},
+	},
+	[631]={
+		star = 631,
+		needitem = {{type=1,id=1010000,count=591}},
+		attr = {{type=32,value=30154393},{type=5,value=7852706},{type=11,value=9423247},},
+	},
+	[632]={
+		star = 632,
+		needitem = {{type=1,id=1010000,count=592}},
+		attr = {{type=32,value=30256082},{type=5,value=7879188},{type=11,value=9455025},},
+	},
+	[633]={
+		star = 633,
+		needitem = {{type=1,id=1010000,count=593}},
+		attr = {{type=32,value=30357980},{type=5,value=7905724},{type=11,value=9486868},},
+	},
+	[634]={
+		star = 634,
+		needitem = {{type=1,id=1010000,count=594}},
+		attr = {{type=32,value=30460087},{type=5,value=7932314},{type=11,value=9518777},},
+	},
+	[635]={
+		star = 635,
+		needitem = {{type=1,id=1010000,count=595}},
+		attr = {{type=32,value=30562402},{type=5,value=7958958},{type=11,value=9550750},},
+	},
+	[636]={
+		star = 636,
+		needitem = {{type=1,id=1010000,count=596}},
+		attr = {{type=32,value=30664743},{type=5,value=7985610},{type=11,value=9582732},},
+	},
+	[637]={
+		star = 637,
+		needitem = {{type=1,id=1010000,count=597}},
+		attr = {{type=32,value=30767292},{type=5,value=8012315},{type=11,value=9614778},},
+	},
+	[638]={
+		star = 638,
+		needitem = {{type=1,id=1010000,count=598}},
+		attr = {{type=32,value=30870050},{type=5,value=8039075},{type=11,value=9646890},},
+	},
+	[639]={
+		star = 639,
+		needitem = {{type=1,id=1010000,count=599}},
+		attr = {{type=32,value=30973016},{type=5,value=8065889},{type=11,value=9679067},},
+	},
+	[640]={
+		star = 640,
+		needitem = {{type=1,id=1010000,count=600}},
+		attr = {{type=32,value=31076191},{type=5,value=8092758},{type=11,value=9711309},},
+	},
+	[641]={
+		star = 641,
+		needitem = {{type=1,id=1010000,count=601}},
+		attr = {{type=32,value=31179391},{type=5,value=8119633},{type=11,value=9743559},},
+	},
+	[642]={
+		star = 642,
+		needitem = {{type=1,id=1010000,count=602}},
+		attr = {{type=32,value=31282800},{type=5,value=8146562},{type=11,value=9775875},},
+	},
+	[643]={
+		star = 643,
+		needitem = {{type=1,id=1010000,count=603}},
+		attr = {{type=32,value=31386418},{type=5,value=8173546},{type=11,value=9808255},},
+	},
+	[644]={
+		star = 644,
+		needitem = {{type=1,id=1010000,count=604}},
+		attr = {{type=32,value=31490244},{type=5,value=8200584},{type=11,value=9840701},},
+	},
+	[645]={
+		star = 645,
+		needitem = {{type=1,id=1010000,count=605}},
+		attr = {{type=32,value=31594278},{type=5,value=8227676},{type=11,value=9873212},},
+	},
+	[646]={
+		star = 646,
+		needitem = {{type=1,id=1010000,count=606}},
+		attr = {{type=32,value=31698339},{type=5,value=8254775},{type=11,value=9905730},},
+	},
+	[647]={
+		star = 647,
+		needitem = {{type=1,id=1010000,count=607}},
+		attr = {{type=32,value=31802607},{type=5,value=8281929},{type=11,value=9938314},},
+	},
+	[648]={
+		star = 648,
+		needitem = {{type=1,id=1010000,count=608}},
+		attr = {{type=32,value=31907085},{type=5,value=8309136},{type=11,value=9970964},},
+	},
+	[649]={
+		star = 649,
+		needitem = {{type=1,id=1010000,count=609}},
+		attr = {{type=32,value=32011770},{type=5,value=8336398},{type=11,value=10003678},},
+	},
+	[650]={
+		star = 650,
+		needitem = {{type=1,id=1010000,count=610}},
+		attr = {{type=32,value=32116664},{type=5,value=8363714},{type=11,value=10036457},},
+	},
+	[651]={
+		star = 651,
+		needitem = {{type=1,id=1010000,count=611}},
+		attr = {{type=32,value=32221584},{type=5,value=8391037},{type=11,value=10069245},},
+	},
+	[652]={
+		star = 652,
+		needitem = {{type=1,id=1010000,count=612}},
+		attr = {{type=32,value=32326713},{type=5,value=8418414},{type=11,value=10102097},},
+	},
+	[653]={
+		star = 653,
+		needitem = {{type=1,id=1010000,count=613}},
+		attr = {{type=32,value=32432050},{type=5,value=8445846},{type=11,value=10135015},},
+	},
+	[654]={
+		star = 654,
+		needitem = {{type=1,id=1010000,count=614}},
+		attr = {{type=32,value=32537595},{type=5,value=8473332},{type=11,value=10167998},},
+	},
+	[655]={
+		star = 655,
+		needitem = {{type=1,id=1010000,count=615}},
+		attr = {{type=32,value=32643349},{type=5,value=8500872},{type=11,value=10201046},},
+	},
+	[656]={
+		star = 656,
+		needitem = {{type=1,id=1010000,count=616}},
+		attr = {{type=32,value=32749129},{type=5,value=8528419},{type=11,value=10234102},},
+	},
+	[657]={
+		star = 657,
+		needitem = {{type=1,id=1010000,count=617}},
+		attr = {{type=32,value=32855117},{type=5,value=8556020},{type=11,value=10267224},},
+	},
+	[658]={
+		star = 658,
+		needitem = {{type=1,id=1010000,count=618}},
+		attr = {{type=32,value=32961313},{type=5,value=8583675},{type=11,value=10300410},},
+	},
+	[659]={
+		star = 659,
+		needitem = {{type=1,id=1010000,count=619}},
+		attr = {{type=32,value=33067718},{type=5,value=8611385},{type=11,value=10333662},},
+	},
+	[660]={
+		star = 660,
+		needitem = {{type=1,id=1010000,count=620}},
+		attr = {{type=32,value=33174332},{type=5,value=8639149},{type=11,value=10366978},},
+	},
+	[661]={
+		star = 661,
+		needitem = {{type=1,id=1010000,count=621}},
+		attr = {{type=32,value=33280971},{type=5,value=8666919},{type=11,value=10400303},},
+	},
+	[662]={
+		star = 662,
+		needitem = {{type=1,id=1010000,count=622}},
+		attr = {{type=32,value=33387819},{type=5,value=8694744},{type=11,value=10433693},},
+	},
+	[663]={
+		star = 663,
+		needitem = {{type=1,id=1010000,count=623}},
+		attr = {{type=32,value=33494875},{type=5,value=8722623},{type=11,value=10467148},},
+	},
+	[664]={
+		star = 664,
+		needitem = {{type=1,id=1010000,count=624}},
+		attr = {{type=32,value=33602140},{type=5,value=8750557},{type=11,value=10500668},},
+	},
+	[665]={
+		star = 665,
+		needitem = {{type=1,id=1010000,count=625}},
+		attr = {{type=32,value=33709613},{type=5,value=8778545},{type=11,value=10534254},},
+	},
+	[666]={
+		star = 666,
+		needitem = {{type=1,id=1010000,count=626}},
+		attr = {{type=32,value=33817112},{type=5,value=8806539},{type=11,value=10567847},},
+	},
+	[667]={
+		star = 667,
+		needitem = {{type=1,id=1010000,count=627}},
+		attr = {{type=32,value=33924820},{type=5,value=8834588},{type=11,value=10601506},},
+	},
+	[668]={
+		star = 668,
+		needitem = {{type=1,id=1010000,count=628}},
+		attr = {{type=32,value=34032736},{type=5,value=8862691},{type=11,value=10635230},},
+	},
+	[669]={
+		star = 669,
+		needitem = {{type=1,id=1010000,count=629}},
+		attr = {{type=32,value=34140860},{type=5,value=8890849},{type=11,value=10669019},},
+	},
+	[670]={
+		star = 670,
+		needitem = {{type=1,id=1010000,count=630}},
+		attr = {{type=32,value=34249193},{type=5,value=8919060},{type=11,value=10702873},},
+	},
+	[671]={
+		star = 671,
+		needitem = {{type=1,id=1010000,count=631}},
+		attr = {{type=32,value=34357552},{type=5,value=8947279},{type=11,value=10736735},},
+	},
+	[672]={
+		star = 672,
+		needitem = {{type=1,id=1010000,count=632}},
+		attr = {{type=32,value=34466119},{type=5,value=8975552},{type=11,value=10770662},},
+	},
+	[673]={
+		star = 673,
+		needitem = {{type=1,id=1010000,count=633}},
+		attr = {{type=32,value=34574895},{type=5,value=9003879},{type=11,value=10804654},},
+	},
+	[674]={
+		star = 674,
+		needitem = {{type=1,id=1010000,count=634}},
+		attr = {{type=32,value=34683879},{type=5,value=9032260},{type=11,value=10838712},},
+	},
+	[675]={
+		star = 675,
+		needitem = {{type=1,id=1010000,count=635}},
+		attr = {{type=32,value=34793072},{type=5,value=9060695},{type=11,value=10872835},},
+	},
+	[676]={
+		star = 676,
+		needitem = {{type=1,id=1010000,count=636}},
+		attr = {{type=32,value=34902290},{type=5,value=9089138},{type=11,value=10906965},},
+	},
+	[677]={
+		star = 677,
+		needitem = {{type=1,id=1010000,count=637}},
+		attr = {{type=32,value=35011717},{type=5,value=9117634},{type=11,value=10941161},},
+	},
+	[678]={
+		star = 678,
+		needitem = {{type=1,id=1010000,count=638}},
+		attr = {{type=32,value=35121353},{type=5,value=9146185},{type=11,value=10975422},},
+	},
+	[679]={
+		star = 679,
+		needitem = {{type=1,id=1010000,count=639}},
+		attr = {{type=32,value=35231197},{type=5,value=9174790},{type=11,value=11009749},},
+	},
+	[680]={
+		star = 680,
+		needitem = {{type=1,id=1010000,count=640}},
+		attr = {{type=32,value=35341249},{type=5,value=9203450},{type=11,value=11044140},},
+	},
+	[681]={
+		star = 681,
+		needitem = {{type=1,id=1010000,count=641}},
+		attr = {{type=32,value=35451327},{type=5,value=9232116},{type=11,value=11078539},},
+	},
+	[682]={
+		star = 682,
+		needitem = {{type=1,id=1010000,count=642}},
+		attr = {{type=32,value=35561614},{type=5,value=9260837},{type=11,value=11113004},},
+	},
+	[683]={
+		star = 683,
+		needitem = {{type=1,id=1010000,count=643}},
+		attr = {{type=32,value=35672109},{type=5,value=9289611},{type=11,value=11147534},},
+	},
+	[684]={
+		star = 684,
+		needitem = {{type=1,id=1010000,count=644}},
+		attr = {{type=32,value=35782813},{type=5,value=9318440},{type=11,value=11182129},},
+	},
+	[685]={
+		star = 685,
+		needitem = {{type=1,id=1010000,count=645}},
+		attr = {{type=32,value=35893724},{type=5,value=9347324},{type=11,value=11216789},},
+	},
+	[686]={
+		star = 686,
+		needitem = {{type=1,id=1010000,count=646}},
+		attr = {{type=32,value=36004662},{type=5,value=9376214},{type=11,value=11251457},},
+	},
+	[687]={
+		star = 687,
+		needitem = {{type=1,id=1010000,count=647}},
+		attr = {{type=32,value=36115809},{type=5,value=9405158},{type=11,value=11286190},},
+	},
+	[688]={
+		star = 688,
+		needitem = {{type=1,id=1010000,count=648}},
+		attr = {{type=32,value=36227164},{type=5,value=9434157},{type=11,value=11320988},},
+	},
+	[689]={
+		star = 689,
+		needitem = {{type=1,id=1010000,count=649}},
+		attr = {{type=32,value=36338727},{type=5,value=9463210},{type=11,value=11355852},},
+	},
+	[690]={
+		star = 690,
+		needitem = {{type=1,id=1010000,count=650}},
+		attr = {{type=32,value=36450499},{type=5,value=9492317},{type=11,value=11390780},},
+	},
+	[691]={
+		star = 691,
+		needitem = {{type=1,id=1010000,count=651}},
+		attr = {{type=32,value=36562296},{type=5,value=9521431},{type=11,value=11425717},},
+	},
+	[692]={
+		star = 692,
+		needitem = {{type=1,id=1010000,count=652}},
+		attr = {{type=32,value=36674302},{type=5,value=9550599},{type=11,value=11460719},},
+	},
+	[693]={
+		star = 693,
+		needitem = {{type=1,id=1010000,count=653}},
+		attr = {{type=32,value=36786517},{type=5,value=9579822},{type=11,value=11495786},},
+	},
+	[694]={
+		star = 694,
+		needitem = {{type=1,id=1010000,count=654}},
+		attr = {{type=32,value=36898940},{type=5,value=9609099},{type=11,value=11530918},},
+	},
+	[695]={
+		star = 695,
+		needitem = {{type=1,id=1010000,count=655}},
+		attr = {{type=32,value=37011571},{type=5,value=9638430},{type=11,value=11566116},},
+	},
+	[696]={
+		star = 696,
+		needitem = {{type=1,id=1010000,count=656}},
+		attr = {{type=32,value=37124229},{type=5,value=9667767},{type=11,value=11601321},},
+	},
+	[697]={
+		star = 697,
+		needitem = {{type=1,id=1010000,count=657}},
+		attr = {{type=32,value=37237094},{type=5,value=9697160},{type=11,value=11636592},},
+	},
+	[698]={
+		star = 698,
+		needitem = {{type=1,id=1010000,count=658}},
+		attr = {{type=32,value=37350169},{type=5,value=9726606},{type=11,value=11671927},},
+	},
+	[699]={
+		star = 699,
+		needitem = {{type=1,id=1010000,count=659}},
+		attr = {{type=32,value=37463451},{type=5,value=9756107},{type=11,value=11707328},},
+	},
+	[700]={
+		star = 700,
+		needitem = {{type=1,id=1010000,count=660}},
+		attr = {{type=32,value=37576942},{type=5,value=9785662},{type=11,value=11742794},},
+	},
+	[701]={
+		star = 701,
+		needitem = {{type=1,id=1010000,count=661}},
+		attr = {{type=32,value=37690459},{type=5,value=9815223},{type=11,value=11778268},},
+	},
+	[702]={
+		star = 702,
+		needitem = {{type=1,id=1010000,count=662}},
+		attr = {{type=32,value=37804185},{type=5,value=9844839},{type=11,value=11813807},},
+	},
+	[703]={
+		star = 703,
+		needitem = {{type=1,id=1010000,count=663}},
+		attr = {{type=32,value=37918119},{type=5,value=9874510},{type=11,value=11849412},},
+	},
+	[704]={
+		star = 704,
+		needitem = {{type=1,id=1010000,count=664}},
+		attr = {{type=32,value=38032261},{type=5,value=9904234},{type=11,value=11885081},},
+	},
+	[705]={
+		star = 705,
+		needitem = {{type=1,id=1010000,count=665}},
+		attr = {{type=32,value=38146612},{type=5,value=9934013},{type=11,value=11920816},},
+	},
+	[706]={
+		star = 706,
+		needitem = {{type=1,id=1010000,count=666}},
+		attr = {{type=32,value=38260989},{type=5,value=9963799},{type=11,value=11956559},},
+	},
+	[707]={
+		star = 707,
+		needitem = {{type=1,id=1010000,count=667}},
+		attr = {{type=32,value=38375574},{type=5,value=9993639},{type=11,value=11992366},},
+	},
+	[708]={
+		star = 708,
+		needitem = {{type=1,id=1010000,count=668}},
+		attr = {{type=32,value=38490367},{type=5,value=10023533},{type=11,value=12028239},},
+	},
+	[709]={
+		star = 709,
+		needitem = {{type=1,id=1010000,count=669}},
+		attr = {{type=32,value=38605369},{type=5,value=10053481},{type=11,value=12064178},},
+	},
+	[710]={
+		star = 710,
+		needitem = {{type=1,id=1010000,count=670}},
+		attr = {{type=32,value=38720580},{type=5,value=10083484},{type=11,value=12100181},},
+	},
+	[711]={
+		star = 711,
+		needitem = {{type=1,id=1010000,count=671}},
+		attr = {{type=32,value=38835816},{type=5,value=10113493},{type=11,value=12136192},},
+	},
+	[712]={
+		star = 712,
+		needitem = {{type=1,id=1010000,count=672}},
+		attr = {{type=32,value=38951261},{type=5,value=10143557},{type=11,value=12172269},},
+	},
+	[713]={
+		star = 713,
+		needitem = {{type=1,id=1010000,count=673}},
+		attr = {{type=32,value=39066915},{type=5,value=10173675},{type=11,value=12208410},},
+	},
+	[714]={
+		star = 714,
+		needitem = {{type=1,id=1010000,count=674}},
+		attr = {{type=32,value=39182776},{type=5,value=10203848},{type=11,value=12244617},},
+	},
+	[715]={
+		star = 715,
+		needitem = {{type=1,id=1010000,count=675}},
+		attr = {{type=32,value=39298846},{type=5,value=10234074},{type=11,value=12280889},},
+	},
+	[716]={
+		star = 716,
+		needitem = {{type=1,id=1010000,count=676}},
+		attr = {{type=32,value=39414943},{type=5,value=10264308},{type=11,value=12317169},},
+	},
+	[717]={
+		star = 717,
+		needitem = {{type=1,id=1010000,count=677}},
+		attr = {{type=32,value=39531247},{type=5,value=10294595},{type=11,value=12353514},},
+	},
+	[718]={
+		star = 718,
+		needitem = {{type=1,id=1010000,count=678}},
+		attr = {{type=32,value=39647760},{type=5,value=10324937},{type=11,value=12389925},},
+	},
+	[719]={
+		star = 719,
+		needitem = {{type=1,id=1010000,count=679}},
+		attr = {{type=32,value=39764482},{type=5,value=10355333},{type=11,value=12426400},},
+	},
+	[720]={
+		star = 720,
+		needitem = {{type=1,id=1010000,count=680}},
+		attr = {{type=32,value=39881412},{type=5,value=10385784},{type=11,value=12462941},},
+	},
+	[721]={
+		star = 721,
+		needitem = {{type=1,id=1010000,count=681}},
+		attr = {{type=32,value=39998367},{type=5,value=10416241},{type=11,value=12499489},},
+	},
+	[722]={
+		star = 722,
+		needitem = {{type=1,id=1010000,count=682}},
+		attr = {{type=32,value=40115532},{type=5,value=10446753},{type=11,value=12536103},},
+	},
+	[723]={
+		star = 723,
+		needitem = {{type=1,id=1010000,count=683}},
+		attr = {{type=32,value=40232905},{type=5,value=10477319},{type=11,value=12572782},},
+	},
+	[724]={
+		star = 724,
+		needitem = {{type=1,id=1010000,count=684}},
+		attr = {{type=32,value=40350486},{type=5,value=10507939},{type=11,value=12609526},},
+	},
+	[725]={
+		star = 725,
+		needitem = {{type=1,id=1010000,count=685}},
+		attr = {{type=32,value=40468275},{type=5,value=10538613},{type=11,value=12646336},},
+	},
+	[726]={
+		star = 726,
+		needitem = {{type=1,id=1010000,count=686}},
+		attr = {{type=32,value=40586091},{type=5,value=10569294},{type=11,value=12683153},},
+	},
+	[727]={
+		star = 727,
+		needitem = {{type=1,id=1010000,count=687}},
+		attr = {{type=32,value=40704115},{type=5,value=10600030},{type=11,value=12720036},},
+	},
+	[728]={
+		star = 728,
+		needitem = {{type=1,id=1010000,count=688}},
+		attr = {{type=32,value=40822347},{type=5,value=10630819},{type=11,value=12756983},},
+	},
+	[729]={
+		star = 729,
+		needitem = {{type=1,id=1010000,count=689}},
+		attr = {{type=32,value=40940788},{type=5,value=10661663},{type=11,value=12793996},},
+	},
+	[730]={
+		star = 730,
+		needitem = {{type=1,id=1010000,count=690}},
+		attr = {{type=32,value=41059437},{type=5,value=10692561},{type=11,value=12831074},},
+	},
+	[731]={
+		star = 731,
+		needitem = {{type=1,id=1010000,count=691}},
+		attr = {{type=32,value=41178113},{type=5,value=10723466},{type=11,value=12868160},},
+	},
+	[732]={
+		star = 732,
+		needitem = {{type=1,id=1010000,count=692}},
+		attr = {{type=32,value=41296996},{type=5,value=10754426},{type=11,value=12905311},},
+	},
+	[733]={
+		star = 733,
+		needitem = {{type=1,id=1010000,count=693}},
+		attr = {{type=32,value=41416088},{type=5,value=10785439},{type=11,value=12942527},},
+	},
+	[734]={
+		star = 734,
+		needitem = {{type=1,id=1010000,count=694}},
+		attr = {{type=32,value=41535389},{type=5,value=10816507},{type=11,value=12979809},},
+	},
+	[735]={
+		star = 735,
+		needitem = {{type=1,id=1010000,count=695}},
+		attr = {{type=32,value=41654898},{type=5,value=10847629},{type=11,value=13017155},},
+	},
+	[736]={
+		star = 736,
+		needitem = {{type=1,id=1010000,count=696}},
+		attr = {{type=32,value=41774433},{type=5,value=10878758},{type=11,value=13054510},},
+	},
+	[737]={
+		star = 737,
+		needitem = {{type=1,id=1010000,count=697}},
+		attr = {{type=32,value=41894176},{type=5,value=10909941},{type=11,value=13091930},},
+	},
+	[738]={
+		star = 738,
+		needitem = {{type=1,id=1010000,count=698}},
+		attr = {{type=32,value=42014128},{type=5,value=10941179},{type=11,value=13129415},},
+	},
+	[739]={
+		star = 739,
+		needitem = {{type=1,id=1010000,count=699}},
+		attr = {{type=32,value=42134288},{type=5,value=10972471},{type=11,value=13166965},},
+	},
+	[740]={
+		star = 740,
+		needitem = {{type=1,id=1010000,count=700}},
+		attr = {{type=32,value=42254657},{type=5,value=11003817},{type=11,value=13204580},},
+	},
+	[741]={
+		star = 741,
+		needitem = {{type=1,id=1010000,count=701}},
+		attr = {{type=32,value=42375052},{type=5,value=11035169},{type=11,value=13242203},},
+	},
+	[742]={
+		star = 742,
+		needitem = {{type=1,id=1010000,count=702}},
+		attr = {{type=32,value=42495655},{type=5,value=11066576},{type=11,value=13279892},},
+	},
+	[743]={
+		star = 743,
+		needitem = {{type=1,id=1010000,count=703}},
+		attr = {{type=32,value=42616466},{type=5,value=11098038},{type=11,value=13317645},},
+	},
+	[744]={
+		star = 744,
+		needitem = {{type=1,id=1010000,count=704}},
+		attr = {{type=32,value=42737486},{type=5,value=11129553},{type=11,value=13355464},},
+	},
+	[745]={
+		star = 745,
+		needitem = {{type=1,id=1010000,count=705}},
+		attr = {{type=32,value=42858715},{type=5,value=11161123},{type=11,value=13393348},},
+	},
+	[746]={
+		star = 746,
+		needitem = {{type=1,id=1010000,count=706}},
+		attr = {{type=32,value=42979969},{type=5,value=11192700},{type=11,value=13431240},},
+	},
+	[747]={
+		star = 747,
+		needitem = {{type=1,id=1010000,count=707}},
+		attr = {{type=32,value=43101432},{type=5,value=11224331},{type=11,value=13469197},},
+	},
+	[748]={
+		star = 748,
+		needitem = {{type=1,id=1010000,count=708}},
+		attr = {{type=32,value=43223103},{type=5,value=11256016},{type=11,value=13507219},},
+	},
+	[749]={
+		star = 749,
+		needitem = {{type=1,id=1010000,count=709}},
+		attr = {{type=32,value=43344983},{type=5,value=11287756},{type=11,value=13545307},},
+	},
+	[750]={
+		star = 750,
+		needitem = {{type=1,id=1010000,count=710}},
+		attr = {{type=32,value=43467071},{type=5,value=11319549},{type=11,value=13583459},},
+	},
+	[751]={
+		star = 751,
+		needitem = {{type=1,id=1010000,count=711}},
+		attr = {{type=32,value=43589185},{type=5,value=11351350},{type=11,value=13621620},},
+	},
+	[752]={
+		star = 752,
+		needitem = {{type=1,id=1010000,count=712}},
+		attr = {{type=32,value=43711508},{type=5,value=11383205},{type=11,value=13659846},},
+	},
+	[753]={
+		star = 753,
+		needitem = {{type=1,id=1010000,count=713}},
+		attr = {{type=32,value=43834038},{type=5,value=11415114},{type=11,value=13698137},},
+	},
+	[754]={
+		star = 754,
+		needitem = {{type=1,id=1010000,count=714}},
+		attr = {{type=32,value=43956778},{type=5,value=11447077},{type=11,value=13736493},},
+	},
+	[755]={
+		star = 755,
+		needitem = {{type=1,id=1010000,count=715}},
+		attr = {{type=32,value=44079726},{type=5,value=11479095},{type=11,value=13774914},},
+	},
+	[756]={
+		star = 756,
+		needitem = {{type=1,id=1010000,count=716}},
+		attr = {{type=32,value=44202699},{type=5,value=11511119},{type=11,value=13813343},},
+	},
+	[757]={
+		star = 757,
+		needitem = {{type=1,id=1010000,count=717}},
+		attr = {{type=32,value=44325882},{type=5,value=11543198},{type=11,value=13851838},},
+	},
+	[758]={
+		star = 758,
+		needitem = {{type=1,id=1010000,count=718}},
+		attr = {{type=32,value=44449272},{type=5,value=11575331},{type=11,value=13890397},},
+	},
+	[759]={
+		star = 759,
+		needitem = {{type=1,id=1010000,count=719}},
+		attr = {{type=32,value=44572871},{type=5,value=11607518},{type=11,value=13929022},},
+	},
+	[760]={
+		star = 760,
+		needitem = {{type=1,id=1010000,count=720}},
+		attr = {{type=32,value=44696679},{type=5,value=11639760},{type=11,value=13967712},},
+	},
+	[761]={
+		star = 761,
+		needitem = {{type=1,id=1010000,count=721}},
+		attr = {{type=32,value=44820512},{type=5,value=11672008},{type=11,value=14006410},},
+	},
+	[762]={
+		star = 762,
+		needitem = {{type=1,id=1010000,count=722}},
+		attr = {{type=32,value=44944554},{type=5,value=11704311},{type=11,value=14045173},},
+	},
+	[763]={
+		star = 763,
+		needitem = {{type=1,id=1010000,count=723}},
+		attr = {{type=32,value=45068805},{type=5,value=11736667},{type=11,value=14084001},},
+	},
+	[764]={
+		star = 764,
+		needitem = {{type=1,id=1010000,count=724}},
+		attr = {{type=32,value=45193263},{type=5,value=11769079},{type=11,value=14122894},},
+	},
+	[765]={
+		star = 765,
+		needitem = {{type=1,id=1010000,count=725}},
+		attr = {{type=32,value=45317930},{type=5,value=11801544},{type=11,value=14161853},},
+	},
+	[766]={
+		star = 766,
+		needitem = {{type=1,id=1010000,count=726}},
+		attr = {{type=32,value=45442624},{type=5,value=11834016},{type=11,value=14200820},},
+	},
+	[767]={
+		star = 767,
+		needitem = {{type=1,id=1010000,count=727}},
+		attr = {{type=32,value=45567525},{type=5,value=11866543},{type=11,value=14239851},},
+	},
+	[768]={
+		star = 768,
+		needitem = {{type=1,id=1010000,count=728}},
+		attr = {{type=32,value=45692635},{type=5,value=11899123},{type=11,value=14278948},},
+	},
+	[769]={
+		star = 769,
+		needitem = {{type=1,id=1010000,count=729}},
+		attr = {{type=32,value=45817954},{type=5,value=11931758},{type=11,value=14318110},},
+	},
+	[770]={
+		star = 770,
+		needitem = {{type=1,id=1010000,count=730}},
+		attr = {{type=32,value=45943481},{type=5,value=11964448},{type=11,value=14357337},},
+	},
+	[771]={
+		star = 771,
+		needitem = {{type=1,id=1010000,count=731}},
+		attr = {{type=32,value=46069034},{type=5,value=11997144},{type=11,value=14396573},},
+	},
+	[772]={
+		star = 772,
+		needitem = {{type=1,id=1010000,count=732}},
+		attr = {{type=32,value=46194795},{type=5,value=12029894},{type=11,value=14435873},},
+	},
+	[773]={
+		star = 773,
+		needitem = {{type=1,id=1010000,count=733}},
+		attr = {{type=32,value=46320765},{type=5,value=12062699},{type=11,value=14475239},},
+	},
+	[774]={
+		star = 774,
+		needitem = {{type=1,id=1010000,count=734}},
+		attr = {{type=32,value=46446943},{type=5,value=12095558},{type=11,value=14514669},},
+	},
+	[775]={
+		star = 775,
+		needitem = {{type=1,id=1010000,count=735}},
+		attr = {{type=32,value=46573329},{type=5,value=12128471},{type=11,value=14554165},},
+	},
+	[776]={
+		star = 776,
+		needitem = {{type=1,id=1010000,count=736}},
+		attr = {{type=32,value=46699742},{type=5,value=12161391},{type=11,value=14593669},},
+	},
+	[777]={
+		star = 777,
+		needitem = {{type=1,id=1010000,count=737}},
+		attr = {{type=32,value=46826363},{type=5,value=12194365},{type=11,value=14633238},},
+	},
+	[778]={
+		star = 778,
+		needitem = {{type=1,id=1010000,count=738}},
+		attr = {{type=32,value=46953192},{type=5,value=12227393},{type=11,value=14672872},},
+	},
+	[779]={
+		star = 779,
+		needitem = {{type=1,id=1010000,count=739}},
+		attr = {{type=32,value=47080230},{type=5,value=12260476},{type=11,value=14712572},},
+	},
+	[780]={
+		star = 780,
+		needitem = {{type=1,id=1010000,count=740}},
+		attr = {{type=32,value=47207477},{type=5,value=12293613},{type=11,value=14752336},},
+	},
+	[781]={
+		star = 781,
+		needitem = {{type=1,id=1010000,count=741}},
+		attr = {{type=32,value=47334749},{type=5,value=12326757},{type=11,value=14792109},},
+	},
+	[782]={
+		star = 782,
+		needitem = {{type=1,id=1010000,count=742}},
+		attr = {{type=32,value=47462230},{type=5,value=12359955},{type=11,value=14831946},},
+	},
+	[783]={
+		star = 783,
+		needitem = {{type=1,id=1010000,count=743}},
+		attr = {{type=32,value=47589919},{type=5,value=12393208},{type=11,value=14871849},},
+	},
+	[784]={
+		star = 784,
+		needitem = {{type=1,id=1010000,count=744}},
+		attr = {{type=32,value=47717816},{type=5,value=12426514},{type=11,value=14911817},},
+	},
+	[785]={
+		star = 785,
+		needitem = {{type=1,id=1010000,count=745}},
+		attr = {{type=32,value=47845922},{type=5,value=12459875},{type=11,value=14951850},},
+	},
+	[786]={
+		star = 786,
+		needitem = {{type=1,id=1010000,count=746}},
+		attr = {{type=32,value=47974054},{type=5,value=12493243},{type=11,value=14991892},},
+	},
+	[787]={
+		star = 787,
+		needitem = {{type=1,id=1010000,count=747}},
+		attr = {{type=32,value=48102395},{type=5,value=12526665},{type=11,value=15031998},},
+	},
+	[788]={
+		star = 788,
+		needitem = {{type=1,id=1010000,count=748}},
+		attr = {{type=32,value=48230943},{type=5,value=12560141},{type=11,value=15072169},},
+	},
+	[789]={
+		star = 789,
+		needitem = {{type=1,id=1010000,count=749}},
+		attr = {{type=32,value=48359701},{type=5,value=12593672},{type=11,value=15112406},},
+	},
+	[790]={
+		star = 790,
+		needitem = {{type=1,id=1010000,count=750}},
+		attr = {{type=32,value=48488666},{type=5,value=12627257},{type=11,value=15152708},},
+	},
+	[791]={
+		star = 791,
+		needitem = {{type=1,id=1010000,count=751}},
+		attr = {{type=32,value=48617658},{type=5,value=12660848},{type=11,value=15193018},},
+	},
+	[792]={
+		star = 792,
+		needitem = {{type=1,id=1010000,count=752}},
+		attr = {{type=32,value=48746858},{type=5,value=12694494},{type=11,value=15233393},},
+	},
+	[793]={
+		star = 793,
+		needitem = {{type=1,id=1010000,count=753}},
+		attr = {{type=32,value=48876267},{type=5,value=12728194},{type=11,value=15273833},},
+	},
+	[794]={
+		star = 794,
+		needitem = {{type=1,id=1010000,count=754}},
+		attr = {{type=32,value=49005884},{type=5,value=12761949},{type=11,value=15314338},},
+	},
+	[795]={
+		star = 795,
+		needitem = {{type=1,id=1010000,count=755}},
+		attr = {{type=32,value=49135709},{type=5,value=12795757},{type=11,value=15354909},},
+	},
+	[796]={
+		star = 796,
+		needitem = {{type=1,id=1010000,count=756}},
+		attr = {{type=32,value=49265561},{type=5,value=12829573},{type=11,value=15395487},},
+	},
+	[797]={
+		star = 797,
+		needitem = {{type=1,id=1010000,count=757}},
+		attr = {{type=32,value=49395620},{type=5,value=12863442},{type=11,value=15436131},},
+	},
+	[798]={
+		star = 798,
+		needitem = {{type=1,id=1010000,count=758}},
+		attr = {{type=32,value=49525889},{type=5,value=12897366},{type=11,value=15476840},},
+	},
+	[799]={
+		star = 799,
+		needitem = {{type=1,id=1010000,count=759}},
+		attr = {{type=32,value=49656365},{type=5,value=12931345},{type=11,value=15517614},},
+	},
+	[800]={
+		star = 800,
+		needitem = {{type=1,id=1010000,count=760}},
+		attr = {{type=32,value=49787050},{type=5,value=12965377},{type=11,value=15558453},},
+	},
+	[801]={
+		star = 801,
+		needitem = {{type=1,id=1010000,count=761}},
+		attr = {{type=32,value=49917761},{type=5,value=12999417},{type=11,value=15599300},},
+	},
+	[802]={
+		star = 802,
+		needitem = {{type=1,id=1010000,count=762}},
+		attr = {{type=32,value=50048681},{type=5,value=13033510},{type=11,value=15640212},},
+	},
+	[803]={
+		star = 803,
+		needitem = {{type=1,id=1010000,count=763}},
+		attr = {{type=32,value=50179809},{type=5,value=13067658},{type=11,value=15681190},},
+	},
+	[804]={
+		star = 804,
+		needitem = {{type=1,id=1010000,count=764}},
+		attr = {{type=32,value=50311145},{type=5,value=13101860},{type=11,value=15722233},},
+	},
+	[805]={
+		star = 805,
+		needitem = {{type=1,id=1010000,count=765}},
+		attr = {{type=32,value=50442690},{type=5,value=13136117},{type=11,value=15763340},},
+	},
+	[806]={
+		star = 806,
+		needitem = {{type=1,id=1010000,count=766}},
+		attr = {{type=32,value=50574261},{type=5,value=13170380},{type=11,value=15804456},},
+	},
+	[807]={
+		star = 807,
+		needitem = {{type=1,id=1010000,count=767}},
+		attr = {{type=32,value=50706040},{type=5,value=13204698},{type=11,value=15845637},},
+	},
+	[808]={
+		star = 808,
+		needitem = {{type=1,id=1010000,count=768}},
+		attr = {{type=32,value=50838028},{type=5,value=13239069},{type=11,value=15886883},},
+	},
+	[809]={
+		star = 809,
+		needitem = {{type=1,id=1010000,count=769}},
+		attr = {{type=32,value=50970224},{type=5,value=13273495},{type=11,value=15928195},},
+	},
+	[810]={
+		star = 810,
+		needitem = {{type=1,id=1010000,count=770}},
+		attr = {{type=32,value=51102628},{type=5,value=13307976},{type=11,value=15969571},},
+	},
+	[811]={
+		star = 811,
+		needitem = {{type=1,id=1010000,count=771}},
+		attr = {{type=32,value=51235059},{type=5,value=13342463},{type=11,value=16010956},},
+	},
+	[812]={
+		star = 812,
+		needitem = {{type=1,id=1010000,count=772}},
+		attr = {{type=32,value=51367698},{type=5,value=13377004},{type=11,value=16052405},},
+	},
+	[813]={
+		star = 813,
+		needitem = {{type=1,id=1010000,count=773}},
+		attr = {{type=32,value=51500545},{type=5,value=13411600},{type=11,value=16093920},},
+	},
+	[814]={
+		star = 814,
+		needitem = {{type=1,id=1010000,count=774}},
+		attr = {{type=32,value=51633601},{type=5,value=13446250},{type=11,value=16135500},},
+	},
+	[815]={
+		star = 815,
+		needitem = {{type=1,id=1010000,count=775}},
+		attr = {{type=32,value=51766865},{type=5,value=13480954},{type=11,value=16177145},},
+	},
+	[816]={
+		star = 816,
+		needitem = {{type=1,id=1010000,count=776}},
+		attr = {{type=32,value=51900155},{type=5,value=13515665},{type=11,value=16218798},},
+	},
+	[817]={
+		star = 817,
+		needitem = {{type=1,id=1010000,count=777}},
+		attr = {{type=32,value=52033654},{type=5,value=13550430},{type=11,value=16260517},},
+	},
+	[818]={
+		star = 818,
+		needitem = {{type=1,id=1010000,count=778}},
+		attr = {{type=32,value=52167361},{type=5,value=13585250},{type=11,value=16302300},},
+	},
+	[819]={
+		star = 819,
+		needitem = {{type=1,id=1010000,count=779}},
+		attr = {{type=32,value=52301276},{type=5,value=13620124},{type=11,value=16344149},},
+	},
+	[820]={
+		star = 820,
+		needitem = {{type=1,id=1010000,count=780}},
+		attr = {{type=32,value=52435400},{type=5,value=13655052},{type=11,value=16386062},},
+	},
+	[821]={
+		star = 821,
+		needitem = {{type=1,id=1010000,count=781}},
+		attr = {{type=32,value=52569550},{type=5,value=13689987},{type=11,value=16427984},},
+	},
+	[822]={
+		star = 822,
+		needitem = {{type=1,id=1010000,count=782}},
+		attr = {{type=32,value=52703909},{type=5,value=13724976},{type=11,value=16469971},},
+	},
+	[823]={
+		star = 823,
+		needitem = {{type=1,id=1010000,count=783}},
+		attr = {{type=32,value=52838475},{type=5,value=13760019},{type=11,value=16512023},},
+	},
+	[824]={
+		star = 824,
+		needitem = {{type=1,id=1010000,count=784}},
+		attr = {{type=32,value=52973251},{type=5,value=13795117},{type=11,value=16554140},},
+	},
+	[825]={
+		star = 825,
+		needitem = {{type=1,id=1010000,count=785}},
+		attr = {{type=32,value=53108234},{type=5,value=13830269},{type=11,value=16596323},},
+	},
+	[826]={
+		star = 826,
+		needitem = {{type=1,id=1010000,count=786}},
+		attr = {{type=32,value=53243244},{type=5,value=13865428},{type=11,value=16638513},},
+	},
+	[827]={
+		star = 827,
+		needitem = {{type=1,id=1010000,count=787}},
+		attr = {{type=32,value=53378462},{type=5,value=13900641},{type=11,value=16680769},},
+	},
+	[828]={
+		star = 828,
+		needitem = {{type=1,id=1010000,count=788}},
+		attr = {{type=32,value=53513888},{type=5,value=13935908},{type=11,value=16723090},},
+	},
+	[829]={
+		star = 829,
+		needitem = {{type=1,id=1010000,count=789}},
+		attr = {{type=32,value=53649523},{type=5,value=13971230},{type=11,value=16765476},},
+	},
+	[830]={
+		star = 830,
+		needitem = {{type=1,id=1010000,count=790}},
+		attr = {{type=32,value=53785366},{type=5,value=14006605},{type=11,value=16807927},},
+	},
+	[831]={
+		star = 831,
+		needitem = {{type=1,id=1010000,count=791}},
+		attr = {{type=32,value=53921236},{type=5,value=14041988},{type=11,value=16850386},},
+	},
+	[832]={
+		star = 832,
+		needitem = {{type=1,id=1010000,count=792}},
+		attr = {{type=32,value=54057313},{type=5,value=14077425},{type=11,value=16892910},},
+	},
+	[833]={
+		star = 833,
+		needitem = {{type=1,id=1010000,count=793}},
+		attr = {{type=32,value=54193600},{type=5,value=14112916},{type=11,value=16935500},},
+	},
+	[834]={
+		star = 834,
+		needitem = {{type=1,id=1010000,count=794}},
+		attr = {{type=32,value=54330094},{type=5,value=14148462},{type=11,value=16978154},},
+	},
+	[835]={
+		star = 835,
+		needitem = {{type=1,id=1010000,count=795}},
+		attr = {{type=32,value=54466797},{type=5,value=14184061},{type=11,value=17020874},},
+	},
+	[836]={
+		star = 836,
+		needitem = {{type=1,id=1010000,count=796}},
+		attr = {{type=32,value=54603526},{type=5,value=14219668},{type=11,value=17063602},},
+	},
+	[837]={
+		star = 837,
+		needitem = {{type=1,id=1010000,count=797}},
+		attr = {{type=32,value=54740464},{type=5,value=14255329},{type=11,value=17106395},},
+	},
+	[838]={
+		star = 838,
+		needitem = {{type=1,id=1010000,count=798}},
+		attr = {{type=32,value=54877610},{type=5,value=14291044},{type=11,value=17149253},},
+	},
+	[839]={
+		star = 839,
+		needitem = {{type=1,id=1010000,count=799}},
+		attr = {{type=32,value=55014964},{type=5,value=14326813},{type=11,value=17192176},},
+	},
+	[840]={
+		star = 840,
+		needitem = {{type=1,id=1010000,count=800}},
+		attr = {{type=32,value=55152526},{type=5,value=14362637},{type=11,value=17235164},},
+	},
+	[841]={
+		star = 841,
+		needitem = {{type=1,id=1010000,count=801}},
+		attr = {{type=32,value=55290115},{type=5,value=14398467},{type=11,value=17278161},},
+	},
+	[842]={
+		star = 842,
+		needitem = {{type=1,id=1010000,count=802}},
+		attr = {{type=32,value=55427912},{type=5,value=14434352},{type=11,value=17321222},},
+	},
+	[843]={
+		star = 843,
+		needitem = {{type=1,id=1010000,count=803}},
+		attr = {{type=32,value=55565918},{type=5,value=14470291},{type=11,value=17364349},},
+	},
+	[844]={
+		star = 844,
+		needitem = {{type=1,id=1010000,count=804}},
+		attr = {{type=32,value=55704132},{type=5,value=14506284},{type=11,value=17407541},},
+	},
+	[845]={
+		star = 845,
+		needitem = {{type=1,id=1010000,count=805}},
+		attr = {{type=32,value=55842554},{type=5,value=14542331},{type=11,value=17450798},},
+	},
+	[846]={
+		star = 846,
+		needitem = {{type=1,id=1010000,count=806}},
+		attr = {{type=32,value=55981003},{type=5,value=14578386},{type=11,value=17494063},},
+	},
+	[847]={
+		star = 847,
+		needitem = {{type=1,id=1010000,count=807}},
+		attr = {{type=32,value=56119660},{type=5,value=14614494},{type=11,value=17537393},},
+	},
+	[848]={
+		star = 848,
+		needitem = {{type=1,id=1010000,count=808}},
+		attr = {{type=32,value=56258525},{type=5,value=14650657},{type=11,value=17580789},},
+	},
+	[849]={
+		star = 849,
+		needitem = {{type=1,id=1010000,count=809}},
+		attr = {{type=32,value=56397598},{type=5,value=14686874},{type=11,value=17624249},},
+	},
+	[850]={
+		star = 850,
+		needitem = {{type=1,id=1010000,count=810}},
+		attr = {{type=32,value=56536881},{type=5,value=14723146},{type=11,value=17667775},},
+	},
+	[851]={
+		star = 851,
+		needitem = {{type=1,id=1010000,count=811}},
+		attr = {{type=32,value=56676189},{type=5,value=14759424},{type=11,value=17711309},},
+	},
+	[852]={
+		star = 852,
+		needitem = {{type=1,id=1010000,count=812}},
+		attr = {{type=32,value=56815705},{type=5,value=14795756},{type=11,value=17754908},},
+	},
+	[853]={
+		star = 853,
+		needitem = {{type=1,id=1010000,count=813}},
+		attr = {{type=32,value=56955430},{type=5,value=14832143},{type=11,value=17798572},},
+	},
+	[854]={
+		star = 854,
+		needitem = {{type=1,id=1010000,count=814}},
+		attr = {{type=32,value=57095364},{type=5,value=14868584},{type=11,value=17842301},},
+	},
+	[855]={
+		star = 855,
+		needitem = {{type=1,id=1010000,count=815}},
+		attr = {{type=32,value=57235505},{type=5,value=14905079},{type=11,value=17886095},},
+	},
+	[856]={
+		star = 856,
+		needitem = {{type=1,id=1010000,count=816}},
+		attr = {{type=32,value=57375673},{type=5,value=14941581},{type=11,value=17929898},},
+	},
+	[857]={
+		star = 857,
+		needitem = {{type=1,id=1010000,count=817}},
+		attr = {{type=32,value=57516049},{type=5,value=14978138},{type=11,value=17973765},},
+	},
+	[858]={
+		star = 858,
+		needitem = {{type=1,id=1010000,count=818}},
+		attr = {{type=32,value=57656634},{type=5,value=15014748},{type=11,value=18017698},},
+	},
+	[859]={
+		star = 859,
+		needitem = {{type=1,id=1010000,count=819}},
+		attr = {{type=32,value=57797427},{type=5,value=15051413},{type=11,value=18061696},},
+	},
+	[860]={
+		star = 860,
+		needitem = {{type=1,id=1010000,count=820}},
+		attr = {{type=32,value=57938429},{type=5,value=15088132},{type=11,value=18105759},},
+	},
+	[861]={
+		star = 861,
+		needitem = {{type=1,id=1010000,count=821}},
+		attr = {{type=32,value=58079456},{type=5,value=15124858},{type=11,value=18149830},},
+	},
+	[862]={
+		star = 862,
+		needitem = {{type=1,id=1010000,count=822}},
+		attr = {{type=32,value=58220692},{type=5,value=15161638},{type=11,value=18193966},},
+	},
+	[863]={
+		star = 863,
+		needitem = {{type=1,id=1010000,count=823}},
+		attr = {{type=32,value=58362137},{type=5,value=15198473},{type=11,value=18238167},},
+	},
+	[864]={
+		star = 864,
+		needitem = {{type=1,id=1010000,count=824}},
+		attr = {{type=32,value=58503789},{type=5,value=15235361},{type=11,value=18282434},},
+	},
+	[865]={
+		star = 865,
+		needitem = {{type=1,id=1010000,count=825}},
+		attr = {{type=32,value=58645651},{type=5,value=15272304},{type=11,value=18326765},},
+	},
+	[866]={
+		star = 866,
+		needitem = {{type=1,id=1010000,count=826}},
+		attr = {{type=32,value=58787538},{type=5,value=15309254},{type=11,value=18371105},},
+	},
+	[867]={
+		star = 867,
+		needitem = {{type=1,id=1010000,count=827}},
+		attr = {{type=32,value=58929633},{type=5,value=15346258},{type=11,value=18415510},},
+	},
+	[868]={
+		star = 868,
+		needitem = {{type=1,id=1010000,count=828}},
+		attr = {{type=32,value=59071937},{type=5,value=15383317},{type=11,value=18459980},},
+	},
+	[869]={
+		star = 869,
+		needitem = {{type=1,id=1010000,count=829}},
+		attr = {{type=32,value=59214450},{type=5,value=15420429},{type=11,value=18504515},},
+	},
+	[870]={
+		star = 870,
+		needitem = {{type=1,id=1010000,count=830}},
+		attr = {{type=32,value=59357171},{type=5,value=15457596},{type=11,value=18549116},},
+	},
+	[871]={
+		star = 871,
+		needitem = {{type=1,id=1010000,count=831}},
+		attr = {{type=32,value=59499918},{type=5,value=15494770},{type=11,value=18593724},},
+	},
+	[872]={
+		star = 872,
+		needitem = {{type=1,id=1010000,count=832}},
+		attr = {{type=32,value=59642873},{type=5,value=15531998},{type=11,value=18638398},},
+	},
+	[873]={
+		star = 873,
+		needitem = {{type=1,id=1010000,count=833}},
+		attr = {{type=32,value=59786037},{type=5,value=15569280},{type=11,value=18683136},},
+	},
+	[874]={
+		star = 874,
+		needitem = {{type=1,id=1010000,count=834}},
+		attr = {{type=32,value=59929409},{type=5,value=15606617},{type=11,value=18727940},},
+	},
+	[875]={
+		star = 875,
+		needitem = {{type=1,id=1010000,count=835}},
+		attr = {{type=32,value=60072990},{type=5,value=15644007},{type=11,value=18772809},},
+	},
+	[876]={
+		star = 876,
+		needitem = {{type=1,id=1010000,count=836}},
+		attr = {{type=32,value=60216596},{type=5,value=15681405},{type=11,value=18817686},},
+	},
+	[877]={
+		star = 877,
+		needitem = {{type=1,id=1010000,count=837}},
+		attr = {{type=32,value=60360411},{type=5,value=15718857},{type=11,value=18862628},},
+	},
+	[878]={
+		star = 878,
+		needitem = {{type=1,id=1010000,count=838}},
+		attr = {{type=32,value=60504435},{type=5,value=15756363},{type=11,value=18907636},},
+	},
+	[879]={
+		star = 879,
+		needitem = {{type=1,id=1010000,count=839}},
+		attr = {{type=32,value=60648667},{type=5,value=15793923},{type=11,value=18952708},},
+	},
+	[880]={
+		star = 880,
+		needitem = {{type=1,id=1010000,count=840}},
+		attr = {{type=32,value=60793107},{type=5,value=15831538},{type=11,value=18997846},},
+	},
+	[881]={
+		star = 881,
+		needitem = {{type=1,id=1010000,count=841}},
+		attr = {{type=32,value=60937573},{type=5,value=15869159},{type=11,value=19042991},},
+	},
+	[882]={
+		star = 882,
+		needitem = {{type=1,id=1010000,count=842}},
+		attr = {{type=32,value=61082248},{type=5,value=15906835},{type=11,value=19088202},},
+	},
+	[883]={
+		star = 883,
+		needitem = {{type=1,id=1010000,count=843}},
+		attr = {{type=32,value=61227131},{type=5,value=15944565},{type=11,value=19133478},},
+	},
+	[884]={
+		star = 884,
+		needitem = {{type=1,id=1010000,count=844}},
+		attr = {{type=32,value=61372223},{type=5,value=15982349},{type=11,value=19178819},},
+	},
+	[885]={
+		star = 885,
+		needitem = {{type=1,id=1010000,count=845}},
+		attr = {{type=32,value=61517523},{type=5,value=16020188},{type=11,value=19224226},},
+	},
+	[886]={
+		star = 886,
+		needitem = {{type=1,id=1010000,count=846}},
+		attr = {{type=32,value=61662849},{type=5,value=16058033},{type=11,value=19269640},},
+	},
+	[887]={
+		star = 887,
+		needitem = {{type=1,id=1010000,count=847}},
+		attr = {{type=32,value=61808383},{type=5,value=16095933},{type=11,value=19315119},},
+	},
+	[888]={
+		star = 888,
+		needitem = {{type=1,id=1010000,count=848}},
+		attr = {{type=32,value=61954126},{type=5,value=16133887},{type=11,value=19360664},},
+	},
+	[889]={
+		star = 889,
+		needitem = {{type=1,id=1010000,count=849}},
+		attr = {{type=32,value=62100078},{type=5,value=16171895},{type=11,value=19406274},},
+	},
+	[890]={
+		star = 890,
+		needitem = {{type=1,id=1010000,count=850}},
+		attr = {{type=32,value=62246237},{type=5,value=16209957},{type=11,value=19451949},},
+	},
+	[891]={
+		star = 891,
+		needitem = {{type=1,id=1010000,count=851}},
+		attr = {{type=32,value=62392423},{type=5,value=16248026},{type=11,value=19497632},},
+	},
+	[892]={
+		star = 892,
+		needitem = {{type=1,id=1010000,count=852}},
+		attr = {{type=32,value=62538817},{type=5,value=16286150},{type=11,value=19543380},},
+	},
+	[893]={
+		star = 893,
+		needitem = {{type=1,id=1010000,count=853}},
+		attr = {{type=32,value=62685420},{type=5,value=16324328},{type=11,value=19589193},},
+	},
+	[894]={
+		star = 894,
+		needitem = {{type=1,id=1010000,count=854}},
+		attr = {{type=32,value=62832231},{type=5,value=16362560},{type=11,value=19635072},},
+	},
+	[895]={
+		star = 895,
+		needitem = {{type=1,id=1010000,count=855}},
+		attr = {{type=32,value=62979250},{type=5,value=16400846},{type=11,value=19681015},},
+	},
+	[896]={
+		star = 896,
+		needitem = {{type=1,id=1010000,count=856}},
+		attr = {{type=32,value=63126296},{type=5,value=16439139},{type=11,value=19726967},},
+	},
+	[897]={
+		star = 897,
+		needitem = {{type=1,id=1010000,count=857}},
+		attr = {{type=32,value=63273549},{type=5,value=16477486},{type=11,value=19772984},},
+	},
+	[898]={
+		star = 898,
+		needitem = {{type=1,id=1010000,count=858}},
+		attr = {{type=32,value=63421012},{type=5,value=16515888},{type=11,value=19819066},},
+	},
+	[899]={
+		star = 899,
+		needitem = {{type=1,id=1010000,count=859}},
+		attr = {{type=32,value=63568682},{type=5,value=16554344},{type=11,value=19865213},},
+	},
+	[900]={
+		star = 900,
+		needitem = {{type=1,id=1010000,count=860}},
+		attr = {{type=32,value=63716562},{type=5,value=16592854},{type=11,value=19911425},},
+	},
+	[901]={
+		star = 901,
+		needitem = {{type=1,id=1010000,count=861}},
+		attr = {{type=32,value=63864467},{type=5,value=16631371},{type=11,value=19957645},},
+	},
+	[902]={
+		star = 902,
+		needitem = {{type=1,id=1010000,count=862}},
+		attr = {{type=32,value=64012580},{type=5,value=16669942},{type=11,value=20003931},},
+	},
+	[903]={
+		star = 903,
+		needitem = {{type=1,id=1010000,count=863}},
+		attr = {{type=32,value=64160902},{type=5,value=16708568},{type=11,value=20050282},},
+	},
+	[904]={
+		star = 904,
+		needitem = {{type=1,id=1010000,count=864}},
+		attr = {{type=32,value=64309433},{type=5,value=16747248},{type=11,value=20096697},},
+	},
+	[905]={
+		star = 905,
+		needitem = {{type=1,id=1010000,count=865}},
+		attr = {{type=32,value=64458171},{type=5,value=16785982},{type=11,value=20143178},},
+	},
+	[906]={
+		star = 906,
+		needitem = {{type=1,id=1010000,count=866}},
+		attr = {{type=32,value=64606936},{type=5,value=16824723},{type=11,value=20189667},},
+	},
+	[907]={
+		star = 907,
+		needitem = {{type=1,id=1010000,count=867}},
+		attr = {{type=32,value=64755910},{type=5,value=16863518},{type=11,value=20236221},},
+	},
+	[908]={
+		star = 908,
+		needitem = {{type=1,id=1010000,count=868}},
+		attr = {{type=32,value=64905091},{type=5,value=16902367},{type=11,value=20282841},},
+	},
+	[909]={
+		star = 909,
+		needitem = {{type=1,id=1010000,count=869}},
+		attr = {{type=32,value=65054481},{type=5,value=16941271},{type=11,value=20329525},},
+	},
+	[910]={
+		star = 910,
+		needitem = {{type=1,id=1010000,count=870}},
+		attr = {{type=32,value=65204080},{type=5,value=16980229},{type=11,value=20376275},},
+	},
+	[911]={
+		star = 911,
+		needitem = {{type=1,id=1010000,count=871}},
+		attr = {{type=32,value=65353704},{type=5,value=17019193},{type=11,value=20423032},},
+	},
+	[912]={
+		star = 912,
+		needitem = {{type=1,id=1010000,count=872}},
+		attr = {{type=32,value=65503537},{type=5,value=17058212},{type=11,value=20469855},},
+	},
+	[913]={
+		star = 913,
+		needitem = {{type=1,id=1010000,count=873}},
+		attr = {{type=32,value=65653579},{type=5,value=17097286},{type=11,value=20516743},},
+	},
+	[914]={
+		star = 914,
+		needitem = {{type=1,id=1010000,count=874}},
+		attr = {{type=32,value=65803829},{type=5,value=17136413},{type=11,value=20563696},},
+	},
+	[915]={
+		star = 915,
+		needitem = {{type=1,id=1010000,count=875}},
+		attr = {{type=32,value=65954287},{type=5,value=17175595},{type=11,value=20610714},},
+	},
+	[916]={
+		star = 916,
+		needitem = {{type=1,id=1010000,count=876}},
+		attr = {{type=32,value=66104771},{type=5,value=17214784},{type=11,value=20657741},},
+	},
+	[917]={
+		star = 917,
+		needitem = {{type=1,id=1010000,count=877}},
+		attr = {{type=32,value=66255464},{type=5,value=17254027},{type=11,value=20704832},},
+	},
+	[918]={
+		star = 918,
+		needitem = {{type=1,id=1010000,count=878}},
+		attr = {{type=32,value=66406365},{type=5,value=17293324},{type=11,value=20751989},},
+	},
+	[919]={
+		star = 919,
+		needitem = {{type=1,id=1010000,count=879}},
+		attr = {{type=32,value=66557474},{type=5,value=17332675},{type=11,value=20799210},},
+	},
+	[920]={
+		star = 920,
+		needitem = {{type=1,id=1010000,count=880}},
+		attr = {{type=32,value=66708792},{type=5,value=17372081},{type=11,value=20846497},},
+	},
+	[921]={
+		star = 921,
+		needitem = {{type=1,id=1010000,count=881}},
+		attr = {{type=32,value=66860136},{type=5,value=17411493},{type=11,value=20893792},},
+	},
+	[922]={
+		star = 922,
+		needitem = {{type=1,id=1010000,count=882}},
+		attr = {{type=32,value=67011688},{type=5,value=17450960},{type=11,value=20941152},},
+	},
+	[923]={
+		star = 923,
+		needitem = {{type=1,id=1010000,count=883}},
+		attr = {{type=32,value=67163449},{type=5,value=17490481},{type=11,value=20988578},},
+	},
+	[924]={
+		star = 924,
+		needitem = {{type=1,id=1010000,count=884}},
+		attr = {{type=32,value=67315418},{type=5,value=17530057},{type=11,value=21036068},},
+	},
+	[925]={
+		star = 925,
+		needitem = {{type=1,id=1010000,count=885}},
+		attr = {{type=32,value=67467596},{type=5,value=17569686},{type=11,value=21083623},},
+	},
+	[926]={
+		star = 926,
+		needitem = {{type=1,id=1010000,count=886}},
+		attr = {{type=32,value=67619800},{type=5,value=17609322},{type=11,value=21131187},},
+	},
+	[927]={
+		star = 927,
+		needitem = {{type=1,id=1010000,count=887}},
+		attr = {{type=32,value=67772212},{type=5,value=17649013},{type=11,value=21178816},},
+	},
+	[928]={
+		star = 928,
+		needitem = {{type=1,id=1010000,count=888}},
+		attr = {{type=32,value=67924832},{type=5,value=17688758},{type=11,value=21226510},},
+	},
+	[929]={
+		star = 929,
+		needitem = {{type=1,id=1010000,count=889}},
+		attr = {{type=32,value=68077661},{type=5,value=17728557},{type=11,value=21274269},},
+	},
+	[930]={
+		star = 930,
+		needitem = {{type=1,id=1010000,count=890}},
+		attr = {{type=32,value=68230698},{type=5,value=17768411},{type=11,value=21322093},},
+	},
+	[931]={
+		star = 931,
+		needitem = {{type=1,id=1010000,count=891}},
+		attr = {{type=32,value=68383762},{type=5,value=17808271},{type=11,value=21369925},},
+	},
+	[932]={
+		star = 932,
+		needitem = {{type=1,id=1010000,count=892}},
+		attr = {{type=32,value=68537034},{type=5,value=17848185},{type=11,value=21417823},},
+	},
+	[933]={
+		star = 933,
+		needitem = {{type=1,id=1010000,count=893}},
+		attr = {{type=32,value=68690514},{type=5,value=17888154},{type=11,value=21465785},},
+	},
+	[934]={
+		star = 934,
+		needitem = {{type=1,id=1010000,count=894}},
+		attr = {{type=32,value=68844202},{type=5,value=17928177},{type=11,value=21513813},},
+	},
+	[935]={
+		star = 935,
+		needitem = {{type=1,id=1010000,count=895}},
+		attr = {{type=32,value=68998099},{type=5,value=17968255},{type=11,value=21561906},},
+	},
+	[936]={
+		star = 936,
+		needitem = {{type=1,id=1010000,count=896}},
+		attr = {{type=32,value=69152022},{type=5,value=18008339},{type=11,value=21610007},},
+	},
+	[937]={
+		star = 937,
+		needitem = {{type=1,id=1010000,count=897}},
+		attr = {{type=32,value=69306154},{type=5,value=18048477},{type=11,value=21658173},},
+	},
+	[938]={
+		star = 938,
+		needitem = {{type=1,id=1010000,count=898}},
+		attr = {{type=32,value=69460494},{type=5,value=18088670},{type=11,value=21706404},},
+	},
+	[939]={
+		star = 939,
+		needitem = {{type=1,id=1010000,count=899}},
+		attr = {{type=32,value=69615042},{type=5,value=18128917},{type=11,value=21754700},},
+	},
+	[940]={
+		star = 940,
+		needitem = {{type=1,id=1010000,count=900}},
+		attr = {{type=32,value=69769799},{type=5,value=18169218},{type=11,value=21803062},},
+	},
+	[941]={
+		star = 941,
+		needitem = {{type=1,id=1010000,count=901}},
+		attr = {{type=32,value=69924582},{type=5,value=18209526},{type=11,value=21851431},},
+	},
+	[942]={
+		star = 942,
+		needitem = {{type=1,id=1010000,count=902}},
+		attr = {{type=32,value=70079573},{type=5,value=18249888},{type=11,value=21899866},},
+	},
+	[943]={
+		star = 943,
+		needitem = {{type=1,id=1010000,count=903}},
+		attr = {{type=32,value=70234772},{type=5,value=18290305},{type=11,value=21948366},},
+	},
+	[944]={
+		star = 944,
+		needitem = {{type=1,id=1010000,count=904}},
+		attr = {{type=32,value=70390180},{type=5,value=18330776},{type=11,value=21996931},},
+	},
+	[945]={
+		star = 945,
+		needitem = {{type=1,id=1010000,count=905}},
+		attr = {{type=32,value=70545797},{type=5,value=18371301},{type=11,value=22045561},},
+	},
+	[946]={
+		star = 946,
+		needitem = {{type=1,id=1010000,count=906}},
+		attr = {{type=32,value=70701439},{type=5,value=18411833},{type=11,value=22094199},},
+	},
+	[947]={
+		star = 947,
+		needitem = {{type=1,id=1010000,count=907}},
+		attr = {{type=32,value=70857290},{type=5,value=18452419},{type=11,value=22142903},},
+	},
+	[948]={
+		star = 948,
+		needitem = {{type=1,id=1010000,count=908}},
+		attr = {{type=32,value=71013349},{type=5,value=18493059},{type=11,value=22191671},},
+	},
+	[949]={
+		star = 949,
+		needitem = {{type=1,id=1010000,count=909}},
+		attr = {{type=32,value=71169617},{type=5,value=18533754},{type=11,value=22240505},},
+	},
+	[950]={
+		star = 950,
+		needitem = {{type=1,id=1010000,count=910}},
+		attr = {{type=32,value=71326093},{type=5,value=18574503},{type=11,value=22289404},},
+	},
+	[951]={
+		star = 951,
+		needitem = {{type=1,id=1010000,count=911}},
+		attr = {{type=32,value=71482595},{type=5,value=18615259},{type=11,value=22338311},},
+	},
+	[952]={
+		star = 952,
+		needitem = {{type=1,id=1010000,count=912}},
+		attr = {{type=32,value=71639306},{type=5,value=18656069},{type=11,value=22387283},},
+	},
+	[953]={
+		star = 953,
+		needitem = {{type=1,id=1010000,count=913}},
+		attr = {{type=32,value=71796225},{type=5,value=18696933},{type=11,value=22436320},},
+	},
+	[954]={
+		star = 954,
+		needitem = {{type=1,id=1010000,count=914}},
+		attr = {{type=32,value=71953352},{type=5,value=18737852},{type=11,value=22485422},},
+	},
+	[955]={
+		star = 955,
+		needitem = {{type=1,id=1010000,count=915}},
+		attr = {{type=32,value=72110688},{type=5,value=18778825},{type=11,value=22534590},},
+	},
+	[956]={
+		star = 956,
+		needitem = {{type=1,id=1010000,count=916}},
+		attr = {{type=32,value=72268050},{type=5,value=18819804},{type=11,value=22583765},},
+	},
+	[957]={
+		star = 957,
+		needitem = {{type=1,id=1010000,count=917}},
+		attr = {{type=32,value=72425620},{type=5,value=18860838},{type=11,value=22633006},},
+	},
+	[958]={
+		star = 958,
+		needitem = {{type=1,id=1010000,count=918}},
+		attr = {{type=32,value=72583399},{type=5,value=18901926},{type=11,value=22682312},},
+	},
+	[959]={
+		star = 959,
+		needitem = {{type=1,id=1010000,count=919}},
+		attr = {{type=32,value=72741386},{type=5,value=18943069},{type=11,value=22731683},},
+	},
+	[960]={
+		star = 960,
+		needitem = {{type=1,id=1010000,count=920}},
+		attr = {{type=32,value=72899582},{type=5,value=18984266},{type=11,value=22781119},},
+	},
+	[961]={
+		star = 961,
+		needitem = {{type=1,id=1010000,count=921}},
+		attr = {{type=32,value=73057803},{type=5,value=19025469},{type=11,value=22830563},},
+	},
+	[962]={
+		star = 962,
+		needitem = {{type=1,id=1010000,count=922}},
+		attr = {{type=32,value=73216233},{type=5,value=19066727},{type=11,value=22880073},},
+	},
+	[963]={
+		star = 963,
+		needitem = {{type=1,id=1010000,count=923}},
+		attr = {{type=32,value=73374872},{type=5,value=19108039},{type=11,value=22929647},},
+	},
+	[964]={
+		star = 964,
+		needitem = {{type=1,id=1010000,count=924}},
+		attr = {{type=32,value=73533718},{type=5,value=19149405},{type=11,value=22979287},},
+	},
+	[965]={
+		star = 965,
+		needitem = {{type=1,id=1010000,count=925}},
+		attr = {{type=32,value=73692774},{type=5,value=19190826},{type=11,value=23028991},},
+	},
+	[966]={
+		star = 966,
+		needitem = {{type=1,id=1010000,count=926}},
+		attr = {{type=32,value=73851855},{type=5,value=19232254},{type=11,value=23078704},},
+	},
+	[967]={
+		star = 967,
+		needitem = {{type=1,id=1010000,count=927}},
+		attr = {{type=32,value=74011145},{type=5,value=19273735},{type=11,value=23128482},},
+	},
+	[968]={
+		star = 968,
+		needitem = {{type=1,id=1010000,count=928}},
+		attr = {{type=32,value=74170643},{type=5,value=19315271},{type=11,value=23178325},},
+	},
+	[969]={
+		star = 969,
+		needitem = {{type=1,id=1010000,count=929}},
+		attr = {{type=32,value=74330349},{type=5,value=19356861},{type=11,value=23228234},},
+	},
+	[970]={
+		star = 970,
+		needitem = {{type=1,id=1010000,count=930}},
+		attr = {{type=32,value=74490264},{type=5,value=19398506},{type=11,value=23278207},},
+	},
+	[971]={
+		star = 971,
+		needitem = {{type=1,id=1010000,count=931}},
+		attr = {{type=32,value=74650205},{type=5,value=19440157},{type=11,value=23328189},},
+	},
+	[972]={
+		star = 972,
+		needitem = {{type=1,id=1010000,count=932}},
+		attr = {{type=32,value=74810354},{type=5,value=19481863},{type=11,value=23378235},},
+	},
+	[973]={
+		star = 973,
+		needitem = {{type=1,id=1010000,count=933}},
+		attr = {{type=32,value=74970712},{type=5,value=19523623},{type=11,value=23428347},},
+	},
+	[974]={
+		star = 974,
+		needitem = {{type=1,id=1010000,count=934}},
+		attr = {{type=32,value=75131278},{type=5,value=19565437},{type=11,value=23478524},},
+	},
+	[975]={
+		star = 975,
+		needitem = {{type=1,id=1010000,count=935}},
+		attr = {{type=32,value=75292053},{type=5,value=19607305},{type=11,value=23528766},},
+	},
+	[976]={
+		star = 976,
+		needitem = {{type=1,id=1010000,count=936}},
+		attr = {{type=32,value=75452854},{type=5,value=19649180},{type=11,value=23579016},},
+	},
+	[977]={
+		star = 977,
+		needitem = {{type=1,id=1010000,count=937}},
+		attr = {{type=32,value=75613863},{type=5,value=19691110},{type=11,value=23629332},},
+	},
+	[978]={
+		star = 978,
+		needitem = {{type=1,id=1010000,count=938}},
+		attr = {{type=32,value=75775080},{type=5,value=19733093},{type=11,value=23679712},},
+	},
+	[979]={
+		star = 979,
+		needitem = {{type=1,id=1010000,count=939}},
+		attr = {{type=32,value=75936506},{type=5,value=19775131},{type=11,value=23730158},},
+	},
+	[980]={
+		star = 980,
+		needitem = {{type=1,id=1010000,count=940}},
+		attr = {{type=32,value=76098141},{type=5,value=19817224},{type=11,value=23780669},},
+	},
+	[981]={
+		star = 981,
+		needitem = {{type=1,id=1010000,count=941}},
+		attr = {{type=32,value=76259801},{type=5,value=19859323},{type=11,value=23831187},},
+	},
+	[982]={
+		star = 982,
+		needitem = {{type=1,id=1010000,count=942}},
+		attr = {{type=32,value=76421670},{type=5,value=19901476},{type=11,value=23881771},},
+	},
+	[983]={
+		star = 983,
+		needitem = {{type=1,id=1010000,count=943}},
+		attr = {{type=32,value=76583747},{type=5,value=19943684},{type=11,value=23932421},},
+	},
+	[984]={
+		star = 984,
+		needitem = {{type=1,id=1010000,count=944}},
+		attr = {{type=32,value=76746033},{type=5,value=19985946},{type=11,value=23983135},},
+	},
+	[985]={
+		star = 985,
+		needitem = {{type=1,id=1010000,count=945}},
+		attr = {{type=32,value=76908527},{type=5,value=20028262},{type=11,value=24033914},},
+	},
+	[986]={
+		star = 986,
+		needitem = {{type=1,id=1010000,count=946}},
+		attr = {{type=32,value=77071047},{type=5,value=20070585},{type=11,value=24084702},},
+	},
+	[987]={
+		star = 987,
+		needitem = {{type=1,id=1010000,count=947}},
+		attr = {{type=32,value=77233775},{type=5,value=20112962},{type=11,value=24135554},},
+	},
+	[988]={
+		star = 988,
+		needitem = {{type=1,id=1010000,count=948}},
+		attr = {{type=32,value=77396712},{type=5,value=20155393},{type=11,value=24186472},},
+	},
+	[989]={
+		star = 989,
+		needitem = {{type=1,id=1010000,count=949}},
+		attr = {{type=32,value=77559857},{type=5,value=20197879},{type=11,value=24237455},},
+	},
+	[990]={
+		star = 990,
+		needitem = {{type=1,id=1010000,count=950}},
+		attr = {{type=32,value=77723211},{type=5,value=20240419},{type=11,value=24288503},},
+	},
+	[991]={
+		star = 991,
+		needitem = {{type=1,id=1010000,count=951}},
+		attr = {{type=32,value=77886591},{type=5,value=20282966},{type=11,value=24339559},},
+	},
+	[992]={
+		star = 992,
+		needitem = {{type=1,id=1010000,count=952}},
+		attr = {{type=32,value=78050179},{type=5,value=20325567},{type=11,value=24390681},},
+	},
+	[993]={
+		star = 993,
+		needitem = {{type=1,id=1010000,count=953}},
+		attr = {{type=32,value=78213976},{type=5,value=20368222},{type=11,value=24441867},},
+	},
+	[994]={
+		star = 994,
+		needitem = {{type=1,id=1010000,count=954}},
+		attr = {{type=32,value=78377981},{type=5,value=20410932},{type=11,value=24493119},},
+	},
+	[995]={
+		star = 995,
+		needitem = {{type=1,id=1010000,count=955}},
+		attr = {{type=32,value=78542194},{type=5,value=20453696},{type=11,value=24544435},},
+	},
+	[996]={
+		star = 996,
+		needitem = {{type=1,id=1010000,count=956}},
+		attr = {{type=32,value=78706434},{type=5,value=20496467},{type=11,value=24595760},},
+	},
+	[997]={
+		star = 997,
+		needitem = {{type=1,id=1010000,count=957}},
+		attr = {{type=32,value=78870882},{type=5,value=20539292},{type=11,value=24647150},},
+	},
+	[998]={
+		star = 998,
+		needitem = {{type=1,id=1010000,count=958}},
+		attr = {{type=32,value=79035538},{type=5,value=20582171},{type=11,value=24698605},},
+	},
+	[999]={
+		star = 999,
+		needitem = {{type=1,id=1010000,count=959}},
+		attr = {{type=32,value=79200403},{type=5,value=20625104},{type=11,value=24750125},},
+	},
+	[1000]={
+		star = 1000,
+		needitem = {{type=1,id=1010000,count=960}},
+		attr = {{type=32,value=79365476},{type=5,value=20668092},{type=11,value=24801711},},
+	},
+	[1001]={
+		star = 1001,
+		needitem = {{type=1,id=1010000,count=961}},
+		attr = {{type=32,value=79530575},{type=5,value=20711087},{type=11,value=24853304},},
+	},
+	[1002]={
+		star = 1002,
+		needitem = {{type=1,id=1010000,count=962}},
+		attr = {{type=32,value=79695882},{type=5,value=20754136},{type=11,value=24904963},},
+	},
+	[1003]={
+		star = 1003,
+		needitem = {{type=1,id=1010000,count=963}},
+		attr = {{type=32,value=79861398},{type=5,value=20797239},{type=11,value=24956687},},
+	},
+	[1004]={
+		star = 1004,
+		needitem = {{type=1,id=1010000,count=964}},
+		attr = {{type=32,value=80027123},{type=5,value=20840396},{type=11,value=25008476},},
+	},
+	[1005]={
+		star = 1005,
+		needitem = {{type=1,id=1010000,count=965}},
+		attr = {{type=32,value=80193056},{type=5,value=20883608},{type=11,value=25060330},},
+	},
+	[1006]={
+		star = 1006,
+		needitem = {{type=1,id=1010000,count=966}},
+		attr = {{type=32,value=80359015},{type=5,value=20926826},{type=11,value=25112192},},
+	},
+	[1007]={
+		star = 1007,
+		needitem = {{type=1,id=1010000,count=967}},
+		attr = {{type=32,value=80525182},{type=5,value=20970099},{type=11,value=25164119},},
+	},
+	[1008]={
+		star = 1008,
+		needitem = {{type=1,id=1010000,count=968}},
+		attr = {{type=32,value=80691558},{type=5,value=21013426},{type=11,value=25216111},},
+	},
+	[1009]={
+		star = 1009,
+		needitem = {{type=1,id=1010000,count=969}},
+		attr = {{type=32,value=80858142},{type=5,value=21056807},{type=11,value=25268169},},
+	},
+	[1010]={
+		star = 1010,
+		needitem = {{type=1,id=1010000,count=970}},
+		attr = {{type=32,value=81024934},{type=5,value=21100243},{type=11,value=25320292},},
+	},
+	[1011]={
+		star = 1011,
+		needitem = {{type=1,id=1010000,count=971}},
+		attr = {{type=32,value=81191753},{type=5,value=21143685},{type=11,value=25372422},},
+	},
+	[1012]={
+		star = 1012,
+		needitem = {{type=1,id=1010000,count=972}},
+		attr = {{type=32,value=81358780},{type=5,value=21187182},{type=11,value=25424618},},
+	},
+	[1013]={
+		star = 1013,
+		needitem = {{type=1,id=1010000,count=973}},
+		attr = {{type=32,value=81526015},{type=5,value=21230733},{type=11,value=25476879},},
+	},
+	[1014]={
+		star = 1014,
+		needitem = {{type=1,id=1010000,count=974}},
+		attr = {{type=32,value=81693459},{type=5,value=21274338},{type=11,value=25529206},},
+	},
+	[1015]={
+		star = 1015,
+		needitem = {{type=1,id=1010000,count=975}},
+		attr = {{type=32,value=81861111},{type=5,value=21317997},{type=11,value=25581597},},
+	},
+	[1016]={
+		star = 1016,
+		needitem = {{type=1,id=1010000,count=976}},
+		attr = {{type=32,value=82028790},{type=5,value=21361664},{type=11,value=25633996},},
+	},
+	[1017]={
+		star = 1017,
+		needitem = {{type=1,id=1010000,count=977}},
+		attr = {{type=32,value=82196676},{type=5,value=21405384},{type=11,value=25686461},},
+	},
+	[1018]={
+		star = 1018,
+		needitem = {{type=1,id=1010000,count=978}},
+		attr = {{type=32,value=82364771},{type=5,value=21449159},{type=11,value=25738991},},
+	},
+	[1019]={
+		star = 1019,
+		needitem = {{type=1,id=1010000,count=979}},
+		attr = {{type=32,value=82533075},{type=5,value=21492988},{type=11,value=25791586},},
+	},
+	[1020]={
+		star = 1020,
+		needitem = {{type=1,id=1010000,count=980}},
+		attr = {{type=32,value=82701587},{type=5,value=21536871},{type=11,value=25844246},},
+	},
+	[1021]={
+		star = 1021,
+		needitem = {{type=1,id=1010000,count=981}},
+		attr = {{type=32,value=82870125},{type=5,value=21580761},{type=11,value=25896914},},
+	},
+	[1022]={
+		star = 1022,
+		needitem = {{type=1,id=1010000,count=982}},
+		attr = {{type=32,value=83038871},{type=5,value=21624706},{type=11,value=25949647},},
+	},
+	[1023]={
+		star = 1023,
+		needitem = {{type=1,id=1010000,count=983}},
+		attr = {{type=32,value=83207826},{type=5,value=21668704},{type=11,value=26002445},},
+	},
+	[1024]={
+		star = 1024,
+		needitem = {{type=1,id=1010000,count=984}},
+		attr = {{type=32,value=83376989},{type=5,value=21712757},{type=11,value=26055309},},
+	},
+	[1025]={
+		star = 1025,
+		needitem = {{type=1,id=1010000,count=985}},
+		attr = {{type=32,value=83546361},{type=5,value=21756864},{type=11,value=26108237},},
+	},
+	[1026]={
+		star = 1026,
+		needitem = {{type=1,id=1010000,count=986}},
+		attr = {{type=32,value=83715759},{type=5,value=21800978},{type=11,value=26161174},},
+	},
+	[1027]={
+		star = 1027,
+		needitem = {{type=1,id=1010000,count=987}},
+		attr = {{type=32,value=83885365},{type=5,value=21845147},{type=11,value=26214176},},
+	},
+	[1028]={
+		star = 1028,
+		needitem = {{type=1,id=1010000,count=988}},
+		attr = {{type=32,value=84055179},{type=5,value=21889369},{type=11,value=26267243},},
+	},
+	[1029]={
+		star = 1029,
+		needitem = {{type=1,id=1010000,count=989}},
+		attr = {{type=32,value=84225202},{type=5,value=21933646},{type=11,value=26320375},},
+	},
+	[1030]={
+		star = 1030,
+		needitem = {{type=1,id=1010000,count=990}},
+		attr = {{type=32,value=84395434},{type=5,value=21977977},{type=11,value=26373573},},
+	},
+	[1031]={
+		star = 1031,
+		needitem = {{type=1,id=1010000,count=991}},
+		attr = {{type=32,value=84565691},{type=5,value=22022315},{type=11,value=26426778},},
+	},
+	[1032]={
+		star = 1032,
+		needitem = {{type=1,id=1010000,count=992}},
+		attr = {{type=32,value=84736157},{type=5,value=22066707},{type=11,value=26480049},},
+	},
+	[1033]={
+		star = 1033,
+		needitem = {{type=1,id=1010000,count=993}},
+		attr = {{type=32,value=84906831},{type=5,value=22111154},{type=11,value=26533384},},
+	},
+	[1034]={
+		star = 1034,
+		needitem = {{type=1,id=1010000,count=994}},
+		attr = {{type=32,value=85077714},{type=5,value=22155654},{type=11,value=26586785},},
+	},
+	[1035]={
+		star = 1035,
+		needitem = {{type=1,id=1010000,count=995}},
+		attr = {{type=32,value=85248805},{type=5,value=22200209},{type=11,value=26640251},},
+	},
+	[1036]={
+		star = 1036,
+		needitem = {{type=1,id=1010000,count=996}},
+		attr = {{type=32,value=85419922},{type=5,value=22244771},{type=11,value=26693725},},
+	},
+	[1037]={
+		star = 1037,
+		needitem = {{type=1,id=1010000,count=997}},
+		attr = {{type=32,value=85591247},{type=5,value=22289387},{type=11,value=26747264},},
+	},
+	[1038]={
+		star = 1038,
+		needitem = {{type=1,id=1010000,count=998}},
+		attr = {{type=32,value=85762781},{type=5,value=22334057},{type=11,value=26800869},},
+	},
+	[1039]={
+		star = 1039,
+		needitem = {{type=1,id=1010000,count=999}},
+		attr = {{type=32,value=85934523},{type=5,value=22378782},{type=11,value=26854538},},
+	},
+	[1040]={
+		star = 1040,
+		needitem = {{type=1,id=1010000,count=1000}},
+		attr = {{type=32,value=86106474},{type=5,value=22423561},{type=11,value=26908273},},
+	},
+	[1041]={
+		star = 1041,
+		needitem = {{type=1,id=1010000,count=1001}},
+		attr = {{type=32,value=86278451},{type=5,value=22468346},{type=11,value=26962016},},
+	},
+	[1042]={
+		star = 1042,
+		needitem = {{type=1,id=1010000,count=1002}},
+		attr = {{type=32,value=86450636},{type=5,value=22513186},{type=11,value=27015823},},
+	},
+	[1043]={
+		star = 1043,
+		needitem = {{type=1,id=1010000,count=1003}},
+		attr = {{type=32,value=86623030},{type=5,value=22558080},{type=11,value=27069696},},
+	},
+	[1044]={
+		star = 1044,
+		needitem = {{type=1,id=1010000,count=1004}},
+		attr = {{type=32,value=86795632},{type=5,value=22603029},{type=11,value=27123635},},
+	},
+	[1045]={
+		star = 1045,
+		needitem = {{type=1,id=1010000,count=1005}},
+		attr = {{type=32,value=86968442},{type=5,value=22648031},{type=11,value=27177638},},
+	},
+	[1046]={
+		star = 1046,
+		needitem = {{type=1,id=1010000,count=1006}},
+		attr = {{type=32,value=87141279},{type=5,value=22693041},{type=11,value=27231649},},
+	},
+	[1047]={
+		star = 1047,
+		needitem = {{type=1,id=1010000,count=1007}},
+		attr = {{type=32,value=87314324},{type=5,value=22738105},{type=11,value=27285726},},
+	},
+	[1048]={
+		star = 1048,
+		needitem = {{type=1,id=1010000,count=1008}},
+		attr = {{type=32,value=87487577},{type=5,value=22783223},{type=11,value=27339867},},
+	},
+	[1049]={
+		star = 1049,
+		needitem = {{type=1,id=1010000,count=1009}},
+		attr = {{type=32,value=87661039},{type=5,value=22828395},{type=11,value=27394074},},
+	},
+	[1050]={
+		star = 1050,
+		needitem = {{type=1,id=1010000,count=1010}},
+		attr = {{type=32,value=87834709},{type=5,value=22873622},{type=11,value=27448346},},
+	},
+	[1051]={
+		star = 1051,
+		needitem = {{type=1,id=1010000,count=1011}},
+		attr = {{type=32,value=88008405},{type=5,value=22918855},{type=11,value=27502626},},
+	},
+	[1052]={
+		star = 1052,
+		needitem = {{type=1,id=1010000,count=1012}},
+		attr = {{type=32,value=88182310},{type=5,value=22964143},{type=11,value=27556971},},
+	},
+	[1053]={
+		star = 1053,
+		needitem = {{type=1,id=1010000,count=1013}},
+		attr = {{type=32,value=88356423},{type=5,value=23009485},{type=11,value=27611382},},
+	},
+	[1054]={
+		star = 1054,
+		needitem = {{type=1,id=1010000,count=1014}},
+		attr = {{type=32,value=88530744},{type=5,value=23054881},{type=11,value=27665857},},
+	},
+	[1055]={
+		star = 1055,
+		needitem = {{type=1,id=1010000,count=1015}},
+		attr = {{type=32,value=88705274},{type=5,value=23100331},{type=11,value=27720398},},
+	},
+	[1056]={
+		star = 1056,
+		needitem = {{type=1,id=1010000,count=1016}},
+		attr = {{type=32,value=88879830},{type=5,value=23145789},{type=11,value=27774946},},
+	},
+	[1057]={
+		star = 1057,
+		needitem = {{type=1,id=1010000,count=1017}},
+		attr = {{type=32,value=89054594},{type=5,value=23191300},{type=11,value=27829560},},
+	},
+	[1058]={
+		star = 1058,
+		needitem = {{type=1,id=1010000,count=1018}},
+		attr = {{type=32,value=89229567},{type=5,value=23236866},{type=11,value=27884239},},
+	},
+	[1059]={
+		star = 1059,
+		needitem = {{type=1,id=1010000,count=1019}},
+		attr = {{type=32,value=89404748},{type=5,value=23282486},{type=11,value=27938983},},
+	},
+	[1060]={
+		star = 1060,
+		needitem = {{type=1,id=1010000,count=1020}},
+		attr = {{type=32,value=89580138},{type=5,value=23328160},{type=11,value=27993793},},
+	},
+	[1061]={
+		star = 1061,
+		needitem = {{type=1,id=1010000,count=1021}},
+		attr = {{type=32,value=89755553},{type=5,value=23373842},{type=11,value=28048610},},
+	},
+	[1062]={
+		star = 1062,
+		needitem = {{type=1,id=1010000,count=1022}},
+		attr = {{type=32,value=89931177},{type=5,value=23419577},{type=11,value=28103493},},
+	},
+	[1063]={
+		star = 1063,
+		needitem = {{type=1,id=1010000,count=1023}},
+		attr = {{type=32,value=90107010},{type=5,value=23465367},{type=11,value=28158440},},
+	},
+	[1064]={
+		star = 1064,
+		needitem = {{type=1,id=1010000,count=1024}},
+		attr = {{type=32,value=90283050},{type=5,value=23511211},{type=11,value=28213453},},
+	},
+	[1065]={
+		star = 1065,
+		needitem = {{type=1,id=1010000,count=1025}},
+		attr = {{type=32,value=90459300},{type=5,value=23557109},{type=11,value=28268531},},
+	},
+	[1066]={
+		star = 1066,
+		needitem = {{type=1,id=1010000,count=1026}},
+		attr = {{type=32,value=90635575},{type=5,value=23603014},{type=11,value=28323617},},
+	},
+	[1067]={
+		star = 1067,
+		needitem = {{type=1,id=1010000,count=1027}},
+		attr = {{type=32,value=90812059},{type=5,value=23648973},{type=11,value=28378768},},
+	},
+	[1068]={
+		star = 1068,
+		needitem = {{type=1,id=1010000,count=1028}},
+		attr = {{type=32,value=90988751},{type=5,value=23694987},{type=11,value=28433984},},
+	},
+	[1069]={
+		star = 1069,
+		needitem = {{type=1,id=1010000,count=1029}},
+		attr = {{type=32,value=91165651},{type=5,value=23741055},{type=11,value=28489266},},
+	},
+	[1070]={
+		star = 1070,
+		needitem = {{type=1,id=1010000,count=1030}},
+		attr = {{type=32,value=91342760},{type=5,value=23787177},{type=11,value=28544612},},
+	},
+	[1071]={
+		star = 1071,
+		needitem = {{type=1,id=1010000,count=1031}},
+		attr = {{type=32,value=91519895},{type=5,value=23833306},{type=11,value=28599967},},
+	},
+	[1072]={
+		star = 1072,
+		needitem = {{type=1,id=1010000,count=1032}},
+		attr = {{type=32,value=91697239},{type=5,value=23879489},{type=11,value=28655387},},
+	},
+	[1073]={
+		star = 1073,
+		needitem = {{type=1,id=1010000,count=1033}},
+		attr = {{type=32,value=91874791},{type=5,value=23925726},{type=11,value=28710872},},
+	},
+	[1074]={
+		star = 1074,
+		needitem = {{type=1,id=1010000,count=1034}},
+		attr = {{type=32,value=92052551},{type=5,value=23972018},{type=11,value=28766422},},
+	},
+	[1075]={
+		star = 1075,
+		needitem = {{type=1,id=1010000,count=1035}},
+		attr = {{type=32,value=92230520},{type=5,value=24018364},{type=11,value=28822037},},
+	},
+	[1076]={
+		star = 1076,
+		needitem = {{type=1,id=1010000,count=1036}},
+		attr = {{type=32,value=92408514},{type=5,value=24064717},{type=11,value=28877660},},
+	},
+	[1077]={
+		star = 1077,
+		needitem = {{type=1,id=1010000,count=1037}},
+		attr = {{type=32,value=92586717},{type=5,value=24111124},{type=11,value=28933349},},
+	},
+	[1078]={
+		star = 1078,
+		needitem = {{type=1,id=1010000,count=1038}},
+		attr = {{type=32,value=92765129},{type=5,value=24157585},{type=11,value=28989102},},
+	},
+	[1079]={
+		star = 1079,
+		needitem = {{type=1,id=1010000,count=1039}},
+		attr = {{type=32,value=92943749},{type=5,value=24204101},{type=11,value=29044921},},
+	},
+	[1080]={
+		star = 1080,
+		needitem = {{type=1,id=1010000,count=1040}},
+		attr = {{type=32,value=93122577},{type=5,value=24250671},{type=11,value=29100805},},
+	},
+	[1081]={
+		star = 1081,
+		needitem = {{type=1,id=1010000,count=1041}},
+		attr = {{type=32,value=93301432},{type=5,value=24297247},{type=11,value=29156697},},
+	},
+	[1082]={
+		star = 1082,
+		needitem = {{type=1,id=1010000,count=1042}},
+		attr = {{type=32,value=93480494},{type=5,value=24343878},{type=11,value=29212654},},
+	},
+	[1083]={
+		star = 1083,
+		needitem = {{type=1,id=1010000,count=1043}},
+		attr = {{type=32,value=93659766},{type=5,value=24390564},{type=11,value=29268676},},
+	},
+	[1084]={
+		star = 1084,
+		needitem = {{type=1,id=1010000,count=1044}},
+		attr = {{type=32,value=93839245},{type=5,value=24437303},{type=11,value=29324764},},
+	},
+	[1085]={
+		star = 1085,
+		needitem = {{type=1,id=1010000,count=1045}},
+		attr = {{type=32,value=94018933},{type=5,value=24484097},{type=11,value=29380916},},
+	},
+	[1086]={
+		star = 1086,
+		needitem = {{type=1,id=1010000,count=1046}},
+		attr = {{type=32,value=94198647},{type=5,value=24530897},{type=11,value=29437077},},
+	},
+	[1087]={
+		star = 1087,
+		needitem = {{type=1,id=1010000,count=1047}},
+		attr = {{type=32,value=94378570},{type=5,value=24577752},{type=11,value=29493303},},
+	},
+	[1088]={
+		star = 1088,
+		needitem = {{type=1,id=1010000,count=1048}},
+		attr = {{type=32,value=94558701},{type=5,value=24624661},{type=11,value=29549594},},
+	},
+	[1089]={
+		star = 1089,
+		needitem = {{type=1,id=1010000,count=1049}},
+		attr = {{type=32,value=94739040},{type=5,value=24671625},{type=11,value=29605950},},
+	},
+	[1090]={
+		star = 1090,
+		needitem = {{type=1,id=1010000,count=1050}},
+		attr = {{type=32,value=94919588},{type=5,value=24718642},{type=11,value=29662371},},
+	},
+	[1091]={
+		star = 1091,
+		needitem = {{type=1,id=1010000,count=1051}},
+		attr = {{type=32,value=95100162},{type=5,value=24765667},{type=11,value=29718800},},
+	},
+	[1092]={
+		star = 1092,
+		needitem = {{type=1,id=1010000,count=1052}},
+		attr = {{type=32,value=95280944},{type=5,value=24812745},{type=11,value=29775295},},
+	},
+	[1093]={
+		star = 1093,
+		needitem = {{type=1,id=1010000,count=1053}},
+		attr = {{type=32,value=95461935},{type=5,value=24859878},{type=11,value=29831854},},
+	},
+	[1094]={
+		star = 1094,
+		needitem = {{type=1,id=1010000,count=1054}},
+		attr = {{type=32,value=95643134},{type=5,value=24907066},{type=11,value=29888479},},
+	},
+	[1095]={
+		star = 1095,
+		needitem = {{type=1,id=1010000,count=1055}},
+		attr = {{type=32,value=95824541},{type=5,value=24954307},{type=11,value=29945169},},
+	},
+	[1096]={
+		star = 1096,
+		needitem = {{type=1,id=1010000,count=1056}},
+		attr = {{type=32,value=96005975},{type=5,value=25001556},{type=11,value=30001867},},
+	},
+	[1097]={
+		star = 1097,
+		needitem = {{type=1,id=1010000,count=1057}},
+		attr = {{type=32,value=96187617},{type=5,value=25048858},{type=11,value=30058630},},
+	},
+	[1098]={
+		star = 1098,
+		needitem = {{type=1,id=1010000,count=1058}},
+		attr = {{type=32,value=96369467},{type=5,value=25096215},{type=11,value=30115458},},
+	},
+	[1099]={
+		star = 1099,
+		needitem = {{type=1,id=1010000,count=1059}},
+		attr = {{type=32,value=96551526},{type=5,value=25143626},{type=11,value=30172351},},
+	},
+	[1100]={
+		star = 1100,
+		needitem = {{type=1,id=1010000,count=1061}},
+		attr = {{type=32,value=96733793},{type=5,value=25191092},{type=11,value=30229310},},
+	},
+	[1101]={
+		star = 1101,
+		needitem = {{type=1,id=1010000,count=1063}},
+		attr = {{type=32,value=96916258},{type=5,value=25238608},{type=11,value=30286330},},
+	},
+	[1102]={
+		star = 1102,
+		needitem = {{type=1,id=1010000,count=1065}},
+		attr = {{type=32,value=97099103},{type=5,value=25286224},{type=11,value=30343469},},
+	},
+	[1103]={
+		star = 1103,
+		needitem = {{type=1,id=1010000,count=1067}},
+		attr = {{type=32,value=97282329},{type=5,value=25333940},{type=11,value=30400728},},
+	},
+	[1104]={
+		star = 1104,
+		needitem = {{type=1,id=1010000,count=1069}},
+		attr = {{type=32,value=97465936},{type=5,value=25381754},{type=11,value=30458105},},
+	},
+	[1105]={
+		star = 1105,
+		needitem = {{type=1,id=1010000,count=1071}},
+		attr = {{type=32,value=97649922},{type=5,value=25429667},{type=11,value=30515600},},
+	},
+	[1106]={
+		star = 1106,
+		needitem = {{type=1,id=1010000,count=1073}},
+		attr = {{type=32,value=97834107},{type=5,value=25477632},{type=11,value=30573158},},
+	},
+	[1107]={
+		star = 1107,
+		needitem = {{type=1,id=1010000,count=1075}},
+		attr = {{type=32,value=98018672},{type=5,value=25525695},{type=11,value=30630835},},
+	},
+	[1108]={
+		star = 1108,
+		needitem = {{type=1,id=1010000,count=1077}},
+		attr = {{type=32,value=98203617},{type=5,value=25573858},{type=11,value=30688630},},
+	},
+	[1109]={
+		star = 1109,
+		needitem = {{type=1,id=1010000,count=1079}},
+		attr = {{type=32,value=98388942},{type=5,value=25622120},{type=11,value=30746544},},
+	},
+	[1110]={
+		star = 1110,
+		needitem = {{type=1,id=1010000,count=1081}},
+		attr = {{type=32,value=98574648},{type=5,value=25670481},{type=11,value=30804577},},
+	},
+	[1111]={
+		star = 1111,
+		needitem = {{type=1,id=1010000,count=1083}},
+		attr = {{type=32,value=98760552},{type=5,value=25718893},{type=11,value=30862672},},
+	},
+	[1112]={
+		star = 1112,
+		needitem = {{type=1,id=1010000,count=1085}},
+		attr = {{type=32,value=98946837},{type=5,value=25767405},{type=11,value=30920886},},
+	},
+	[1113]={
+		star = 1113,
+		needitem = {{type=1,id=1010000,count=1087}},
+		attr = {{type=32,value=99133501},{type=5,value=25816016},{type=11,value=30979219},},
+	},
+	[1114]={
+		star = 1114,
+		needitem = {{type=1,id=1010000,count=1089}},
+		attr = {{type=32,value=99320546},{type=5,value=25864725},{type=11,value=31037670},},
+	},
+	[1115]={
+		star = 1115,
+		needitem = {{type=1,id=1010000,count=1091}},
+		attr = {{type=32,value=99507972},{type=5,value=25913534},{type=11,value=31096241},},
+	},
+	[1116]={
+		star = 1116,
+		needitem = {{type=1,id=1010000,count=1093}},
+		attr = {{type=32,value=99695595},{type=5,value=25962394},{type=11,value=31154873},},
+	},
+	[1117]={
+		star = 1117,
+		needitem = {{type=1,id=1010000,count=1095}},
+		attr = {{type=32,value=99883599},{type=5,value=26011353},{type=11,value=31213624},},
+	},
+	[1118]={
+		star = 1118,
+		needitem = {{type=1,id=1010000,count=1097}},
+		attr = {{type=32,value=100071983},{type=5,value=26060412},{type=11,value=31272494},},
+	},
+	[1119]={
+		star = 1119,
+		needitem = {{type=1,id=1010000,count=1099}},
+		attr = {{type=32,value=100260747},{type=5,value=26109569},{type=11,value=31331483},},
+	},
+	[1120]={
+		star = 1120,
+		needitem = {{type=1,id=1010000,count=1101}},
+		attr = {{type=32,value=100449892},{type=5,value=26158826},{type=11,value=31390591},},
+	},
+	[1121]={
+		star = 1121,
+		needitem = {{type=1,id=1010000,count=1103}},
+		attr = {{type=32,value=100639235},{type=5,value=26208134},{type=11,value=31449761},},
+	},
+	[1122]={
+		star = 1122,
+		needitem = {{type=1,id=1010000,count=1105}},
+		attr = {{type=32,value=100828958},{type=5,value=26257541},{type=11,value=31509049},},
+	},
+	[1123]={
+		star = 1123,
+		needitem = {{type=1,id=1010000,count=1107}},
+		attr = {{type=32,value=101019061},{type=5,value=26307047},{type=11,value=31568456},},
+	},
+	[1124]={
+		star = 1124,
+		needitem = {{type=1,id=1010000,count=1109}},
+		attr = {{type=32,value=101209545},{type=5,value=26356652},{type=11,value=31627983},},
+	},
+	[1125]={
+		star = 1125,
+		needitem = {{type=1,id=1010000,count=1111}},
+		attr = {{type=32,value=101400409},{type=5,value=26406356},{type=11,value=31687628},},
+	},
+	[1126]={
+		star = 1126,
+		needitem = {{type=1,id=1010000,count=1113}},
+		attr = {{type=32,value=101591472},{type=5,value=26456112},{type=11,value=31747335},},
+	},
+	[1127]={
+		star = 1127,
+		needitem = {{type=1,id=1010000,count=1115}},
+		attr = {{type=32,value=101782914},{type=5,value=26505967},{type=11,value=31807160},},
+	},
+	[1128]={
+		star = 1128,
+		needitem = {{type=1,id=1010000,count=1117}},
+		attr = {{type=32,value=101974737},{type=5,value=26555921},{type=11,value=31867105},},
+	},
+	[1129]={
+		star = 1129,
+		needitem = {{type=1,id=1010000,count=1119}},
+		attr = {{type=32,value=102166940},{type=5,value=26605974},{type=11,value=31927168},},
+	},
+	[1130]={
+		star = 1130,
+		needitem = {{type=1,id=1010000,count=1121}},
+		attr = {{type=32,value=102359524},{type=5,value=26656126},{type=11,value=31987351},},
+	},
+	[1131]={
+		star = 1131,
+		needitem = {{type=1,id=1010000,count=1123}},
+		attr = {{type=32,value=102552305},{type=5,value=26706329},{type=11,value=32047595},},
+	},
+	[1132]={
+		star = 1132,
+		needitem = {{type=1,id=1010000,count=1125}},
+		attr = {{type=32,value=102745467},{type=5,value=26756632},{type=11,value=32107958},},
+	},
+	[1133]={
+		star = 1133,
+		needitem = {{type=1,id=1010000,count=1127}},
+		attr = {{type=32,value=102939010},{type=5,value=26807033},{type=11,value=32168440},},
+	},
+	[1134]={
+		star = 1134,
+		needitem = {{type=1,id=1010000,count=1129}},
+		attr = {{type=32,value=103132932},{type=5,value=26857534},{type=11,value=32229041},},
+	},
+	[1135]={
+		star = 1135,
+		needitem = {{type=1,id=1010000,count=1131}},
+		attr = {{type=32,value=103327235},{type=5,value=26908134},{type=11,value=32289761},},
+	},
+	[1136]={
+		star = 1136,
+		needitem = {{type=1,id=1010000,count=1133}},
+		attr = {{type=32,value=103521736},{type=5,value=26958785},{type=11,value=32350542},},
+	},
+	[1137]={
+		star = 1137,
+		needitem = {{type=1,id=1010000,count=1135}},
+		attr = {{type=32,value=103716617},{type=5,value=27009535},{type=11,value=32411443},},
+	},
+	[1138]={
+		star = 1138,
+		needitem = {{type=1,id=1010000,count=1137}},
+		attr = {{type=32,value=103911879},{type=5,value=27060385},{type=11,value=32472462},},
+	},
+	[1139]={
+		star = 1139,
+		needitem = {{type=1,id=1010000,count=1139}},
+		attr = {{type=32,value=104107521},{type=5,value=27111333},{type=11,value=32533600},},
+	},
+	[1140]={
+		star = 1140,
+		needitem = {{type=1,id=1010000,count=1141}},
+		attr = {{type=32,value=104303544},{type=5,value=27162381},{type=11,value=32594857},},
+	},
+	[1141]={
+		star = 1141,
+		needitem = {{type=1,id=1010000,count=1143}},
+		attr = {{type=32,value=104499764},{type=5,value=27213480},{type=11,value=32656176},},
+	},
+	[1142]={
+		star = 1142,
+		needitem = {{type=1,id=1010000,count=1145}},
+		attr = {{type=32,value=104696365},{type=5,value=27264678},{type=11,value=32717614},},
+	},
+	[1143]={
+		star = 1143,
+		needitem = {{type=1,id=1010000,count=1147}},
+		attr = {{type=32,value=104893346},{type=5,value=27315975},{type=11,value=32779170},},
+	},
+	[1144]={
+		star = 1144,
+		needitem = {{type=1,id=1010000,count=1149}},
+		attr = {{type=32,value=105090707},{type=5,value=27367371},{type=11,value=32840846},},
+	},
+	[1145]={
+		star = 1145,
+		needitem = {{type=1,id=1010000,count=1151}},
+		attr = {{type=32,value=105288449},{type=5,value=27418867},{type=11,value=32902640},},
+	},
+	[1146]={
+		star = 1146,
+		needitem = {{type=1,id=1010000,count=1153}},
+		attr = {{type=32,value=105486389},{type=5,value=27470413},{type=11,value=32964496},},
+	},
+	[1147]={
+		star = 1147,
+		needitem = {{type=1,id=1010000,count=1155}},
+		attr = {{type=32,value=105684709},{type=5,value=27522059},{type=11,value=33026471},},
+	},
+	[1148]={
+		star = 1148,
+		needitem = {{type=1,id=1010000,count=1157}},
+		attr = {{type=32,value=105883409},{type=5,value=27573804},{type=11,value=33088565},},
+	},
+	[1149]={
+		star = 1149,
+		needitem = {{type=1,id=1010000,count=1159}},
+		attr = {{type=32,value=106082490},{type=5,value=27625648},{type=11,value=33150778},},
+	},
+	[1150]={
+		star = 1150,
+		needitem = {{type=1,id=1010000,count=1161}},
+		attr = {{type=32,value=106281951},{type=5,value=27677591},{type=11,value=33213109},},
+	},
+	[1151]={
+		star = 1151,
+		needitem = {{type=1,id=1010000,count=1163}},
+		attr = {{type=32,value=106481611},{type=5,value=27729586},{type=11,value=33275503},},
+	},
+	[1152]={
+		star = 1152,
+		needitem = {{type=1,id=1010000,count=1165}},
+		attr = {{type=32,value=106681650},{type=5,value=27781679},{type=11,value=33338015},},
+	},
+	[1153]={
+		star = 1153,
+		needitem = {{type=1,id=1010000,count=1167}},
+		attr = {{type=32,value=106882070},{type=5,value=27833872},{type=11,value=33400647},},
+	},
+	[1154]={
+		star = 1154,
+		needitem = {{type=1,id=1010000,count=1169}},
+		attr = {{type=32,value=107082870},{type=5,value=27886164},{type=11,value=33463397},},
+	},
+	[1155]={
+		star = 1155,
+		needitem = {{type=1,id=1010000,count=1171}},
+		attr = {{type=32,value=107284051},{type=5,value=27938555},{type=11,value=33526266},},
+	},
+	[1156]={
+		star = 1156,
+		needitem = {{type=1,id=1010000,count=1173}},
+		attr = {{type=32,value=107485429},{type=5,value=27990997},{type=11,value=33589196},},
+	},
+	[1157]={
+		star = 1157,
+		needitem = {{type=1,id=1010000,count=1175}},
+		attr = {{type=32,value=107687188},{type=5,value=28043538},{type=11,value=33652246},},
+	},
+	[1158]={
+		star = 1158,
+		needitem = {{type=1,id=1010000,count=1177}},
+		attr = {{type=32,value=107889328},{type=5,value=28096179},{type=11,value=33715415},},
+	},
+	[1159]={
+		star = 1159,
+		needitem = {{type=1,id=1010000,count=1179}},
+		attr = {{type=32,value=108091847},{type=5,value=28148918},{type=11,value=33778702},},
+	},
+	[1160]={
+		star = 1160,
+		needitem = {{type=1,id=1010000,count=1181}},
+		attr = {{type=32,value=108294747},{type=5,value=28201757},{type=11,value=33842108},},
+	},
+	[1161]={
+		star = 1161,
+		needitem = {{type=1,id=1010000,count=1183}},
+		attr = {{type=32,value=108497845},{type=5,value=28254647},{type=11,value=33905576},},
+	},
+	[1162]={
+		star = 1162,
+		needitem = {{type=1,id=1010000,count=1185}},
+		attr = {{type=32,value=108701324},{type=5,value=28307636},{type=11,value=33969163},},
+	},
+	[1163]={
+		star = 1163,
+		needitem = {{type=1,id=1010000,count=1187}},
+		attr = {{type=32,value=108905182},{type=5,value=28360724},{type=11,value=34032869},},
+	},
+	[1164]={
+		star = 1164,
+		needitem = {{type=1,id=1010000,count=1189}},
+		attr = {{type=32,value=109109421},{type=5,value=28413911},{type=11,value=34096694},},
+	},
+	[1165]={
+		star = 1165,
+		needitem = {{type=1,id=1010000,count=1191}},
+		attr = {{type=32,value=109314041},{type=5,value=28467198},{type=11,value=34160637},},
+	},
+	[1166]={
+		star = 1166,
+		needitem = {{type=1,id=1010000,count=1193}},
+		attr = {{type=32,value=109518858},{type=5,value=28520536},{type=11,value=34224643},},
+	},
+	[1167]={
+		star = 1167,
+		needitem = {{type=1,id=1010000,count=1195}},
+		attr = {{type=32,value=109724056},{type=5,value=28573973},{type=11,value=34288767},},
+	},
+	[1168]={
+		star = 1168,
+		needitem = {{type=1,id=1010000,count=1197}},
+		attr = {{type=32,value=109929634},{type=5,value=28627508},{type=11,value=34353010},},
+	},
+	[1169]={
+		star = 1169,
+		needitem = {{type=1,id=1010000,count=1199}},
+		attr = {{type=32,value=110135592},{type=5,value=28681143},{type=11,value=34417372},},
+	},
+	[1170]={
+		star = 1170,
+		needitem = {{type=1,id=1010000,count=1201}},
+		attr = {{type=32,value=110341931},{type=5,value=28734878},{type=11,value=34481853},},
+	},
+	[1171]={
+		star = 1171,
+		needitem = {{type=1,id=1010000,count=1203}},
+		attr = {{type=32,value=110548468},{type=5,value=28788663},{type=11,value=34546396},},
+	},
+	[1172]={
+		star = 1172,
+		needitem = {{type=1,id=1010000,count=1205}},
+		attr = {{type=32,value=110755385},{type=5,value=28842548},{type=11,value=34611058},},
+	},
+	[1173]={
+		star = 1173,
+		needitem = {{type=1,id=1010000,count=1207}},
+		attr = {{type=32,value=110962683},{type=5,value=28896532},{type=11,value=34675838},},
+	},
+	[1174]={
+		star = 1174,
+		needitem = {{type=1,id=1010000,count=1209}},
+		attr = {{type=32,value=111170361},{type=5,value=28950614},{type=11,value=34740737},},
+	},
+	[1175]={
+		star = 1175,
+		needitem = {{type=1,id=1010000,count=1211}},
+		attr = {{type=32,value=111378419},{type=5,value=29004796},{type=11,value=34805756},},
+	},
+	[1176]={
+		star = 1176,
+		needitem = {{type=1,id=1010000,count=1213}},
+		attr = {{type=32,value=111586675},{type=5,value=29059030},{type=11,value=34870836},},
+	},
+	[1177]={
+		star = 1177,
+		needitem = {{type=1,id=1010000,count=1215}},
+		attr = {{type=32,value=111795311},{type=5,value=29113362},{type=11,value=34936034},},
+	},
+	[1178]={
+		star = 1178,
+		needitem = {{type=1,id=1010000,count=1217}},
+		attr = {{type=32,value=112004328},{type=5,value=29167793},{type=11,value=35001352},},
+	},
+	[1179]={
+		star = 1179,
+		needitem = {{type=1,id=1010000,count=1219}},
+		attr = {{type=32,value=112213726},{type=5,value=29222324},{type=11,value=35066789},},
+	},
+	[1180]={
+		star = 1180,
+		needitem = {{type=1,id=1010000,count=1221}},
+		attr = {{type=32,value=112423503},{type=5,value=29276954},{type=11,value=35132344},},
+	},
+	[1181]={
+		star = 1181,
+		needitem = {{type=1,id=1010000,count=1223}},
+		attr = {{type=32,value=112633479},{type=5,value=29331635},{type=11,value=35197962},},
+	},
+	[1182]={
+		star = 1182,
+		needitem = {{type=1,id=1010000,count=1225}},
+		attr = {{type=32,value=112843835},{type=5,value=29386415},{type=11,value=35263698},},
+	},
+	[1183]={
+		star = 1183,
+		needitem = {{type=1,id=1010000,count=1227}},
+		attr = {{type=32,value=113054571},{type=5,value=29441294},{type=11,value=35329553},},
+	},
+	[1184]={
+		star = 1184,
+		needitem = {{type=1,id=1010000,count=1229}},
+		attr = {{type=32,value=113265688},{type=5,value=29496272},{type=11,value=35395527},},
+	},
+	[1185]={
+		star = 1185,
+		needitem = {{type=1,id=1010000,count=1231}},
+		attr = {{type=32,value=113477185},{type=5,value=29551350},{type=11,value=35461620},},
+	},
+	[1186]={
+		star = 1186,
+		needitem = {{type=1,id=1010000,count=1233}},
+		attr = {{type=32,value=113688880},{type=5,value=29606479},{type=11,value=35527775},},
+	},
+	[1187]={
+		star = 1187,
+		needitem = {{type=1,id=1010000,count=1235}},
+		attr = {{type=32,value=113900955},{type=5,value=29661707},{type=11,value=35594048},},
+	},
+	[1188]={
+		star = 1188,
+		needitem = {{type=1,id=1010000,count=1237}},
+		attr = {{type=32,value=114113411},{type=5,value=29717034},{type=11,value=35660441},},
+	},
+	[1189]={
+		star = 1189,
+		needitem = {{type=1,id=1010000,count=1239}},
+		attr = {{type=32,value=114326247},{type=5,value=29772460},{type=11,value=35726952},},
+	},
+	[1190]={
+		star = 1190,
+		needitem = {{type=1,id=1010000,count=1241}},
+		attr = {{type=32,value=114539463},{type=5,value=29827985},{type=11,value=35793582},},
+	},
+	[1191]={
+		star = 1191,
+		needitem = {{type=1,id=1010000,count=1243}},
+		attr = {{type=32,value=114752878},{type=5,value=29883562},{type=11,value=35860274},},
+	},
+	[1192]={
+		star = 1192,
+		needitem = {{type=1,id=1010000,count=1245}},
+		attr = {{type=32,value=114966672},{type=5,value=29939237},{type=11,value=35927085},},
+	},
+	[1193]={
+		star = 1193,
+		needitem = {{type=1,id=1010000,count=1247}},
+		attr = {{type=32,value=115180848},{type=5,value=29995012},{type=11,value=35994015},},
+	},
+	[1194]={
+		star = 1194,
+		needitem = {{type=1,id=1010000,count=1249}},
+		attr = {{type=32,value=115395403},{type=5,value=30050886},{type=11,value=36061063},},
+	},
+	[1195]={
+		star = 1195,
+		needitem = {{type=1,id=1010000,count=1251}},
+		attr = {{type=32,value=115610339},{type=5,value=30106859},{type=11,value=36128231},},
+	},
+	[1196]={
+		star = 1196,
+		needitem = {{type=1,id=1010000,count=1253}},
+		attr = {{type=32,value=115825473},{type=5,value=30162883},{type=11,value=36195460},},
+	},
+	[1197]={
+		star = 1197,
+		needitem = {{type=1,id=1010000,count=1255}},
+		attr = {{type=32,value=116040987},{type=5,value=30219007},{type=11,value=36262808},},
+	},
+	[1198]={
+		star = 1198,
+		needitem = {{type=1,id=1010000,count=1257}},
+		attr = {{type=32,value=116256881},{type=5,value=30275229},{type=11,value=36330275},},
+	},
+	[1199]={
+		star = 1199,
+		needitem = {{type=1,id=1010000,count=1259}},
+		attr = {{type=32,value=116473156},{type=5,value=30331551},{type=11,value=36397861},},
+	},
+	[1200]={
+		star = 1200,
+		needitem = {{type=1,id=1010000,count=1261}},
+		attr = {{type=32,value=116689811},{type=5,value=30387971},{type=11,value=36465566},},
+	},
+	[1201]={
+		star = 1201,
+		needitem = {{type=1,id=1010000,count=1263}},
+		attr = {{type=32,value=116906665},{type=5,value=30444444},{type=11,value=36533332},},
+	},
+	[1202]={
+		star = 1202,
+		needitem = {{type=1,id=1010000,count=1265}},
+		attr = {{type=32,value=117123898},{type=5,value=30501015},{type=11,value=36601218},},
+	},
+	[1203]={
+		star = 1203,
+		needitem = {{type=1,id=1010000,count=1267}},
+		attr = {{type=32,value=117341512},{type=5,value=30557685},{type=11,value=36669222},},
+	},
+	[1204]={
+		star = 1204,
+		needitem = {{type=1,id=1010000,count=1269}},
+		attr = {{type=32,value=117559506},{type=5,value=30614454},{type=11,value=36737345},},
+	},
+	[1205]={
+		star = 1205,
+		needitem = {{type=1,id=1010000,count=1271}},
+		attr = {{type=32,value=117777881},{type=5,value=30671323},{type=11,value=36805587},},
+	},
+	[1206]={
+		star = 1206,
+		needitem = {{type=1,id=1010000,count=1273}},
+		attr = {{type=32,value=117996454},{type=5,value=30728243},{type=11,value=36873891},},
+	},
+	[1207]={
+		star = 1207,
+		needitem = {{type=1,id=1010000,count=1275}},
+		attr = {{type=32,value=118215407},{type=5,value=30785262},{type=11,value=36942314},},
+	},
+	[1208]={
+		star = 1208,
+		needitem = {{type=1,id=1010000,count=1277}},
+		attr = {{type=32,value=118434740},{type=5,value=30842380},{type=11,value=37010856},},
+	},
+	[1209]={
+		star = 1209,
+		needitem = {{type=1,id=1010000,count=1279}},
+		attr = {{type=32,value=118654454},{type=5,value=30899597},{type=11,value=37079516},},
+	},
+	[1210]={
+		star = 1210,
+		needitem = {{type=1,id=1010000,count=1281}},
+		attr = {{type=32,value=118874548},{type=5,value=30956913},{type=11,value=37148296},},
+	},
+	[1211]={
+		star = 1211,
+		needitem = {{type=1,id=1010000,count=1283}},
+		attr = {{type=32,value=119094840},{type=5,value=31014281},{type=11,value=37217137},},
+	},
+	[1212]={
+		star = 1212,
+		needitem = {{type=1,id=1010000,count=1285}},
+		attr = {{type=32,value=119315512},{type=5,value=31071748},{type=11,value=37286097},},
+	},
+	[1213]={
+		star = 1213,
+		needitem = {{type=1,id=1010000,count=1287}},
+		attr = {{type=32,value=119536565},{type=5,value=31129313},{type=11,value=37355176},},
+	},
+	[1214]={
+		star = 1214,
+		needitem = {{type=1,id=1010000,count=1289}},
+		attr = {{type=32,value=119757998},{type=5,value=31186978},{type=11,value=37424374},},
+	},
+	[1215]={
+		star = 1215,
+		needitem = {{type=1,id=1010000,count=1291}},
+		attr = {{type=32,value=119979811},{type=5,value=31244742},{type=11,value=37493691},},
+	},
+	[1216]={
+		star = 1216,
+		needitem = {{type=1,id=1010000,count=1293}},
+		attr = {{type=32,value=120201823},{type=5,value=31302558},{type=11,value=37563069},},
+	},
+	[1217]={
+		star = 1217,
+		needitem = {{type=1,id=1010000,count=1295}},
+		attr = {{type=32,value=120424214},{type=5,value=31360472},{type=11,value=37632567},},
+	},
+	[1218]={
+		star = 1218,
+		needitem = {{type=1,id=1010000,count=1297}},
+		attr = {{type=32,value=120646987},{type=5,value=31418486},{type=11,value=37702183},},
+	},
+	[1219]={
+		star = 1219,
+		needitem = {{type=1,id=1010000,count=1299}},
+		attr = {{type=32,value=120870139},{type=5,value=31476598},{type=11,value=37771918},},
+	},
+	[1220]={
+		star = 1220,
+		needitem = {{type=1,id=1010000,count=1301}},
+		attr = {{type=32,value=121093672},{type=5,value=31534810},{type=11,value=37841772},},
+	},
+	[1221]={
+		star = 1221,
+		needitem = {{type=1,id=1010000,count=1303}},
+		attr = {{type=32,value=121317403},{type=5,value=31593073},{type=11,value=37911688},},
+	},
+	[1222]={
+		star = 1222,
+		needitem = {{type=1,id=1010000,count=1305}},
+		attr = {{type=32,value=121541514},{type=5,value=31651436},{type=11,value=37981723},},
+	},
+	[1223]={
+		star = 1223,
+		needitem = {{type=1,id=1010000,count=1307}},
+		attr = {{type=32,value=121766005},{type=5,value=31709897},{type=11,value=38051876},},
+	},
+	[1224]={
+		star = 1224,
+		needitem = {{type=1,id=1010000,count=1309}},
+		attr = {{type=32,value=121990877},{type=5,value=31768457},{type=11,value=38122149},},
+	},
+	[1225]={
+		star = 1225,
+		needitem = {{type=1,id=1010000,count=1311}},
+		attr = {{type=32,value=122216130},{type=5,value=31827117},{type=11,value=38192540},},
+	},
+	[1226]={
+		star = 1226,
+		needitem = {{type=1,id=1010000,count=1313}},
+		attr = {{type=32,value=122441580},{type=5,value=31885828},{type=11,value=38262993},},
+	},
+	[1227]={
+		star = 1227,
+		needitem = {{type=1,id=1010000,count=1315}},
+		attr = {{type=32,value=122667410},{type=5,value=31944638},{type=11,value=38333565},},
+	},
+	[1228]={
+		star = 1228,
+		needitem = {{type=1,id=1010000,count=1317}},
+		attr = {{type=32,value=122893621},{type=5,value=32003547},{type=11,value=38404256},},
+	},
+	[1229]={
+		star = 1229,
+		needitem = {{type=1,id=1010000,count=1319}},
+		attr = {{type=32,value=123120213},{type=5,value=32062555},{type=11,value=38475066},},
+	},
+	[1230]={
+		star = 1230,
+		needitem = {{type=1,id=1010000,count=1321}},
+		attr = {{type=32,value=123347184},{type=5,value=32121662},{type=11,value=38545995},},
+	},
+	[1231]={
+		star = 1231,
+		needitem = {{type=1,id=1010000,count=1323}},
+		attr = {{type=32,value=123574354},{type=5,value=32180821},{type=11,value=38616985},},
+	},
+	[1232]={
+		star = 1232,
+		needitem = {{type=1,id=1010000,count=1325}},
+		attr = {{type=32,value=123801904},{type=5,value=32240079},{type=11,value=38688095},},
+	},
+	[1233]={
+		star = 1233,
+		needitem = {{type=1,id=1010000,count=1327}},
+		attr = {{type=32,value=124029834},{type=5,value=32299436},{type=11,value=38759323},},
+	},
+	[1234]={
+		star = 1234,
+		needitem = {{type=1,id=1010000,count=1329}},
+		attr = {{type=32,value=124258145},{type=5,value=32358892},{type=11,value=38830670},},
+	},
+	[1235]={
+		star = 1235,
+		needitem = {{type=1,id=1010000,count=1331}},
+		attr = {{type=32,value=124486836},{type=5,value=32418446},{type=11,value=38902136},},
+	},
+	[1236]={
+		star = 1236,
+		needitem = {{type=1,id=1010000,count=1333}},
+		attr = {{type=32,value=124715725},{type=5,value=32478053},{type=11,value=38973664},},
+	},
+	[1237]={
+		star = 1237,
+		needitem = {{type=1,id=1010000,count=1335}},
+		attr = {{type=32,value=124944994},{type=5,value=32537759},{type=11,value=39045310},},
+	},
+	[1238]={
+		star = 1238,
+		needitem = {{type=1,id=1010000,count=1337}},
+		attr = {{type=32,value=125174644},{type=5,value=32597563},{type=11,value=39117076},},
+	},
+	[1239]={
+		star = 1239,
+		needitem = {{type=1,id=1010000,count=1339}},
+		attr = {{type=32,value=125404674},{type=5,value=32657467},{type=11,value=39188960},},
+	},
+	[1240]={
+		star = 1240,
+		needitem = {{type=1,id=1010000,count=1341}},
+		attr = {{type=32,value=125635085},{type=5,value=32717470},{type=11,value=39260964},},
+	},
+	[1241]={
+		star = 1241,
+		needitem = {{type=1,id=1010000,count=1343}},
+		attr = {{type=32,value=125865693},{type=5,value=32777524},{type=11,value=39333029},},
+	},
+	[1242]={
+		star = 1242,
+		needitem = {{type=1,id=1010000,count=1345}},
+		attr = {{type=32,value=126096682},{type=5,value=32837677},{type=11,value=39405213},},
+	},
+	[1243]={
+		star = 1243,
+		needitem = {{type=1,id=1010000,count=1347}},
+		attr = {{type=32,value=126328051},{type=5,value=32897930},{type=11,value=39477516},},
+	},
+	[1244]={
+		star = 1244,
+		needitem = {{type=1,id=1010000,count=1349}},
+		attr = {{type=32,value=126559800},{type=5,value=32958281},{type=11,value=39549937},},
+	},
+	[1245]={
+		star = 1245,
+		needitem = {{type=1,id=1010000,count=1351}},
+		attr = {{type=32,value=126791930},{type=5,value=33018731},{type=11,value=39622478},},
+	},
+	[1246]={
+		star = 1246,
+		needitem = {{type=1,id=1010000,count=1353}},
+		attr = {{type=32,value=127024258},{type=5,value=33079234},{type=11,value=39695080},},
+	},
+	[1247]={
+		star = 1247,
+		needitem = {{type=1,id=1010000,count=1355}},
+		attr = {{type=32,value=127256966},{type=5,value=33139835},{type=11,value=39767802},},
+	},
+	[1248]={
+		star = 1248,
+		needitem = {{type=1,id=1010000,count=1357}},
+		attr = {{type=32,value=127490055},{type=5,value=33200535},{type=11,value=39840642},},
+	},
+	[1249]={
+		star = 1249,
+		needitem = {{type=1,id=1010000,count=1359}},
+		attr = {{type=32,value=127723524},{type=5,value=33261334},{type=11,value=39913601},},
+	},
+	[1250]={
+		star = 1250,
+		needitem = {{type=1,id=1010000,count=1361}},
+		attr = {{type=32,value=127957373},{type=5,value=33322232},{type=11,value=39986679},},
+	},
+	[1251]={
+		star = 1251,
+		needitem = {{type=1,id=1010000,count=1363}},
+		attr = {{type=32,value=128191420},{type=5,value=33383182},{type=11,value=40059818},},
+	},
+	[1252]={
+		star = 1252,
+		needitem = {{type=1,id=1010000,count=1365}},
+		attr = {{type=32,value=128425848},{type=5,value=33444231},{type=11,value=40133077},},
+	},
+	[1253]={
+		star = 1253,
+		needitem = {{type=1,id=1010000,count=1367}},
+		attr = {{type=32,value=128660656},{type=5,value=33505379},{type=11,value=40206455},},
+	},
+	[1254]={
+		star = 1254,
+		needitem = {{type=1,id=1010000,count=1369}},
+		attr = {{type=32,value=128895844},{type=5,value=33566626},{type=11,value=40279951},},
+	},
+	[1255]={
+		star = 1255,
+		needitem = {{type=1,id=1010000,count=1371}},
+		attr = {{type=32,value=129131413},{type=5,value=33627972},{type=11,value=40353566},},
+	},
+	[1256]={
+		star = 1256,
+		needitem = {{type=1,id=1010000,count=1373}},
+		attr = {{type=32,value=129367179},{type=5,value=33689369},{type=11,value=40427243},},
+	},
+	[1257]={
+		star = 1257,
+		needitem = {{type=1,id=1010000,count=1375}},
+		attr = {{type=32,value=129603326},{type=5,value=33750866},{type=11,value=40501039},},
+	},
+	[1258]={
+		star = 1258,
+		needitem = {{type=1,id=1010000,count=1377}},
+		attr = {{type=32,value=129839854},{type=5,value=33812462},{type=11,value=40574954},},
+	},
+	[1259]={
+		star = 1259,
+		needitem = {{type=1,id=1010000,count=1379}},
+		attr = {{type=32,value=130076761},{type=5,value=33874156},{type=11,value=40648988},},
+	},
+	[1260]={
+		star = 1260,
+		needitem = {{type=1,id=1010000,count=1381}},
+		attr = {{type=32,value=130314050},{type=5,value=33935950},{type=11,value=40723140},},
+	},
+	[1261]={
+		star = 1261,
+		needitem = {{type=1,id=1010000,count=1383}},
+		attr = {{type=32,value=130551536},{type=5,value=33997795},{type=11,value=40797355},},
+	},
+	[1262]={
+		star = 1262,
+		needitem = {{type=1,id=1010000,count=1385}},
+		attr = {{type=32,value=130789402},{type=5,value=34059740},{type=11,value=40871688},},
+	},
+	[1263]={
+		star = 1263,
+		needitem = {{type=1,id=1010000,count=1387}},
+		attr = {{type=32,value=131027649},{type=5,value=34121783},{type=11,value=40946140},},
+	},
+	[1264]={
+		star = 1264,
+		needitem = {{type=1,id=1010000,count=1389}},
+		attr = {{type=32,value=131266276},{type=5,value=34183926},{type=11,value=41020711},},
+	},
+	[1265]={
+		star = 1265,
+		needitem = {{type=1,id=1010000,count=1391}},
+		attr = {{type=32,value=131505283},{type=5,value=34246167},{type=11,value=41095401},},
+	},
+	[1266]={
+		star = 1266,
+		needitem = {{type=1,id=1010000,count=1393}},
+		attr = {{type=32,value=131744489},{type=5,value=34308460},{type=11,value=41170152},},
+	},
+	[1267]={
+		star = 1267,
+		needitem = {{type=1,id=1010000,count=1395}},
+		attr = {{type=32,value=131984075},{type=5,value=34370852},{type=11,value=41245023},},
+	},
+	[1268]={
+		star = 1268,
+		needitem = {{type=1,id=1010000,count=1397}},
+		attr = {{type=32,value=132224041},{type=5,value=34433344},{type=11,value=41320012},},
+	},
+	[1269]={
+		star = 1269,
+		needitem = {{type=1,id=1010000,count=1399}},
+		attr = {{type=32,value=132464387},{type=5,value=34495934},{type=11,value=41395121},},
+	},
+	[1270]={
+		star = 1270,
+		needitem = {{type=1,id=1010000,count=1401}},
+		attr = {{type=32,value=132705114},{type=5,value=34558623},{type=11,value=41470348},},
+	},
+	[1271]={
+		star = 1271,
+		needitem = {{type=1,id=1010000,count=1403}},
+		attr = {{type=32,value=132946039},{type=5,value=34621364},{type=11,value=41545637},},
+	},
+	[1272]={
+		star = 1272,
+		needitem = {{type=1,id=1010000,count=1405}},
+		attr = {{type=32,value=133187344},{type=5,value=34684204},{type=11,value=41621045},},
+	},
+	[1273]={
+		star = 1273,
+		needitem = {{type=1,id=1010000,count=1407}},
+		attr = {{type=32,value=133429030},{type=5,value=34747143},{type=11,value=41696571},},
+	},
+	[1274]={
+		star = 1274,
+		needitem = {{type=1,id=1010000,count=1409}},
+		attr = {{type=32,value=133671096},{type=5,value=34810181},{type=11,value=41772217},},
+	},
+	[1275]={
+		star = 1275,
+		needitem = {{type=1,id=1010000,count=1411}},
+		attr = {{type=32,value=133913542},{type=5,value=34873318},{type=11,value=41847981},},
+	},
+	[1276]={
+		star = 1276,
+		needitem = {{type=1,id=1010000,count=1413}},
+		attr = {{type=32,value=134156186},{type=5,value=34936506},{type=11,value=41923808},},
+	},
+	[1277]={
+		star = 1277,
+		needitem = {{type=1,id=1010000,count=1415}},
+		attr = {{type=32,value=134399211},{type=5,value=34999794},{type=11,value=41999753},},
+	},
+	[1278]={
+		star = 1278,
+		needitem = {{type=1,id=1010000,count=1417}},
+		attr = {{type=32,value=134642616},{type=5,value=35063181},{type=11,value=42075817},},
+	},
+	[1279]={
+		star = 1279,
+		needitem = {{type=1,id=1010000,count=1419}},
+		attr = {{type=32,value=134886401},{type=5,value=35126667},{type=11,value=42152000},},
+	},
+	[1280]={
+		star = 1280,
+		needitem = {{type=1,id=1010000,count=1421}},
+		attr = {{type=32,value=135130567},{type=5,value=35190251},{type=11,value=42228302},},
+	},
+	[1281]={
+		star = 1281,
+		needitem = {{type=1,id=1010000,count=1423}},
+		attr = {{type=32,value=135374930},{type=5,value=35253888},{type=11,value=42304665},},
+	},
+	[1282]={
+		star = 1282,
+		needitem = {{type=1,id=1010000,count=1425}},
+		attr = {{type=32,value=135619674},{type=5,value=35317623},{type=11,value=42381148},},
+	},
+	[1283]={
+		star = 1283,
+		needitem = {{type=1,id=1010000,count=1427}},
+		attr = {{type=32,value=135864799},{type=5,value=35381458},{type=11,value=42457749},},
+	},
+	[1284]={
+		star = 1284,
+		needitem = {{type=1,id=1010000,count=1429}},
+		attr = {{type=32,value=136110303},{type=5,value=35445391},{type=11,value=42534469},},
+	},
+	[1285]={
+		star = 1285,
+		needitem = {{type=1,id=1010000,count=1431}},
+		attr = {{type=32,value=136356188},{type=5,value=35509424},{type=11,value=42611309},},
+	},
+	[1286]={
+		star = 1286,
+		needitem = {{type=1,id=1010000,count=1433}},
+		attr = {{type=32,value=136602272},{type=5,value=35573508},{type=11,value=42688210},},
+	},
+	[1287]={
+		star = 1287,
+		needitem = {{type=1,id=1010000,count=1435}},
+		attr = {{type=32,value=136848735},{type=5,value=35637691},{type=11,value=42765229},},
+	},
+	[1288]={
+		star = 1288,
+		needitem = {{type=1,id=1010000,count=1437}},
+		attr = {{type=32,value=137095579},{type=5,value=35701973},{type=11,value=42842368},},
+	},
+	[1289]={
+		star = 1289,
+		needitem = {{type=1,id=1010000,count=1439}},
+		attr = {{type=32,value=137342803},{type=5,value=35766355},{type=11,value=42919626},},
+	},
+	[1290]={
+		star = 1290,
+		needitem = {{type=1,id=1010000,count=1441}},
+		attr = {{type=32,value=137590407},{type=5,value=35830835},{type=11,value=42997002},},
+	},
+	[1291]={
+		star = 1291,
+		needitem = {{type=1,id=1010000,count=1443}},
+		attr = {{type=32,value=137838210},{type=5,value=35895367},{type=11,value=43074440},},
+	},
+	[1292]={
+		star = 1292,
+		needitem = {{type=1,id=1010000,count=1445}},
+		attr = {{type=32,value=138086393},{type=5,value=35959998},{type=11,value=43151997},},
+	},
+	[1293]={
+		star = 1293,
+		needitem = {{type=1,id=1010000,count=1447}},
+		attr = {{type=32,value=138334956},{type=5,value=36024728},{type=11,value=43229673},},
+	},
+	[1294]={
+		star = 1294,
+		needitem = {{type=1,id=1010000,count=1449}},
+		attr = {{type=32,value=138583899},{type=5,value=36089557},{type=11,value=43307468},},
+	},
+	[1295]={
+		star = 1295,
+		needitem = {{type=1,id=1010000,count=1451}},
+		attr = {{type=32,value=138833223},{type=5,value=36154485},{type=11,value=43385382},},
+	},
+	[1296]={
+		star = 1296,
+		needitem = {{type=1,id=1010000,count=1453}},
+		attr = {{type=32,value=139082745},{type=5,value=36219464},{type=11,value=43463357},},
+	},
+	[1297]={
+		star = 1297,
+		needitem = {{type=1,id=1010000,count=1455}},
+		attr = {{type=32,value=139332647},{type=5,value=36284543},{type=11,value=43541452},},
+	},
+	[1298]={
+		star = 1298,
+		needitem = {{type=1,id=1010000,count=1457}},
+		attr = {{type=32,value=139582930},{type=5,value=36349721},{type=11,value=43619665},},
+	},
+	[1299]={
+		star = 1299,
+		needitem = {{type=1,id=1010000,count=1459}},
+		attr = {{type=32,value=139833593},{type=5,value=36414998},{type=11,value=43697997},},
+	},
+	[1300]={
+		star = 1300,
+		needitem = {{type=1,id=1010000,count=1461}},
+		attr = {{type=32,value=140084636},{type=5,value=36480374},{type=11,value=43776448},},
+	},
+	[1301]={
+		star = 1301,
+		needitem = {{type=1,id=1010000,count=1463}},
+		attr = {{type=32,value=140335877},{type=5,value=36545801},{type=11,value=43854961},},
+	},
+	[1302]={
+		star = 1302,
+		needitem = {{type=1,id=1010000,count=1465}},
+		attr = {{type=32,value=140587499},{type=5,value=36611327},{type=11,value=43933593},},
+	},
+	[1303]={
+		star = 1303,
+		needitem = {{type=1,id=1010000,count=1467}},
+		attr = {{type=32,value=140839501},{type=5,value=36676953},{type=11,value=44012344},},
+	},
+	[1304]={
+		star = 1304,
+		needitem = {{type=1,id=1010000,count=1469}},
+		attr = {{type=32,value=141091883},{type=5,value=36742678},{type=11,value=44091213},},
+	},
+	[1305]={
+		star = 1305,
+		needitem = {{type=1,id=1010000,count=1471}},
+		attr = {{type=32,value=141344646},{type=5,value=36808501},{type=11,value=44170202},},
+	},
+	[1306]={
+		star = 1306,
+		needitem = {{type=1,id=1010000,count=1473}},
+		attr = {{type=32,value=141597607},{type=5,value=36874376},{type=11,value=44249252},},
+	},
+	[1307]={
+		star = 1307,
+		needitem = {{type=1,id=1010000,count=1475}},
+		attr = {{type=32,value=141850948},{type=5,value=36940351},{type=11,value=44328421},},
+	},
+	[1308]={
+		star = 1308,
+		needitem = {{type=1,id=1010000,count=1477}},
+		attr = {{type=32,value=142104669},{type=5,value=37006424},{type=11,value=44407709},},
+	},
+	[1309]={
+		star = 1309,
+		needitem = {{type=1,id=1010000,count=1479}},
+		attr = {{type=32,value=142358771},{type=5,value=37072596},{type=11,value=44487116},},
+	},
+	[1310]={
+		star = 1310,
+		needitem = {{type=1,id=1010000,count=1481}},
+		attr = {{type=32,value=142613253},{type=5,value=37138868},{type=11,value=44566641},},
+	},
+	[1311]={
+		star = 1311,
+		needitem = {{type=1,id=1010000,count=1483}},
+		attr = {{type=32,value=142867933},{type=5,value=37205190},{type=11,value=44646229},},
+	},
+	[1312]={
+		star = 1312,
+		needitem = {{type=1,id=1010000,count=1485}},
+		attr = {{type=32,value=143122993},{type=5,value=37271612},{type=11,value=44725935},},
+	},
+	[1313]={
+		star = 1313,
+		needitem = {{type=1,id=1010000,count=1487}},
+		attr = {{type=32,value=143378434},{type=5,value=37338134},{type=11,value=44805760},},
+	},
+	[1314]={
+		star = 1314,
+		needitem = {{type=1,id=1010000,count=1489}},
+		attr = {{type=32,value=143634255},{type=5,value=37404754},{type=11,value=44885704},},
+	},
+	[1315]={
+		star = 1315,
+		needitem = {{type=1,id=1010000,count=1491}},
+		attr = {{type=32,value=143890457},{type=5,value=37471473},{type=11,value=44965767},},
+	},
+	[1316]={
+		star = 1316,
+		needitem = {{type=1,id=1010000,count=1493}},
+		attr = {{type=32,value=144146856},{type=5,value=37538243},{type=11,value=45045892},},
+	},
+	[1317]={
+		star = 1317,
+		needitem = {{type=1,id=1010000,count=1495}},
+		attr = {{type=32,value=144403636},{type=5,value=37605113},{type=11,value=45126136},},
+	},
+	[1318]={
+		star = 1318,
+		needitem = {{type=1,id=1010000,count=1497}},
+		attr = {{type=32,value=144660796},{type=5,value=37672082},{type=11,value=45206498},},
+	},
+	[1319]={
+		star = 1319,
+		needitem = {{type=1,id=1010000,count=1499}},
+		attr = {{type=32,value=144918337},{type=5,value=37739150},{type=11,value=45286980},},
+	},
+	[1320]={
+		star = 1320,
+		needitem = {{type=1,id=1010000,count=1501}},
+		attr = {{type=32,value=145176258},{type=5,value=37806317},{type=11,value=45367580},},
+	},
+	[1321]={
+		star = 1321,
+		needitem = {{type=1,id=1010000,count=1503}},
+		attr = {{type=32,value=145434377},{type=5,value=37873535},{type=11,value=45448242},},
+	},
+	[1322]={
+		star = 1322,
+		needitem = {{type=1,id=1010000,count=1505}},
+		attr = {{type=32,value=145692876},{type=5,value=37940853},{type=11,value=45529023},},
+	},
+	[1323]={
+		star = 1323,
+		needitem = {{type=1,id=1010000,count=1507}},
+		attr = {{type=32,value=145951755},{type=5,value=38008269},{type=11,value=45609923},},
+	},
+	[1324]={
+		star = 1324,
+		needitem = {{type=1,id=1010000,count=1509}},
+		attr = {{type=32,value=146211015},{type=5,value=38075785},{type=11,value=45690942},},
+	},
+	[1325]={
+		star = 1325,
+		needitem = {{type=1,id=1010000,count=1511}},
+		attr = {{type=32,value=146470656},{type=5,value=38143400},{type=11,value=45772080},},
+	},
+	[1326]={
+		star = 1326,
+		needitem = {{type=1,id=1010000,count=1513}},
+		attr = {{type=32,value=146730494},{type=5,value=38211066},{type=11,value=45853279},},
+	},
+	[1327]={
+		star = 1327,
+		needitem = {{type=1,id=1010000,count=1515}},
+		attr = {{type=32,value=146990713},{type=5,value=38278831},{type=11,value=45934597},},
+	},
+	[1328]={
+		star = 1328,
+		needitem = {{type=1,id=1010000,count=1517}},
+		attr = {{type=32,value=147251312},{type=5,value=38346695},{type=11,value=46016035},},
+	},
+	[1329]={
+		star = 1329,
+		needitem = {{type=1,id=1010000,count=1519}},
+		attr = {{type=32,value=147512291},{type=5,value=38414659},{type=11,value=46097591},},
+	},
+	[1330]={
+		star = 1330,
+		needitem = {{type=1,id=1010000,count=1521}},
+		attr = {{type=32,value=147773651},{type=5,value=38482721},{type=11,value=46179265},},
+	},
+	[1331]={
+		star = 1331,
+		needitem = {{type=1,id=1010000,count=1523}},
+		attr = {{type=32,value=148035208},{type=5,value=38550835},{type=11,value=46261002},},
+	},
+	[1332]={
+		star = 1332,
+		needitem = {{type=1,id=1010000,count=1525}},
+		attr = {{type=32,value=148297146},{type=5,value=38619048},{type=11,value=46342858},},
+	},
+	[1333]={
+		star = 1333,
+		needitem = {{type=1,id=1010000,count=1527}},
+		attr = {{type=32,value=148559465},{type=5,value=38687360},{type=11,value=46424832},},
+	},
+	[1334]={
+		star = 1334,
+		needitem = {{type=1,id=1010000,count=1529}},
+		attr = {{type=32,value=148822163},{type=5,value=38755771},{type=11,value=46506926},},
+	},
+	[1335]={
+		star = 1335,
+		needitem = {{type=1,id=1010000,count=1531}},
+		attr = {{type=32,value=149085243},{type=5,value=38824282},{type=11,value=46589138},},
+	},
+	[1336]={
+		star = 1336,
+		needitem = {{type=1,id=1010000,count=1533}},
+		attr = {{type=32,value=149348520},{type=5,value=38892843},{type=11,value=46671412},},
+	},
+	[1337]={
+		star = 1337,
+		needitem = {{type=1,id=1010000,count=1535}},
+		attr = {{type=32,value=149612177},{type=5,value=38961504},{type=11,value=46753805},},
+	},
+	[1338]={
+		star = 1338,
+		needitem = {{type=1,id=1010000,count=1537}},
+		attr = {{type=32,value=149876215},{type=5,value=39030264},{type=11,value=46836317},},
+	},
+	[1339]={
+		star = 1339,
+		needitem = {{type=1,id=1010000,count=1539}},
+		attr = {{type=32,value=150140633},{type=5,value=39099123},{type=11,value=46918947},},
+	},
+	[1340]={
+		star = 1340,
+		needitem = {{type=1,id=1010000,count=1541}},
+		attr = {{type=32,value=150405432},{type=5,value=39168081},{type=11,value=47001697},},
+	},
+	[1341]={
+		star = 1341,
+		needitem = {{type=1,id=1010000,count=1543}},
+		attr = {{type=32,value=150670428},{type=5,value=39237090},{type=11,value=47084508},},
+	},
+	[1342]={
+		star = 1342,
+		needitem = {{type=1,id=1010000,count=1545}},
+		attr = {{type=32,value=150935805},{type=5,value=39306199},{type=11,value=47167439},},
+	},
+	[1343]={
+		star = 1343,
+		needitem = {{type=1,id=1010000,count=1547}},
+		attr = {{type=32,value=151201562},{type=5,value=39375406},{type=11,value=47250488},},
+	},
+	[1344]={
+		star = 1344,
+		needitem = {{type=1,id=1010000,count=1549}},
+		attr = {{type=32,value=151467700},{type=5,value=39444713},{type=11,value=47333656},},
+	},
+	[1345]={
+		star = 1345,
+		needitem = {{type=1,id=1010000,count=1551}},
+		attr = {{type=32,value=151734218},{type=5,value=39514119},{type=11,value=47416943},},
+	},
+	[1346]={
+		star = 1346,
+		needitem = {{type=1,id=1010000,count=1553}},
+		attr = {{type=32,value=152000933},{type=5,value=39583576},{type=11,value=47500291},},
+	},
+	[1347]={
+		star = 1347,
+		needitem = {{type=1,id=1010000,count=1555}},
+		attr = {{type=32,value=152268030},{type=5,value=39653132},{type=11,value=47583759},},
+	},
+	[1348]={
+		star = 1348,
+		needitem = {{type=1,id=1010000,count=1557}},
+		attr = {{type=32,value=152535506},{type=5,value=39722788},{type=11,value=47667345},},
+	},
+	[1349]={
+		star = 1349,
+		needitem = {{type=1,id=1010000,count=1559}},
+		attr = {{type=32,value=152803363},{type=5,value=39792542},{type=11,value=47751051},},
+	},
+	[1350]={
+		star = 1350,
+		needitem = {{type=1,id=1010000,count=1561}},
+		attr = {{type=32,value=153071601},{type=5,value=39862396},{type=11,value=47834875},},
+	},
+	[1351]={
+		star = 1351,
+		needitem = {{type=1,id=1010000,count=1563}},
+		attr = {{type=32,value=153340036},{type=5,value=39932301},{type=11,value=47918761},},
+	},
+	[1352]={
+		star = 1352,
+		needitem = {{type=1,id=1010000,count=1565}},
+		attr = {{type=32,value=153608852},{type=5,value=40002305},{type=11,value=48002766},},
+	},
+	[1353]={
+		star = 1353,
+		needitem = {{type=1,id=1010000,count=1567}},
+		attr = {{type=32,value=153878048},{type=5,value=40072408},{type=11,value=48086890},},
+	},
+	[1354]={
+		star = 1354,
+		needitem = {{type=1,id=1010000,count=1569}},
+		attr = {{type=32,value=154147624},{type=5,value=40142610},{type=11,value=48171132},},
+	},
+	[1355]={
+		star = 1355,
+		needitem = {{type=1,id=1010000,count=1571}},
+		attr = {{type=32,value=154417581},{type=5,value=40212911},{type=11,value=48255494},},
+	},
+	[1356]={
+		star = 1356,
+		needitem = {{type=1,id=1010000,count=1573}},
+		attr = {{type=32,value=154687735},{type=5,value=40283264},{type=11,value=48339917},},
+	},
+	[1357]={
+		star = 1357,
+		needitem = {{type=1,id=1010000,count=1575}},
+		attr = {{type=32,value=154958270},{type=5,value=40353716},{type=11,value=48424459},},
+	},
+	[1358]={
+		star = 1358,
+		needitem = {{type=1,id=1010000,count=1577}},
+		attr = {{type=32,value=155229186},{type=5,value=40424267},{type=11,value=48509120},},
+	},
+	[1359]={
+		star = 1359,
+		needitem = {{type=1,id=1010000,count=1579}},
+		attr = {{type=32,value=155500482},{type=5,value=40494917},{type=11,value=48593900},},
+	},
+	[1360]={
+		star = 1360,
+		needitem = {{type=1,id=1010000,count=1581}},
+		attr = {{type=32,value=155772158},{type=5,value=40565666},{type=11,value=48678799},},
+	},
+	[1361]={
+		star = 1361,
+		needitem = {{type=1,id=1010000,count=1583}},
+		attr = {{type=32,value=156044032},{type=5,value=40636466},{type=11,value=48763760},},
+	},
+	[1362]={
+		star = 1362,
+		needitem = {{type=1,id=1010000,count=1585}},
+		attr = {{type=32,value=156316286},{type=5,value=40707366},{type=11,value=48848839},},
+	},
+	[1363]={
+		star = 1363,
+		needitem = {{type=1,id=1010000,count=1587}},
+		attr = {{type=32,value=156588921},{type=5,value=40778364},{type=11,value=48934037},},
+	},
+	[1364]={
+		star = 1364,
+		needitem = {{type=1,id=1010000,count=1589}},
+		attr = {{type=32,value=156861936},{type=5,value=40849462},{type=11,value=49019355},},
+	},
+	[1365]={
+		star = 1365,
+		needitem = {{type=1,id=1010000,count=1591}},
+		attr = {{type=32,value=157135332},{type=5,value=40920659},{type=11,value=49104791},},
+	},
+	[1366]={
+		star = 1366,
+		needitem = {{type=1,id=1010000,count=1593}},
+		attr = {{type=32,value=157408925},{type=5,value=40991907},{type=11,value=49190289},},
+	},
+	[1367]={
+		star = 1367,
+		needitem = {{type=1,id=1010000,count=1595}},
+		attr = {{type=32,value=157682899},{type=5,value=41063255},{type=11,value=49275906},},
+	},
+	[1368]={
+		star = 1368,
+		needitem = {{type=1,id=1010000,count=1597}},
+		attr = {{type=32,value=157957253},{type=5,value=41134701},{type=11,value=49361641},},
+	},
+	[1369]={
+		star = 1369,
+		needitem = {{type=1,id=1010000,count=1599}},
+		attr = {{type=32,value=158231988},{type=5,value=41206246},{type=11,value=49447496},},
+	},
+	[1370]={
+		star = 1370,
+		needitem = {{type=1,id=1010000,count=1601}},
+		attr = {{type=32,value=158507103},{type=5,value=41277891},{type=11,value=49533469},},
+	},
+	[1371]={
+		star = 1371,
+		needitem = {{type=1,id=1010000,count=1603}},
+		attr = {{type=32,value=158782416},{type=5,value=41349587},{type=11,value=49619505},},
+	},
+	[1372]={
+		star = 1372,
+		needitem = {{type=1,id=1010000,count=1605}},
+		attr = {{type=32,value=159058109},{type=5,value=41421382},{type=11,value=49705659},},
+	},
+	[1373]={
+		star = 1373,
+		needitem = {{type=1,id=1010000,count=1607}},
+		attr = {{type=32,value=159334183},{type=5,value=41493276},{type=11,value=49791932},},
+	},
+	[1374]={
+		star = 1374,
+		needitem = {{type=1,id=1010000,count=1609}},
+		attr = {{type=32,value=159610637},{type=5,value=41565270},{type=11,value=49878324},},
+	},
+	[1375]={
+		star = 1375,
+		needitem = {{type=1,id=1010000,count=1611}},
+		attr = {{type=32,value=159887471},{type=5,value=41637362},{type=11,value=49964834},},
+	},
+	[1376]={
+		star = 1376,
+		needitem = {{type=1,id=1010000,count=1613}},
+		attr = {{type=32,value=160164503},{type=5,value=41709506},{type=11,value=50051407},},
+	},
+	[1377]={
+		star = 1377,
+		needitem = {{type=1,id=1010000,count=1615}},
+		attr = {{type=32,value=160441916},{type=5,value=41781749},{type=11,value=50138098},},
+	},
+	[1378]={
+		star = 1378,
+		needitem = {{type=1,id=1010000,count=1617}},
+		attr = {{type=32,value=160719709},{type=5,value=41854090},{type=11,value=50224909},},
+	},
+	[1379]={
+		star = 1379,
+		needitem = {{type=1,id=1010000,count=1619}},
+		attr = {{type=32,value=160997882},{type=5,value=41926531},{type=11,value=50311838},},
+	},
+	[1380]={
+		star = 1380,
+		needitem = {{type=1,id=1010000,count=1621}},
+		attr = {{type=32,value=161276436},{type=5,value=41999072},{type=11,value=50398886},},
+	},
+	[1381]={
+		star = 1381,
+		needitem = {{type=1,id=1010000,count=1623}},
+		attr = {{type=32,value=161555188},{type=5,value=42071663},{type=11,value=50485996},},
+	},
+	[1382]={
+		star = 1382,
+		needitem = {{type=1,id=1010000,count=1625}},
+		attr = {{type=32,value=161834320},{type=5,value=42144354},{type=11,value=50573225},},
+	},
+	[1383]={
+		star = 1383,
+		needitem = {{type=1,id=1010000,count=1627}},
+		attr = {{type=32,value=162113832},{type=5,value=42217143},{type=11,value=50660572},},
+	},
+	[1384]={
+		star = 1384,
+		needitem = {{type=1,id=1010000,count=1629}},
+		attr = {{type=32,value=162393725},{type=5,value=42290032},{type=11,value=50748039},},
+	},
+	[1385]={
+		star = 1385,
+		needitem = {{type=1,id=1010000,count=1631}},
+		attr = {{type=32,value=162673998},{type=5,value=42363020},{type=11,value=50835624},},
+	},
+	[1386]={
+		star = 1386,
+		needitem = {{type=1,id=1010000,count=1633}},
+		attr = {{type=32,value=162954469},{type=5,value=42436059},{type=11,value=50923271},},
+	},
+	[1387]={
+		star = 1387,
+		needitem = {{type=1,id=1010000,count=1635}},
+		attr = {{type=32,value=163235321},{type=5,value=42509198},{type=11,value=51011037},},
+	},
+	[1388]={
+		star = 1388,
+		needitem = {{type=1,id=1010000,count=1637}},
+		attr = {{type=32,value=163516553},{type=5,value=42582435},{type=11,value=51098922},},
+	},
+	[1389]={
+		star = 1389,
+		needitem = {{type=1,id=1010000,count=1639}},
+		attr = {{type=32,value=163798165},{type=5,value=42655772},{type=11,value=51186926},},
+	},
+	[1390]={
+		star = 1390,
+		needitem = {{type=1,id=1010000,count=1641}},
+		attr = {{type=32,value=164080157},{type=5,value=42729207},{type=11,value=51275049},},
+	},
+	[1391]={
+		star = 1391,
+		needitem = {{type=1,id=1010000,count=1643}},
+		attr = {{type=32,value=164362348},{type=5,value=42802694},{type=11,value=51363233},},
+	},
+	[1392]={
+		star = 1392,
+		needitem = {{type=1,id=1010000,count=1645}},
+		attr = {{type=32,value=164644919},{type=5,value=42876281},{type=11,value=51451537},},
+	},
+	[1393]={
+		star = 1393,
+		needitem = {{type=1,id=1010000,count=1647}},
+		attr = {{type=32,value=164927870},{type=5,value=42949966},{type=11,value=51539959},},
+	},
+	[1394]={
+		star = 1394,
+		needitem = {{type=1,id=1010000,count=1649}},
+		attr = {{type=32,value=165211202},{type=5,value=43023750},{type=11,value=51628500},},
+	},
+	[1395]={
+		star = 1395,
+		needitem = {{type=1,id=1010000,count=1651}},
+		attr = {{type=32,value=165494913},{type=5,value=43097633},{type=11,value=51717160},},
+	},
+	[1396]={
+		star = 1396,
+		needitem = {{type=1,id=1010000,count=1653}},
+		attr = {{type=32,value=165778823},{type=5,value=43171568},{type=11,value=51805882},},
+	},
+	[1397]={
+		star = 1397,
+		needitem = {{type=1,id=1010000,count=1655}},
+		attr = {{type=32,value=166063114},{type=5,value=43245602},{type=11,value=51894723},},
+	},
+	[1398]={
+		star = 1398,
+		needitem = {{type=1,id=1010000,count=1657}},
+		attr = {{type=32,value=166347784},{type=5,value=43319735},{type=11,value=51983682},},
+	},
+	[1399]={
+		star = 1399,
+		needitem = {{type=1,id=1010000,count=1659}},
+		attr = {{type=32,value=166632835},{type=5,value=43393967},{type=11,value=52072761},},
+	},
+	[1400]={
+		star = 1400,
+		needitem = {{type=1,id=1010000,count=1661}},
+		attr = {{type=32,value=166918267},{type=5,value=43468298},{type=11,value=52161958},},
+	},
+	[1401]={
+		star = 1401,
+		needitem = {{type=1,id=1010000,count=1663}},
+		attr = {{type=32,value=167203896},{type=5,value=43542681},{type=11,value=52251217},},
+	},
+	[1402]={
+		star = 1402,
+		needitem = {{type=1,id=1010000,count=1665}},
+		attr = {{type=32,value=167489906},{type=5,value=43617163},{type=11,value=52340595},},
+	},
+	[1403]={
+		star = 1403,
+		needitem = {{type=1,id=1010000,count=1667}},
+		attr = {{type=32,value=167776296},{type=5,value=43691743},{type=11,value=52430092},},
+	},
+	[1404]={
+		star = 1404,
+		needitem = {{type=1,id=1010000,count=1669}},
+		attr = {{type=32,value=168063066},{type=5,value=43766423},{type=11,value=52519708},},
+	},
+	[1405]={
+		star = 1405,
+		needitem = {{type=1,id=1010000,count=1671}},
+		attr = {{type=32,value=168350217},{type=5,value=43841202},{type=11,value=52609442},},
+	},
+	[1406]={
+		star = 1406,
+		needitem = {{type=1,id=1010000,count=1673}},
+		attr = {{type=32,value=168637566},{type=5,value=43916032},{type=11,value=52699239},},
+	},
+	[1407]={
+		star = 1407,
+		needitem = {{type=1,id=1010000,count=1675}},
+		attr = {{type=32,value=168925295},{type=5,value=43990962},{type=11,value=52789154},},
+	},
+	[1408]={
+		star = 1408,
+		needitem = {{type=1,id=1010000,count=1677}},
+		attr = {{type=32,value=169213404},{type=5,value=44065990},{type=11,value=52879188},},
+	},
+	[1409]={
+		star = 1409,
+		needitem = {{type=1,id=1010000,count=1679}},
+		attr = {{type=32,value=169501894},{type=5,value=44141118},{type=11,value=52969341},},
+	},
+	[1410]={
+		star = 1410,
+		needitem = {{type=1,id=1010000,count=1681}},
+		attr = {{type=32,value=169790764},{type=5,value=44216344},{type=11,value=53059613},},
+	},
+	[1411]={
+		star = 1411,
+		needitem = {{type=1,id=1010000,count=1683}},
+		attr = {{type=32,value=170079832},{type=5,value=44291623},{type=11,value=53149947},},
+	},
+	[1412]={
+		star = 1412,
+		needitem = {{type=1,id=1010000,count=1685}},
+		attr = {{type=32,value=170369281},{type=5,value=44367000},{type=11,value=53240400},},
+	},
+	[1413]={
+		star = 1413,
+		needitem = {{type=1,id=1010000,count=1687}},
+		attr = {{type=32,value=170659109},{type=5,value=44442476},{type=11,value=53330971},},
+	},
+	[1414]={
+		star = 1414,
+		needitem = {{type=1,id=1010000,count=1689}},
+		attr = {{type=32,value=170949319},{type=5,value=44518051},{type=11,value=53421662},},
+	},
+	[1415]={
+		star = 1415,
+		needitem = {{type=1,id=1010000,count=1691}},
+		attr = {{type=32,value=171239908},{type=5,value=44593726},{type=11,value=53512471},},
+	},
+	[1416]={
+		star = 1416,
+		needitem = {{type=1,id=1010000,count=1693}},
+		attr = {{type=32,value=171530696},{type=5,value=44669452},{type=11,value=53603342},},
+	},
+	[1417]={
+		star = 1417,
+		needitem = {{type=1,id=1010000,count=1695}},
+		attr = {{type=32,value=171821864},{type=5,value=44745277},{type=11,value=53694332},},
+	},
+	[1418]={
+		star = 1418,
+		needitem = {{type=1,id=1010000,count=1697}},
+		attr = {{type=32,value=172113412},{type=5,value=44821201},{type=11,value=53785441},},
+	},
+	[1419]={
+		star = 1419,
+		needitem = {{type=1,id=1010000,count=1699}},
+		attr = {{type=32,value=172405340},{type=5,value=44897224},{type=11,value=53876669},},
+	},
+	[1420]={
+		star = 1420,
+		needitem = {{type=1,id=1010000,count=1701}},
+		attr = {{type=32,value=172697649},{type=5,value=44973346},{type=11,value=53968015},},
+	},
+	[1421]={
+		star = 1421,
+		needitem = {{type=1,id=1010000,count=1703}},
+		attr = {{type=32,value=172990156},{type=5,value=45049520},{type=11,value=54059424},},
+	},
+	[1422]={
+		star = 1422,
+		needitem = {{type=1,id=1010000,count=1705}},
+		attr = {{type=32,value=173283044},{type=5,value=45125792},{type=11,value=54150951},},
+	},
+	[1423]={
+		star = 1423,
+		needitem = {{type=1,id=1010000,count=1707}},
+		attr = {{type=32,value=173576311},{type=5,value=45202164},{type=11,value=54242597},},
+	},
+	[1424]={
+		star = 1424,
+		needitem = {{type=1,id=1010000,count=1709}},
+		attr = {{type=32,value=173869959},{type=5,value=45278635},{type=11,value=54334362},},
+	},
+	[1425]={
+		star = 1425,
+		needitem = {{type=1,id=1010000,count=1711}},
+		attr = {{type=32,value=174163988},{type=5,value=45355205},{type=11,value=54426246},},
+	},
+	[1426]={
+		star = 1426,
+		needitem = {{type=1,id=1010000,count=1713}},
+		attr = {{type=32,value=174458214},{type=5,value=45431826},{type=11,value=54518192},},
+	},
+	[1427]={
+		star = 1427,
+		needitem = {{type=1,id=1010000,count=1715}},
+		attr = {{type=32,value=174752821},{type=5,value=45508547},{type=11,value=54610256},},
+	},
+	[1428]={
+		star = 1428,
+		needitem = {{type=1,id=1010000,count=1717}},
+		attr = {{type=32,value=175047808},{type=5,value=45585366},{type=11,value=54702440},},
+	},
+	[1429]={
+		star = 1429,
+		needitem = {{type=1,id=1010000,count=1719}},
+		attr = {{type=32,value=175343175},{type=5,value=45662285},{type=11,value=54794742},},
+	},
+	[1430]={
+		star = 1430,
+		needitem = {{type=1,id=1010000,count=1721}},
+		attr = {{type=32,value=175638923},{type=5,value=45739302},{type=11,value=54887163},},
+	},
+	[1431]={
+		star = 1431,
+		needitem = {{type=1,id=1010000,count=1723}},
+		attr = {{type=32,value=175934869},{type=5,value=45816372},{type=11,value=54979646},},
+	},
+	[1432]={
+		star = 1432,
+		needitem = {{type=1,id=1010000,count=1725}},
+		attr = {{type=32,value=176231195},{type=5,value=45893540},{type=11,value=55072248},},
+	},
+	[1433]={
+		star = 1433,
+		needitem = {{type=1,id=1010000,count=1727}},
+		attr = {{type=32,value=176527901},{type=5,value=45970807},{type=11,value=55164969},},
+	},
+	[1434]={
+		star = 1434,
+		needitem = {{type=1,id=1010000,count=1729}},
+		attr = {{type=32,value=176824988},{type=5,value=46048174},{type=11,value=55257808},},
+	},
+	[1435]={
+		star = 1435,
+		needitem = {{type=1,id=1010000,count=1731}},
+		attr = {{type=32,value=177122455},{type=5,value=46125639},{type=11,value=55350767},},
+	},
+	[1436]={
+		star = 1436,
+		needitem = {{type=1,id=1010000,count=1733}},
+		attr = {{type=32,value=177420120},{type=5,value=46203156},{type=11,value=55443787},},
+	},
+	[1437]={
+		star = 1437,
+		needitem = {{type=1,id=1010000,count=1735}},
+		attr = {{type=32,value=177718166},{type=5,value=46280772},{type=11,value=55536926},},
+	},
+	[1438]={
+		star = 1438,
+		needitem = {{type=1,id=1010000,count=1737}},
+		attr = {{type=32,value=178016592},{type=5,value=46358487},{type=11,value=55630185},},
+	},
+	[1439]={
+		star = 1439,
+		needitem = {{type=1,id=1010000,count=1739}},
+		attr = {{type=32,value=178315398},{type=5,value=46436301},{type=11,value=55723562},},
+	},
+	[1440]={
+		star = 1440,
+		needitem = {{type=1,id=1010000,count=1741}},
+		attr = {{type=32,value=178614585},{type=5,value=46514214},{type=11,value=55817057},},
+	},
+	[1441]={
+		star = 1441,
+		needitem = {{type=1,id=1010000,count=1743}},
+		attr = {{type=32,value=178913969},{type=5,value=46592179},{type=11,value=55910615},},
+	},
+	[1442]={
+		star = 1442,
+		needitem = {{type=1,id=1010000,count=1745}},
+		attr = {{type=32,value=179213734},{type=5,value=46670243},{type=11,value=56004292},},
+	},
+	[1443]={
+		star = 1443,
+		needitem = {{type=1,id=1010000,count=1747}},
+		attr = {{type=32,value=179513879},{type=5,value=46748406},{type=11,value=56098087},},
+	},
+	[1444]={
+		star = 1444,
+		needitem = {{type=1,id=1010000,count=1749}},
+		attr = {{type=32,value=179814405},{type=5,value=46826668},{type=11,value=56192001},},
+	},
+	[1445]={
+		star = 1445,
+		needitem = {{type=1,id=1010000,count=1751}},
+		attr = {{type=32,value=180115311},{type=5,value=46905028},{type=11,value=56286034},},
+	},
+	[1446]={
+		star = 1446,
+		needitem = {{type=1,id=1010000,count=1753}},
+		attr = {{type=32,value=180416415},{type=5,value=46983441},{type=11,value=56380129},},
+	},
+	[1447]={
+		star = 1447,
+		needitem = {{type=1,id=1010000,count=1755}},
+		attr = {{type=32,value=180717899},{type=5,value=47061953},{type=11,value=56474343},},
+	},
+	[1448]={
+		star = 1448,
+		needitem = {{type=1,id=1010000,count=1757}},
+		attr = {{type=32,value=181019764},{type=5,value=47140563},{type=11,value=56568676},},
+	},
+	[1449]={
+		star = 1449,
+		needitem = {{type=1,id=1010000,count=1759}},
+		attr = {{type=32,value=181322009},{type=5,value=47219273},{type=11,value=56663127},},
+	},
+	[1450]={
+		star = 1450,
+		needitem = {{type=1,id=1010000,count=1761}},
+		attr = {{type=32,value=181624634},{type=5,value=47298081},{type=11,value=56757698},},
+	},
+	[1451]={
+		star = 1451,
+		needitem = {{type=1,id=1010000,count=1763}},
+		attr = {{type=32,value=181927457},{type=5,value=47376942},{type=11,value=56852330},},
+	},
+	[1452]={
+		star = 1452,
+		needitem = {{type=1,id=1010000,count=1765}},
+		attr = {{type=32,value=182230661},{type=5,value=47455901},{type=11,value=56947081},},
+	},
+	[1453]={
+		star = 1453,
+		needitem = {{type=1,id=1010000,count=1767}},
+		attr = {{type=32,value=182534245},{type=5,value=47534959},{type=11,value=57041951},},
+	},
+	[1454]={
+		star = 1454,
+		needitem = {{type=1,id=1010000,count=1769}},
+		attr = {{type=32,value=182838210},{type=5,value=47614117},{type=11,value=57136940},},
+	},
+	[1455]={
+		star = 1455,
+		needitem = {{type=1,id=1010000,count=1771}},
+		attr = {{type=32,value=183142554},{type=5,value=47693373},{type=11,value=57232048},},
+	},
+	[1456]={
+		star = 1456,
+		needitem = {{type=1,id=1010000,count=1773}},
+		attr = {{type=32,value=183447097},{type=5,value=47772681},{type=11,value=57327218},},
+	},
+	[1457]={
+		star = 1457,
+		needitem = {{type=1,id=1010000,count=1775}},
+		attr = {{type=32,value=183752020},{type=5,value=47852088},{type=11,value=57422506},},
+	},
+	[1458]={
+		star = 1458,
+		needitem = {{type=1,id=1010000,count=1777}},
+		attr = {{type=32,value=184057324},{type=5,value=47931594},{type=11,value=57517913},},
+	},
+	[1459]={
+		star = 1459,
+		needitem = {{type=1,id=1010000,count=1779}},
+		attr = {{type=32,value=184363008},{type=5,value=48011200},{type=11,value=57613440},},
+	},
+	[1460]={
+		star = 1460,
+		needitem = {{type=1,id=1010000,count=1781}},
+		attr = {{type=32,value=184669072},{type=5,value=48090904},{type=11,value=57709085},},
+	},
+	[1461]={
+		star = 1461,
+		needitem = {{type=1,id=1010000,count=1783}},
+		attr = {{type=32,value=184975334},{type=5,value=48170660},{type=11,value=57804792},},
+	},
+	[1462]={
+		star = 1462,
+		needitem = {{type=1,id=1010000,count=1785}},
+		attr = {{type=32,value=185281976},{type=5,value=48250514},{type=11,value=57900617},},
+	},
+	[1463]={
+		star = 1463,
+		needitem = {{type=1,id=1010000,count=1787}},
+		attr = {{type=32,value=185588999},{type=5,value=48330468},{type=11,value=57996562},},
+	},
+	[1464]={
+		star = 1464,
+		needitem = {{type=1,id=1010000,count=1789}},
+		attr = {{type=32,value=185896403},{type=5,value=48410521},{type=11,value=58092625},},
+	},
+	[1465]={
+		star = 1465,
+		needitem = {{type=1,id=1010000,count=1791}},
+		attr = {{type=32,value=186204186},{type=5,value=48490673},{type=11,value=58188808},},
+	},
+	[1466]={
+		star = 1466,
+		needitem = {{type=1,id=1010000,count=1793}},
+		attr = {{type=32,value=186512168},{type=5,value=48570877},{type=11,value=58285052},},
+	},
+	[1467]={
+		star = 1467,
+		needitem = {{type=1,id=1010000,count=1795}},
+		attr = {{type=32,value=186820530},{type=5,value=48651179},{type=11,value=58381415},},
+	},
+	[1468]={
+		star = 1468,
+		needitem = {{type=1,id=1010000,count=1797}},
+		attr = {{type=32,value=187129272},{type=5,value=48731581},{type=11,value=58477897},},
+	},
+	[1469]={
+		star = 1469,
+		needitem = {{type=1,id=1010000,count=1799}},
+		attr = {{type=32,value=187438395},{type=5,value=48812082},{type=11,value=58574498},},
+	},
+	[1470]={
+		star = 1470,
+		needitem = {{type=1,id=1010000,count=1801}},
+		attr = {{type=32,value=187747898},{type=5,value=48892681},{type=11,value=58671218},},
+	},
+	[1471]={
+		star = 1471,
+		needitem = {{type=1,id=1010000,count=1803}},
+		attr = {{type=32,value=188057599},{type=5,value=48973333},{type=11,value=58767999},},
+	},
+	[1472]={
+		star = 1472,
+		needitem = {{type=1,id=1010000,count=1805}},
+		attr = {{type=32,value=188367680},{type=5,value=49054083},{type=11,value=58864900},},
+	},
+	[1473]={
+		star = 1473,
+		needitem = {{type=1,id=1010000,count=1807}},
+		attr = {{type=32,value=188678142},{type=5,value=49134932},{type=11,value=58961919},},
+	},
+	[1474]={
+		star = 1474,
+		needitem = {{type=1,id=1010000,count=1809}},
+		attr = {{type=32,value=188988984},{type=5,value=49215881},{type=11,value=59059057},},
+	},
+	[1475]={
+		star = 1475,
+		needitem = {{type=1,id=1010000,count=1811}},
+		attr = {{type=32,value=189300206},{type=5,value=49296928},{type=11,value=59156314},},
+	},
+	[1476]={
+		star = 1476,
+		needitem = {{type=1,id=1010000,count=1813}},
+		attr = {{type=32,value=189611626},{type=5,value=49378027},{type=11,value=59253633},},
+	},
+	[1477]={
+		star = 1477,
+		needitem = {{type=1,id=1010000,count=1815}},
+		attr = {{type=32,value=189923427},{type=5,value=49459225},{type=11,value=59351071},},
+	},
+	[1478]={
+		star = 1478,
+		needitem = {{type=1,id=1010000,count=1817}},
+		attr = {{type=32,value=190235608},{type=5,value=49540523},{type=11,value=59448627},},
+	},
+	[1479]={
+		star = 1479,
+		needitem = {{type=1,id=1010000,count=1819}},
+		attr = {{type=32,value=190548170},{type=5,value=49621919},{type=11,value=59546303},},
+	},
+	[1480]={
+		star = 1480,
+		needitem = {{type=1,id=1010000,count=1821}},
+		attr = {{type=32,value=190861111},{type=5,value=49703414},{type=11,value=59644097},},
+	},
+	[1481]={
+		star = 1481,
+		needitem = {{type=1,id=1010000,count=1823}},
+		attr = {{type=32,value=191174251},{type=5,value=49784961},{type=11,value=59741953},},
+	},
+	[1482]={
+		star = 1482,
+		needitem = {{type=1,id=1010000,count=1825}},
+		attr = {{type=32,value=191487771},{type=5,value=49866607},{type=11,value=59839928},},
+	},
+	[1483]={
+		star = 1483,
+		needitem = {{type=1,id=1010000,count=1827}},
+		attr = {{type=32,value=191801672},{type=5,value=49948352},{type=11,value=59938022},},
+	},
+	[1484]={
+		star = 1484,
+		needitem = {{type=1,id=1010000,count=1829}},
+		attr = {{type=32,value=192115953},{type=5,value=50030196},{type=11,value=60036235},},
+	},
+	[1485]={
+		star = 1485,
+		needitem = {{type=1,id=1010000,count=1831}},
+		attr = {{type=32,value=192430614},{type=5,value=50112139},{type=11,value=60134566},},
+	},
+	[1486]={
+		star = 1486,
+		needitem = {{type=1,id=1010000,count=1833}},
+		attr = {{type=32,value=192745473},{type=5,value=50194133},{type=11,value=60232960},},
+	},
+	[1487]={
+		star = 1487,
+		needitem = {{type=1,id=1010000,count=1835}},
+		attr = {{type=32,value=193060712},{type=5,value=50276227},{type=11,value=60331472},},
+	},
+	[1488]={
+		star = 1488,
+		needitem = {{type=1,id=1010000,count=1837}},
+		attr = {{type=32,value=193376332},{type=5,value=50358420},{type=11,value=60430104},},
+	},
+	[1489]={
+		star = 1489,
+		needitem = {{type=1,id=1010000,count=1839}},
+		attr = {{type=32,value=193692333},{type=5,value=50440711},{type=11,value=60528854},},
+	},
+	[1490]={
+		star = 1490,
+		needitem = {{type=1,id=1010000,count=1841}},
+		attr = {{type=32,value=194008713},{type=5,value=50523102},{type=11,value=60627723},},
+	},
+	[1491]={
+		star = 1491,
+		needitem = {{type=1,id=1010000,count=1843}},
+		attr = {{type=32,value=194325292},{type=5,value=50605544},{type=11,value=60726653},},
+	},
+	[1492]={
+		star = 1492,
+		needitem = {{type=1,id=1010000,count=1845}},
+		attr = {{type=32,value=194642251},{type=5,value=50688086},{type=11,value=60825703},},
+	},
+	[1493]={
+		star = 1493,
+		needitem = {{type=1,id=1010000,count=1847}},
+		attr = {{type=32,value=194959590},{type=5,value=50770726},{type=11,value=60924872},},
+	},
+	[1494]={
+		star = 1494,
+		needitem = {{type=1,id=1010000,count=1849}},
+		attr = {{type=32,value=195277310},{type=5,value=50853466},{type=11,value=61024159},},
+	},
+	[1495]={
+		star = 1495,
+		needitem = {{type=1,id=1010000,count=1851}},
+		attr = {{type=32,value=195595410},{type=5,value=50936304},{type=11,value=61123565},},
+	},
+	[1496]={
+		star = 1496,
+		needitem = {{type=1,id=1010000,count=1853}},
+		attr = {{type=32,value=195913708},{type=5,value=51019194},{type=11,value=61223033},},
+	},
+	[1497]={
+		star = 1497,
+		needitem = {{type=1,id=1010000,count=1855}},
+		attr = {{type=32,value=196232386},{type=5,value=51102183},{type=11,value=61322620},},
+	},
+	[1498]={
+		star = 1498,
+		needitem = {{type=1,id=1010000,count=1857}},
+		attr = {{type=32,value=196551445},{type=5,value=51185272},{type=11,value=61422326},},
+	},
+	[1499]={
+		star = 1499,
+		needitem = {{type=1,id=1010000,count=1859}},
+		attr = {{type=32,value=196870884},{type=5,value=51268459},{type=11,value=61522151},},
+	},
+	[1500]={
+		star = 1500,
+		needitem = {{type=1,id=1010000,count=1861}},
+		attr = {{type=32,value=197190703},{type=5,value=51351745},{type=11,value=61622094},},
+	},
+	[1501]={
+		star = 1501,
+		needitem = {{type=1,id=1010000,count=1863}},
+		attr = {{type=32,value=197510721},{type=5,value=51435083},{type=11,value=61722100},},
+	},
+	[1502]={
+		star = 1502,
+		needitem = {{type=1,id=1010000,count=1865}},
+		attr = {{type=32,value=197831118},{type=5,value=51518520},{type=11,value=61822224},},
+	},
+	[1503]={
+		star = 1503,
+		needitem = {{type=1,id=1010000,count=1867}},
+		attr = {{type=32,value=198151896},{type=5,value=51602056},{type=11,value=61922467},},
+	},
+	[1504]={
+		star = 1504,
+		needitem = {{type=1,id=1010000,count=1869}},
+		attr = {{type=32,value=198473055},{type=5,value=51685691},{type=11,value=62022829},},
+	},
+	[1505]={
+		star = 1505,
+		needitem = {{type=1,id=1010000,count=1871}},
+		attr = {{type=32,value=198794594},{type=5,value=51769425},{type=11,value=62123310},},
+	},
+	[1506]={
+		star = 1506,
+		needitem = {{type=1,id=1010000,count=1873}},
+		attr = {{type=32,value=199116330},{type=5,value=51853211},{type=11,value=62223853},},
+	},
+	[1507]={
+		star = 1507,
+		needitem = {{type=1,id=1010000,count=1875}},
+		attr = {{type=32,value=199438448},{type=5,value=51937095},{type=11,value=62324515},},
+	},
+	[1508]={
+		star = 1508,
+		needitem = {{type=1,id=1010000,count=1877}},
+		attr = {{type=32,value=199760945},{type=5,value=52021079},{type=11,value=62425295},},
+	},
+	[1509]={
+		star = 1509,
+		needitem = {{type=1,id=1010000,count=1879}},
+		attr = {{type=32,value=200083823},{type=5,value=52105162},{type=11,value=62526194},},
+	},
+	[1510]={
+		star = 1510,
+		needitem = {{type=1,id=1010000,count=1881}},
+		attr = {{type=32,value=200407081},{type=5,value=52189344},{type=11,value=62627213},},
+	},
+	[1511]={
+		star = 1511,
+		needitem = {{type=1,id=1010000,count=1883}},
+		attr = {{type=32,value=200730537},{type=5,value=52273577},{type=11,value=62728293},},
+	},
+	[1512]={
+		star = 1512,
+		needitem = {{type=1,id=1010000,count=1885}},
+		attr = {{type=32,value=201054374},{type=5,value=52357909},{type=11,value=62829491},},
+	},
+	[1513]={
+		star = 1513,
+		needitem = {{type=1,id=1010000,count=1887}},
+		attr = {{type=32,value=201378591},{type=5,value=52442341},{type=11,value=62930809},},
+	},
+	[1514]={
+		star = 1514,
+		needitem = {{type=1,id=1010000,count=1889}},
+		attr = {{type=32,value=201703188},{type=5,value=52526872},{type=11,value=63032246},},
+	},
+	[1515]={
+		star = 1515,
+		needitem = {{type=1,id=1010000,count=1891}},
+		attr = {{type=32,value=202028166},{type=5,value=52611501},{type=11,value=63133801},},
+	},
+	[1516]={
+		star = 1516,
+		needitem = {{type=1,id=1010000,count=1893}},
+		attr = {{type=32,value=202353341},{type=5,value=52696182},{type=11,value=63235419},},
+	},
+	[1517]={
+		star = 1517,
+		needitem = {{type=1,id=1010000,count=1895}},
+		attr = {{type=32,value=202678897},{type=5,value=52780962},{type=11,value=63337155},},
+	},
+	[1518]={
+		star = 1518,
+		needitem = {{type=1,id=1010000,count=1897}},
+		attr = {{type=32,value=203004833},{type=5,value=52865842},{type=11,value=63439010},},
+	},
+	[1519]={
+		star = 1519,
+		needitem = {{type=1,id=1010000,count=1899}},
+		attr = {{type=32,value=203331150},{type=5,value=52950820},{type=11,value=63540984},},
+	},
+	[1520]={
+		star = 1520,
+		needitem = {{type=1,id=1010000,count=1901}},
+		attr = {{type=32,value=203657847},{type=5,value=53035897},{type=11,value=63643077},},
+	},
+	[1521]={
+		star = 1521,
+		needitem = {{type=1,id=1010000,count=1903}},
+		attr = {{type=32,value=203984742},{type=5,value=53121026},{type=11,value=63745232},},
+	},
+	[1522]={
+		star = 1522,
+		needitem = {{type=1,id=1010000,count=1905}},
+		attr = {{type=32,value=204312018},{type=5,value=53206254},{type=11,value=63847505},},
+	},
+	[1523]={
+		star = 1523,
+		needitem = {{type=1,id=1010000,count=1907}},
+		attr = {{type=32,value=204639673},{type=5,value=53291581},{type=11,value=63949898},},
+	},
+	[1524]={
+		star = 1524,
+		needitem = {{type=1,id=1010000,count=1909}},
+		attr = {{type=32,value=204967709},{type=5,value=53377007},{type=11,value=64052409},},
+	},
+	[1525]={
+		star = 1525,
+		needitem = {{type=1,id=1010000,count=1911}},
+		attr = {{type=32,value=205296126},{type=5,value=53462532},{type=11,value=64155039},},
+	},
+	[1526]={
+		star = 1526,
+		needitem = {{type=1,id=1010000,count=1913}},
+		attr = {{type=32,value=205624740},{type=5,value=53548109},{type=11,value=64257731},},
+	},
+	[1527]={
+		star = 1527,
+		needitem = {{type=1,id=1010000,count=1915}},
+		attr = {{type=32,value=205953735},{type=5,value=53633785},{type=11,value=64360542},},
+	},
+	[1528]={
+		star = 1528,
+		needitem = {{type=1,id=1010000,count=1917}},
+		attr = {{type=32,value=206283110},{type=5,value=53719560},{type=11,value=64463472},},
+	},
+	[1529]={
+		star = 1529,
+		needitem = {{type=1,id=1010000,count=1919}},
+		attr = {{type=32,value=206612865},{type=5,value=53805433},{type=11,value=64566520},},
+	},
+	[1530]={
+		star = 1530,
+		needitem = {{type=1,id=1010000,count=1921}},
+		attr = {{type=32,value=206943001},{type=5,value=53891406},{type=11,value=64669688},},
+	},
+	[1531]={
+		star = 1531,
+		needitem = {{type=1,id=1010000,count=1923}},
+		attr = {{type=32,value=207273335},{type=5,value=53977431},{type=11,value=64772917},},
+	},
+	[1532]={
+		star = 1532,
+		needitem = {{type=1,id=1010000,count=1925}},
+		attr = {{type=32,value=207604049},{type=5,value=54063554},{type=11,value=64876265},},
+	},
+	[1533]={
+		star = 1533,
+		needitem = {{type=1,id=1010000,count=1927}},
+		attr = {{type=32,value=207935144},{type=5,value=54149777},{type=11,value=64979732},},
+	},
+	[1534]={
+		star = 1534,
+		needitem = {{type=1,id=1010000,count=1929}},
+		attr = {{type=32,value=208266619},{type=5,value=54236098},{type=11,value=65083318},},
+	},
+	[1535]={
+		star = 1535,
+		needitem = {{type=1,id=1010000,count=1931}},
+		attr = {{type=32,value=208598474},{type=5,value=54322519},{type=11,value=65187023},},
+	},
+	[1536]={
+		star = 1536,
+		needitem = {{type=1,id=1010000,count=1933}},
+		attr = {{type=32,value=208930527},{type=5,value=54408991},{type=11,value=65290789},},
+	},
+	[1537]={
+		star = 1537,
+		needitem = {{type=1,id=1010000,count=1935}},
+		attr = {{type=32,value=209262961},{type=5,value=54495562},{type=11,value=65394675},},
+	},
+	[1538]={
+		star = 1538,
+		needitem = {{type=1,id=1010000,count=1937}},
+		attr = {{type=32,value=209595775},{type=5,value=54582233},{type=11,value=65498679},},
+	},
+	[1539]={
+		star = 1539,
+		needitem = {{type=1,id=1010000,count=1939}},
+		attr = {{type=32,value=209928969},{type=5,value=54669002},{type=11,value=65602802},},
+	},
+	[1540]={
+		star = 1540,
+		needitem = {{type=1,id=1010000,count=1941}},
+		attr = {{type=32,value=210262543},{type=5,value=54755870},{type=11,value=65707044},},
+	},
+	[1541]={
+		star = 1541,
+		needitem = {{type=1,id=1010000,count=1943}},
+		attr = {{type=32,value=210596316},{type=5,value=54842790},{type=11,value=65811348},},
+	},
+	[1542]={
+		star = 1542,
+		needitem = {{type=1,id=1010000,count=1945}},
+		attr = {{type=32,value=210930469},{type=5,value=54929809},{type=11,value=65915771},},
+	},
+	[1543]={
+		star = 1543,
+		needitem = {{type=1,id=1010000,count=1947}},
+		attr = {{type=32,value=211265002},{type=5,value=55016927},{type=11,value=66020313},},
+	},
+	[1544]={
+		star = 1544,
+		needitem = {{type=1,id=1010000,count=1949}},
+		attr = {{type=32,value=211599916},{type=5,value=55104144},{type=11,value=66124973},},
+	},
+	[1545]={
+		star = 1545,
+		needitem = {{type=1,id=1010000,count=1951}},
+		attr = {{type=32,value=211935210},{type=5,value=55191461},{type=11,value=66229753},},
+	},
+	[1546]={
+		star = 1546,
+		needitem = {{type=1,id=1010000,count=1953}},
+		attr = {{type=32,value=212270702},{type=5,value=55278828},{type=11,value=66334594},},
+	},
+	[1547]={
+		star = 1547,
+		needitem = {{type=1,id=1010000,count=1955}},
+		attr = {{type=32,value=212606574},{type=5,value=55366295},{type=11,value=66439554},},
+	},
+	[1548]={
+		star = 1548,
+		needitem = {{type=1,id=1010000,count=1957}},
+		attr = {{type=32,value=212942827},{type=5,value=55453861},{type=11,value=66544633},},
+	},
+	[1549]={
+		star = 1549,
+		needitem = {{type=1,id=1010000,count=1959}},
+		attr = {{type=32,value=213279460},{type=5,value=55541526},{type=11,value=66649831},},
+	},
+	[1550]={
+		star = 1550,
+		needitem = {{type=1,id=1010000,count=1961}},
+		attr = {{type=32,value=213616474},{type=5,value=55629290},{type=11,value=66755148},},
+	},
+	[1551]={
+		star = 1551,
+		needitem = {{type=1,id=1010000,count=1963}},
+		attr = {{type=32,value=213953685},{type=5,value=55717105},{type=11,value=66860526},},
+	},
+	[1552]={
+		star = 1552,
+		needitem = {{type=1,id=1010000,count=1965}},
+		attr = {{type=32,value=214291277},{type=5,value=55805020},{type=11,value=66966024},},
+	},
+	[1553]={
+		star = 1553,
+		needitem = {{type=1,id=1010000,count=1967}},
+		attr = {{type=32,value=214629249},{type=5,value=55893033},{type=11,value=67071640},},
+	},
+	[1554]={
+		star = 1554,
+		needitem = {{type=1,id=1010000,count=1969}},
+		attr = {{type=32,value=214967601},{type=5,value=55981146},{type=11,value=67177375},},
+	},
+	[1555]={
+		star = 1555,
+		needitem = {{type=1,id=1010000,count=1971}},
+		attr = {{type=32,value=215306334},{type=5,value=56069358},{type=11,value=67283229},},
+	},
+	[1556]={
+		star = 1556,
+		needitem = {{type=1,id=1010000,count=1973}},
+		attr = {{type=32,value=215645265},{type=5,value=56157621},{type=11,value=67389145},},
+	},
+	[1557]={
+		star = 1557,
+		needitem = {{type=1,id=1010000,count=1975}},
+		attr = {{type=32,value=215984576},{type=5,value=56245983},{type=11,value=67495180},},
+	},
+	[1558]={
+		star = 1558,
+		needitem = {{type=1,id=1010000,count=1977}},
+		attr = {{type=32,value=216324268},{type=5,value=56334444},{type=11,value=67601333},},
+	},
+	[1559]={
+		star = 1559,
+		needitem = {{type=1,id=1010000,count=1979}},
+		attr = {{type=32,value=216664340},{type=5,value=56423005},{type=11,value=67707606},},
+	},
+	[1560]={
+		star = 1560,
+		needitem = {{type=1,id=1010000,count=1981}},
+		attr = {{type=32,value=217004792},{type=5,value=56511664},{type=11,value=67813997},},
+	},
+	[1561]={
+		star = 1561,
+		needitem = {{type=1,id=1010000,count=1983}},
+		attr = {{type=32,value=217345442},{type=5,value=56600375},{type=11,value=67920450},},
+	},
+	[1562]={
+		star = 1562,
+		needitem = {{type=1,id=1010000,count=1985}},
+		attr = {{type=32,value=217686473},{type=5,value=56689185},{type=11,value=68027022},},
+	},
+	[1563]={
+		star = 1563,
+		needitem = {{type=1,id=1010000,count=1987}},
+		attr = {{type=32,value=218027884},{type=5,value=56778094},{type=11,value=68133713},},
+	},
+	[1564]={
+		star = 1564,
+		needitem = {{type=1,id=1010000,count=1989}},
+		attr = {{type=32,value=218369675},{type=5,value=56867102},{type=11,value=68240523},},
+	},
+	[1565]={
+		star = 1565,
+		needitem = {{type=1,id=1010000,count=1991}},
+		attr = {{type=32,value=218711847},{type=5,value=56956210},{type=11,value=68347452},},
+	},
+	[1566]={
+		star = 1566,
+		needitem = {{type=1,id=1010000,count=1993}},
+		attr = {{type=32,value=219054216},{type=5,value=57045368},{type=11,value=68454442},},
+	},
+	[1567]={
+		star = 1567,
+		needitem = {{type=1,id=1010000,count=1995}},
+		attr = {{type=32,value=219396966},{type=5,value=57134626},{type=11,value=68561552},},
+	},
+	[1568]={
+		star = 1568,
+		needitem = {{type=1,id=1010000,count=1997}},
+		attr = {{type=32,value=219740097},{type=5,value=57223983},{type=11,value=68668780},},
+	},
+	[1569]={
+		star = 1569,
+		needitem = {{type=1,id=1010000,count=1999}},
+		attr = {{type=32,value=220083607},{type=5,value=57313439},{type=11,value=68776127},},
+	},
+	[1570]={
+		star = 1570,
+		needitem = {{type=1,id=1010000,count=2001}},
+		attr = {{type=32,value=220427498},{type=5,value=57402994},{type=11,value=68883593},},
+	},
+	[1571]={
+		star = 1571,
+		needitem = {{type=1,id=1010000,count=2003}},
+		attr = {{type=32,value=220771587},{type=5,value=57492600},{type=11,value=68991121},},
+	},
+	[1572]={
+		star = 1572,
+		needitem = {{type=1,id=1010000,count=2005}},
+		attr = {{type=32,value=221116057},{type=5,value=57582306},{type=11,value=69098767},},
+	},
+	[1573]={
+		star = 1573,
+		needitem = {{type=1,id=1010000,count=2007}},
+		attr = {{type=32,value=221460906},{type=5,value=57672111},{type=11,value=69206533},},
+	},
+	[1574]={
+		star = 1574,
+		needitem = {{type=1,id=1010000,count=2009}},
+		attr = {{type=32,value=221806137},{type=5,value=57762014},{type=11,value=69314417},},
+	},
+	[1575]={
+		star = 1575,
+		needitem = {{type=1,id=1010000,count=2011}},
+		attr = {{type=32,value=222151747},{type=5,value=57852017},{type=11,value=69422421},},
+	},
+	[1576]={
+		star = 1576,
+		needitem = {{type=1,id=1010000,count=2013}},
+		attr = {{type=32,value=222497555},{type=5,value=57942071},{type=11,value=69530486},},
+	},
+	[1577]={
+		star = 1577,
+		needitem = {{type=1,id=1010000,count=2015}},
+		attr = {{type=32,value=222843744},{type=5,value=58032225},{type=11,value=69638670},},
+	},
+	[1578]={
+		star = 1578,
+		needitem = {{type=1,id=1010000,count=2017}},
+		attr = {{type=32,value=223190313},{type=5,value=58122477},{type=11,value=69746973},},
+	},
+	[1579]={
+		star = 1579,
+		needitem = {{type=1,id=1010000,count=2019}},
+		attr = {{type=32,value=223537263},{type=5,value=58212828},{type=11,value=69855394},},
+	},
+	[1580]={
+		star = 1580,
+		needitem = {{type=1,id=1010000,count=2021}},
+		attr = {{type=32,value=223884593},{type=5,value=58303279},{type=11,value=69963935},},
+	},
+	[1581]={
+		star = 1581,
+		needitem = {{type=1,id=1010000,count=2023}},
+		attr = {{type=32,value=224232121},{type=5,value=58393781},{type=11,value=70072537},},
+	},
+	[1582]={
+		star = 1582,
+		needitem = {{type=1,id=1010000,count=2025}},
+		attr = {{type=32,value=224580029},{type=5,value=58484382},{type=11,value=70181259},},
+	},
+	[1583]={
+		star = 1583,
+		needitem = {{type=1,id=1010000,count=2027}},
+		attr = {{type=32,value=224928317},{type=5,value=58575082},{type=11,value=70290099},},
+	},
+	[1584]={
+		star = 1584,
+		needitem = {{type=1,id=1010000,count=2029}},
+		attr = {{type=32,value=225276986},{type=5,value=58665881},{type=11,value=70399058},},
+	},
+	[1585]={
+		star = 1585,
+		needitem = {{type=1,id=1010000,count=2031}},
+		attr = {{type=32,value=225626035},{type=5,value=58756780},{type=11,value=70508136},},
+	},
+	[1586]={
+		star = 1586,
+		needitem = {{type=1,id=1010000,count=2033}},
+		attr = {{type=32,value=225975283},{type=5,value=58847729},{type=11,value=70617275},},
+	},
+	[1587]={
+		star = 1587,
+		needitem = {{type=1,id=1010000,count=2035}},
+		attr = {{type=32,value=226324910},{type=5,value=58938778},{type=11,value=70726534},},
+	},
+	[1588]={
+		star = 1588,
+		needitem = {{type=1,id=1010000,count=2037}},
+		attr = {{type=32,value=226674918},{type=5,value=59029926},{type=11,value=70835912},},
+	},
+	[1589]={
+		star = 1589,
+		needitem = {{type=1,id=1010000,count=2039}},
+		attr = {{type=32,value=227025306},{type=5,value=59121173},{type=11,value=70945408},},
+	},
+	[1590]={
+		star = 1590,
+		needitem = {{type=1,id=1010000,count=2041}},
+		attr = {{type=32,value=227376075},{type=5,value=59212519},{type=11,value=71055023},},
+	},
+	[1591]={
+		star = 1591,
+		needitem = {{type=1,id=1010000,count=2043}},
+		attr = {{type=32,value=227727042},{type=5,value=59303917},{type=11,value=71164700},},
+	},
+	[1592]={
+		star = 1592,
+		needitem = {{type=1,id=1010000,count=2045}},
+		attr = {{type=32,value=228078389},{type=5,value=59395413},{type=11,value=71274496},},
+	},
+	[1593]={
+		star = 1593,
+		needitem = {{type=1,id=1010000,count=2047}},
+		attr = {{type=32,value=228430116},{type=5,value=59487009},{type=11,value=71384411},},
+	},
+	[1594]={
+		star = 1594,
+		needitem = {{type=1,id=1010000,count=2049}},
+		attr = {{type=32,value=228782224},{type=5,value=59578704},{type=11,value=71494445},},
+	},
+	[1595]={
+		star = 1595,
+		needitem = {{type=1,id=1010000,count=2051}},
+		attr = {{type=32,value=229134712},{type=5,value=59670498},{type=11,value=71604597},},
+	},
+	[1596]={
+		star = 1596,
+		needitem = {{type=1,id=1010000,count=2053}},
+		attr = {{type=32,value=229487398},{type=5,value=59762343},{type=11,value=71714812},},
+	},
+	[1597]={
+		star = 1597,
+		needitem = {{type=1,id=1010000,count=2055}},
+		attr = {{type=32,value=229840464},{type=5,value=59854287},{type=11,value=71825145},},
+	},
+	[1598]={
+		star = 1598,
+		needitem = {{type=1,id=1010000,count=2057}},
+		attr = {{type=32,value=230193911},{type=5,value=59946331},{type=11,value=71935597},},
+	},
+	[1599]={
+		star = 1599,
+		needitem = {{type=1,id=1010000,count=2059}},
+		attr = {{type=32,value=230547738},{type=5,value=60038473},{type=11,value=72046168},},
+	},
+	[1600]={
+		star = 1600,
+		needitem = {{type=1,id=1010000,count=2061}},
+		attr = {{type=32,value=230901946},{type=5,value=60130715},{type=11,value=72156858},},
+	},
+	[1601]={
+		star = 1601,
+		needitem = {{type=1,id=1010000,count=2063}},
+		attr = {{type=32,value=231256351},{type=5,value=60223008},{type=11,value=72267609},},
+	},
+	[1602]={
+		star = 1602,
+		needitem = {{type=1,id=1010000,count=2065}},
+		attr = {{type=32,value=231611137},{type=5,value=60315400},{type=11,value=72378480},},
+	},
+	[1603]={
+		star = 1603,
+		needitem = {{type=1,id=1010000,count=2067}},
+		attr = {{type=32,value=231966303},{type=5,value=60407891},{type=11,value=72489469},},
+	},
+	[1604]={
+		star = 1604,
+		needitem = {{type=1,id=1010000,count=2069}},
+		attr = {{type=32,value=232321850},{type=5,value=60500481},{type=11,value=72600578},},
+	},
+	[1605]={
+		star = 1605,
+		needitem = {{type=1,id=1010000,count=2071}},
+		attr = {{type=32,value=232677776},{type=5,value=60593171},{type=11,value=72711805},},
+	},
+	[1606]={
+		star = 1606,
+		needitem = {{type=1,id=1010000,count=2073}},
+		attr = {{type=32,value=233033901},{type=5,value=60685911},{type=11,value=72823094},},
+	},
+	[1607]={
+		star = 1607,
+		needitem = {{type=1,id=1010000,count=2075}},
+		attr = {{type=32,value=233390406},{type=5,value=60778751},{type=11,value=72934502},},
+	},
+	[1608]={
+		star = 1608,
+		needitem = {{type=1,id=1010000,count=2077}},
+		attr = {{type=32,value=233747292},{type=5,value=60871690},{type=11,value=73046028},},
+	},
+	[1609]={
+		star = 1609,
+		needitem = {{type=1,id=1010000,count=2079}},
+		attr = {{type=32,value=234104558},{type=5,value=60964728},{type=11,value=73157674},},
+	},
+	[1610]={
+		star = 1610,
+		needitem = {{type=1,id=1010000,count=2081}},
+		attr = {{type=32,value=234462204},{type=5,value=61057865},{type=11,value=73269438},},
+	},
+	[1611]={
+		star = 1611,
+		needitem = {{type=1,id=1010000,count=2083}},
+		attr = {{type=32,value=234820048},{type=5,value=61151054},{type=11,value=73381265},},
+	},
+	[1612]={
+		star = 1612,
+		needitem = {{type=1,id=1010000,count=2085}},
+		attr = {{type=32,value=235178273},{type=5,value=61244342},{type=11,value=73493210},},
+	},
+	[1613]={
+		star = 1613,
+		needitem = {{type=1,id=1010000,count=2087}},
+		attr = {{type=32,value=235536878},{type=5,value=61337728},{type=11,value=73605274},},
+	},
+	[1614]={
+		star = 1614,
+		needitem = {{type=1,id=1010000,count=2089}},
+		attr = {{type=32,value=235895863},{type=5,value=61431214},{type=11,value=73717457},},
+	},
+	[1615]={
+		star = 1615,
+		needitem = {{type=1,id=1010000,count=2091}},
+		attr = {{type=32,value=236255229},{type=5,value=61524799},{type=11,value=73829759},},
+	},
+	[1616]={
+		star = 1616,
+		needitem = {{type=1,id=1010000,count=2093}},
+		attr = {{type=32,value=236614793},{type=5,value=61618435},{type=11,value=73942122},},
+	},
+	[1617]={
+		star = 1617,
+		needitem = {{type=1,id=1010000,count=2095}},
+		attr = {{type=32,value=236974737},{type=5,value=61712171},{type=11,value=74054605},},
+	},
+	[1618]={
+		star = 1618,
+		needitem = {{type=1,id=1010000,count=2097}},
+		attr = {{type=32,value=237335061},{type=5,value=61806005},{type=11,value=74167206},},
+	},
+	[1619]={
+		star = 1619,
+		needitem = {{type=1,id=1010000,count=2099}},
+		attr = {{type=32,value=237695766},{type=5,value=61899939},{type=11,value=74279926},},
+	},
+	[1620]={
+		star = 1620,
+		needitem = {{type=1,id=1010000,count=2101}},
+		attr = {{type=32,value=238056851},{type=5,value=61993971},{type=11,value=74392766},},
+	},
+	[1621]={
+		star = 1621,
+		needitem = {{type=1,id=1010000,count=2103}},
+		attr = {{type=32,value=238418134},{type=5,value=62088055},{type=11,value=74505667},},
+	},
+	[1622]={
+		star = 1622,
+		needitem = {{type=1,id=1010000,count=2105}},
+		attr = {{type=32,value=238779797},{type=5,value=62182239},{type=11,value=74618686},},
+	},
+	[1623]={
+		star = 1623,
+		needitem = {{type=1,id=1010000,count=2107}},
+		attr = {{type=32,value=239141841},{type=5,value=62276521},{type=11,value=74731825},},
+	},
+	[1624]={
+		star = 1624,
+		needitem = {{type=1,id=1010000,count=2109}},
+		attr = {{type=32,value=239504265},{type=5,value=62370902},{type=11,value=74845083},},
+	},
+	[1625]={
+		star = 1625,
+		needitem = {{type=1,id=1010000,count=2111}},
+		attr = {{type=32,value=239867070},{type=5,value=62465382},{type=11,value=74958459},},
+	},
+	[1626]={
+		star = 1626,
+		needitem = {{type=1,id=1010000,count=2113}},
+		attr = {{type=32,value=240230072},{type=5,value=62559914},{type=11,value=75071897},},
+	},
+	[1627]={
+		star = 1627,
+		needitem = {{type=1,id=1010000,count=2115}},
+		attr = {{type=32,value=240593455},{type=5,value=62654545},{type=11,value=75185454},},
+	},
+	[1628]={
+		star = 1628,
+		needitem = {{type=1,id=1010000,count=2117}},
+		attr = {{type=32,value=240957218},{type=5,value=62749275},{type=11,value=75299130},},
+	},
+	[1629]={
+		star = 1629,
+		needitem = {{type=1,id=1010000,count=2119}},
+		attr = {{type=32,value=241321362},{type=5,value=62844104},{type=11,value=75412925},},
+	},
+	[1630]={
+		star = 1630,
+		needitem = {{type=1,id=1010000,count=2121}},
+		attr = {{type=32,value=241685886},{type=5,value=62939032},{type=11,value=75526839},},
+	},
+	[1631]={
+		star = 1631,
+		needitem = {{type=1,id=1010000,count=2123}},
+		attr = {{type=32,value=242050607},{type=5,value=63034012},{type=11,value=75640814},},
+	},
+	[1632]={
+		star = 1632,
+		needitem = {{type=1,id=1010000,count=2125}},
+		attr = {{type=32,value=242415710},{type=5,value=63129091},{type=11,value=75754909},},
+	},
+	[1633]={
+		star = 1633,
+		needitem = {{type=1,id=1010000,count=2127}},
+		attr = {{type=32,value=242781192},{type=5,value=63224268},{type=11,value=75869122},},
+	},
+	[1634]={
+		star = 1634,
+		needitem = {{type=1,id=1010000,count=2129}},
+		attr = {{type=32,value=243147055},{type=5,value=63319545},{type=11,value=75983454},},
+	},
+	[1635]={
+		star = 1635,
+		needitem = {{type=1,id=1010000,count=2131}},
+		attr = {{type=32,value=243513298},{type=5,value=63414921},{type=11,value=76097905},},
+	},
+	[1636]={
+		star = 1636,
+		needitem = {{type=1,id=1010000,count=2133}},
+		attr = {{type=32,value=243879740},{type=5,value=63510349},{type=11,value=76212418},},
+	},
+	[1637]={
+		star = 1637,
+		needitem = {{type=1,id=1010000,count=2135}},
+		attr = {{type=32,value=244246561},{type=5,value=63605875},{type=11,value=76327050},},
+	},
+	[1638]={
+		star = 1638,
+		needitem = {{type=1,id=1010000,count=2137}},
+		attr = {{type=32,value=244613763},{type=5,value=63701500},{type=11,value=76441801},},
+	},
+	[1639]={
+		star = 1639,
+		needitem = {{type=1,id=1010000,count=2139}},
+		attr = {{type=32,value=244981346},{type=5,value=63797225},{type=11,value=76556670},},
+	},
+	[1640]={
+		star = 1640,
+		needitem = {{type=1,id=1010000,count=2141}},
+		attr = {{type=32,value=245349308},{type=5,value=63893049},{type=11,value=76671659},},
+	},
+	[1641]={
+		star = 1641,
+		needitem = {{type=1,id=1010000,count=2143}},
+		attr = {{type=32,value=245717469},{type=5,value=63988924},{type=11,value=76786709},},
+	},
+	[1642]={
+		star = 1642,
+		needitem = {{type=1,id=1010000,count=2145}},
+		attr = {{type=32,value=246086010},{type=5,value=64084898},{type=11,value=76901878},},
+	},
+	[1643]={
+		star = 1643,
+		needitem = {{type=1,id=1010000,count=2147}},
+		attr = {{type=32,value=246454931},{type=5,value=64180971},{type=11,value=77017166},},
+	},
+	[1644]={
+		star = 1644,
+		needitem = {{type=1,id=1010000,count=2149}},
+		attr = {{type=32,value=246824233},{type=5,value=64277144},{type=11,value=77132573},},
+	},
+	[1645]={
+		star = 1645,
+		needitem = {{type=1,id=1010000,count=2151}},
+		attr = {{type=32,value=247193915},{type=5,value=64373415},{type=11,value=77248098},},
+	},
+	[1646]={
+		star = 1646,
+		needitem = {{type=1,id=1010000,count=2153}},
+		attr = {{type=32,value=247563795},{type=5,value=64469738},{type=11,value=77363686},},
+	},
+	[1647]={
+		star = 1647,
+		needitem = {{type=1,id=1010000,count=2155}},
+		attr = {{type=32,value=247934056},{type=5,value=64566160},{type=11,value=77479392},},
+	},
+	[1648]={
+		star = 1648,
+		needitem = {{type=1,id=1010000,count=2157}},
+		attr = {{type=32,value=248304697},{type=5,value=64662681},{type=11,value=77595217},},
+	},
+	[1649]={
+		star = 1649,
+		needitem = {{type=1,id=1010000,count=2159}},
+		attr = {{type=32,value=248675718},{type=5,value=64759301},{type=11,value=77711161},},
+	},
+	[1650]={
+		star = 1650,
+		needitem = {{type=1,id=1010000,count=2161}},
+		attr = {{type=32,value=249047119},{type=5,value=64856020},{type=11,value=77827224},},
+	},
+	[1651]={
+		star = 1651,
+		needitem = {{type=1,id=1010000,count=2163}},
+		attr = {{type=32,value=249418719},{type=5,value=64952791},{type=11,value=77943349},},
+	},
+	[1652]={
+		star = 1652,
+		needitem = {{type=1,id=1010000,count=2165}},
+		attr = {{type=32,value=249790698},{type=5,value=65049661},{type=11,value=78059593},},
+	},
+	[1653]={
+		star = 1653,
+		needitem = {{type=1,id=1010000,count=2167}},
+		attr = {{type=32,value=250163059},{type=5,value=65146629},{type=11,value=78175955},},
+	},
+	[1654]={
+		star = 1654,
+		needitem = {{type=1,id=1010000,count=2169}},
+		attr = {{type=32,value=250535799},{type=5,value=65243697},{type=11,value=78292437},},
+	},
+	[1655]={
+		star = 1655,
+		needitem = {{type=1,id=1010000,count=2171}},
+		attr = {{type=32,value=250908920},{type=5,value=65340864},{type=11,value=78409037},},
+	},
+	[1656]={
+		star = 1656,
+		needitem = {{type=1,id=1010000,count=2173}},
+		attr = {{type=32,value=251282239},{type=5,value=65438083},{type=11,value=78525699},},
+	},
+	[1657]={
+		star = 1657,
+		needitem = {{type=1,id=1010000,count=2175}},
+		attr = {{type=32,value=251655938},{type=5,value=65535400},{type=11,value=78642480},},
+	},
+	[1658]={
+		star = 1658,
+		needitem = {{type=1,id=1010000,count=2177}},
+		attr = {{type=32,value=252030018},{type=5,value=65632817},{type=11,value=78759380},},
+	},
+	[1659]={
+		star = 1659,
+		needitem = {{type=1,id=1010000,count=2179}},
+		attr = {{type=32,value=252404478},{type=5,value=65730332},{type=11,value=78876399},},
+	},
+	[1660]={
+		star = 1660,
+		needitem = {{type=1,id=1010000,count=2181}},
+		attr = {{type=32,value=252779318},{type=5,value=65827947},{type=11,value=78993537},},
+	},
+	[1661]={
+		star = 1661,
+		needitem = {{type=1,id=1010000,count=2183}},
+		attr = {{type=32,value=253154356},{type=5,value=65925613},{type=11,value=79110736},},
+	},
+	[1662]={
+		star = 1662,
+		needitem = {{type=1,id=1010000,count=2185}},
+		attr = {{type=32,value=253529775},{type=5,value=66023379},{type=11,value=79228054},},
+	},
+	[1663]={
+		star = 1663,
+		needitem = {{type=1,id=1010000,count=2187}},
+		attr = {{type=32,value=253905574},{type=5,value=66121243},{type=11,value=79345492},},
+	},
+	[1664]={
+		star = 1664,
+		needitem = {{type=1,id=1010000,count=2189}},
+		attr = {{type=32,value=254281753},{type=5,value=66219206},{type=11,value=79463048},},
+	},
+	[1665]={
+		star = 1665,
+		needitem = {{type=1,id=1010000,count=2191}},
+		attr = {{type=32,value=254658313},{type=5,value=66317269},{type=11,value=79580722},},
+	},
+	[1666]={
+		star = 1666,
+		needitem = {{type=1,id=1010000,count=2193}},
+		attr = {{type=32,value=255035071},{type=5,value=66415383},{type=11,value=79698459},},
+	},
+	[1667]={
+		star = 1667,
+		needitem = {{type=1,id=1010000,count=2195}},
+		attr = {{type=32,value=255412209},{type=5,value=66513596},{type=11,value=79816315},},
+	},
+	[1668]={
+		star = 1668,
+		needitem = {{type=1,id=1010000,count=2197}},
+		attr = {{type=32,value=255789727},{type=5,value=66611908},{type=11,value=79934289},},
+	},
+	[1669]={
+		star = 1669,
+		needitem = {{type=1,id=1010000,count=2199}},
+		attr = {{type=32,value=256167626},{type=5,value=66710319},{type=11,value=80052383},},
+	},
+	[1670]={
+		star = 1670,
+		needitem = {{type=1,id=1010000,count=2201}},
+		attr = {{type=32,value=256545905},{type=5,value=66808829},{type=11,value=80170595},},
+	},
+	[1671]={
+		star = 1671,
+		needitem = {{type=1,id=1010000,count=2203}},
+		attr = {{type=32,value=256924382},{type=5,value=66907391},{type=11,value=80288869},},
+	},
+	[1672]={
+		star = 1672,
+		needitem = {{type=1,id=1010000,count=2205}},
+		attr = {{type=32,value=257303239},{type=5,value=67006052},{type=11,value=80407262},},
+	},
+	[1673]={
+		star = 1673,
+		needitem = {{type=1,id=1010000,count=2207}},
+		attr = {{type=32,value=257682477},{type=5,value=67104811},{type=11,value=80525774},},
+	},
+	[1674]={
+		star = 1674,
+		needitem = {{type=1,id=1010000,count=2209}},
+		attr = {{type=32,value=258062095},{type=5,value=67203670},{type=11,value=80644404},},
+	},
+	[1675]={
+		star = 1675,
+		needitem = {{type=1,id=1010000,count=2211}},
+		attr = {{type=32,value=258442094},{type=5,value=67302628},{type=11,value=80763154},},
+	},
+	[1676]={
+		star = 1676,
+		needitem = {{type=1,id=1010000,count=2213}},
+		attr = {{type=32,value=258822290},{type=5,value=67401638},{type=11,value=80881965},},
+	},
+	[1677]={
+		star = 1677,
+		needitem = {{type=1,id=1010000,count=2215}},
+		attr = {{type=32,value=259202867},{type=5,value=67500746},{type=11,value=81000896},},
+	},
+	[1678]={
+		star = 1678,
+		needitem = {{type=1,id=1010000,count=2217}},
+		attr = {{type=32,value=259583824},{type=5,value=67599954},{type=11,value=81119945},},
+	},
+	[1679]={
+		star = 1679,
+		needitem = {{type=1,id=1010000,count=2219}},
+		attr = {{type=32,value=259965162},{type=5,value=67699261},{type=11,value=81239113},},
+	},
+	[1680]={
+		star = 1680,
+		needitem = {{type=1,id=1010000,count=2221}},
+		attr = {{type=32,value=260346880},{type=5,value=67798666},{type=11,value=81358400},},
+	},
+	[1681]={
+		star = 1681,
+		needitem = {{type=1,id=1010000,count=2223}},
+		attr = {{type=32,value=260728796},{type=5,value=67898124},{type=11,value=81477748},},
+	},
+	[1682]={
+		star = 1682,
+		needitem = {{type=1,id=1010000,count=2225}},
+		attr = {{type=32,value=261111092},{type=5,value=67997680},{type=11,value=81597216},},
+	},
+	[1683]={
+		star = 1683,
+		needitem = {{type=1,id=1010000,count=2227}},
+		attr = {{type=32,value=261493769},{type=5,value=68097335},{type=11,value=81716802},},
+	},
+	[1684]={
+		star = 1684,
+		needitem = {{type=1,id=1010000,count=2229}},
+		attr = {{type=32,value=261876826},{type=5,value=68197090},{type=11,value=81836508},},
+	},
+	[1685]={
+		star = 1685,
+		needitem = {{type=1,id=1010000,count=2231}},
+		attr = {{type=32,value=262260263},{type=5,value=68296943},{type=11,value=81956332},},
+	},
+	[1686]={
+		star = 1686,
+		needitem = {{type=1,id=1010000,count=2233}},
+		attr = {{type=32,value=262643898},{type=5,value=68396848},{type=11,value=82076218},},
+	},
+	[1687]={
+		star = 1687,
+		needitem = {{type=1,id=1010000,count=2235}},
+		attr = {{type=32,value=263027914},{type=5,value=68496852},{type=11,value=82196223},},
+	},
+	[1688]={
+		star = 1688,
+		needitem = {{type=1,id=1010000,count=2237}},
+		attr = {{type=32,value=263412310},{type=5,value=68596955},{type=11,value=82316347},},
+	},
+	[1689]={
+		star = 1689,
+		needitem = {{type=1,id=1010000,count=2239}},
+		attr = {{type=32,value=263797086},{type=5,value=68697158},{type=11,value=82436589},},
+	},
+	[1690]={
+		star = 1690,
+		needitem = {{type=1,id=1010000,count=2241}},
+		attr = {{type=32,value=264182243},{type=5,value=68797459},{type=11,value=82556951},},
+	},
+	[1691]={
+		star = 1691,
+		needitem = {{type=1,id=1010000,count=2243}},
+		attr = {{type=32,value=264567598},{type=5,value=68897812},{type=11,value=82677374},},
+	},
+	[1692]={
+		star = 1692,
+		needitem = {{type=1,id=1010000,count=2245}},
+		attr = {{type=32,value=264953333},{type=5,value=68998263},{type=11,value=82797916},},
+	},
+	[1693]={
+		star = 1693,
+		needitem = {{type=1,id=1010000,count=2247}},
+		attr = {{type=32,value=265339448},{type=5,value=69098814},{type=11,value=82918577},},
+	},
+	[1694]={
+		star = 1694,
+		needitem = {{type=1,id=1010000,count=2249}},
+		attr = {{type=32,value=265725944},{type=5,value=69199464},{type=11,value=83039357},},
+	},
+	[1695]={
+		star = 1695,
+		needitem = {{type=1,id=1010000,count=2251}},
+		attr = {{type=32,value=266112820},{type=5,value=69300213},{type=11,value=83160256},},
+	},
+	[1696]={
+		star = 1696,
+		needitem = {{type=1,id=1010000,count=2253}},
+		attr = {{type=32,value=266499894},{type=5,value=69401014},{type=11,value=83281217},},
+	},
+	[1697]={
+		star = 1697,
+		needitem = {{type=1,id=1010000,count=2255}},
+		attr = {{type=32,value=266887349},{type=5,value=69501913},{type=11,value=83402296},},
+	},
+	[1698]={
+		star = 1698,
+		needitem = {{type=1,id=1010000,count=2257}},
+		attr = {{type=32,value=267275183},{type=5,value=69602912},{type=11,value=83523494},},
+	},
+	[1699]={
+		star = 1699,
+		needitem = {{type=1,id=1010000,count=2259}},
+		attr = {{type=32,value=267663399},{type=5,value=69704010},{type=11,value=83644812},},
+	},
+	[1700]={
+		star = 1700,
+		needitem = {{type=1,id=1010000,count=2261}},
+		attr = {{type=32,value=268051994},{type=5,value=69805206},{type=11,value=83766248},},
+	},
+	[1701]={
+		star = 1701,
+		needitem = {{type=1,id=1010000,count=2263}},
+		attr = {{type=32,value=268440788},{type=5,value=69906455},{type=11,value=83887746},},
+	},
+	[1702]={
+		star = 1702,
+		needitem = {{type=1,id=1010000,count=2265}},
+		attr = {{type=32,value=268829962},{type=5,value=70007802},{type=11,value=84009363},},
+	},
+	[1703]={
+		star = 1703,
+		needitem = {{type=1,id=1010000,count=2267}},
+		attr = {{type=32,value=269219516},{type=5,value=70109249},{type=11,value=84131098},},
+	},
+	[1704]={
+		star = 1704,
+		needitem = {{type=1,id=1010000,count=2269}},
+		attr = {{type=32,value=269609450},{type=5,value=70210794},{type=11,value=84252953},},
+	},
+	[1705]={
+		star = 1705,
+		needitem = {{type=1,id=1010000,count=2271}},
+		attr = {{type=32,value=269999765},{type=5,value=70312438},{type=11,value=84374926},},
+	},
+	[1706]={
+		star = 1706,
+		needitem = {{type=1,id=1010000,count=2273}},
+		attr = {{type=32,value=270390278},{type=5,value=70414135},{type=11,value=84496962},},
+	},
+	[1707]={
+		star = 1707,
+		needitem = {{type=1,id=1010000,count=2275}},
+		attr = {{type=32,value=270781171},{type=5,value=70515930},{type=11,value=84619116},},
+	},
+	[1708]={
+		star = 1708,
+		needitem = {{type=1,id=1010000,count=2277}},
+		attr = {{type=32,value=271172445},{type=5,value=70617824},{type=11,value=84741389},},
+	},
+	[1709]={
+		star = 1709,
+		needitem = {{type=1,id=1010000,count=2279}},
+		attr = {{type=32,value=271564099},{type=5,value=70719817},{type=11,value=84863781},},
+	},
+	[1710]={
+		star = 1710,
+		needitem = {{type=1,id=1010000,count=2281}},
+		attr = {{type=32,value=271956133},{type=5,value=70821909},{type=11,value=84986291},},
+	},
+	[1711]={
+		star = 1711,
+		needitem = {{type=1,id=1010000,count=2283}},
+		attr = {{type=32,value=272348366},{type=5,value=70924053},{type=11,value=85108864},},
+	},
+	[1712]={
+		star = 1712,
+		needitem = {{type=1,id=1010000,count=2285}},
+		attr = {{type=32,value=272740978},{type=5,value=71026296},{type=11,value=85231555},},
+	},
+	[1713]={
+		star = 1713,
+		needitem = {{type=1,id=1010000,count=2287}},
+		attr = {{type=32,value=273133971},{type=5,value=71128638},{type=11,value=85354366},},
+	},
+	[1714]={
+		star = 1714,
+		needitem = {{type=1,id=1010000,count=2289}},
+		attr = {{type=32,value=273527345},{type=5,value=71231079},{type=11,value=85477295},},
+	},
+	[1715]={
+		star = 1715,
+		needitem = {{type=1,id=1010000,count=2291}},
+		attr = {{type=32,value=273921098},{type=5,value=71333619},{type=11,value=85600343},},
+	},
+	[1716]={
+		star = 1716,
+		needitem = {{type=1,id=1010000,count=2293}},
+		attr = {{type=32,value=274315050},{type=5,value=71436211},{type=11,value=85723453},},
+	},
+	[1717]={
+		star = 1717,
+		needitem = {{type=1,id=1010000,count=2295}},
+		attr = {{type=32,value=274709382},{type=5,value=71538901},{type=11,value=85846682},},
+	},
+	[1718]={
+		star = 1718,
+		needitem = {{type=1,id=1010000,count=2297}},
+		attr = {{type=32,value=275104095},{type=5,value=71641691},{type=11,value=85970029},},
+	},
+	[1719]={
+		star = 1719,
+		needitem = {{type=1,id=1010000,count=2299}},
+		attr = {{type=32,value=275499187},{type=5,value=71744580},{type=11,value=86093496},},
+	},
+	[1720]={
+		star = 1720,
+		needitem = {{type=1,id=1010000,count=2301}},
+		attr = {{type=32,value=275894661},{type=5,value=71847567},{type=11,value=86217081},},
+	},
+	[1721]={
+		star = 1721,
+		needitem = {{type=1,id=1010000,count=2303}},
+		attr = {{type=32,value=276290332},{type=5,value=71950607},{type=11,value=86340728},},
+	},
+	[1722]={
+		star = 1722,
+		needitem = {{type=1,id=1010000,count=2305}},
+		attr = {{type=32,value=276686383},{type=5,value=72053745},{type=11,value=86464494},},
+	},
+	[1723]={
+		star = 1723,
+		needitem = {{type=1,id=1010000,count=2307}},
+		attr = {{type=32,value=277082815},{type=5,value=72156983},{type=11,value=86588379},},
+	},
+	[1724]={
+		star = 1724,
+		needitem = {{type=1,id=1010000,count=2309}},
+		attr = {{type=32,value=277479627},{type=5,value=72260319},{type=11,value=86712383},},
+	},
+	[1725]={
+		star = 1725,
+		needitem = {{type=1,id=1010000,count=2311}},
+		attr = {{type=32,value=277876820},{type=5,value=72363755},{type=11,value=86836506},},
+	},
+	[1726]={
+		star = 1726,
+		needitem = {{type=1,id=1010000,count=2313}},
+		attr = {{type=32,value=278274210},{type=5,value=72467242},{type=11,value=86960690},},
+	},
+	[1727]={
+		star = 1727,
+		needitem = {{type=1,id=1010000,count=2315}},
+		attr = {{type=32,value=278671981},{type=5,value=72570828},{type=11,value=87084994},},
+	},
+	[1728]={
+		star = 1728,
+		needitem = {{type=1,id=1010000,count=2317}},
+		attr = {{type=32,value=279070132},{type=5,value=72674513},{type=11,value=87209416},},
+	},
+	[1729]={
+		star = 1729,
+		needitem = {{type=1,id=1010000,count=2319}},
+		attr = {{type=32,value=279468664},{type=5,value=72778298},{type=11,value=87333957},},
+	},
+	[1730]={
+		star = 1730,
+		needitem = {{type=1,id=1010000,count=2321}},
+		attr = {{type=32,value=279867576},{type=5,value=72882181},{type=11,value=87458617},},
+	},
+	[1731]={
+		star = 1731,
+		needitem = {{type=1,id=1010000,count=2323}},
+		attr = {{type=32,value=280266686},{type=5,value=72986116},{type=11,value=87583339},},
+	},
+	[1732]={
+		star = 1732,
+		needitem = {{type=1,id=1010000,count=2325}},
+		attr = {{type=32,value=280666176},{type=5,value=73090150},{type=11,value=87708180},},
+	},
+	[1733]={
+		star = 1733,
+		needitem = {{type=1,id=1010000,count=2327}},
+		attr = {{type=32,value=281066047},{type=5,value=73194283},{type=11,value=87833139},},
+	},
+	[1734]={
+		star = 1734,
+		needitem = {{type=1,id=1010000,count=2329}},
+		attr = {{type=32,value=281466298},{type=5,value=73298515},{type=11,value=87958218},},
+	},
+	[1735]={
+		star = 1735,
+		needitem = {{type=1,id=1010000,count=2331}},
+		attr = {{type=32,value=281866929},{type=5,value=73402846},{type=11,value=88083415},},
+	},
+	[1736]={
+		star = 1736,
+		needitem = {{type=1,id=1010000,count=2333}},
+		attr = {{type=32,value=282267758},{type=5,value=73507228},{type=11,value=88208674},},
+	},
+	[1737]={
+		star = 1737,
+		needitem = {{type=1,id=1010000,count=2335}},
+		attr = {{type=32,value=282668968},{type=5,value=73611710},{type=11,value=88334052},},
+	},
+	[1738]={
+		star = 1738,
+		needitem = {{type=1,id=1010000,count=2337}},
+		attr = {{type=32,value=283070558},{type=5,value=73716291},{type=11,value=88459549},},
+	},
+	[1739]={
+		star = 1739,
+		needitem = {{type=1,id=1010000,count=2339}},
+		attr = {{type=32,value=283472528},{type=5,value=73820971},{type=11,value=88585165},},
+	},
+	[1740]={
+		star = 1740,
+		needitem = {{type=1,id=1010000,count=2341}},
+		attr = {{type=32,value=283874879},{type=5,value=73925749},{type=11,value=88710899},},
+	},
+	[1741]={
+		star = 1741,
+		needitem = {{type=1,id=1010000,count=2343}},
+		attr = {{type=32,value=284277428},{type=5,value=74030580},{type=11,value=88836696},},
+	},
+	[1742]={
+		star = 1742,
+		needitem = {{type=1,id=1010000,count=2345}},
+		attr = {{type=32,value=284680357},{type=5,value=74135509},{type=11,value=88962611},},
+	},
+	[1743]={
+		star = 1743,
+		needitem = {{type=1,id=1010000,count=2347}},
+		attr = {{type=32,value=285083666},{type=5,value=74240538},{type=11,value=89088645},},
+	},
+	[1744]={
+		star = 1744,
+		needitem = {{type=1,id=1010000,count=2349}},
+		attr = {{type=32,value=285487356},{type=5,value=74345665},{type=11,value=89214798},},
+	},
+	[1745]={
+		star = 1745,
+		needitem = {{type=1,id=1010000,count=2351}},
+		attr = {{type=32,value=285891426},{type=5,value=74450892},{type=11,value=89341070},},
+	},
+	[1746]={
+		star = 1746,
+		needitem = {{type=1,id=1010000,count=2353}},
+		attr = {{type=32,value=286295695},{type=5,value=74556170},{type=11,value=89467404},},
+	},
+	[1747]={
+		star = 1747,
+		needitem = {{type=1,id=1010000,count=2355}},
+		attr = {{type=32,value=286700343},{type=5,value=74661547},{type=11,value=89593857},},
+	},
+	[1748]={
+		star = 1748,
+		needitem = {{type=1,id=1010000,count=2357}},
+		attr = {{type=32,value=287105372},{type=5,value=74767024},{type=11,value=89720428},},
+	},
+	[1749]={
+		star = 1749,
+		needitem = {{type=1,id=1010000,count=2359}},
+		attr = {{type=32,value=287510781},{type=5,value=74872599},{type=11,value=89847119},},
+	},
+	[1750]={
+		star = 1750,
+		needitem = {{type=1,id=1010000,count=2361}},
+		attr = {{type=32,value=287916571},{type=5,value=74978273},{type=11,value=89973928},},
+	},
+	[1751]={
+		star = 1751,
+		needitem = {{type=1,id=1010000,count=2363}},
+		attr = {{type=32,value=288322558},{type=5,value=75083999},{type=11,value=90100799},},
+	},
+	[1752]={
+		star = 1752,
+		needitem = {{type=1,id=1010000,count=2365}},
+		attr = {{type=32,value=288728926},{type=5,value=75189824},{type=11,value=90227789},},
+	},
+	[1753]={
+		star = 1753,
+		needitem = {{type=1,id=1010000,count=2367}},
+		attr = {{type=32,value=289135674},{type=5,value=75295748},{type=11,value=90354898},},
+	},
+	[1754]={
+		star = 1754,
+		needitem = {{type=1,id=1010000,count=2369}},
+		attr = {{type=32,value=289542803},{type=5,value=75401771},{type=11,value=90482126},},
+	},
+	[1755]={
+		star = 1755,
+		needitem = {{type=1,id=1010000,count=2371}},
+		attr = {{type=32,value=289950312},{type=5,value=75507893},{type=11,value=90609472},},
+	},
+	[1756]={
+		star = 1756,
+		needitem = {{type=1,id=1010000,count=2373}},
+		attr = {{type=32,value=290358019},{type=5,value=75614067},{type=11,value=90736881},},
+	},
+	[1757]={
+		star = 1757,
+		needitem = {{type=1,id=1010000,count=2375}},
+		attr = {{type=32,value=290766106},{type=5,value=75720340},{type=11,value=90864408},},
+	},
+	[1758]={
+		star = 1758,
+		needitem = {{type=1,id=1010000,count=2377}},
+		attr = {{type=32,value=291174574},{type=5,value=75826712},{type=11,value=90992054},},
+	},
+	[1759]={
+		star = 1759,
+		needitem = {{type=1,id=1010000,count=2379}},
+		attr = {{type=32,value=291583422},{type=5,value=75933182},{type=11,value=91119819},},
+	},
+	[1760]={
+		star = 1760,
+		needitem = {{type=1,id=1010000,count=2381}},
+		attr = {{type=32,value=291992650},{type=5,value=76039752},{type=11,value=91247703},},
+	},
+	[1761]={
+		star = 1761,
+		needitem = {{type=1,id=1010000,count=2383}},
+		attr = {{type=32,value=292402076},{type=5,value=76146374},{type=11,value=91375649},},
+	},
+	[1762]={
+		star = 1762,
+		needitem = {{type=1,id=1010000,count=2385}},
+		attr = {{type=32,value=292811883},{type=5,value=76253094},{type=11,value=91503713},},
+	},
+	[1763]={
+		star = 1763,
+		needitem = {{type=1,id=1010000,count=2387}},
+		attr = {{type=32,value=293222070},{type=5,value=76359914},{type=11,value=91631897},},
+	},
+	[1764]={
+		star = 1764,
+		needitem = {{type=1,id=1010000,count=2389}},
+		attr = {{type=32,value=293632638},{type=5,value=76466832},{type=11,value=91760199},},
+	},
+	[1765]={
+		star = 1765,
+		needitem = {{type=1,id=1010000,count=2391}},
+		attr = {{type=32,value=294043585},{type=5,value=76573850},{type=11,value=91888620},},
+	},
+	[1766]={
+		star = 1766,
+		needitem = {{type=1,id=1010000,count=2393}},
+		attr = {{type=32,value=294454731},{type=5,value=76680919},{type=11,value=92017103},},
+	},
+	[1767]={
+		star = 1767,
+		needitem = {{type=1,id=1010000,count=2395}},
+		attr = {{type=32,value=294866257},{type=5,value=76788087},{type=11,value=92145705},},
+	},
+	[1768]={
+		star = 1768,
+		needitem = {{type=1,id=1010000,count=2397}},
+		attr = {{type=32,value=295278164},{type=5,value=76895355},{type=11,value=92274426},},
+	},
+	[1769]={
+		star = 1769,
+		needitem = {{type=1,id=1010000,count=2399}},
+		attr = {{type=32,value=295690450},{type=5,value=77002721},{type=11,value=92403265},},
+	},
+	[1770]={
+		star = 1770,
+		needitem = {{type=1,id=1010000,count=2401}},
+		attr = {{type=32,value=296103118},{type=5,value=77110187},{type=11,value=92532224},},
+	},
+	[1771]={
+		star = 1771,
+		needitem = {{type=1,id=1010000,count=2403}},
+		attr = {{type=32,value=296515983},{type=5,value=77217703},{type=11,value=92661244},},
+	},
+	[1772]={
+		star = 1772,
+		needitem = {{type=1,id=1010000,count=2405}},
+		attr = {{type=32,value=296929228},{type=5,value=77325319},{type=11,value=92790383},},
+	},
+	[1773]={
+		star = 1773,
+		needitem = {{type=1,id=1010000,count=2407}},
+		attr = {{type=32,value=297342854},{type=5,value=77433035},{type=11,value=92919642},},
+	},
+	[1774]={
+		star = 1774,
+		needitem = {{type=1,id=1010000,count=2409}},
+		attr = {{type=32,value=297756860},{type=5,value=77540849},{type=11,value=93049019},},
+	},
+	[1775]={
+		star = 1775,
+		needitem = {{type=1,id=1010000,count=2411}},
+		attr = {{type=32,value=298171247},{type=5,value=77648762},{type=11,value=93178514},},
+	},
+	[1776]={
+		star = 1776,
+		needitem = {{type=1,id=1010000,count=2413}},
+		attr = {{type=32,value=298585831},{type=5,value=77756727},{type=11,value=93308072},},
+	},
+	[1777]={
+		star = 1777,
+		needitem = {{type=1,id=1010000,count=2415}},
+		attr = {{type=32,value=299000796},{type=5,value=77864790},{type=11,value=93437749},},
+	},
+	[1778]={
+		star = 1778,
+		needitem = {{type=1,id=1010000,count=2417}},
+		attr = {{type=32,value=299416142},{type=5,value=77972953},{type=11,value=93567544},},
+	},
+	[1779]={
+		star = 1779,
+		needitem = {{type=1,id=1010000,count=2419}},
+		attr = {{type=32,value=299831867},{type=5,value=78081215},{type=11,value=93697458},},
+	},
+	[1780]={
+		star = 1780,
+		needitem = {{type=1,id=1010000,count=2421}},
+		attr = {{type=32,value=300247973},{type=5,value=78189576},{type=11,value=93827491},},
+	},
+	[1781]={
+		star = 1781,
+		needitem = {{type=1,id=1010000,count=2423}},
+		attr = {{type=32,value=300664277},{type=5,value=78297988},{type=11,value=93957586},},
+	},
+	[1782]={
+		star = 1782,
+		needitem = {{type=1,id=1010000,count=2425}},
+		attr = {{type=32,value=301080961},{type=5,value=78406500},{type=11,value=94087800},},
+	},
+	[1783]={
+		star = 1783,
+		needitem = {{type=1,id=1010000,count=2427}},
+		attr = {{type=32,value=301498026},{type=5,value=78515111},{type=11,value=94218133},},
+	},
+	[1784]={
+		star = 1784,
+		needitem = {{type=1,id=1010000,count=2429}},
+		attr = {{type=32,value=301915471},{type=5,value=78623820},{type=11,value=94348584},},
+	},
+	[1785]={
+		star = 1785,
+		needitem = {{type=1,id=1010000,count=2431}},
+		attr = {{type=32,value=302333297},{type=5,value=78732629},{type=11,value=94479155},},
+	},
+	[1786]={
+		star = 1786,
+		needitem = {{type=1,id=1010000,count=2433}},
+		attr = {{type=32,value=302751320},{type=5,value=78841489},{type=11,value=94609787},},
+	},
+	[1787]={
+		star = 1787,
+		needitem = {{type=1,id=1010000,count=2435}},
+		attr = {{type=32,value=303169724},{type=5,value=78950448},{type=11,value=94740538},},
+	},
+	[1788]={
+		star = 1788,
+		needitem = {{type=1,id=1010000,count=2437}},
+		attr = {{type=32,value=303588508},{type=5,value=79059507},{type=11,value=94871408},},
+	},
+	[1789]={
+		star = 1789,
+		needitem = {{type=1,id=1010000,count=2439}},
+		attr = {{type=32,value=304007672},{type=5,value=79168664},{type=11,value=95002397},},
+	},
+	[1790]={
+		star = 1790,
+		needitem = {{type=1,id=1010000,count=2441}},
+		attr = {{type=32,value=304427217},{type=5,value=79277921},{type=11,value=95133505},},
+	},
+	[1791]={
+		star = 1791,
+		needitem = {{type=1,id=1010000,count=2443}},
+		attr = {{type=32,value=304846960},{type=5,value=79387229},{type=11,value=95264675},},
+	},
+	[1792]={
+		star = 1792,
+		needitem = {{type=1,id=1010000,count=2445}},
+		attr = {{type=32,value=305267083},{type=5,value=79496636},{type=11,value=95395963},},
+	},
+	[1793]={
+		star = 1793,
+		needitem = {{type=1,id=1010000,count=2447}},
+		attr = {{type=32,value=305687586},{type=5,value=79606142},{type=11,value=95527370},},
+	},
+	[1794]={
+		star = 1794,
+		needitem = {{type=1,id=1010000,count=2449}},
+		attr = {{type=32,value=306108470},{type=5,value=79715747},{type=11,value=95658897},},
+	},
+	[1795]={
+		star = 1795,
+		needitem = {{type=1,id=1010000,count=2451}},
+		attr = {{type=32,value=306529734},{type=5,value=79825451},{type=11,value=95790542},},
+	},
+	[1796]={
+		star = 1796,
+		needitem = {{type=1,id=1010000,count=2453}},
+		attr = {{type=32,value=306951196},{type=5,value=79935207},{type=11,value=95922249},},
+	},
+	[1797]={
+		star = 1797,
+		needitem = {{type=1,id=1010000,count=2455}},
+		attr = {{type=32,value=307373039},{type=5,value=80045062},{type=11,value=96054074},},
+	},
+	[1798]={
+		star = 1798,
+		needitem = {{type=1,id=1010000,count=2457}},
+		attr = {{type=32,value=307795262},{type=5,value=80155016},{type=11,value=96186019},},
+	},
+	[1799]={
+		star = 1799,
+		needitem = {{type=1,id=1010000,count=2459}},
+		attr = {{type=32,value=308217865},{type=5,value=80265069},{type=11,value=96318082},},
+	},
+	[1800]={
+		star = 1800,
+		needitem = {{type=1,id=1010000,count=2461}},
+		attr = {{type=32,value=308640849},{type=5,value=80375221},{type=11,value=96450265},},
+	},
+	[1801]={
+		star = 1801,
+		needitem = {{type=1,id=1010000,count=2463}},
+		attr = {{type=32,value=309064030},{type=5,value=80485424},{type=11,value=96582509},},
+	},
+	[1802]={
+		star = 1802,
+		needitem = {{type=1,id=1010000,count=2465}},
+		attr = {{type=32,value=309487592},{type=5,value=80595727},{type=11,value=96714872},},
+	},
+	[1803]={
+		star = 1803,
+		needitem = {{type=1,id=1010000,count=2467}},
+		attr = {{type=32,value=309911534},{type=5,value=80706128},{type=11,value=96847354},},
+	},
+	[1804]={
+		star = 1804,
+		needitem = {{type=1,id=1010000,count=2469}},
+		attr = {{type=32,value=310335857},{type=5,value=80816629},{type=11,value=96979955},},
+	},
+	[1805]={
+		star = 1805,
+		needitem = {{type=1,id=1010000,count=2471}},
+		attr = {{type=32,value=310760560},{type=5,value=80927229},{type=11,value=97112675},},
+	},
+	[1806]={
+		star = 1806,
+		needitem = {{type=1,id=1010000,count=2473}},
+		attr = {{type=32,value=311185461},{type=5,value=81037880},{type=11,value=97245456},},
+	},
+	[1807]={
+		star = 1807,
+		needitem = {{type=1,id=1010000,count=2475}},
+		attr = {{type=32,value=311610742},{type=5,value=81148630},{type=11,value=97378357},},
+	},
+	[1808]={
+		star = 1808,
+		needitem = {{type=1,id=1010000,count=2477}},
+		attr = {{type=32,value=312036404},{type=5,value=81259480},{type=11,value=97511376},},
+	},
+	[1809]={
+		star = 1809,
+		needitem = {{type=1,id=1010000,count=2479}},
+		attr = {{type=32,value=312462446},{type=5,value=81370428},{type=11,value=97644514},},
+	},
+	[1810]={
+		star = 1810,
+		needitem = {{type=1,id=1010000,count=2481}},
+		attr = {{type=32,value=312888868},{type=5,value=81481476},{type=11,value=97777771},},
+	},
+	[1811]={
+		star = 1811,
+		needitem = {{type=1,id=1010000,count=2483}},
+		attr = {{type=32,value=313315489},{type=5,value=81592575},{type=11,value=97911090},},
+	},
+	[1812]={
+		star = 1812,
+		needitem = {{type=1,id=1010000,count=2485}},
+		attr = {{type=32,value=313742489},{type=5,value=81703773},{type=11,value=98044528},},
+	},
+	[1813]={
+		star = 1813,
+		needitem = {{type=1,id=1010000,count=2487}},
+		attr = {{type=32,value=314169871},{type=5,value=81815070},{type=11,value=98178084},},
+	},
+	[1814]={
+		star = 1814,
+		needitem = {{type=1,id=1010000,count=2489}},
+		attr = {{type=32,value=314597632},{type=5,value=81926466},{type=11,value=98311760},},
+	},
+	[1815]={
+		star = 1815,
+		needitem = {{type=1,id=1010000,count=2491}},
+		attr = {{type=32,value=315025774},{type=5,value=82037962},{type=11,value=98445554},},
+	},
+	[1816]={
+		star = 1816,
+		needitem = {{type=1,id=1010000,count=2493}},
+		attr = {{type=32,value=315454114},{type=5,value=82149508},{type=11,value=98579410},},
+	},
+	[1817]={
+		star = 1817,
+		needitem = {{type=1,id=1010000,count=2495}},
+		attr = {{type=32,value=315882834},{type=5,value=82261154},{type=11,value=98713385},},
+	},
+	[1818]={
+		star = 1818,
+		needitem = {{type=1,id=1010000,count=2497}},
+		attr = {{type=32,value=316311934},{type=5,value=82372899},{type=11,value=98847479},},
+	},
+	[1819]={
+		star = 1819,
+		needitem = {{type=1,id=1010000,count=2499}},
+		attr = {{type=32,value=316741415},{type=5,value=82484743},{type=11,value=98981692},},
+	},
+	[1820]={
+		star = 1820,
+		needitem = {{type=1,id=1010000,count=2501}},
+		attr = {{type=32,value=317171276},{type=5,value=82596686},{type=11,value=99116023},},
+	},
+	[1821]={
+		star = 1821,
+		needitem = {{type=1,id=1010000,count=2503}},
+		attr = {{type=32,value=317601335},{type=5,value=82708681},{type=11,value=99250417},},
+	},
+	[1822]={
+		star = 1822,
+		needitem = {{type=1,id=1010000,count=2505}},
+		attr = {{type=32,value=318031775},{type=5,value=82820774},{type=11,value=99384929},},
+	},
+	[1823]={
+		star = 1823,
+		needitem = {{type=1,id=1010000,count=2507}},
+		attr = {{type=32,value=318462595},{type=5,value=82932967},{type=11,value=99519561},},
+	},
+	[1824]={
+		star = 1824,
+		needitem = {{type=1,id=1010000,count=2509}},
+		attr = {{type=32,value=318893795},{type=5,value=83045259},{type=11,value=99654311},},
+	},
+	[1825]={
+		star = 1825,
+		needitem = {{type=1,id=1010000,count=2511}},
+		attr = {{type=32,value=319325376},{type=5,value=83157650},{type=11,value=99789180},},
+	},
+	[1826]={
+		star = 1826,
+		needitem = {{type=1,id=1010000,count=2513}},
+		attr = {{type=32,value=319757154},{type=5,value=83270092},{type=11,value=99924110},},
+	},
+	[1827]={
+		star = 1827,
+		needitem = {{type=1,id=1010000,count=2515}},
+		attr = {{type=32,value=320189313},{type=5,value=83382633},{type=11,value=100059160},},
+	},
+	[1828]={
+		star = 1828,
+		needitem = {{type=1,id=1010000,count=2517}},
+		attr = {{type=32,value=320621852},{type=5,value=83495274},{type=11,value=100194329},},
+	},
+	[1829]={
+		star = 1829,
+		needitem = {{type=1,id=1010000,count=2519}},
+		attr = {{type=32,value=321054772},{type=5,value=83608013},{type=11,value=100329616},},
+	},
+	[1830]={
+		star = 1830,
+		needitem = {{type=1,id=1010000,count=2521}},
+		attr = {{type=32,value=321488072},{type=5,value=83720852},{type=11,value=100465022},},
+	},
+	[1831]={
+		star = 1831,
+		needitem = {{type=1,id=1010000,count=2523}},
+		attr = {{type=32,value=321921570},{type=5,value=83833742},{type=11,value=100600490},},
+	},
+	[1832]={
+		star = 1832,
+		needitem = {{type=1,id=1010000,count=2525}},
+		attr = {{type=32,value=322355448},{type=5,value=83946731},{type=11,value=100736077},},
+	},
+	[1833]={
+		star = 1833,
+		needitem = {{type=1,id=1010000,count=2527}},
+		attr = {{type=32,value=322789707},{type=5,value=84059819},{type=11,value=100871783},},
+	},
+	[1834]={
+		star = 1834,
+		needitem = {{type=1,id=1010000,count=2529}},
+		attr = {{type=32,value=323224346},{type=5,value=84173006},{type=11,value=101007608},},
+	},
+	[1835]={
+		star = 1835,
+		needitem = {{type=1,id=1010000,count=2531}},
+		attr = {{type=32,value=323659366},{type=5,value=84286293},{type=11,value=101143551},},
+	},
+	[1836]={
+		star = 1836,
+		needitem = {{type=1,id=1010000,count=2533}},
+		attr = {{type=32,value=324094583},{type=5,value=84399631},{type=11,value=101279557},},
+	},
+	[1837]={
+		star = 1837,
+		needitem = {{type=1,id=1010000,count=2535}},
+		attr = {{type=32,value=324530181},{type=5,value=84513068},{type=11,value=101415681},},
+	},
+	[1838]={
+		star = 1838,
+		needitem = {{type=1,id=1010000,count=2537}},
+		attr = {{type=32,value=324966159},{type=5,value=84626603},{type=11,value=101551924},},
+	},
+	[1839]={
+		star = 1839,
+		needitem = {{type=1,id=1010000,count=2539}},
+		attr = {{type=32,value=325402517},{type=5,value=84740238},{type=11,value=101688286},},
+	},
+	[1840]={
+		star = 1840,
+		needitem = {{type=1,id=1010000,count=2541}},
+		attr = {{type=32,value=325839256},{type=5,value=84853973},{type=11,value=101824767},},
+	},
+	[1841]={
+		star = 1841,
+		needitem = {{type=1,id=1010000,count=2543}},
+		attr = {{type=32,value=326276193},{type=5,value=84967758},{type=11,value=101961310},},
+	},
+	[1842]={
+		star = 1842,
+		needitem = {{type=1,id=1010000,count=2545}},
+		attr = {{type=32,value=326713510},{type=5,value=85081643},{type=11,value=102097972},},
+	},
+	[1843]={
+		star = 1843,
+		needitem = {{type=1,id=1010000,count=2547}},
+		attr = {{type=32,value=327151207},{type=5,value=85195627},{type=11,value=102234752},},
+	},
+	[1844]={
+		star = 1844,
+		needitem = {{type=1,id=1010000,count=2549}},
+		attr = {{type=32,value=327589285},{type=5,value=85309709},{type=11,value=102371651},},
+	},
+	[1845]={
+		star = 1845,
+		needitem = {{type=1,id=1010000,count=2551}},
+		attr = {{type=32,value=328027744},{type=5,value=85423891},{type=11,value=102508670},},
+	},
+	[1846]={
+		star = 1846,
+		needitem = {{type=1,id=1010000,count=2553}},
+		attr = {{type=32,value=328466400},{type=5,value=85538125},{type=11,value=102645750},},
+	},
+	[1847]={
+		star = 1847,
+		needitem = {{type=1,id=1010000,count=2555}},
+		attr = {{type=32,value=328905436},{type=5,value=85652457},{type=11,value=102782948},},
+	},
+	[1848]={
+		star = 1848,
+		needitem = {{type=1,id=1010000,count=2557}},
+		attr = {{type=32,value=329344853},{type=5,value=85766888},{type=11,value=102920266},},
+	},
+	[1849]={
+		star = 1849,
+		needitem = {{type=1,id=1010000,count=2559}},
+		attr = {{type=32,value=329784650},{type=5,value=85881419},{type=11,value=103057703},},
+	},
+	[1850]={
+		star = 1850,
+		needitem = {{type=1,id=1010000,count=2561}},
+		attr = {{type=32,value=330224828},{type=5,value=85996049},{type=11,value=103195258},},
+	},
+	[1851]={
+		star = 1851,
+		needitem = {{type=1,id=1010000,count=2563}},
+		attr = {{type=32,value=330665204},{type=5,value=86110730},{type=11,value=103332876},},
+	},
+	[1852]={
+		star = 1852,
+		needitem = {{type=1,id=1010000,count=2565}},
+		attr = {{type=32,value=331105960},{type=5,value=86225510},{type=11,value=103470612},},
+	},
+	[1853]={
+		star = 1853,
+		needitem = {{type=1,id=1010000,count=2567}},
+		attr = {{type=32,value=331547096},{type=5,value=86340389},{type=11,value=103608467},},
+	},
+	[1854]={
+		star = 1854,
+		needitem = {{type=1,id=1010000,count=2569}},
+		attr = {{type=32,value=331988613},{type=5,value=86455367},{type=11,value=103746441},},
+	},
+	[1855]={
+		star = 1855,
+		needitem = {{type=1,id=1010000,count=2571}},
+		attr = {{type=32,value=332430510},{type=5,value=86570445},{type=11,value=103884534},},
+	},
+	[1856]={
+		star = 1856,
+		needitem = {{type=1,id=1010000,count=2573}},
+		attr = {{type=32,value=332872605},{type=5,value=86685574},{type=11,value=104022689},},
+	},
+	[1857]={
+		star = 1857,
+		needitem = {{type=1,id=1010000,count=2575}},
+		attr = {{type=32,value=333315080},{type=5,value=86800802},{type=11,value=104160962},},
+	},
+	[1858]={
+		star = 1858,
+		needitem = {{type=1,id=1010000,count=2577}},
+		attr = {{type=32,value=333757936},{type=5,value=86916129},{type=11,value=104299355},},
+	},
+	[1859]={
+		star = 1859,
+		needitem = {{type=1,id=1010000,count=2579}},
+		attr = {{type=32,value=334201172},{type=5,value=87031555},{type=11,value=104437866},},
+	},
+	[1860]={
+		star = 1860,
+		needitem = {{type=1,id=1010000,count=2581}},
+		attr = {{type=32,value=334644788},{type=5,value=87147080},{type=11,value=104576496},},
+	},
+	[1861]={
+		star = 1861,
+		needitem = {{type=1,id=1010000,count=2583}},
+		attr = {{type=32,value=335088603},{type=5,value=87262657},{type=11,value=104715188},},
+	},
+	[1862]={
+		star = 1862,
+		needitem = {{type=1,id=1010000,count=2585}},
+		attr = {{type=32,value=335532797},{type=5,value=87378332},{type=11,value=104853999},},
+	},
+	[1863]={
+		star = 1863,
+		needitem = {{type=1,id=1010000,count=2587}},
+		attr = {{type=32,value=335977372},{type=5,value=87494107},{type=11,value=104992929},},
+	},
+	[1864]={
+		star = 1864,
+		needitem = {{type=1,id=1010000,count=2589}},
+		attr = {{type=32,value=336422328},{type=5,value=87609981},{type=11,value=105131977},},
+	},
+	[1865]={
+		star = 1865,
+		needitem = {{type=1,id=1010000,count=2591}},
+		attr = {{type=32,value=336867664},{type=5,value=87725954},{type=11,value=105271145},},
+	},
+	[1866]={
+		star = 1866,
+		needitem = {{type=1,id=1010000,count=2593}},
+		attr = {{type=32,value=337313197},{type=5,value=87841978},{type=11,value=105410374},},
+	},
+	[1867]={
+		star = 1867,
+		needitem = {{type=1,id=1010000,count=2595}},
+		attr = {{type=32,value=337759112},{type=5,value=87958102},{type=11,value=105549722},},
+	},
+	[1868]={
+		star = 1868,
+		needitem = {{type=1,id=1010000,count=2597}},
+		attr = {{type=32,value=338205406},{type=5,value=88074324},{type=11,value=105689189},},
+	},
+	[1869]={
+		star = 1869,
+		needitem = {{type=1,id=1010000,count=2599}},
+		attr = {{type=32,value=338652081},{type=5,value=88190646},{type=11,value=105828775},},
+	},
+	[1870]={
+		star = 1870,
+		needitem = {{type=1,id=1010000,count=2601}},
+		attr = {{type=32,value=339099136},{type=5,value=88307066},{type=11,value=105968480},},
+	},
+	[1871]={
+		star = 1871,
+		needitem = {{type=1,id=1010000,count=2603}},
+		attr = {{type=32,value=339546389},{type=5,value=88423539},{type=11,value=106108246},},
+	},
+	[1872]={
+		star = 1872,
+		needitem = {{type=1,id=1010000,count=2605}},
+		attr = {{type=32,value=339994023},{type=5,value=88540110},{type=11,value=106248132},},
+	},
+	[1873]={
+		star = 1873,
+		needitem = {{type=1,id=1010000,count=2607}},
+		attr = {{type=32,value=340442037},{type=5,value=88656780},{type=11,value=106388136},},
+	},
+	[1874]={
+		star = 1874,
+		needitem = {{type=1,id=1010000,count=2609}},
+		attr = {{type=32,value=340890431},{type=5,value=88773549},{type=11,value=106528259},},
+	},
+	[1875]={
+		star = 1875,
+		needitem = {{type=1,id=1010000,count=2611}},
+		attr = {{type=32,value=341339206},{type=5,value=88890418},{type=11,value=106668501},},
+	},
+	[1876]={
+		star = 1876,
+		needitem = {{type=1,id=1010000,count=2613}},
+		attr = {{type=32,value=341788178},{type=5,value=89007338},{type=11,value=106808805},},
+	},
+	[1877]={
+		star = 1877,
+		needitem = {{type=1,id=1010000,count=2615}},
+		attr = {{type=32,value=342237531},{type=5,value=89124357},{type=11,value=106949228},},
+	},
+	[1878]={
+		star = 1878,
+		needitem = {{type=1,id=1010000,count=2617}},
+		attr = {{type=32,value=342687265},{type=5,value=89241475},{type=11,value=107089770},},
+	},
+	[1879]={
+		star = 1879,
+		needitem = {{type=1,id=1010000,count=2619}},
+		attr = {{type=32,value=343137378},{type=5,value=89358692},{type=11,value=107230430},},
+	},
+	[1880]={
+		star = 1880,
+		needitem = {{type=1,id=1010000,count=2621}},
+		attr = {{type=32,value=343587872},{type=5,value=89476008},{type=11,value=107371210},},
+	},
+	[1881]={
+		star = 1881,
+		needitem = {{type=1,id=1010000,count=2623}},
+		attr = {{type=32,value=344038564},{type=5,value=89593376},{type=11,value=107512051},},
+	},
+	[1882]={
+		star = 1882,
+		needitem = {{type=1,id=1010000,count=2625}},
+		attr = {{type=32,value=344489637},{type=5,value=89710843},{type=11,value=107653011},},
+	},
+	[1883]={
+		star = 1883,
+		needitem = {{type=1,id=1010000,count=2627}},
+		attr = {{type=32,value=344941090},{type=5,value=89828408},{type=11,value=107794090},},
+	},
+	[1884]={
+		star = 1884,
+		needitem = {{type=1,id=1010000,count=2629}},
+		attr = {{type=32,value=345392923},{type=5,value=89946073},{type=11,value=107935288},},
+	},
+	[1885]={
+		star = 1885,
+		needitem = {{type=1,id=1010000,count=2631}},
+		attr = {{type=32,value=345845136},{type=5,value=90063837},{type=11,value=108076605},},
+	},
+	[1886]={
+		star = 1886,
+		needitem = {{type=1,id=1010000,count=2633}},
+		attr = {{type=32,value=346297547},{type=5,value=90181653},{type=11,value=108217983},},
+	},
+	[1887]={
+		star = 1887,
+		needitem = {{type=1,id=1010000,count=2635}},
+		attr = {{type=32,value=346750339},{type=5,value=90299567},{type=11,value=108359481},},
+	},
+	[1888]={
+		star = 1888,
+		needitem = {{type=1,id=1010000,count=2637}},
+		attr = {{type=32,value=347203511},{type=5,value=90417581},{type=11,value=108501097},},
+	},
+	[1889]={
+		star = 1889,
+		needitem = {{type=1,id=1010000,count=2639}},
+		attr = {{type=32,value=347657064},{type=5,value=90535693},{type=11,value=108642832},},
+	},
+	[1890]={
+		star = 1890,
+		needitem = {{type=1,id=1010000,count=2641}},
+		attr = {{type=32,value=348110997},{type=5,value=90653905},{type=11,value=108784686},},
+	},
+	[1891]={
+		star = 1891,
+		needitem = {{type=1,id=1010000,count=2643}},
+		attr = {{type=32,value=348565128},{type=5,value=90772168},{type=11,value=108926602},},
+	},
+	[1892]={
+		star = 1892,
+		needitem = {{type=1,id=1010000,count=2645}},
+		attr = {{type=32,value=349019639},{type=5,value=90890531},{type=11,value=109068637},},
+	},
+	[1893]={
+		star = 1893,
+		needitem = {{type=1,id=1010000,count=2647}},
+		attr = {{type=32,value=349474530},{type=5,value=91008992},{type=11,value=109210790},},
+	},
+	[1894]={
+		star = 1894,
+		needitem = {{type=1,id=1010000,count=2649}},
+		attr = {{type=32,value=349929802},{type=5,value=91127552},{type=11,value=109353063},},
+	},
+	[1895]={
+		star = 1895,
+		needitem = {{type=1,id=1010000,count=2651}},
+		attr = {{type=32,value=350385454},{type=5,value=91246212},{type=11,value=109495454},},
+	},
+	[1896]={
+		star = 1896,
+		needitem = {{type=1,id=1010000,count=2653}},
+		attr = {{type=32,value=350841305},{type=5,value=91364923},{type=11,value=109637907},},
+	},
+	[1897]={
+		star = 1897,
+		needitem = {{type=1,id=1010000,count=2655}},
+		attr = {{type=32,value=351297535},{type=5,value=91483733},{type=11,value=109780479},},
+	},
+	[1898]={
+		star = 1898,
+		needitem = {{type=1,id=1010000,count=2657}},
+		attr = {{type=32,value=351754146},{type=5,value=91602642},{type=11,value=109923170},},
+	},
+	[1899]={
+		star = 1899,
+		needitem = {{type=1,id=1010000,count=2659}},
+		attr = {{type=32,value=352211137},{type=5,value=91721650},{type=11,value=110065980},},
+	},
+	[1900]={
+		star = 1900,
+		needitem = {{type=1,id=1010000,count=2661}},
+		attr = {{type=32,value=352668509},{type=5,value=91840757},{type=11,value=110208909},},
+	},
+	[1901]={
+		star = 1901,
+		needitem = {{type=1,id=1010000,count=2663}},
+		attr = {{type=32,value=353126079},{type=5,value=91959916},{type=11,value=110351899},},
+	},
+	[1902]={
+		star = 1902,
+		needitem = {{type=1,id=1010000,count=2665}},
+		attr = {{type=32,value=353584029},{type=5,value=92079174},{type=11,value=110495009},},
+	},
+	[1903]={
+		star = 1903,
+		needitem = {{type=1,id=1010000,count=2667}},
+		attr = {{type=32,value=354042359},{type=5,value=92198531},{type=11,value=110638237},},
+	},
+	[1904]={
+		star = 1904,
+		needitem = {{type=1,id=1010000,count=2669}},
+		attr = {{type=32,value=354501070},{type=5,value=92317987},{type=11,value=110781584},},
+	},
+	[1905]={
+		star = 1905,
+		needitem = {{type=1,id=1010000,count=2671}},
+		attr = {{type=32,value=354960161},{type=5,value=92437541},{type=11,value=110925050},},
+	},
+	[1906]={
+		star = 1906,
+		needitem = {{type=1,id=1010000,count=2673}},
+		attr = {{type=32,value=355419450},{type=5,value=92557148},{type=11,value=111068578},},
+	},
+	[1907]={
+		star = 1907,
+		needitem = {{type=1,id=1010000,count=2675}},
+		attr = {{type=32,value=355879119},{type=5,value=92676854},{type=11,value=111212224},},
+	},
+	[1908]={
+		star = 1908,
+		needitem = {{type=1,id=1010000,count=2677}},
+		attr = {{type=32,value=356339169},{type=5,value=92796658},{type=11,value=111355990},},
+	},
+	[1909]={
+		star = 1909,
+		needitem = {{type=1,id=1010000,count=2679}},
+		attr = {{type=32,value=356799599},{type=5,value=92916562},{type=11,value=111499874},},
+	},
+	[1910]={
+		star = 1910,
+		needitem = {{type=1,id=1010000,count=2681}},
+		attr = {{type=32,value=357260409},{type=5,value=93036565},{type=11,value=111643878},},
+	},
+	[1911]={
+		star = 1911,
+		needitem = {{type=1,id=1010000,count=2683}},
+		attr = {{type=32,value=357721418},{type=5,value=93156619},{type=11,value=111787943},},
+	},
+	[1912]={
+		star = 1912,
+		needitem = {{type=1,id=1010000,count=2685}},
+		attr = {{type=32,value=358182807},{type=5,value=93276772},{type=11,value=111932127},},
+	},
+	[1913]={
+		star = 1913,
+		needitem = {{type=1,id=1010000,count=2687}},
+		attr = {{type=32,value=358644576},{type=5,value=93397025},{type=11,value=112076430},},
+	},
+	[1914]={
+		star = 1914,
+		needitem = {{type=1,id=1010000,count=2689}},
+		attr = {{type=32,value=359106725},{type=5,value=93517376},{type=11,value=112220851},},
+	},
+	[1915]={
+		star = 1915,
+		needitem = {{type=1,id=1010000,count=2691}},
+		attr = {{type=32,value=359569255},{type=5,value=93637826},{type=11,value=112365392},},
+	},
+	[1916]={
+		star = 1916,
+		needitem = {{type=1,id=1010000,count=2693}},
+		attr = {{type=32,value=360031983},{type=5,value=93758329},{type=11,value=112509994},},
+	},
+	[1917]={
+		star = 1917,
+		needitem = {{type=1,id=1010000,count=2695}},
+		attr = {{type=32,value=360495091},{type=5,value=93878930},{type=11,value=112654716},},
+	},
+	[1918]={
+		star = 1918,
+		needitem = {{type=1,id=1010000,count=2697}},
+		attr = {{type=32,value=360958580},{type=5,value=93999630},{type=11,value=112799556},},
+	},
+	[1919]={
+		star = 1919,
+		needitem = {{type=1,id=1010000,count=2699}},
+		attr = {{type=32,value=361422449},{type=5,value=94120429},{type=11,value=112944515},},
+	},
+	[1920]={
+		star = 1920,
+		needitem = {{type=1,id=1010000,count=2701}},
+		attr = {{type=32,value=361886698},{type=5,value=94241327},{type=11,value=113089593},},
+	},
+	[1921]={
+		star = 1921,
+		needitem = {{type=1,id=1010000,count=2703}},
+		attr = {{type=32,value=362351145},{type=5,value=94362277},{type=11,value=113234732},},
+	},
+	[1922]={
+		star = 1922,
+		needitem = {{type=1,id=1010000,count=2705}},
+		attr = {{type=32,value=362815973},{type=5,value=94483326},{type=11,value=113379991},},
+	},
+	[1923]={
+		star = 1923,
+		needitem = {{type=1,id=1010000,count=2707}},
+		attr = {{type=32,value=363281181},{type=5,value=94604474},{type=11,value=113525369},},
+	},
+	[1924]={
+		star = 1924,
+		needitem = {{type=1,id=1010000,count=2709}},
+		attr = {{type=32,value=363746769},{type=5,value=94725721},{type=11,value=113670865},},
+	},
+	[1925]={
+		star = 1925,
+		needitem = {{type=1,id=1010000,count=2711}},
+		attr = {{type=32,value=364212738},{type=5,value=94847067},{type=11,value=113816480},},
+	},
+	[1926]={
+		star = 1926,
+		needitem = {{type=1,id=1010000,count=2713}},
+		attr = {{type=32,value=364678904},{type=5,value=94968464},{type=11,value=113962157},},
+	},
+	[1927]={
+		star = 1927,
+		needitem = {{type=1,id=1010000,count=2715}},
+		attr = {{type=32,value=365145451},{type=5,value=95089961},{type=11,value=114107953},},
+	},
+	[1928]={
+		star = 1928,
+		needitem = {{type=1,id=1010000,count=2717}},
+		attr = {{type=32,value=365612379},{type=5,value=95211557},{type=11,value=114253868},},
+	},
+	[1929]={
+		star = 1929,
+		needitem = {{type=1,id=1010000,count=2719}},
+		attr = {{type=32,value=366079686},{type=5,value=95333251},{type=11,value=114399902},},
+	},
+	[1930]={
+		star = 1930,
+		needitem = {{type=1,id=1010000,count=2721}},
+		attr = {{type=32,value=366547374},{type=5,value=95455045},{type=11,value=114546054},},
+	},
+	[1931]={
+		star = 1931,
+		needitem = {{type=1,id=1010000,count=2723}},
+		attr = {{type=32,value=367015260},{type=5,value=95576890},{type=11,value=114692269},},
+	},
+	[1932]={
+		star = 1932,
+		needitem = {{type=1,id=1010000,count=2725}},
+		attr = {{type=32,value=367483527},{type=5,value=95698835},{type=11,value=114838602},},
+	},
+	[1933]={
+		star = 1933,
+		needitem = {{type=1,id=1010000,count=2727}},
+		attr = {{type=32,value=367952173},{type=5,value=95820878},{type=11,value=114985054},},
+	},
+	[1934]={
+		star = 1934,
+		needitem = {{type=1,id=1010000,count=2729}},
+		attr = {{type=32,value=368421201},{type=5,value=95943021},{type=11,value=115131625},},
+	},
+	[1935]={
+		star = 1935,
+		needitem = {{type=1,id=1010000,count=2731}},
+		attr = {{type=32,value=368890608},{type=5,value=96065262},{type=11,value=115278315},},
+	},
+	[1936]={
+		star = 1936,
+		needitem = {{type=1,id=1010000,count=2733}},
+		attr = {{type=32,value=369360214},{type=5,value=96187555},{type=11,value=115425066},},
+	},
+	[1937]={
+		star = 1937,
+		needitem = {{type=1,id=1010000,count=2735}},
+		attr = {{type=32,value=369830199},{type=5,value=96309947},{type=11,value=115571937},},
+	},
+	[1938]={
+		star = 1938,
+		needitem = {{type=1,id=1010000,count=2737}},
+		attr = {{type=32,value=370300565},{type=5,value=96432439},{type=11,value=115718926},},
+	},
+	[1939]={
+		star = 1939,
+		needitem = {{type=1,id=1010000,count=2739}},
+		attr = {{type=32,value=370771312},{type=5,value=96555029},{type=11,value=115866035},},
+	},
+	[1940]={
+		star = 1940,
+		needitem = {{type=1,id=1010000,count=2741}},
+		attr = {{type=32,value=371242439},{type=5,value=96677718},{type=11,value=116013262},},
+	},
+	[1941]={
+		star = 1941,
+		needitem = {{type=1,id=1010000,count=2743}},
+		attr = {{type=32,value=371713764},{type=5,value=96800459},{type=11,value=116160551},},
+	},
+	[1942]={
+		star = 1942,
+		needitem = {{type=1,id=1010000,count=2745}},
+		attr = {{type=32,value=372185469},{type=5,value=96923299},{type=11,value=116307959},},
+	},
+	[1943]={
+		star = 1943,
+		needitem = {{type=1,id=1010000,count=2747}},
+		attr = {{type=32,value=372657554},{type=5,value=97046238},{type=11,value=116455485},},
+	},
+	[1944]={
+		star = 1944,
+		needitem = {{type=1,id=1010000,count=2749}},
+		attr = {{type=32,value=373130020},{type=5,value=97169276},{type=11,value=116603131},},
+	},
+	[1945]={
+		star = 1945,
+		needitem = {{type=1,id=1010000,count=2751}},
+		attr = {{type=32,value=373602867},{type=5,value=97292413},{type=11,value=116750895},},
+	},
+	[1946]={
+		star = 1946,
+		needitem = {{type=1,id=1010000,count=2753}},
+		attr = {{type=32,value=374075911},{type=5,value=97415601},{type=11,value=116898722},},
+	},
+	[1947]={
+		star = 1947,
+		needitem = {{type=1,id=1010000,count=2755}},
+		attr = {{type=32,value=374549335},{type=5,value=97538889},{type=11,value=117046667},},
+	},
+	[1948]={
+		star = 1948,
+		needitem = {{type=1,id=1010000,count=2757}},
+		attr = {{type=32,value=375023140},{type=5,value=97662276},{type=11,value=117194731},},
+	},
+	[1949]={
+		star = 1949,
+		needitem = {{type=1,id=1010000,count=2759}},
+		attr = {{type=32,value=375497326},{type=5,value=97785762},{type=11,value=117342914},},
+	},
+	[1950]={
+		star = 1950,
+		needitem = {{type=1,id=1010000,count=2761}},
+		attr = {{type=32,value=375971891},{type=5,value=97909346},{type=11,value=117491216},},
+	},
+	[1951]={
+		star = 1951,
+		needitem = {{type=1,id=1010000,count=2763}},
+		attr = {{type=32,value=376446655},{type=5,value=98032983},{type=11,value=117639579},},
+	},
+	[1952]={
+		star = 1952,
+		needitem = {{type=1,id=1010000,count=2765}},
+		attr = {{type=32,value=376921799},{type=5,value=98156718},{type=11,value=117788062},},
+	},
+	[1953]={
+		star = 1953,
+		needitem = {{type=1,id=1010000,count=2767}},
+		attr = {{type=32,value=377397323},{type=5,value=98280553},{type=11,value=117936663},},
+	},
+	[1954]={
+		star = 1954,
+		needitem = {{type=1,id=1010000,count=2769}},
+		attr = {{type=32,value=377873228},{type=5,value=98404486},{type=11,value=118085383},},
+	},
+	[1955]={
+		star = 1955,
+		needitem = {{type=1,id=1010000,count=2771}},
+		attr = {{type=32,value=378349513},{type=5,value=98528519},{type=11,value=118234223},},
+	},
+	[1956]={
+		star = 1956,
+		needitem = {{type=1,id=1010000,count=2773}},
+		attr = {{type=32,value=378825996},{type=5,value=98652603},{type=11,value=118383124},},
+	},
+	[1957]={
+		star = 1957,
+		needitem = {{type=1,id=1010000,count=2775}},
+		attr = {{type=32,value=379302860},{type=5,value=98776786},{type=11,value=118532143},},
+	},
+	[1958]={
+		star = 1958,
+		needitem = {{type=1,id=1010000,count=2777}},
+		attr = {{type=32,value=379780104},{type=5,value=98901068},{type=11,value=118681282},},
+	},
+	[1959]={
+		star = 1959,
+		needitem = {{type=1,id=1010000,count=2779}},
+		attr = {{type=32,value=380257728},{type=5,value=99025450},{type=11,value=118830540},},
+	},
+	[1960]={
+		star = 1960,
+		needitem = {{type=1,id=1010000,count=2781}},
+		attr = {{type=32,value=380735732},{type=5,value=99149930},{type=11,value=118979916},},
+	},
+	[1961]={
+		star = 1961,
+		needitem = {{type=1,id=1010000,count=2783}},
+		attr = {{type=32,value=381213935},{type=5,value=99274462},{type=11,value=119129354},},
+	},
+	[1962]={
+		star = 1962,
+		needitem = {{type=1,id=1010000,count=2785}},
+		attr = {{type=32,value=381692517},{type=5,value=99399093},{type=11,value=119278911},},
+	},
+	[1963]={
+		star = 1963,
+		needitem = {{type=1,id=1010000,count=2787}},
+		attr = {{type=32,value=382171481},{type=5,value=99523823},{type=11,value=119428587},},
+	},
+	[1964]={
+		star = 1964,
+		needitem = {{type=1,id=1010000,count=2789}},
+		attr = {{type=32,value=382650824},{type=5,value=99648652},{type=11,value=119578382},},
+	},
+	[1965]={
+		star = 1965,
+		needitem = {{type=1,id=1010000,count=2791}},
+		attr = {{type=32,value=383130548},{type=5,value=99773580},{type=11,value=119728296},},
+	},
+	[1966]={
+		star = 1966,
+		needitem = {{type=1,id=1010000,count=2793}},
+		attr = {{type=32,value=383610470},{type=5,value=99898559},{type=11,value=119878271},},
+	},
+	[1967]={
+		star = 1967,
+		needitem = {{type=1,id=1010000,count=2795}},
+		attr = {{type=32,value=384090772},{type=5,value=100023638},{type=11,value=120028366},},
+	},
+	[1968]={
+		star = 1968,
+		needitem = {{type=1,id=1010000,count=2797}},
+		attr = {{type=32,value=384571455},{type=5,value=100148816},{type=11,value=120178579},},
+	},
+	[1969]={
+		star = 1969,
+		needitem = {{type=1,id=1010000,count=2799}},
+		attr = {{type=32,value=385052518},{type=5,value=100274093},{type=11,value=120328911},},
+	},
+	[1970]={
+		star = 1970,
+		needitem = {{type=1,id=1010000,count=2801}},
+		attr = {{type=32,value=385533961},{type=5,value=100399469},{type=11,value=120479362},},
+	},
+	[1971]={
+		star = 1971,
+		needitem = {{type=1,id=1010000,count=2803}},
+		attr = {{type=32,value=386015602},{type=5,value=100524896},{type=11,value=120629875},},
+	},
+	[1972]={
+		star = 1972,
+		needitem = {{type=1,id=1010000,count=2805}},
+		attr = {{type=32,value=386497624},{type=5,value=100650422},{type=11,value=120780507},},
+	},
+	[1973]={
+		star = 1973,
+		needitem = {{type=1,id=1010000,count=2807}},
+		attr = {{type=32,value=386980026},{type=5,value=100776048},{type=11,value=120931258},},
+	},
+	[1974]={
+		star = 1974,
+		needitem = {{type=1,id=1010000,count=2809}},
+		attr = {{type=32,value=387462808},{type=5,value=100901773},{type=11,value=121082127},},
+	},
+	[1975]={
+		star = 1975,
+		needitem = {{type=1,id=1010000,count=2811}},
+		attr = {{type=32,value=387945971},{type=5,value=101027596},{type=11,value=121233116},},
+	},
+	[1976]={
+		star = 1976,
+		needitem = {{type=1,id=1010000,count=2813}},
+		attr = {{type=32,value=388429331},{type=5,value=101153471},{type=11,value=121384166},},
+	},
+	[1977]={
+		star = 1977,
+		needitem = {{type=1,id=1010000,count=2815}},
+		attr = {{type=32,value=388913072},{type=5,value=101279446},{type=11,value=121535335},},
+	},
+	[1978]={
+		star = 1978,
+		needitem = {{type=1,id=1010000,count=2817}},
+		attr = {{type=32,value=389397194},{type=5,value=101405519},{type=11,value=121686623},},
+	},
+	[1979]={
+		star = 1979,
+		needitem = {{type=1,id=1010000,count=2819}},
+		attr = {{type=32,value=389881696},{type=5,value=101531691},{type=11,value=121838030},},
+	},
+	[1980]={
+		star = 1980,
+		needitem = {{type=1,id=1010000,count=2821}},
+		attr = {{type=32,value=390366578},{type=5,value=101657963},{type=11,value=121989555},},
+	},
+	[1981]={
+		star = 1981,
+		needitem = {{type=1,id=1010000,count=2823}},
+		attr = {{type=32,value=390851658},{type=5,value=101784285},{type=11,value=122141143},},
+	},
+	[1982]={
+		star = 1982,
+		needitem = {{type=1,id=1010000,count=2825}},
+		attr = {{type=32,value=391337118},{type=5,value=101910707},{type=11,value=122292849},},
+	},
+	[1983]={
+		star = 1983,
+		needitem = {{type=1,id=1010000,count=2827}},
+		attr = {{type=32,value=391822959},{type=5,value=102037229},{type=11,value=122444674},},
+	},
+	[1984]={
+		star = 1984,
+		needitem = {{type=1,id=1010000,count=2829}},
+		attr = {{type=32,value=392309180},{type=5,value=102163849},{type=11,value=122596618},},
+	},
+	[1985]={
+		star = 1985,
+		needitem = {{type=1,id=1010000,count=2831}},
+		attr = {{type=32,value=392795782},{type=5,value=102290568},{type=11,value=122748681},},
+	},
+	[1986]={
+		star = 1986,
+		needitem = {{type=1,id=1010000,count=2833}},
+		attr = {{type=32,value=393282581},{type=5,value=102417338},{type=11,value=122900806},},
+	},
+	[1987]={
+		star = 1987,
+		needitem = {{type=1,id=1010000,count=2835}},
+		attr = {{type=32,value=393769761},{type=5,value=102544208},{type=11,value=123053050},},
+	},
+	[1988]={
+		star = 1988,
+		needitem = {{type=1,id=1010000,count=2837}},
+		attr = {{type=32,value=394257321},{type=5,value=102671177},{type=11,value=123205412},},
+	},
+	[1989]={
+		star = 1989,
+		needitem = {{type=1,id=1010000,count=2839}},
+		attr = {{type=32,value=394745262},{type=5,value=102798245},{type=11,value=123357894},},
+	},
+	[1990]={
+		star = 1990,
+		needitem = {{type=1,id=1010000,count=2841}},
+		attr = {{type=32,value=395233582},{type=5,value=102925412},{type=11,value=123510494},},
+	},
+	[1991]={
+		star = 1991,
+		needitem = {{type=1,id=1010000,count=2843}},
+		attr = {{type=32,value=395722101},{type=5,value=103052630},{type=11,value=123663156},},
+	},
+	[1992]={
+		star = 1992,
+		needitem = {{type=1,id=1010000,count=2845}},
+		attr = {{type=32,value=396211001},{type=5,value=103179948},{type=11,value=123815937},},
+	},
+	[1993]={
+		star = 1993,
+		needitem = {{type=1,id=1010000,count=2847}},
+		attr = {{type=32,value=396700280},{type=5,value=103307364},{type=11,value=123968837},},
+	},
+	[1994]={
+		star = 1994,
+		needitem = {{type=1,id=1010000,count=2849}},
+		attr = {{type=32,value=397189940},{type=5,value=103434880},{type=11,value=124121856},},
+	},
+	[1995]={
+		star = 1995,
+		needitem = {{type=1,id=1010000,count=2851}},
+		attr = {{type=32,value=397679980},{type=5,value=103562495},{type=11,value=124274994},},
+	},
+	[1996]={
+		star = 1996,
+		needitem = {{type=1,id=1010000,count=2853}},
+		attr = {{type=32,value=398170219},{type=5,value=103690161},{type=11,value=124428193},},
+	},
+	[1997]={
+		star = 1997,
+		needitem = {{type=1,id=1010000,count=2855}},
+		attr = {{type=32,value=398660837},{type=5,value=103817926},{type=11,value=124581511},},
+	},
+	[1998]={
+		star = 1998,
+		needitem = {{type=1,id=1010000,count=2857}},
+		attr = {{type=32,value=399151836},{type=5,value=103945790},{type=11,value=124734949},},
+	},
+	[1999]={
+		star = 1999,
+		needitem = {{type=1,id=1010000,count=2859}},
+		attr = {{type=32,value=399643216},{type=5,value=104073754},{type=11,value=124888505},},
+	},
+	[2000]={
+		star = 2000,
+		needitem = {{type=1,id=1010000,count=2873}},
+		attr = {{type=32,value=400134975},{type=5,value=104201816},{type=11,value=125042179},},
+	},
+	[2001]={
+		star = 2001,
+		needitem = {{type=1,id=1010000,count=2887}},
+		attr = {{type=32,value=400174988},{type=5,value=104212236},{type=11,value=125054683},},
+	},
+	[2002]={
+		star = 2002,
+		needitem = {{type=1,id=1010000,count=2902}},
+		attr = {{type=32,value=400215006},{type=5,value=104222657},{type=11,value=125067189},},
+	},
+	[2003]={
+		star = 2003,
+		needitem = {{type=1,id=1010000,count=2916}},
+		attr = {{type=32,value=400255027},{type=5,value=104233080},{type=11,value=125079695},},
+	},
+	[2004]={
+		star = 2004,
+		needitem = {{type=1,id=1010000,count=2931}},
+		attr = {{type=32,value=400295053},{type=5,value=104243503},{type=11,value=125092203},},
+	},
+	[2005]={
+		star = 2005,
+		needitem = {{type=1,id=1010000,count=2946}},
+		attr = {{type=32,value=400335083},{type=5,value=104253927},{type=11,value=125104713},},
+	},
+	[2006]={
+		star = 2006,
+		needitem = {{type=1,id=1010000,count=2960}},
+		attr = {{type=32,value=400375116},{type=5,value=104264353},{type=11,value=125117223},},
+	},
+	[2007]={
+		star = 2007,
+		needitem = {{type=1,id=1010000,count=2975}},
+		attr = {{type=32,value=400415154},{type=5,value=104274779},{type=11,value=125129735},},
+	},
+	[2008]={
+		star = 2008,
+		needitem = {{type=1,id=1010000,count=2990}},
+		attr = {{type=32,value=400455195},{type=5,value=104285207},{type=11,value=125142248},},
+	},
+	[2009]={
+		star = 2009,
+		needitem = {{type=1,id=1010000,count=3005}},
+		attr = {{type=32,value=400495241},{type=5,value=104295635},{type=11,value=125154762},},
+	},
+	[2010]={
+		star = 2010,
+		needitem = {{type=1,id=1010000,count=3020}},
+		attr = {{type=32,value=400535290},{type=5,value=104306065},{type=11,value=125167277},},
+	},
+	[2011]={
+		star = 2011,
+		needitem = {{type=1,id=1010000,count=3035}},
+		attr = {{type=32,value=400575344},{type=5,value=104316495},{type=11,value=125179794},},
+	},
+	[2012]={
+		star = 2012,
+		needitem = {{type=1,id=1010000,count=3050}},
+		attr = {{type=32,value=400615401},{type=5,value=104326927},{type=11,value=125192312},},
+	},
+	[2013]={
+		star = 2013,
+		needitem = {{type=1,id=1010000,count=3065}},
+		attr = {{type=32,value=400655463},{type=5,value=104337360},{type=11,value=125204831},},
+	},
+	[2014]={
+		star = 2014,
+		needitem = {{type=1,id=1010000,count=3081}},
+		attr = {{type=32,value=400695528},{type=5,value=104347793},{type=11,value=125217352},},
+	},
+	[2015]={
+		star = 2015,
+		needitem = {{type=1,id=1010000,count=3096}},
+		attr = {{type=32,value=400735598},{type=5,value=104358228},{type=11,value=125229874},},
+	},
+	[2016]={
+		star = 2016,
+		needitem = {{type=1,id=1010000,count=3112}},
+		attr = {{type=32,value=400775671},{type=5,value=104368664},{type=11,value=125242397},},
+	},
+	[2017]={
+		star = 2017,
+		needitem = {{type=1,id=1010000,count=3127}},
+		attr = {{type=32,value=400815749},{type=5,value=104379101},{type=11,value=125254921},},
+	},
+	[2018]={
+		star = 2018,
+		needitem = {{type=1,id=1010000,count=3143}},
+		attr = {{type=32,value=400855830},{type=5,value=104389539},{type=11,value=125267446},},
+	},
+	[2019]={
+		star = 2019,
+		needitem = {{type=1,id=1010000,count=3159}},
+		attr = {{type=32,value=400895916},{type=5,value=104399978},{type=11,value=125279973},},
+	},
+	[2020]={
+		star = 2020,
+		needitem = {{type=1,id=1010000,count=3174}},
+		attr = {{type=32,value=400936006},{type=5,value=104410418},{type=11,value=125292501},},
+	},
+	[2021]={
+		star = 2021,
+		needitem = {{type=1,id=1010000,count=3190}},
+		attr = {{type=32,value=400976099},{type=5,value=104420859},{type=11,value=125305030},},
+	},
+	[2022]={
+		star = 2022,
+		needitem = {{type=1,id=1010000,count=3206}},
+		attr = {{type=32,value=401016197},{type=5,value=104431301},{type=11,value=125317561},},
+	},
+	[2023]={
+		star = 2023,
+		needitem = {{type=1,id=1010000,count=3222}},
+		attr = {{type=32,value=401056298},{type=5,value=104441744},{type=11,value=125330093},},
+	},
+	[2024]={
+		star = 2024,
+		needitem = {{type=1,id=1010000,count=3238}},
+		attr = {{type=32,value=401096404},{type=5,value=104452188},{type=11,value=125342626},},
+	},
+	[2025]={
+		star = 2025,
+		needitem = {{type=1,id=1010000,count=3255}},
+		attr = {{type=32,value=401136514},{type=5,value=104462633},{type=11,value=125355160},},
+	},
+	[2026]={
+		star = 2026,
+		needitem = {{type=1,id=1010000,count=3271}},
+		attr = {{type=32,value=401176627},{type=5,value=104473080},{type=11,value=125367695},},
+	},
+	[2027]={
+		star = 2027,
+		needitem = {{type=1,id=1010000,count=3287}},
+		attr = {{type=32,value=401216745},{type=5,value=104483527},{type=11,value=125380232},},
+	},
+	[2028]={
+		star = 2028,
+		needitem = {{type=1,id=1010000,count=3304}},
+		attr = {{type=32,value=401256867},{type=5,value=104493975},{type=11,value=125392770},},
+	},
+	[2029]={
+		star = 2029,
+		needitem = {{type=1,id=1010000,count=3320}},
+		attr = {{type=32,value=401296992},{type=5,value=104504425},{type=11,value=125405309},},
+	},
+	[2030]={
+		star = 2030,
+		needitem = {{type=1,id=1010000,count=3337}},
+		attr = {{type=32,value=401337122},{type=5,value=104514875},{type=11,value=125417850},},
+	},
+	[2031]={
+		star = 2031,
+		needitem = {{type=1,id=1010000,count=3353}},
+		attr = {{type=32,value=401377256},{type=5,value=104525327},{type=11,value=125430392},},
+	},
+	[2032]={
+		star = 2032,
+		needitem = {{type=1,id=1010000,count=3370}},
+		attr = {{type=32,value=401417394},{type=5,value=104535779},{type=11,value=125442935},},
+	},
+	[2033]={
+		star = 2033,
+		needitem = {{type=1,id=1010000,count=3387}},
+		attr = {{type=32,value=401457535},{type=5,value=104546233},{type=11,value=125455479},},
+	},
+	[2034]={
+		star = 2034,
+		needitem = {{type=1,id=1010000,count=3404}},
+		attr = {{type=32,value=401497681},{type=5,value=104556687},{type=11,value=125468025},},
+	},
+	[2035]={
+		star = 2035,
+		needitem = {{type=1,id=1010000,count=3421}},
+		attr = {{type=32,value=401537831},{type=5,value=104567143},{type=11,value=125480571},},
+	},
+	[2036]={
+		star = 2036,
+		needitem = {{type=1,id=1010000,count=3438}},
+		attr = {{type=32,value=401577985},{type=5,value=104577600},{type=11,value=125493120},},
+	},
+	[2037]={
+		star = 2037,
+		needitem = {{type=1,id=1010000,count=3455}},
+		attr = {{type=32,value=401618142},{type=5,value=104588058},{type=11,value=125505669},},
+	},
+	[2038]={
+		star = 2038,
+		needitem = {{type=1,id=1010000,count=3473}},
+		attr = {{type=32,value=401658304},{type=5,value=104598516},{type=11,value=125518219},},
+	},
+	[2039]={
+		star = 2039,
+		needitem = {{type=1,id=1010000,count=3490}},
+		attr = {{type=32,value=401698470},{type=5,value=104608976},{type=11,value=125530771},},
+	},
+	[2040]={
+		star = 2040,
+		needitem = {{type=1,id=1010000,count=3507}},
+		attr = {{type=32,value=401738640},{type=5,value=104619437},{type=11,value=125543324},},
+	},
+	[2041]={
+		star = 2041,
+		needitem = {{type=1,id=1010000,count=3525}},
+		attr = {{type=32,value=401778814},{type=5,value=104629899},{type=11,value=125555879},},
+	},
+	[2042]={
+		star = 2042,
+		needitem = {{type=1,id=1010000,count=3543}},
+		attr = {{type=32,value=401818992},{type=5,value=104640362},{type=11,value=125568434},},
+	},
+	[2043]={
+		star = 2043,
+		needitem = {{type=1,id=1010000,count=3560}},
+		attr = {{type=32,value=401859174},{type=5,value=104650826},{type=11,value=125580991},},
+	},
+	[2044]={
+		star = 2044,
+		needitem = {{type=1,id=1010000,count=3578}},
+		attr = {{type=32,value=401899359},{type=5,value=104661291},{type=11,value=125593549},},
+	},
+	[2045]={
+		star = 2045,
+		needitem = {{type=1,id=1010000,count=3596}},
+		attr = {{type=32,value=401939549},{type=5,value=104671757},{type=11,value=125606108},},
+	},
+	[2046]={
+		star = 2046,
+		needitem = {{type=1,id=1010000,count=3614}},
+		attr = {{type=32,value=401979743},{type=5,value=104682224},{type=11,value=125618669},},
+	},
+	[2047]={
+		star = 2047,
+		needitem = {{type=1,id=1010000,count=3632}},
+		attr = {{type=32,value=402019941},{type=5,value=104692693},{type=11,value=125631231},},
+	},
+	[2048]={
+		star = 2048,
+		needitem = {{type=1,id=1010000,count=3650}},
+		attr = {{type=32,value=402060143},{type=5,value=104703162},{type=11,value=125643794},},
+	},
+	[2049]={
+		star = 2049,
+		needitem = {{type=1,id=1010000,count=3668}},
+		attr = {{type=32,value=402100349},{type=5,value=104713632},{type=11,value=125656358},},
+	},
+	[2050]={
+		star = 2050,
+		needitem = {{type=1,id=1010000,count=3687}},
+		attr = {{type=32,value=402140559},{type=5,value=104724104},{type=11,value=125668924},},
+	},
+	[2051]={
+		star = 2051,
+		needitem = {{type=1,id=1010000,count=3705}},
+		attr = {{type=32,value=402180773},{type=5,value=104734576},{type=11,value=125681491},},
+	},
+	[2052]={
+		star = 2052,
+		needitem = {{type=1,id=1010000,count=3724}},
+		attr = {{type=32,value=402220992},{type=5,value=104745049},{type=11,value=125694059},},
+	},
+	[2053]={
+		star = 2053,
+		needitem = {{type=1,id=1010000,count=3742}},
+		attr = {{type=32,value=402261214},{type=5,value=104755524},{type=11,value=125706629},},
+	},
+	[2054]={
+		star = 2054,
+		needitem = {{type=1,id=1010000,count=3761}},
+		attr = {{type=32,value=402301440},{type=5,value=104766000},{type=11,value=125719199},},
+	},
+	[2055]={
+		star = 2055,
+		needitem = {{type=1,id=1010000,count=3780}},
+		attr = {{type=32,value=402341670},{type=5,value=104776476},{type=11,value=125731771},},
+	},
+	[2056]={
+		star = 2056,
+		needitem = {{type=1,id=1010000,count=3799}},
+		attr = {{type=32,value=402381904},{type=5,value=104786954},{type=11,value=125744344},},
+	},
+	[2057]={
+		star = 2057,
+		needitem = {{type=1,id=1010000,count=3818}},
+		attr = {{type=32,value=402422142},{type=5,value=104797432},{type=11,value=125756919},},
+	},
+	[2058]={
+		star = 2058,
+		needitem = {{type=1,id=1010000,count=3837}},
+		attr = {{type=32,value=402462384},{type=5,value=104807912},{type=11,value=125769494},},
+	},
+	[2059]={
+		star = 2059,
+		needitem = {{type=1,id=1010000,count=3856}},
+		attr = {{type=32,value=402502631},{type=5,value=104818393},{type=11,value=125782071},},
+	},
+	[2060]={
+		star = 2060,
+		needitem = {{type=1,id=1010000,count=3875}},
+		attr = {{type=32,value=402542881},{type=5,value=104828875},{type=11,value=125794650},},
+	},
+	[2061]={
+		star = 2061,
+		needitem = {{type=1,id=1010000,count=3895}},
+		attr = {{type=32,value=402583135},{type=5,value=104839358},{type=11,value=125807229},},
+	},
+	[2062]={
+		star = 2062,
+		needitem = {{type=1,id=1010000,count=3914}},
+		attr = {{type=32,value=402623394},{type=5,value=104849842},{type=11,value=125819810},},
+	},
+	[2063]={
+		star = 2063,
+		needitem = {{type=1,id=1010000,count=3934}},
+		attr = {{type=32,value=402663656},{type=5,value=104860327},{type=11,value=125832392},},
+	},
+	[2064]={
+		star = 2064,
+		needitem = {{type=1,id=1010000,count=3953}},
+		attr = {{type=32,value=402703922},{type=5,value=104870813},{type=11,value=125844975},},
+	},
+	[2065]={
+		star = 2065,
+		needitem = {{type=1,id=1010000,count=3973}},
+		attr = {{type=32,value=402744193},{type=5,value=104881300},{type=11,value=125857560},},
+	},
+	[2066]={
+		star = 2066,
+		needitem = {{type=1,id=1010000,count=3993}},
+		attr = {{type=32,value=402784467},{type=5,value=104891788},{type=11,value=125870145},},
+	},
+	[2067]={
+		star = 2067,
+		needitem = {{type=1,id=1010000,count=4013}},
+		attr = {{type=32,value=402824746},{type=5,value=104902277},{type=11,value=125882732},},
+	},
+	[2068]={
+		star = 2068,
+		needitem = {{type=1,id=1010000,count=4033}},
+		attr = {{type=32,value=402865028},{type=5,value=104912767},{type=11,value=125895321},},
+	},
+	[2069]={
+		star = 2069,
+		needitem = {{type=1,id=1010000,count=4053}},
+		attr = {{type=32,value=402905314},{type=5,value=104923259},{type=11,value=125907910},},
+	},
+	[2070]={
+		star = 2070,
+		needitem = {{type=1,id=1010000,count=4073}},
+		attr = {{type=32,value=402945605},{type=5,value=104933751},{type=11,value=125920501},},
+	},
+	[2071]={
+		star = 2071,
+		needitem = {{type=1,id=1010000,count=4094}},
+		attr = {{type=32,value=402985900},{type=5,value=104944244},{type=11,value=125933093},},
+	},
+	[2072]={
+		star = 2072,
+		needitem = {{type=1,id=1010000,count=4114}},
+		attr = {{type=32,value=403026198},{type=5,value=104954739},{type=11,value=125945686},},
+	},
+	[2073]={
+		star = 2073,
+		needitem = {{type=1,id=1010000,count=4135}},
+		attr = {{type=32,value=403066501},{type=5,value=104965234},{type=11,value=125958281},},
+	},
+	[2074]={
+		star = 2074,
+		needitem = {{type=1,id=1010000,count=4156}},
+		attr = {{type=32,value=403106807},{type=5,value=104975731},{type=11,value=125970877},},
+	},
+	[2075]={
+		star = 2075,
+		needitem = {{type=1,id=1010000,count=4176}},
+		attr = {{type=32,value=403147118},{type=5,value=104986228},{type=11,value=125983474},},
+	},
+	[2076]={
+		star = 2076,
+		needitem = {{type=1,id=1010000,count=4197}},
+		attr = {{type=32,value=403187433},{type=5,value=104996727},{type=11,value=125996072},},
+	},
+	[2077]={
+		star = 2077,
+		needitem = {{type=1,id=1010000,count=4218}},
+		attr = {{type=32,value=403227752},{type=5,value=105007227},{type=11,value=126008672},},
+	},
+	[2078]={
+		star = 2078,
+		needitem = {{type=1,id=1010000,count=4239}},
+		attr = {{type=32,value=403268074},{type=5,value=105017727},{type=11,value=126021273},},
+	},
+	[2079]={
+		star = 2079,
+		needitem = {{type=1,id=1010000,count=4260}},
+		attr = {{type=32,value=403308401},{type=5,value=105028229},{type=11,value=126033875},},
+	},
+	[2080]={
+		star = 2080,
+		needitem = {{type=1,id=1010000,count=4282}},
+		attr = {{type=32,value=403348732},{type=5,value=105038732},{type=11,value=126046478},},
+	},
+	[2081]={
+		star = 2081,
+		needitem = {{type=1,id=1010000,count=4303}},
+		attr = {{type=32,value=403389067},{type=5,value=105049236},{type=11,value=126059083},},
+	},
+	[2082]={
+		star = 2082,
+		needitem = {{type=1,id=1010000,count=4325}},
+		attr = {{type=32,value=403429406},{type=5,value=105059741},{type=11,value=126071689},},
+	},
+	[2083]={
+		star = 2083,
+		needitem = {{type=1,id=1010000,count=4346}},
+		attr = {{type=32,value=403469749},{type=5,value=105070247},{type=11,value=126084296},},
+	},
+	[2084]={
+		star = 2084,
+		needitem = {{type=1,id=1010000,count=4368}},
+		attr = {{type=32,value=403510096},{type=5,value=105080754},{type=11,value=126096904},},
+	},
+	[2085]={
+		star = 2085,
+		needitem = {{type=1,id=1010000,count=4390}},
+		attr = {{type=32,value=403550447},{type=5,value=105091262},{type=11,value=126109514},},
+	},
+	[2086]={
+		star = 2086,
+		needitem = {{type=1,id=1010000,count=4412}},
+		attr = {{type=32,value=403590802},{type=5,value=105101771},{type=11,value=126122125},},
+	},
+	[2087]={
+		star = 2087,
+		needitem = {{type=1,id=1010000,count=4434}},
+		attr = {{type=32,value=403631161},{type=5,value=105112281},{type=11,value=126134737},},
+	},
+	[2088]={
+		star = 2088,
+		needitem = {{type=1,id=1010000,count=4456}},
+		attr = {{type=32,value=403671524},{type=5,value=105122792},{type=11,value=126147351},},
+	},
+	[2089]={
+		star = 2089,
+		needitem = {{type=1,id=1010000,count=4478}},
+		attr = {{type=32,value=403711891},{type=5,value=105133305},{type=11,value=126159965},},
+	},
+	[2090]={
+		star = 2090,
+		needitem = {{type=1,id=1010000,count=4501}},
+		attr = {{type=32,value=403752262},{type=5,value=105143818},{type=11,value=126172581},},
+	},
+	[2091]={
+		star = 2091,
+		needitem = {{type=1,id=1010000,count=4523}},
+		attr = {{type=32,value=403792638},{type=5,value=105154332},{type=11,value=126185199},},
+	},
+	[2092]={
+		star = 2092,
+		needitem = {{type=1,id=1010000,count=4546}},
+		attr = {{type=32,value=403833017},{type=5,value=105164848},{type=11,value=126197817},},
+	},
+	[2093]={
+		star = 2093,
+		needitem = {{type=1,id=1010000,count=4569}},
+		attr = {{type=32,value=403873400},{type=5,value=105175364},{type=11,value=126210437},},
+	},
+	[2094]={
+		star = 2094,
+		needitem = {{type=1,id=1010000,count=4591}},
+		attr = {{type=32,value=403913787},{type=5,value=105185882},{type=11,value=126223058},},
+	},
+	[2095]={
+		star = 2095,
+		needitem = {{type=1,id=1010000,count=4614}},
+		attr = {{type=32,value=403954179},{type=5,value=105196400},{type=11,value=126235680},},
+	},
+	[2096]={
+		star = 2096,
+		needitem = {{type=1,id=1010000,count=4637}},
+		attr = {{type=32,value=403994574},{type=5,value=105206920},{type=11,value=126248304},},
+	},
+	[2097]={
+		star = 2097,
+		needitem = {{type=1,id=1010000,count=4661}},
+		attr = {{type=32,value=404034974},{type=5,value=105217441},{type=11,value=126260929},},
+	},
+	[2098]={
+		star = 2098,
+		needitem = {{type=1,id=1010000,count=4684}},
+		attr = {{type=32,value=404075377},{type=5,value=105227962},{type=11,value=126273555},},
+	},
+	[2099]={
+		star = 2099,
+		needitem = {{type=1,id=1010000,count=4707}},
+		attr = {{type=32,value=404115785},{type=5,value=105238485},{type=11,value=126286182},},
+	},
+	[2100]={
+		star = 2100,
+		needitem = {{type=1,id=1010000,count=4731}},
+		attr = {{type=32,value=404156196},{type=5,value=105249009},{type=11,value=126298811},},
+	},
+	[2101]={
+		star = 2101,
+		needitem = {{type=1,id=1010000,count=4755}},
+		attr = {{type=32,value=404196612},{type=5,value=105259534},{type=11,value=126311441},},
+	},
+	[2102]={
+		star = 2102,
+		needitem = {{type=1,id=1010000,count=4778}},
+		attr = {{type=32,value=404237032},{type=5,value=105270060},{type=11,value=126324072},},
+	},
+	[2103]={
+		star = 2103,
+		needitem = {{type=1,id=1010000,count=4802}},
+		attr = {{type=32,value=404277455},{type=5,value=105280587},{type=11,value=126336704},},
+	},
+	[2104]={
+		star = 2104,
+		needitem = {{type=1,id=1010000,count=4826}},
+		attr = {{type=32,value=404317883},{type=5,value=105291115},{type=11,value=126349338},},
+	},
+	[2105]={
+		star = 2105,
+		needitem = {{type=1,id=1010000,count=4850}},
+		attr = {{type=32,value=404358315},{type=5,value=105301644},{type=11,value=126361973},},
+	},
+	[2106]={
+		star = 2106,
+		needitem = {{type=1,id=1010000,count=4875}},
+		attr = {{type=32,value=404398751},{type=5,value=105312174},{type=11,value=126374609},},
+	},
+	[2107]={
+		star = 2107,
+		needitem = {{type=1,id=1010000,count=4899}},
+		attr = {{type=32,value=404439191},{type=5,value=105322705},{type=11,value=126387246},},
+	},
+	[2108]={
+		star = 2108,
+		needitem = {{type=1,id=1010000,count=4923}},
+		attr = {{type=32,value=404479634},{type=5,value=105333238},{type=11,value=126399885},},
+	},
+	[2109]={
+		star = 2109,
+		needitem = {{type=1,id=1010000,count=4948}},
+		attr = {{type=32,value=404520082},{type=5,value=105343771},{type=11,value=126412525},},
+	},
+	[2110]={
+		star = 2110,
+		needitem = {{type=1,id=1010000,count=4973}},
+		attr = {{type=32,value=404560534},{type=5,value=105354305},{type=11,value=126425166},},
+	},
+	[2111]={
+		star = 2111,
+		needitem = {{type=1,id=1010000,count=4998}},
+		attr = {{type=32,value=404600990},{type=5,value=105364841},{type=11,value=126437809},},
+	},
+	[2112]={
+		star = 2112,
+		needitem = {{type=1,id=1010000,count=5023}},
+		attr = {{type=32,value=404641451},{type=5,value=105375377},{type=11,value=126450453},},
+	},
+	[2113]={
+		star = 2113,
+		needitem = {{type=1,id=1010000,count=5048}},
+		attr = {{type=32,value=404681915},{type=5,value=105385915},{type=11,value=126463098},},
+	},
+	[2114]={
+		star = 2114,
+		needitem = {{type=1,id=1010000,count=5073}},
+		attr = {{type=32,value=404722383},{type=5,value=105396453},{type=11,value=126475744},},
+	},
+	[2115]={
+		star = 2115,
+		needitem = {{type=1,id=1010000,count=5098}},
+		attr = {{type=32,value=404762855},{type=5,value=105406993},{type=11,value=126488392},},
+	},
+	[2116]={
+		star = 2116,
+		needitem = {{type=1,id=1010000,count=5124}},
+		attr = {{type=32,value=404803331},{type=5,value=105417534},{type=11,value=126501040},},
+	},
+	[2117]={
+		star = 2117,
+		needitem = {{type=1,id=1010000,count=5149}},
+		attr = {{type=32,value=404843812},{type=5,value=105428076},{type=11,value=126513690},},
+	},
+	[2118]={
+		star = 2118,
+		needitem = {{type=1,id=1010000,count=5175}},
+		attr = {{type=32,value=404884296},{type=5,value=105438618},{type=11,value=126526342},},
+	},
+	[2119]={
+		star = 2119,
+		needitem = {{type=1,id=1010000,count=5201}},
+		attr = {{type=32,value=404924785},{type=5,value=105449162},{type=11,value=126538994},},
+	},
+	[2120]={
+		star = 2120,
+		needitem = {{type=1,id=1010000,count=5227}},
+		attr = {{type=32,value=404965277},{type=5,value=105459707},{type=11,value=126551648},},
+	},
+	[2121]={
+		star = 2121,
+		needitem = {{type=1,id=1010000,count=5253}},
+		attr = {{type=32,value=405005774},{type=5,value=105470253},{type=11,value=126564304},},
+	},
+	[2122]={
+		star = 2122,
+		needitem = {{type=1,id=1010000,count=5280}},
+		attr = {{type=32,value=405046274},{type=5,value=105480800},{type=11,value=126576960},},
+	},
+	[2123]={
+		star = 2123,
+		needitem = {{type=1,id=1010000,count=5306}},
+		attr = {{type=32,value=405086779},{type=5,value=105491348},{type=11,value=126589618},},
+	},
+	[2124]={
+		star = 2124,
+		needitem = {{type=1,id=1010000,count=5332}},
+		attr = {{type=32,value=405127287},{type=5,value=105501897},{type=11,value=126602277},},
+	},
+	[2125]={
+		star = 2125,
+		needitem = {{type=1,id=1010000,count=5359}},
+		attr = {{type=32,value=405167800},{type=5,value=105512448},{type=11,value=126614937},},
+	},
+	[2126]={
+		star = 2126,
+		needitem = {{type=1,id=1010000,count=5386}},
+		attr = {{type=32,value=405208317},{type=5,value=105522999},{type=11,value=126627598},},
+	},
+	[2127]={
+		star = 2127,
+		needitem = {{type=1,id=1010000,count=5413}},
+		attr = {{type=32,value=405248838},{type=5,value=105533551},{type=11,value=126640261},},
+	},
+	[2128]={
+		star = 2128,
+		needitem = {{type=1,id=1010000,count=5440}},
+		attr = {{type=32,value=405289363},{type=5,value=105544104},{type=11,value=126652925},},
+	},
+	[2129]={
+		star = 2129,
+		needitem = {{type=1,id=1010000,count=5467}},
+		attr = {{type=32,value=405329892},{type=5,value=105554659},{type=11,value=126665590},},
+	},
+	[2130]={
+		star = 2130,
+		needitem = {{type=1,id=1010000,count=5494}},
+		attr = {{type=32,value=405370425},{type=5,value=105565214},{type=11,value=126678257},},
+	},
+	[2131]={
+		star = 2131,
+		needitem = {{type=1,id=1010000,count=5522}},
+		attr = {{type=32,value=405410962},{type=5,value=105575771},{type=11,value=126690925},},
+	},
+	[2132]={
+		star = 2132,
+		needitem = {{type=1,id=1010000,count=5550}},
+		attr = {{type=32,value=405451503},{type=5,value=105586328},{type=11,value=126703594},},
+	},
+	[2133]={
+		star = 2133,
+		needitem = {{type=1,id=1010000,count=5577}},
+		attr = {{type=32,value=405492048},{type=5,value=105596887},{type=11,value=126716264},},
+	},
+	[2134]={
+		star = 2134,
+		needitem = {{type=1,id=1010000,count=5605}},
+		attr = {{type=32,value=405532597},{type=5,value=105607447},{type=11,value=126728936},},
+	},
+	[2135]={
+		star = 2135,
+		needitem = {{type=1,id=1010000,count=5633}},
+		attr = {{type=32,value=405573150},{type=5,value=105618007},{type=11,value=126741609},},
+	},
+	[2136]={
+		star = 2136,
+		needitem = {{type=1,id=1010000,count=5661}},
+		attr = {{type=32,value=405613708},{type=5,value=105628569},{type=11,value=126754283},},
+	},
+	[2137]={
+		star = 2137,
+		needitem = {{type=1,id=1010000,count=5690}},
+		attr = {{type=32,value=405654269},{type=5,value=105639132},{type=11,value=126766958},},
+	},
+	[2138]={
+		star = 2138,
+		needitem = {{type=1,id=1010000,count=5718}},
+		attr = {{type=32,value=405694834},{type=5,value=105649696},{type=11,value=126779635},},
+	},
+	[2139]={
+		star = 2139,
+		needitem = {{type=1,id=1010000,count=5747}},
+		attr = {{type=32,value=405735404},{type=5,value=105660261},{type=11,value=126792313},},
+	},
+	[2140]={
+		star = 2140,
+		needitem = {{type=1,id=1010000,count=5775}},
+		attr = {{type=32,value=405775977},{type=5,value=105670827},{type=11,value=126804992},},
+	},
+	[2141]={
+		star = 2141,
+		needitem = {{type=1,id=1010000,count=5804}},
+		attr = {{type=32,value=405816555},{type=5,value=105681394},{type=11,value=126817673},},
+	},
+	[2142]={
+		star = 2142,
+		needitem = {{type=1,id=1010000,count=5833}},
+		attr = {{type=32,value=405857137},{type=5,value=105691962},{type=11,value=126830355},},
+	},
+	[2143]={
+		star = 2143,
+		needitem = {{type=1,id=1010000,count=5862}},
+		attr = {{type=32,value=405897722},{type=5,value=105702531},{type=11,value=126843038},},
+	},
+	[2144]={
+		star = 2144,
+		needitem = {{type=1,id=1010000,count=5892}},
+		attr = {{type=32,value=405938312},{type=5,value=105713102},{type=11,value=126855722},},
+	},
+	[2145]={
+		star = 2145,
+		needitem = {{type=1,id=1010000,count=5921}},
+		attr = {{type=32,value=405978906},{type=5,value=105723673},{type=11,value=126868407},},
+	},
+	[2146]={
+		star = 2146,
+		needitem = {{type=1,id=1010000,count=5951}},
+		attr = {{type=32,value=406019504},{type=5,value=105734245},{type=11,value=126881094},},
+	},
+	[2147]={
+		star = 2147,
+		needitem = {{type=1,id=1010000,count=5981}},
+		attr = {{type=32,value=406060106},{type=5,value=105744819},{type=11,value=126893782},},
+	},
+	[2148]={
+		star = 2148,
+		needitem = {{type=1,id=1010000,count=6011}},
+		attr = {{type=32,value=406100712},{type=5,value=105755393},{type=11,value=126906472},},
+	},
+	[2149]={
+		star = 2149,
+		needitem = {{type=1,id=1010000,count=6041}},
+		attr = {{type=32,value=406141322},{type=5,value=105765969},{type=11,value=126919162},},
+	},
+	[2150]={
+		star = 2150,
+		needitem = {{type=1,id=1010000,count=6071}},
+		attr = {{type=32,value=406181936},{type=5,value=105776545},{type=11,value=126931854},},
+	},
+	[2151]={
+		star = 2151,
+		needitem = {{type=1,id=1010000,count=6101}},
+		attr = {{type=32,value=406222554},{type=5,value=105787123},{type=11,value=126944548},},
+	},
+	[2152]={
+		star = 2152,
+		needitem = {{type=1,id=1010000,count=6132}},
+		attr = {{type=32,value=406263177},{type=5,value=105797702},{type=11,value=126957242},},
+	},
+	[2153]={
+		star = 2153,
+		needitem = {{type=1,id=1010000,count=6162}},
+		attr = {{type=32,value=406303803},{type=5,value=105808282},{type=11,value=126969938},},
+	},
+	[2154]={
+		star = 2154,
+		needitem = {{type=1,id=1010000,count=6193}},
+		attr = {{type=32,value=406344433},{type=5,value=105818862},{type=11,value=126982635},},
+	},
+	[2155]={
+		star = 2155,
+		needitem = {{type=1,id=1010000,count=6224}},
+		attr = {{type=32,value=406385068},{type=5,value=105829444},{type=11,value=126995333},},
+	},
+	[2156]={
+		star = 2156,
+		needitem = {{type=1,id=1010000,count=6255}},
+		attr = {{type=32,value=406425706},{type=5,value=105840027},{type=11,value=127008032},},
+	},
+	[2157]={
+		star = 2157,
+		needitem = {{type=1,id=1010000,count=6286}},
+		attr = {{type=32,value=406466349},{type=5,value=105850611},{type=11,value=127020733},},
+	},
+	[2158]={
+		star = 2158,
+		needitem = {{type=1,id=1010000,count=6318}},
+		attr = {{type=32,value=406506995},{type=5,value=105861196},{type=11,value=127033435},},
+	},
+	[2159]={
+		star = 2159,
+		needitem = {{type=1,id=1010000,count=6349}},
+		attr = {{type=32,value=406547646},{type=5,value=105871782},{type=11,value=127046139},},
+	},
+	[2160]={
+		star = 2160,
+		needitem = {{type=1,id=1010000,count=6381}},
+		attr = {{type=32,value=406588301},{type=5,value=105882370},{type=11,value=127058843},},
+	},
+	[2161]={
+		star = 2161,
+		needitem = {{type=1,id=1010000,count=6413}},
+		attr = {{type=32,value=406628960},{type=5,value=105892958},{type=11,value=127071549},},
+	},
+	[2162]={
+		star = 2162,
+		needitem = {{type=1,id=1010000,count=6445}},
+		attr = {{type=32,value=406669623},{type=5,value=105903547},{type=11,value=127084256},},
+	},
+	[2163]={
+		star = 2163,
+		needitem = {{type=1,id=1010000,count=6477}},
+		attr = {{type=32,value=406710290},{type=5,value=105914137},{type=11,value=127096965},},
+	},
+	[2164]={
+		star = 2164,
+		needitem = {{type=1,id=1010000,count=6510}},
+		attr = {{type=32,value=406750961},{type=5,value=105924729},{type=11,value=127109674},},
+	},
+	[2165]={
+		star = 2165,
+		needitem = {{type=1,id=1010000,count=6542}},
+		attr = {{type=32,value=406791636},{type=5,value=105935321},{type=11,value=127122385},},
+	},
+	[2166]={
+		star = 2166,
+		needitem = {{type=1,id=1010000,count=6575}},
+		attr = {{type=32,value=406832315},{type=5,value=105945915},{type=11,value=127135098},},
+	},
+	[2167]={
+		star = 2167,
+		needitem = {{type=1,id=1010000,count=6608}},
+		attr = {{type=32,value=406872998},{type=5,value=105956510},{type=11,value=127147811},},
+	},
+	[2168]={
+		star = 2168,
+		needitem = {{type=1,id=1010000,count=6641}},
+		attr = {{type=32,value=406913685},{type=5,value=105967105},{type=11,value=127160526},},
+	},
+	[2169]={
+		star = 2169,
+		needitem = {{type=1,id=1010000,count=6674}},
+		attr = {{type=32,value=406954377},{type=5,value=105977702},{type=11,value=127173242},},
+	},
+	[2170]={
+		star = 2170,
+		needitem = {{type=1,id=1010000,count=6708}},
+		attr = {{type=32,value=406995072},{type=5,value=105988300},{type=11,value=127185959},},
+	},
+	[2171]={
+		star = 2171,
+		needitem = {{type=1,id=1010000,count=6741}},
+		attr = {{type=32,value=407035772},{type=5,value=105998898},{type=11,value=127198678},},
+	},
+	[2172]={
+		star = 2172,
+		needitem = {{type=1,id=1010000,count=6775}},
+		attr = {{type=32,value=407076475},{type=5,value=106009498},{type=11,value=127211398},},
+	},
+	[2173]={
+		star = 2173,
+		needitem = {{type=1,id=1010000,count=6809}},
+		attr = {{type=32,value=407117183},{type=5,value=106020099},{type=11,value=127224119},},
+	},
+	[2174]={
+		star = 2174,
+		needitem = {{type=1,id=1010000,count=6843}},
+		attr = {{type=32,value=407157895},{type=5,value=106030701},{type=11,value=127236841},},
+	},
+	[2175]={
+		star = 2175,
+		needitem = {{type=1,id=1010000,count=6877}},
+		attr = {{type=32,value=407198610},{type=5,value=106041304},{type=11,value=127249565},},
+	},
+	[2176]={
+		star = 2176,
+		needitem = {{type=1,id=1010000,count=6911}},
+		attr = {{type=32,value=407239330},{type=5,value=106051909},{type=11,value=127262290},},
+	},
+	[2177]={
+		star = 2177,
+		needitem = {{type=1,id=1010000,count=6946}},
+		attr = {{type=32,value=407280054},{type=5,value=106062514},{type=11,value=127275016},},
+	},
+	[2178]={
+		star = 2178,
+		needitem = {{type=1,id=1010000,count=6981}},
+		attr = {{type=32,value=407320782},{type=5,value=106073120},{type=11,value=127287744},},
+	},
+	[2179]={
+		star = 2179,
+		needitem = {{type=1,id=1010000,count=7016}},
+		attr = {{type=32,value=407361514},{type=5,value=106083727},{type=11,value=127300473},},
+	},
+	[2180]={
+		star = 2180,
+		needitem = {{type=1,id=1010000,count=7051}},
+		attr = {{type=32,value=407402250},{type=5,value=106094336},{type=11,value=127313203},},
+	},
+	[2181]={
+		star = 2181,
+		needitem = {{type=1,id=1010000,count=7086}},
+		attr = {{type=32,value=407442991},{type=5,value=106104945},{type=11,value=127325934},},
+	},
+	[2182]={
+		star = 2182,
+		needitem = {{type=1,id=1010000,count=7121}},
+		attr = {{type=32,value=407483735},{type=5,value=106115556},{type=11,value=127338666},},
+	},
+	[2183]={
+		star = 2183,
+		needitem = {{type=1,id=1010000,count=7157}},
+		attr = {{type=32,value=407524483},{type=5,value=106126167},{type=11,value=127351400},},
+	},
+	[2184]={
+		star = 2184,
+		needitem = {{type=1,id=1010000,count=7193}},
+		attr = {{type=32,value=407565236},{type=5,value=106136780},{type=11,value=127364135},},
+	},
+	[2185]={
+		star = 2185,
+		needitem = {{type=1,id=1010000,count=7229}},
+		attr = {{type=32,value=407605992},{type=5,value=106147393},{type=11,value=127376872},},
+	},
+	[2186]={
+		star = 2186,
+		needitem = {{type=1,id=1010000,count=7265}},
+		attr = {{type=32,value=407646753},{type=5,value=106158008},{type=11,value=127389610},},
+	},
+	[2187]={
+		star = 2187,
+		needitem = {{type=1,id=1010000,count=7301}},
+		attr = {{type=32,value=407687518},{type=5,value=106168624},{type=11,value=127402349},},
+	},
+	[2188]={
+		star = 2188,
+		needitem = {{type=1,id=1010000,count=7338}},
+		attr = {{type=32,value=407728286},{type=5,value=106179241},{type=11,value=127415089},},
+	},
+	[2189]={
+		star = 2189,
+		needitem = {{type=1,id=1010000,count=7374}},
+		attr = {{type=32,value=407769059},{type=5,value=106189859},{type=11,value=127427830},},
+	},
+	[2190]={
+		star = 2190,
+		needitem = {{type=1,id=1010000,count=7411}},
+		attr = {{type=32,value=407809836},{type=5,value=106200478},{type=11,value=127440573},},
+	},
+	[2191]={
+		star = 2191,
+		needitem = {{type=1,id=1010000,count=7448}},
+		attr = {{type=32,value=407850617},{type=5,value=106211098},{type=11,value=127453317},},
+	},
+	[2192]={
+		star = 2192,
+		needitem = {{type=1,id=1010000,count=7485}},
+		attr = {{type=32,value=407891402},{type=5,value=106221719},{type=11,value=127466062},},
+	},
+	[2193]={
+		star = 2193,
+		needitem = {{type=1,id=1010000,count=7523}},
+		attr = {{type=32,value=407932191},{type=5,value=106232341},{type=11,value=127478809},},
+	},
+	[2194]={
+		star = 2194,
+		needitem = {{type=1,id=1010000,count=7561}},
+		attr = {{type=32,value=407972985},{type=5,value=106242964},{type=11,value=127491557},},
+	},
+	[2195]={
+		star = 2195,
+		needitem = {{type=1,id=1010000,count=7598}},
+		attr = {{type=32,value=408013782},{type=5,value=106253589},{type=11,value=127504306},},
+	},
+	[2196]={
+		star = 2196,
+		needitem = {{type=1,id=1010000,count=7636}},
+		attr = {{type=32,value=408054583},{type=5,value=106264214},{type=11,value=127517057},},
+	},
+	[2197]={
+		star = 2197,
+		needitem = {{type=1,id=1010000,count=7674}},
+		attr = {{type=32,value=408095389},{type=5,value=106274840},{type=11,value=127529808},},
+	},
+	[2198]={
+		star = 2198,
+		needitem = {{type=1,id=1010000,count=7713}},
+		attr = {{type=32,value=408136198},{type=5,value=106285468},{type=11,value=127542561},},
+	},
+	[2199]={
+		star = 2199,
+		needitem = {{type=1,id=1010000,count=7751}},
+		attr = {{type=32,value=408177012},{type=5,value=106296096},{type=11,value=127555315},},
+	},
+	[2200]={
+		star = 2200,
+		needitem = {{type=1,id=1010000,count=7790}},
+		attr = {{type=32,value=408217829},{type=5,value=106306726},{type=11,value=127568071},},
+	},
+	[2201]={
+		star = 2201,
+		needitem = {{type=1,id=1010000,count=7829}},
+		attr = {{type=32,value=408258651},{type=5,value=106317357},{type=11,value=127580828},},
+	},
+	[2202]={
+		star = 2202,
+		needitem = {{type=1,id=1010000,count=7868}},
+		attr = {{type=32,value=408299477},{type=5,value=106327988},{type=11,value=127593586},},
+	},
+	[2203]={
+		star = 2203,
+		needitem = {{type=1,id=1010000,count=7908}},
+		attr = {{type=32,value=408340307},{type=5,value=106338621},{type=11,value=127606345},},
+	},
+	[2204]={
+		star = 2204,
+		needitem = {{type=1,id=1010000,count=7947}},
+		attr = {{type=32,value=408381141},{type=5,value=106349255},{type=11,value=127619106},},
+	},
+	[2205]={
+		star = 2205,
+		needitem = {{type=1,id=1010000,count=7987}},
+		attr = {{type=32,value=408421979},{type=5,value=106359890},{type=11,value=127631868},},
+	},
+	[2206]={
+		star = 2206,
+		needitem = {{type=1,id=1010000,count=8027}},
+		attr = {{type=32,value=408462821},{type=5,value=106370526},{type=11,value=127644631},},
+	},
+	[2207]={
+		star = 2207,
+		needitem = {{type=1,id=1010000,count=8067}},
+		attr = {{type=32,value=408503668},{type=5,value=106381163},{type=11,value=127657395},},
+	},
+	[2208]={
+		star = 2208,
+		needitem = {{type=1,id=1010000,count=8107}},
+		attr = {{type=32,value=408544518},{type=5,value=106391801},{type=11,value=127670161},},
+	},
+	[2209]={
+		star = 2209,
+		needitem = {{type=1,id=1010000,count=8148}},
+		attr = {{type=32,value=408585373},{type=5,value=106402440},{type=11,value=127682928},},
+	},
+	[2210]={
+		star = 2210,
+		needitem = {{type=1,id=1010000,count=8189}},
+		attr = {{type=32,value=408626231},{type=5,value=106413081},{type=11,value=127695697},},
+	},
+	[2211]={
+		star = 2211,
+		needitem = {{type=1,id=1010000,count=8230}},
+		attr = {{type=32,value=408667094},{type=5,value=106423722},{type=11,value=127708466},},
+	},
+	[2212]={
+		star = 2212,
+		needitem = {{type=1,id=1010000,count=8271}},
+		attr = {{type=32,value=408707960},{type=5,value=106434364},{type=11,value=127721237},},
+	},
+	[2213]={
+		star = 2213,
+		needitem = {{type=1,id=1010000,count=8312}},
+		attr = {{type=32,value=408748831},{type=5,value=106445008},{type=11,value=127734009},},
+	},
+	[2214]={
+		star = 2214,
+		needitem = {{type=1,id=1010000,count=8354}},
+		attr = {{type=32,value=408789706},{type=5,value=106455652},{type=11,value=127746782},},
+	},
+	[2215]={
+		star = 2215,
+		needitem = {{type=1,id=1010000,count=8395}},
+		attr = {{type=32,value=408830585},{type=5,value=106466298},{type=11,value=127759557},},
+	},
+	[2216]={
+		star = 2216,
+		needitem = {{type=1,id=1010000,count=8437}},
+		attr = {{type=32,value=408871468},{type=5,value=106476944},{type=11,value=127772333},},
+	},
+	[2217]={
+		star = 2217,
+		needitem = {{type=1,id=1010000,count=8480}},
+		attr = {{type=32,value=408912355},{type=5,value=106487592},{type=11,value=127785110},},
+	},
+	[2218]={
+		star = 2218,
+		needitem = {{type=1,id=1010000,count=8522}},
+		attr = {{type=32,value=408953246},{type=5,value=106498241},{type=11,value=127797889},},
+	},
+	[2219]={
+		star = 2219,
+		needitem = {{type=1,id=1010000,count=8565}},
+		attr = {{type=32,value=408994142},{type=5,value=106508891},{type=11,value=127810669},},
+	},
+	[2220]={
+		star = 2220,
+		needitem = {{type=1,id=1010000,count=8607}},
+		attr = {{type=32,value=409035041},{type=5,value=106519542},{type=11,value=127823450},},
+	},
+	[2221]={
+		star = 2221,
+		needitem = {{type=1,id=1010000,count=8650}},
+		attr = {{type=32,value=409075945},{type=5,value=106530194},{type=11,value=127836232},},
+	},
+	[2222]={
+		star = 2222,
+		needitem = {{type=1,id=1010000,count=8694}},
+		attr = {{type=32,value=409116852},{type=5,value=106540847},{type=11,value=127849016},},
+	},
+	[2223]={
+		star = 2223,
+		needitem = {{type=1,id=1010000,count=8737}},
+		attr = {{type=32,value=409157764},{type=5,value=106551501},{type=11,value=127861801},},
+	},
+	[2224]={
+		star = 2224,
+		needitem = {{type=1,id=1010000,count=8781}},
+		attr = {{type=32,value=409198680},{type=5,value=106562156},{type=11,value=127874587},},
+	},
+	[2225]={
+		star = 2225,
+		needitem = {{type=1,id=1010000,count=8825}},
+		attr = {{type=32,value=409239600},{type=5,value=106572812},{type=11,value=127887374},},
+	},
+	[2226]={
+		star = 2226,
+		needitem = {{type=1,id=1010000,count=8869}},
+		attr = {{type=32,value=409280524},{type=5,value=106583469},{type=11,value=127900163},},
+	},
+	[2227]={
+		star = 2227,
+		needitem = {{type=1,id=1010000,count=8913}},
+		attr = {{type=32,value=409321452},{type=5,value=106594128},{type=11,value=127912953},},
+	},
+	[2228]={
+		star = 2228,
+		needitem = {{type=1,id=1010000,count=8958}},
+		attr = {{type=32,value=409362384},{type=5,value=106604787},{type=11,value=127925744},},
+	},
+	[2229]={
+		star = 2229,
+		needitem = {{type=1,id=1010000,count=9003}},
+		attr = {{type=32,value=409403320},{type=5,value=106615448},{type=11,value=127938537},},
+	},
+	[2230]={
+		star = 2230,
+		needitem = {{type=1,id=1010000,count=9048}},
+		attr = {{type=32,value=409444260},{type=5,value=106626109},{type=11,value=127951331},},
+	},
+	[2231]={
+		star = 2231,
+		needitem = {{type=1,id=1010000,count=9093}},
+		attr = {{type=32,value=409485205},{type=5,value=106636772},{type=11,value=127964126},},
+	},
+	[2232]={
+		star = 2232,
+		needitem = {{type=1,id=1010000,count=9138}},
+		attr = {{type=32,value=409526153},{type=5,value=106647435},{type=11,value=127976922},},
+	},
+	[2233]={
+		star = 2233,
+		needitem = {{type=1,id=1010000,count=9184}},
+		attr = {{type=32,value=409567106},{type=5,value=106658100},{type=11,value=127989720},},
+	},
+	[2234]={
+		star = 2234,
+		needitem = {{type=1,id=1010000,count=9230}},
+		attr = {{type=32,value=409608063},{type=5,value=106668766},{type=11,value=128002519},},
+	},
+	[2235]={
+		star = 2235,
+		needitem = {{type=1,id=1010000,count=9276}},
+		attr = {{type=32,value=409649023},{type=5,value=106679433},{type=11,value=128015319},},
+	},
+	[2236]={
+		star = 2236,
+		needitem = {{type=1,id=1010000,count=9322}},
+		attr = {{type=32,value=409689988},{type=5,value=106690101},{type=11,value=128028121},},
+	},
+	[2237]={
+		star = 2237,
+		needitem = {{type=1,id=1010000,count=9369}},
+		attr = {{type=32,value=409730957},{type=5,value=106700770},{type=11,value=128040923},},
+	},
+	[2238]={
+		star = 2238,
+		needitem = {{type=1,id=1010000,count=9416}},
+		attr = {{type=32,value=409771930},{type=5,value=106711440},{type=11,value=128053728},},
+	},
+	[2239]={
+		star = 2239,
+		needitem = {{type=1,id=1010000,count=9463}},
+		attr = {{type=32,value=409812908},{type=5,value=106722111},{type=11,value=128066533},},
+	},
+	[2240]={
+		star = 2240,
+		needitem = {{type=1,id=1010000,count=9510}},
+		attr = {{type=32,value=409853889},{type=5,value=106732783},{type=11,value=128079340},},
+	},
+	[2241]={
+		star = 2241,
+		needitem = {{type=1,id=1010000,count=9558}},
+		attr = {{type=32,value=409894874},{type=5,value=106743456},{type=11,value=128092148},},
+	},
+	[2242]={
+		star = 2242,
+		needitem = {{type=1,id=1010000,count=9606}},
+		attr = {{type=32,value=409935864},{type=5,value=106754131},{type=11,value=128104957},},
+	},
+	[2243]={
+		star = 2243,
+		needitem = {{type=1,id=1010000,count=9654}},
+		attr = {{type=32,value=409976857},{type=5,value=106764806},{type=11,value=128117767},},
+	},
+	[2244]={
+		star = 2244,
+		needitem = {{type=1,id=1010000,count=9702}},
+		attr = {{type=32,value=410017855},{type=5,value=106775483},{type=11,value=128130579},},
+	},
+	[2245]={
+		star = 2245,
+		needitem = {{type=1,id=1010000,count=9750}},
+		attr = {{type=32,value=410058857},{type=5,value=106786160},{type=11,value=128143392},},
+	},
+	[2246]={
+		star = 2246,
+		needitem = {{type=1,id=1010000,count=9799}},
+		attr = {{type=32,value=410099863},{type=5,value=106796839},{type=11,value=128156206},},
+	},
+	[2247]={
+		star = 2247,
+		needitem = {{type=1,id=1010000,count=9848}},
+		attr = {{type=32,value=410140873},{type=5,value=106807519},{type=11,value=128169022},},
+	},
+	[2248]={
+		star = 2248,
+		needitem = {{type=1,id=1010000,count=9897}},
+		attr = {{type=32,value=410181887},{type=5,value=106818199},{type=11,value=128181839},},
+	},
+	[2249]={
+		star = 2249,
+		needitem = {{type=1,id=1010000,count=9947}},
+		attr = {{type=32,value=410222905},{type=5,value=106828881},{type=11,value=128194657},},
+	},
+	[2250]={
+		star = 2250,
+		needitem = {{type=1,id=1010000,count=9997}},
+		attr = {{type=32,value=410263927},{type=5,value=106839564},{type=11,value=128207477},},
+	},
+	[2251]={
+		star = 2251,
+		needitem = {{type=1,id=1010000,count=10047}},
+		attr = {{type=32,value=410304954},{type=5,value=106850248},{type=11,value=128220297},},
+	},
+	[2252]={
+		star = 2252,
+		needitem = {{type=1,id=1010000,count=10097}},
+		attr = {{type=32,value=410345984},{type=5,value=106860933},{type=11,value=128233119},},
+	},
+	[2253]={
+		star = 2253,
+		needitem = {{type=1,id=1010000,count=10147}},
+		attr = {{type=32,value=410387019},{type=5,value=106871619},{type=11,value=128245943},},
+	},
+	[2254]={
+		star = 2254,
+		needitem = {{type=1,id=1010000,count=10198}},
+		attr = {{type=32,value=410428058},{type=5,value=106882306},{type=11,value=128258767},},
+	},
+	[2255]={
+		star = 2255,
+		needitem = {{type=1,id=1010000,count=10249}},
+		attr = {{type=32,value=410469100},{type=5,value=106892994},{type=11,value=128271593},},
+	},
+	[2256]={
+		star = 2256,
+		needitem = {{type=1,id=1010000,count=10300}},
+		attr = {{type=32,value=410510147},{type=5,value=106903684},{type=11,value=128284420},},
+	},
+	[2257]={
+		star = 2257,
+		needitem = {{type=1,id=1010000,count=10352}},
+		attr = {{type=32,value=410551198},{type=5,value=106914374},{type=11,value=128297249},},
+	},
+	[2258]={
+		star = 2258,
+		needitem = {{type=1,id=1010000,count=10404}},
+		attr = {{type=32,value=410592253},{type=5,value=106925066},{type=11,value=128310078},},
+	},
+	[2259]={
+		star = 2259,
+		needitem = {{type=1,id=1010000,count=10456}},
+		attr = {{type=32,value=410633313},{type=5,value=106935758},{type=11,value=128322909},},
+	},
+	[2260]={
+		star = 2260,
+		needitem = {{type=1,id=1010000,count=10508}},
+		attr = {{type=32,value=410674376},{type=5,value=106946452},{type=11,value=128335742},},
+	},
+	[2261]={
+		star = 2261,
+		needitem = {{type=1,id=1010000,count=10560}},
+		attr = {{type=32,value=410715443},{type=5,value=106957146},{type=11,value=128348575},},
+	},
+	[2262]={
+		star = 2262,
+		needitem = {{type=1,id=1010000,count=10613}},
+		attr = {{type=32,value=410756515},{type=5,value=106967842},{type=11,value=128361410},},
+	},
+	[2263]={
+		star = 2263,
+		needitem = {{type=1,id=1010000,count=10666}},
+		attr = {{type=32,value=410797591},{type=5,value=106978539},{type=11,value=128374246},},
+	},
+	[2264]={
+		star = 2264,
+		needitem = {{type=1,id=1010000,count=10720}},
+		attr = {{type=32,value=410838670},{type=5,value=106989237},{type=11,value=128387084},},
+	},
+	[2265]={
+		star = 2265,
+		needitem = {{type=1,id=1010000,count=10773}},
+		attr = {{type=32,value=410879754},{type=5,value=106999936},{type=11,value=128399922},},
+	},
+	[2266]={
+		star = 2266,
+		needitem = {{type=1,id=1010000,count=10827}},
+		attr = {{type=32,value=410920842},{type=5,value=107010636},{type=11,value=128412762},},
+	},
+	[2267]={
+		star = 2267,
+		needitem = {{type=1,id=1010000,count=10881}},
+		attr = {{type=32,value=410961934},{type=5,value=107021337},{type=11,value=128425604},},
+	},
+	[2268]={
+		star = 2268,
+		needitem = {{type=1,id=1010000,count=10936}},
+		attr = {{type=32,value=411003030},{type=5,value=107032039},{type=11,value=128438446},},
+	},
+	[2269]={
+		star = 2269,
+		needitem = {{type=1,id=1010000,count=10990}},
+		attr = {{type=32,value=411044131},{type=5,value=107042742},{type=11,value=128451290},},
+	},
+	[2270]={
+		star = 2270,
+		needitem = {{type=1,id=1010000,count=11045}},
+		attr = {{type=32,value=411085235},{type=5,value=107053446},{type=11,value=128464135},},
+	},
+	[2271]={
+		star = 2271,
+		needitem = {{type=1,id=1010000,count=11100}},
+		attr = {{type=32,value=411126344},{type=5,value=107064152},{type=11,value=128476982},},
+	},
+	[2272]={
+		star = 2272,
+		needitem = {{type=1,id=1010000,count=11156}},
+		attr = {{type=32,value=411167456},{type=5,value=107074858},{type=11,value=128489829},},
+	},
+	[2273]={
+		star = 2273,
+		needitem = {{type=1,id=1010000,count=11212}},
+		attr = {{type=32,value=411208573},{type=5,value=107085565},{type=11,value=128502678},},
+	},
+	[2274]={
+		star = 2274,
+		needitem = {{type=1,id=1010000,count=11268}},
+		attr = {{type=32,value=411249694},{type=5,value=107096274},{type=11,value=128515529},},
+	},
+	[2275]={
+		star = 2275,
+		needitem = {{type=1,id=1010000,count=11324}},
+		attr = {{type=32,value=411290819},{type=5,value=107106984},{type=11,value=128528380},},
+	},
+	[2276]={
+		star = 2276,
+		needitem = {{type=1,id=1010000,count=11381}},
+		attr = {{type=32,value=411331948},{type=5,value=107117694},{type=11,value=128541233},},
+	},
+	[2277]={
+		star = 2277,
+		needitem = {{type=1,id=1010000,count=11438}},
+		attr = {{type=32,value=411373081},{type=5,value=107128406},{type=11,value=128554087},},
+	},
+	[2278]={
+		star = 2278,
+		needitem = {{type=1,id=1010000,count=11495}},
+		attr = {{type=32,value=411414218},{type=5,value=107139119},{type=11,value=128566943},},
+	},
+	[2279]={
+		star = 2279,
+		needitem = {{type=1,id=1010000,count=11552}},
+		attr = {{type=32,value=411455360},{type=5,value=107149833},{type=11,value=128579799},},
+	},
+	[2280]={
+		star = 2280,
+		needitem = {{type=1,id=1010000,count=11610}},
+		attr = {{type=32,value=411496505},{type=5,value=107160548},{type=11,value=128592657},},
+	},
+	[2281]={
+		star = 2281,
+		needitem = {{type=1,id=1010000,count=11668}},
+		attr = {{type=32,value=411537655},{type=5,value=107171264},{type=11,value=128605517},},
+	},
+	[2282]={
+		star = 2282,
+		needitem = {{type=1,id=1010000,count=11726}},
+		attr = {{type=32,value=411578809},{type=5,value=107181981},{type=11,value=128618377},},
+	},
+	[2283]={
+		star = 2283,
+		needitem = {{type=1,id=1010000,count=11785}},
+		attr = {{type=32,value=411619967},{type=5,value=107192699},{type=11,value=128631239},},
+	},
+	[2284]={
+		star = 2284,
+		needitem = {{type=1,id=1010000,count=11844}},
+		attr = {{type=32,value=411661129},{type=5,value=107203419},{type=11,value=128644102},},
+	},
+	[2285]={
+		star = 2285,
+		needitem = {{type=1,id=1010000,count=11903}},
+		attr = {{type=32,value=411702295},{type=5,value=107214139},{type=11,value=128656966},},
+	},
+	[2286]={
+		star = 2286,
+		needitem = {{type=1,id=1010000,count=11963}},
+		attr = {{type=32,value=411743465},{type=5,value=107224860},{type=11,value=128669832},},
+	},
+	[2287]={
+		star = 2287,
+		needitem = {{type=1,id=1010000,count=12023}},
+		attr = {{type=32,value=411784639},{type=5,value=107235583},{type=11,value=128682699},},
+	},
+	[2288]={
+		star = 2288,
+		needitem = {{type=1,id=1010000,count=12083}},
+		attr = {{type=32,value=411825818},{type=5,value=107246306},{type=11,value=128695567},},
+	},
+	[2289]={
+		star = 2289,
+		needitem = {{type=1,id=1010000,count=12143}},
+		attr = {{type=32,value=411867000},{type=5,value=107257031},{type=11,value=128708437},},
+	},
+	[2290]={
+		star = 2290,
+		needitem = {{type=1,id=1010000,count=12204}},
+		attr = {{type=32,value=411908187},{type=5,value=107267757},{type=11,value=128721308},},
+	},
+	[2291]={
+		star = 2291,
+		needitem = {{type=1,id=1010000,count=12265}},
+		attr = {{type=32,value=411949378},{type=5,value=107278483},{type=11,value=128734180},},
+	},
+	[2292]={
+		star = 2292,
+		needitem = {{type=1,id=1010000,count=12326}},
+		attr = {{type=32,value=411990573},{type=5,value=107289211},{type=11,value=128747053},},
+	},
+	[2293]={
+		star = 2293,
+		needitem = {{type=1,id=1010000,count=12388}},
+		attr = {{type=32,value=412031772},{type=5,value=107299940},{type=11,value=128759928},},
+	},
+	[2294]={
+		star = 2294,
+		needitem = {{type=1,id=1010000,count=12450}},
+		attr = {{type=32,value=412072975},{type=5,value=107310670},{type=11,value=128772804},},
+	},
+	[2295]={
+		star = 2295,
+		needitem = {{type=1,id=1010000,count=12512}},
+		attr = {{type=32,value=412114182},{type=5,value=107321401},{type=11,value=128785681},},
+	},
+	[2296]={
+		star = 2296,
+		needitem = {{type=1,id=1010000,count=12574}},
+		attr = {{type=32,value=412155394},{type=5,value=107332133},{type=11,value=128798560},},
+	},
+	[2297]={
+		star = 2297,
+		needitem = {{type=1,id=1010000,count=12637}},
+		attr = {{type=32,value=412196609},{type=5,value=107342867},{type=11,value=128811440},},
+	},
+	[2298]={
+		star = 2298,
+		needitem = {{type=1,id=1010000,count=12701}},
+		attr = {{type=32,value=412237829},{type=5,value=107353601},{type=11,value=128824321},},
+	},
+	[2299]={
+		star = 2299,
+		needitem = {{type=1,id=1010000,count=12764}},
+		attr = {{type=32,value=412279053},{type=5,value=107364336},{type=11,value=128837203},},
+	},
+	[2300]={
+		star = 2300,
+		needitem = {{type=1,id=1010000,count=12828}},
+		attr = {{type=32,value=412320281},{type=5,value=107375073},{type=11,value=128850087},},
+	},
+	[2301]={
+		star = 2301,
+		needitem = {{type=1,id=1010000,count=12892}},
+		attr = {{type=32,value=412361513},{type=5,value=107385810},{type=11,value=128862972},},
+	},
+	[2302]={
+		star = 2302,
+		needitem = {{type=1,id=1010000,count=12956}},
+		attr = {{type=32,value=412402749},{type=5,value=107396549},{type=11,value=128875858},},
+	},
+	[2303]={
+		star = 2303,
+		needitem = {{type=1,id=1010000,count=13021}},
+		attr = {{type=32,value=412443989},{type=5,value=107407288},{type=11,value=128888746},},
+	},
+	[2304]={
+		star = 2304,
+		needitem = {{type=1,id=1010000,count=13086}},
+		attr = {{type=32,value=412485234},{type=5,value=107418029},{type=11,value=128901635},},
+	},
+	[2305]={
+		star = 2305,
+		needitem = {{type=1,id=1010000,count=13152}},
+		attr = {{type=32,value=412526482},{type=5,value=107428771},{type=11,value=128914525},},
+	},
+	[2306]={
+		star = 2306,
+		needitem = {{type=1,id=1010000,count=13218}},
+		attr = {{type=32,value=412567735},{type=5,value=107439514},{type=11,value=128927416},},
+	},
+	[2307]={
+		star = 2307,
+		needitem = {{type=1,id=1010000,count=13284}},
+		attr = {{type=32,value=412608992},{type=5,value=107450258},{type=11,value=128940309},},
+	},
+	[2308]={
+		star = 2308,
+		needitem = {{type=1,id=1010000,count=13350}},
+		attr = {{type=32,value=412650252},{type=5,value=107461003},{type=11,value=128953203},},
+	},
+	[2309]={
+		star = 2309,
+		needitem = {{type=1,id=1010000,count=13417}},
+		attr = {{type=32,value=412691517},{type=5,value=107471749},{type=11,value=128966098},},
+	},
+	[2310]={
+		star = 2310,
+		needitem = {{type=1,id=1010000,count=13484}},
+		attr = {{type=32,value=412732787},{type=5,value=107482496},{type=11,value=128978995},},
+	},
+	[2311]={
+		star = 2311,
+		needitem = {{type=1,id=1010000,count=13551}},
+		attr = {{type=32,value=412774060},{type=5,value=107493244},{type=11,value=128991893},},
+	},
+	[2312]={
+		star = 2312,
+		needitem = {{type=1,id=1010000,count=13619}},
+		attr = {{type=32,value=412815337},{type=5,value=107503994},{type=11,value=129004792},},
+	},
+	[2313]={
+		star = 2313,
+		needitem = {{type=1,id=1010000,count=13687}},
+		attr = {{type=32,value=412856619},{type=5,value=107514744},{type=11,value=129017693},},
+	},
+	[2314]={
+		star = 2314,
+		needitem = {{type=1,id=1010000,count=13756}},
+		attr = {{type=32,value=412897904},{type=5,value=107525496},{type=11,value=129030594},},
+	},
+	[2315]={
+		star = 2315,
+		needitem = {{type=1,id=1010000,count=13824}},
+		attr = {{type=32,value=412939194},{type=5,value=107536248},{type=11,value=129043498},},
+	},
+	[2316]={
+		star = 2316,
+		needitem = {{type=1,id=1010000,count=13893}},
+		attr = {{type=32,value=412980488},{type=5,value=107547002},{type=11,value=129056402},},
+	},
+	[2317]={
+		star = 2317,
+		needitem = {{type=1,id=1010000,count=13963}},
+		attr = {{type=32,value=413021786},{type=5,value=107557756},{type=11,value=129069307},},
+	},
+	[2318]={
+		star = 2318,
+		needitem = {{type=1,id=1010000,count=14033}},
+		attr = {{type=32,value=413063088},{type=5,value=107568512},{type=11,value=129082214},},
+	},
+	[2319]={
+		star = 2319,
+		needitem = {{type=1,id=1010000,count=14103}},
+		attr = {{type=32,value=413104395},{type=5,value=107579269},{type=11,value=129095123},},
+	},
+	[2320]={
+		star = 2320,
+		needitem = {{type=1,id=1010000,count=14173}},
+		attr = {{type=32,value=413145705},{type=5,value=107590027},{type=11,value=129108032},},
+	},
+	[2321]={
+		star = 2321,
+		needitem = {{type=1,id=1010000,count=14244}},
+		attr = {{type=32,value=413187020},{type=5,value=107600786},{type=11,value=129120943},},
+	},
+	[2322]={
+		star = 2322,
+		needitem = {{type=1,id=1010000,count=14316}},
+		attr = {{type=32,value=413228338},{type=5,value=107611546},{type=11,value=129133855},},
+	},
+	[2323]={
+		star = 2323,
+		needitem = {{type=1,id=1010000,count=14387}},
+		attr = {{type=32,value=413269661},{type=5,value=107622307},{type=11,value=129146768},},
+	},
+	[2324]={
+		star = 2324,
+		needitem = {{type=1,id=1010000,count=14459}},
+		attr = {{type=32,value=413310988},{type=5,value=107633069},{type=11,value=129159683},},
+	},
+	[2325]={
+		star = 2325,
+		needitem = {{type=1,id=1010000,count=14531}},
+		attr = {{type=32,value=413352319},{type=5,value=107643833},{type=11,value=129172599},},
+	},
+	[2326]={
+		star = 2326,
+		needitem = {{type=1,id=1010000,count=14604}},
+		attr = {{type=32,value=413393655},{type=5,value=107654597},{type=11,value=129185516},},
+	},
+	[2327]={
+		star = 2327,
+		needitem = {{type=1,id=1010000,count=14677}},
+		attr = {{type=32,value=413434994},{type=5,value=107665363},{type=11,value=129198435},},
+	},
+	[2328]={
+		star = 2328,
+		needitem = {{type=1,id=1010000,count=14750}},
+		attr = {{type=32,value=413476337},{type=5,value=107676129},{type=11,value=129211355},},
+	},
+	[2329]={
+		star = 2329,
+		needitem = {{type=1,id=1010000,count=14824}},
+		attr = {{type=32,value=413517685},{type=5,value=107686897},{type=11,value=129224276},},
+	},
+	[2330]={
+		star = 2330,
+		needitem = {{type=1,id=1010000,count=14898}},
+		attr = {{type=32,value=413559037},{type=5,value=107697665},{type=11,value=129237198},},
+	},
+	[2331]={
+		star = 2331,
+		needitem = {{type=1,id=1010000,count=14973}},
+		attr = {{type=32,value=413600393},{type=5,value=107708435},{type=11,value=129250122},},
+	},
+	[2332]={
+		star = 2332,
+		needitem = {{type=1,id=1010000,count=15048}},
+		attr = {{type=32,value=413641753},{type=5,value=107719206},{type=11,value=129263047},},
+	},
+	[2333]={
+		star = 2333,
+		needitem = {{type=1,id=1010000,count=15123}},
+		attr = {{type=32,value=413683117},{type=5,value=107729978},{type=11,value=129275973},},
+	},
+	[2334]={
+		star = 2334,
+		needitem = {{type=1,id=1010000,count=15198}},
+		attr = {{type=32,value=413724485},{type=5,value=107740751},{type=11,value=129288901},},
+	},
+	[2335]={
+		star = 2335,
+		needitem = {{type=1,id=1010000,count=15274}},
+		attr = {{type=32,value=413765858},{type=5,value=107751525},{type=11,value=129301830},},
+	},
+	[2336]={
+		star = 2336,
+		needitem = {{type=1,id=1010000,count=15351}},
+		attr = {{type=32,value=413807234},{type=5,value=107762300},{type=11,value=129314760},},
+	},
+	[2337]={
+		star = 2337,
+		needitem = {{type=1,id=1010000,count=15428}},
+		attr = {{type=32,value=413848615},{type=5,value=107773076},{type=11,value=129327691},},
+	},
+	[2338]={
+		star = 2338,
+		needitem = {{type=1,id=1010000,count=15505}},
+		attr = {{type=32,value=413890000},{type=5,value=107783854},{type=11,value=129340624},},
+	},
+	[2339]={
+		star = 2339,
+		needitem = {{type=1,id=1010000,count=15582}},
+		attr = {{type=32,value=413931389},{type=5,value=107794632},{type=11,value=129353558},},
+	},
+	[2340]={
+		star = 2340,
+		needitem = {{type=1,id=1010000,count=15660}},
+		attr = {{type=32,value=413972782},{type=5,value=107805412},{type=11,value=129366494},},
+	},
+	[2341]={
+		star = 2341,
+		needitem = {{type=1,id=1010000,count=15738}},
+		attr = {{type=32,value=414014179},{type=5,value=107816192},{type=11,value=129379430},},
+	},
+	[2342]={
+		star = 2342,
+		needitem = {{type=1,id=1010000,count=15817}},
+		attr = {{type=32,value=414055581},{type=5,value=107826974},{type=11,value=129392368},},
+	},
+	[2343]={
+		star = 2343,
+		needitem = {{type=1,id=1010000,count=15896}},
+		attr = {{type=32,value=414096986},{type=5,value=107837756},{type=11,value=129405308},},
+	},
+	[2344]={
+		star = 2344,
+		needitem = {{type=1,id=1010000,count=15976}},
+		attr = {{type=32,value=414138396},{type=5,value=107848540},{type=11,value=129418248},},
+	},
+	[2345]={
+		star = 2345,
+		needitem = {{type=1,id=1010000,count=16056}},
+		attr = {{type=32,value=414179810},{type=5,value=107859325},{type=11,value=129431190},},
+	},
+	[2346]={
+		star = 2346,
+		needitem = {{type=1,id=1010000,count=16136}},
+		attr = {{type=32,value=414221228},{type=5,value=107870111},{type=11,value=129444133},},
+	},
+	[2347]={
+		star = 2347,
+		needitem = {{type=1,id=1010000,count=16217}},
+		attr = {{type=32,value=414262650},{type=5,value=107880898},{type=11,value=129457077},},
+	},
+	[2348]={
+		star = 2348,
+		needitem = {{type=1,id=1010000,count=16298}},
+		attr = {{type=32,value=414304076},{type=5,value=107891686},{type=11,value=129470023},},
+	},
+	[2349]={
+		star = 2349,
+		needitem = {{type=1,id=1010000,count=16379}},
+		attr = {{type=32,value=414345507},{type=5,value=107902475},{type=11,value=129482970},},
+	},
+	[2350]={
+		star = 2350,
+		needitem = {{type=1,id=1010000,count=16461}},
+		attr = {{type=32,value=414386941},{type=5,value=107913266},{type=11,value=129495918},},
+	},
+	[2351]={
+		star = 2351,
+		needitem = {{type=1,id=1010000,count=16543}},
+		attr = {{type=32,value=414428380},{type=5,value=107924057},{type=11,value=129508868},},
+	},
+	[2352]={
+		star = 2352,
+		needitem = {{type=1,id=1010000,count=16626}},
+		attr = {{type=32,value=414469823},{type=5,value=107934849},{type=11,value=129521819},},
+	},
+	[2353]={
+		star = 2353,
+		needitem = {{type=1,id=1010000,count=16709}},
+		attr = {{type=32,value=414511270},{type=5,value=107945643},{type=11,value=129534771},},
+	},
+	[2354]={
+		star = 2354,
+		needitem = {{type=1,id=1010000,count=16793}},
+		attr = {{type=32,value=414552721},{type=5,value=107956437},{type=11,value=129547725},},
+	},
+	[2355]={
+		star = 2355,
+		needitem = {{type=1,id=1010000,count=16877}},
+		attr = {{type=32,value=414594176},{type=5,value=107967233},{type=11,value=129560679},},
+	},
+	[2356]={
+		star = 2356,
+		needitem = {{type=1,id=1010000,count=16961}},
+		attr = {{type=32,value=414635635},{type=5,value=107978030},{type=11,value=129573635},},
+	},
+	[2357]={
+		star = 2357,
+		needitem = {{type=1,id=1010000,count=17046}},
+		attr = {{type=32,value=414677099},{type=5,value=107988827},{type=11,value=129586593},},
+	},
+	[2358]={
+		star = 2358,
+		needitem = {{type=1,id=1010000,count=17131}},
+		attr = {{type=32,value=414718567},{type=5,value=107999626},{type=11,value=129599551},},
+	},
+	[2359]={
+		star = 2359,
+		needitem = {{type=1,id=1010000,count=17217}},
+		attr = {{type=32,value=414760039},{type=5,value=108010426},{type=11,value=129612511},},
+	},
+	[2360]={
+		star = 2360,
+		needitem = {{type=1,id=1010000,count=17303}},
+		attr = {{type=32,value=414801515},{type=5,value=108021227},{type=11,value=129625473},},
+	},
+	[2361]={
+		star = 2361,
+		needitem = {{type=1,id=1010000,count=17389}},
+		attr = {{type=32,value=414842995},{type=5,value=108032029},{type=11,value=129638435},},
+	},
+	[2362]={
+		star = 2362,
+		needitem = {{type=1,id=1010000,count=17476}},
+		attr = {{type=32,value=414884479},{type=5,value=108042833},{type=11,value=129651399},},
+	},
+	[2363]={
+		star = 2363,
+		needitem = {{type=1,id=1010000,count=17564}},
+		attr = {{type=32,value=414925968},{type=5,value=108053637},{type=11,value=129664364},},
+	},
+	[2364]={
+		star = 2364,
+		needitem = {{type=1,id=1010000,count=17652}},
+		attr = {{type=32,value=414967460},{type=5,value=108064442},{type=11,value=129677331},},
+	},
+	[2365]={
+		star = 2365,
+		needitem = {{type=1,id=1010000,count=17740}},
+		attr = {{type=32,value=415008957},{type=5,value=108075249},{type=11,value=129690298},},
+	},
+	[2366]={
+		star = 2366,
+		needitem = {{type=1,id=1010000,count=17828}},
+		attr = {{type=32,value=415050458},{type=5,value=108086056},{type=11,value=129703267},},
+	},
+	[2367]={
+		star = 2367,
+		needitem = {{type=1,id=1010000,count=17918}},
+		attr = {{type=32,value=415091963},{type=5,value=108096865},{type=11,value=129716238},},
+	},
+	[2368]={
+		star = 2368,
+		needitem = {{type=1,id=1010000,count=18007}},
+		attr = {{type=32,value=415133472},{type=5,value=108107675},{type=11,value=129729209},},
+	},
+	[2369]={
+		star = 2369,
+		needitem = {{type=1,id=1010000,count=18097}},
+		attr = {{type=32,value=415174985},{type=5,value=108118485},{type=11,value=129742182},},
+	},
+	[2370]={
+		star = 2370,
+		needitem = {{type=1,id=1010000,count=18188}},
+		attr = {{type=32,value=415216503},{type=5,value=108129297},{type=11,value=129755156},},
+	},
+	[2371]={
+		star = 2371,
+		needitem = {{type=1,id=1010000,count=18279}},
+		attr = {{type=32,value=415258025},{type=5,value=108140110},{type=11,value=129768132},},
+	},
+	[2372]={
+		star = 2372,
+		needitem = {{type=1,id=1010000,count=18370}},
+		attr = {{type=32,value=415299550},{type=5,value=108150924},{type=11,value=129781109},},
+	},
+	[2373]={
+		star = 2373,
+		needitem = {{type=1,id=1010000,count=18462}},
+		attr = {{type=32,value=415341080},{type=5,value=108161739},{type=11,value=129794087},},
+	},
+	[2374]={
+		star = 2374,
+		needitem = {{type=1,id=1010000,count=18554}},
+		attr = {{type=32,value=415382614},{type=5,value=108172555},{type=11,value=129807066},},
+	},
+	[2375]={
+		star = 2375,
+		needitem = {{type=1,id=1010000,count=18647}},
+		attr = {{type=32,value=415424153},{type=5,value=108183373},{type=11,value=129820047},},
+	},
+	[2376]={
+		star = 2376,
+		needitem = {{type=1,id=1010000,count=18740}},
+		attr = {{type=32,value=415465695},{type=5,value=108194191},{type=11,value=129833029},},
+	},
+	[2377]={
+		star = 2377,
+		needitem = {{type=1,id=1010000,count=18834}},
+		attr = {{type=32,value=415507242},{type=5,value=108205010},{type=11,value=129846012},},
+	},
+	[2378]={
+		star = 2378,
+		needitem = {{type=1,id=1010000,count=18928}},
+		attr = {{type=32,value=415548792},{type=5,value=108215831},{type=11,value=129858997},},
+	},
+	[2379]={
+		star = 2379,
+		needitem = {{type=1,id=1010000,count=19023}},
+		attr = {{type=32,value=415590347},{type=5,value=108226652},{type=11,value=129871983},},
+	},
+	[2380]={
+		star = 2380,
+		needitem = {{type=1,id=1010000,count=19118}},
+		attr = {{type=32,value=415631906},{type=5,value=108237475},{type=11,value=129884970},},
+	},
+	[2381]={
+		star = 2381,
+		needitem = {{type=1,id=1010000,count=19213}},
+		attr = {{type=32,value=415673469},{type=5,value=108248299},{type=11,value=129897958},},
+	},
+	[2382]={
+		star = 2382,
+		needitem = {{type=1,id=1010000,count=19310}},
+		attr = {{type=32,value=415715037},{type=5,value=108259124},{type=11,value=129910948},},
+	},
+	[2383]={
+		star = 2383,
+		needitem = {{type=1,id=1010000,count=19406}},
+		attr = {{type=32,value=415756608},{type=5,value=108269950},{type=11,value=129923939},},
+	},
+	[2384]={
+		star = 2384,
+		needitem = {{type=1,id=1010000,count=19503}},
+		attr = {{type=32,value=415798184},{type=5,value=108280777},{type=11,value=129936932},},
+	},
+	[2385]={
+		star = 2385,
+		needitem = {{type=1,id=1010000,count=19601}},
+		attr = {{type=32,value=415839764},{type=5,value=108291605},{type=11,value=129949925},},
+	},
+	[2386]={
+		star = 2386,
+		needitem = {{type=1,id=1010000,count=19699}},
+		attr = {{type=32,value=415881348},{type=5,value=108302434},{type=11,value=129962920},},
+	},
+	[2387]={
+		star = 2387,
+		needitem = {{type=1,id=1010000,count=19797}},
+		attr = {{type=32,value=415922936},{type=5,value=108313264},{type=11,value=129975917},},
+	},
+	[2388]={
+		star = 2388,
+		needitem = {{type=1,id=1010000,count=19896}},
+		attr = {{type=32,value=415964528},{type=5,value=108324095},{type=11,value=129988914},},
+	},
+	[2389]={
+		star = 2389,
+		needitem = {{type=1,id=1010000,count=19996}},
+		attr = {{type=32,value=416006125},{type=5,value=108334928},{type=11,value=130001913},},
+	},
+	[2390]={
+		star = 2390,
+		needitem = {{type=1,id=1010000,count=20096}},
+		attr = {{type=32,value=416047725},{type=5,value=108345761},{type=11,value=130014913},},
+	},
+	[2391]={
+		star = 2391,
+		needitem = {{type=1,id=1010000,count=20196}},
+		attr = {{type=32,value=416089330},{type=5,value=108356596},{type=11,value=130027915},},
+	},
+	[2392]={
+		star = 2392,
+		needitem = {{type=1,id=1010000,count=20297}},
+		attr = {{type=32,value=416130939},{type=5,value=108367432},{type=11,value=130040918},},
+	},
+	[2393]={
+		star = 2393,
+		needitem = {{type=1,id=1010000,count=20398}},
+		attr = {{type=32,value=416172552},{type=5,value=108378268},{type=11,value=130053922},},
+	},
+	[2394]={
+		star = 2394,
+		needitem = {{type=1,id=1010000,count=20500}},
+		attr = {{type=32,value=416214169},{type=5,value=108389106},{type=11,value=130066927},},
+	},
+	[2395]={
+		star = 2395,
+		needitem = {{type=1,id=1010000,count=20603}},
+		attr = {{type=32,value=416255791},{type=5,value=108399945},{type=11,value=130079934},},
+	},
+	[2396]={
+		star = 2396,
+		needitem = {{type=1,id=1010000,count=20706}},
+		attr = {{type=32,value=416297416},{type=5,value=108410785},{type=11,value=130092942},},
+	},
+	[2397]={
+		star = 2397,
+		needitem = {{type=1,id=1010000,count=20810}},
+		attr = {{type=32,value=416339046},{type=5,value=108421626},{type=11,value=130105951},},
+	},
+	[2398]={
+		star = 2398,
+		needitem = {{type=1,id=1010000,count=20914}},
+		attr = {{type=32,value=416380680},{type=5,value=108432468},{type=11,value=130118962},},
+	},
+	[2399]={
+		star = 2399,
+		needitem = {{type=1,id=1010000,count=21018}},
+		attr = {{type=32,value=416422318},{type=5,value=108443312},{type=11,value=130131974},},
+	},
+	[2400]={
+		star = 2400,
+		needitem = {{type=1,id=1010000,count=21123}},
+		attr = {{type=32,value=416463960},{type=5,value=108454156},{type=11,value=130144987},},
+	},
+	[2401]={
+		star = 2401,
+		needitem = {{type=1,id=1010000,count=21229}},
+		attr = {{type=32,value=416505607},{type=5,value=108465001},{type=11,value=130158001},},
+	},
+	[2402]={
+		star = 2402,
+		needitem = {{type=1,id=1010000,count=21335}},
+		attr = {{type=32,value=416547257},{type=5,value=108475848},{type=11,value=130171017},},
+	},
+	[2403]={
+		star = 2403,
+		needitem = {{type=1,id=1010000,count=21442}},
+		attr = {{type=32,value=416588912},{type=5,value=108486695},{type=11,value=130184034},},
+	},
+	[2404]={
+		star = 2404,
+		needitem = {{type=1,id=1010000,count=21549}},
+		attr = {{type=32,value=416630571},{type=5,value=108497544},{type=11,value=130197053},},
+	},
+	[2405]={
+		star = 2405,
+		needitem = {{type=1,id=1010000,count=21657}},
+		attr = {{type=32,value=416672234},{type=5,value=108508394},{type=11,value=130210072},},
+	},
+	[2406]={
+		star = 2406,
+		needitem = {{type=1,id=1010000,count=21765}},
+		attr = {{type=32,value=416713901},{type=5,value=108519245},{type=11,value=130223093},},
+	},
+	[2407]={
+		star = 2407,
+		needitem = {{type=1,id=1010000,count=21874}},
+		attr = {{type=32,value=416755572},{type=5,value=108530097},{type=11,value=130236116},},
+	},
+	[2408]={
+		star = 2408,
+		needitem = {{type=1,id=1010000,count=21983}},
+		attr = {{type=32,value=416797248},{type=5,value=108540950},{type=11,value=130249139},},
+	},
+	[2409]={
+		star = 2409,
+		needitem = {{type=1,id=1010000,count=22093}},
+		attr = {{type=32,value=416838928},{type=5,value=108551804},{type=11,value=130262164},},
+	},
+	[2410]={
+		star = 2410,
+		needitem = {{type=1,id=1010000,count=22203}},
+		attr = {{type=32,value=416880612},{type=5,value=108562659},{type=11,value=130275190},},
+	},
+	[2411]={
+		star = 2411,
+		needitem = {{type=1,id=1010000,count=22314}},
+		attr = {{type=32,value=416922300},{type=5,value=108573515},{type=11,value=130288218},},
+	},
+	[2412]={
+		star = 2412,
+		needitem = {{type=1,id=1010000,count=22426}},
+		attr = {{type=32,value=416963992},{type=5,value=108584372},{type=11,value=130301247},},
+	},
+	[2413]={
+		star = 2413,
+		needitem = {{type=1,id=1010000,count=22538}},
+		attr = {{type=32,value=417005688},{type=5,value=108595231},{type=11,value=130314277},},
+	},
+	[2414]={
+		star = 2414,
+		needitem = {{type=1,id=1010000,count=22651}},
+		attr = {{type=32,value=417047389},{type=5,value=108606090},{type=11,value=130327308},},
+	},
+	[2415]={
+		star = 2415,
+		needitem = {{type=1,id=1010000,count=22764}},
+		attr = {{type=32,value=417089094},{type=5,value=108616951},{type=11,value=130340341},},
+	},
+	[2416]={
+		star = 2416,
+		needitem = {{type=1,id=1010000,count=22878}},
+		attr = {{type=32,value=417130803},{type=5,value=108627813},{type=11,value=130353375},},
+	},
+	[2417]={
+		star = 2417,
+		needitem = {{type=1,id=1010000,count=22992}},
+		attr = {{type=32,value=417172516},{type=5,value=108638676},{type=11,value=130366410},},
+	},
+	[2418]={
+		star = 2418,
+		needitem = {{type=1,id=1010000,count=23107}},
+		attr = {{type=32,value=417214233},{type=5,value=108649539},{type=11,value=130379447},},
+	},
+	[2419]={
+		star = 2419,
+		needitem = {{type=1,id=1010000,count=23223}},
+		attr = {{type=32,value=417255954},{type=5,value=108660404},{type=11,value=130392485},},
+	},
+	[2420]={
+		star = 2420,
+		needitem = {{type=1,id=1010000,count=23339}},
+		attr = {{type=32,value=417297680},{type=5,value=108671270},{type=11,value=130405524},},
+	},
+	[2421]={
+		star = 2421,
+		needitem = {{type=1,id=1010000,count=23456}},
+		attr = {{type=32,value=417339410},{type=5,value=108682138},{type=11,value=130418565},},
+	},
+	[2422]={
+		star = 2422,
+		needitem = {{type=1,id=1010000,count=23573}},
+		attr = {{type=32,value=417381144},{type=5,value=108693006},{type=11,value=130431607},},
+	},
+	[2423]={
+		star = 2423,
+		needitem = {{type=1,id=1010000,count=23691}},
+		attr = {{type=32,value=417422882},{type=5,value=108703875},{type=11,value=130444650},},
+	},
+	[2424]={
+		star = 2424,
+		needitem = {{type=1,id=1010000,count=23809}},
+		attr = {{type=32,value=417464624},{type=5,value=108714745},{type=11,value=130457694},},
+	},
+	[2425]={
+		star = 2425,
+		needitem = {{type=1,id=1010000,count=23928}},
+		attr = {{type=32,value=417506370},{type=5,value=108725617},{type=11,value=130470740},},
+	},
+	[2426]={
+		star = 2426,
+		needitem = {{type=1,id=1010000,count=24048}},
+		attr = {{type=32,value=417548121},{type=5,value=108736489},{type=11,value=130483787},},
+	},
+	[2427]={
+		star = 2427,
+		needitem = {{type=1,id=1010000,count=24168}},
+		attr = {{type=32,value=417589876},{type=5,value=108747363},{type=11,value=130496836},},
+	},
+	[2428]={
+		star = 2428,
+		needitem = {{type=1,id=1010000,count=24289}},
+		attr = {{type=32,value=417631635},{type=5,value=108758238},{type=11,value=130509885},},
+	},
+	[2429]={
+		star = 2429,
+		needitem = {{type=1,id=1010000,count=24410}},
+		attr = {{type=32,value=417673398},{type=5,value=108769114},{type=11,value=130522936},},
+	},
+	[2430]={
+		star = 2430,
+		needitem = {{type=1,id=1010000,count=24533}},
+		attr = {{type=32,value=417715165},{type=5,value=108779991},{type=11,value=130535988},},
+	},
+	[2431]={
+		star = 2431,
+		needitem = {{type=1,id=1010000,count=24655}},
+		attr = {{type=32,value=417756937},{type=5,value=108790869},{type=11,value=130549042},},
+	},
+	[2432]={
+		star = 2432,
+		needitem = {{type=1,id=1010000,count=24778}},
+		attr = {{type=32,value=417798713},{type=5,value=108801748},{type=11,value=130562097},},
+	},
+	[2433]={
+		star = 2433,
+		needitem = {{type=1,id=1010000,count=24902}},
+		attr = {{type=32,value=417840493},{type=5,value=108812628},{type=11,value=130575153},},
+	},
+	[2434]={
+		star = 2434,
+		needitem = {{type=1,id=1010000,count=25027}},
+		attr = {{type=32,value=417882277},{type=5,value=108823509},{type=11,value=130588211},},
+	},
+	[2435]={
+		star = 2435,
+		needitem = {{type=1,id=1010000,count=25152}},
+		attr = {{type=32,value=417924065},{type=5,value=108834391},{type=11,value=130601270},},
+	},
+	[2436]={
+		star = 2436,
+		needitem = {{type=1,id=1010000,count=25278}},
+		attr = {{type=32,value=417965857},{type=5,value=108845275},{type=11,value=130614330},},
+	},
+	[2437]={
+		star = 2437,
+		needitem = {{type=1,id=1010000,count=25404}},
+		attr = {{type=32,value=418007654},{type=5,value=108856159},{type=11,value=130627391},},
+	},
+	[2438]={
+		star = 2438,
+		needitem = {{type=1,id=1010000,count=25531}},
+		attr = {{type=32,value=418049455},{type=5,value=108867045},{type=11,value=130640454},},
+	},
+	[2439]={
+		star = 2439,
+		needitem = {{type=1,id=1010000,count=25659}},
+		attr = {{type=32,value=418091259},{type=5,value=108877932},{type=11,value=130653518},},
+	},
+	[2440]={
+		star = 2440,
+		needitem = {{type=1,id=1010000,count=25787}},
+		attr = {{type=32,value=418133069},{type=5,value=108888820},{type=11,value=130666583},},
+	},
+	[2441]={
+		star = 2441,
+		needitem = {{type=1,id=1010000,count=25916}},
+		attr = {{type=32,value=418174882},{type=5,value=108899708},{type=11,value=130679650},},
+	},
+	[2442]={
+		star = 2442,
+		needitem = {{type=1,id=1010000,count=26046}},
+		attr = {{type=32,value=418216699},{type=5,value=108910598},{type=11,value=130692718},},
+	},
+	[2443]={
+		star = 2443,
+		needitem = {{type=1,id=1010000,count=26176}},
+		attr = {{type=32,value=418258521},{type=5,value=108921489},{type=11,value=130705787},},
+	},
+	[2444]={
+		star = 2444,
+		needitem = {{type=1,id=1010000,count=26307}},
+		attr = {{type=32,value=418300347},{type=5,value=108932382},{type=11,value=130718858},},
+	},
+	[2445]={
+		star = 2445,
+		needitem = {{type=1,id=1010000,count=26438}},
+		attr = {{type=32,value=418342177},{type=5,value=108943275},{type=11,value=130731930},},
+	},
+	[2446]={
+		star = 2446,
+		needitem = {{type=1,id=1010000,count=26570}},
+		attr = {{type=32,value=418384011},{type=5,value=108954169},{type=11,value=130745003},},
+	},
+	[2447]={
+		star = 2447,
+		needitem = {{type=1,id=1010000,count=26703}},
+		attr = {{type=32,value=418425850},{type=5,value=108965065},{type=11,value=130758077},},
+	},
+	[2448]={
+		star = 2448,
+		needitem = {{type=1,id=1010000,count=26837}},
+		attr = {{type=32,value=418467692},{type=5,value=108975961},{type=11,value=130771153},},
+	},
+	[2449]={
+		star = 2449,
+		needitem = {{type=1,id=1010000,count=26971}},
+		attr = {{type=32,value=418509539},{type=5,value=108986859},{type=11,value=130784230},},
+	},
+	[2450]={
+		star = 2450,
+		needitem = {{type=1,id=1010000,count=27106}},
+		attr = {{type=32,value=418551390},{type=5,value=108997757},{type=11,value=130797309},},
+	},
+	[2451]={
+		star = 2451,
+		needitem = {{type=1,id=1010000,count=27241}},
+		attr = {{type=32,value=418593245},{type=5,value=109008657},{type=11,value=130810388},},
+	},
+	[2452]={
+		star = 2452,
+		needitem = {{type=1,id=1010000,count=27378}},
+		attr = {{type=32,value=418635104},{type=5,value=109019558},{type=11,value=130823469},},
+	},
+	[2453]={
+		star = 2453,
+		needitem = {{type=1,id=1010000,count=27514}},
+		attr = {{type=32,value=418676968},{type=5,value=109030460},{type=11,value=130836552},},
+	},
+	[2454]={
+		star = 2454,
+		needitem = {{type=1,id=1010000,count=27652}},
+		attr = {{type=32,value=418718836},{type=5,value=109041363},{type=11,value=130849635},},
+	},
+	[2455]={
+		star = 2455,
+		needitem = {{type=1,id=1010000,count=27790}},
+		attr = {{type=32,value=418760707},{type=5,value=109052267},{type=11,value=130862720},},
+	},
+	[2456]={
+		star = 2456,
+		needitem = {{type=1,id=1010000,count=27929}},
+		attr = {{type=32,value=418802584},{type=5,value=109063172},{type=11,value=130875807},},
+	},
+	[2457]={
+		star = 2457,
+		needitem = {{type=1,id=1010000,count=28069}},
+		attr = {{type=32,value=418844464},{type=5,value=109074079},{type=11,value=130888894},},
+	},
+	[2458]={
+		star = 2458,
+		needitem = {{type=1,id=1010000,count=28209}},
+		attr = {{type=32,value=418886348},{type=5,value=109084986},{type=11,value=130901983},},
+	},
+	[2459]={
+		star = 2459,
+		needitem = {{type=1,id=1010000,count=28350}},
+		attr = {{type=32,value=418928237},{type=5,value=109095895},{type=11,value=130915073},},
+	},
+	[2460]={
+		star = 2460,
+		needitem = {{type=1,id=1010000,count=28492}},
+		attr = {{type=32,value=418970130},{type=5,value=109106804},{type=11,value=130928165},},
+	},
+	[2461]={
+		star = 2461,
+		needitem = {{type=1,id=1010000,count=28635}},
+		attr = {{type=32,value=419012027},{type=5,value=109117715},{type=11,value=130941258},},
+	},
+	[2462]={
+		star = 2462,
+		needitem = {{type=1,id=1010000,count=28778}},
+		attr = {{type=32,value=419053928},{type=5,value=109128627},{type=11,value=130954352},},
+	},
+	[2463]={
+		star = 2463,
+		needitem = {{type=1,id=1010000,count=28922}},
+		attr = {{type=32,value=419095833},{type=5,value=109139539},{type=11,value=130967447},},
+	},
+	[2464]={
+		star = 2464,
+		needitem = {{type=1,id=1010000,count=29066}},
+		attr = {{type=32,value=419137743},{type=5,value=109150453},{type=11,value=130980544},},
+	},
+	[2465]={
+		star = 2465,
+		needitem = {{type=1,id=1010000,count=29212}},
+		attr = {{type=32,value=419179657},{type=5,value=109161368},{type=11,value=130993642},},
+	},
+	[2466]={
+		star = 2466,
+		needitem = {{type=1,id=1010000,count=29358}},
+		attr = {{type=32,value=419221575},{type=5,value=109172285},{type=11,value=131006741},},
+	},
+	[2467]={
+		star = 2467,
+		needitem = {{type=1,id=1010000,count=29504}},
+		attr = {{type=32,value=419263497},{type=5,value=109183202},{type=11,value=131019842},},
+	},
+	[2468]={
+		star = 2468,
+		needitem = {{type=1,id=1010000,count=29652}},
+		attr = {{type=32,value=419305423},{type=5,value=109194120},{type=11,value=131032944},},
+	},
+	[2469]={
+		star = 2469,
+		needitem = {{type=1,id=1010000,count=29800}},
+		attr = {{type=32,value=419347354},{type=5,value=109205040},{type=11,value=131046047},},
+	},
+	[2470]={
+		star = 2470,
+		needitem = {{type=1,id=1010000,count=29949}},
+		attr = {{type=32,value=419389288},{type=5,value=109215960},{type=11,value=131059152},},
+	},
+	[2471]={
+		star = 2471,
+		needitem = {{type=1,id=1010000,count=30099}},
+		attr = {{type=32,value=419431227},{type=5,value=109226882},{type=11,value=131072258},},
+	},
+	[2472]={
+		star = 2472,
+		needitem = {{type=1,id=1010000,count=30249}},
+		attr = {{type=32,value=419473170},{type=5,value=109237804},{type=11,value=131085365},},
+	},
+	[2473]={
+		star = 2473,
+		needitem = {{type=1,id=1010000,count=30401}},
+		attr = {{type=32,value=419515118},{type=5,value=109248728},{type=11,value=131098474},},
+	},
+	[2474]={
+		star = 2474,
+		needitem = {{type=1,id=1010000,count=30553}},
+		attr = {{type=32,value=419557069},{type=5,value=109259653},{type=11,value=131111583},},
+	},
+	[2475]={
+		star = 2475,
+		needitem = {{type=1,id=1010000,count=30705}},
+		attr = {{type=32,value=419599025},{type=5,value=109270579},{type=11,value=131124695},},
+	},
+	[2476]={
+		star = 2476,
+		needitem = {{type=1,id=1010000,count=30859}},
+		attr = {{type=32,value=419640985},{type=5,value=109281506},{type=11,value=131137807},},
+	},
+	[2477]={
+		star = 2477,
+		needitem = {{type=1,id=1010000,count=31013}},
+		attr = {{type=32,value=419682949},{type=5,value=109292434},{type=11,value=131150921},},
+	},
+	[2478]={
+		star = 2478,
+		needitem = {{type=1,id=1010000,count=31168}},
+		attr = {{type=32,value=419724917},{type=5,value=109303363},{type=11,value=131164036},},
+	},
+	[2479]={
+		star = 2479,
+		needitem = {{type=1,id=1010000,count=31324}},
+		attr = {{type=32,value=419766890},{type=5,value=109314294},{type=11,value=131177152},},
+	},
+	[2480]={
+		star = 2480,
+		needitem = {{type=1,id=1010000,count=31481}},
+		attr = {{type=32,value=419808866},{type=5,value=109325225},{type=11,value=131190270},},
+	},
+	[2481]={
+		star = 2481,
+		needitem = {{type=1,id=1010000,count=31638}},
+		attr = {{type=32,value=419850847},{type=5,value=109336158},{type=11,value=131203389},},
+	},
+	[2482]={
+		star = 2482,
+		needitem = {{type=1,id=1010000,count=31796}},
+		attr = {{type=32,value=419892832},{type=5,value=109347091},{type=11,value=131216509},},
+	},
+	[2483]={
+		star = 2483,
+		needitem = {{type=1,id=1010000,count=31955}},
+		attr = {{type=32,value=419934822},{type=5,value=109358026},{type=11,value=131229631},},
+	},
+	[2484]={
+		star = 2484,
+		needitem = {{type=1,id=1010000,count=32115}},
+		attr = {{type=32,value=419976815},{type=5,value=109368962},{type=11,value=131242754},},
+	},
+	[2485]={
+		star = 2485,
+		needitem = {{type=1,id=1010000,count=32276}},
+		attr = {{type=32,value=420018813},{type=5,value=109379899},{type=11,value=131255878},},
+	},
+	[2486]={
+		star = 2486,
+		needitem = {{type=1,id=1010000,count=32437}},
+		attr = {{type=32,value=420060815},{type=5,value=109390837},{type=11,value=131269004},},
+	},
+	[2487]={
+		star = 2487,
+		needitem = {{type=1,id=1010000,count=32599}},
+		attr = {{type=32,value=420102821},{type=5,value=109401776},{type=11,value=131282131},},
+	},
+	[2488]={
+		star = 2488,
+		needitem = {{type=1,id=1010000,count=32762}},
+		attr = {{type=32,value=420144831},{type=5,value=109412716},{type=11,value=131295259},},
+	},
+	[2489]={
+		star = 2489,
+		needitem = {{type=1,id=1010000,count=32926}},
+		attr = {{type=32,value=420186846},{type=5,value=109423657},{type=11,value=131308389},},
+	},
+	[2490]={
+		star = 2490,
+		needitem = {{type=1,id=1010000,count=33091}},
+		attr = {{type=32,value=420228864},{type=5,value=109434600},{type=11,value=131321519},},
+	},
+	[2491]={
+		star = 2491,
+		needitem = {{type=1,id=1010000,count=33256}},
+		attr = {{type=32,value=420270887},{type=5,value=109445543},{type=11,value=131334652},},
+	},
+	[2492]={
+		star = 2492,
+		needitem = {{type=1,id=1010000,count=33422}},
+		attr = {{type=32,value=420312914},{type=5,value=109456488},{type=11,value=131347785},},
+	},
+	[2493]={
+		star = 2493,
+		needitem = {{type=1,id=1010000,count=33590}},
+		attr = {{type=32,value=420354946},{type=5,value=109467433},{type=11,value=131360920},},
+	},
+	[2494]={
+		star = 2494,
+		needitem = {{type=1,id=1010000,count=33757}},
+		attr = {{type=32,value=420396981},{type=5,value=109478380},{type=11,value=131374056},},
+	},
+	[2495]={
+		star = 2495,
+		needitem = {{type=1,id=1010000,count=33926}},
+		attr = {{type=32,value=420439021},{type=5,value=109489328},{type=11,value=131387193},},
+	},
+	[2496]={
+		star = 2496,
+		needitem = {{type=1,id=1010000,count=34096}},
+		attr = {{type=32,value=420481065},{type=5,value=109500277},{type=11,value=131400332},},
+	},
+	[2497]={
+		star = 2497,
+		needitem = {{type=1,id=1010000,count=34266}},
+		attr = {{type=32,value=420523113},{type=5,value=109511227},{type=11,value=131413472},},
+	},
+	[2498]={
+		star = 2498,
+		needitem = {{type=1,id=1010000,count=34438}},
+		attr = {{type=32,value=420565165},{type=5,value=109522178},{type=11,value=131426613},},
+	},
+	[2499]={
+		star = 2499,
+		needitem = {{type=1,id=1010000,count=34610}},
+		attr = {{type=32,value=420607222},{type=5,value=109533130},{type=11,value=131439756},},
+	},
+	[2500]={
+		star = 2500,
+		needitem = {{type=1,id=1010000,count=34783}},
+		attr = {{type=32,value=420649282},{type=5,value=109544084},{type=11,value=131452900},},
+	},
+	[2501]={
+		star = 2501,
+		needitem = {{type=1,id=1010000,count=34957}},
+		attr = {{type=32,value=420691347},{type=5,value=109555038},{type=11,value=131466045},},
+	},
+	[2502]={
+		star = 2502,
+		needitem = {{type=1,id=1010000,count=35132}},
+		attr = {{type=32,value=420733416},{type=5,value=109565993},{type=11,value=131479192},},
+	},
+	[2503]={
+		star = 2503,
+		needitem = {{type=1,id=1010000,count=35307}},
+		attr = {{type=32,value=420775490},{type=5,value=109576950},{type=11,value=131492340},},
+	},
+	[2504]={
+		star = 2504,
+		needitem = {{type=1,id=1010000,count=35484}},
+		attr = {{type=32,value=420817567},{type=5,value=109587908},{type=11,value=131505489},},
+	},
+	[2505]={
+		star = 2505,
+		needitem = {{type=1,id=1010000,count=35661}},
+		attr = {{type=32,value=420859649},{type=5,value=109598867},{type=11,value=131518640},},
+	},
+	[2506]={
+		star = 2506,
+		needitem = {{type=1,id=1010000,count=35840}},
+		attr = {{type=32,value=420901735},{type=5,value=109609826},{type=11,value=131531791},},
+	},
+	[2507]={
+		star = 2507,
+		needitem = {{type=1,id=1010000,count=36019}},
+		attr = {{type=32,value=420943825},{type=5,value=109620787},{type=11,value=131544945},},
+	},
+	[2508]={
+		star = 2508,
+		needitem = {{type=1,id=1010000,count=36199}},
+		attr = {{type=32,value=420985920},{type=5,value=109631749},{type=11,value=131558099},},
+	},
+	[2509]={
+		star = 2509,
+		needitem = {{type=1,id=1010000,count=36380}},
+		attr = {{type=32,value=421028018},{type=5,value=109642713},{type=11,value=131571255},},
+	},
+	[2510]={
+		star = 2510,
+		needitem = {{type=1,id=1010000,count=36562}},
+		attr = {{type=32,value=421070121},{type=5,value=109653677},{type=11,value=131584412},},
+	},
+	[2511]={
+		star = 2511,
+		needitem = {{type=1,id=1010000,count=36745}},
+		attr = {{type=32,value=421112228},{type=5,value=109664642},{type=11,value=131597571},},
+	},
+	[2512]={
+		star = 2512,
+		needitem = {{type=1,id=1010000,count=36928}},
+		attr = {{type=32,value=421154339},{type=5,value=109675609},{type=11,value=131610730},},
+	},
+	[2513]={
+		star = 2513,
+		needitem = {{type=1,id=1010000,count=37113}},
+		attr = {{type=32,value=421196455},{type=5,value=109686576},{type=11,value=131623891},},
+	},
+	[2514]={
+		star = 2514,
+		needitem = {{type=1,id=1010000,count=37299}},
+		attr = {{type=32,value=421238574},{type=5,value=109697545},{type=11,value=131637054},},
+	},
+	[2515]={
+		star = 2515,
+		needitem = {{type=1,id=1010000,count=37485}},
+		attr = {{type=32,value=421280698},{type=5,value=109708515},{type=11,value=131650217},},
+	},
+	[2516]={
+		star = 2516,
+		needitem = {{type=1,id=1010000,count=37672}},
+		attr = {{type=32,value=421322826},{type=5,value=109719486},{type=11,value=131663382},},
+	},
+	[2517]={
+		star = 2517,
+		needitem = {{type=1,id=1010000,count=37861}},
+		attr = {{type=32,value=421364958},{type=5,value=109730458},{type=11,value=131676549},},
+	},
+	[2518]={
+		star = 2518,
+		needitem = {{type=1,id=1010000,count=38050}},
+		attr = {{type=32,value=421407095},{type=5,value=109741431},{type=11,value=131689716},},
+	},
+	[2519]={
+		star = 2519,
+		needitem = {{type=1,id=1010000,count=38240}},
+		attr = {{type=32,value=421449236},{type=5,value=109752405},{type=11,value=131702885},},
+	},
+	[2520]={
+		star = 2520,
+		needitem = {{type=1,id=1010000,count=38432}},
+		attr = {{type=32,value=421491381},{type=5,value=109763380},{type=11,value=131716056},},
+	},
+	[2521]={
+		star = 2521,
+		needitem = {{type=1,id=1010000,count=38624}},
+		attr = {{type=32,value=421533530},{type=5,value=109774356},{type=11,value=131729227},},
+	},
+	[2522]={
+		star = 2522,
+		needitem = {{type=1,id=1010000,count=38817}},
+		attr = {{type=32,value=421575683},{type=5,value=109785334},{type=11,value=131742400},},
+	},
+	[2523]={
+		star = 2523,
+		needitem = {{type=1,id=1010000,count=39011}},
+		attr = {{type=32,value=421617841},{type=5,value=109796312},{type=11,value=131755574},},
+	},
+	[2524]={
+		star = 2524,
+		needitem = {{type=1,id=1010000,count=39206}},
+		attr = {{type=32,value=421660002},{type=5,value=109807292},{type=11,value=131768750},},
+	},
+	[2525]={
+		star = 2525,
+		needitem = {{type=1,id=1010000,count=39402}},
+		attr = {{type=32,value=421702168},{type=5,value=109818273},{type=11,value=131781927},},
+	},
+	[2526]={
+		star = 2526,
+		needitem = {{type=1,id=1010000,count=39599}},
+		attr = {{type=32,value=421744339},{type=5,value=109829254},{type=11,value=131795105},},
+	},
+	[2527]={
+		star = 2527,
+		needitem = {{type=1,id=1010000,count=39797}},
+		attr = {{type=32,value=421786513},{type=5,value=109840237},{type=11,value=131808285},},
+	},
+	[2528]={
+		star = 2528,
+		needitem = {{type=1,id=1010000,count=39996}},
+		attr = {{type=32,value=421828692},{type=5,value=109851221},{type=11,value=131821465},},
+	},
+	[2529]={
+		star = 2529,
+		needitem = {{type=1,id=1010000,count=40196}},
+		attr = {{type=32,value=421870875},{type=5,value=109862207},{type=11,value=131834648},},
+	},
+	[2530]={
+		star = 2530,
+		needitem = {{type=1,id=1010000,count=40397}},
+		attr = {{type=32,value=421913062},{type=5,value=109873193},{type=11,value=131847831},},
+	},
+	[2531]={
+		star = 2531,
+		needitem = {{type=1,id=1010000,count=40599}},
+		attr = {{type=32,value=421955253},{type=5,value=109884180},{type=11,value=131861016},},
+	},
+	[2532]={
+		star = 2532,
+		needitem = {{type=1,id=1010000,count=40802}},
+		attr = {{type=32,value=421997449},{type=5,value=109895168},{type=11,value=131874202},},
+	},
+	[2533]={
+		star = 2533,
+		needitem = {{type=1,id=1010000,count=41006}},
+		attr = {{type=32,value=422039648},{type=5,value=109906158},{type=11,value=131887389},},
+	},
+	[2534]={
+		star = 2534,
+		needitem = {{type=1,id=1010000,count=41211}},
+		attr = {{type=32,value=422081852},{type=5,value=109917149},{type=11,value=131900578},},
+	},
+	[2535]={
+		star = 2535,
+		needitem = {{type=1,id=1010000,count=41417}},
+		attr = {{type=32,value=422124060},{type=5,value=109928140},{type=11,value=131913768},},
+	},
+	[2536]={
+		star = 2536,
+		needitem = {{type=1,id=1010000,count=41624}},
+		attr = {{type=32,value=422166273},{type=5,value=109939133},{type=11,value=131926960},},
+	},
+	[2537]={
+		star = 2537,
+		needitem = {{type=1,id=1010000,count=41832}},
+		attr = {{type=32,value=422208489},{type=5,value=109950127},{type=11,value=131940152},},
+	},
+	[2538]={
+		star = 2538,
+		needitem = {{type=1,id=1010000,count=42041}},
+		attr = {{type=32,value=422250710},{type=5,value=109961122},{type=11,value=131953346},},
+	},
+	[2539]={
+		star = 2539,
+		needitem = {{type=1,id=1010000,count=42252}},
+		attr = {{type=32,value=422292935},{type=5,value=109972118},{type=11,value=131966542},},
+	},
+	[2540]={
+		star = 2540,
+		needitem = {{type=1,id=1010000,count=42463}},
+		attr = {{type=32,value=422335165},{type=5,value=109983115},{type=11,value=131979738},},
+	},
+	[2541]={
+		star = 2541,
+		needitem = {{type=1,id=1010000,count=42675}},
+		attr = {{type=32,value=422377398},{type=5,value=109994114},{type=11,value=131992936},},
+	},
+	[2542]={
+		star = 2542,
+		needitem = {{type=1,id=1010000,count=42889}},
+		attr = {{type=32,value=422419636},{type=5,value=110005113},{type=11,value=132006135},},
+	},
+	[2543]={
+		star = 2543,
+		needitem = {{type=1,id=1010000,count=43103}},
+		attr = {{type=32,value=422461878},{type=5,value=110016114},{type=11,value=132019336},},
+	},
+	[2544]={
+		star = 2544,
+		needitem = {{type=1,id=1010000,count=43318}},
+		attr = {{type=32,value=422504124},{type=5,value=110027115},{type=11,value=132032538},},
+	},
+	[2545]={
+		star = 2545,
+		needitem = {{type=1,id=1010000,count=43535}},
+		attr = {{type=32,value=422546374},{type=5,value=110038118},{type=11,value=132045741},},
+	},
+	[2546]={
+		star = 2546,
+		needitem = {{type=1,id=1010000,count=43753}},
+		attr = {{type=32,value=422588629},{type=5,value=110049122},{type=11,value=132058946},},
+	},
+	[2547]={
+		star = 2547,
+		needitem = {{type=1,id=1010000,count=43972}},
+		attr = {{type=32,value=422630888},{type=5,value=110060127},{type=11,value=132072152},},
+	},
+	[2548]={
+		star = 2548,
+		needitem = {{type=1,id=1010000,count=44191}},
+		attr = {{type=32,value=422673151},{type=5,value=110071133},{type=11,value=132085359},},
+	},
+	[2549]={
+		star = 2549,
+		needitem = {{type=1,id=1010000,count=44412}},
+		attr = {{type=32,value=422715418},{type=5,value=110082140},{type=11,value=132098568},},
+	},
+	[2550]={
+		star = 2550,
+		needitem = {{type=1,id=1010000,count=44634}},
+		attr = {{type=32,value=422757690},{type=5,value=110093148},{type=11,value=132111777},},
+	},
+	[2551]={
+		star = 2551,
+		needitem = {{type=1,id=1010000,count=44858}},
+		attr = {{type=32,value=422799966},{type=5,value=110104157},{type=11,value=132124989},},
+	},
+	[2552]={
+		star = 2552,
+		needitem = {{type=1,id=1010000,count=45082}},
+		attr = {{type=32,value=422842246},{type=5,value=110115168},{type=11,value=132138201},},
+	},
+	[2553]={
+		star = 2553,
+		needitem = {{type=1,id=1010000,count=45307}},
+		attr = {{type=32,value=422884530},{type=5,value=110126179},{type=11,value=132151415},},
+	},
+	[2554]={
+		star = 2554,
+		needitem = {{type=1,id=1010000,count=45534}},
+		attr = {{type=32,value=422926818},{type=5,value=110137192},{type=11,value=132164630},},
+	},
+	[2555]={
+		star = 2555,
+		needitem = {{type=1,id=1010000,count=45761}},
+		attr = {{type=32,value=422969111},{type=5,value=110148206},{type=11,value=132177846},},
+	},
+	[2556]={
+		star = 2556,
+		needitem = {{type=1,id=1010000,count=45990}},
+		attr = {{type=32,value=423011408},{type=5,value=110159220},{type=11,value=132191064},},
+	},
+	[2557]={
+		star = 2557,
+		needitem = {{type=1,id=1010000,count=46220}},
+		attr = {{type=32,value=423053709},{type=5,value=110170236},{type=11,value=132204283},},
+	},
+	[2558]={
+		star = 2558,
+		needitem = {{type=1,id=1010000,count=46451}},
+		attr = {{type=32,value=423096014},{type=5,value=110181253},{type=11,value=132217504},},
+	},
+	[2559]={
+		star = 2559,
+		needitem = {{type=1,id=1010000,count=46684}},
+		attr = {{type=32,value=423138324},{type=5,value=110192271},{type=11,value=132230726},},
+	},
+	[2560]={
+		star = 2560,
+		needitem = {{type=1,id=1010000,count=46917}},
+		attr = {{type=32,value=423180638},{type=5,value=110203291},{type=11,value=132243949},},
+	},
+	[2561]={
+		star = 2561,
+		needitem = {{type=1,id=1010000,count=47152}},
+		attr = {{type=32,value=423222956},{type=5,value=110214311},{type=11,value=132257173},},
+	},
+	[2562]={
+		star = 2562,
+		needitem = {{type=1,id=1010000,count=47387}},
+		attr = {{type=32,value=423265278},{type=5,value=110225332},{type=11,value=132270399},},
+	},
+	[2563]={
+		star = 2563,
+		needitem = {{type=1,id=1010000,count=47624}},
+		attr = {{type=32,value=423307605},{type=5,value=110236355},{type=11,value=132283626},},
+	},
+	[2564]={
+		star = 2564,
+		needitem = {{type=1,id=1010000,count=47862}},
+		attr = {{type=32,value=423349936},{type=5,value=110247379},{type=11,value=132296854},},
+	},
+	[2565]={
+		star = 2565,
+		needitem = {{type=1,id=1010000,count=48102}},
+		attr = {{type=32,value=423392271},{type=5,value=110258403},{type=11,value=132310084},},
+	},
+	[2566]={
+		star = 2566,
+		needitem = {{type=1,id=1010000,count=48342}},
+		attr = {{type=32,value=423434610},{type=5,value=110269429},{type=11,value=132323315},},
+	},
+	[2567]={
+		star = 2567,
+		needitem = {{type=1,id=1010000,count=48584}},
+		attr = {{type=32,value=423476953},{type=5,value=110280456},{type=11,value=132336547},},
+	},
+	[2568]={
+		star = 2568,
+		needitem = {{type=1,id=1010000,count=48827}},
+		attr = {{type=32,value=423519301},{type=5,value=110291484},{type=11,value=132349781},},
+	},
+	[2569]={
+		star = 2569,
+		needitem = {{type=1,id=1010000,count=49071}},
+		attr = {{type=32,value=423561653},{type=5,value=110302513},{type=11,value=132363016},},
+	},
+	[2570]={
+		star = 2570,
+		needitem = {{type=1,id=1010000,count=49316}},
+		attr = {{type=32,value=423604009},{type=5,value=110313544},{type=11,value=132376252},},
+	},
+	[2571]={
+		star = 2571,
+		needitem = {{type=1,id=1010000,count=49563}},
+		attr = {{type=32,value=423646369},{type=5,value=110324575},{type=11,value=132389490},},
+	},
+	[2572]={
+		star = 2572,
+		needitem = {{type=1,id=1010000,count=49811}},
+		attr = {{type=32,value=423688734},{type=5,value=110335607},{type=11,value=132402729},},
+	},
+	[2573]={
+		star = 2573,
+		needitem = {{type=1,id=1010000,count=50060}},
+		attr = {{type=32,value=423731103},{type=5,value=110346641},{type=11,value=132415969},},
+	},
+	[2574]={
+		star = 2574,
+		needitem = {{type=1,id=1010000,count=50310}},
+		attr = {{type=32,value=423773476},{type=5,value=110357676},{type=11,value=132429211},},
+	},
+	[2575]={
+		star = 2575,
+		needitem = {{type=1,id=1010000,count=50562}},
+		attr = {{type=32,value=423815853},{type=5,value=110368711},{type=11,value=132442453},},
+	},
+	[2576]={
+		star = 2576,
+		needitem = {{type=1,id=1010000,count=50814}},
+		attr = {{type=32,value=423858235},{type=5,value=110379748},{type=11,value=132455698},},
+	},
+	[2577]={
+		star = 2577,
+		needitem = {{type=1,id=1010000,count=51069}},
+		attr = {{type=32,value=423900621},{type=5,value=110390786},{type=11,value=132468943},},
+	},
+	[2578]={
+		star = 2578,
+		needitem = {{type=1,id=1010000,count=51324}},
+		attr = {{type=32,value=423943011},{type=5,value=110401825},{type=11,value=132482190},},
+	},
+	[2579]={
+		star = 2579,
+		needitem = {{type=1,id=1010000,count=51580}},
+		attr = {{type=32,value=423985405},{type=5,value=110412866},{type=11,value=132495438},},
+	},
+	[2580]={
+		star = 2580,
+		needitem = {{type=1,id=1010000,count=51838}},
+		attr = {{type=32,value=424027804},{type=5,value=110423907},{type=11,value=132508688},},
+	},
+	[2581]={
+		star = 2581,
+		needitem = {{type=1,id=1010000,count=52098}},
+		attr = {{type=32,value=424070206},{type=5,value=110434949},{type=11,value=132521939},},
+	},
+	[2582]={
+		star = 2582,
+		needitem = {{type=1,id=1010000,count=52358}},
+		attr = {{type=32,value=424112614},{type=5,value=110445993},{type=11,value=132535191},},
+	},
+	[2583]={
+		star = 2583,
+		needitem = {{type=1,id=1010000,count=52620}},
+		attr = {{type=32,value=424155025},{type=5,value=110457037},{type=11,value=132548445},},
+	},
+	[2584]={
+		star = 2584,
+		needitem = {{type=1,id=1010000,count=52883}},
+		attr = {{type=32,value=424197440},{type=5,value=110468083},{type=11,value=132561699},},
+	},
+	[2585]={
+		star = 2585,
+		needitem = {{type=1,id=1010000,count=53147}},
+		attr = {{type=32,value=424239860},{type=5,value=110479130},{type=11,value=132574956},},
+	},
+	[2586]={
+		star = 2586,
+		needitem = {{type=1,id=1010000,count=53413}},
+		attr = {{type=32,value=424282284},{type=5,value=110490178},{type=11,value=132588213},},
+	},
+	[2587]={
+		star = 2587,
+		needitem = {{type=1,id=1010000,count=53680}},
+		attr = {{type=32,value=424324712},{type=5,value=110501227},{type=11,value=132601472},},
+	},
+	[2588]={
+		star = 2588,
+		needitem = {{type=1,id=1010000,count=53949}},
+		attr = {{type=32,value=424367145},{type=5,value=110512277},{type=11,value=132614732},},
+	},
+	[2589]={
+		star = 2589,
+		needitem = {{type=1,id=1010000,count=54218}},
+		attr = {{type=32,value=424409581},{type=5,value=110523328},{type=11,value=132627993},},
+	},
+	[2590]={
+		star = 2590,
+		needitem = {{type=1,id=1010000,count=54489}},
+		attr = {{type=32,value=424452022},{type=5,value=110534380},{type=11,value=132641256},},
+	},
+	[2591]={
+		star = 2591,
+		needitem = {{type=1,id=1010000,count=54762}},
+		attr = {{type=32,value=424494468},{type=5,value=110545434},{type=11,value=132654520},},
+	},
+	[2592]={
+		star = 2592,
+		needitem = {{type=1,id=1010000,count=55036}},
+		attr = {{type=32,value=424536917},{type=5,value=110556488},{type=11,value=132667786},},
+	},
+	[2593]={
+		star = 2593,
+		needitem = {{type=1,id=1010000,count=55311}},
+		attr = {{type=32,value=424579371},{type=5,value=110567544},{type=11,value=132681053},},
+	},
+	[2594]={
+		star = 2594,
+		needitem = {{type=1,id=1010000,count=55587}},
+		attr = {{type=32,value=424621829},{type=5,value=110578601},{type=11,value=132694321},},
+	},
+	[2595]={
+		star = 2595,
+		needitem = {{type=1,id=1010000,count=55865}},
+		attr = {{type=32,value=424664291},{type=5,value=110589659},{type=11,value=132707590},},
+	},
+	[2596]={
+		star = 2596,
+		needitem = {{type=1,id=1010000,count=56145}},
+		attr = {{type=32,value=424706757},{type=5,value=110600718},{type=11,value=132720861},},
+	},
+	[2597]={
+		star = 2597,
+		needitem = {{type=1,id=1010000,count=56425}},
+		attr = {{type=32,value=424749228},{type=5,value=110611778},{type=11,value=132734133},},
+	},
+	[2598]={
+		star = 2598,
+		needitem = {{type=1,id=1010000,count=56708}},
+		attr = {{type=32,value=424791703},{type=5,value=110622839},{type=11,value=132747406},},
+	},
+	[2599]={
+		star = 2599,
+		needitem = {{type=1,id=1010000,count=56991}},
+		attr = {{type=32,value=424834182},{type=5,value=110633901},{type=11,value=132760681},},
+	},
+	[2600]={
+		star = 2600,
+		needitem = {{type=1,id=1010000,count=57276}},
+		attr = {{type=32,value=424876665},{type=5,value=110644965},{type=11,value=132773957},},
+	},
+	[2601]={
+		star = 2601,
+		needitem = {{type=1,id=1010000,count=57562}},
+		attr = {{type=32,value=424919153},{type=5,value=110656029},{type=11,value=132787235},},
+	},
+	[2602]={
+		star = 2602,
+		needitem = {{type=1,id=1010000,count=57850}},
+		attr = {{type=32,value=424961645},{type=5,value=110667095},{type=11,value=132800513},},
+	},
+	[2603]={
+		star = 2603,
+		needitem = {{type=1,id=1010000,count=58139}},
+		attr = {{type=32,value=425004141},{type=5,value=110678161},{type=11,value=132813793},},
+	},
+	[2604]={
+		star = 2604,
+		needitem = {{type=1,id=1010000,count=58430}},
+		attr = {{type=32,value=425046642},{type=5,value=110689229},{type=11,value=132827075},},
+	},
+	[2605]={
+		star = 2605,
+		needitem = {{type=1,id=1010000,count=58722}},
+		attr = {{type=32,value=425089146},{type=5,value=110700298},{type=11,value=132840357},},
+	},
+	[2606]={
+		star = 2606,
+		needitem = {{type=1,id=1010000,count=59016}},
+		attr = {{type=32,value=425131655},{type=5,value=110711368},{type=11,value=132853642},},
+	},
+	[2607]={
+		star = 2607,
+		needitem = {{type=1,id=1010000,count=59311}},
+		attr = {{type=32,value=425174168},{type=5,value=110722439},{type=11,value=132866927},},
+	},
+	[2608]={
+		star = 2608,
+		needitem = {{type=1,id=1010000,count=59608}},
+		attr = {{type=32,value=425216686},{type=5,value=110733511},{type=11,value=132880214},},
+	},
+	[2609]={
+		star = 2609,
+		needitem = {{type=1,id=1010000,count=59906}},
+		attr = {{type=32,value=425259207},{type=5,value=110744585},{type=11,value=132893502},},
+	},
+	[2610]={
+		star = 2610,
+		needitem = {{type=1,id=1010000,count=60205}},
+		attr = {{type=32,value=425301733},{type=5,value=110755659},{type=11,value=132906791},},
+	},
+	[2611]={
+		star = 2611,
+		needitem = {{type=1,id=1010000,count=60506}},
+		attr = {{type=32,value=425344264},{type=5,value=110766735},{type=11,value=132920082},},
+	},
+	[2612]={
+		star = 2612,
+		needitem = {{type=1,id=1010000,count=60809}},
+		attr = {{type=32,value=425386798},{type=5,value=110777812},{type=11,value=132933374},},
+	},
+	[2613]={
+		star = 2613,
+		needitem = {{type=1,id=1010000,count=61113}},
+		attr = {{type=32,value=425429337},{type=5,value=110788889},{type=11,value=132946667},},
+	},
+	[2614]={
+		star = 2614,
+		needitem = {{type=1,id=1010000,count=61418}},
+		attr = {{type=32,value=425471880},{type=5,value=110799968},{type=11,value=132959962},},
+	},
+	[2615]={
+		star = 2615,
+		needitem = {{type=1,id=1010000,count=61725}},
+		attr = {{type=32,value=425514427},{type=5,value=110811048},{type=11,value=132973258},},
+	},
+	[2616]={
+		star = 2616,
+		needitem = {{type=1,id=1010000,count=62034}},
+		attr = {{type=32,value=425556978},{type=5,value=110822129},{type=11,value=132986555},},
+	},
+	[2617]={
+		star = 2617,
+		needitem = {{type=1,id=1010000,count=62344}},
+		attr = {{type=32,value=425599534},{type=5,value=110833212},{type=11,value=132999854},},
+	},
+	[2618]={
+		star = 2618,
+		needitem = {{type=1,id=1010000,count=62656}},
+		attr = {{type=32,value=425642094},{type=5,value=110844295},{type=11,value=133013154},},
+	},
+	[2619]={
+		star = 2619,
+		needitem = {{type=1,id=1010000,count=62969}},
+		attr = {{type=32,value=425684658},{type=5,value=110855379},{type=11,value=133026455},},
+	},
+	[2620]={
+		star = 2620,
+		needitem = {{type=1,id=1010000,count=63284}},
+		attr = {{type=32,value=425727227},{type=5,value=110866465},{type=11,value=133039758},},
+	},
+	[2621]={
+		star = 2621,
+		needitem = {{type=1,id=1010000,count=63600}},
+		attr = {{type=32,value=425769799},{type=5,value=110877551},{type=11,value=133053062},},
+	},
+	[2622]={
+		star = 2622,
+		needitem = {{type=1,id=1010000,count=63918}},
+		attr = {{type=32,value=425812376},{type=5,value=110888639},{type=11,value=133066367},},
+	},
+	[2623]={
+		star = 2623,
+		needitem = {{type=1,id=1010000,count=64238}},
+		attr = {{type=32,value=425854957},{type=5,value=110899728},{type=11,value=133079673},},
+	},
+	[2624]={
+		star = 2624,
+		needitem = {{type=1,id=1010000,count=64559}},
+		attr = {{type=32,value=425897543},{type=5,value=110910818},{type=11,value=133092981},},
+	},
+	[2625]={
+		star = 2625,
+		needitem = {{type=1,id=1010000,count=64882}},
+		attr = {{type=32,value=425940133},{type=5,value=110921909},{type=11,value=133106291},},
+	},
+	[2626]={
+		star = 2626,
+		needitem = {{type=1,id=1010000,count=65206}},
+		attr = {{type=32,value=425982727},{type=5,value=110933001},{type=11,value=133119601},},
+	},
+	[2627]={
+		star = 2627,
+		needitem = {{type=1,id=1010000,count=65532}},
+		attr = {{type=32,value=426025325},{type=5,value=110944095},{type=11,value=133132913},},
+	},
+	[2628]={
+		star = 2628,
+		needitem = {{type=1,id=1010000,count=65860}},
+		attr = {{type=32,value=426067928},{type=5,value=110955189},{type=11,value=133146227},},
+	},
+	[2629]={
+		star = 2629,
+		needitem = {{type=1,id=1010000,count=66189}},
+		attr = {{type=32,value=426110534},{type=5,value=110966285},{type=11,value=133159541},},
+	},
+	[2630]={
+		star = 2630,
+		needitem = {{type=1,id=1010000,count=66520}},
+		attr = {{type=32,value=426153145},{type=5,value=110977381},{type=11,value=133172857},},
+	},
+	[2631]={
+		star = 2631,
+		needitem = {{type=1,id=1010000,count=66853}},
+		attr = {{type=32,value=426195761},{type=5,value=110988479},{type=11,value=133186174},},
+	},
+	[2632]={
+		star = 2632,
+		needitem = {{type=1,id=1010000,count=67187}},
+		attr = {{type=32,value=426238380},{type=5,value=110999578},{type=11,value=133199493},},
+	},
+	[2633]={
+		star = 2633,
+		needitem = {{type=1,id=1010000,count=67523}},
+		attr = {{type=32,value=426281004},{type=5,value=111010678},{type=11,value=133212813},},
+	},
+	[2634]={
+		star = 2634,
+		needitem = {{type=1,id=1010000,count=67861}},
+		attr = {{type=32,value=426323632},{type=5,value=111021779},{type=11,value=133226134},},
+	},
+	[2635]={
+		star = 2635,
+		needitem = {{type=1,id=1010000,count=68200}},
+		attr = {{type=32,value=426366265},{type=5,value=111032881},{type=11,value=133239457},},
+	},
+	[2636]={
+		star = 2636,
+		needitem = {{type=1,id=1010000,count=68541}},
+		attr = {{type=32,value=426408901},{type=5,value=111043984},{type=11,value=133252781},},
+	},
+	[2637]={
+		star = 2637,
+		needitem = {{type=1,id=1010000,count=68884}},
+		attr = {{type=32,value=426451542},{type=5,value=111055089},{type=11,value=133266106},},
+	},
+	[2638]={
+		star = 2638,
+		needitem = {{type=1,id=1010000,count=69228}},
+		attr = {{type=32,value=426494187},{type=5,value=111066194},{type=11,value=133279433},},
+	},
+	[2639]={
+		star = 2639,
+		needitem = {{type=1,id=1010000,count=69574}},
+		attr = {{type=32,value=426536837},{type=5,value=111077301},{type=11,value=133292761},},
+	},
+	[2640]={
+		star = 2640,
+		needitem = {{type=1,id=1010000,count=69922}},
+		attr = {{type=32,value=426579490},{type=5,value=111088409},{type=11,value=133306090},},
+	},
+	[2641]={
+		star = 2641,
+		needitem = {{type=1,id=1010000,count=70272}},
+		attr = {{type=32,value=426622148},{type=5,value=111099517},{type=11,value=133319421},},
+	},
+	[2642]={
+		star = 2642,
+		needitem = {{type=1,id=1010000,count=70623}},
+		attr = {{type=32,value=426664811},{type=5,value=111110627},{type=11,value=133332753},},
+	},
+	[2643]={
+		star = 2643,
+		needitem = {{type=1,id=1010000,count=70976}},
+		attr = {{type=32,value=426707477},{type=5,value=111121738},{type=11,value=133346086},},
+	},
+	[2644]={
+		star = 2644,
+		needitem = {{type=1,id=1010000,count=71331}},
+		attr = {{type=32,value=426750148},{type=5,value=111132851},{type=11,value=133359420},},
+	},
+	[2645]={
+		star = 2645,
+		needitem = {{type=1,id=1010000,count=71688}},
+		attr = {{type=32,value=426792823},{type=5,value=111143964},{type=11,value=133372756},},
+	},
+	[2646]={
+		star = 2646,
+		needitem = {{type=1,id=1010000,count=72046}},
+		attr = {{type=32,value=426835502},{type=5,value=111155078},{type=11,value=133386094},},
+	},
+	[2647]={
+		star = 2647,
+		needitem = {{type=1,id=1010000,count=72407}},
+		attr = {{type=32,value=426878186},{type=5,value=111166194},{type=11,value=133399432},},
+	},
+	[2648]={
+		star = 2648,
+		needitem = {{type=1,id=1010000,count=72769}},
+		attr = {{type=32,value=426920873},{type=5,value=111177310},{type=11,value=133412772},},
+	},
+	[2649]={
+		star = 2649,
+		needitem = {{type=1,id=1010000,count=73132}},
+		attr = {{type=32,value=426963566},{type=5,value=111188428},{type=11,value=133426113},},
+	},
+	[2650]={
+		star = 2650,
+		needitem = {{type=1,id=1010000,count=73498}},
+		attr = {{type=32,value=427006262},{type=5,value=111199547},{type=11,value=133439456},},
+	},
+	[2651]={
+		star = 2651,
+		needitem = {{type=1,id=1010000,count=73866}},
+		attr = {{type=32,value=427048962},{type=5,value=111210667},{type=11,value=133452800},},
+	},
+	[2652]={
+		star = 2652,
+		needitem = {{type=1,id=1010000,count=74235}},
+		attr = {{type=32,value=427091667},{type=5,value=111221788},{type=11,value=133466145},},
+	},
+	[2653]={
+		star = 2653,
+		needitem = {{type=1,id=1010000,count=74606}},
+		attr = {{type=32,value=427134377},{type=5,value=111232910},{type=11,value=133479492},},
+	},
+	[2654]={
+		star = 2654,
+		needitem = {{type=1,id=1010000,count=74979}},
+		attr = {{type=32,value=427177090},{type=5,value=111244033},{type=11,value=133492840},},
+	},
+	[2655]={
+		star = 2655,
+		needitem = {{type=1,id=1010000,count=75354}},
+		attr = {{type=32,value=427219808},{type=5,value=111255158},{type=11,value=133506189},},
+	},
+	[2656]={
+		star = 2656,
+		needitem = {{type=1,id=1010000,count=75731}},
+		attr = {{type=32,value=427262530},{type=5,value=111266283},{type=11,value=133519540},},
+	},
+	[2657]={
+		star = 2657,
+		needitem = {{type=1,id=1010000,count=76109}},
+		attr = {{type=32,value=427305256},{type=5,value=111277410},{type=11,value=133532892},},
+	},
+	[2658]={
+		star = 2658,
+		needitem = {{type=1,id=1010000,count=76490}},
+		attr = {{type=32,value=427347986},{type=5,value=111288538},{type=11,value=133546245},},
+	},
+	[2659]={
+		star = 2659,
+		needitem = {{type=1,id=1010000,count=76872}},
+		attr = {{type=32,value=427390721},{type=5,value=111299667},{type=11,value=133559600},},
+	},
+	[2660]={
+		star = 2660,
+		needitem = {{type=1,id=1010000,count=77257}},
+		attr = {{type=32,value=427433460},{type=5,value=111310797},{type=11,value=133572956},},
+	},
+	[2661]={
+		star = 2661,
+		needitem = {{type=1,id=1010000,count=77643}},
+		attr = {{type=32,value=427476204},{type=5,value=111321928},{type=11,value=133586313},},
+	},
+	[2662]={
+		star = 2662,
+		needitem = {{type=1,id=1010000,count=78031}},
+		attr = {{type=32,value=427518951},{type=5,value=111333060},{type=11,value=133599672},},
+	},
+	[2663]={
+		star = 2663,
+		needitem = {{type=1,id=1010000,count=78421}},
+		attr = {{type=32,value=427561703},{type=5,value=111344193},{type=11,value=133613032},},
+	},
+	[2664]={
+		star = 2664,
+		needitem = {{type=1,id=1010000,count=78814}},
+		attr = {{type=32,value=427604459},{type=5,value=111355328},{type=11,value=133626393},},
+	},
+	[2665]={
+		star = 2665,
+		needitem = {{type=1,id=1010000,count=79208}},
+		attr = {{type=32,value=427647220},{type=5,value=111366463},{type=11,value=133639755},},
+	},
+	[2666]={
+		star = 2666,
+		needitem = {{type=1,id=1010000,count=79604}},
+		attr = {{type=32,value=427689985},{type=5,value=111377600},{type=11,value=133653119},},
+	},
+	[2667]={
+		star = 2667,
+		needitem = {{type=1,id=1010000,count=80002}},
+		attr = {{type=32,value=427732754},{type=5,value=111388737},{type=11,value=133666485},},
+	},
+	[2668]={
+		star = 2668,
+		needitem = {{type=1,id=1010000,count=80402}},
+		attr = {{type=32,value=427775527},{type=5,value=111399876},{type=11,value=133679851},},
+	},
+	[2669]={
+		star = 2669,
+		needitem = {{type=1,id=1010000,count=80804}},
+		attr = {{type=32,value=427818304},{type=5,value=111411016},{type=11,value=133693219},},
+	},
+	[2670]={
+		star = 2670,
+		needitem = {{type=1,id=1010000,count=81208}},
+		attr = {{type=32,value=427861086},{type=5,value=111422157},{type=11,value=133706589},},
+	},
+	[2671]={
+		star = 2671,
+		needitem = {{type=1,id=1010000,count=81614}},
+		attr = {{type=32,value=427903872},{type=5,value=111433300},{type=11,value=133719959},},
+	},
+	[2672]={
+		star = 2672,
+		needitem = {{type=1,id=1010000,count=82022}},
+		attr = {{type=32,value=427946663},{type=5,value=111444443},{type=11,value=133733331},},
+	},
+	[2673]={
+		star = 2673,
+		needitem = {{type=1,id=1010000,count=82432}},
+		attr = {{type=32,value=427989457},{type=5,value=111455587},{type=11,value=133746705},},
+	},
+	[2674]={
+		star = 2674,
+		needitem = {{type=1,id=1010000,count=82844}},
+		attr = {{type=32,value=428032256},{type=5,value=111466733},{type=11,value=133760079},},
+	},
+	[2675]={
+		star = 2675,
+		needitem = {{type=1,id=1010000,count=83258}},
+		attr = {{type=32,value=428075060},{type=5,value=111477880},{type=11,value=133773455},},
+	},
+	[2676]={
+		star = 2676,
+		needitem = {{type=1,id=1010000,count=83675}},
+		attr = {{type=32,value=428117867},{type=5,value=111489027},{type=11,value=133786833},},
+	},
+	[2677]={
+		star = 2677,
+		needitem = {{type=1,id=1010000,count=84093}},
+		attr = {{type=32,value=428160679},{type=5,value=111500176},{type=11,value=133800211},},
+	},
+	[2678]={
+		star = 2678,
+		needitem = {{type=1,id=1010000,count=84513}},
+		attr = {{type=32,value=428203495},{type=5,value=111511326},{type=11,value=133813591},},
+	},
+	[2679]={
+		star = 2679,
+		needitem = {{type=1,id=1010000,count=84936}},
+		attr = {{type=32,value=428246315},{type=5,value=111522477},{type=11,value=133826973},},
+	},
+	[2680]={
+		star = 2680,
+		needitem = {{type=1,id=1010000,count=85361}},
+		attr = {{type=32,value=428289140},{type=5,value=111533630},{type=11,value=133840355},},
+	},
+	[2681]={
+		star = 2681,
+		needitem = {{type=1,id=1010000,count=85787}},
+		attr = {{type=32,value=428331969},{type=5,value=111544783},{type=11,value=133853740},},
+	},
+	[2682]={
+		star = 2682,
+		needitem = {{type=1,id=1010000,count=86216}},
+		attr = {{type=32,value=428374802},{type=5,value=111555938},{type=11,value=133867125},},
+	},
+	[2683]={
+		star = 2683,
+		needitem = {{type=1,id=1010000,count=86647}},
+		attr = {{type=32,value=428417639},{type=5,value=111567093},{type=11,value=133880512},},
+	},
+	[2684]={
+		star = 2684,
+		needitem = {{type=1,id=1010000,count=87081}},
+		attr = {{type=32,value=428460481},{type=5,value=111578250},{type=11,value=133893900},},
+	},
+	[2685]={
+		star = 2685,
+		needitem = {{type=1,id=1010000,count=87516}},
+		attr = {{type=32,value=428503327},{type=5,value=111589408},{type=11,value=133907289},},
+	},
+	[2686]={
+		star = 2686,
+		needitem = {{type=1,id=1010000,count=87954}},
+		attr = {{type=32,value=428546178},{type=5,value=111600567},{type=11,value=133920680},},
+	},
+	[2687]={
+		star = 2687,
+		needitem = {{type=1,id=1010000,count=88393}},
+		attr = {{type=32,value=428589032},{type=5,value=111611727},{type=11,value=133934072},},
+	},
+	[2688]={
+		star = 2688,
+		needitem = {{type=1,id=1010000,count=88835}},
+		attr = {{type=32,value=428631891},{type=5,value=111622888},{type=11,value=133947465},},
+	},
+	[2689]={
+		star = 2689,
+		needitem = {{type=1,id=1010000,count=89280}},
+		attr = {{type=32,value=428674754},{type=5,value=111634050},{type=11,value=133960860},},
+	},
+	[2690]={
+		star = 2690,
+		needitem = {{type=1,id=1010000,count=89726}},
+		attr = {{type=32,value=428717622},{type=5,value=111645214},{type=11,value=133974256},},
+	},
+	[2691]={
+		star = 2691,
+		needitem = {{type=1,id=1010000,count=90175}},
+		attr = {{type=32,value=428760494},{type=5,value=111656378},{type=11,value=133987653},},
+	},
+	[2692]={
+		star = 2692,
+		needitem = {{type=1,id=1010000,count=90625}},
+		attr = {{type=32,value=428803370},{type=5,value=111667544},{type=11,value=134001052},},
+	},
+	[2693]={
+		star = 2693,
+		needitem = {{type=1,id=1010000,count=91079}},
+		attr = {{type=32,value=428846250},{type=5,value=111678710},{type=11,value=134014452},},
+	},
+	[2694]={
+		star = 2694,
+		needitem = {{type=1,id=1010000,count=91534}},
+		attr = {{type=32,value=428889135},{type=5,value=111689878},{type=11,value=134027854},},
+	},
+	[2695]={
+		star = 2695,
+		needitem = {{type=1,id=1010000,count=91992}},
+		attr = {{type=32,value=428932023},{type=5,value=111701047},{type=11,value=134041257},},
+	},
+	[2696]={
+		star = 2696,
+		needitem = {{type=1,id=1010000,count=92452}},
+		attr = {{type=32,value=428974917},{type=5,value=111712217},{type=11,value=134054661},},
+	},
+	[2697]={
+		star = 2697,
+		needitem = {{type=1,id=1010000,count=92914}},
+		attr = {{type=32,value=429017814},{type=5,value=111723389},{type=11,value=134068066},},
+	},
+	[2698]={
+		star = 2698,
+		needitem = {{type=1,id=1010000,count=93378}},
+		attr = {{type=32,value=429060716},{type=5,value=111734561},{type=11,value=134081473},},
+	},
+	[2699]={
+		star = 2699,
+		needitem = {{type=1,id=1010000,count=93845}},
+		attr = {{type=32,value=429103622},{type=5,value=111745734},{type=11,value=134094881},},
+	},
+	[2700]={
+		star = 2700,
+		needitem = {{type=1,id=1010000,count=94315}},
+		attr = {{type=32,value=429146532},{type=5,value=111756909},{type=11,value=134108291},},
+	},
+	[2701]={
+		star = 2701,
+		needitem = {{type=1,id=1010000,count=94786}},
+		attr = {{type=32,value=429189447},{type=5,value=111768085},{type=11,value=134121701},},
+	},
+	[2702]={
+		star = 2702,
+		needitem = {{type=1,id=1010000,count=95260}},
+		attr = {{type=32,value=429232366},{type=5,value=111779262},{type=11,value=134135114},},
+	},
+	[2703]={
+		star = 2703,
+		needitem = {{type=1,id=1010000,count=95736}},
+		attr = {{type=32,value=429275289},{type=5,value=111790439},{type=11,value=134148527},},
+	},
+	[2704]={
+		star = 2704,
+		needitem = {{type=1,id=1010000,count=96215}},
+		attr = {{type=32,value=429318217},{type=5,value=111801619},{type=11,value=134161942},},
+	},
+	[2705]={
+		star = 2705,
+		needitem = {{type=1,id=1010000,count=96696}},
+		attr = {{type=32,value=429361149},{type=5,value=111812799},{type=11,value=134175358},},
+	},
+	[2706]={
+		star = 2706,
+		needitem = {{type=1,id=1010000,count=97180}},
+		attr = {{type=32,value=429404085},{type=5,value=111823980},{type=11,value=134188776},},
+	},
+	[2707]={
+		star = 2707,
+		needitem = {{type=1,id=1010000,count=97666}},
+		attr = {{type=32,value=429447025},{type=5,value=111835162},{type=11,value=134202195},},
+	},
+	[2708]={
+		star = 2708,
+		needitem = {{type=1,id=1010000,count=98154}},
+		attr = {{type=32,value=429489970},{type=5,value=111846346},{type=11,value=134215615},},
+	},
+	[2709]={
+		star = 2709,
+		needitem = {{type=1,id=1010000,count=98645}},
+		attr = {{type=32,value=429532919},{type=5,value=111857530},{type=11,value=134229036},},
+	},
+	[2710]={
+		star = 2710,
+		needitem = {{type=1,id=1010000,count=99138}},
+		attr = {{type=32,value=429575872},{type=5,value=111868716},{type=11,value=134242459},},
+	},
+	[2711]={
+		star = 2711,
+		needitem = {{type=1,id=1010000,count=99634}},
+		attr = {{type=32,value=429618830},{type=5,value=111879903},{type=11,value=134255884},},
+	},
+	[2712]={
+		star = 2712,
+		needitem = {{type=1,id=1010000,count=100132}},
+		attr = {{type=32,value=429661792},{type=5,value=111891091},{type=11,value=134269309},},
+	},
+	[2713]={
+		star = 2713,
+		needitem = {{type=1,id=1010000,count=100632}},
+		attr = {{type=32,value=429704758},{type=5,value=111902280},{type=11,value=134282736},},
+	},
+	[2714]={
+		star = 2714,
+		needitem = {{type=1,id=1010000,count=101136}},
+		attr = {{type=32,value=429747728},{type=5,value=111913470},{type=11,value=134296164},},
+	},
+	[2715]={
+		star = 2715,
+		needitem = {{type=1,id=1010000,count=101641}},
+		attr = {{type=32,value=429790703},{type=5,value=111924662},{type=11,value=134309594},},
+	},
+	[2716]={
+		star = 2716,
+		needitem = {{type=1,id=1010000,count=102149}},
+		attr = {{type=32,value=429833682},{type=5,value=111935854},{type=11,value=134323025},},
+	},
+	[2717]={
+		star = 2717,
+		needitem = {{type=1,id=1010000,count=102660}},
+		attr = {{type=32,value=429876665},{type=5,value=111947048},{type=11,value=134336457},},
+	},
+	[2718]={
+		star = 2718,
+		needitem = {{type=1,id=1010000,count=103173}},
+		attr = {{type=32,value=429919653},{type=5,value=111958243},{type=11,value=134349891},},
+	},
+	[2719]={
+		star = 2719,
+		needitem = {{type=1,id=1010000,count=103689}},
+		attr = {{type=32,value=429962645},{type=5,value=111969438},{type=11,value=134363326},},
+	},
+	[2720]={
+		star = 2720,
+		needitem = {{type=1,id=1010000,count=104208}},
+		attr = {{type=32,value=430005641},{type=5,value=111980635},{type=11,value=134376762},},
+	},
+	[2721]={
+		star = 2721,
+		needitem = {{type=1,id=1010000,count=104729}},
+		attr = {{type=32,value=430048642},{type=5,value=111991833},{type=11,value=134390200},},
+	},
+	[2722]={
+		star = 2722,
+		needitem = {{type=1,id=1010000,count=105252}},
+		attr = {{type=32,value=430091647},{type=5,value=112003033},{type=11,value=134403639},},
+	},
+	[2723]={
+		star = 2723,
+		needitem = {{type=1,id=1010000,count=105779}},
+		attr = {{type=32,value=430134656},{type=5,value=112014233},{type=11,value=134417079},},
+	},
+	[2724]={
+		star = 2724,
+		needitem = {{type=1,id=1010000,count=106308}},
+		attr = {{type=32,value=430177669},{type=5,value=112025434},{type=11,value=134430521},},
+	},
+	[2725]={
+		star = 2725,
+		needitem = {{type=1,id=1010000,count=106839}},
+		attr = {{type=32,value=430220687},{type=5,value=112036637},{type=11,value=134443964},},
+	},
+	[2726]={
+		star = 2726,
+		needitem = {{type=1,id=1010000,count=107373}},
+		attr = {{type=32,value=430263709},{type=5,value=112047841},{type=11,value=134457408},},
+	},
+	[2727]={
+		star = 2727,
+		needitem = {{type=1,id=1010000,count=107910}},
+		attr = {{type=32,value=430306736},{type=5,value=112059045},{type=11,value=134470854},},
+	},
+	[2728]={
+		star = 2728,
+		needitem = {{type=1,id=1010000,count=108450}},
+		attr = {{type=32,value=430349766},{type=5,value=112070251},{type=11,value=134484301},},
+	},
+	[2729]={
+		star = 2729,
+		needitem = {{type=1,id=1010000,count=108992}},
+		attr = {{type=32,value=430392801},{type=5,value=112081458},{type=11,value=134497750},},
+	},
+	[2730]={
+		star = 2730,
+		needitem = {{type=1,id=1010000,count=109537}},
+		attr = {{type=32,value=430435841},{type=5,value=112092666},{type=11,value=134511199},},
+	},
+	[2731]={
+		star = 2731,
+		needitem = {{type=1,id=1010000,count=110085}},
+		attr = {{type=32,value=430478884},{type=5,value=112103876},{type=11,value=134524651},},
+	},
+	[2732]={
+		star = 2732,
+		needitem = {{type=1,id=1010000,count=110635}},
+		attr = {{type=32,value=430521932},{type=5,value=112115086},{type=11,value=134538103},},
+	},
+	[2733]={
+		star = 2733,
+		needitem = {{type=1,id=1010000,count=111188}},
+		attr = {{type=32,value=430564984},{type=5,value=112126298},{type=11,value=134551557},},
+	},
+	[2734]={
+		star = 2734,
+		needitem = {{type=1,id=1010000,count=111744}},
+		attr = {{type=32,value=430608041},{type=5,value=112137510},{type=11,value=134565012},},
+	},
+	[2735]={
+		star = 2735,
+		needitem = {{type=1,id=1010000,count=112303}},
+		attr = {{type=32,value=430651101},{type=5,value=112148724},{type=11,value=134578468},},
+	},
+	[2736]={
+		star = 2736,
+		needitem = {{type=1,id=1010000,count=112864}},
+		attr = {{type=32,value=430694167},{type=5,value=112159939},{type=11,value=134591926},},
+	},
+	[2737]={
+		star = 2737,
+		needitem = {{type=1,id=1010000,count=113429}},
+		attr = {{type=32,value=430737236},{type=5,value=112171155},{type=11,value=134605386},},
+	},
+	[2738]={
+		star = 2738,
+		needitem = {{type=1,id=1010000,count=113996}},
+		attr = {{type=32,value=430780310},{type=5,value=112182372},{type=11,value=134618846},},
+	},
+	[2739]={
+		star = 2739,
+		needitem = {{type=1,id=1010000,count=114566}},
+		attr = {{type=32,value=430823388},{type=5,value=112193590},{type=11,value=134632308},},
+	},
+	[2740]={
+		star = 2740,
+		needitem = {{type=1,id=1010000,count=115139}},
+		attr = {{type=32,value=430866470},{type=5,value=112204809},{type=11,value=134645771},},
+	},
+	[2741]={
+		star = 2741,
+		needitem = {{type=1,id=1010000,count=115714}},
+		attr = {{type=32,value=430909557},{type=5,value=112216030},{type=11,value=134659236},},
+	},
+	[2742]={
+		star = 2742,
+		needitem = {{type=1,id=1010000,count=116293}},
+		attr = {{type=32,value=430952648},{type=5,value=112227252},{type=11,value=134672702},},
+	},
+	[2743]={
+		star = 2743,
+		needitem = {{type=1,id=1010000,count=116874}},
+		attr = {{type=32,value=430995743},{type=5,value=112238474},{type=11,value=134686169},},
+	},
+	[2744]={
+		star = 2744,
+		needitem = {{type=1,id=1010000,count=117459}},
+		attr = {{type=32,value=431038843},{type=5,value=112249698},{type=11,value=134699638},},
+	},
+	[2745]={
+		star = 2745,
+		needitem = {{type=1,id=1010000,count=118046}},
+		attr = {{type=32,value=431081946},{type=5,value=112260923},{type=11,value=134713108},},
+	},
+	[2746]={
+		star = 2746,
+		needitem = {{type=1,id=1010000,count=118636}},
+		attr = {{type=32,value=431125055},{type=5,value=112272149},{type=11,value=134726579},},
+	},
+	[2747]={
+		star = 2747,
+		needitem = {{type=1,id=1010000,count=119230}},
+		attr = {{type=32,value=431168167},{type=5,value=112283376},{type=11,value=134740051},},
+	},
+	[2748]={
+		star = 2748,
+		needitem = {{type=1,id=1010000,count=119826}},
+		attr = {{type=32,value=431211284},{type=5,value=112294605},{type=11,value=134753525},},
+	},
+	[2749]={
+		star = 2749,
+		needitem = {{type=1,id=1010000,count=120425}},
+		attr = {{type=32,value=431254405},{type=5,value=112305834},{type=11,value=134767001},},
+	},
+	[2750]={
+		star = 2750,
+		needitem = {{type=1,id=1010000,count=121027}},
+		attr = {{type=32,value=431297531},{type=5,value=112317065},{type=11,value=134780478},},
+	},
+	[2751]={
+		star = 2751,
+		needitem = {{type=1,id=1010000,count=121632}},
+		attr = {{type=32,value=431340660},{type=5,value=112328297},{type=11,value=134793956},},
+	},
+	[2752]={
+		star = 2752,
+		needitem = {{type=1,id=1010000,count=122240}},
+		attr = {{type=32,value=431383794},{type=5,value=112339529},{type=11,value=134807435},},
+	},
+	[2753]={
+		star = 2753,
+		needitem = {{type=1,id=1010000,count=122851}},
+		attr = {{type=32,value=431426933},{type=5,value=112350763},{type=11,value=134820916},},
+	},
+	[2754]={
+		star = 2754,
+		needitem = {{type=1,id=1010000,count=123466}},
+		attr = {{type=32,value=431470075},{type=5,value=112361998},{type=11,value=134834398},},
+	},
+	[2755]={
+		star = 2755,
+		needitem = {{type=1,id=1010000,count=124083}},
+		attr = {{type=32,value=431513222},{type=5,value=112373235},{type=11,value=134847881},},
+	},
+	[2756]={
+		star = 2756,
+		needitem = {{type=1,id=1010000,count=124703}},
+		attr = {{type=32,value=431556374},{type=5,value=112384472},{type=11,value=134861366},},
+	},
+	[2757]={
+		star = 2757,
+		needitem = {{type=1,id=1010000,count=125327}},
+		attr = {{type=32,value=431599529},{type=5,value=112395710},{type=11,value=134874852},},
+	},
+	[2758]={
+		star = 2758,
+		needitem = {{type=1,id=1010000,count=125954}},
+		attr = {{type=32,value=431642689},{type=5,value=112406950},{type=11,value=134888340},},
+	},
+	[2759]={
+		star = 2759,
+		needitem = {{type=1,id=1010000,count=126583}},
+		attr = {{type=32,value=431685854},{type=5,value=112418191},{type=11,value=134901829},},
+	},
+	[2760]={
+		star = 2760,
+		needitem = {{type=1,id=1010000,count=127216}},
+		attr = {{type=32,value=431729022},{type=5,value=112429432},{type=11,value=134915319},},
+	},
+	[2761]={
+		star = 2761,
+		needitem = {{type=1,id=1010000,count=127852}},
+		attr = {{type=32,value=431772195},{type=5,value=112440675},{type=11,value=134928810},},
+	},
+	[2762]={
+		star = 2762,
+		needitem = {{type=1,id=1010000,count=128492}},
+		attr = {{type=32,value=431815372},{type=5,value=112451919},{type=11,value=134942303},},
+	},
+	[2763]={
+		star = 2763,
+		needitem = {{type=1,id=1010000,count=129134}},
+		attr = {{type=32,value=431858554},{type=5,value=112463165},{type=11,value=134955797},},
+	},
+	[2764]={
+		star = 2764,
+		needitem = {{type=1,id=1010000,count=129780}},
+		attr = {{type=32,value=431901740},{type=5,value=112474411},{type=11,value=134969293},},
+	},
+	[2765]={
+		star = 2765,
+		needitem = {{type=1,id=1010000,count=130429}},
+		attr = {{type=32,value=431944930},{type=5,value=112485658},{type=11,value=134982790},},
+	},
+	[2766]={
+		star = 2766,
+		needitem = {{type=1,id=1010000,count=131081}},
+		attr = {{type=32,value=431988124},{type=5,value=112496907},{type=11,value=134996288},},
+	},
+	[2767]={
+		star = 2767,
+		needitem = {{type=1,id=1010000,count=131736}},
+		attr = {{type=32,value=432031323},{type=5,value=112508157},{type=11,value=135009788},},
+	},
+	[2768]={
+		star = 2768,
+		needitem = {{type=1,id=1010000,count=132395}},
+		attr = {{type=32,value=432074526},{type=5,value=112519407},{type=11,value=135023289},},
+	},
+	[2769]={
+		star = 2769,
+		needitem = {{type=1,id=1010000,count=133057}},
+		attr = {{type=32,value=432117734},{type=5,value=112530659},{type=11,value=135036791},},
+	},
+	[2770]={
+		star = 2770,
+		needitem = {{type=1,id=1010000,count=133722}},
+		attr = {{type=32,value=432160946},{type=5,value=112541912},{type=11,value=135050295},},
+	},
+	[2771]={
+		star = 2771,
+		needitem = {{type=1,id=1010000,count=134391}},
+		attr = {{type=32,value=432204162},{type=5,value=112553167},{type=11,value=135063800},},
+	},
+	[2772]={
+		star = 2772,
+		needitem = {{type=1,id=1010000,count=135063}},
+		attr = {{type=32,value=432247382},{type=5,value=112564422},{type=11,value=135077306},},
+	},
+	[2773]={
+		star = 2773,
+		needitem = {{type=1,id=1010000,count=135738}},
+		attr = {{type=32,value=432290607},{type=5,value=112575678},{type=11,value=135090814},},
+	},
+	[2774]={
+		star = 2774,
+		needitem = {{type=1,id=1010000,count=136417}},
+		attr = {{type=32,value=432333836},{type=5,value=112586936},{type=11,value=135104323},},
+	},
+	[2775]={
+		star = 2775,
+		needitem = {{type=1,id=1010000,count=137099}},
+		attr = {{type=32,value=432377069},{type=5,value=112598195},{type=11,value=135117833},},
+	},
+	[2776]={
+		star = 2776,
+		needitem = {{type=1,id=1010000,count=137784}},
+		attr = {{type=32,value=432420307},{type=5,value=112609454},{type=11,value=135131345},},
+	},
+	[2777]={
+		star = 2777,
+		needitem = {{type=1,id=1010000,count=138473}},
+		attr = {{type=32,value=432463549},{type=5,value=112620715},{type=11,value=135144858},},
+	},
+	[2778]={
+		star = 2778,
+		needitem = {{type=1,id=1010000,count=139166}},
+		attr = {{type=32,value=432506795},{type=5,value=112631978},{type=11,value=135158373},},
+	},
+	[2779]={
+		star = 2779,
+		needitem = {{type=1,id=1010000,count=139861}},
+		attr = {{type=32,value=432550046},{type=5,value=112643241},{type=11,value=135171889},},
+	},
+	[2780]={
+		star = 2780,
+		needitem = {{type=1,id=1010000,count=140561}},
+		attr = {{type=32,value=432593301},{type=5,value=112654505},{type=11,value=135185406},},
+	},
+	[2781]={
+		star = 2781,
+		needitem = {{type=1,id=1010000,count=141263}},
+		attr = {{type=32,value=432636560},{type=5,value=112665770},{type=11,value=135198924},},
+	},
+	[2782]={
+		star = 2782,
+		needitem = {{type=1,id=1010000,count=141970}},
+		attr = {{type=32,value=432679824},{type=5,value=112677037},{type=11,value=135212444},},
+	},
+	[2783]={
+		star = 2783,
+		needitem = {{type=1,id=1010000,count=142680}},
+		attr = {{type=32,value=432723092},{type=5,value=112688305},{type=11,value=135225965},},
+	},
+	[2784]={
+		star = 2784,
+		needitem = {{type=1,id=1010000,count=143393}},
+		attr = {{type=32,value=432766364},{type=5,value=112699574},{type=11,value=135239488},},
+	},
+	[2785]={
+		star = 2785,
+		needitem = {{type=1,id=1010000,count=144110}},
+		attr = {{type=32,value=432809641},{type=5,value=112710844},{type=11,value=135253012},},
+	},
+	[2786]={
+		star = 2786,
+		needitem = {{type=1,id=1010000,count=144831}},
+		attr = {{type=32,value=432852922},{type=5,value=112722115},{type=11,value=135266537},},
+	},
+	[2787]={
+		star = 2787,
+		needitem = {{type=1,id=1010000,count=145555}},
+		attr = {{type=32,value=432896207},{type=5,value=112733387},{type=11,value=135280064},},
+	},
+	[2788]={
+		star = 2788,
+		needitem = {{type=1,id=1010000,count=146282}},
+		attr = {{type=32,value=432939497},{type=5,value=112744660},{type=11,value=135293592},},
+	},
+	[2789]={
+		star = 2789,
+		needitem = {{type=1,id=1010000,count=147014}},
+		attr = {{type=32,value=432982791},{type=5,value=112755935},{type=11,value=135307121},},
+	},
+	[2790]={
+		star = 2790,
+		needitem = {{type=1,id=1010000,count=147749}},
+		attr = {{type=32,value=433026089},{type=5,value=112767210},{type=11,value=135320652},},
+	},
+	[2791]={
+		star = 2791,
+		needitem = {{type=1,id=1010000,count=148488}},
+		attr = {{type=32,value=433069392},{type=5,value=112778487},{type=11,value=135334184},},
+	},
+	[2792]={
+		star = 2792,
+		needitem = {{type=1,id=1010000,count=149230}},
+		attr = {{type=32,value=433112699},{type=5,value=112789765},{type=11,value=135347718},},
+	},
+	[2793]={
+		star = 2793,
+		needitem = {{type=1,id=1010000,count=149976}},
+		attr = {{type=32,value=433156010},{type=5,value=112801044},{type=11,value=135361252},},
+	},
+	[2794]={
+		star = 2794,
+		needitem = {{type=1,id=1010000,count=150726}},
+		attr = {{type=32,value=433199325},{type=5,value=112812324},{type=11,value=135374788},},
+	},
+	[2795]={
+		star = 2795,
+		needitem = {{type=1,id=1010000,count=151480}},
+		attr = {{type=32,value=433242645},{type=5,value=112823605},{type=11,value=135388326},},
+	},
+	[2796]={
+		star = 2796,
+		needitem = {{type=1,id=1010000,count=152237}},
+		attr = {{type=32,value=433285970},{type=5,value=112834887},{type=11,value=135401865},},
+	},
+	[2797]={
+		star = 2797,
+		needitem = {{type=1,id=1010000,count=152998}},
+		attr = {{type=32,value=433329298},{type=5,value=112846171},{type=11,value=135415405},},
+	},
+	[2798]={
+		star = 2798,
+		needitem = {{type=1,id=1010000,count=153763}},
+		attr = {{type=32,value=433372631},{type=5,value=112857456},{type=11,value=135428946},},
+	},
+	[2799]={
+		star = 2799,
+		needitem = {{type=1,id=1010000,count=154532}},
+		attr = {{type=32,value=433415968},{type=5,value=112868741},{type=11,value=135442489},},
+	},
+	[2800]={
+		star = 2800,
+		needitem = {{type=1,id=1010000,count=155305}},
+		attr = {{type=32,value=433459310},{type=5,value=112880028},{type=11,value=135456034},},
+	},
+	[2801]={
+		star = 2801,
+		needitem = {{type=1,id=1010000,count=156081}},
+		attr = {{type=32,value=433502656},{type=5,value=112891316},{type=11,value=135469579},},
+	},
+	[2802]={
+		star = 2802,
+		needitem = {{type=1,id=1010000,count=156862}},
+		attr = {{type=32,value=433546006},{type=5,value=112902605},{type=11,value=135483126},},
+	},
+	[2803]={
+		star = 2803,
+		needitem = {{type=1,id=1010000,count=157646}},
+		attr = {{type=32,value=433589361},{type=5,value=112913896},{type=11,value=135496675},},
+	},
+	[2804]={
+		star = 2804,
+		needitem = {{type=1,id=1010000,count=158434}},
+		attr = {{type=32,value=433632720},{type=5,value=112925187},{type=11,value=135510224},},
+	},
+	[2805]={
+		star = 2805,
+		needitem = {{type=1,id=1010000,count=159226}},
+		attr = {{type=32,value=433676083},{type=5,value=112936480},{type=11,value=135523775},},
+	},
+	[2806]={
+		star = 2806,
+		needitem = {{type=1,id=1010000,count=160023}},
+		attr = {{type=32,value=433719451},{type=5,value=112947773},{type=11,value=135537328},},
+	},
+	[2807]={
+		star = 2807,
+		needitem = {{type=1,id=1010000,count=160823}},
+		attr = {{type=32,value=433762823},{type=5,value=112959068},{type=11,value=135550881},},
+	},
+	[2808]={
+		star = 2808,
+		needitem = {{type=1,id=1010000,count=161627}},
+		attr = {{type=32,value=433806199},{type=5,value=112970364},{type=11,value=135564436},},
+	},
+	[2809]={
+		star = 2809,
+		needitem = {{type=1,id=1010000,count=162435}},
+		attr = {{type=32,value=433849579},{type=5,value=112981661},{type=11,value=135577993},},
+	},
+	[2810]={
+		star = 2810,
+		needitem = {{type=1,id=1010000,count=163247}},
+		attr = {{type=32,value=433892964},{type=5,value=112992959},{type=11,value=135591551},},
+	},
+	[2811]={
+		star = 2811,
+		needitem = {{type=1,id=1010000,count=164063}},
+		attr = {{type=32,value=433936354},{type=5,value=113004258},{type=11,value=135605110},},
+	},
+	[2812]={
+		star = 2812,
+		needitem = {{type=1,id=1010000,count=164884}},
+		attr = {{type=32,value=433979747},{type=5,value=113015559},{type=11,value=135618670},},
+	},
+	[2813]={
+		star = 2813,
+		needitem = {{type=1,id=1010000,count=165708}},
+		attr = {{type=32,value=434023145},{type=5,value=113026860},{type=11,value=135632232},},
+	},
+	[2814]={
+		star = 2814,
+		needitem = {{type=1,id=1010000,count=166537}},
+		attr = {{type=32,value=434066548},{type=5,value=113038163},{type=11,value=135645795},},
+	},
+	[2815]={
+		star = 2815,
+		needitem = {{type=1,id=1010000,count=167369}},
+		attr = {{type=32,value=434109954},{type=5,value=113049467},{type=11,value=135659360},},
+	},
+	[2816]={
+		star = 2816,
+		needitem = {{type=1,id=1010000,count=168206}},
+		attr = {{type=32,value=434153365},{type=5,value=113060772},{type=11,value=135672926},},
+	},
+	[2817]={
+		star = 2817,
+		needitem = {{type=1,id=1010000,count=169047}},
+		attr = {{type=32,value=434196781},{type=5,value=113072078},{type=11,value=135686493},},
+	},
+	[2818]={
+		star = 2818,
+		needitem = {{type=1,id=1010000,count=169892}},
+		attr = {{type=32,value=434240200},{type=5,value=113083385},{type=11,value=135700062},},
+	},
+	[2819]={
+		star = 2819,
+		needitem = {{type=1,id=1010000,count=170742}},
+		attr = {{type=32,value=434283624},{type=5,value=113094693},{type=11,value=135713632},},
+	},
+	[2820]={
+		star = 2820,
+		needitem = {{type=1,id=1010000,count=171596}},
+		attr = {{type=32,value=434327053},{type=5,value=113106003},{type=11,value=135727203},},
+	},
+	[2821]={
+		star = 2821,
+		needitem = {{type=1,id=1010000,count=172454}},
+		attr = {{type=32,value=434370485},{type=5,value=113117313},{type=11,value=135740776},},
+	},
+	[2822]={
+		star = 2822,
+		needitem = {{type=1,id=1010000,count=173316}},
+		attr = {{type=32,value=434413922},{type=5,value=113128625},{type=11,value=135754350},},
+	},
+	[2823]={
+		star = 2823,
+		needitem = {{type=1,id=1010000,count=174182}},
+		attr = {{type=32,value=434457364},{type=5,value=113139938},{type=11,value=135767925},},
+	},
+	[2824]={
+		star = 2824,
+		needitem = {{type=1,id=1010000,count=175053}},
+		attr = {{type=32,value=434500810},{type=5,value=113151252},{type=11,value=135781502},},
+	},
+	[2825]={
+		star = 2825,
+		needitem = {{type=1,id=1010000,count=175929}},
+		attr = {{type=32,value=434544260},{type=5,value=113162567},{type=11,value=135795080},},
+	},
+	[2826]={
+		star = 2826,
+		needitem = {{type=1,id=1010000,count=176808}},
+		attr = {{type=32,value=434587714},{type=5,value=113173883},{type=11,value=135808660},},
+	},
+	[2827]={
+		star = 2827,
+		needitem = {{type=1,id=1010000,count=177692}},
+		attr = {{type=32,value=434631173},{type=5,value=113185201},{type=11,value=135822241},},
+	},
+	[2828]={
+		star = 2828,
+		needitem = {{type=1,id=1010000,count=178581}},
+		attr = {{type=32,value=434674636},{type=5,value=113196519},{type=11,value=135835823},},
+	},
+	[2829]={
+		star = 2829,
+		needitem = {{type=1,id=1010000,count=179474}},
+		attr = {{type=32,value=434718103},{type=5,value=113207839},{type=11,value=135849407},},
+	},
+	[2830]={
+		star = 2830,
+		needitem = {{type=1,id=1010000,count=180371}},
+		attr = {{type=32,value=434761575},{type=5,value=113219160},{type=11,value=135862992},},
+	},
+	[2831]={
+		star = 2831,
+		needitem = {{type=1,id=1010000,count=181273}},
+		attr = {{type=32,value=434805051},{type=5,value=113230482},{type=11,value=135876578},},
+	},
+	[2832]={
+		star = 2832,
+		needitem = {{type=1,id=1010000,count=182179}},
+		attr = {{type=32,value=434848532},{type=5,value=113241805},{type=11,value=135890165},},
+	},
+	[2833]={
+		star = 2833,
+		needitem = {{type=1,id=1010000,count=183090}},
+		attr = {{type=32,value=434892017},{type=5,value=113253129},{type=11,value=135903754},},
+	},
+	[2834]={
+		star = 2834,
+		needitem = {{type=1,id=1010000,count=184006}},
+		attr = {{type=32,value=434935506},{type=5,value=113264454},{type=11,value=135917345},},
+	},
+	[2835]={
+		star = 2835,
+		needitem = {{type=1,id=1010000,count=184926}},
+		attr = {{type=32,value=434979000},{type=5,value=113275781},{type=11,value=135930937},},
+	},
+	[2836]={
+		star = 2836,
+		needitem = {{type=1,id=1010000,count=185850}},
+		attr = {{type=32,value=435022497},{type=5,value=113287108},{type=11,value=135944530},},
+	},
+	[2837]={
+		star = 2837,
+		needitem = {{type=1,id=1010000,count=186780}},
+		attr = {{type=32,value=435066000},{type=5,value=113298437},{type=11,value=135958124},},
+	},
+	[2838]={
+		star = 2838,
+		needitem = {{type=1,id=1010000,count=187713}},
+		attr = {{type=32,value=435109506},{type=5,value=113309767},{type=11,value=135971720},},
+	},
+	[2839]={
+		star = 2839,
+		needitem = {{type=1,id=1010000,count=188652}},
+		attr = {{type=32,value=435153017},{type=5,value=113321098},{type=11,value=135985317},},
+	},
+	[2840]={
+		star = 2840,
+		needitem = {{type=1,id=1010000,count=189595}},
+		attr = {{type=32,value=435196533},{type=5,value=113332430},{type=11,value=135998916},},
+	},
+	[2841]={
+		star = 2841,
+		needitem = {{type=1,id=1010000,count=190543}},
+		attr = {{type=32,value=435240052},{type=5,value=113343763},{type=11,value=136012516},},
+	},
+	[2842]={
+		star = 2842,
+		needitem = {{type=1,id=1010000,count=191496}},
+		attr = {{type=32,value=435283576},{type=5,value=113355098},{type=11,value=136026117},},
+	},
+	[2843]={
+		star = 2843,
+		needitem = {{type=1,id=1010000,count=192453}},
+		attr = {{type=32,value=435327105},{type=5,value=113366433},{type=11,value=136039719},},
+	},
+	[2844]={
+		star = 2844,
+		needitem = {{type=1,id=1010000,count=193416}},
+		attr = {{type=32,value=435370637},{type=5,value=113377770},{type=11,value=136053323},},
+	},
+	[2845]={
+		star = 2845,
+		needitem = {{type=1,id=1010000,count=194383}},
+		attr = {{type=32,value=435414174},{type=5,value=113389107},{type=11,value=136066929},},
+	},
+	[2846]={
+		star = 2846,
+		needitem = {{type=1,id=1010000,count=195355}},
+		attr = {{type=32,value=435457716},{type=5,value=113400446},{type=11,value=136080535},},
+	},
+	[2847]={
+		star = 2847,
+		needitem = {{type=1,id=1010000,count=196331}},
+		attr = {{type=32,value=435501262},{type=5,value=113411786},{type=11,value=136094143},},
+	},
+	[2848]={
+		star = 2848,
+		needitem = {{type=1,id=1010000,count=197313}},
+		attr = {{type=32,value=435544812},{type=5,value=113423128},{type=11,value=136107753},},
+	},
+	[2849]={
+		star = 2849,
+		needitem = {{type=1,id=1010000,count=198300}},
+		attr = {{type=32,value=435588366},{type=5,value=113434470},{type=11,value=136121364},},
+	},
+	[2850]={
+		star = 2850,
+		needitem = {{type=1,id=1010000,count=199291}},
+		attr = {{type=32,value=435631925},{type=5,value=113445813},{type=11,value=136134976},},
+	},
+	[2851]={
+		star = 2851,
+		needitem = {{type=1,id=1010000,count=200288}},
+		attr = {{type=32,value=435675488},{type=5,value=113457158},{type=11,value=136148589},},
+	},
+	[2852]={
+		star = 2852,
+		needitem = {{type=1,id=1010000,count=201289}},
+		attr = {{type=32,value=435719056},{type=5,value=113468504},{type=11,value=136162204},},
+	},
+	[2853]={
+		star = 2853,
+		needitem = {{type=1,id=1010000,count=202296}},
+		attr = {{type=32,value=435762628},{type=5,value=113479850},{type=11,value=136175820},},
+	},
+	[2854]={
+		star = 2854,
+		needitem = {{type=1,id=1010000,count=203307}},
+		attr = {{type=32,value=435806204},{type=5,value=113491198},{type=11,value=136189438},},
+	},
+	[2855]={
+		star = 2855,
+		needitem = {{type=1,id=1010000,count=204324}},
+		attr = {{type=32,value=435849784},{type=5,value=113502548},{type=11,value=136203057},},
+	},
+	[2856]={
+		star = 2856,
+		needitem = {{type=1,id=1010000,count=205345}},
+		attr = {{type=32,value=435893369},{type=5,value=113513898},{type=11,value=136216677},},
+	},
+	[2857]={
+		star = 2857,
+		needitem = {{type=1,id=1010000,count=206372}},
+		attr = {{type=32,value=435936959},{type=5,value=113525249},{type=11,value=136230299},},
+	},
+	[2858]={
+		star = 2858,
+		needitem = {{type=1,id=1010000,count=207404}},
+		attr = {{type=32,value=435980552},{type=5,value=113536602},{type=11,value=136243922},},
+	},
+	[2859]={
+		star = 2859,
+		needitem = {{type=1,id=1010000,count=208441}},
+		attr = {{type=32,value=436024151},{type=5,value=113547955},{type=11,value=136257546},},
+	},
+	[2860]={
+		star = 2860,
+		needitem = {{type=1,id=1010000,count=209483}},
+		attr = {{type=32,value=436067753},{type=5,value=113559310},{type=11,value=136271172},},
+	},
+	[2861]={
+		star = 2861,
+		needitem = {{type=1,id=1010000,count=210530}},
+		attr = {{type=32,value=436111360},{type=5,value=113570666},{type=11,value=136284799},},
+	},
+	[2862]={
+		star = 2862,
+		needitem = {{type=1,id=1010000,count=211583}},
+		attr = {{type=32,value=436154971},{type=5,value=113582023},{type=11,value=136298428},},
+	},
+	[2863]={
+		star = 2863,
+		needitem = {{type=1,id=1010000,count=212641}},
+		attr = {{type=32,value=436198586},{type=5,value=113593381},{type=11,value=136312057},},
+	},
+	[2864]={
+		star = 2864,
+		needitem = {{type=1,id=1010000,count=213704}},
+		attr = {{type=32,value=436242206},{type=5,value=113604741},{type=11,value=136325689},},
+	},
+	[2865]={
+		star = 2865,
+		needitem = {{type=1,id=1010000,count=214773}},
+		attr = {{type=32,value=436285830},{type=5,value=113616101},{type=11,value=136339321},},
+	},
+	[2866]={
+		star = 2866,
+		needitem = {{type=1,id=1010000,count=215847}},
+		attr = {{type=32,value=436329459},{type=5,value=113627463},{type=11,value=136352955},},
+	},
+	[2867]={
+		star = 2867,
+		needitem = {{type=1,id=1010000,count=216926}},
+		attr = {{type=32,value=436373092},{type=5,value=113638826},{type=11,value=136366590},},
+	},
+	[2868]={
+		star = 2868,
+		needitem = {{type=1,id=1010000,count=218010}},
+		attr = {{type=32,value=436416729},{type=5,value=113650189},{type=11,value=136380227},},
+	},
+	[2869]={
+		star = 2869,
+		needitem = {{type=1,id=1010000,count=219100}},
+		attr = {{type=32,value=436460371},{type=5,value=113661554},{type=11,value=136393865},},
+	},
+	[2870]={
+		star = 2870,
+		needitem = {{type=1,id=1010000,count=220196}},
+		attr = {{type=32,value=436504017},{type=5,value=113672921},{type=11,value=136407505},},
+	},
+	[2871]={
+		star = 2871,
+		needitem = {{type=1,id=1010000,count=221297}},
+		attr = {{type=32,value=436547667},{type=5,value=113684288},{type=11,value=136421145},},
+	},
+	[2872]={
+		star = 2872,
+		needitem = {{type=1,id=1010000,count=222403}},
+		attr = {{type=32,value=436591322},{type=5,value=113695656},{type=11,value=136434787},},
+	},
+	[2873]={
+		star = 2873,
+		needitem = {{type=1,id=1010000,count=223515}},
+		attr = {{type=32,value=436634981},{type=5,value=113707026},{type=11,value=136448431},},
+	},
+	[2874]={
+		star = 2874,
+		needitem = {{type=1,id=1010000,count=224633}},
+		attr = {{type=32,value=436678645},{type=5,value=113718397},{type=11,value=136462076},},
+	},
+	[2875]={
+		star = 2875,
+		needitem = {{type=1,id=1010000,count=225756}},
+		attr = {{type=32,value=436722313},{type=5,value=113729768},{type=11,value=136475722},},
+	},
+	[2876]={
+		star = 2876,
+		needitem = {{type=1,id=1010000,count=226885}},
+		attr = {{type=32,value=436765985},{type=5,value=113741141},{type=11,value=136489370},},
+	},
+	[2877]={
+		star = 2877,
+		needitem = {{type=1,id=1010000,count=228019}},
+		attr = {{type=32,value=436809661},{type=5,value=113752516},{type=11,value=136503018},},
+	},
+	[2878]={
+		star = 2878,
+		needitem = {{type=1,id=1010000,count=229159}},
+		attr = {{type=32,value=436853342},{type=5,value=113763891},{type=11,value=136516669},},
+	},
+	[2879]={
+		star = 2879,
+		needitem = {{type=1,id=1010000,count=230305}},
+		attr = {{type=32,value=436897028},{type=5,value=113775267},{type=11,value=136530320},},
+	},
+	[2880]={
+		star = 2880,
+		needitem = {{type=1,id=1010000,count=231457}},
+		attr = {{type=32,value=436940717},{type=5,value=113786645},{type=11,value=136543973},},
+	},
+	[2881]={
+		star = 2881,
+		needitem = {{type=1,id=1010000,count=232614}},
+		attr = {{type=32,value=436984412},{type=5,value=113798023},{type=11,value=136557628},},
+	},
+	[2882]={
+		star = 2882,
+		needitem = {{type=1,id=1010000,count=233777}},
+		attr = {{type=32,value=437028110},{type=5,value=113809403},{type=11,value=136571284},},
+	},
+	[2883]={
+		star = 2883,
+		needitem = {{type=1,id=1010000,count=234946}},
+		attr = {{type=32,value=437071813},{type=5,value=113820784},{type=11,value=136584941},},
+	},
+	[2884]={
+		star = 2884,
+		needitem = {{type=1,id=1010000,count=236121}},
+		attr = {{type=32,value=437115520},{type=5,value=113832166},{type=11,value=136598599},},
+	},
+	[2885]={
+		star = 2885,
+		needitem = {{type=1,id=1010000,count=237301}},
+		attr = {{type=32,value=437159232},{type=5,value=113843549},{type=11,value=136612259},},
+	},
+	[2886]={
+		star = 2886,
+		needitem = {{type=1,id=1010000,count=238488}},
+		attr = {{type=32,value=437202947},{type=5,value=113854934},{type=11,value=136625920},},
+	},
+	[2887]={
+		star = 2887,
+		needitem = {{type=1,id=1010000,count=239680}},
+		attr = {{type=32,value=437246668},{type=5,value=113866319},{type=11,value=136639583},},
+	},
+	[2888]={
+		star = 2888,
+		needitem = {{type=1,id=1010000,count=240879}},
+		attr = {{type=32,value=437290392},{type=5,value=113877706},{type=11,value=136653247},},
+	},
+	[2889]={
+		star = 2889,
+		needitem = {{type=1,id=1010000,count=242083}},
+		attr = {{type=32,value=437334121},{type=5,value=113889094},{type=11,value=136666912},},
+	},
+	[2890]={
+		star = 2890,
+		needitem = {{type=1,id=1010000,count=243294}},
+		attr = {{type=32,value=437377855},{type=5,value=113900483},{type=11,value=136680579},},
+	},
+	[2891]={
+		star = 2891,
+		needitem = {{type=1,id=1010000,count=244510}},
+		attr = {{type=32,value=437421593},{type=5,value=113911873},{type=11,value=136694247},},
+	},
+	[2892]={
+		star = 2892,
+		needitem = {{type=1,id=1010000,count=245733}},
+		attr = {{type=32,value=437465335},{type=5,value=113923264},{type=11,value=136707916},},
+	},
+	[2893]={
+		star = 2893,
+		needitem = {{type=1,id=1010000,count=246961}},
+		attr = {{type=32,value=437509081},{type=5,value=113934656},{type=11,value=136721587},},
+	},
+	[2894]={
+		star = 2894,
+		needitem = {{type=1,id=1010000,count=248196}},
+		attr = {{type=32,value=437552832},{type=5,value=113946050},{type=11,value=136735259},},
+	},
+	[2895]={
+		star = 2895,
+		needitem = {{type=1,id=1010000,count=249437}},
+		attr = {{type=32,value=437596588},{type=5,value=113957444},{type=11,value=136748933},},
+	},
+	[2896]={
+		star = 2896,
+		needitem = {{type=1,id=1010000,count=250684}},
+		attr = {{type=32,value=437640347},{type=5,value=113968840},{type=11,value=136762608},},
+	},
+	[2897]={
+		star = 2897,
+		needitem = {{type=1,id=1010000,count=251938}},
+		attr = {{type=32,value=437684111},{type=5,value=113980237},{type=11,value=136776284},},
+	},
+	[2898]={
+		star = 2898,
+		needitem = {{type=1,id=1010000,count=253197}},
+		attr = {{type=32,value=437727880},{type=5,value=113991635},{type=11,value=136789962},},
+	},
+	[2899]={
+		star = 2899,
+		needitem = {{type=1,id=1010000,count=254463}},
+		attr = {{type=32,value=437771652},{type=5,value=114003034},{type=11,value=136803641},},
+	},
+	[2900]={
+		star = 2900,
+		needitem = {{type=1,id=1010000,count=255736}},
+		attr = {{type=32,value=437815430},{type=5,value=114014434},{type=11,value=136817321},},
+	},
+	[2901]={
+		star = 2901,
+		needitem = {{type=1,id=1010000,count=257014}},
+		attr = {{type=32,value=437859211},{type=5,value=114025836},{type=11,value=136831003},},
+	},
+	[2902]={
+		star = 2902,
+		needitem = {{type=1,id=1010000,count=258299}},
+		attr = {{type=32,value=437902997},{type=5,value=114037238},{type=11,value=136844686},},
+	},
+	[2903]={
+		star = 2903,
+		needitem = {{type=1,id=1010000,count=259591}},
+		attr = {{type=32,value=437946787},{type=5,value=114048642},{type=11,value=136858370},},
+	},
+	[2904]={
+		star = 2904,
+		needitem = {{type=1,id=1010000,count=260889}},
+		attr = {{type=32,value=437990582},{type=5,value=114060047},{type=11,value=136872056},},
+	},
+	[2905]={
+		star = 2905,
+		needitem = {{type=1,id=1010000,count=262193}},
+		attr = {{type=32,value=438034381},{type=5,value=114071453},{type=11,value=136885743},},
+	},
+	[2906]={
+		star = 2906,
+		needitem = {{type=1,id=1010000,count=263504}},
+		attr = {{type=32,value=438078185},{type=5,value=114082860},{type=11,value=136899432},},
+	},
+	[2907]={
+		star = 2907,
+		needitem = {{type=1,id=1010000,count=264822}},
+		attr = {{type=32,value=438121992},{type=5,value=114094268},{type=11,value=136913122},},
+	},
+	[2908]={
+		star = 2908,
+		needitem = {{type=1,id=1010000,count=266146}},
+		attr = {{type=32,value=438165805},{type=5,value=114105678},{type=11,value=136926813},},
+	},
+	[2909]={
+		star = 2909,
+		needitem = {{type=1,id=1010000,count=267477}},
+		attr = {{type=32,value=438209621},{type=5,value=114117088},{type=11,value=136940506},},
+	},
+	[2910]={
+		star = 2910,
+		needitem = {{type=1,id=1010000,count=268814}},
+		attr = {{type=32,value=438253442},{type=5,value=114128500},{type=11,value=136954200},},
+	},
+	[2911]={
+		star = 2911,
+		needitem = {{type=1,id=1010000,count=270158}},
+		attr = {{type=32,value=438297267},{type=5,value=114139913},{type=11,value=136967895},},
+	},
+	[2912]={
+		star = 2912,
+		needitem = {{type=1,id=1010000,count=271509}},
+		attr = {{type=32,value=438341097},{type=5,value=114151327},{type=11,value=136981592},},
+	},
+	[2913]={
+		star = 2913,
+		needitem = {{type=1,id=1010000,count=272866}},
+		attr = {{type=32,value=438384931},{type=5,value=114162742},{type=11,value=136995290},},
+	},
+	[2914]={
+		star = 2914,
+		needitem = {{type=1,id=1010000,count=274231}},
+		attr = {{type=32,value=438428770},{type=5,value=114174158},{type=11,value=137008990},},
+	},
+	[2915]={
+		star = 2915,
+		needitem = {{type=1,id=1010000,count=275602}},
+		attr = {{type=32,value=438472613},{type=5,value=114185576},{type=11,value=137022691},},
+	},
+	[2916]={
+		star = 2916,
+		needitem = {{type=1,id=1010000,count=276980}},
+		attr = {{type=32,value=438516460},{type=5,value=114196994},{type=11,value=137036393},},
+	},
+	[2917]={
+		star = 2917,
+		needitem = {{type=1,id=1010000,count=278365}},
+		attr = {{type=32,value=438560312},{type=5,value=114208414},{type=11,value=137050097},},
+	},
+	[2918]={
+		star = 2918,
+		needitem = {{type=1,id=1010000,count=279757}},
+		attr = {{type=32,value=438604168},{type=5,value=114219835},{type=11,value=137063802},},
+	},
+	[2919]={
+		star = 2919,
+		needitem = {{type=1,id=1010000,count=281155}},
+		attr = {{type=32,value=438648028},{type=5,value=114231257},{type=11,value=137077508},},
+	},
+	[2920]={
+		star = 2920,
+		needitem = {{type=1,id=1010000,count=282561}},
+		attr = {{type=32,value=438691893},{type=5,value=114242680},{type=11,value=137091216},},
+	},
+	[2921]={
+		star = 2921,
+		needitem = {{type=1,id=1010000,count=283974}},
+		attr = {{type=32,value=438735762},{type=5,value=114254104},{type=11,value=137104925},},
+	},
+	[2922]={
+		star = 2922,
+		needitem = {{type=1,id=1010000,count=285394}},
+		attr = {{type=32,value=438779636},{type=5,value=114265530},{type=11,value=137118635},},
+	},
+	[2923]={
+		star = 2923,
+		needitem = {{type=1,id=1010000,count=286821}},
+		attr = {{type=32,value=438823514},{type=5,value=114276956},{type=11,value=137132347},},
+	},
+	[2924]={
+		star = 2924,
+		needitem = {{type=1,id=1010000,count=288255}},
+		attr = {{type=32,value=438867396},{type=5,value=114288384},{type=11,value=137146060},},
+	},
+	[2925]={
+		star = 2925,
+		needitem = {{type=1,id=1010000,count=289696}},
+		attr = {{type=32,value=438911283},{type=5,value=114299813},{type=11,value=137159775},},
+	},
+	[2926]={
+		star = 2926,
+		needitem = {{type=1,id=1010000,count=291145}},
+		attr = {{type=32,value=438955174},{type=5,value=114311243},{type=11,value=137173491},},
+	},
+	[2927]={
+		star = 2927,
+		needitem = {{type=1,id=1010000,count=292600}},
+		attr = {{type=32,value=438999069},{type=5,value=114322674},{type=11,value=137187208},},
+	},
+	[2928]={
+		star = 2928,
+		needitem = {{type=1,id=1010000,count=294063}},
+		attr = {{type=32,value=439042969},{type=5,value=114334106},{type=11,value=137200927},},
+	},
+	[2929]={
+		star = 2929,
+		needitem = {{type=1,id=1010000,count=295534}},
+		attr = {{type=32,value=439086873},{type=5,value=114345540},{type=11,value=137214647},},
+	},
+	[2930]={
+		star = 2930,
+		needitem = {{type=1,id=1010000,count=297011}},
+		attr = {{type=32,value=439130782},{type=5,value=114356974},{type=11,value=137228369},},
+	},
+	[2931]={
+		star = 2931,
+		needitem = {{type=1,id=1010000,count=298496}},
+		attr = {{type=32,value=439174695},{type=5,value=114368410},{type=11,value=137242092},},
+	},
+	[2932]={
+		star = 2932,
+		needitem = {{type=1,id=1010000,count=299989}},
+		attr = {{type=32,value=439218613},{type=5,value=114379847},{type=11,value=137255816},},
+	},
+	[2933]={
+		star = 2933,
+		needitem = {{type=1,id=1010000,count=301489}},
+		attr = {{type=32,value=439262535},{type=5,value=114391285},{type=11,value=137269541},},
+	},
+	[2934]={
+		star = 2934,
+		needitem = {{type=1,id=1010000,count=302996}},
+		attr = {{type=32,value=439306461},{type=5,value=114402724},{type=11,value=137283268},},
+	},
+	[2935]={
+		star = 2935,
+		needitem = {{type=1,id=1010000,count=304511}},
+		attr = {{type=32,value=439350391},{type=5,value=114414164},{type=11,value=137296997},},
+	},
+	[2936]={
+		star = 2936,
+		needitem = {{type=1,id=1010000,count=306034}},
+		attr = {{type=32,value=439394327},{type=5,value=114425605},{type=11,value=137310726},},
+	},
+	[2937]={
+		star = 2937,
+		needitem = {{type=1,id=1010000,count=307564}},
+		attr = {{type=32,value=439438266},{type=5,value=114437048},{type=11,value=137324457},},
+	},
+	[2938]={
+		star = 2938,
+		needitem = {{type=1,id=1010000,count=309102}},
+		attr = {{type=32,value=439482210},{type=5,value=114448492},{type=11,value=137338190},},
+	},
+	[2939]={
+		star = 2939,
+		needitem = {{type=1,id=1010000,count=310647}},
+		attr = {{type=32,value=439526158},{type=5,value=114459937},{type=11,value=137351924},},
+	},
+	[2940]={
+		star = 2940,
+		needitem = {{type=1,id=1010000,count=312201}},
+		attr = {{type=32,value=439570111},{type=5,value=114471383},{type=11,value=137365659},},
+	},
+	[2941]={
+		star = 2941,
+		needitem = {{type=1,id=1010000,count=313762}},
+		attr = {{type=32,value=439614068},{type=5,value=114482830},{type=11,value=137379395},},
+	},
+	[2942]={
+		star = 2942,
+		needitem = {{type=1,id=1010000,count=315330}},
+		attr = {{type=32,value=439658029},{type=5,value=114494278},{type=11,value=137393133},},
+	},
+	[2943]={
+		star = 2943,
+		needitem = {{type=1,id=1010000,count=316907}},
+		attr = {{type=32,value=439701995},{type=5,value=114505727},{type=11,value=137406873},},
+	},
+	[2944]={
+		star = 2944,
+		needitem = {{type=1,id=1010000,count=318492}},
+		attr = {{type=32,value=439745965},{type=5,value=114517178},{type=11,value=137420613},},
+	},
+	[2945]={
+		star = 2945,
+		needitem = {{type=1,id=1010000,count=320084}},
+		attr = {{type=32,value=439789940},{type=5,value=114528630},{type=11,value=137434355},},
+	},
+	[2946]={
+		star = 2946,
+		needitem = {{type=1,id=1010000,count=321684}},
+		attr = {{type=32,value=439833919},{type=5,value=114540083},{type=11,value=137448099},},
+	},
+	[2947]={
+		star = 2947,
+		needitem = {{type=1,id=1010000,count=323293}},
+		attr = {{type=32,value=439877902},{type=5,value=114551537},{type=11,value=137461844},},
+	},
+	[2948]={
+		star = 2948,
+		needitem = {{type=1,id=1010000,count=324909}},
+		attr = {{type=32,value=439921890},{type=5,value=114562992},{type=11,value=137475590},},
+	},
+	[2949]={
+		star = 2949,
+		needitem = {{type=1,id=1010000,count=326534}},
+		attr = {{type=32,value=439965882},{type=5,value=114574448},{type=11,value=137489337},},
+	},
+	[2950]={
+		star = 2950,
+		needitem = {{type=1,id=1010000,count=328167}},
+		attr = {{type=32,value=440009879},{type=5,value=114585905},{type=11,value=137503086},},
+	},
+	[2951]={
+		star = 2951,
+		needitem = {{type=1,id=1010000,count=329807}},
+		attr = {{type=32,value=440053880},{type=5,value=114597364},{type=11,value=137516837},},
+	},
+	[2952]={
+		star = 2952,
+		needitem = {{type=1,id=1010000,count=331456}},
+		attr = {{type=32,value=440097885},{type=5,value=114608824},{type=11,value=137530588},},
+	},
+	[2953]={
+		star = 2953,
+		needitem = {{type=1,id=1010000,count=333114}},
+		attr = {{type=32,value=440141895},{type=5,value=114620285},{type=11,value=137544341},},
+	},
+	[2954]={
+		star = 2954,
+		needitem = {{type=1,id=1010000,count=334779}},
+		attr = {{type=32,value=440185909},{type=5,value=114631747},{type=11,value=137558096},},
+	},
+	[2955]={
+		star = 2955,
+		needitem = {{type=1,id=1010000,count=336453}},
+		attr = {{type=32,value=440229928},{type=5,value=114643210},{type=11,value=137571852},},
+	},
+	[2956]={
+		star = 2956,
+		needitem = {{type=1,id=1010000,count=338135}},
+		attr = {{type=32,value=440273951},{type=5,value=114654674},{type=11,value=137585609},},
+	},
+	[2957]={
+		star = 2957,
+		needitem = {{type=1,id=1010000,count=339826}},
+		attr = {{type=32,value=440317978},{type=5,value=114666140},{type=11,value=137599367},},
+	},
+	[2958]={
+		star = 2958,
+		needitem = {{type=1,id=1010000,count=341525}},
+		attr = {{type=32,value=440362010},{type=5,value=114677606},{type=11,value=137613127},},
+	},
+	[2959]={
+		star = 2959,
+		needitem = {{type=1,id=1010000,count=343233}},
+		attr = {{type=32,value=440406046},{type=5,value=114689074},{type=11,value=137626889},},
+	},
+	[2960]={
+		star = 2960,
+		needitem = {{type=1,id=1010000,count=344949}},
+		attr = {{type=32,value=440450087},{type=5,value=114700543},{type=11,value=137640651},},
+	},
+	[2961]={
+		star = 2961,
+		needitem = {{type=1,id=1010000,count=346674}},
+		attr = {{type=32,value=440494132},{type=5,value=114712013},{type=11,value=137654415},},
+	},
+	[2962]={
+		star = 2962,
+		needitem = {{type=1,id=1010000,count=348407}},
+		attr = {{type=32,value=440538181},{type=5,value=114723484},{type=11,value=137668181},},
+	},
+	[2963]={
+		star = 2963,
+		needitem = {{type=1,id=1010000,count=350149}},
+		attr = {{type=32,value=440582235},{type=5,value=114734957},{type=11,value=137681948},},
+	},
+	[2964]={
+		star = 2964,
+		needitem = {{type=1,id=1010000,count=351900}},
+		attr = {{type=32,value=440626293},{type=5,value=114746430},{type=11,value=137695716},},
+	},
+	[2965]={
+		star = 2965,
+		needitem = {{type=1,id=1010000,count=353659}},
+		attr = {{type=32,value=440670356},{type=5,value=114757905},{type=11,value=137709485},},
+	},
+	[2966]={
+		star = 2966,
+		needitem = {{type=1,id=1010000,count=355428}},
+		attr = {{type=32,value=440714423},{type=5,value=114769380},{type=11,value=137723256},},
+	},
+	[2967]={
+		star = 2967,
+		needitem = {{type=1,id=1010000,count=357205}},
+		attr = {{type=32,value=440758494},{type=5,value=114780857},{type=11,value=137737029},},
+	},
+	[2968]={
+		star = 2968,
+		needitem = {{type=1,id=1010000,count=358991}},
+		attr = {{type=32,value=440802570},{type=5,value=114792335},{type=11,value=137750802},},
+	},
+	[2969]={
+		star = 2969,
+		needitem = {{type=1,id=1010000,count=360786}},
+		attr = {{type=32,value=440846650},{type=5,value=114803815},{type=11,value=137764577},},
+	},
+	[2970]={
+		star = 2970,
+		needitem = {{type=1,id=1010000,count=362590}},
+		attr = {{type=32,value=440890735},{type=5,value=114815295},{type=11,value=137778354},},
+	},
+	[2971]={
+		star = 2971,
+		needitem = {{type=1,id=1010000,count=364403}},
+		attr = {{type=32,value=440934824},{type=5,value=114826777},{type=11,value=137792132},},
+	},
+	[2972]={
+		star = 2972,
+		needitem = {{type=1,id=1010000,count=366225}},
+		attr = {{type=32,value=440978917},{type=5,value=114838259},{type=11,value=137805911},},
+	},
+	[2973]={
+		star = 2973,
+		needitem = {{type=1,id=1010000,count=368056}},
+		attr = {{type=32,value=441023015},{type=5,value=114849743},{type=11,value=137819692},},
+	},
+	[2974]={
+		star = 2974,
+		needitem = {{type=1,id=1010000,count=369896}},
+		attr = {{type=32,value=441067118},{type=5,value=114861228},{type=11,value=137833473},},
+	},
+	[2975]={
+		star = 2975,
+		needitem = {{type=1,id=1010000,count=371746}},
+		attr = {{type=32,value=441111224},{type=5,value=114872714},{type=11,value=137847257},},
+	},
+	[2976]={
+		star = 2976,
+		needitem = {{type=1,id=1010000,count=373604}},
+		attr = {{type=32,value=441155335},{type=5,value=114884201},{type=11,value=137861042},},
+	},
+	[2977]={
+		star = 2977,
+		needitem = {{type=1,id=1010000,count=375472}},
+		attr = {{type=32,value=441199451},{type=5,value=114895690},{type=11,value=137874828},},
+	},
+	[2978]={
+		star = 2978,
+		needitem = {{type=1,id=1010000,count=377350}},
+		attr = {{type=32,value=441243571},{type=5,value=114907179},{type=11,value=137888615},},
+	},
+	[2979]={
+		star = 2979,
+		needitem = {{type=1,id=1010000,count=379236}},
+		attr = {{type=32,value=441287695},{type=5,value=114918670},{type=11,value=137902404},},
+	},
+	[2980]={
+		star = 2980,
+		needitem = {{type=1,id=1010000,count=381133}},
+		attr = {{type=32,value=441331824},{type=5,value=114930162},{type=11,value=137916194},},
+	},
+	[2981]={
+		star = 2981,
+		needitem = {{type=1,id=1010000,count=383038}},
+		attr = {{type=32,value=441375957},{type=5,value=114941655},{type=11,value=137929986},},
+	},
+	[2982]={
+		star = 2982,
+		needitem = {{type=1,id=1010000,count=384953}},
+		attr = {{type=32,value=441420095},{type=5,value=114953149},{type=11,value=137943779},},
+	},
+	[2983]={
+		star = 2983,
+		needitem = {{type=1,id=1010000,count=386878}},
+		attr = {{type=32,value=441464237},{type=5,value=114964645},{type=11,value=137957573},},
+	},
+	[2984]={
+		star = 2984,
+		needitem = {{type=1,id=1010000,count=388813}},
+		attr = {{type=32,value=441508383},{type=5,value=114976141},{type=11,value=137971369},},
+	},
+	[2985]={
+		star = 2985,
+		needitem = {{type=1,id=1010000,count=390757}},
+		attr = {{type=32,value=441552534},{type=5,value=114987639},{type=11,value=137985166},},
+	},
+	[2986]={
+		star = 2986,
+		needitem = {{type=1,id=1010000,count=392711}},
+		attr = {{type=32,value=441596689},{type=5,value=114999137},{type=11,value=137998965},},
+	},
+	[2987]={
+		star = 2987,
+		needitem = {{type=1,id=1010000,count=394674}},
+		attr = {{type=32,value=441640849},{type=5,value=115010637},{type=11,value=138012765},},
+	},
+	[2988]={
+		star = 2988,
+		needitem = {{type=1,id=1010000,count=396647}},
+		attr = {{type=32,value=441685013},{type=5,value=115022138},{type=11,value=138026566},},
+	},
+	[2989]={
+		star = 2989,
+		needitem = {{type=1,id=1010000,count=398631}},
+		attr = {{type=32,value=441729182},{type=5,value=115033641},{type=11,value=138040368},},
+	},
+	[2990]={
+		star = 2990,
+		needitem = {{type=1,id=1010000,count=400624}},
+		attr = {{type=32,value=441773355},{type=5,value=115045144},{type=11,value=138054173},},
+	},
+	[2991]={
+		star = 2991,
+		needitem = {{type=1,id=1010000,count=402627}},
+		attr = {{type=32,value=441817532},{type=5,value=115056648},{type=11,value=138067978},},
+	},
+	[2992]={
+		star = 2992,
+		needitem = {{type=1,id=1010000,count=404640}},
+		attr = {{type=32,value=441861714},{type=5,value=115068154},{type=11,value=138081785},},
+	},
+	[2993]={
+		star = 2993,
+		needitem = {{type=1,id=1010000,count=406663}},
+		attr = {{type=32,value=441905900},{type=5,value=115079661},{type=11,value=138095593},},
+	},
+	[2994]={
+		star = 2994,
+		needitem = {{type=1,id=1010000,count=408697}},
+		attr = {{type=32,value=441950090},{type=5,value=115091169},{type=11,value=138109402},},
+	},
+	[2995]={
+		star = 2995,
+		needitem = {{type=1,id=1010000,count=410740}},
+		attr = {{type=32,value=441994285},{type=5,value=115102678},{type=11,value=138123213},},
+	},
+	[2996]={
+		star = 2996,
+		needitem = {{type=1,id=1010000,count=412794}},
+		attr = {{type=32,value=442038485},{type=5,value=115114188},{type=11,value=138137026},},
+	},
+	[2997]={
+		star = 2997,
+		needitem = {{type=1,id=1010000,count=414858}},
+		attr = {{type=32,value=442082689},{type=5,value=115125700},{type=11,value=138150839},},
+	},
+	[2998]={
+		star = 2998,
+		needitem = {{type=1,id=1010000,count=416932}},
+		attr = {{type=32,value=442126897},{type=5,value=115137212},{type=11,value=138164655},},
+	},
+	[2999]={
+		star = 2999,
+		needitem = {{type=1,id=1010000,count=419017}},
+		attr = {{type=32,value=442171110},{type=5,value=115148726},{type=11,value=138178471},},
+	},
+	[3000]={
+		star = 3000,
+		needitem = {},
+		attr = {{type=32,value=442215327},{type=5,value=115160241},{type=11,value=138192289},},
+	},
+}

@@ -1,0 +1,129 @@
+-- from rank.xlsx 膜拜配置 
+WorshipConfig={
+	[0]={
+	[1]={
+		type = 0,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[1]={
+	[1]={
+		type = 1,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[6]={
+	[1]={
+		type = 6,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[17]={
+	[1]={
+		type = 17,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[8]={
+	[1]={
+		type = 8,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[7]={
+	[1]={
+		type = 7,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[9]={
+	[1]={
+		type = 9,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[10]={
+	[1]={
+		type = 10,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[11]={
+	[1]={
+		type = 11,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[12]={
+	[1]={
+		type = 12,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[13]={
+	[1]={
+		type = 13,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[14]={
+	[1]={
+		type = 14,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[15]={
+	[1]={
+		type = 15,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+	[16]={
+	[1]={
+		type = 16,
+		index = 1,
+		level = 1,
+		awards = {{type=0,id=2,count=20000}},
+		count = 1,
+	},
+	},
+}

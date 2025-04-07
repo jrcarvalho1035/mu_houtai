@@ -1,0 +1,20 @@
+-- from global.xlsx 充值活动常量 
+RechargeConstConfig={
+	loginyuanbao = 800,
+	customyuanbao = 1800,
+	levelyuanbao = 3000,
+	loginsvip = 2,
+	customsvip = 4,
+	levelsvip = 6,
+	yyqgrewards = {{type=0,id=2,count=64800},{type=0,id=30,count=1000},{type=1,id=111606,count=1},{type=0,id=1,count=1000000},{type=0,id=27,count=1000000},{type=1,id=310001,count=1000},},
+	yyqgvip = 1,
+	yyqgyuanbao = 110,
+	yyqgshowtime = 4320,
+	yyqghead = Lang.RechargeConstConfig_yyqghead_4,
+	yyqgcontent = Lang.RechargeConstConfig_yyqgcontent_5,
+	yyqgcustom = 2,
+	doubleHead = Lang.RechargeConstConfig_doubleHead_6,
+	doubleContent = Lang.RechargeConstConfig_doubleContent_7,
+	chongzhi1Head = Lang.RechargeConstConfig_chongzhi1Head_8,
+	chongzhi1Content = Lang.RechargeConstConfig_chongzhi1Content_9,
+}

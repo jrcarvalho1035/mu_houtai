@@ -1,0 +1,73 @@
+-- from diablo.xlsx 暗黑之灵觉醒 
+DiabloWakeConfig={
+	[1]={
+		id = 1,
+		skillId = 27001,
+		needItem = {{type=1,id=750001,count=1}},
+		maxStage = 500,
+		attrs = {{type=2,value=80000},{type=3,value=120000},{type=5,value=50000},{type=11,value=100000},},
+	},
+	[2]={
+		id = 2,
+		skillId = 27002,
+		needItem = {{type=1,id=750002,count=1}},
+		maxStage = 500,
+		attrs = {{type=2,value=160000},{type=3,value=200000},{type=5,value=75000},{type=1,value=3200000},},
+	},
+	[3]={
+		id = 3,
+		skillId = 27003,
+		needItem = {{type=1,id=750003,count=1}},
+		maxStage = 500,
+		attrs = {{type=2,value=312000},{type=3,value=384000},{type=11,value=120000},{type=62,value=90000},{type=140,value=50},},
+	},
+	[4]={
+		id = 4,
+		skillId = 27004,
+		needItem = {{type=1,id=750004,count=1}},
+		maxStage = 500,
+		attrs = {{type=2,value=400000},{type=3,value=400000},{type=11,value=320000},{type=62,value=104000},{type=140,value=50},},
+	},
+	[5]={
+		id = 5,
+		skillId = 27005,
+		needItem = {{type=1,id=750005,count=1}},
+		maxStage = 500,
+		attrs = {{type=2,value=408000},{type=3,value=840000},{type=5,value=270000},{type=1,value=7200000},{type=140,value=100},},
+	},
+	[6]={
+		id = 6,
+		skillId = 27006,
+		needItem = {{type=1,id=750006,count=1}},
+		maxStage = 500,
+		attrs = {{type=2,value=560000},{type=3,value=840000},{type=5,value=350000},{type=11,value=700000},{type=140,value=100},},
+	},
+	[7]={
+		id = 7,
+		skillId = 27007,
+		needItem = {{type=1,id=750007,count=1}},
+		maxStage = 500,
+		attrs = {{type=2,value=640000},{type=3,value=800000},{type=5,value=300000},{type=1,value=12800000},{type=140,value=150},},
+	},
+	[8]={
+		id = 8,
+		skillId = 27008,
+		needItem = {{type=1,id=750008,count=1}},
+		maxStage = 500,
+		attrs = {{type=2,value=936000},{type=3,value=1152000},{type=11,value=360000},{type=62,value=270000},{type=140,value=150},},
+	},
+	[9]={
+		id = 9,
+		skillId = 27009,
+		needItem = {{type=1,id=750009,count=1}},
+		maxStage = 500,
+		attrs = {{type=2,value=1000000},{type=3,value=1000000},{type=11,value=800000},{type=62,value=260000},{type=140,value=200},},
+	},
+	[10]={
+		id = 10,
+		skillId = 27010,
+		needItem = {{type=1,id=750010,count=1}},
+		maxStage = 500,
+		attrs = {{type=2,value=680000},{type=3,value=1400000},{type=5,value=450000},{type=1,value=12000000},{type=140,value=200},},
+	},
+}

@@ -1,0 +1,51 @@
+-- from yunbiao.xlsx 公会排行奖励 
+DartGuildRankConfig={
+	[1]={
+		idx = 1,
+		range = {1,1},
+		head = Lang.DartGuildRankConfig_head_1,
+		context = Lang.DartGuildRankConfig_context_1,
+		award = {{type=1,id=310101,count=80000}},
+		allaward = {{type=0,id=2,count=15000000},{type=1,id=380030,count=1},{type=1,id=310170,count=3},{type=1,id=310171,count=3}},
+	},
+	[2]={
+		idx = 2,
+		range = {2,2},
+		head = Lang.DartGuildRankConfig_head_2,
+		context = Lang.DartGuildRankConfig_context_1,
+		award = {{type=1,id=310101,count=60000}},
+		allaward = {{type=0,id=2,count=10000000},{type=1,id=310170,count=2},{type=1,id=310171,count=3}},
+	},
+	[3]={
+		idx = 3,
+		range = {3,3},
+		head = Lang.DartGuildRankConfig_head_3,
+		context = Lang.DartGuildRankConfig_context_1,
+		award = {{type=1,id=310101,count=40000}},
+		allaward = {{type=0,id=2,count=7500000},{type=1,id=310170,count=1},{type=1,id=310171,count=3}},
+	},
+	[4]={
+		idx = 4,
+		range = {4,6},
+		head = Lang.DartGuildRankConfig_head_4,
+		context = Lang.DartGuildRankConfig_context_1,
+		award = {{type=1,id=310101,count=30000}},
+		allaward = {{type=0,id=2,count=5000000},{type=1,id=310171,count=3},{type=1,id=310172,count=4}},
+	},
+	[5]={
+		idx = 5,
+		range = {7,10},
+		head = Lang.DartGuildRankConfig_head_5,
+		context = Lang.DartGuildRankConfig_context_1,
+		award = {{type=1,id=310101,count=20000}},
+		allaward = {{type=0,id=2,count=2500000},{type=1,id=310171,count=2},{type=1,id=310172,count=3}},
+	},
+	[6]={
+		idx = 6,
+		range = {11,20},
+		head = Lang.DartGuildRankConfig_head_6,
+		context = Lang.DartGuildRankConfig_context_1,
+		award = {{type=1,id=310101,count=10000}},
+		allaward = {{type=1,id=310171,count=1},{type=1,id=310172,count=2}},
+	},
+}

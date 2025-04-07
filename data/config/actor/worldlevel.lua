@@ -1,0 +1,53 @@
+-- from role_attr.xlsx 世界等级 
+WorldLevelConfig={
+	[1]={
+		id = 1,
+		difflevel = {1,10},
+		expper = 10,
+	},
+	[2]={
+		id = 2,
+		difflevel = {11,20},
+		expper = 20,
+	},
+	[3]={
+		id = 3,
+		difflevel = {21,30},
+		expper = 30,
+	},
+	[4]={
+		id = 4,
+		difflevel = {31,40},
+		expper = 40,
+	},
+	[5]={
+		id = 5,
+		difflevel = {41,50},
+		expper = 50,
+	},
+	[6]={
+		id = 6,
+		difflevel = {51,100},
+		expper = 60,
+	},
+	[7]={
+		id = 7,
+		difflevel = {101,200},
+		expper = 80,
+	},
+	[8]={
+		id = 8,
+		difflevel = {201,300},
+		expper = 100,
+	},
+	[9]={
+		id = 9,
+		difflevel = {301,400},
+		expper = 150,
+	},
+	[10]={
+		id = 10,
+		difflevel = {401,6400},
+		expper = 200,
+	},
+}

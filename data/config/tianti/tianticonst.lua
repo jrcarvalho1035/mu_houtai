@@ -1,0 +1,23 @@
+-- from tianti.xlsx 常量配置 
+TianTiConstConfig={
+	openLevel = 80,
+	challengesCountCd = 7200,
+	buyChallengesCountYuanBao = 5000,
+	maxRestoreChallengesCount = 6,
+	diamond = {level = 4,id = 0},
+	rankMailHead = Lang.TianTiConstConfig_rankMailHead_1,
+	rankMailContext = Lang.TianTiConstConfig_rankMailContext_2,
+	danMailHead = Lang.TianTiConstConfig_danMailHead_3,
+	danMailContext = Lang.TianTiConstConfig_danMailContext_4,
+	myPos = {[1]={22,35},[2]={21,34},[3]={21,36}},
+	tarPos = {[1]={42,35},[2]={43,34},[3]={43,36}},
+	bindEffectId = 30001,
+	extraEffectIds = {31001,31002,31003},
+	maxRankCount = 100,
+	showRankCount = 20,
+	beginLevel = 1,
+	beginShowDan = 5,
+	openBroadcastNotice = {68,69},
+	closeBroadcastNotice = {70,71},
+	awardNotice = 38,
+}

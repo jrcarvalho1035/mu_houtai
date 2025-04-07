@@ -1,0 +1,63 @@
+-- from shenshou.xlsx 神兽属性 
+ShenShouAttrConfig={
+	[1]={
+		id = 1,
+		type = 9,
+		value = 500,
+	},
+	[2]={
+		id = 2,
+		type = 10,
+		value = 500,
+	},
+	[3]={
+		id = 3,
+		type = 11,
+		value = 500,
+	},
+	[4]={
+		id = 4,
+		type = 12,
+		value = 500,
+	},
+	[5]={
+		id = 5,
+		type = 18,
+		value = 500,
+	},
+	[6]={
+		id = 6,
+		type = 19,
+		value = 500,
+	},
+	[7]={
+		id = 7,
+		type = 17,
+		value = 500,
+	},
+	[8]={
+		id = 8,
+		type = 20,
+		value = 500,
+	},
+	[9]={
+		id = 9,
+		type = 21,
+		value = 500,
+	},
+	[10]={
+		id = 10,
+		type = 22,
+		value = 500,
+	},
+	[11]={
+		id = 11,
+		type = 23,
+		value = 500,
+	},
+	[12]={
+		id = 12,
+		type = 24,
+		value = 500,
+	},
+}

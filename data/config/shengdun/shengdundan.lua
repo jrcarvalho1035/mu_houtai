@@ -1,0 +1,24 @@
+-- from angelshield.xlsx 天使圣盾丹药配置 
+ShengdundanConfig={
+	[1]={
+		id = 1,
+		itemid = 310903,
+		attr = {{type=1,value=4000},{type=4,value=100},{type=43,value=500}},
+		power = 0,
+		per = 0,
+	},
+	[2]={
+		id = 2,
+		itemid = 310904,
+		attr = {{type=1,value=14000},{type=4,value=340},{type=6,value=950},{type=43,value=1000}},
+		power = 0,
+		per = 0,
+	},
+	[3]={
+		id = 3,
+		itemid = 310905,
+		attr = {{type=1,value=720000},{type=4,value=18000},{type=6,value=42000},{type=43,value=54000}},
+		power = 0,
+		per = 100,
+	},
+}

@@ -1,0 +1,123 @@
+-- from huanshou.xlsx 幻兽基础表 
+HuanShouBaseConfig={
+	[1]={
+		id = 1,
+		skillId = 1,
+		equipIndex = {2121000,2421000,2311000,2211000,2511000},
+		baseAttrs = {{type=152,value=10000},{type=151,value=200000},{type=153,value=10000},{type=158,value=5000}},
+	},
+	[2]={
+		id = 2,
+		skillId = 2,
+		equipIndex = {2121000,2421000,2321000,2221000,2521000},
+		baseAttrs = {{type=152,value=25000},{type=151,value=500000},{type=153,value=25000},{type=158,value=12500}},
+	},
+	[3]={
+		id = 3,
+		skillId = 3,
+		equipIndex = {2131000,2431000,2321000,2221000,2521000},
+		baseAttrs = {{type=152,value=37500},{type=151,value=750000},{type=153,value=37500},{type=158,value=18750}},
+	},
+	[4]={
+		id = 4,
+		skillId = 4,
+		equipIndex = {2131000,2431000,2331000,2231000,2531000},
+		baseAttrs = {{type=152,value=50000},{type=151,value=1000000},{type=153,value=50000},{type=158,value=25000}},
+	},
+	[5]={
+		id = 5,
+		skillId = 5,
+		equipIndex = {2131000,2431000,2341000,2241000,2541000},
+		baseAttrs = {{type=152,value=62500},{type=151,value=1250000},{type=153,value=62500},{type=158,value=31250}},
+	},
+	[6]={
+		id = 6,
+		skillId = 6,
+		equipIndex = {2141000,2441000,2341000,2241000,2541000},
+		baseAttrs = {{type=152,value=75000},{type=151,value=1500000},{type=153,value=75000},{type=158,value=37500}},
+	},
+	[7]={
+		id = 7,
+		skillId = 7,
+		equipIndex = {2141000,2441000,2341000,2242000,2542000},
+		baseAttrs = {{type=152,value=100000},{type=151,value=2000000},{type=153,value=100000},{type=158,value=50000}},
+	},
+	[8]={
+		id = 8,
+		skillId = 8,
+		equipIndex = {2141000,2441000,2342000,2242000,2542000},
+		baseAttrs = {{type=152,value=150000},{type=151,value=3000000},{type=153,value=150000},{type=158,value=75000}},
+	},
+	[9]={
+		id = 9,
+		skillId = 9,
+		equipIndex = {2141000,2442000,2342000,2242000,2542000},
+		baseAttrs = {{type=152,value=200000},{type=151,value=4000000},{type=153,value=200000},{type=158,value=100000}},
+	},
+	[10]={
+		id = 10,
+		skillId = 10,
+		equipIndex = {2142000,2442000,2342000,2242000,2542000},
+		baseAttrs = {{type=152,value=250000},{type=151,value=5000000},{type=153,value=250000},{type=158,value=125000}},
+	},
+	[11]={
+		id = 11,
+		skillId = 11,
+		equipIndex = {2143000,2442000,2342000,2242000,2542000},
+		baseAttrs = {{type=152,value=300000},{type=151,value=6000000},{type=153,value=300000},{type=158,value=150000}},
+	},
+	[12]={
+		id = 12,
+		skillId = 12,
+		equipIndex = {2143000,2443000,2342000,2242000,2542000},
+		baseAttrs = {{type=152,value=350000},{type=151,value=7000000},{type=153,value=350000},{type=158,value=175000}},
+	},
+	[13]={
+		id = 13,
+		skillId = 13,
+		equipIndex = {2143000,2443000,2343000,2242000,2542000},
+		baseAttrs = {{type=152,value=400000},{type=151,value=8000000},{type=153,value=400000},{type=158,value=200000}},
+	},
+	[14]={
+		id = 14,
+		skillId = 14,
+		equipIndex = {2143000,2443000,2343000,2243000,2542000},
+		baseAttrs = {{type=152,value=500000},{type=151,value=10000000},{type=153,value=500000},{type=158,value=250000}},
+	},
+	[15]={
+		id = 15,
+		skillId = 15,
+		equipIndex = {2143000,2443000,2343000,2243000,2543000},
+		baseAttrs = {{type=152,value=550000},{type=151,value=11000000},{type=153,value=550000},{type=158,value=275000}},
+	},
+	[16]={
+		id = 16,
+		skillId = 16,
+		equipIndex = {2143000,2443000,2343000,2243000,2544000},
+		baseAttrs = {{type=152,value=600000},{type=151,value=12000000},{type=153,value=600000},{type=158,value=300000}},
+	},
+	[17]={
+		id = 17,
+		skillId = 17,
+		equipIndex = {2143000,2443000,2343000,2244000,2544000},
+		baseAttrs = {{type=152,value=700000},{type=151,value=14000000},{type=153,value=700000},{type=158,value=350000}},
+	},
+	[18]={
+		id = 18,
+		skillId = 18,
+		equipIndex = {2143000,2443000,2344000,2244000,2544000},
+		baseAttrs = {{type=152,value=800000},{type=151,value=16000000},{type=153,value=800000},{type=158,value=400000}},
+	},
+	[19]={
+		id = 19,
+		skillId = 19,
+		equipIndex = {2143000,2444000,2344000,2244000,2544000},
+		baseAttrs = {{type=152,value=900000},{type=151,value=18000000},{type=153,value=900000},{type=158,value=450000}},
+	},
+	[20]={
+		id = 20,
+		skillId = 20,
+		equipIndex = {2144000,2444000,2344000,2244000,2544000},
+		baseAttrs = {{type=152,value=1000000},{type=151,value=20000000},{type=153,value=1000000},{type=158,value=500000}},
+	},
+}

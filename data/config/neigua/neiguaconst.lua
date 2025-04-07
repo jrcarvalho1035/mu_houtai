@@ -1,0 +1,6 @@
+-- from neigua.xlsx 充值活动常量 
+NeiGuaConstConfig={
+	consume = {{type=0,id=2,count=2888}},
+	attrs = {{type=32,value=2400},{type=4,value=1200},{type=1,value=48000},},
+	day = 7,
+}

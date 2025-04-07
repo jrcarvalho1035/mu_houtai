@@ -1,0 +1,66 @@
+-- from recharge.xlsx 充值表 
+PayItemsConfig={
+	[600]={
+		amount = 10800,
+		id = 1,
+		giftQuality = 0,
+		giftCount = 1,
+		isForeverDouble = 0,
+	},
+	[1200]={
+		amount = 21600,
+		id = 2,
+		giftQuality = 0,
+		giftCount = 2,
+		isForeverDouble = 0,
+	},
+	[3000]={
+		amount = 57000,
+		id = 3,
+		giftQuality = 1,
+		giftCount = 1,
+		isForeverDouble = 0,
+	},
+	[6000]={
+		amount = 120000,
+		id = 4,
+		giftQuality = 1,
+		giftCount = 2,
+		isForeverDouble = 0,
+	},
+	[10000]={
+		amount = 210000,
+		id = 5,
+		giftQuality = 2,
+		giftCount = 1,
+		isForeverDouble = 0,
+	},
+	[20000]={
+		amount = 440000,
+		id = 6,
+		giftQuality = 2,
+		giftCount = 2,
+		isForeverDouble = 0,
+	},
+	[50000]={
+		amount = 1150000,
+		id = 7,
+		giftQuality = 3,
+		giftCount = 1,
+		isForeverDouble = 0,
+	},
+	[100000]={
+		amount = 2400000,
+		id = 8,
+		giftQuality = 3,
+		giftCount = 2,
+		isForeverDouble = 0,
+	},
+	[150000]={
+		amount = 3750000,
+		id = 9,
+		giftQuality = 3,
+		giftCount = 3,
+		isForeverDouble = 1,
+	},
+}

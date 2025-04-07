@@ -1,0 +1,43 @@
+-- from funben_fort.xlsx 连死buf 
+FortDieConfig={
+	[1]={
+		num = 1,
+		attrs = {{type=17,value=1000},{type=18,value=1000}},
+	},
+	[2]={
+		num = 2,
+		attrs = {{type=17,value=2000},{type=18,value=2000}},
+	},
+	[3]={
+		num = 3,
+		attrs = {{type=17,value=4000},{type=18,value=4000}},
+	},
+	[4]={
+		num = 4,
+		attrs = {{type=17,value=6000},{type=18,value=6000}},
+	},
+	[5]={
+		num = 5,
+		attrs = {{type=17,value=8000},{type=18,value=8000}},
+	},
+	[6]={
+		num = 6,
+		attrs = {{type=17,value=10000},{type=18,value=10000}},
+	},
+	[7]={
+		num = 7,
+		attrs = {{type=17,value=12000},{type=18,value=12000}},
+	},
+	[8]={
+		num = 8,
+		attrs = {{type=17,value=14000},{type=18,value=14000}},
+	},
+	[9]={
+		num = 9,
+		attrs = {{type=17,value=16000},{type=18,value=16000}},
+	},
+	[10]={
+		num = 10,
+		attrs = {{type=17,value=18000},{type=18,value=18000}},
+	},
+}

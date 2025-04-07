@@ -1,0 +1,105 @@
+-- from shenshou.xlsx 神兽商店 
+ShenShouShopConfig={
+	[500001]={
+		id = 500001,
+		integral = 100,
+		limit = 0,
+		level = 1,
+	},
+	[500002]={
+		id = 500002,
+		integral = 250,
+		limit = 0,
+		level = 1,
+	},
+	[500003]={
+		id = 500003,
+		integral = 400,
+		limit = 0,
+		level = 1,
+	},
+	[500004]={
+		id = 500004,
+		integral = 500,
+		limit = 0,
+		level = 1,
+	},
+	[500005]={
+		id = 500005,
+		integral = 1000,
+		limit = 0,
+		level = 1,
+	},
+	[500006]={
+		id = 500006,
+		integral = 1500,
+		limit = 0,
+		level = 1,
+	},
+	[500007]={
+		id = 500007,
+		integral = 2000,
+		limit = 0,
+		level = 1,
+	},
+	[500008]={
+		id = 500008,
+		integral = 2500,
+		limit = 0,
+		level = 1,
+	},
+	[500009]={
+		id = 500009,
+		integral = 4000,
+		limit = 0,
+		level = 1,
+	},
+	[500010]={
+		id = 500010,
+		integral = 4000,
+		limit = 0,
+		level = 1,
+	},
+	[500011]={
+		id = 500011,
+		integral = 5000,
+		limit = 0,
+		level = 1,
+	},
+	[500012]={
+		id = 500012,
+		integral = 5000,
+		limit = 0,
+		level = 1,
+	},
+	[500013]={
+		id = 500013,
+		integral = 10000,
+		limit = 0,
+		level = 1,
+	},
+	[500014]={
+		id = 500014,
+		integral = 10000,
+		limit = 0,
+		level = 1,
+	},
+	[500015]={
+		id = 500015,
+		integral = 15000,
+		limit = 0,
+		level = 1,
+	},
+	[500016]={
+		id = 500016,
+		integral = 15000,
+		limit = 0,
+		level = 1,
+	},
+	[500017]={
+		id = 500017,
+		integral = 25000,
+		limit = 0,
+		level = 1,
+	},
+}

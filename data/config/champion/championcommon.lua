@@ -1,0 +1,22 @@
+-- from zhanqu_champion.xlsx 杂项 
+ChampionCommonConfig={
+	matchFbId = 3,
+	bossFbId = 99611,
+	championFbId = 99612,
+	needCount = 15,
+	maxTeamCount = 27,
+	maxCount = 216,
+	bossChallengeTime = 180,
+	championMailTitle = '冠军战队队长奖励标题',
+	championMailContent = '冠军战队队长奖励内容',
+	championMailReward = {{type=1,id=2,count=100},},
+	teamIcons = {"icon_1","icon_2","icon_3","icon_4","icon_5","icon_6","icon_7","icon_8",},
+	teamName = '%s的战队',
+	changeCostItem = {{type=1,id=2,count=100},},
+	killRate = 1000,
+	plunderRate = 1000,
+	exRates = {1000,2000,3000},
+	winScore = 10000,
+	worshipRewards = {{type=0,id=2,count=2000},{type=0,id=39,count=100},},
+	worshiptimes = 3,
+}

@@ -1,0 +1,43 @@
+-- from cs_guildwar.xlsx 跨服战关卡 
+CsgbFubenConfig={
+	[1]={
+		id = 1,
+		fbId = 80101,
+		nextLevel = 2,
+		switchSceneCd = 2,
+		pvp = 0,
+		feats = 0,
+		addIntegralSec = 0,
+		addIntegral = 0,
+	},
+	[2]={
+		id = 2,
+		fbId = 80102,
+		nextLevel = 3,
+		switchSceneCd = 3,
+		pvp = 1,
+		feats = 0,
+		addIntegralSec = 0,
+		addIntegral = 0,
+	},
+	[3]={
+		id = 3,
+		fbId = 80103,
+		nextLevel = 4,
+		switchSceneCd = 3,
+		pvp = 1,
+		feats = 15,
+		addIntegralSec = 10,
+		addIntegral = 5,
+	},
+	[4]={
+		id = 4,
+		fbId = 80104,
+		nextLevel = 3,
+		switchSceneCd = 3,
+		pvp = 1,
+		feats = 0,
+		addIntegralSec = 10,
+		addIntegral = 5,
+	},
+}

@@ -1,0 +1,21 @@
+-- from zhanqu_tianxuan.xlsx 杂项 
+TianXuanCommonConfig={
+	matchFbId = 3,
+	fightFbId = 99601,
+	startTime = '2-20:30',
+	endTime = '2-20:57',
+	closeTime = '2-21:00',
+	maxMatchCount = 10,
+	winPoint = 100,
+	killPoint = 20,
+	killScore = 200,
+	rankMailTitle = Lang.Zhanqu_Tianxuan_Config_1,
+	rankMailContent = Lang.Zhanqu_Tianxuan_Config_2,
+	joinMailTitle = Lang.Zhanqu_Tianxuan_Config_3,
+	joinMailContent = Lang.Zhanqu_Tianxuan_Config_4,
+	addEffects = {73001},
+	firstGatherNotice1 = 123,
+	firstGatherNotice2 = 125,
+	firstKillNotice1 = 124,
+	firstKillNotice2 = 126,
+}

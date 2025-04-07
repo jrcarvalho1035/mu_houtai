@@ -1,0 +1,22 @@
+-- from funben_fort.xlsx 要塞配置 
+FortCommonConfig={
+	enterCd = 15,
+	readyTime = 300,
+	fightTime = 600,
+	people = 10,
+	scoreInternal = 5000,
+	extraEffectId = 31003,
+	killNotice = {10,15,20,25,30,35,40,45,50,55,60,65,70},
+	endKillNotice = 12,
+	starTime1 = {12,30,0},
+	endTime1 = {12,40,0},
+	starTime2 = {19,30,0},
+	endTime2 = {19,40,0},
+	rankMailTitle = Lang.FortCommonConfig_rankMailTitle_2,
+	rankMailContent = Lang.FortCommonConfig_rankMailContent_3,
+	topFewCount = 10,
+	enterAreaTips = Lang.FortCommonConfig_enterAreaTips_4,
+	exitAreaTips = Lang.FortCommonConfig_exitAreaTips_5,
+	areaTipsInterval = 3,
+	beforeTime = 900,
+}

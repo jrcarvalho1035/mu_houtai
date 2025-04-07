@@ -1,0 +1,4 @@
+-- from meilin.xlsx 梅林公共表 
+MeilinConstConfig={
+	skills = {16101,16102,16103,16104,16105},
+}

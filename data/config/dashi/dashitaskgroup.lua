@@ -1,0 +1,183 @@
+-- from dashi.xlsx 大师任务 
+DaShiTaskGroupConfig={
+	[101]={
+		id = 101,
+		taskIds = {1,2},
+		fbIndex = 1,
+	},
+	[102]={
+		id = 102,
+		taskIds = {3,4},
+		fbIndex = 2,
+	},
+	[103]={
+		id = 103,
+		taskIds = {5,6},
+		fbIndex = 3,
+	},
+	[104]={
+		id = 104,
+		taskIds = {7,8},
+		fbIndex = 4,
+	},
+	[105]={
+		id = 105,
+		taskIds = {9,10},
+		fbIndex = 5,
+	},
+	[106]={
+		id = 106,
+		taskIds = {11,12},
+		fbIndex = 6,
+	},
+	[201]={
+		id = 201,
+		taskIds = {13,14},
+		fbIndex = 7,
+	},
+	[202]={
+		id = 202,
+		taskIds = {15,16},
+		fbIndex = 8,
+	},
+	[203]={
+		id = 203,
+		taskIds = {17,18},
+		fbIndex = 9,
+	},
+	[204]={
+		id = 204,
+		taskIds = {19,20},
+		fbIndex = 10,
+	},
+	[205]={
+		id = 205,
+		taskIds = {21,22},
+		fbIndex = 11,
+	},
+	[206]={
+		id = 206,
+		taskIds = {23,24},
+		fbIndex = 12,
+	},
+	[301]={
+		id = 301,
+		taskIds = {25,26},
+		fbIndex = 13,
+	},
+	[302]={
+		id = 302,
+		taskIds = {27,28},
+		fbIndex = 14,
+	},
+	[303]={
+		id = 303,
+		taskIds = {29,30},
+		fbIndex = 15,
+	},
+	[304]={
+		id = 304,
+		taskIds = {31,32},
+		fbIndex = 16,
+	},
+	[305]={
+		id = 305,
+		taskIds = {33,34},
+		fbIndex = 17,
+	},
+	[306]={
+		id = 306,
+		taskIds = {35,36},
+		fbIndex = 18,
+	},
+	[401]={
+		id = 401,
+		taskIds = {37,38},
+		fbIndex = 19,
+	},
+	[402]={
+		id = 402,
+		taskIds = {39,40},
+		fbIndex = 20,
+	},
+	[403]={
+		id = 403,
+		taskIds = {41,42},
+		fbIndex = 21,
+	},
+	[404]={
+		id = 404,
+		taskIds = {43,44},
+		fbIndex = 22,
+	},
+	[405]={
+		id = 405,
+		taskIds = {45,46},
+		fbIndex = 23,
+	},
+	[406]={
+		id = 406,
+		taskIds = {47,48},
+		fbIndex = 24,
+	},
+	[501]={
+		id = 501,
+		taskIds = {49,50},
+		fbIndex = 25,
+	},
+	[502]={
+		id = 502,
+		taskIds = {51,52},
+		fbIndex = 26,
+	},
+	[503]={
+		id = 503,
+		taskIds = {53,54},
+		fbIndex = 27,
+	},
+	[504]={
+		id = 504,
+		taskIds = {55,56},
+		fbIndex = 28,
+	},
+	[505]={
+		id = 505,
+		taskIds = {57,58},
+		fbIndex = 29,
+	},
+	[506]={
+		id = 506,
+		taskIds = {59,60},
+		fbIndex = 30,
+	},
+	[601]={
+		id = 601,
+		taskIds = {61,62},
+		fbIndex = 31,
+	},
+	[602]={
+		id = 602,
+		taskIds = {63,64},
+		fbIndex = 32,
+	},
+	[603]={
+		id = 603,
+		taskIds = {65,66},
+		fbIndex = 33,
+	},
+	[604]={
+		id = 604,
+		taskIds = {67,68},
+		fbIndex = 34,
+	},
+	[605]={
+		id = 605,
+		taskIds = {69,70},
+		fbIndex = 35,
+	},
+	[606]={
+		id = 606,
+		taskIds = {71,72},
+		fbIndex = 36,
+	},
+}

@@ -1,0 +1,73 @@
+-- from funben_huanshou.xlsx 幻兽岛BOSS(多人)  
+HuanshouCorssBossConfig={
+	[96001]={
+		id = 96001,
+		refreshTime = 1500,
+		pos = {18,17},
+		shield = {{hp=20,shield=25,type=1}},
+		belongDropId = 143007,
+	},
+	[96002]={
+		id = 96002,
+		refreshTime = 1800,
+		pos = {52,24},
+		shield = {{hp=20,shield=25,type=1}},
+		belongDropId = 143008,
+	},
+	[96003]={
+		id = 96003,
+		refreshTime = 2100,
+		pos = {78,16},
+		shield = {{hp=20,shield=25,type=1}},
+		belongDropId = 143009,
+	},
+	[96004]={
+		id = 96004,
+		refreshTime = 2400,
+		pos = {86,42},
+		shield = {{hp=20,shield=25,type=1}},
+		belongDropId = 143010,
+	},
+	[96005]={
+		id = 96005,
+		refreshTime = 2700,
+		pos = {21,55},
+		shield = {{hp=20,shield=25,type=1}},
+		belongDropId = 143011,
+	},
+	[96008]={
+		id = 96008,
+		refreshTime = 1800,
+		pos = {34,18},
+		shield = {{hp=20,shield=25,type=1}},
+		belongDropId = 143012,
+	},
+	[96009]={
+		id = 96009,
+		refreshTime = 2100,
+		pos = {78,11},
+		shield = {{hp=20,shield=25,type=1}},
+		belongDropId = 143013,
+	},
+	[96010]={
+		id = 96010,
+		refreshTime = 2400,
+		pos = {86,43},
+		shield = {{hp=20,shield=25,type=1}},
+		belongDropId = 143014,
+	},
+	[96011]={
+		id = 96011,
+		refreshTime = 2700,
+		pos = {15,46},
+		shield = {{hp=20,shield=25,type=1}},
+		belongDropId = 143015,
+	},
+	[96012]={
+		id = 96012,
+		refreshTime = 3000,
+		pos = {61,67},
+		shield = {{hp=20,shield=25,type=1}},
+		belongDropId = 143017,
+	},
+}

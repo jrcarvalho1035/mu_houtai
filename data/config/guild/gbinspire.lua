@@ -1,0 +1,15 @@
+-- from guildbattle.xlsx 鼓舞 
+GBInspireConfig={
+	[1]={
+		index = 1,
+		needyuanbao = {{type=0,id=2,count=100},{type=0,id=2,count=150},{type=0,id=2,count=200},{type=0,id=2,count=300},{type=0,id=2,count=400},{type=0,id=2,count=500},{type=0,id=2,count=600},{type=0,id=2,count=700},{type=0,id=2,count=800},{type=0,id=2,count=900},{type=0,id=2,count=1000},{type=0,id=2,count=1200},{type=0,id=2,count=1400},{type=0,id=2,count=1600},{type=0,id=2,count=1800},{type=0,id=2,count=2000},{type=0,id=2,count=2200},{type=0,id=2,count=2400},{type=0,id=2,count=2600},{type=0,id=2,count=2800}},
+		attrs = {{type=18,value=100},{type=32,value=100000},{type=1,value=2000000}},
+		count = 20,
+	},
+	[2]={
+		index = 2,
+		needyuanbao = {{type=0,id=30,count=50},{type=0,id=30,count=50},{type=0,id=30,count=100},{type=0,id=30,count=100},{type=0,id=30,count=150},{type=0,id=30,count=150},{type=0,id=30,count=200},{type=0,id=30,count=200},{type=0,id=30,count=250},{type=0,id=30,count=300}},
+		attrs = {{type=18,value=500},{type=17,value=500},{type=32,value=200000}},
+		count = 10,
+	},
+}

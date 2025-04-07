@@ -1,0 +1,73 @@
+-- from vip.xlsx vip配置 
+VipConfig={
+	[1]={
+		lv = 1,
+		needYb = 100,
+		needCustom = 5,
+		awards = {{type=0,id=2,count=50000},{type=1,id=1051001,count=1},{type=1,id=310001,count=30}},
+		levelAttr = {{type=32,value=20},{type=1,value=400},{type=4,value=10}},
+	},
+	[2]={
+		lv = 2,
+		needYb = 100,
+		needCustom = 7,
+		awards = {{type=0,id=2,count=50000},{type=1,id=121402,count=1},{type=1,id=1061001,count=1}},
+		levelAttr = {{type=32,value=30},{type=1,value=600},{type=4,value=15}},
+	},
+	[3]={
+		lv = 3,
+		needYb = 100,
+		needCustom = 10,
+		awards = {{type=0,id=2,count=50000},{type=1,id=131402,count=1},{type=1,id=310020,count=1}},
+		levelAttr = {{type=32,value=40},{type=1,value=800},{type=4,value=20},{type=33,value=100}},
+	},
+	[4]={
+		lv = 4,
+		needYb = 100,
+		needCustom = 15,
+		awards = {{type=0,id=2,count=50000},{type=1,id=141404,count=1},{type=1,id=310020,count=1}},
+		levelAttr = {{type=32,value=60},{type=1,value=1200},{type=4,value=30},{type=33,value=100},{type=25,value=100}},
+	},
+	[5]={
+		lv = 5,
+		needYb = 100,
+		needCustom = 20,
+		awards = {{type=0,id=2,count=50000},{type=1,id=111404,count=1},{type=1,id=310020,count=1}},
+		levelAttr = {{type=32,value=80},{type=1,value=1600},{type=4,value=40},{type=33,value=200},{type=25,value=100}},
+	},
+	[6]={
+		lv = 6,
+		needYb = 100,
+		needCustom = 25,
+		awards = {{type=0,id=2,count=50000},{type=1,id=310020,count=1},{type=1,id=161404,count=1},{type=0,id=1,count=100000}},
+		levelAttr = {{type=32,value=100},{type=1,value=2000},{type=4,value=50},{type=33,value=200},{type=25,value=200}},
+	},
+	[7]={
+		lv = 7,
+		needYb = 100,
+		needCustom = 30,
+		awards = {{type=0,id=2,count=50000},{type=1,id=310020,count=1},{type=1,id=131404,count=1},{type=0,id=27,count=100000}},
+		levelAttr = {{type=32,value=120},{type=1,value=2400},{type=4,value=60},{type=33,value=300},{type=25,value=200}},
+	},
+	[8]={
+		lv = 8,
+		needYb = 100,
+		needCustom = 40,
+		awards = {{type=0,id=2,count=50000},{type=1,id=310020,count=1},{type=1,id=1051001,count=3},{type=1,id=1051001,count=3}},
+		levelAttr = {{type=32,value=140},{type=1,value=2800},{type=4,value=70},{type=33,value=300},{type=25,value=300}},
+	},
+	[9]={
+		lv = 9,
+		needYb = 100,
+		needCustom = 50,
+		awards = {{type=0,id=2,count=50000},{type=1,id=341029,count=1},{type=1,id=310013,count=2},{type=0,id=1,count=200000}},
+		levelAttr = {{type=32,value=160},{type=1,value=3200},{type=4,value=80},{type=33,value=400},{type=25,value=400}},
+	},
+	[10]={
+		lv = 10,
+		needYb = 100,
+		needCustom = 0,
+		awards = {{type=0,id=2,count=50000},{type=1,id=310078,count=1},{type=1,id=310019,count=1},{type=0,id=27,count=200000}},
+		levelAttr = {{type=32,value=200},{type=1,value=4000},{type=4,value=100},{type=33,value=500},{type=25,value=500}},
+	},
+}

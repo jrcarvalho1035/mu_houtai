@@ -1,0 +1,1203 @@
+-- from dazao.xlsx 神迹之魂道具打造 
+DazaoSJZHEquipCostConfig={
+	[690011]={
+		equipid = 690011,
+		needItem = {{type=1,id=690001,count=5}},
+		costItem = {},
+	},
+	[690012]={
+		equipid = 690012,
+		needItem = {{type=1,id=690002,count=5}},
+		costItem = {},
+	},
+	[690013]={
+		equipid = 690013,
+		needItem = {{type=1,id=690003,count=5}},
+		costItem = {},
+	},
+	[690014]={
+		equipid = 690014,
+		needItem = {{type=1,id=690004,count=5}},
+		costItem = {},
+	},
+	[690021]={
+		equipid = 690021,
+		needItem = {{type=1,id=690011,count=5}},
+		costItem = {},
+	},
+	[690022]={
+		equipid = 690022,
+		needItem = {{type=1,id=690012,count=5}},
+		costItem = {},
+	},
+	[690023]={
+		equipid = 690023,
+		needItem = {{type=1,id=690013,count=5}},
+		costItem = {},
+	},
+	[690024]={
+		equipid = 690024,
+		needItem = {{type=1,id=690014,count=5}},
+		costItem = {},
+	},
+	[690031]={
+		equipid = 690031,
+		needItem = {{type=1,id=690021,count=5}},
+		costItem = {},
+	},
+	[690032]={
+		equipid = 690032,
+		needItem = {{type=1,id=690022,count=5}},
+		costItem = {},
+	},
+	[690033]={
+		equipid = 690033,
+		needItem = {{type=1,id=690023,count=5}},
+		costItem = {},
+	},
+	[690034]={
+		equipid = 690034,
+		needItem = {{type=1,id=690024,count=5}},
+		costItem = {},
+	},
+	[690041]={
+		equipid = 690041,
+		needItem = {{type=1,id=690031,count=5}},
+		costItem = {},
+	},
+	[690042]={
+		equipid = 690042,
+		needItem = {{type=1,id=690032,count=5}},
+		costItem = {},
+	},
+	[690043]={
+		equipid = 690043,
+		needItem = {{type=1,id=690033,count=5}},
+		costItem = {},
+	},
+	[690044]={
+		equipid = 690044,
+		needItem = {{type=1,id=690034,count=5}},
+		costItem = {},
+	},
+	[690051]={
+		equipid = 690051,
+		needItem = {{type=1,id=690041,count=5}},
+		costItem = {{type=1,id=368001,count=500}},
+	},
+	[690052]={
+		equipid = 690052,
+		needItem = {{type=1,id=690042,count=5}},
+		costItem = {{type=1,id=368001,count=500}},
+	},
+	[690053]={
+		equipid = 690053,
+		needItem = {{type=1,id=690043,count=5}},
+		costItem = {{type=1,id=368001,count=500}},
+	},
+	[690054]={
+		equipid = 690054,
+		needItem = {{type=1,id=690044,count=5}},
+		costItem = {{type=1,id=368001,count=500}},
+	},
+	[690061]={
+		equipid = 690061,
+		needItem = {{type=1,id=690051,count=5}},
+		costItem = {{type=1,id=368002,count=1000}},
+	},
+	[690062]={
+		equipid = 690062,
+		needItem = {{type=1,id=690052,count=5}},
+		costItem = {{type=1,id=368002,count=1000}},
+	},
+	[690063]={
+		equipid = 690063,
+		needItem = {{type=1,id=690053,count=5}},
+		costItem = {{type=1,id=368002,count=1000}},
+	},
+	[690064]={
+		equipid = 690064,
+		needItem = {{type=1,id=690054,count=5}},
+		costItem = {{type=1,id=368002,count=1000}},
+	},
+	[690111]={
+		equipid = 690111,
+		needItem = {{type=1,id=690101,count=5}},
+		costItem = {},
+	},
+	[690112]={
+		equipid = 690112,
+		needItem = {{type=1,id=690102,count=5}},
+		costItem = {},
+	},
+	[690113]={
+		equipid = 690113,
+		needItem = {{type=1,id=690103,count=5}},
+		costItem = {},
+	},
+	[690114]={
+		equipid = 690114,
+		needItem = {{type=1,id=690104,count=5}},
+		costItem = {},
+	},
+	[690121]={
+		equipid = 690121,
+		needItem = {{type=1,id=690111,count=5}},
+		costItem = {},
+	},
+	[690122]={
+		equipid = 690122,
+		needItem = {{type=1,id=690112,count=5}},
+		costItem = {},
+	},
+	[690123]={
+		equipid = 690123,
+		needItem = {{type=1,id=690113,count=5}},
+		costItem = {},
+	},
+	[690124]={
+		equipid = 690124,
+		needItem = {{type=1,id=690114,count=5}},
+		costItem = {},
+	},
+	[690131]={
+		equipid = 690131,
+		needItem = {{type=1,id=690121,count=5}},
+		costItem = {},
+	},
+	[690132]={
+		equipid = 690132,
+		needItem = {{type=1,id=690122,count=5}},
+		costItem = {},
+	},
+	[690133]={
+		equipid = 690133,
+		needItem = {{type=1,id=690123,count=5}},
+		costItem = {},
+	},
+	[690134]={
+		equipid = 690134,
+		needItem = {{type=1,id=690124,count=5}},
+		costItem = {},
+	},
+	[690141]={
+		equipid = 690141,
+		needItem = {{type=1,id=690131,count=5}},
+		costItem = {},
+	},
+	[690142]={
+		equipid = 690142,
+		needItem = {{type=1,id=690132,count=5}},
+		costItem = {},
+	},
+	[690143]={
+		equipid = 690143,
+		needItem = {{type=1,id=690133,count=5}},
+		costItem = {},
+	},
+	[690144]={
+		equipid = 690144,
+		needItem = {{type=1,id=690134,count=5}},
+		costItem = {},
+	},
+	[690151]={
+		equipid = 690151,
+		needItem = {{type=1,id=690141,count=5}},
+		costItem = {{type=1,id=368003,count=500}},
+	},
+	[690152]={
+		equipid = 690152,
+		needItem = {{type=1,id=690142,count=5}},
+		costItem = {{type=1,id=368003,count=500}},
+	},
+	[690153]={
+		equipid = 690153,
+		needItem = {{type=1,id=690143,count=5}},
+		costItem = {{type=1,id=368003,count=500}},
+	},
+	[690154]={
+		equipid = 690154,
+		needItem = {{type=1,id=690144,count=5}},
+		costItem = {{type=1,id=368003,count=500}},
+	},
+	[690161]={
+		equipid = 690161,
+		needItem = {{type=1,id=690151,count=5}},
+		costItem = {{type=1,id=368004,count=1000}},
+	},
+	[690162]={
+		equipid = 690162,
+		needItem = {{type=1,id=690152,count=5}},
+		costItem = {{type=1,id=368004,count=1000}},
+	},
+	[690163]={
+		equipid = 690163,
+		needItem = {{type=1,id=690153,count=5}},
+		costItem = {{type=1,id=368004,count=1000}},
+	},
+	[690164]={
+		equipid = 690164,
+		needItem = {{type=1,id=690154,count=5}},
+		costItem = {{type=1,id=368004,count=1000}},
+	},
+	[690171]={
+		equipid = 690171,
+		needItem = {{type=1,id=690161,count=5}},
+		costItem = {{type=1,id=368004,count=3000}},
+	},
+	[690172]={
+		equipid = 690172,
+		needItem = {{type=1,id=690162,count=5}},
+		costItem = {{type=1,id=368004,count=3000}},
+	},
+	[690173]={
+		equipid = 690173,
+		needItem = {{type=1,id=690163,count=5}},
+		costItem = {{type=1,id=368004,count=3000}},
+	},
+	[690174]={
+		equipid = 690174,
+		needItem = {{type=1,id=690164,count=5}},
+		costItem = {{type=1,id=368004,count=3000}},
+	},
+	[690181]={
+		equipid = 690181,
+		needItem = {{type=1,id=690171,count=5}},
+		costItem = {{type=1,id=368004,count=10000}},
+	},
+	[690182]={
+		equipid = 690182,
+		needItem = {{type=1,id=690172,count=5}},
+		costItem = {{type=1,id=368004,count=10000}},
+	},
+	[690183]={
+		equipid = 690183,
+		needItem = {{type=1,id=690173,count=5}},
+		costItem = {{type=1,id=368004,count=10000}},
+	},
+	[690184]={
+		equipid = 690184,
+		needItem = {{type=1,id=690174,count=5}},
+		costItem = {{type=1,id=368004,count=10000}},
+	},
+	[690191]={
+		equipid = 690191,
+		needItem = {{type=1,id=690181,count=5}},
+		costItem = {{type=1,id=368004,count=30000}},
+	},
+	[690192]={
+		equipid = 690192,
+		needItem = {{type=1,id=690182,count=5}},
+		costItem = {{type=1,id=368004,count=30000}},
+	},
+	[690193]={
+		equipid = 690193,
+		needItem = {{type=1,id=690183,count=5}},
+		costItem = {{type=1,id=368004,count=30000}},
+	},
+	[690194]={
+		equipid = 690194,
+		needItem = {{type=1,id=690184,count=5}},
+		costItem = {{type=1,id=368004,count=30000}},
+	},
+	[690211]={
+		equipid = 690211,
+		needItem = {{type=1,id=690201,count=5}},
+		costItem = {},
+	},
+	[690212]={
+		equipid = 690212,
+		needItem = {{type=1,id=690202,count=5}},
+		costItem = {},
+	},
+	[690213]={
+		equipid = 690213,
+		needItem = {{type=1,id=690203,count=5}},
+		costItem = {},
+	},
+	[690214]={
+		equipid = 690214,
+		needItem = {{type=1,id=690204,count=5}},
+		costItem = {},
+	},
+	[690221]={
+		equipid = 690221,
+		needItem = {{type=1,id=690211,count=5}},
+		costItem = {},
+	},
+	[690222]={
+		equipid = 690222,
+		needItem = {{type=1,id=690212,count=5}},
+		costItem = {},
+	},
+	[690223]={
+		equipid = 690223,
+		needItem = {{type=1,id=690213,count=5}},
+		costItem = {},
+	},
+	[690224]={
+		equipid = 690224,
+		needItem = {{type=1,id=690214,count=5}},
+		costItem = {},
+	},
+	[690231]={
+		equipid = 690231,
+		needItem = {{type=1,id=690221,count=5}},
+		costItem = {},
+	},
+	[690232]={
+		equipid = 690232,
+		needItem = {{type=1,id=690222,count=5}},
+		costItem = {},
+	},
+	[690233]={
+		equipid = 690233,
+		needItem = {{type=1,id=690223,count=5}},
+		costItem = {},
+	},
+	[690234]={
+		equipid = 690234,
+		needItem = {{type=1,id=690224,count=5}},
+		costItem = {},
+	},
+	[690241]={
+		equipid = 690241,
+		needItem = {{type=1,id=690231,count=5}},
+		costItem = {},
+	},
+	[690242]={
+		equipid = 690242,
+		needItem = {{type=1,id=690232,count=5}},
+		costItem = {},
+	},
+	[690243]={
+		equipid = 690243,
+		needItem = {{type=1,id=690233,count=5}},
+		costItem = {},
+	},
+	[690244]={
+		equipid = 690244,
+		needItem = {{type=1,id=690234,count=5}},
+		costItem = {},
+	},
+	[690251]={
+		equipid = 690251,
+		needItem = {{type=1,id=690241,count=5}},
+		costItem = {{type=1,id=368005,count=500}},
+	},
+	[690252]={
+		equipid = 690252,
+		needItem = {{type=1,id=690242,count=5}},
+		costItem = {{type=1,id=368005,count=500}},
+	},
+	[690253]={
+		equipid = 690253,
+		needItem = {{type=1,id=690243,count=5}},
+		costItem = {{type=1,id=368005,count=500}},
+	},
+	[690254]={
+		equipid = 690254,
+		needItem = {{type=1,id=690244,count=5}},
+		costItem = {{type=1,id=368005,count=500}},
+	},
+	[690261]={
+		equipid = 690261,
+		needItem = {{type=1,id=690251,count=5}},
+		costItem = {{type=1,id=368006,count=1000}},
+	},
+	[690262]={
+		equipid = 690262,
+		needItem = {{type=1,id=690252,count=5}},
+		costItem = {{type=1,id=368006,count=1000}},
+	},
+	[690263]={
+		equipid = 690263,
+		needItem = {{type=1,id=690253,count=5}},
+		costItem = {{type=1,id=368006,count=1000}},
+	},
+	[690264]={
+		equipid = 690264,
+		needItem = {{type=1,id=690254,count=5}},
+		costItem = {{type=1,id=368006,count=1000}},
+	},
+	[690271]={
+		equipid = 690271,
+		needItem = {{type=1,id=690261,count=5}},
+		costItem = {{type=1,id=368006,count=3000}},
+	},
+	[690272]={
+		equipid = 690272,
+		needItem = {{type=1,id=690262,count=5}},
+		costItem = {{type=1,id=368006,count=3000}},
+	},
+	[690273]={
+		equipid = 690273,
+		needItem = {{type=1,id=690263,count=5}},
+		costItem = {{type=1,id=368006,count=3000}},
+	},
+	[690274]={
+		equipid = 690274,
+		needItem = {{type=1,id=690264,count=5}},
+		costItem = {{type=1,id=368006,count=3000}},
+	},
+	[690281]={
+		equipid = 690281,
+		needItem = {{type=1,id=690271,count=5}},
+		costItem = {{type=1,id=368006,count=10000}},
+	},
+	[690282]={
+		equipid = 690282,
+		needItem = {{type=1,id=690272,count=5}},
+		costItem = {{type=1,id=368006,count=10000}},
+	},
+	[690283]={
+		equipid = 690283,
+		needItem = {{type=1,id=690273,count=5}},
+		costItem = {{type=1,id=368006,count=10000}},
+	},
+	[690284]={
+		equipid = 690284,
+		needItem = {{type=1,id=690274,count=5}},
+		costItem = {{type=1,id=368006,count=10000}},
+	},
+	[690291]={
+		equipid = 690291,
+		needItem = {{type=1,id=690281,count=5}},
+		costItem = {{type=1,id=368006,count=30000}},
+	},
+	[690292]={
+		equipid = 690292,
+		needItem = {{type=1,id=690282,count=5}},
+		costItem = {{type=1,id=368006,count=30000}},
+	},
+	[690293]={
+		equipid = 690293,
+		needItem = {{type=1,id=690283,count=5}},
+		costItem = {{type=1,id=368006,count=30000}},
+	},
+	[690294]={
+		equipid = 690294,
+		needItem = {{type=1,id=690284,count=5}},
+		costItem = {{type=1,id=368006,count=30000}},
+	},
+	[690311]={
+		equipid = 690311,
+		needItem = {{type=1,id=690301,count=5}},
+		costItem = {},
+	},
+	[690312]={
+		equipid = 690312,
+		needItem = {{type=1,id=690302,count=5}},
+		costItem = {},
+	},
+	[690313]={
+		equipid = 690313,
+		needItem = {{type=1,id=690303,count=5}},
+		costItem = {},
+	},
+	[690314]={
+		equipid = 690314,
+		needItem = {{type=1,id=690304,count=5}},
+		costItem = {},
+	},
+	[690321]={
+		equipid = 690321,
+		needItem = {{type=1,id=690311,count=5}},
+		costItem = {},
+	},
+	[690322]={
+		equipid = 690322,
+		needItem = {{type=1,id=690312,count=5}},
+		costItem = {},
+	},
+	[690323]={
+		equipid = 690323,
+		needItem = {{type=1,id=690313,count=5}},
+		costItem = {},
+	},
+	[690324]={
+		equipid = 690324,
+		needItem = {{type=1,id=690314,count=5}},
+		costItem = {},
+	},
+	[690331]={
+		equipid = 690331,
+		needItem = {{type=1,id=690321,count=5}},
+		costItem = {},
+	},
+	[690332]={
+		equipid = 690332,
+		needItem = {{type=1,id=690322,count=5}},
+		costItem = {},
+	},
+	[690333]={
+		equipid = 690333,
+		needItem = {{type=1,id=690323,count=5}},
+		costItem = {},
+	},
+	[690334]={
+		equipid = 690334,
+		needItem = {{type=1,id=690324,count=5}},
+		costItem = {},
+	},
+	[690341]={
+		equipid = 690341,
+		needItem = {{type=1,id=690331,count=5}},
+		costItem = {},
+	},
+	[690342]={
+		equipid = 690342,
+		needItem = {{type=1,id=690332,count=5}},
+		costItem = {},
+	},
+	[690343]={
+		equipid = 690343,
+		needItem = {{type=1,id=690333,count=5}},
+		costItem = {},
+	},
+	[690344]={
+		equipid = 690344,
+		needItem = {{type=1,id=690334,count=5}},
+		costItem = {},
+	},
+	[690351]={
+		equipid = 690351,
+		needItem = {{type=1,id=690341,count=5}},
+		costItem = {{type=1,id=368007,count=500}},
+	},
+	[690352]={
+		equipid = 690352,
+		needItem = {{type=1,id=690342,count=5}},
+		costItem = {{type=1,id=368007,count=500}},
+	},
+	[690353]={
+		equipid = 690353,
+		needItem = {{type=1,id=690343,count=5}},
+		costItem = {{type=1,id=368007,count=500}},
+	},
+	[690354]={
+		equipid = 690354,
+		needItem = {{type=1,id=690344,count=5}},
+		costItem = {{type=1,id=368007,count=500}},
+	},
+	[690361]={
+		equipid = 690361,
+		needItem = {{type=1,id=690351,count=5}},
+		costItem = {{type=1,id=368008,count=1000}},
+	},
+	[690362]={
+		equipid = 690362,
+		needItem = {{type=1,id=690352,count=5}},
+		costItem = {{type=1,id=368008,count=1000}},
+	},
+	[690363]={
+		equipid = 690363,
+		needItem = {{type=1,id=690353,count=5}},
+		costItem = {{type=1,id=368008,count=1000}},
+	},
+	[690364]={
+		equipid = 690364,
+		needItem = {{type=1,id=690354,count=5}},
+		costItem = {{type=1,id=368008,count=1000}},
+	},
+	[690371]={
+		equipid = 690371,
+		needItem = {{type=1,id=690361,count=5}},
+		costItem = {{type=1,id=368008,count=3000}},
+	},
+	[690372]={
+		equipid = 690372,
+		needItem = {{type=1,id=690362,count=5}},
+		costItem = {{type=1,id=368008,count=3000}},
+	},
+	[690373]={
+		equipid = 690373,
+		needItem = {{type=1,id=690363,count=5}},
+		costItem = {{type=1,id=368008,count=3000}},
+	},
+	[690374]={
+		equipid = 690374,
+		needItem = {{type=1,id=690364,count=5}},
+		costItem = {{type=1,id=368008,count=3000}},
+	},
+	[690381]={
+		equipid = 690381,
+		needItem = {{type=1,id=690371,count=5}},
+		costItem = {{type=1,id=368008,count=10000}},
+	},
+	[690382]={
+		equipid = 690382,
+		needItem = {{type=1,id=690372,count=5}},
+		costItem = {{type=1,id=368008,count=10000}},
+	},
+	[690383]={
+		equipid = 690383,
+		needItem = {{type=1,id=690373,count=5}},
+		costItem = {{type=1,id=368008,count=10000}},
+	},
+	[690384]={
+		equipid = 690384,
+		needItem = {{type=1,id=690374,count=5}},
+		costItem = {{type=1,id=368008,count=10000}},
+	},
+	[690391]={
+		equipid = 690391,
+		needItem = {{type=1,id=690381,count=5}},
+		costItem = {{type=1,id=368008,count=30000}},
+	},
+	[690392]={
+		equipid = 690392,
+		needItem = {{type=1,id=690382,count=5}},
+		costItem = {{type=1,id=368008,count=30000}},
+	},
+	[690393]={
+		equipid = 690393,
+		needItem = {{type=1,id=690383,count=5}},
+		costItem = {{type=1,id=368008,count=30000}},
+	},
+	[690394]={
+		equipid = 690394,
+		needItem = {{type=1,id=690384,count=5}},
+		costItem = {{type=1,id=368008,count=30000}},
+	},
+	[690411]={
+		equipid = 690411,
+		needItem = {{type=1,id=690401,count=5}},
+		costItem = {},
+	},
+	[690412]={
+		equipid = 690412,
+		needItem = {{type=1,id=690402,count=5}},
+		costItem = {},
+	},
+	[690413]={
+		equipid = 690413,
+		needItem = {{type=1,id=690403,count=5}},
+		costItem = {},
+	},
+	[690414]={
+		equipid = 690414,
+		needItem = {{type=1,id=690404,count=5}},
+		costItem = {},
+	},
+	[690421]={
+		equipid = 690421,
+		needItem = {{type=1,id=690411,count=5}},
+		costItem = {},
+	},
+	[690422]={
+		equipid = 690422,
+		needItem = {{type=1,id=690412,count=5}},
+		costItem = {},
+	},
+	[690423]={
+		equipid = 690423,
+		needItem = {{type=1,id=690413,count=5}},
+		costItem = {},
+	},
+	[690424]={
+		equipid = 690424,
+		needItem = {{type=1,id=690414,count=5}},
+		costItem = {},
+	},
+	[690431]={
+		equipid = 690431,
+		needItem = {{type=1,id=690421,count=5}},
+		costItem = {},
+	},
+	[690432]={
+		equipid = 690432,
+		needItem = {{type=1,id=690422,count=5}},
+		costItem = {},
+	},
+	[690433]={
+		equipid = 690433,
+		needItem = {{type=1,id=690423,count=5}},
+		costItem = {},
+	},
+	[690434]={
+		equipid = 690434,
+		needItem = {{type=1,id=690424,count=5}},
+		costItem = {},
+	},
+	[690441]={
+		equipid = 690441,
+		needItem = {{type=1,id=690431,count=5}},
+		costItem = {},
+	},
+	[690442]={
+		equipid = 690442,
+		needItem = {{type=1,id=690432,count=5}},
+		costItem = {},
+	},
+	[690443]={
+		equipid = 690443,
+		needItem = {{type=1,id=690433,count=5}},
+		costItem = {},
+	},
+	[690444]={
+		equipid = 690444,
+		needItem = {{type=1,id=690434,count=5}},
+		costItem = {},
+	},
+	[690451]={
+		equipid = 690451,
+		needItem = {{type=1,id=690441,count=5}},
+		costItem = {{type=1,id=368009,count=500}},
+	},
+	[690452]={
+		equipid = 690452,
+		needItem = {{type=1,id=690442,count=5}},
+		costItem = {{type=1,id=368009,count=500}},
+	},
+	[690453]={
+		equipid = 690453,
+		needItem = {{type=1,id=690443,count=5}},
+		costItem = {{type=1,id=368009,count=500}},
+	},
+	[690454]={
+		equipid = 690454,
+		needItem = {{type=1,id=690444,count=5}},
+		costItem = {{type=1,id=368009,count=500}},
+	},
+	[690461]={
+		equipid = 690461,
+		needItem = {{type=1,id=690451,count=5}},
+		costItem = {{type=1,id=368010,count=1000}},
+	},
+	[690462]={
+		equipid = 690462,
+		needItem = {{type=1,id=690452,count=5}},
+		costItem = {{type=1,id=368010,count=1000}},
+	},
+	[690463]={
+		equipid = 690463,
+		needItem = {{type=1,id=690453,count=5}},
+		costItem = {{type=1,id=368010,count=1000}},
+	},
+	[690464]={
+		equipid = 690464,
+		needItem = {{type=1,id=690454,count=5}},
+		costItem = {{type=1,id=368010,count=1000}},
+	},
+	[690471]={
+		equipid = 690471,
+		needItem = {{type=1,id=690461,count=5}},
+		costItem = {{type=1,id=368010,count=3000}},
+	},
+	[690472]={
+		equipid = 690472,
+		needItem = {{type=1,id=690462,count=5}},
+		costItem = {{type=1,id=368010,count=3000}},
+	},
+	[690473]={
+		equipid = 690473,
+		needItem = {{type=1,id=690463,count=5}},
+		costItem = {{type=1,id=368010,count=3000}},
+	},
+	[690474]={
+		equipid = 690474,
+		needItem = {{type=1,id=690464,count=5}},
+		costItem = {{type=1,id=368010,count=3000}},
+	},
+	[690481]={
+		equipid = 690481,
+		needItem = {{type=1,id=690471,count=5}},
+		costItem = {{type=1,id=368010,count=10000}},
+	},
+	[690482]={
+		equipid = 690482,
+		needItem = {{type=1,id=690472,count=5}},
+		costItem = {{type=1,id=368010,count=10000}},
+	},
+	[690483]={
+		equipid = 690483,
+		needItem = {{type=1,id=690473,count=5}},
+		costItem = {{type=1,id=368010,count=10000}},
+	},
+	[690484]={
+		equipid = 690484,
+		needItem = {{type=1,id=690474,count=5}},
+		costItem = {{type=1,id=368010,count=10000}},
+	},
+	[690491]={
+		equipid = 690491,
+		needItem = {{type=1,id=690481,count=5}},
+		costItem = {{type=1,id=368010,count=30000}},
+	},
+	[690492]={
+		equipid = 690492,
+		needItem = {{type=1,id=690482,count=5}},
+		costItem = {{type=1,id=368010,count=30000}},
+	},
+	[690493]={
+		equipid = 690493,
+		needItem = {{type=1,id=690483,count=5}},
+		costItem = {{type=1,id=368010,count=30000}},
+	},
+	[690494]={
+		equipid = 690494,
+		needItem = {{type=1,id=690484,count=5}},
+		costItem = {{type=1,id=368010,count=30000}},
+	},
+	[690511]={
+		equipid = 690511,
+		needItem = {{type=1,id=690501,count=5}},
+		costItem = {},
+	},
+	[690512]={
+		equipid = 690512,
+		needItem = {{type=1,id=690502,count=5}},
+		costItem = {},
+	},
+	[690513]={
+		equipid = 690513,
+		needItem = {{type=1,id=690503,count=5}},
+		costItem = {},
+	},
+	[690514]={
+		equipid = 690514,
+		needItem = {{type=1,id=690504,count=5}},
+		costItem = {},
+	},
+	[690521]={
+		equipid = 690521,
+		needItem = {{type=1,id=690511,count=5}},
+		costItem = {},
+	},
+	[690522]={
+		equipid = 690522,
+		needItem = {{type=1,id=690512,count=5}},
+		costItem = {},
+	},
+	[690523]={
+		equipid = 690523,
+		needItem = {{type=1,id=690513,count=5}},
+		costItem = {},
+	},
+	[690524]={
+		equipid = 690524,
+		needItem = {{type=1,id=690514,count=5}},
+		costItem = {},
+	},
+	[690531]={
+		equipid = 690531,
+		needItem = {{type=1,id=690521,count=5}},
+		costItem = {},
+	},
+	[690532]={
+		equipid = 690532,
+		needItem = {{type=1,id=690522,count=5}},
+		costItem = {},
+	},
+	[690533]={
+		equipid = 690533,
+		needItem = {{type=1,id=690523,count=5}},
+		costItem = {},
+	},
+	[690534]={
+		equipid = 690534,
+		needItem = {{type=1,id=690524,count=5}},
+		costItem = {},
+	},
+	[690541]={
+		equipid = 690541,
+		needItem = {{type=1,id=690531,count=5}},
+		costItem = {},
+	},
+	[690542]={
+		equipid = 690542,
+		needItem = {{type=1,id=690532,count=5}},
+		costItem = {},
+	},
+	[690543]={
+		equipid = 690543,
+		needItem = {{type=1,id=690533,count=5}},
+		costItem = {},
+	},
+	[690544]={
+		equipid = 690544,
+		needItem = {{type=1,id=690534,count=5}},
+		costItem = {},
+	},
+	[690551]={
+		equipid = 690551,
+		needItem = {{type=1,id=690541,count=5}},
+		costItem = {{type=1,id=368011,count=500}},
+	},
+	[690552]={
+		equipid = 690552,
+		needItem = {{type=1,id=690542,count=5}},
+		costItem = {{type=1,id=368011,count=500}},
+	},
+	[690553]={
+		equipid = 690553,
+		needItem = {{type=1,id=690543,count=5}},
+		costItem = {{type=1,id=368011,count=500}},
+	},
+	[690554]={
+		equipid = 690554,
+		needItem = {{type=1,id=690544,count=5}},
+		costItem = {{type=1,id=368011,count=500}},
+	},
+	[690561]={
+		equipid = 690561,
+		needItem = {{type=1,id=690551,count=5}},
+		costItem = {{type=1,id=368012,count=1000}},
+	},
+	[690562]={
+		equipid = 690562,
+		needItem = {{type=1,id=690552,count=5}},
+		costItem = {{type=1,id=368012,count=1000}},
+	},
+	[690563]={
+		equipid = 690563,
+		needItem = {{type=1,id=690553,count=5}},
+		costItem = {{type=1,id=368012,count=1000}},
+	},
+	[690564]={
+		equipid = 690564,
+		needItem = {{type=1,id=690554,count=5}},
+		costItem = {{type=1,id=368012,count=1000}},
+	},
+	[690571]={
+		equipid = 690571,
+		needItem = {{type=1,id=690561,count=5}},
+		costItem = {{type=1,id=368012,count=3000}},
+	},
+	[690572]={
+		equipid = 690572,
+		needItem = {{type=1,id=690562,count=5}},
+		costItem = {{type=1,id=368012,count=3000}},
+	},
+	[690573]={
+		equipid = 690573,
+		needItem = {{type=1,id=690563,count=5}},
+		costItem = {{type=1,id=368012,count=3000}},
+	},
+	[690574]={
+		equipid = 690574,
+		needItem = {{type=1,id=690564,count=5}},
+		costItem = {{type=1,id=368012,count=3000}},
+	},
+	[690581]={
+		equipid = 690581,
+		needItem = {{type=1,id=690571,count=5}},
+		costItem = {{type=1,id=368012,count=10000}},
+	},
+	[690582]={
+		equipid = 690582,
+		needItem = {{type=1,id=690572,count=5}},
+		costItem = {{type=1,id=368012,count=10000}},
+	},
+	[690583]={
+		equipid = 690583,
+		needItem = {{type=1,id=690573,count=5}},
+		costItem = {{type=1,id=368012,count=10000}},
+	},
+	[690584]={
+		equipid = 690584,
+		needItem = {{type=1,id=690574,count=5}},
+		costItem = {{type=1,id=368012,count=10000}},
+	},
+	[690591]={
+		equipid = 690591,
+		needItem = {{type=1,id=690581,count=5}},
+		costItem = {{type=1,id=368012,count=30000}},
+	},
+	[690592]={
+		equipid = 690592,
+		needItem = {{type=1,id=690582,count=5}},
+		costItem = {{type=1,id=368012,count=30000}},
+	},
+	[690593]={
+		equipid = 690593,
+		needItem = {{type=1,id=690583,count=5}},
+		costItem = {{type=1,id=368012,count=30000}},
+	},
+	[690594]={
+		equipid = 690594,
+		needItem = {{type=1,id=690584,count=5}},
+		costItem = {{type=1,id=368012,count=30000}},
+	},
+	[690611]={
+		equipid = 690611,
+		needItem = {{type=1,id=690601,count=5}},
+		costItem = {},
+	},
+	[690612]={
+		equipid = 690612,
+		needItem = {{type=1,id=690602,count=5}},
+		costItem = {},
+	},
+	[690613]={
+		equipid = 690613,
+		needItem = {{type=1,id=690603,count=5}},
+		costItem = {},
+	},
+	[690614]={
+		equipid = 690614,
+		needItem = {{type=1,id=690604,count=5}},
+		costItem = {},
+	},
+	[690621]={
+		equipid = 690621,
+		needItem = {{type=1,id=690611,count=5}},
+		costItem = {},
+	},
+	[690622]={
+		equipid = 690622,
+		needItem = {{type=1,id=690612,count=5}},
+		costItem = {},
+	},
+	[690623]={
+		equipid = 690623,
+		needItem = {{type=1,id=690613,count=5}},
+		costItem = {},
+	},
+	[690624]={
+		equipid = 690624,
+		needItem = {{type=1,id=690614,count=5}},
+		costItem = {},
+	},
+	[690631]={
+		equipid = 690631,
+		needItem = {{type=1,id=690621,count=5}},
+		costItem = {},
+	},
+	[690632]={
+		equipid = 690632,
+		needItem = {{type=1,id=690622,count=5}},
+		costItem = {},
+	},
+	[690633]={
+		equipid = 690633,
+		needItem = {{type=1,id=690623,count=5}},
+		costItem = {},
+	},
+	[690634]={
+		equipid = 690634,
+		needItem = {{type=1,id=690624,count=5}},
+		costItem = {},
+	},
+	[690641]={
+		equipid = 690641,
+		needItem = {{type=1,id=690631,count=5}},
+		costItem = {},
+	},
+	[690642]={
+		equipid = 690642,
+		needItem = {{type=1,id=690632,count=5}},
+		costItem = {},
+	},
+	[690643]={
+		equipid = 690643,
+		needItem = {{type=1,id=690633,count=5}},
+		costItem = {},
+	},
+	[690644]={
+		equipid = 690644,
+		needItem = {{type=1,id=690634,count=5}},
+		costItem = {},
+	},
+	[690651]={
+		equipid = 690651,
+		needItem = {{type=1,id=690641,count=5}},
+		costItem = {{type=1,id=368013,count=500}},
+	},
+	[690652]={
+		equipid = 690652,
+		needItem = {{type=1,id=690642,count=5}},
+		costItem = {{type=1,id=368013,count=500}},
+	},
+	[690653]={
+		equipid = 690653,
+		needItem = {{type=1,id=690643,count=5}},
+		costItem = {{type=1,id=368013,count=500}},
+	},
+	[690654]={
+		equipid = 690654,
+		needItem = {{type=1,id=690644,count=5}},
+		costItem = {{type=1,id=368013,count=500}},
+	},
+	[690661]={
+		equipid = 690661,
+		needItem = {{type=1,id=690651,count=5}},
+		costItem = {{type=1,id=368014,count=1000}},
+	},
+	[690662]={
+		equipid = 690662,
+		needItem = {{type=1,id=690652,count=5}},
+		costItem = {{type=1,id=368014,count=1000}},
+	},
+	[690663]={
+		equipid = 690663,
+		needItem = {{type=1,id=690653,count=5}},
+		costItem = {{type=1,id=368014,count=1000}},
+	},
+	[690664]={
+		equipid = 690664,
+		needItem = {{type=1,id=690654,count=5}},
+		costItem = {{type=1,id=368014,count=1000}},
+	},
+	[690671]={
+		equipid = 690671,
+		needItem = {{type=1,id=690661,count=5}},
+		costItem = {{type=1,id=368014,count=3000}},
+	},
+	[690672]={
+		equipid = 690672,
+		needItem = {{type=1,id=690662,count=5}},
+		costItem = {{type=1,id=368014,count=3000}},
+	},
+	[690673]={
+		equipid = 690673,
+		needItem = {{type=1,id=690663,count=5}},
+		costItem = {{type=1,id=368014,count=3000}},
+	},
+	[690674]={
+		equipid = 690674,
+		needItem = {{type=1,id=690664,count=5}},
+		costItem = {{type=1,id=368014,count=3000}},
+	},
+	[690681]={
+		equipid = 690681,
+		needItem = {{type=1,id=690671,count=5}},
+		costItem = {{type=1,id=368014,count=10000}},
+	},
+	[690682]={
+		equipid = 690682,
+		needItem = {{type=1,id=690672,count=5}},
+		costItem = {{type=1,id=368014,count=10000}},
+	},
+	[690683]={
+		equipid = 690683,
+		needItem = {{type=1,id=690673,count=5}},
+		costItem = {{type=1,id=368014,count=10000}},
+	},
+	[690684]={
+		equipid = 690684,
+		needItem = {{type=1,id=690674,count=5}},
+		costItem = {{type=1,id=368014,count=10000}},
+	},
+	[690691]={
+		equipid = 690691,
+		needItem = {{type=1,id=690681,count=5}},
+		costItem = {{type=1,id=368014,count=30000}},
+	},
+	[690692]={
+		equipid = 690692,
+		needItem = {{type=1,id=690682,count=5}},
+		costItem = {{type=1,id=368014,count=30000}},
+	},
+	[690693]={
+		equipid = 690693,
+		needItem = {{type=1,id=690683,count=5}},
+		costItem = {{type=1,id=368014,count=30000}},
+	},
+	[690694]={
+		equipid = 690694,
+		needItem = {{type=1,id=690684,count=5}},
+		costItem = {{type=1,id=368014,count=30000}},
+	},
+}

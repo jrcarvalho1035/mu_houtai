@@ -1,0 +1,21 @@
+-- from mine.xlsx 水晶矿基础 
+MineCommonConfig={
+	number = 10,
+	prices = {100,200,300},
+	count = 3,
+	rob = 5,
+	berob = 3,
+	unitPrice = 3,
+	lot = 1000,
+	consume = {0,100},
+	fbId = 81001,
+	pkfbId = 81002,
+	doublePrice = 1000,
+	myPos = {[1]={27,14},[2]={27,16}},
+	tarPos = {[1]={36,14},[2]={36,16}},
+	jobAi = {[1] = 1, [2] = 2, [3] = 3},
+	damonAi = 30000,
+	bindEffectId = 30001,
+	extraEffectIds = {31001,31002,31003},
+	fightCountDown = 5,
+}

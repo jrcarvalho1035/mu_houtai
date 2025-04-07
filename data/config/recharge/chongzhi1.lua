@@ -1,0 +1,163 @@
+-- from recharge.xlsx 每日首充 
+ChongZhi1Config={
+	[1]={
+	[1]={
+		day = 1,
+		index = 1,
+		pay = 600,
+		awardList = {{type=1,id=310079,count=1},{type=1,id=1051001,count=25},{type=1,id=310001,count=1000},{type=0,id=27,count=800000},},
+	},
+	[2]={
+		day = 1,
+		index = 2,
+		pay = 3000,
+		awardList = {{type=1,id=1051103,count=1},{type=1,id=1051001,count=30},{type=1,id=340010,count=8},{type=1,id=1051004,count=1},},
+	},
+	[3]={
+		day = 1,
+		index = 3,
+		pay = 9800,
+		awardList = {{type=1,id=1051104,count=1},{type=1,id=310303,count=1},{type=1,id=1051001,count=40},{type=1,id=1051005,count=1},},
+	},
+	},
+	[2]={
+	[1]={
+		day = 2,
+		index = 1,
+		pay = 600,
+		awardList = {{type=1,id=310079,count=1},{type=1,id=1061001,count=25},{type=1,id=310001,count=1000},{type=0,id=27,count=800000},},
+	},
+	[2]={
+		day = 2,
+		index = 2,
+		pay = 3000,
+		awardList = {{type=1,id=1061103,count=1},{type=1,id=1061001,count=30},{type=1,id=340010,count=8},{type=1,id=1061004,count=1},},
+	},
+	[3]={
+		day = 2,
+		index = 3,
+		pay = 9800,
+		awardList = {{type=1,id=1061104,count=1},{type=1,id=310403,count=1},{type=1,id=1061001,count=40},{type=1,id=1061005,count=1},},
+	},
+	},
+	[3]={
+	[1]={
+		day = 3,
+		index = 1,
+		pay = 600,
+		awardList = {{type=1,id=310079,count=1},{type=1,id=1010000,count=25},{type=1,id=310001,count=1000},{type=0,id=27,count=800000},},
+	},
+	[2]={
+		day = 3,
+		index = 2,
+		pay = 3000,
+		awardList = {{type=1,id=1010105,count=1},{type=1,id=1010000,count=30},{type=1,id=340010,count=8},{type=1,id=1010402,count=1},},
+	},
+	[3]={
+		day = 3,
+		index = 3,
+		pay = 9800,
+		awardList = {{type=1,id=1010107,count=1},{type=1,id=310303,count=1},{type=1,id=1010000,count=40},{type=1,id=1010403,count=1},},
+	},
+	},
+	[4]={
+	[1]={
+		day = 4,
+		index = 1,
+		pay = 600,
+		awardList = {{type=1,id=310079,count=1},{type=1,id=1081000,count=25},{type=1,id=310001,count=1000},{type=0,id=27,count=800000},},
+	},
+	[2]={
+		day = 4,
+		index = 2,
+		pay = 3000,
+		awardList = {{type=1,id=1081005,count=1},{type=1,id=1081000,count=30},{type=1,id=340010,count=8},{type=1,id=1081402,count=1},},
+	},
+	[3]={
+		day = 4,
+		index = 3,
+		pay = 9800,
+		awardList = {{type=1,id=1081007,count=1},{type=1,id=310403,count=1},{type=1,id=1081000,count=40},{type=1,id=1081403,count=1},},
+	},
+	},
+	[5]={
+	[1]={
+		day = 5,
+		index = 1,
+		pay = 600,
+		awardList = {{type=1,id=310079,count=1},{type=1,id=1071001,count=25},{type=1,id=310001,count=1000},{type=0,id=27,count=800000},},
+	},
+	[2]={
+		day = 5,
+		index = 2,
+		pay = 3000,
+		awardList = {{type=1,id=1071103,count=1},{type=1,id=1071001,count=30},{type=1,id=340010,count=8},{type=1,id=1071004,count=1},},
+	},
+	[3]={
+		day = 5,
+		index = 3,
+		pay = 9800,
+		awardList = {{type=1,id=1071104,count=1},{type=1,id=310303,count=1},{type=1,id=1071001,count=40},{type=1,id=1071005,count=1},},
+	},
+	},
+	[6]={
+	[1]={
+		day = 6,
+		index = 1,
+		pay = 600,
+		awardList = {{type=1,id=310079,count=1},{type=1,id=1082000,count=25},{type=1,id=310001,count=1000},{type=0,id=27,count=800000},},
+	},
+	[2]={
+		day = 6,
+		index = 2,
+		pay = 3000,
+		awardList = {{type=1,id=1082005,count=1},{type=1,id=1082000,count=30},{type=1,id=340010,count=8},{type=1,id=1081502,count=1},},
+	},
+	[3]={
+		day = 6,
+		index = 3,
+		pay = 9800,
+		awardList = {{type=1,id=1082007,count=1},{type=1,id=310403,count=1},{type=1,id=1082000,count=40},{type=1,id=1081503,count=1},},
+	},
+	},
+	[7]={
+	[1]={
+		day = 7,
+		index = 1,
+		pay = 600,
+		awardList = {{type=1,id=310079,count=1},{type=1,id=1083000,count=25},{type=1,id=310001,count=1000},{type=0,id=27,count=800000},},
+	},
+	[2]={
+		day = 7,
+		index = 2,
+		pay = 3000,
+		awardList = {{type=1,id=1083005,count=1},{type=1,id=1083000,count=30},{type=1,id=340010,count=8},{type=1,id=1081602,count=1},},
+	},
+	[3]={
+		day = 7,
+		index = 3,
+		pay = 9800,
+		awardList = {{type=1,id=1083007,count=1},{type=1,id=310303,count=1},{type=1,id=1083000,count=40},{type=1,id=1081603,count=1},},
+	},
+	},
+	[8]={
+	[1]={
+		day = 8,
+		index = 1,
+		pay = 600,
+		awardList = {{type=1,id=310079,count=1},{type=1,id=1000001,count=2},{type=1,id=310005,count=10},{type=0,id=13,count=1000},},
+	},
+	[2]={
+		day = 8,
+		index = 2,
+		pay = 3000,
+		awardList = {{type=1,id=310080,count=1},{type=1,id=1000002,count=2},{type=1,id=310006,count=10},{type=1,id=310019,count=10},},
+	},
+	[3]={
+		day = 8,
+		index = 3,
+		pay = 9800,
+		awardList = {{type=1,id=310081,count=1},{type=1,id=310303,count=1},{type=1,id=1000003,count=2},{type=1,id=310006,count=40},},
+	},
+	},
+}

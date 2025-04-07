@@ -1,0 +1,107 @@
+-- from funben_zhuzai.xlsx boss血量成长 
+ZhuZaiGrewConfig={
+	[1]={
+	[1]={
+		zhuzaiid = 1,
+		index = 1,
+		costTime = 60,
+		grewLevel = 40,
+	},
+	[2]={
+		zhuzaiid = 1,
+		index = 2,
+		costTime = 120,
+		grewLevel = 30,
+	},
+	[3]={
+		zhuzaiid = 1,
+		index = 3,
+		costTime = 180,
+		grewLevel = 20,
+	},
+	[4]={
+		zhuzaiid = 1,
+		index = 4,
+		costTime = 240,
+		grewLevel = 10,
+	},
+	},
+	[2]={
+	[1]={
+		zhuzaiid = 2,
+		index = 1,
+		costTime = 60,
+		grewLevel = 40,
+	},
+	[2]={
+		zhuzaiid = 2,
+		index = 2,
+		costTime = 120,
+		grewLevel = 30,
+	},
+	[3]={
+		zhuzaiid = 2,
+		index = 3,
+		costTime = 180,
+		grewLevel = 20,
+	},
+	[4]={
+		zhuzaiid = 2,
+		index = 4,
+		costTime = 240,
+		grewLevel = 10,
+	},
+	},
+	[3]={
+	[1]={
+		zhuzaiid = 3,
+		index = 1,
+		costTime = 60,
+		grewLevel = 40,
+	},
+	[2]={
+		zhuzaiid = 3,
+		index = 2,
+		costTime = 120,
+		grewLevel = 30,
+	},
+	[3]={
+		zhuzaiid = 3,
+		index = 3,
+		costTime = 180,
+		grewLevel = 20,
+	},
+	[4]={
+		zhuzaiid = 3,
+		index = 4,
+		costTime = 240,
+		grewLevel = 10,
+	},
+	},
+	[4]={
+	[1]={
+		zhuzaiid = 4,
+		index = 1,
+		costTime = 60,
+		grewLevel = 40,
+	},
+	[2]={
+		zhuzaiid = 4,
+		index = 2,
+		costTime = 120,
+		grewLevel = 30,
+	},
+	[3]={
+		zhuzaiid = 4,
+		index = 3,
+		costTime = 180,
+		grewLevel = 20,
+	},
+	[4]={
+		zhuzaiid = 4,
+		index = 4,
+		costTime = 240,
+		grewLevel = 10,
+	},
+	},
+}

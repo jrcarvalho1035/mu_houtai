@@ -1,0 +1,277 @@
+-- @version 1.0
+-- @author  qianmeng
+-- @date    2017-7-5 20:10:58.
+-- @system  配置检测系统
+
+module("checkexcel",package.seeall)
+require("checkexcel.ckcom")
+require("checkexcel.ckactivity")
+require("checkexcel.cktype1")
+require("checkexcel.cktype2")
+require("checkexcel.cktype3")
+require("checkexcel.cktype4")
+require("checkexcel.cktype5")
+require("checkexcel.cktype11")
+require("checkexcel.cktype12")
+require("checkexcel.cktype14")
+require("checkexcel.cktype15")
+require("checkexcel.cktype16")
+require("checkexcel.cktype17")
+require("checkexcel.cktype18")
+require("checkexcel.cktype19")
+--require("checkexcel.ckfund")
+require("checkexcel.ckaiconfig")
+require("checkexcel.ckbagvip")
+require("checkexcel.ckchallengefuben")
+require("checkexcel.ckdailyfuben")
+require("checkexcel.ckdamon")
+require("checkexcel.ckdamonlevel")
+require("checkexcel.ckdamonformation")
+require("checkexcel.ckdamonlottery")
+require("checkexcel.ckdropgroup")
+require("checkexcel.ckdroptable")
+require("checkexcel.ckelement")
+require("checkexcel.ckelementlevel")
+require("checkexcel.ckelementlibrary")
+require("checkexcel.ckenhanceadd")
+require("checkexcel.ckexcellentadd")
+require("checkexcel.ckenhanceattr")
+require("checkexcel.ckenhancecost")
+require("checkexcel.ckappendattr")
+require("checkexcel.ckappendcost")
+require("checkexcel.ckculturepos")
+require("checkexcel.ckculturetype")
+require("checkexcel.cksuitattr")
+require("checkexcel.ckgodequipattr")
+require("checkexcel.ckgodwake")
+require("checkexcel.ckgodwakeadd")
+require("checkexcel.ckgodwakestar")
+require("checkexcel.ckenchantattr")
+require("checkexcel.ckenchantchange")
+require("checkexcel.cktianmoattr")
+require("checkexcel.cktianmorank")
+require("checkexcel.ckpurifyattr")
+require("checkexcel.ckpurifyextra")
+require("checkexcel.ckstone")
+require("checkexcel.ckstoneadd")
+require("checkexcel.ckfootlevel")
+require("checkexcel.ckfootstage")
+require("checkexcel.ckfruitconfig")
+require("checkexcel.ckfruitgroupconfig")
+require("checkexcel.ckfuben")
+require("checkexcel.ckdevilfuben")
+require("checkexcel.ckdevilinspire")
+require("checkexcel.ckheianfuben")
+require("checkexcel.ckrelicfuben")
+require("checkexcel.ckrelicshop")
+require("checkexcel.ckrelicreward")
+require("checkexcel.ckxuesefuben")
+require("checkexcel.ckxueseinspire")
+require("checkexcel.ckjjcaward")
+require("checkexcel.ckjjcrobot")
+require("checkexcel.cklimit")
+require("checkexcel.ckloginrewards")
+require("checkexcel.ckworship")
+require("checkexcel.ckfirstrecharge")
+require("checkexcel.ckrefreshmonsters")
+require("checkexcel.ckdespairbossdata")
+require("checkexcel.ckskill")
+require("checkexcel.ckstarsoul_level")
+require("checkexcel.cktaletlevelconfig")
+--require("checkexcel.ckdaily")
+--require("checkexcel.ckdailyaward")
+require("checkexcel.cklooptask")
+require("checkexcel.ckmaintask")
+require("checkexcel.ckachievement")
+require("checkexcel.ckghostlevel")
+require("checkexcel.ckmonsterconfig")
+require("checkexcel.cksceneconfig")
+require("checkexcel.ckangelstar")
+require("checkexcel.ckvip")
+require("checkexcel.ckway")
+require("checkexcel.ckwingstar")
+require("checkexcel.ckzhuansheng")
+require("checkexcel.ckarchangel")
+require("checkexcel.ckbanner")
+require("checkexcel.ckbosshomefuben")
+require("checkexcel.cktanmiceil")
+require("checkexcel.cktanmifloor")
+require("checkexcel.cktanmistep")
+require("checkexcel.cktanmimiwen")
+require("checkexcel.cktanmiqizhen")
+require("checkexcel.ckcustomfuben")
+require("checkexcel.ckfortfuben")
+require("checkexcel.ckfortrank")
+require("checkexcel.ckguildboss")
+require("checkexcel.ckguildgift")
+require("checkexcel.ckbookstar")
+require("checkexcel.cktreasure")
+require("checkexcel.ckgatherlevel")
+require("checkexcel.ckgatherextra")
+require("checkexcel.ckshengwuattr")
+require("checkexcel.ckshengwuextra")
+require("checkexcel.ckheart")
+require("checkexcel.ckheartattrplus")
+require("checkexcel.ckbadgetype")
+require("checkexcel.ckbadgechip")
+require("checkexcel.ckbravefuben")
+require("checkexcel.ckbosshomefuben")
+require("checkexcel.ckquaintonfuben")
+require("checkexcel.ckkalimafuben")
+require("checkexcel.ckisland")
+require("checkexcel.ckholylandfuben")
+require("checkexcel.ckmolianfuben")
+require("checkexcel.ckminer")
+require("checkexcel.ckjewellevel")
+require("checkexcel.ckjewelgroup")
+require("checkexcel.ckmountlevel")
+require("checkexcel.ckmountrank")
+require("checkexcel.ckmountgroup")
+require("checkexcel.ckmountequip")
+require("checkexcel.ckmountlottery")
+
+function CheckExcel()
+	print("CheckExcel...");
+	
+	local func = {
+		ckactivity.checkExcel,
+		cktype1.checkExcel,
+		cktype2.checkExcel,
+		cktype3.checkExcel,
+		cktype4.checkExcel,
+		cktype5.checkExcel,
+		cktype11.checkExcel,
+		cktype12.checkExcel,
+		cktype14.checkExcel,
+		cktype15.checkExcel,
+		cktype16.checkExcel,
+		cktype17.checkExcel,
+		cktype18.checkExcel,
+		cktype19.checkExcel,
+		--ckfund.checkExcel,
+		ckaiconfig.checkExcel,
+		ckbagvip.checkExcel,
+		ckchallengefuben.checkExcel,
+		ckdailyfuben.checkExcel,
+		ckdamon.checkExcel,
+		ckdamonlevel.checkExcel,
+		ckdamonformation.checkExcel,
+		ckdamonlottery.checkExcel,
+		ckdropgroup.checkExcel,
+		ckdroptable.checkExcel,
+		ckelement.checkExcel,
+		ckelementlevel.checkExcel,
+		ckelementlibrary.checkExcel,
+		ckenhanceadd.checkExcel,
+		ckexcellentadd.checkExcel,
+		ckenhanceattr.checkExcel,
+		ckenhancecost.checkExcel,
+		ckappendattr.checkExcel,
+		ckappendcost.checkExcel,
+		ckculturepos.checkExcel,
+		ckculturetype.checkExcel,
+		cksuitattr.checkExcel,
+		ckgodequipattr.checkExcel,
+		ckgodwake.checkExcel,
+		ckgodwakeadd.checkExcel,
+		ckgodwakestar.checkExcel,
+		ckenchantattr.checkExcel,
+		ckenchantchange.checkExcel,
+		cktianmoattr.checkExcel,
+		cktianmorank.checkExcel,
+		ckpurifyattr.checkExcel,
+		ckpurifyextra.checkExcel,
+		ckstone.checkExcel,
+		ckstoneadd.checkExcel,
+		ckfootlevel.checkExcel,
+		ckfootstage.checkExcel,
+		ckfruitconfig.checkExcel,
+		ckfruitgroupconfig.checkExcel,
+		ckfuben.checkExcel,
+		ckdevilfuben.checkExcel,
+		ckdevilinspire.checkExcel,
+		ckheianfuben.checkExcel,
+		ckrelicfuben.checkExcel,
+		ckrelicshop.checkExcel,
+		ckrelicreward.checkExcel,
+		ckxuesefuben.checkExcel,
+		ckxueseinspire.checkExcel,
+		ckjjcaward.checkExcel,
+		ckjjcrobot.checkExcel,
+		cklimit.checkExcel,
+		ckloginrewards.checkExcel,
+		ckworship.checkExcel,
+		ckfirstrecharge.checkExcel,
+		ckrefreshmonsters.checkExcel,
+		ckdespairbossdata.checkExcel,
+		ckskill.checkExcel,
+		ckstarsoul_level.checkExcel,
+		cktaletlevelconfig.checkExcel,
+		--ckdaily.checkExcel,
+		--ckdailyaward.checkExcel,
+		cklooptask.checkExcel,
+		ckmaintask.checkExcel,
+		ckachievement.checkExcel,
+		ckghostlevel.checkExcel,
+		ckmonsterconfig.checkExcel,
+		cksceneconfig.checkExcel,
+		ckangelstar.checkExcel,
+		ckvip.checkExcel,
+		ckway.checkExcel,
+		ckwingstar.checkExcel,
+		ckzhuansheng.checkExcel,
+		ckarchangel.checkExcel,
+		ckbanner.checkExcel,
+		ckbanneradd.checkExcel,
+		ckbosshomefuben.checkExcel,
+		cktanmiceil.checkExcel,
+		cktanmifloor.checkExcel,
+		cktanmistep.checkExcel,
+		cktanmimiwen.checkExcel,
+		cktanmiqizhen.checkExcel,
+		ckcustomfuben.checkExcel,
+		ckfortfuben.checkExcel,
+		ckfortrank.checkExcel,
+		ckguildboss.checkExcel,
+		ckguildgift.checkExcel,
+		ckbookstar.checkExcel,
+		cktreasure.checkExcel,
+		ckgatherlevel.checkExcel,
+		ckgatherextra.checkExcel,
+		ckshengwuattr.checkExcel,
+		ckshengwuextra.checkExcel,
+		ckheart.checkExcel,
+		ckheartattrplus.checkExcel,
+		ckbadgetype.checkExcel,
+		ckbadgechip.checkExcel,
+		ckbravefuben.checkExcel,
+		ckbosshomefuben.checkExcel,
+		ckquaintonfuben.checkExcel,
+		ckkalimafuben.checkExcel,
+		ckisland.checkExcel,
+		ckholylandfuben.checkExcel,
+		ckmolianfuben.checkExcel,
+		ckminer.checkExcel,
+		ckjewellevel.checkExcel,
+		ckjewelgroup.checkExcel,
+		ckmountlevel.checkExcel,
+		ckmountrank.checkExcel,
+		ckmountgroup.checkExcel,
+		ckmountequip.checkExcel,
+		ckmountlottery.checkExcel,
+	};
+
+	local ret = true;
+	for k,v in pairs(func) do
+		ret = v() and ret;
+	end
+	return ret;
+end
+
+--CheckExcel()
+
+
+
+
+
+

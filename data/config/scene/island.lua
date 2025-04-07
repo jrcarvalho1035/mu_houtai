@@ -1,0 +1,73 @@
+-- from funben_island.xlsx 恶魔岛副本 
+IslandFubenConfig={
+	[1]={
+		idx = 1,
+		fbId = 85001,
+		bossId = 85019,
+		passRewards = {{type=1,id=310016,count=5},{type=1,id=310017,count=2},{type=1,id=310405,count=6},{type=1,id=360007,count=1},},
+		helpRewards = {{type=1,id=310016,count=1},{type=1,id=310006,count=1}},
+	},
+	[2]={
+		idx = 2,
+		fbId = 85002,
+		bossId = 85029,
+		passRewards = {{type=1,id=310016,count=5},{type=1,id=310017,count=2},{type=1,id=310405,count=7},{type=1,id=360006,count=1},},
+		helpRewards = {{type=1,id=310016,count=1},{type=1,id=310006,count=1}},
+	},
+	[3]={
+		idx = 3,
+		fbId = 85003,
+		bossId = 85039,
+		passRewards = {{type=1,id=310016,count=10},{type=1,id=310017,count=3},{type=1,id=310405,count=8},{type=1,id=360005,count=1},},
+		helpRewards = {{type=1,id=310016,count=1},{type=1,id=310006,count=1}},
+	},
+	[4]={
+		idx = 4,
+		fbId = 85004,
+		bossId = 85049,
+		passRewards = {{type=1,id=310016,count=10},{type=1,id=310017,count=3},{type=1,id=310405,count=9},{type=1,id=360010,count=1},},
+		helpRewards = {{type=1,id=310016,count=1},{type=1,id=310006,count=1}},
+	},
+	[5]={
+		idx = 5,
+		fbId = 85005,
+		bossId = 85059,
+		passRewards = {{type=1,id=310016,count=15},{type=1,id=310017,count=4},{type=1,id=310405,count=10},{type=1,id=360009,count=1},},
+		helpRewards = {{type=1,id=310016,count=1},{type=1,id=310006,count=1}},
+	},
+	[6]={
+		idx = 6,
+		fbId = 85006,
+		bossId = 85069,
+		passRewards = {{type=1,id=310016,count=15},{type=1,id=310017,count=4},{type=1,id=310405,count=11},{type=1,id=360008,count=1},},
+		helpRewards = {{type=1,id=310016,count=1},{type=1,id=310006,count=1}},
+	},
+	[7]={
+		idx = 7,
+		fbId = 85007,
+		bossId = 85079,
+		passRewards = {{type=1,id=310016,count=20},{type=1,id=310017,count=5},{type=1,id=310405,count=12},{type=1,id=360010,count=1},},
+		helpRewards = {{type=1,id=310016,count=1},{type=1,id=310006,count=1}},
+	},
+	[8]={
+		idx = 8,
+		fbId = 85008,
+		bossId = 85089,
+		passRewards = {{type=1,id=310016,count=20},{type=1,id=310017,count=5},{type=1,id=310405,count=13},{type=1,id=360009,count=1},},
+		helpRewards = {{type=1,id=310016,count=1},{type=1,id=310006,count=1}},
+	},
+	[9]={
+		idx = 9,
+		fbId = 85009,
+		bossId = 85099,
+		passRewards = {{type=1,id=310016,count=25},{type=1,id=310017,count=6},{type=1,id=310405,count=14},{type=1,id=360008,count=1},},
+		helpRewards = {{type=1,id=310016,count=1},{type=1,id=310006,count=1}},
+	},
+	[10]={
+		idx = 10,
+		fbId = 85010,
+		bossId = 85109,
+		passRewards = {{type=1,id=310016,count=25},{type=1,id=310017,count=6},{type=1,id=310405,count=15},{type=1,id=360013,count=1},},
+		helpRewards = {{type=1,id=310016,count=1},{type=1,id=310006,count=1}},
+	},
+}

@@ -1,0 +1,45 @@
+-- from activity.xlsx 8消费排行 
+ActivityType8Config={
+	[256]={
+	[1]={
+		id = 256,
+		index = 1,
+		subType = 1,
+		rank = {1,1},
+		consume = 20000,
+		rewards = {{type=1,id=380026,count=1,eff=3},{type=1,id=395051,count=1},{type=1,id=310204,count=1}},
+		head = Lang.ActivityType8Config_head_1,
+		text = Lang.ActivityType8Config_text_1,
+	},
+	[2]={
+		id = 256,
+		index = 2,
+		subType = 1,
+		rank = {2,3},
+		consume = 12000,
+		rewards = {{type=1,id=395041,count=1},{type=1,id=310205,count=1}},
+		head = Lang.ActivityType8Config_head_2,
+		text = Lang.ActivityType8Config_text_2,
+	},
+	[3]={
+		id = 256,
+		index = 3,
+		subType = 1,
+		rank = {4,5},
+		consume = 5000,
+		rewards = {{type=1,id=395031,count=1},{type=1,id=310206,count=1}},
+		head = Lang.ActivityType8Config_head_3,
+		text = Lang.ActivityType8Config_text_3,
+	},
+	[4]={
+		id = 256,
+		index = 4,
+		subType = 1,
+		rank = {6,20},
+		consume = 0,
+		rewards = {{type=1,id=310207,count=1}},
+		head = Lang.ActivityType8Config_head_4,
+		text = Lang.ActivityType8Config_text_4,
+	},
+	},
+}

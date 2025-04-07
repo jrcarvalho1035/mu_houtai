@@ -1,0 +1,83 @@
+-- from shenyu.xlsx 装备转换表 
+WingEquipChangeConfig={
+	[1]={
+		level = 1,
+		needyuanbao = 1000,
+	},
+	[2]={
+		level = 2,
+		needyuanbao = 2000,
+	},
+	[3]={
+		level = 3,
+		needyuanbao = 3000,
+	},
+	[4]={
+		level = 4,
+		needyuanbao = 4000,
+	},
+	[5]={
+		level = 5,
+		needyuanbao = 5000,
+	},
+	[6]={
+		level = 6,
+		needyuanbao = 6000,
+	},
+	[7]={
+		level = 7,
+		needyuanbao = 7000,
+	},
+	[8]={
+		level = 8,
+		needyuanbao = 8000,
+	},
+	[9]={
+		level = 9,
+		needyuanbao = 9000,
+	},
+	[10]={
+		level = 10,
+		needyuanbao = 10000,
+	},
+	[11]={
+		level = 11,
+		needyuanbao = 12000,
+	},
+	[12]={
+		level = 12,
+		needyuanbao = 14000,
+	},
+	[13]={
+		level = 13,
+		needyuanbao = 16000,
+	},
+	[14]={
+		level = 14,
+		needyuanbao = 18000,
+	},
+	[15]={
+		level = 15,
+		needyuanbao = 20000,
+	},
+	[16]={
+		level = 16,
+		needyuanbao = 22000,
+	},
+	[17]={
+		level = 17,
+		needyuanbao = 24000,
+	},
+	[18]={
+		level = 18,
+		needyuanbao = 26000,
+	},
+	[19]={
+		level = 19,
+		needyuanbao = 28000,
+	},
+	[20]={
+		level = 20,
+		needyuanbao = 30000,
+	},
+}

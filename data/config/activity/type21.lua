@@ -1,0 +1,82 @@
+-- from activity.xlsx 21全民首杀 
+ActivityType21Config={
+	[211]={
+	[3]={
+		id = 211,
+		index = 3,
+		subType = 1,
+		allreward = {{type=1,id=310001,count=1},{type=0,id=8,count=5},{type=0,id=1,count=100000},},
+		firstreward = {{type=1,id=310600,count=2},{type=1,id=310005,count=5},{type=0,id=1,count=200000},},
+	},
+	[4]={
+		id = 211,
+		index = 4,
+		subType = 1,
+		allreward = {{type=1,id=310001,count=2},{type=0,id=8,count=5},{type=0,id=1,count=150000},},
+		firstreward = {{type=1,id=310600,count=3},{type=1,id=310005,count=5},{type=0,id=1,count=300000},},
+	},
+	[5]={
+		id = 211,
+		index = 5,
+		subType = 1,
+		allreward = {{type=1,id=310001,count=3},{type=0,id=8,count=10},{type=0,id=1,count=200000},},
+		firstreward = {{type=1,id=310600,count=4},{type=1,id=310005,count=10},{type=0,id=1,count=400000},},
+	},
+	[6]={
+		id = 211,
+		index = 6,
+		subType = 1,
+		allreward = {{type=1,id=310001,count=4},{type=0,id=8,count=15},{type=0,id=1,count=250000},},
+		firstreward = {{type=1,id=310600,count=5},{type=1,id=310005,count=15},{type=0,id=1,count=500000},},
+	},
+	[7]={
+		id = 211,
+		index = 7,
+		subType = 1,
+		allreward = {{type=1,id=310001,count=5},{type=0,id=8,count=20},{type=0,id=1,count=300000},},
+		firstreward = {{type=1,id=310600,count=6},{type=1,id=310005,count=20},{type=0,id=1,count=600000},},
+	},
+	[8]={
+		id = 211,
+		index = 8,
+		subType = 1,
+		allreward = {{type=1,id=310001,count=6},{type=0,id=8,count=25},{type=0,id=1,count=350000},},
+		firstreward = {{type=1,id=310600,count=8},{type=1,id=310005,count=25},{type=0,id=1,count=700000},},
+	},
+	[9]={
+		id = 211,
+		index = 9,
+		subType = 1,
+		allreward = {{type=1,id=310001,count=7},{type=0,id=8,count=30},{type=0,id=1,count=400000},},
+		firstreward = {{type=1,id=310600,count=10},{type=1,id=310005,count=30},{type=0,id=1,count=800000},},
+	},
+	[10]={
+		id = 211,
+		index = 10,
+		subType = 1,
+		allreward = {{type=1,id=310001,count=8},{type=0,id=8,count=35},{type=0,id=1,count=450000},},
+		firstreward = {{type=1,id=310600,count=20},{type=1,id=310005,count=35},{type=0,id=1,count=900000},},
+	},
+	[11]={
+		id = 211,
+		index = 11,
+		subType = 1,
+		allreward = {{type=1,id=310001,count=9},{type=0,id=8,count=40},{type=0,id=1,count=500000},},
+		firstreward = {{type=1,id=310600,count=35},{type=1,id=310005,count=40},{type=0,id=1,count=1000000},},
+	},
+	[12]={
+		id = 211,
+		index = 12,
+		subType = 1,
+		allreward = {{type=1,id=310001,count=10},{type=0,id=8,count=45},{type=0,id=1,count=550000},},
+		firstreward = {{type=1,id=310600,count=50},{type=1,id=310005,count=45},{type=0,id=1,count=1100000},},
+	},
+	[13]={
+		id = 211,
+		index = 13,
+		subType = 1,
+		allreward = {{type=1,id=310001,count=11},{type=0,id=8,count=50},{type=0,id=1,count=600000},},
+		firstreward = {{type=1,id=310600,count=80},{type=1,id=310005,count=50},{type=0,id=1,count=1200000},},
+	},
+	},
+}
